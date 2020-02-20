@@ -1,0 +1,31 @@
+{
+  "name": "primer-markdown",
+  "description": "GitHub stylesheets for rendering markdown.",
+  "filename": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/primer/primer/tree/master/modules/primer-markdown"
+  },
+  "author": "GitHub, Inc.",
+  "keywords": [
+    "github",
+    "markdown",
+    "css",
+    "scss",
+    "primer",
+    "style",
+    "stylesheets",
+    "md"
+  ],
+  "npmName": "primer-markdown",
+  "npmFileMap": [
+    {
+      "basePath": "build",
+      "files": [
+        "**/*"
+      ]
+    }
+  ],
+  "version": "3.7.3"
+}
