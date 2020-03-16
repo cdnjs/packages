@@ -1,0 +1,31 @@
+{
+  "name": "tsparticles",
+  "description": "Porting of Vincent Garreau's particles.js, converted in TypeScript.",
+  "homepage": "https://github.com/matteobruni/tsparticles",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteobruni/tsparticles.git"
+  },
+  "keywords": [
+    "particles",
+    "particle",
+    "canvas",
+    "particles-js",
+    "particles.js",
+    "typescript",
+    "javascript",
+    "animation"
+  ],
+  "npmName": "tsparticles",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ],
+  "author": "Matteo Bruni",
+  "license": "MIT",
+  "filename": "tsparticles.min.js"
+}
