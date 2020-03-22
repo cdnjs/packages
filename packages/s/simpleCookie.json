@@ -1,0 +1,25 @@
+{
+  "name": "simpleCookie",
+  "description": "A small javascript utility to make handling cookies simple",
+  "filename": "simpleCookie.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tevko/simpleCookie.git"
+  },
+  "keywords": [
+    "javascript",
+    "cookie"
+  ],
+  "author": "Tim Evko",
+  "license": "ISC",
+  "homepage": "https://github.com/tevko/simpleCookie",
+  "npmName": "simplecookie",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "simpleCookie.js"
+      ]
+    }
+  ]
+}
