@@ -1,0 +1,31 @@
+{
+  "name": "jquery-ajax-unobtrusive",
+  "description": "Add-on to jQuery Ajax to enable unobtrusive options in data-* attributes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aspnet/jquery-ajax-unobtrusive"
+  },
+  "keywords": [
+    "unobtrusive",
+    "ajax",
+    "mvc",
+    "asp.net",
+    "jquery"
+  ],
+  "author": "Microsoft",
+  "license": "https://aka.ms/jquery-ajax-license",
+  "bugs": {
+    "url": "https://github.com/aspnet/jquery-ajax-unobtrusive/issues"
+  },
+  "homepage": "https://github.com/aspnet/jquery-ajax-unobtrusive",
+  "filename": "jquery.unobtrusive-ajax.min.js",
+  "npmName": "jquery-ajax-unobtrusive",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ]
+}
