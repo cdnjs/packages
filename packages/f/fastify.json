@@ -1,0 +1,33 @@
+{
+  "name": "fastify",
+  "description": "Fast and low overhead web framework, for Node.js",
+  "author": {
+    "name": "Matteo Collina",
+    "url": "https://github.com/mcollina"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fastify/fastify.git"
+  },
+  "homepage": "https://www.fastify.io/",
+  "npmName": "fastify",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "fastify.*",
+        "lib/**/*"
+      ]
+    }
+  ],
+  "filename": "fastify.js",
+  "keywords": [
+    "web",
+    "framework",
+    "json",
+    "schema",
+    "open",
+    "api"
+  ]
+}
