@@ -1,0 +1,28 @@
+{
+  "name": "tippy.js",
+  "version": "6.1.0",
+  "filename": "tippy.min.js",
+  "description": "Vanilla JS Tooltip Library",
+  "author": "atomiks",
+  "license": "MIT",
+  "homepage": "https://atomiks.github.io/tippyjs/",
+  "keywords": [
+    "tooltip",
+    "js",
+    "lightweight",
+    "purejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atomiks/tippyjs.git"
+  },
+  "npmName": "tippy.js",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "!(test){,**/*}"
+      ]
+    }
+  ]
+}
