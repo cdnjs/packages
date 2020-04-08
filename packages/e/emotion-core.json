@@ -1,0 +1,29 @@
+{
+  "name": "emotion-core",
+  "description": "Simple styling in React.",
+  "filename": "core.umd.min.js",
+  "homepage": "https://github.com/emotion-js/emotion/tree/master/packages/core",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emotion-js/emotion.git"
+  },
+  "author": "mitchellhamilton <mitchell@mitchellhamilton.me>",
+  "keywords": [
+    "css-in-js",
+    "babel-plugin",
+    "react",
+    "reactjs",
+    "css",
+    "emotion"
+  ],
+  "license": "MIT",
+  "npmName": "@emotion/core",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ]
+}
