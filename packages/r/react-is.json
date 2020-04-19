@@ -1,0 +1,26 @@
+{
+  "name": "react-is",
+  "filename": "umd/react-is.production.min.js",
+  "description": "Brand checking of React Elements.",
+  "homepage": "https://reactjs.org/",
+  "keywords": [
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/react.git",
+    "directory": "packages/react-is"
+  },
+  "npmName": "react-is",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "+(cjs|umd)/**/*"
+      ]
+    }
+  ],
+  "namespace": "React",
+  "license": "MIT",
+  "author": "Facebook"
+}
