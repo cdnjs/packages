@@ -1,0 +1,75 @@
+{
+  "name": "bootstrap-vue",
+  "filename": "bootstrap-vue.min.js",
+  "description": "Quickly integrate Bootstrap 4 components with Vue.js",
+  "license": "MIT",
+  "homepage": "https://bootstrap-vue.js.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootstrap-vue/bootstrap-vue.git"
+  },
+  "author": "pi0 <pooya@pi0.ir>",
+  "keywords": [
+    "Bootstrap",
+    "Bootstrap 4",
+    "Bootstrap for Vue",
+    "SSR",
+    "Web",
+    "Components",
+    "Directives",
+    "Polymer",
+    "Vue",
+    "VueJS",
+    "Vue2",
+    "WebComponents",
+    "jquery",
+    "Popper.js",
+    "vue-strap",
+    "vueify",
+    "vuestrap",
+    "CSS",
+    "Flexbox",
+    "Alert",
+    "Breadcrumb",
+    "Button",
+    "Checkbox",
+    "Radio",
+    "Card",
+    "Carousel",
+    "Slider",
+    "Collapse",
+    "Dropdown",
+    "Select",
+    "Option",
+    "Input",
+    "Jumbotron",
+    "List",
+    "Nav",
+    "Modal",
+    "Upload",
+    "Dropzone",
+    "Navbar",
+    "Pagination",
+    "Popover",
+    "Progress",
+    "Tab",
+    "Table",
+    "Tag",
+    "Tooltip"
+  ],
+  "npmName": "bootstrap-vue",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    },
+    {
+      "basePath": "build",
+      "files": [
+        "**/*"
+      ]
+    }
+  ]
+}
