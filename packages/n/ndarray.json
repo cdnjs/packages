@@ -1,0 +1,41 @@
+{
+  "name": "ndarray",
+  "description": "Multidimensional Arrays",
+  "keywords": [
+    "ndarray",
+    "array",
+    "multi",
+    "multidimensional",
+    "dimension",
+    "higher",
+    "image",
+    "volume",
+    "webgl",
+    "tensor",
+    "matrix",
+    "linear",
+    "algebra",
+    "science",
+    "numerical",
+    "computing",
+    "stride",
+    "shape"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "homepage": "https://github.com/mikolalysenko/ndarray#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/ndarray.git"
+  },
+  "npmName": "ndarray",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "ndarray.js"
+      ]
+    }
+  ],
+  "filename": "ndarray.js"
+}
