@@ -1,0 +1,22 @@
+{
+  "name": "react-dnd",
+  "description": "Drag and Drop for React",
+  "keywords": [],
+  "author": "Dan Abramov <dan.abramov@me.com> (http://github.com/gaearon)",
+  "license": "MIT",
+  "homepage": "https://github.com/react-dnd/react-dnd#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-dnd/react-dnd.git"
+  },
+  "npmName": "react-dnd",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ],
+  "filename": "umd/ReactDnD.min.js"
+}
