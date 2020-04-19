@@ -1,0 +1,26 @@
+{
+  "name": "g2plot",
+  "filename": "g2plot.js",
+  "description": "An interactive and responsive charting library",
+  "homepage": "https://g2plot.antv.vision",
+  "author": "https://github.com/orgs/antvis/people",
+  "keywords": [
+    "chart",
+    "plot",
+    "antv"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antvis/g2plot"
+  },
+  "license": "MIT",
+  "npmName": "@antv/g2plot",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ]
+}
