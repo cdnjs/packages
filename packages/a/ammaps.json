@@ -1,0 +1,40 @@
+{
+  "name": "ammaps",
+  "filename": "ammap.js",
+  "version": "3.21.9",
+  "description": "JavaScript Maps V3, a ready-to-use library, providing instant drop-in solution for adding accessible, interactive mapping functionality to your web sites and applications. Features hundreds of hand-crafted quality maps, vast customization options, and flexible functionality.",
+  "keywords": [
+    "amcharts",
+    "javascript",
+    "maps"
+  ],
+  "author": "amCharts <contact@amcharts.com>",
+  "homepage": "https://www.amcharts.com/",
+  "licenses": [
+    {
+      "type": "Custom",
+      "url": "https://github.com/amcharts/ammap3/blob/master/licence.txt"
+    },
+    {
+      "type": "Commercial License",
+      "url": "https://github.com/amcharts/ammap3#commercial-license"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amcharts/ammap3.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/amcharts/ammap3.git",
+    "fileMap": [
+      {
+        "basePath": "ammap",
+        "files": [
+          "!(plugins)/**/!(canvg|jspdf)*",
+          "ammap*"
+        ]
+      }
+    ]
+  }
+}
