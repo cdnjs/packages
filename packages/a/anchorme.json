@@ -1,0 +1,33 @@
+{
+  "name": "anchorme",
+  "description": "A library to convert URLs to a clickable HTML anchor elements",
+  "keywords": [
+    "text",
+    "to",
+    "anchor",
+    "tags"
+  ],
+  "author": "Alex Corvi <alex@arrayy.com>",
+  "license": "MIT",
+  "homepage": "http://alexcorvi.github.io/anchorme.js/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcorvi/anchorme.js.git"
+  },
+  "npmName": "anchorme",
+  "npmFileMap": [
+    {
+      "basePath": "dist/browser",
+      "files": [
+        "*.js"
+      ]
+    },
+    {
+      "basePath": "dist",
+      "files": [
+        "node/*.@(ts|js)"
+      ]
+    }
+  ],
+  "filename": "anchorme.min.js"
+}
