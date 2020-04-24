@@ -1,0 +1,33 @@
+{
+  "name": "dplayer",
+  "filename": "DPlayer.min.js",
+  "version": "1.25.1",
+  "description": "Wow, such a lovely HTML5 danmaku video player",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoePlayer/DPlayer"
+  },
+  "keywords": [
+    "player",
+    "danmaku",
+    "video",
+    "html5",
+    "dplayer",
+    "flv",
+    "his",
+    "dash",
+    "webtorrent"
+  ],
+  "author": "DIYgod",
+  "homepage": "https://dplayer.js.org/#/",
+  "license": "MIT",
+  "npmName": "dplayer",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ]
+}
