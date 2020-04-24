@@ -1,0 +1,28 @@
+{
+  "name": "chartjs-plugin-zoom",
+  "description": "Simple HTML5 charts using the canvas element.",
+  "filename": "chartjs-plugin-zoom.min.js",
+  "version": "0.6.6",
+  "author": "Evert Timberg <evert.timberg@gmail.com>",
+  "keywords": [
+    "chartjs",
+    "plugin",
+    "zoom",
+    "pan",
+    "mouse"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chartjs/chartjs-plugin-zoom.git"
+  },
+  "npmName": "chartjs-plugin-zoom",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ]
+}
