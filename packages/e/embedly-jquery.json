@@ -1,0 +1,33 @@
+{
+  "name": "embedly-jquery",
+  "version": "3.1.2",
+  "filename": "jquery.embedly.min.js",
+  "description": "This library allows you to easily embed objects on any page.",
+  "keywords": [
+    "oEmbed",
+    "jQuery",
+    "embed"
+  ],
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/embedly/embedly-jquery"
+  },
+  "authors": [
+    "Art Gibson <art@embed.ly>",
+    "Sean Creeley <sean@embed.ly>"
+  ],
+  "homepage": "https://embedly.github.io/embedly-jquery/",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/embedly/embedly-jquery.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery.embedly*"
+        ]
+      }
+    ]
+  }
+}
