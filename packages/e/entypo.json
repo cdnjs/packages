@@ -1,0 +1,21 @@
+{
+  "name": "entypo",
+  "filename": "entypo.woff",
+  "version": "2.0",
+  "description": "Entypo is a set of 250+ carefully crafted pictograms",
+  "keywords": [
+    "entypo",
+    "icon",
+    "font",
+    "social"
+  ],
+  "homepage": "http://entypo.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielbruce/entypo.git"
+  },
+  "licenses": [
+    "CC-BY-SA-3.0",
+    "OFL-1.1"
+  ]
+}
