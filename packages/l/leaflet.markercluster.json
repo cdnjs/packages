@@ -1,0 +1,28 @@
+{
+  "name": "leaflet.markercluster",
+  "filename": "leaflet.markercluster.js",
+  "version": "1.4.1",
+  "description": "Provides Beautiful Animated Marker Clustering functionality for Leaflet",
+  "keywords": [
+    "maps",
+    "mobile",
+    "gis",
+    "cluster"
+  ],
+  "npmName": "leaflet.markercluster",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/!(*.txt)"
+      ]
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Leaflet/Leaflet.markercluster.git"
+  },
+  "homepage": "http://leafletjs.com",
+  "license": "MIT",
+  "author": "Dave Leaver <danzel@localhost.geek.nz>"
+}
