@@ -1,0 +1,34 @@
+{
+  "name": "izitoast",
+  "version": "1.4.0",
+  "description": "Elegant, responsive, flexible and lightweight notification plugin with no dependencies.",
+  "filename": "js/iziToast.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelodolza/iziToast.git"
+  },
+  "keywords": [
+    "izitoast",
+    "notification",
+    "toaster",
+    "alert",
+    "confirm",
+    "js"
+  ],
+  "author": {
+    "name": "Marcelo Dolce",
+    "email": "marcelodolza@gmail.com",
+    "homepage": "http://marcelodolza.com/"
+  },
+  "license": "Apache-2.0",
+  "homepage": "http://izitoast.marcelodolza.com/",
+  "npmName": "izitoast",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/!(*.ts)"
+      ]
+    }
+  ]
+}
