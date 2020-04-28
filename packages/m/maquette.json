@@ -1,0 +1,28 @@
+{
+  "name": "maquette",
+  "description": "Minimalistic Virtual DOM implementation with support for animated transitions.",
+  "homepage": "http://johan-gorter.github.io/maquette/",
+  "keywords": [
+    "virtual",
+    "dom",
+    "animation",
+    "transitions"
+  ],
+  "version": "3.3.6",
+  "author": "Johan Gorter <johan@johangorter.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AFASSoftware/maquette"
+  },
+  "filename": "maquette.umd.min.js",
+  "npmName": "maquette",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.umd.*"
+      ]
+    }
+  ],
+  "license": "MIT"
+}
