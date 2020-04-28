@@ -1,0 +1,27 @@
+{
+  "npmName": "moment-range",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "!(*.flow|*.ts)"
+      ]
+    }
+  ],
+  "name": "moment-range",
+  "version": "4.0.2",
+  "description": "Fancy date ranges for Moment.js",
+  "filename": "moment-range.js",
+  "keywords": [
+    "date",
+    "moment",
+    "time",
+    "range"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rotaready/moment-range.git"
+  },
+  "license": "UNLICENSE",
+  "author": "Gianni Chiappetta <gianni@runlevel6.org> (http://butt.zone)"
+}
