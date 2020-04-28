@@ -1,0 +1,38 @@
+{
+  "name": "mathjax",
+  "filename": "es5/startup.js",
+  "version": "3.0.5",
+  "description": "MathJax is an open source JavaScript display engine for mathematics that works in all browsers.",
+  "homepage": "http://www.mathjax.org/",
+  "keywords": [
+    "Math",
+    "MathML",
+    "LaTeX",
+    "TeX"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathjax/MathJax"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/mathjax/MathJax.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "es5/**/!(node-main.js)",
+          "config/**/*",
+          "extensions/**/*",
+          "localization/**/*",
+          "images/**/*",
+          "fonts/**/!(*.txt)",
+          "jax/**/*",
+          "MathJax.js",
+          "latest.js"
+        ]
+      }
+    ]
+  },
+  "license": "Apache-2.0"
+}
