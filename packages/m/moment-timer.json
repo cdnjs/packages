@@ -1,0 +1,29 @@
+{
+  "name": "moment-timer",
+  "description": "A moment.js plugin for timers setInterval & setTimeout.",
+  "keywords": [
+    "setInterval",
+    "interval",
+    "setTimeout",
+    "timeout",
+    "timer",
+    "moment"
+  ],
+  "author": "SeverinDK",
+  "license": "MIT",
+  "homepage": "https://github.com/SeverinDK/moment-timer#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeverinDK/moment-timer.git"
+  },
+  "npmName": "moment-timer",
+  "npmFileMap": [
+    {
+      "basePath": "lib",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "moment-timer.js"
+}
