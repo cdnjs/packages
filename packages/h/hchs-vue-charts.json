@@ -1,0 +1,29 @@
+{
+  "name": "hchs-vue-charts",
+  "description": "Base on Vue2.0 wrapper for ChartJs.",
+  "keywords": [
+    "vue",
+    "vuejs",
+    "chart",
+    "chart.js",
+    "chartjs",
+    "laravel"
+  ],
+  "author": "hchstera",
+  "license": "MIT",
+  "homepage": "https://github.com/hchstera/vue-charts#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hchstera/vue-charts.git"
+  },
+  "npmName": "hchs-vue-charts",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "vue-charts.min.js"
+}
