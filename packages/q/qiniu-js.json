@@ -1,0 +1,27 @@
+{
+  "name": "qiniu-js",
+  "description": "Javascript SDK for Qiniu Resource (Cloud) Storage AP",
+  "keywords": [
+    "qiniu",
+    "js",
+    "upload",
+    "sdk"
+  ],
+  "author": "sdk@qiniu.com",
+  "license": "MIT",
+  "homepage": "https://github.com/qiniu/js-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/qiniu/js-sdk.git"
+  },
+  "npmName": "qiniu-js",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "qiniu.min.js"
+}
