@@ -1,0 +1,25 @@
+{
+  "name": "preact-router",
+  "description": "Connect your components up to that address bar.",
+  "keywords": [
+    "preact",
+    "router"
+  ],
+  "author": "Jason Miller <jason@developit.ca>",
+  "license": "MIT",
+  "homepage": "https://github.com/developit/preact-router",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developit/preact-router.git"
+  },
+  "npmName": "preact-router",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "preact-router.js"
+}
