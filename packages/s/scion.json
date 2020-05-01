@@ -1,0 +1,27 @@
+{
+  "name": "scion",
+  "version": "5.0.4",
+  "description": "An implementation of SCXML in JavaScript.",
+  "keywords": [
+    "scxml",
+    "statecharts",
+    "w3c",
+    "javascript"
+  ],
+  "author": "Jacob Beard <jake@jacobeanrnd.com>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/scion-scxml/scion.git"
+  },
+  "filename": "scxml.min.js",
+  "npmName": "scion",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ]
+}
