@@ -1,0 +1,29 @@
+{
+  "name": "react-timeago",
+  "description": "A simple Time-Ago component for ReactJs",
+  "keywords": [
+    "React",
+    "ReactJS",
+    "Time",
+    "Ago",
+    "TimeAgo",
+    "ender"
+  ],
+  "author": "Naman Goel",
+  "license": "MIT",
+  "homepage": "https://github.com/nmn/react-timeago",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naman34/react-timeago.git"
+  },
+  "npmName": "react-timeago",
+  "npmFileMap": [
+    {
+      "basePath": "lib",
+      "files": [
+        "**/*.js"
+      ]
+    }
+  ],
+  "filename": "index.js"
+}
