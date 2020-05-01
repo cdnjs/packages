@@ -1,0 +1,35 @@
+{
+  "author": "Washington Botelho",
+  "description": "jQuery Raty - A Star Rating Plugin",
+  "keywords": [
+    "classificacao",
+    "classificar",
+    "javascript",
+    "jquery",
+    "library",
+    "plugin",
+    "rating",
+    "raty",
+    "star",
+    "staring",
+    "votar",
+    "voto"
+  ],
+  "license": "MIT",
+  "filename": "jquery.raty.min.js",
+  "name": "raty",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wbotelhos/raty"
+  },
+  "version": "2.9.0",
+  "npmName": "raty-js",
+  "npmFileMap": [
+    {
+      "basePath": "lib",
+      "files": [
+        "**/*"
+      ]
+    }
+  ]
+}
