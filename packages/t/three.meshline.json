@@ -1,0 +1,27 @@
+{
+  "name": "three.meshline",
+  "description": "Mesh replacement for THREE.Line",
+  "keywords": [
+    "lines",
+    "threejs",
+    "mesh",
+    "line"
+  ],
+  "author": "Jaume Sanchez <the.spite@gmail.com> (https://www.clicktorelease.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/spite/THREE.MeshLine#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spite/THREE.MeshLine.git"
+  },
+  "npmName": "three.meshline",
+  "npmFileMap": [
+    {
+      "basePath": "src",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "THREE.MeshLine.js"
+}
