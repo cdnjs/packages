@@ -1,0 +1,33 @@
+{
+  "name": "PreloadJS",
+  "filename": "preloadjs.min.js",
+  "version": "1.0.1",
+  "description": "PreloadJS makes it easy to preload your assets: images, sounds, JavaScript, fonts, JSON, and text data",
+  "keywords": [
+    "createjs",
+    "preloadjs",
+    "gskinner",
+    "preload",
+    "preloading",
+    "progress",
+    "XHR",
+    "javascript",
+    "html5"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreateJS/PreloadJS.git"
+  },
+  "license": "MIT",
+  "author": "gskinner.com, inc.",
+  "homepage": "https://createjs.com/preloadjs/",
+  "npmName": "preloadjs",
+  "npmFileMap": [
+    {
+      "basePath": "lib",
+      "files": [
+        "**/!(*.md)"
+      ]
+    }
+  ]
+}
