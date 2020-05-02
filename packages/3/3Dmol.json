@@ -1,0 +1,26 @@
+{
+  "name": "3Dmol",
+  "filename": "3Dmol-min.js",
+  "version": "1.5.1",
+  "description": "Object oriented Javascript molecular visualization library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3dmol/3Dmol.js.git"
+  },
+  "keywords": [
+    "3Dmol.js",
+    "webGL"
+  ],
+  "author": "David Koes and contributors",
+  "homepage": "http://3dmol.csb.pitt.edu",
+  "npmName": "3dmol",
+  "npmFileMap": [
+    {
+      "basePath": "build",
+      "files": [
+        "**/*"
+      ]
+    }
+  ],
+  "license": "BSD-3-Clause"
+}
