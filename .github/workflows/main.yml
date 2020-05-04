@@ -1,0 +1,23 @@
+name: Check packages
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: download checker
+        uses: wei/wget@v1
+        with:
+          args: https://github.com/cdnjs/tools/releases/latest/download/checker
+
+      - name: find modified package
+        id: package
+        run: |
+          path=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep package.json)
+          echo "##[set-output name=package;]$path"
+
+      - name: lint package
+        run: checker lint ${{ steps.package.outputs.path }}
