@@ -1,0 +1,33 @@
+{
+  "name": "luxon",
+  "description": "Immutable date wrapper",
+  "keywords": [
+    "date",
+    "immutable"
+  ],
+  "author": {
+    "name": "Isaac Cambron"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/moment/luxon#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moment/luxon.git"
+  },
+  "npmName": "luxon",
+  "npmFileMap": [
+    {
+      "basePath": "build/global",
+      "files": [
+        "*.@(js|map)"
+      ]
+    },
+    {
+      "basePath": "build",
+      "files": [
+        "cjs-browser/*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "luxon.min.js"
+}
