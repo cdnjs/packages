@@ -1,6 +1,6 @@
 name: Check packages
 
-on: [push, pull_request]
+on: [pull_request]
 
 jobs:
   build:
@@ -13,11 +13,61 @@ jobs:
         with:
           args: https://github.com/cdnjs/tools/releases/latest/download/checker
 
-      - name: find modified package
-        id: package
+      - run: sudo chmod +x ./checker
+
+      - name: find PR
+        id: pr
         run: |
-          path=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep package.json)
-          echo "##[set-output name=path;]$path"
+          number=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")
+          echo "##[set-output name=number;]$number"
+
+      - name: find modified packages
+        id: diff
+        uses: dorner/file-changes-action@v1.2.0
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          plaintext: true
+          prNumber: ${{ steps.pr.outputs.number }}
 
       - name: lint package
-        run: checker lint ${{ steps.package.outputs.path }}
+        id: lint
+        run: |
+          bash ./scripts/lint.sh \
+            ${{ steps.diff.outputs.files_modified }} \
+            ${{ steps.diff.outputs.files_added }} 2> ./stderr
+          output=$(cat ./stderr | bash ./scripts/escape.sh)
+          if [ "$output" != "" ]; then
+            output="Lint failed:%0A$output"
+            echo "##[set-output name=output;]$output"
+            exit 1
+          fi
+
+      # - name: compute files
+      #   id: files
+      #   run: |
+      #     touch ./out
+
+      #     for f in ${{ steps.diff.outputs.files_modified }} ${{ steps.diff.outputs.files_added }}
+      #     do
+      #       if [ "${f##*.}" = "json" ]; then
+      #         ./checker show-files $f |& tee -a ./out
+      #       fi
+      #     done
+
+      #     echo "##[set-output name=output;]$(cat ./out)"
+
+      - name: Add comment
+        uses: peter-evans/create-or-update-comment@v1
+        if: ${{ !success() }}
+        with:
+          issue-number: ${{ steps.pr.outputs.number }}
+          token: ${{ secrets.ROBOTCDNJS_GITHUB_TOKEN }}
+          body: |
+            ${{ steps.lint.outputs.output }}
+
+      - name: Approve
+        uses: juliangruber/approve-pull-request-action@v1
+        if: ${{ success() }}
+        with:
+          github-token: ${{ secrets.ROBOTCDNJS_GITHUB_TOKEN }}
+          number: ${{ steps.pr.outputs.number }}
