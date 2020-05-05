@@ -1,0 +1,48 @@
+{
+  "name": "brain.js",
+  "description": "Neural networks in JavaScript",
+  "keywords": [
+    "ai",
+    "artificial-intelligence",
+    "brain",
+    "brainjs",
+    "brain.js",
+    "feed forward",
+    "neural network",
+    "classifier",
+    "neural",
+    "network",
+    "neural-networks",
+    "machine-learning",
+    "synapse",
+    "recurrent",
+    "long short term memory",
+    "gated recurrent unit",
+    "time series",
+    "time step",
+    "prediction",
+    "rnn",
+    "lstm",
+    "gru"
+  ],
+  "author": {
+    "name": "Heather Arthur",
+    "email": "fayearthur@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brainjs/brain.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brainjs/brain.js.git"
+  },
+  "npmName": "brain.js",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "brain-browser.min.js"
+}
