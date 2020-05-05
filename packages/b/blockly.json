@@ -1,0 +1,28 @@
+{
+  "name": "blockly",
+  "description": "Blockly is a library for building visual programming editors.",
+  "keywords": [
+    "blockly"
+  ],
+  "author": {
+    "name": "Neil Fraser"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://developers.google.com/blockly/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/google/blockly.git"
+  },
+  "npmName": "blockly",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "*.@(js|ts)",
+        "media/*",
+        "msg/*"
+      ]
+    }
+  ],
+  "filename": "blockly.min.js"
+}
