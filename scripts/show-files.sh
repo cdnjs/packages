@@ -4,6 +4,6 @@ files="$@"
 for f in $files
 do
   if [ "${f##*.}" = "json" ]; then
-    ./checker lint $f
+    ./checker show-files $f
   fi
 done

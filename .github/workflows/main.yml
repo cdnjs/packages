@@ -32,38 +32,65 @@ jobs:
       - name: lint package
         id: lint
         run: |
-          bash ./scripts/lint.sh \
+          set +e
+          $(bash ./scripts/lint.sh \
             ${{ steps.diff.outputs.files_modified }} \
-            ${{ steps.diff.outputs.files_added }} 2> ./stderr
-          output=$(cat ./stderr | bash ./scripts/escape.sh)
-          if [ "$output" != "" ]; then
-            output="Lint failed:%0A$output"
-            echo "##[set-output name=output;]$output"
-            exit 1
-          fi
+            ${{ steps.diff.outputs.files_added }} &> ./out)
+          exit=$?
 
-      # - name: compute files
-      #   id: files
-      #   run: |
-      #     touch ./out
+          out=$(cat ./out | bash ./scripts/escape.sh)
+          out="CI failed:%0A$out"
+          echo "##[set-output name=out;]$out"
+          echo $out
 
-      #     for f in ${{ steps.diff.outputs.files_modified }} ${{ steps.diff.outputs.files_added }}
-      #     do
-      #       if [ "${f##*.}" = "json" ]; then
-      #         ./checker show-files $f |& tee -a ./out
-      #       fi
-      #     done
+          echo "exit $exit"
+          exit $exit
 
-      #     echo "##[set-output name=output;]$(cat ./out)"
+      # install glob
+      - uses: actions/checkout@v2
+        with:
+          repository: cdnjs/glob
+          path: ./glob
+      - run: cd ${{ github.workspace }}/glob && npm install
 
-      - name: Add comment
+      - name: compute files
+        id: files
+        env:
+          BOT_BASE_PATH: ${{ github.workspace }}
+        run: |
+          set +e
+          $(bash ./scripts/show-files.sh \
+            ${{ steps.diff.outputs.files_modified }} \
+            ${{ steps.diff.outputs.files_added }} &> ./out)
+          exit=$?
+
+          out=$(cat ./out | bash ./scripts/escape.sh)
+          echo "##[set-output name=out;]$out"
+          echo $out
+
+          echo "exit $exit"
+          exit $exit
+
+      - name: Add failure comment
         uses: peter-evans/create-or-update-comment@v1
         if: ${{ !success() }}
         with:
           issue-number: ${{ steps.pr.outputs.number }}
           token: ${{ secrets.ROBOTCDNJS_GITHUB_TOKEN }}
           body: |
-            ${{ steps.lint.outputs.output }}
+            ${{ steps.lint.outputs.out }}
+            ${{ steps.files.outputs.out }}
+
+      - name: Add success comment
+        uses: peter-evans/create-or-update-comment@v1
+        if: ${{ success() }}
+        with:
+          issue-number: ${{ steps.pr.outputs.number }}
+          token: ${{ secrets.ROBOTCDNJS_GITHUB_TOKEN }}
+          body: |
+            Tests passed.
+            The following files will be published:
+              ${{ steps.files.outputs.out }}
 
       - name: Approve
         uses: juliangruber/approve-pull-request-action@v1
