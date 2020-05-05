@@ -91,10 +91,7 @@ jobs:
           token: ${{ secrets.ROBOTCDNJS_GITHUB_TOKEN }}
           body: |
             **Tests passed.**
-            The following files will be published:
-            ```text
-              ${{ steps.files.outputs.out }}
-            ```
+            ${{ steps.files.outputs.out }}
 
       - name: Approve
         uses: juliangruber/approve-pull-request-action@v1
