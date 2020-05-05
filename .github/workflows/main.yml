@@ -39,7 +39,6 @@ jobs:
           exit=$?
 
           out=$(cat ./out | bash ./scripts/escape.sh)
-          out="CI failed:%0A$out"
           echo "##[set-output name=out;]$out"
           echo $out
 
@@ -78,8 +77,11 @@ jobs:
           issue-number: ${{ steps.pr.outputs.number }}
           token: ${{ secrets.ROBOTCDNJS_GITHUB_TOKEN }}
           body: |
+            **Tests failed:**
+            ```text
             ${{ steps.lint.outputs.out }}
             ${{ steps.files.outputs.out }}
+            ```
 
       - name: Add success comment
         uses: peter-evans/create-or-update-comment@v1
@@ -88,9 +90,11 @@ jobs:
           issue-number: ${{ steps.pr.outputs.number }}
           token: ${{ secrets.ROBOTCDNJS_GITHUB_TOKEN }}
           body: |
-            Tests passed.
+            **Tests passed.**
             The following files will be published:
+            ```text
               ${{ steps.files.outputs.out }}
+            ```
 
       - name: Approve
         uses: juliangruber/approve-pull-request-action@v1
