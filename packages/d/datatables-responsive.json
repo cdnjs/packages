@@ -1,0 +1,31 @@
+{
+  "name": "datatables-responsive",
+  "description": "Responsive for DataTables ",
+  "keywords": [
+    "responsive",
+    "DataTables",
+    "jQuery",
+    "table",
+    "DataTables"
+  ],
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-Responsive.git"
+  },
+  "npmName": "datatables.net-responsive",
+  "npmFileMap": [
+    {
+      "basePath": "js",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "dataTables.responsive.min.js"
+}
