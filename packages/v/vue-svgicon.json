@@ -1,0 +1,32 @@
+{
+  "name": "vue-svgicon",
+  "description": "A tool to create svg icon components. (vue 2.x)",
+  "keywords": [
+    "vue",
+    "vue2.0",
+    "svg",
+    "icon",
+    "svgicon"
+  ],
+  "author": {
+    "name": "allenice",
+    "email": "994298628@qq.com",
+    "url": "http://blog.allenice233.com/"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/MMF-FE/vue-svgicon#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMF-FE/vue-svgicon.git"
+  },
+  "npmName": "vue-svgicon",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*.@(js|ts|map)"
+      ]
+    }
+  ],
+  "filename": "components/svgicon.umd.min.js"
+}
