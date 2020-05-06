@@ -1,0 +1,34 @@
+{
+  "name": "uppy",
+  "description": "Extensible JavaScript file upload widget with support for drag&drop, resumable uploads, previews, restrictions, file processing/encoding, remote providers like Instagram, Dropbox, Google Drive, S3 and more :dog:",
+  "keywords": [
+    "file uploader",
+    "drag-drop",
+    "progress",
+    "preview",
+    "resumable uploads",
+    "xhr",
+    "tus",
+    "s3",
+    "google drive",
+    "dropbox",
+    "webcam"
+  ],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://uppy.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "npmName": "uppy",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|css|map)"
+      ]
+    }
+  ],
+  "filename": "uppy.min.js"
+}
