@@ -1,0 +1,21 @@
+{
+  "name": "primereact",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/primereact.svg)](https://badge.fury.io/js/primereact)",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "http:///primereact/showcase",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primefaces/primereact.git"
+  },
+  "npmName": "primereact",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "**/*.@(js|ts|css)"
+      ]
+    }
+  ]
+}
