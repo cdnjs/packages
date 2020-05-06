@@ -1,10 +1,27 @@
 {
   "name": "primereact",
-  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/primereact.svg)](https://badge.fury.io/js/primereact)",
-  "keywords": [],
-  "author": "",
+  "description": "PrimeReact is a rich set of open source UI Components for React.",
+  "keywords": [
+    "ui-components",
+    "react-components",
+    "charts",
+    "tree",
+    "native-calendar-component",
+    "primereact",
+    "react",
+    "treetable",
+    "grid",
+    "datatable",
+    "datagrid",
+    "material",
+    "bootstrap",
+    "flex-carousel",
+    "responsive-components",
+    "flex-galleria"
+  ],
+  "author": "PrimeFaces",
   "license": "MIT",
-  "homepage": "http:///primereact/showcase",
+  "homepage": "https://www.primefaces.org/primereact/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/primefaces/primereact.git"
