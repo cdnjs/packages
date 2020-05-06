@@ -1,8 +1,6 @@
 {
   "name": "react-motion",
-  "version": "0.0.3",
   "description": "A spring that solves your animation problems.",
-  "filename": "Spring.min.js",
   "keywords": [
     "react",
     "component",
@@ -15,22 +13,21 @@
     "transition",
     "ui"
   ],
-  "author": "chenglou",
+  "author": "",
   "license": "MIT",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/chenglou/react-motion.git",
-    "fileMap": [
-      {
-        "basePath": "lib",
-        "files": [
-          "Spring*.js"
-        ]
-      }
-    ]
-  },
+  "homepage": "https://github.com/chenglou/react-motion#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/chenglou/react-motion.git"
-  }
+    "url": "git+https://github.com/chenglou/react-motion.git"
+  },
+  "npmName": "react-motion",
+  "npmFileMap": [
+    {
+      "basePath": "build",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "react-motion.js"
 }
