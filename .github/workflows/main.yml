@@ -38,9 +38,9 @@ jobs:
             ${{ steps.diff.outputs.files_added }} &> ./out)
           exit=$?
 
-          out=$(cat ./out | bash ./scripts/escape.sh)
-          echo "##[set-output name=out;]$out"
-          echo $out
+          echo START_RESULT
+          cat ./out
+          echo END_RESULT
 
           echo "exit $exit"
           exit $exit
@@ -63,37 +63,37 @@ jobs:
             ${{ steps.diff.outputs.files_added }} &> ./out)
           exit=$?
 
-          out=$(cat ./out | bash ./scripts/escape.sh)
-          echo "##[set-output name=out;]$out"
-          echo $out
+          echo START_RESULT
+          cat ./out
+          echo END_RESULT
 
           echo "exit $exit"
           exit $exit
 
-      - name: Add failure comment
-        uses: peter-evans/create-or-update-comment@v1
-        if: ${{ !success() }}
-        with:
-          issue-number: ${{ steps.pr.outputs.number }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          body: |
-            **Tests failed:**
-            ${{ steps.lint.outputs.out }}
-            ${{ steps.files.outputs.out }}
+      # - name: Add failure comment
+      #   uses: peter-evans/create-or-update-comment@v1
+      #   if: ${{ !success() }}
+      #   with:
+      #     issue-number: ${{ steps.pr.outputs.number }}
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     body: |
+      #       **Tests failed:**
+      #       ${{ steps.lint.outputs.out }}
+      #       ${{ steps.files.outputs.out }}
 
-      - name: Add success comment
-        uses: peter-evans/create-or-update-comment@v1
-        if: ${{ success() }}
-        with:
-          issue-number: ${{ steps.pr.outputs.number }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          body: |
-            **Tests passed.**
-            ${{ steps.files.outputs.out }}
+      # - name: Add success comment
+      #   uses: peter-evans/create-or-update-comment@v1
+      #   if: ${{ success() }}
+      #   with:
+      #     issue-number: ${{ steps.pr.outputs.number }}
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     body: |
+      #       **Tests passed.**
+      #       ${{ steps.files.outputs.out }}
 
-      - name: Approve
-        uses: juliangruber/approve-pull-request-action@v1
-        if: ${{ success() }}
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          number: ${{ steps.pr.outputs.number }}
+      # - name: Approve
+      #   uses: juliangruber/approve-pull-request-action@v1
+      #   if: ${{ success() }}
+      #   with:
+      #     github-token: ${{ secrets.GITHUB_TOKEN }}
+      #     number: ${{ steps.pr.outputs.number }}
