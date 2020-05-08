@@ -75,7 +75,7 @@ jobs:
         if: ${{ !success() }}
         with:
           issue-number: ${{ steps.pr.outputs.number }}
-          token: ${{ secrets.ROBOTCDNJS_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           body: |
             **Tests failed:**
             ${{ steps.lint.outputs.out }}
@@ -86,7 +86,7 @@ jobs:
         if: ${{ success() }}
         with:
           issue-number: ${{ steps.pr.outputs.number }}
-          token: ${{ secrets.ROBOTCDNJS_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           body: |
             **Tests passed.**
             ${{ steps.files.outputs.out }}
@@ -95,5 +95,5 @@ jobs:
         uses: juliangruber/approve-pull-request-action@v1
         if: ${{ success() }}
         with:
-          github-token: ${{ secrets.ROBOTCDNJS_GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           number: ${{ steps.pr.outputs.number }}
