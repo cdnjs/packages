@@ -1,0 +1,25 @@
+{
+  "name": "parchment",
+  "description": "A document model for rich text editors",
+  "keywords": [],
+  "author": {
+    "name": "Jason Chen",
+    "email": "jhchen7@gmail.com"
+  },
+  "license": "BSD-3-Clause",
+  "homepage": "http://quilljs.com/docs/parchment",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quilljs/parchment.git"
+  },
+  "npmName": "parchment",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "parchment.js"
+}
