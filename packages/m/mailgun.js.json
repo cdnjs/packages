@@ -1,0 +1,27 @@
+{
+  "name": "mailgun.js",
+  "description": "A javascript sdk for Mailgun built with webpack, babel & es6. This can be used in node or in the browser*.",
+  "keywords": [
+    "mailgun",
+    "email"
+  ],
+  "author": {
+    "name": "Mailgun"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mailgun/mailgun-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mailgun/mailgun-js.git"
+  },
+  "npmName": "mailgun.js",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "mailgun.min.js"
+}
