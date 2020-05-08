@@ -1,0 +1,35 @@
+{
+  "name": "bchaddrjs",
+  "description": "Bitcoin Cash general purpose address translation.",
+  "keywords": [
+    "bitcoin-cash",
+    "bitcoin",
+    "bch",
+    "cryptocurrency",
+    "address",
+    "encoding",
+    "translation",
+    "base58",
+    "bitpay",
+    "cash-address"
+  ],
+  "author": {
+    "name": "Emilio Almansi",
+    "email": "hi@ealmansi.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ealmansi/bchaddrjs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ealmansi/bchaddrjs.git"
+  },
+  "npmName": "bchaddrjs",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ]
+}
