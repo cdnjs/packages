@@ -3,7 +3,7 @@ name: Check packages
 on: [pull_request]
 
 jobs:
-  build:
+  robotcdnjs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -31,19 +31,9 @@ jobs:
 
       - name: lint package
         id: lint
-        run: |
-          set +e
-          $(bash ./scripts/lint.sh \
+        run: bash ./scripts/lint.sh \
             ${{ steps.diff.outputs.files_modified }} \
-            ${{ steps.diff.outputs.files_added }} &> ./out)
-          exit=$?
-
-          echo START_RESULT
-          cat ./out
-          echo END_RESULT
-
-          echo "exit $exit"
-          exit $exit
+            ${{ steps.diff.outputs.files_added }}
 
       # install glob
       - uses: actions/checkout@v2
@@ -56,18 +46,6 @@ jobs:
         id: files
         env:
           BOT_BASE_PATH: ${{ github.workspace }}
-        run: |
-          set +e
-          $(bash ./scripts/show-files.sh \
+        run: bash ./scripts/show-files.sh \
             ${{ steps.diff.outputs.files_modified }} \
-            ${{ steps.diff.outputs.files_added }} &> ./out)
-          exit=$?
-
-          echo START_RESULT
-          cat ./out
-          echo END_RESULT
-
-          echo "exit $exit"
-          exit $exit
-
-      - run: ./checker review ${{ steps.pr.outputs.number }} ${{ github.run_id }}
+            ${{ steps.diff.outputs.files_added }}
