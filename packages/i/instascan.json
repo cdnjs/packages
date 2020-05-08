@@ -1,0 +1,34 @@
+{
+  "name": "instascan",
+  "description": "Webcam-driven QR code scanner.",
+  "keywords": [
+    "qr",
+    "code",
+    "quick",
+    "response",
+    "scan",
+    "scanner",
+    "webcam",
+    "realtime"
+  ],
+  "author": {
+    "name": "Chris Schmich",
+    "email": "schmch@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/schmich/instascan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmich/instascan.git"
+  },
+  "npmName": "instascan",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "**/*.js"
+      ]
+    }
+  ],
+  "filename": "index.js"
+}
