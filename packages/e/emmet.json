@@ -1,0 +1,31 @@
+{
+  "name": "emmet",
+  "description": "Emmet — the essential toolkit for web-developers",
+  "keywords": [
+    "emmet",
+    "html",
+    "css",
+    "snippets",
+    "coding"
+  ],
+  "author": {
+    "name": "Sergey Chikuyonok",
+    "email": "serge.che@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/emmetio/emmet#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmetio/emmet.git"
+  },
+  "npmName": "emmet",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*.@(js|ts|map)"
+      ]
+    }
+  ],
+  "filename": "emmet.cjs.js"
+}

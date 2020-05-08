@@ -1,0 +1,28 @@
+{
+  "name": "immer",
+  "description": "Create your next immutable state by mutating the current one",
+  "keywords": [
+    "immutable",
+    "mutable",
+    "copy-on-write"
+  ],
+  "author": {
+    "name": "Michel Weststrate"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/immerjs/immer#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immerjs/immer.git"
+  },
+  "npmName": "immer",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*.@(js|ts|map)"
+      ]
+    }
+  ],
+  "filename": "immer.umd.production.min.js"
+}

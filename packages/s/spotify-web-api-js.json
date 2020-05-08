@@ -1,0 +1,26 @@
+{
+  "name": "spotify-web-api-js",
+  "description": "A client-side JS wrapper for the Spotify Web API",
+  "keywords": [
+    "spotify"
+  ],
+  "author": {
+    "name": "José M. Pérez"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/JMPerez/spotify-web-api-js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JMPerez/spotify-web-api-js.git"
+  },
+  "npmName": "spotify-web-api-js",
+  "npmFileMap": [
+    {
+      "basePath": "src",
+      "files": [
+        "**/*.@(js|ts)"
+      ]
+    }
+  ],
+  "filename": "spotify-web-api.js"
+}

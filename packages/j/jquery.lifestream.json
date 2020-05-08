@@ -1,0 +1,30 @@
+{
+  "name": "jquery.lifestream",
+  "description": "jQuery plugin to show a stream of your online activity.",
+  "keywords": [],
+  "author": {
+    "name": "Christian Vuerings"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/christianvuerings/jquery-lifestream#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianvuerings/jquery-lifestream.git"
+  },
+  "npmName": "jquery-lifestream",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "jquery.lifestream?(.min).js"
+      ]
+    },
+    {
+      "basePath": "css",
+      "files": [
+        "*.css"
+      ]
+    }
+  ],
+  "filename": "jquery.lifestream.min.js"
+}

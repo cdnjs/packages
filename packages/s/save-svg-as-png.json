@@ -1,0 +1,29 @@
+{
+  "name": "save-svg-as-png",
+  "description": "Convert a browser SVG to PNG or dataUri",
+  "keywords": [
+    "svg",
+    "png",
+    "graphics",
+    "images"
+  ],
+  "author": {
+    "name": "Eric Shull"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/exupero/saveSvgAsPng",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exupero/saveSvgAsPng.git"
+  },
+  "npmName": "save-svg-as-png",
+  "npmFileMap": [
+    {
+      "basePath": "lib",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "saveSvgAsPng.js"
+}

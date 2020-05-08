@@ -1,0 +1,32 @@
+{
+  "name": "react-big-calendar",
+  "description": "Calendar! with events",
+  "keywords": [
+    "scheduler",
+    "react-component",
+    "react",
+    "calendar",
+    "events",
+    "full calendar"
+  ],
+  "author": {
+    "name": "Jason Quense",
+    "email": "monastic.panic@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/intljusticemission/react-big-calendar#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intljusticemission/react-big-calendar.git"
+  },
+  "npmName": "react-big-calendar",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "react-big-calendar.min.js"
+}
