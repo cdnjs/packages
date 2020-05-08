@@ -1,0 +1,19 @@
+{
+  "name": "jasmine-marbles",
+  "description": "Marble testing helpers for RxJS and Jasmine",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "",
+  "repository": {},
+  "npmName": "jasmine-marbles",
+  "npmFileMap": [
+    {
+      "basePath": "bundles",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "jasmine-marbles.umd.js"
+}
