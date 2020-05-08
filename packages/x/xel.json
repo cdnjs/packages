@@ -1,0 +1,51 @@
+{
+  "name": "xel",
+  "description": "Widget toolkit for building native-like Electron, NW.js and Chrome apps",
+  "keywords": [
+    "material",
+    "design",
+    "widget",
+    "toolkit",
+    "electron",
+    "nwjs",
+    "nw.js",
+    "macOS",
+    "desktop",
+    "ui",
+    "button",
+    "slider",
+    "tabs",
+    "card",
+    "menu",
+    "menubar",
+    "checkbox",
+    "radio",
+    "switch",
+    "select",
+    "dialog",
+    "drawer",
+    "popover",
+    "slider",
+    "throbber"
+  ],
+  "author": {
+    "name": "Jarosław Foksa"
+  },
+  "license": "MIT",
+  "homepage": "https://xel-toolkit.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarek-foksa/xel.git"
+  },
+  "npmName": "xel",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "*.js",
+        "themes/*.css"
+      ]
+    }
+  ],
+  "filename": "xel.min.js"
+}
