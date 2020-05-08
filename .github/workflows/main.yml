@@ -44,6 +44,11 @@ jobs:
 
           echo "exit $exit"
           exit $exit
+      - uses: actions/upload-artifact@v2
+        if: ${{ always() }}
+        with:
+          name: lint.txt
+          path: out
 
       # install glob
       - uses: actions/checkout@v2
@@ -69,5 +74,10 @@ jobs:
 
           echo "exit $exit"
           exit $exit
+      - uses: actions/upload-artifact@v2
+        if: ${{ always() }}
+        with:
+          name: show-file.txt
+          path: out
 
       - run: ./checker review ${{ steps.pr.outputs.number }} ${{ github.run_id }}
