@@ -1,0 +1,31 @@
+{
+  "name": "react-image-crop",
+  "description": "A responsive image cropping tool for React",
+  "keywords": [
+    "react",
+    "reactjs",
+    "image",
+    "crop",
+    "react-component"
+  ],
+  "author": {
+    "name": "Dominic Tobias",
+    "email": "dominic.tobias@gmail.com"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/DominicTobias/react-image-crop#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominicTobias/react-image-crop.git"
+  },
+  "npmName": "react-image-crop",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|css)"
+      ]
+    }
+  ],
+  "filename": "ReactCrop.min.js"
+}
