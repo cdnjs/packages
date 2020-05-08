@@ -1,0 +1,31 @@
+{
+  "name": "buefy",
+  "description": "Lightweight UI components for Vue.js based on Bulma",
+  "keywords": [
+    "bulma",
+    "vue",
+    "vuejs",
+    "vue-bulma",
+    "components"
+  ],
+  "author": {
+    "name": "Rafael Beraldo",
+    "email": "rafael.pimpa@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://buefy.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buefy/buefy.git"
+  },
+  "npmName": "buefy",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*.@(js|css|json)"
+      ]
+    }
+  ],
+  "filename": "buefy.min.js"
+}
