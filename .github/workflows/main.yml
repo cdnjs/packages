@@ -69,3 +69,5 @@ jobs:
 
           echo "exit $exit"
           exit $exit
+
+      - run: ./checker review ${{ steps.pr.outputs.number }} ${{ github.run_id }}
