@@ -7,10 +7,7 @@
     "tutorial",
     "shepherd"
   ],
-  "authors": [
-    "Adam Schwartz <adam.flynn.schwartz@gmail.com>",
-    "Zack Bloom <zackbloom@gmail.com>"
-  ],
+  "author": "Robert Wagner <rwwagner90@gmail.com>",
   "license": "MIT",
   "homepage": "https://shepherdjs.dev",
   "repository": {
