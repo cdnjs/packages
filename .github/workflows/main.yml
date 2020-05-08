@@ -78,10 +78,8 @@ jobs:
           token: ${{ secrets.ROBOTCDNJS_GITHUB_TOKEN }}
           body: |
             **Tests failed:**
-            ```text
             ${{ steps.lint.outputs.out }}
             ${{ steps.files.outputs.out }}
-            ```
 
       - name: Add success comment
         uses: peter-evans/create-or-update-comment@v1
