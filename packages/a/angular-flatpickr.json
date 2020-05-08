@@ -1,0 +1,24 @@
+{
+  "name": "angular-flatpickr",
+  "description": "angular directive for flatpickr",
+  "keywords": [],
+  "author": {
+    "name": "opavader"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/archsaber/angular-flatpickr#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archsaber/angular-flatpickr.git"
+  },
+  "npmName": "angular-flatpickr",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "ng-flatpickr.min.js"
+}
