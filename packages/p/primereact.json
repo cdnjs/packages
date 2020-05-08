@@ -1,0 +1,38 @@
+{
+  "name": "primereact",
+  "description": "PrimeReact is a rich set of open source UI Components for React.",
+  "keywords": [
+    "ui-components",
+    "react-components",
+    "charts",
+    "tree",
+    "native-calendar-component",
+    "primereact",
+    "react",
+    "treetable",
+    "grid",
+    "datatable",
+    "datagrid",
+    "material",
+    "bootstrap",
+    "flex-carousel",
+    "responsive-components",
+    "flex-galleria"
+  ],
+  "author": "PrimeFaces",
+  "license": "MIT",
+  "homepage": "https://www.primefaces.org/primereact/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primefaces/primereact.git"
+  },
+  "npmName": "primereact",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "**/*.@(js|ts|css)"
+      ]
+    }
+  ]
+}
