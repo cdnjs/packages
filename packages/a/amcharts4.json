@@ -17,7 +17,7 @@
     {
       "basePath": "",
       "files": [
-        "{,!(examples)/**/}*.@(js|ts|map)"
+        "{,lang/,plugins/,themes/,.internal/**/}*.@(js|ts|map)"
       ]
     }
   ],
