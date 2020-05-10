@@ -1,0 +1,32 @@
+{
+  "name": "i18next-localstorage-cache",
+  "description": "caching layer for i18next using browsers localStorage",
+  "keywords": [
+    "i18next",
+    "i18next-cache"
+  ],
+  "author": {
+    "name": "Jan Mühlemann",
+    "email": "jan.muehlemann@gmail.com",
+    "url": "https://github.com/jamuhl"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/i18next/i18next-localStorage-cache",
+  "repository": {},
+  "npmName": "i18next-localstorage-cache",
+  "npmFileMap": [
+    {
+      "basePath": "dist/umd",
+      "files": [
+        "*.js"
+      ]
+    },
+    {
+      "basePath": "dist",
+      "files": [
+        "@(commonjs|es)/*.js"
+      ]
+    }
+  ],
+  "filename": "i18nextLocalStorageCache.min.js"
+}
