@@ -1,0 +1,27 @@
+{
+  "name": "shepherd.js",
+  "description": "Guide your users through a tour of your app.",
+  "keywords": [
+    "site tour",
+    "tour",
+    "tutorial",
+    "shepherd"
+  ],
+  "author": "Robert Wagner <rwwagner90@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://shepherdjs.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shipshapecode/shepherd.git"
+  },
+  "npmName": "shepherd.js",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*.@(js|css|map)"
+      ]
+    }
+  ],
+  "filename": "js/shepherd.min.js"
+}
