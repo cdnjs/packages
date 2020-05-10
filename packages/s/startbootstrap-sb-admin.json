@@ -1,0 +1,35 @@
+{
+  "name": "startbootstrap-sb-admin",
+  "description": "A one page app landing page HTML theme for Bootstrap.",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template",
+    "admin",
+    "app"
+  ],
+  "author": {
+    "name": "Start Bootstrap"
+  },
+  "license": "MIT",
+  "homepage": "https://startbootstrap.com/template-overviews/sb-admin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackrockDigital/startbootstrap-sb-admin.git"
+  },
+  "npmName": "startbootstrap-sb-admin",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "css/*.css",
+        "js/*.js",
+        "scss/*.scss"
+      ]
+    }
+  ],
+  "filename": "css/sb-admin.min.css"
+}
