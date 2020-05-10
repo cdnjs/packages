@@ -1,0 +1,26 @@
+{
+  "name": "basicscroll",
+  "description": "Standalone parallax scrolling for mobile and desktop with CSS variables",
+  "keywords": [
+    "parallax",
+    "scroll",
+    "scrolling"
+  ],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/electerious/basicScroll",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electerious/basicScroll.git"
+  },
+  "npmName": "basicscroll",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "basicScroll.min.js"
+}
