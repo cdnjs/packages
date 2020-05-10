@@ -1,0 +1,29 @@
+{
+  "name": "react-native-web",
+  "description": "React Native for Web",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "web"
+  ],
+  "author": {
+    "name": "Nicolas Gallagher"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/necolas/react-native-web#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/necolas/react-native-web.git"
+  },
+  "npmName": "react-native-web",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*.js"
+      ]
+    }
+  ],
+  "filename": "index.js"
+}
