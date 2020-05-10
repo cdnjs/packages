@@ -1,0 +1,27 @@
+{
+  "name": "jasmine-marbles",
+  "description": "Marble testing helpers for RxJS and Jasmine",
+  "keywords": [
+    "rxjs",
+    "observables",
+    "jasmine",
+    "unit-testing"
+  ],
+  "author": "Synapse Wireless Labs",
+  "license": "MIT",
+  "homepage": "https://github.com/synapse-wireless-labs/jasmine-marbles#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synapse-wireless-labs/jasmine-marbles.git"
+  },
+  "npmName": "jasmine-marbles",
+  "npmFileMap": [
+    {
+      "basePath": "bundles",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "jasmine-marbles.umd.js"
+}
