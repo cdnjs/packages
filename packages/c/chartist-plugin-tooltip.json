@@ -1,0 +1,25 @@
+{
+  "name": "chartist-plugin-tooltip",
+  "description": "Tooltip plugin for Chartist.js.",
+  "keywords": [],
+  "author": {
+    "name": "Kees Kluskens",
+    "email": "kees@codeyellow.nl"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/CodeYellowBV/chartist-plugin-tooltip#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeYellowBV/chartist-plugin-tooltip.git"
+  },
+  "npmName": "chartist-plugin-tooltip",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "chartist-plugin-tooltip.js"
+      ]
+    }
+  ],
+  "filename": "chartist-plugin-tooltip.js"
+}
