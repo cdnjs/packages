@@ -1,0 +1,29 @@
+{
+  "name": "boardgame-io",
+  "description": "library for turn-based games",
+  "keywords": [
+    "board games",
+    "card games",
+    "tabletop games",
+    "game engine"
+  ],
+  "author": {
+    "name": "nicolodavis@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/nicolodavis/boardgame.io#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolodavis/boardgame.io.git"
+  },
+  "npmName": "boardgame.io",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*.@(js|ts)"
+      ]
+    }
+  ],
+  "filename": "boardgameio.min.js"
+}
