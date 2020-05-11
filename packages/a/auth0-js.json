@@ -1,0 +1,31 @@
+{
+  "name": "auth0-js",
+  "description": "Auth0 headless browser sdk",
+  "keywords": [
+    "auth0",
+    "auth",
+    "openid",
+    "authentication",
+    "jwt",
+    "browser"
+  ],
+  "author": {
+    "name": "Auth0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/auth0/auth0.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/auth0/auth0.js.git"
+  },
+  "npmName": "auth0-js",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "auth0.min.js"
+}
