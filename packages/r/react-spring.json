@@ -1,0 +1,29 @@
+{
+  "name": "react-spring",
+  "description": "A set of spring-physics based animation primitives",
+  "keywords": [
+    "react",
+    "motion",
+    "animated",
+    "animation",
+    "spring"
+  ],
+  "author": {
+    "name": "Paul Henschel"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/drcmda/react-spring#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drcmda/react-spring.git"
+  },
+  "npmName": "react-spring",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "*.@(js|ts)"
+      ]
+    }
+  ]
+}
