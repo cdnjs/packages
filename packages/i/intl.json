@@ -1,0 +1,30 @@
+{
+  "name": "intl",
+  "description": "Polyfill the ECMA-402 Intl API (except collation)",
+  "keywords": [
+    "intl",
+    "i18n",
+    "internationalization",
+    "ecma402",
+    "polyfill"
+  ],
+  "author": {
+    "name": "Andy Earnshaw"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/andyearnshaw/Intl.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyearnshaw/Intl.js.git"
+  },
+  "npmName": "intl",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "Intl.min.js"
+}
