@@ -1,0 +1,40 @@
+{
+  "name": "lightgallery-js",
+  "description": "Full featured lightbox gallery. Zero dependencies",
+  "keywords": [
+    "gallery",
+    "lightbox",
+    "image",
+    "youtube",
+    "vimeo",
+    "dailymotion",
+    "html5 videos",
+    "thumbnails",
+    "zoom",
+    "fullscreen",
+    "responsive",
+    "touch",
+    "drag"
+  ],
+  "author": {
+    "name": "Sachin N",
+    "email": "sachi77n@gmail.com",
+    "url": "https://github.com/sachinchoolur"
+  },
+  "license": "GPLv3",
+  "homepage": "http://sachinchoolur.github.io/lightgallery.js/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinchoolur/lightgallery.js.git"
+  },
+  "npmName": "lightgallery.js",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ],
+  "filename": "js/lightgallery.min.js"
+}
