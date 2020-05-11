@@ -18,7 +18,7 @@
     "MPL-1.1"
   ],
   "author": "CKSource (http://cksource.com/)",
-  "npmName": "ckeditor",
+  "npmName": "ckeditor4",
   "npmFileMap": [
     {
       "basePath": "",
