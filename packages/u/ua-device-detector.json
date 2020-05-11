@@ -1,0 +1,26 @@
+{
+  "name": "ua-device-detector",
+  "description": "Parses user-agent to set css classes or directly usable via JS / NodeJS.",
+  "keywords": [
+    "angularjs"
+  ],
+  "author": {
+    "name": "srfrnk"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/srfrnk/ua-device-detector",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srfrnk/ua-device-detector.git"
+  },
+  "npmName": "ua-device-detector",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "ua-device-detector*.js"
+      ]
+    }
+  ],
+  "filename": "ua-device-detector.min.js"
+}
