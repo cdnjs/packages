@@ -1,0 +1,35 @@
+{
+  "name": "filepond",
+  "description": "FilePond, Where files go to stretch their bits.",
+  "keywords": [
+    "javascript",
+    "file",
+    "upload",
+    "drag",
+    "drop",
+    "browse",
+    "paste",
+    "image",
+    "preview"
+  ],
+  "author": {
+    "name": "PQINA",
+    "url": "https://pqina.nl/"
+  },
+  "license": "MIT",
+  "homepage": "https://pqina.nl/filepond/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqina/filepond.git"
+  },
+  "npmName": "filepond",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|css)"
+      ]
+    }
+  ],
+  "filename": "filepond.min.js"
+}
