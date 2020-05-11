@@ -12,12 +12,12 @@
     "url": "https://github.com/ckeditor/ckeditor5.git"
   },
   "homepage": "https://ckeditor.com/ckeditor-5",
-  "npmName": "ckeditor5",
+  "npmName": "@ckeditor/ckeditor5-build-classic",
   "npmFileMap": [
     {
-      "basePath": "scripts/docs/content-styles",
+      "basePath": "build",
       "files": [
-        "**/*"
+        "**/*.@(js|map)"
       ]
     }
   ],
