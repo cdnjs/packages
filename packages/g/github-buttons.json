@@ -1,0 +1,31 @@
+{
+  "name": "github-buttons",
+  "description": "GitHub Buttons",
+  "keywords": [
+    "github",
+    "button",
+    "frontend",
+    "component"
+  ],
+  "author": {
+    "name": "なつき",
+    "email": "i@ntk.me",
+    "url": "https://ntk.me/"
+  },
+  "license": "BSD-2-Clause",
+  "homepage": "https://buttons.github.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntkme/github-buttons.git"
+  },
+  "npmName": "github-buttons",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|ts)"
+      ]
+    }
+  ],
+  "filename": "buttons.min.js"
+}
