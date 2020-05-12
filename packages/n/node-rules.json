@@ -1,0 +1,37 @@
+{
+  "name": "node-rules",
+  "description": "Business Rules Engine for JavaScript",
+  "keywords": [
+    "bre",
+    "rete",
+    "rule",
+    "rules",
+    "engine",
+    "rule engine",
+    "rules engine",
+    "javascript rule engine",
+    "js rule engine",
+    "forward chaining rule engine",
+    "inference system"
+  ],
+  "author": {
+    "name": "Mithun Satheesh",
+    "email": "mithunsatish@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mithunsatheesh/node-rules#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mithunsatheesh/node-rules.git"
+  },
+  "npmName": "node-rules",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "node-rules.min.js"
+}
