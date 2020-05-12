@@ -1,0 +1,24 @@
+{
+  "name": "cookieconsent",
+  "description": "Osano cookie consent tool.",
+  "keywords": [],
+  "author": {
+    "name": "Osano, Inc., a Public Benefit Corporation"
+  },
+  "license": "MIT",
+  "homepage": "http://cookieconsent.osano.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osano/cookieconsent.git"
+  },
+  "npmName": "cookieconsent",
+  "npmFileMap": [
+    {
+      "basePath": "build",
+      "files": [
+        "*.@(js|css)"
+      ]
+    }
+  ],
+  "filename": "cookieconsent.min.js"
+}
