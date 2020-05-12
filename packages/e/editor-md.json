@@ -1,0 +1,28 @@
+{
+  "name": "editor-md",
+  "description": "Open source online markdown editor.",
+  "keywords": [
+    "editor.md",
+    "markdown",
+    "editor"
+  ],
+  "author": {
+    "name": "Pandao"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/pandao/editor.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pandao/editor.md.git"
+  },
+  "npmName": "editor.md",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "editormd*.js"
+      ]
+    }
+  ],
+  "filename": "editormd.min.js"
+}
