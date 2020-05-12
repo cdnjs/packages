@@ -12,7 +12,10 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/i18next/i18next-localStorage-cache",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i18next/i18next-localStorage-cache.git"
+  },
   "npmName": "i18next-localstorage-cache",
   "npmFileMap": [
     {
