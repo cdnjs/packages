@@ -1,0 +1,30 @@
+{
+  "name": "vue-js-toggle-button",
+  "description": "A toggle button component for Vue.js 2+",
+  "keywords": [
+    "vue",
+    "toggle",
+    "switch",
+    "button"
+  ],
+  "author": {
+    "name": "euvl",
+    "email": "yev.vlasenko@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/euvl/vue-js-toggle-button#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euvl/vue-js-toggle-button.git"
+  },
+  "npmName": "vue-js-toggle-button",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "index.js"
+}
