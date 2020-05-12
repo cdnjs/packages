@@ -1,0 +1,51 @@
+{
+  "name": "node-open",
+  "description": "Open stuff like URLs, files, executables. Cross-platform.",
+  "keywords": [
+    "app",
+    "open",
+    "opener",
+    "opens",
+    "launch",
+    "start",
+    "xdg-open",
+    "xdg",
+    "default",
+    "cmd",
+    "browser",
+    "editor",
+    "executable",
+    "exe",
+    "url",
+    "urls",
+    "arguments",
+    "args",
+    "spawn",
+    "exec",
+    "child",
+    "process",
+    "website",
+    "file"
+  ],
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/sindresorhus/open#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/open.git"
+  },
+  "npmName": "open",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "*.@(js|ts)"
+      ]
+    }
+  ],
+  "filename": "index.js"
+}
