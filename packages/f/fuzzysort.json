@@ -1,0 +1,30 @@
+{
+  "name": "fuzzysort",
+  "description": "Fast SublimeText-like fuzzy search for JavaScript",
+  "keywords": [
+    "fuzzy",
+    "search",
+    "filter",
+    "javascript",
+    "sublime"
+  ],
+  "author": {
+    "name": "farzher"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/farzher/fuzzysort#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farzher/fuzzysort.git"
+  },
+  "npmName": "fuzzysort",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "fuzzysort.js"
+      ]
+    }
+  ],
+  "filename": "fuzzysort.js"
+}
