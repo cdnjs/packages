@@ -8,9 +8,7 @@
     "scrollpoint",
     "scrollfix"
   ],
-  "author": {
-    "name": "https://github.com/angular-ui/ui-scrollpoint/graphs/contributors"
-  },
+  "author": "https://github.com/angular-ui/ui-scrollpoint/graphs/contributors",
   "license": "MIT",
   "homepage": "https://github.com/angular-ui/ui-scrollpoint",
   "repository": {
