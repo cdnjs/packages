@@ -1,0 +1,30 @@
+{
+  "name": "react-plotlyjs",
+  "description": "ReactJS / PlotlyJS integration. Draw plotly graphs in your react app.",
+  "keywords": [
+    "react",
+    "react-component",
+    "plotly",
+    "graph",
+    "plot"
+  ],
+  "author": {
+    "name": "Ben Jeffery"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/benjeffery/react-plotlyjs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjeffery/react-plotlyjs.git"
+  },
+  "npmName": "react-plotlyjs",
+  "npmFileMap": [
+    {
+      "basePath": "lib",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "PlotlyComponent.js"
+}
