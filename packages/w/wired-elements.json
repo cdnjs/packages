@@ -1,0 +1,34 @@
+{
+  "name": "wired-elements",
+  "description": "Collection of hand-drawn sketchy web components",
+  "keywords": [
+    "webcomponent",
+    "web component",
+    "rough",
+    "sketchy",
+    "hand-drawn",
+    "hand drawn",
+    "wireframe"
+  ],
+  "author": {
+    "name": "Preet Shihn",
+    "email": "preetshihn@gmail.com",
+    "url": "https://twitter.com/preetster"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/wiredjs/wired-elements#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiredjs/wired-elements.git"
+  },
+  "npmName": "wired-elements",
+  "npmFileMap": [
+    {
+      "basePath": "lib",
+      "files": [
+        "*.@(js|ts)"
+      ]
+    }
+  ],
+  "filename": "wired-elements-bundled-full.js"
+}
