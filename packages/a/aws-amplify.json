@@ -1,0 +1,24 @@
+{
+  "name": "aws-amplify",
+  "description": "AWS Amplify is a JavaScript library for Frontend and mobile developers building cloud-enabled applications.",
+  "keywords": [],
+  "author": {
+    "name": "Amazon Web Services"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://aws-amplify.github.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aws-amplify/amplify-js.git"
+  },
+  "npmName": "aws-amplify",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "aws-amplify.min.js"
+}
