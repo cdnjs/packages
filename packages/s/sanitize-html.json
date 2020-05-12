@@ -1,0 +1,27 @@
+{
+  "name": "sanitize-html",
+  "description": "Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis",
+  "keywords": [
+    "html",
+    "parser",
+    "sanitizer",
+    "apostrophecms"
+  ],
+  "author": "Apostrophe Technologies, Inc.",
+  "license": "MIT",
+  "homepage": "https://github.com/apostrophecms/sanitize-html#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apostrophecms/sanitize-html.git"
+  },
+  "npmName": "sanitize-html",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "sanitize-html.min.js"
+}
