@@ -1,0 +1,30 @@
+{
+  "name": "better-scroll",
+  "description": "inspired by iscroll, and it has a better scroll perfermance",
+  "keywords": [
+    "scroll",
+    "iscroll",
+    "javascript",
+    "ios"
+  ],
+  "author": {
+    "name": "huangyi",
+    "email": "ustbhuangyi@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ustbhuangyi/better-scroll",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ustbhuangyi/better-scroll.git"
+  },
+  "npmName": "better-scroll",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "bscroll.min.js"
+}
