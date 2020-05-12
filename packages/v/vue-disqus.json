@@ -1,0 +1,29 @@
+{
+  "name": "vue-disqus",
+  "description": "Vue component to integrate Disqus comments in your application, with support for SPA",
+  "keywords": [
+    "disqus",
+    "vue",
+    "comments"
+  ],
+  "author": {
+    "name": "Alan Albuquerque",
+    "email": "ktquez@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ktquez/vue-disqus#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktquez/vue-disqus.git"
+  },
+  "npmName": "vue-disqus",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "vue-disqus.js"
+}
