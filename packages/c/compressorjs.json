@@ -1,0 +1,35 @@
+{
+  "name": "compressorjs",
+  "description": "JavaScript image compressor.",
+  "keywords": [
+    "image",
+    "compress",
+    "compressor",
+    "compressor.js",
+    "image-compressor",
+    "lossy-compression",
+    "javascript",
+    "front-end",
+    "web"
+  ],
+  "author": {
+    "name": "Chen Fengyuan",
+    "url": "https://chenfengyuan.com/"
+  },
+  "license": "MIT",
+  "homepage": "https://fengyuanchen.github.io/compressorjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengyuanchen/compressorjs.git"
+  },
+  "npmName": "compressorjs",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "compressor.min.js"
+}
