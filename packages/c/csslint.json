@@ -1,0 +1,27 @@
+{
+  "name": "csslint",
+  "description": "Automated linting of Cascading Stylesheets",
+  "keywords": [
+    "css",
+    "styling",
+    "lint",
+    "linting"
+  ],
+  "author": "Nicole Sullivan",
+  "license": "MIT",
+  "homepage": "http://csslint.net/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSSLint/csslint.git"
+  },
+  "npmName": "csslint",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "csslint.js"
+}
