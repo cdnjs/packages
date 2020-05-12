@@ -1,0 +1,28 @@
+{
+  "name": "angular-ui-scrollpoint",
+  "description": "Add a 'ui-scrollpoint' class to elements when the page scrolls past them.",
+  "keywords": [
+    "angular",
+    "angular-ui",
+    "scroll",
+    "scrollpoint",
+    "scrollfix"
+  ],
+  "author": "https://github.com/angular-ui/ui-scrollpoint/graphs/contributors",
+  "license": "MIT",
+  "homepage": "https://github.com/angular-ui/ui-scrollpoint",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular-ui/ui-scrollpoint.git"
+  },
+  "npmName": "angular-ui-scrollpoint",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "scrollpoint.min.js"
+}
