@@ -1,0 +1,33 @@
+{
+  "name": "selection-js",
+  "description": "Simple, lightweight and modern library library for making visual DOM Selections.",
+  "keywords": [
+    "selection",
+    "selecting",
+    "js-utility",
+    "user-selection",
+    "ui",
+    "user-interface",
+    "ui-library"
+  ],
+  "author": {
+    "name": "Simon Reinisch",
+    "email": "trash@reinisch.io"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Simonwep/selection#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simonwep/selection.git"
+  },
+  "npmName": "@simonwep/selection-js",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "selection.min.js"
+}
