@@ -1,10 +1,13 @@
 {
   "name": "csslint",
-  "description": "CSSLint",
-  "keywords": [],
-  "author": {
-    "name": "Nicole Sullivan"
-  },
+  "description": "Automated linting of Cascading Stylesheets",
+  "keywords": [
+    "css",
+    "styling",
+    "lint",
+    "linting"
+  ],
+  "author": "Nicole Sullivan",
   "license": "MIT",
   "homepage": "http://csslint.net/",
   "repository": {
