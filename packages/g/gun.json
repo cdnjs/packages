@@ -1,0 +1,44 @@
+{
+  "name": "gun",
+  "description": "A realtime, decentralized, offline-first, graph data synchronization engine.",
+  "keywords": [
+    "gun",
+    "gunDB",
+    "graph",
+    "document",
+    "key",
+    "value",
+    "relational",
+    "datastore",
+    "database",
+    "engine",
+    "realtime",
+    "decentralized",
+    "peer-to-peer",
+    "distributed",
+    "P2P",
+    "OSS",
+    "embedded",
+    "localstorage",
+    "S3"
+  ],
+  "author": {
+    "name": "Mark Nadal"
+  },
+  "license": "(Zlib OR MIT OR Apache-2.0)",
+  "homepage": "https://github.com/amark/gun#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amark/gun.git"
+  },
+  "npmName": "gun",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "*.@(js|ts)"
+      ]
+    }
+  ],
+  "filename": "gun.min.js"
+}
