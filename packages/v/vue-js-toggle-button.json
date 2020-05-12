@@ -11,7 +11,7 @@
     "name": "euvl",
     "email": "yev.vlasenko@gmail.com"
   },
-  "license": "",
+  "license": "MIT",
   "homepage": "https://github.com/euvl/vue-js-toggle-button#readme",
   "repository": {
     "type": "git",
