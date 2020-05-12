@@ -1,0 +1,32 @@
+{
+  "name": "idb-keyval",
+  "description": "A super-simple-small keyval store built on top of IndexedDB",
+  "keywords": [
+    "idb",
+    "indexeddb",
+    "store",
+    "keyval",
+    "localstorage",
+    "storage",
+    "promise"
+  ],
+  "author": {
+    "name": "Jake Archibald"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/jakearchibald/idb-keyval#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakearchibald/idb-keyval.git"
+  },
+  "npmName": "idb-keyval",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|ts)"
+      ]
+    }
+  ],
+  "filename": "idb-keyval-cjs-compat.min.js"
+}
