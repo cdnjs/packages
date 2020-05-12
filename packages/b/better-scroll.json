@@ -11,7 +11,7 @@
     "name": "huangyi",
     "email": "ustbhuangyi@gmail.com"
   },
-  "license": "",
+  "license": "MIT",
   "homepage": "https://github.com/ustbhuangyi/better-scroll",
   "repository": {
     "type": "git",
