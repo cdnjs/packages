@@ -1,0 +1,32 @@
+{
+  "name": "getmdl-select",
+  "description": "select for material-design-lite",
+  "keywords": [
+    "material",
+    "mdl",
+    "getmdl",
+    "select",
+    "getmdl-select",
+    "dropdown",
+    "getmdl-dropdown"
+  ],
+  "author": {
+    "name": "CreativeIT"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/CreativeIT/getmdl-select#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreativeIT/getmdl-select.git"
+  },
+  "npmName": "getmdl-select",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "getmdl-select*.@(js|css|map)"
+      ]
+    }
+  ],
+  "filename": "getmdl-select.min.js"
+}
