@@ -1,0 +1,26 @@
+{
+  "name": "uuid",
+  "description": "RFC4122 (v1, v4, and v5) UUIDs",
+  "keywords": [
+    "uuid",
+    "guid",
+    "rfc4122"
+  ],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/uuidjs/uuid#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uuidjs/uuid.git"
+  },
+  "npmName": "uuid",
+  "npmFileMap": [
+    {
+      "basePath": "dist/umd",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "uuid.min.js"
+}
