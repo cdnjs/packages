@@ -1,0 +1,27 @@
+{
+  "name": "cytoscape-popper",
+  "description": "A Cytoscape.js extension for Popper.js",
+  "keywords": [
+    "cytoscape",
+    "cytoscape-extension"
+  ],
+  "author": {
+    "name": "Cytoscape"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/cytoscape/cytoscape.js-popper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cytoscape/cytoscape.js-popper.git"
+  },
+  "npmName": "cytoscape-popper",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "cytoscape-popper.js"
+      ]
+    }
+  ],
+  "filename": "cytoscape-popper.js"
+}
