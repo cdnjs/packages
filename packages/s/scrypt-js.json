@@ -1,0 +1,32 @@
+{
+  "name": "scrypt-js",
+  "description": "The scrypt password-based key derivation function with sync and cancellable async.",
+  "keywords": [
+    "scrypt",
+    "pbkdf",
+    "password",
+    "async",
+    "asynchronous",
+    "stepwise"
+  ],
+  "author": {
+    "name": "Richard Moore",
+    "email": "me@ricmoo.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ricmoo/scrypt-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ricmoo/scrypt-js.git"
+  },
+  "npmName": "scrypt-js",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "**/*.js"
+      ]
+    }
+  ],
+  "filename": "scrypt.js"
+}
