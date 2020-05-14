@@ -1,0 +1,34 @@
+{
+  "name": "colors.css",
+  "description": "Better default colors for the web. A collection of skin classes for faster prototyping and nicer looking sites.",
+  "keywords": [
+    "colors",
+    "design",
+    "a11y",
+    "postcss",
+    "palette",
+    "css",
+    "oocss"
+  ],
+  "author": {
+    "name": "@mrmrs",
+    "email": "hi@mrmrs.cc",
+    "url": "http://mrmrs.cc"
+  },
+  "license": "MIT",
+  "homepage": "http://clrs.cc",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrmrs/colors.git"
+  },
+  "npmName": "colors.css",
+  "npmFileMap": [
+    {
+      "basePath": "css",
+      "files": [
+        "*.css"
+      ]
+    }
+  ],
+  "filename": "colors.min.css"
+}
