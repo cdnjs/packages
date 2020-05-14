@@ -1,0 +1,25 @@
+{
+  "name": "chessboard-js",
+  "description": "JavaScript chessboard widget",
+  "keywords": [],
+  "author": {
+    "name": "Chris Oakman",
+    "email": "chris@oakmac.com",
+    "url": "http://chrisoakman.com/"
+  },
+  "license": "MIT",
+  "homepage": "https://chessboardjs.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oakmac/chessboardjs.git"
+  },
+  "npmName": "@chrisoakman/chessboardjs",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|css)"
+      ]
+    }
+  ]
+}
