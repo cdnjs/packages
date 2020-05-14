@@ -1,0 +1,28 @@
+{
+  "name": "aurelia-script",
+  "description": "Aurelia's concatenated script-tag-ready build.",
+  "keywords": [
+    "aurelia"
+  ],
+  "author": {
+    "name": "Rob Eisenberg",
+    "email": "rob@bluespire.com",
+    "url": "http://robeisenberg.com/"
+  },
+  "license": "MIT",
+  "homepage": "http://aurelia.io",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aurelia/aurelia.git"
+  },
+  "npmName": "aurelia-script",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "aurelia.umd.min.js"
+}
