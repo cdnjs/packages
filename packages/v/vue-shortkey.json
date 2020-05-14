@@ -1,0 +1,30 @@
+{
+  "name": "vue-shortkey",
+  "description": "A plugin for VueJS 2.x accepts shortcuts globaly and in a single listener.",
+  "keywords": [
+    "vue",
+    "vue-shortkey",
+    "shortcut",
+    "shortkey"
+  ],
+  "author": {
+    "name": "iFgR",
+    "email": "ifgr.fagner@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/iFgR/vue-shortkey/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iFgR/vue-shortkey.git"
+  },
+  "npmName": "vue-shortkey",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "index.js"
+}
