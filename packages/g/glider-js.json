@@ -1,0 +1,29 @@
+{
+  "name": "glider-js",
+  "description": "A fast, lightweight carousel alternative",
+  "keywords": [
+    "carousel",
+    "scrolling",
+    "list",
+    "paging"
+  ],
+  "author": {
+    "name": "Nick Piscitelli"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/NickPiscitelli/Glider.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickPiscitelli/Glider.js.git"
+  },
+  "npmName": "glider-js",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "glider*.@(js|css)"
+      ]
+    }
+  ],
+  "filename": "glider.min.js"
+}
