@@ -1,0 +1,31 @@
+
+{
+  "name": "gd-sprest",
+  "filename": "dist/gd-sprest.min.js",
+  "version": "5.6.2",
+  "description": "A library to interact with the SharePoint REST API.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gunjandatta/sprest"
+  },
+  "keywords": [
+    "sharepoint",
+    "spo",
+    "rest"
+  ],
+  "homepage": "https://dattabase.com/",
+  "npmName": "gd-sprest",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/gunjandatta/sprest/issues"
+  },
+  "license": "MIT",
+  "author": "Gunjan Datta"
+}
