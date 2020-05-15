@@ -1,4 +1,3 @@
-
 {
   "name": "gd-sprest",
   "filename": "dist/gd-sprest.min.js",
@@ -26,5 +25,5 @@
     "url": "https://github.com/gunjandatta/sprest/issues"
   },
   "license": "MIT",
-  "author": "Gunjan Datta"
+  "author": "Gunjan Datta <github@dattabase.com>"
 }
