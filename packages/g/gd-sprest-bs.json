@@ -22,9 +22,6 @@
       ]
     }
   ],
-  "bugs": {
-    "url": "https://github.com/gunjandatta/sprest-bs/issues"
-  },
   "license": "MIT",
   "author": "Gunjan Datta <github@dattabase.com>"
 }
