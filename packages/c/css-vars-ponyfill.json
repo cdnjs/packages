@@ -1,0 +1,55 @@
+{
+  "name": "css-vars-ponyfill",
+  "description": "Client-side support for CSS custom properties (aka \"CSS variables\") in legacy and modern browsers",
+  "keywords": [
+    "client",
+    "component",
+    "css",
+    "custom properties",
+    "custom property",
+    "custom",
+    "dom",
+    "es6",
+    "ie",
+    "ie9",
+    "ie10",
+    "ie11",
+    "internet explorer",
+    "javascript",
+    "js",
+    "legacy",
+    "module",
+    "mutation",
+    "observer",
+    "polyfill",
+    "ponyfill",
+    "properties",
+    "property",
+    "runtime",
+    "shadow",
+    "variables",
+    "vars",
+    "watch",
+    "web"
+  ],
+  "author": {
+    "name": "John Hildenbiddle",
+    "email": "http://hildenbiddle.com"
+  },
+  "license": "MIT",
+  "homepage": "https://jhildenbiddle.github.io/css-vars-ponyfill/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://jhildenbiddle@github.com/jhildenbiddle/css-vars-ponyfill.git"
+  },
+  "npmName": "css-vars-ponyfill",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|ts|map)"
+      ]
+    }
+  ],
+  "filename": "css-vars-ponyfill.min.js"
+}
