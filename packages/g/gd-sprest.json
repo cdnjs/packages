@@ -1,6 +1,6 @@
 {
   "name": "gd-sprest",
-  "filename": "dist/gd-sprest.min.js",
+  "filename": "gd-sprest.min.js",
   "description": "A JavaScript library to interact with the SharePoint REST API.",
   "repository": {
     "type": "git",
