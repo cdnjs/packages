@@ -1,0 +1,30 @@
+{
+  "name": "tarteaucitronjs",
+  "description": "Comply to the European cookie law",
+  "keywords": [
+    "cookie",
+    "law",
+    "rgpd",
+    "gdpr",
+    "cookie"
+  ],
+  "author": {
+    "name": "AIC Agency SAS"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/AmauriC/tarteaucitron.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmauriC/tarteaucitron.js.git"
+  },
+  "npmName": "tarteaucitronjs",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "**/*.@(js|css)"
+      ]
+    }
+  ],
+  "filename": "tarteaucitron.js"
+}
