@@ -5,9 +5,7 @@
     "g2",
     "chart"
   ],
-  "author": {
-    "name": "https://github.com/orgs/antvis/people"
-  },
+  "author": "https://github.com/orgs/antvis/people",
   "license": "MIT",
   "homepage": "https://g2.antv.vision",
   "repository": {
