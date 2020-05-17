@@ -1,0 +1,32 @@
+{
+  "name": "vue-cesium",
+  "description": "Vue 2.x components for CesiumJS.",
+  "keywords": [
+    "Vue",
+    "Cesium",
+    "GIS",
+    "WebGIS"
+  ],
+  "author": {
+    "name": "zouyaoji",
+    "email": "370681295@qq.com"
+  },
+  "license": "MIT",
+  "homepage": "https://zouyaoji.top/vue-cesium",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouyaoji/vue-cesium.git"
+  },
+  "npmName": "vue-cesium",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "lib/index.umd.js?(.map)",
+        "lib/*.css?(.map)",
+        "lang/*.js"
+      ]
+    }
+  ],
+  "filename": "lib/index.umd.js"
+}
