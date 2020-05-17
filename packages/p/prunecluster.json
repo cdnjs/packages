@@ -1,0 +1,28 @@
+{
+  "name": "prunecluster",
+  "description": "Fast and realtime marker clustering for Leaflet",
+  "keywords": [
+    "map",
+    "clustering",
+    "leaflet",
+    "marker",
+    "realtime"
+  ],
+  "author": "SINTEF-9012",
+  "license": "MIT",
+  "homepage": "https://github.com/SINTEF-9012/PruneCluster",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SINTEF-9012/PruneCluster.git"
+  },
+  "npmName": "prunecluster",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|css|ts)"
+      ]
+    }
+  ],
+  "filename": "PruneCluster.js"
+}
