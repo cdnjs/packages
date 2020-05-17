@@ -1,0 +1,25 @@
+{
+  "name": "antv-g2",
+  "description": "the Grammar of Graphics in Javascript",
+  "keywords": [
+    "g2",
+    "chart"
+  ],
+  "author": "https://github.com/orgs/antvis/people",
+  "license": "MIT",
+  "homepage": "https://g2.antv.vision",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antvis/g2.git"
+  },
+  "npmName": "@antv/g2",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "g2.min.js"
+}
