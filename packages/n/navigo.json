@@ -1,0 +1,31 @@
+{
+  "name": "navigo",
+  "description": "A simple vanilla JavaScript router with a fallback for older browsers",
+  "keywords": [
+    "router",
+    "vanilla",
+    "hash",
+    "history"
+  ],
+  "author": {
+    "name": "Krasimir Tsonev",
+    "email": "info@krasimirtsonev.com",
+    "url": "http://krasimirtsonev.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/krasimir/navigo#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/krasimir/navigo.git"
+  },
+  "npmName": "navigo",
+  "npmFileMap": [
+    {
+      "basePath": "lib",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "navigo.min.js"
+}
