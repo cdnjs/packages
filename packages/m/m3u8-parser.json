@@ -1,0 +1,27 @@
+{
+  "name": "m3u8-parser",
+  "description": "m3u8 parser",
+  "keywords": [
+    "videojs",
+    "videojs-plugin"
+  ],
+  "author": {
+    "name": "Brightcove, Inc"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/videojs/m3u8-parser#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/videojs/m3u8-parser.git"
+  },
+  "npmName": "m3u8-parser",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "m3u8-parser.min.js"
+}
