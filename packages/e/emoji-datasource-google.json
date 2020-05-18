@@ -1,0 +1,28 @@
+{
+  "name": "emoji-datasource-google",
+  "description": "Emoji data and images - google",
+  "keywords": [
+    "emoji"
+  ],
+  "author": {
+    "name": "Cal Henderson",
+    "email": "cal@iamcal.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/iamcal/emoji-data",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iamcal/emoji-data.git"
+  },
+  "npmName": "emoji-datasource-google",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "emoji*.json",
+        "**/*.png"
+      ]
+    }
+  ],
+  "filename": "emoji.json"
+}
