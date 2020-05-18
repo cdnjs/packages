@@ -1,0 +1,37 @@
+{
+  "name": "omi",
+  "description": "Front End Cross-Frameworks Framework.",
+  "keywords": [
+    "omi",
+    "webcomponents",
+    "jsx",
+    "proxy",
+    "preact",
+    "react",
+    "virtual dom",
+    "vdom",
+    "components",
+    "virtual",
+    "dom"
+  ],
+  "author": {
+    "name": "dntzhang",
+    "email": "dntzhang@qq.com"
+  },
+  "license": "MIT",
+  "homepage": "http://omijs.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tencent/omi.git"
+  },
+  "npmName": "omi",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|ts|map)"
+      ]
+    }
+  ],
+  "filename": "omi.min.js"
+}
