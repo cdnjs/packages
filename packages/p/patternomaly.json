@@ -1,0 +1,31 @@
+{
+  "name": "patternomaly",
+  "description": "Easily generate patterns for use in data graphics",
+  "keywords": [
+    "pattern",
+    "canvas",
+    "colorblind",
+    "data",
+    "graphics"
+  ],
+  "author": {
+    "name": "Tom Loudon",
+    "url": "http://betweentwobrackets.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ashiguruma/patternomaly#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashiguruma/patternomaly.git"
+  },
+  "npmName": "patternomaly",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js?(.map)"
+      ]
+    }
+  ],
+  "filename": "patternomaly.js"
+}
