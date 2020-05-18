@@ -1,0 +1,36 @@
+{
+  "name": "three-dots",
+  "description": "CSS loading animation made by single element.",
+  "keywords": [
+    "three-dots",
+    "loading-animations",
+    "single-element-css-spinners",
+    "sass",
+    "less"
+  ],
+  "author": {
+    "name": "nzbin"
+  },
+  "license": "MIT",
+  "homepage": "https://nzbin.github.io/three-dots/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nzbin/three-dots.git"
+  },
+  "npmName": "three-dots",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(css|map)"
+      ]
+    },
+    {
+      "basePath": "",
+      "files": [
+        "sass/*.scss"
+      ]
+    }
+  ],
+  "filename": "three-dots.min.css"
+}
