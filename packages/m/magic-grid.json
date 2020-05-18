@@ -1,0 +1,29 @@
+{
+  "name": "magic-grid",
+  "description": "Super lightweight javascript library for dynamic grid layouts.",
+  "keywords": [
+    "js",
+    "grid",
+    "javascript",
+    "layout"
+  ],
+  "author": {
+    "name": "Emmanuel Olaojo"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/e-oj/Magic-Grid#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-oj/Magic-Grid.git"
+  },
+  "npmName": "magic-grid",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "magic-grid.min.js"
+}
