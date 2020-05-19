@@ -1,0 +1,27 @@
+{
+  "name": "diff-dom",
+  "description": "A diff for DOM elements, as client-side JavaScript code. Gets all modifications, insertions and removals between two DOM fragments.",
+  "keywords": [
+    "diff",
+    "dom"
+  ],
+  "author": {
+    "name": "Johannes Wilm mail@johanneswilm.org"
+  },
+  "license": "LGPL-3.0",
+  "homepage": "https://github.com/fiduswriter/diffDOM",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fiduswriter/diffDOM.git"
+  },
+  "npmName": "diff-dom",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "index.js"
+}
