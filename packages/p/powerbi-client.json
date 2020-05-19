@@ -1,0 +1,29 @@
+{
+  "name": "powerbi-client",
+  "description": "JavaScript library for embedding Power BI into your apps. Provides service which makes it easy to embed different types of components and an object model which allows easy interaction with these components such as changing pages, applying filters, and res",
+  "keywords": [
+    "microsoft",
+    "powerbi",
+    "embedded",
+    "visuals"
+  ],
+  "author": {
+    "name": "Microsoft"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Microsoft/PowerBI-JavaScript#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Microsoft/PowerBI-JavaScript.git"
+  },
+  "npmName": "powerbi-client",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|ts|map)"
+      ]
+    }
+  ],
+  "filename": "powerbi.min.js"
+}
