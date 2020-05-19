@@ -1,0 +1,28 @@
+{
+  "name": "emoji-datasource-messenger",
+  "description": "Emoji data and images - messenger",
+  "keywords": [
+    "emoji"
+  ],
+  "author": {
+    "name": "Cal Henderson",
+    "email": "cal@iamcal.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/iamcal/emoji-data",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iamcal/emoji-data.git"
+  },
+  "npmName": "emoji-datasource-messenger",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "emoji*.json",
+        "**/*.png"
+      ]
+    }
+  ],
+  "filename": "emoji.json"
+}
