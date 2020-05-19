@@ -1,0 +1,28 @@
+{
+  "name": "node-snackbar",
+  "description": "Notifications inspired by Google Material Design",
+  "keywords": [
+    "snackbar",
+    "matieral-design",
+    "toast"
+  ],
+  "author": {
+    "name": "Chris Brame"
+  },
+  "license": "MIT",
+  "homepage": "http://www.polonel.com/snackbar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polonel/SnackBar.git"
+  },
+  "npmName": "node-snackbar",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|css|map)"
+      ]
+    }
+  ],
+  "filename": "snackbar.min.js"
+}
