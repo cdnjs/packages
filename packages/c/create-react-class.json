@@ -1,0 +1,24 @@
+{
+  "name": "create-react-class",
+  "description": "Legacy API for creating React components.",
+  "keywords": [
+    "react"
+  ],
+  "author": "Facebook",
+  "license": "MIT",
+  "homepage": "https://facebook.github.io/react/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/react.git"
+  },
+  "npmName": "create-react-class",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "create-react-class*.js"
+      ]
+    }
+  ],
+  "filename": "create-react-class.min.js"
+}
