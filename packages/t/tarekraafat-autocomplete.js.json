@@ -1,0 +1,50 @@
+{
+  "name": "tarekraafat-autocomplete.js",
+  "description": "Simple autocomplete pure vanilla Javascript library.",
+  "keywords": [
+    "simple",
+    "autocomplete",
+    "autocompletion",
+    "javascript",
+    "light",
+    "blazing",
+    "fast",
+    "speed",
+    "lightning",
+    "lightweight",
+    "modern",
+    "versitle",
+    "customizable",
+    "hackable",
+    "easy",
+    "intuitive",
+    "scalable",
+    "extensible",
+    "autoCompletejs",
+    "autosuggestion",
+    "autosuggest",
+    "search",
+    "dropdown"
+  ],
+  "author": {
+    "name": "Tarek Raafat",
+    "email": "tarek.m.raafat@gmail.com",
+    "url": "http://www.tarekraafat.com"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/TarekRaafat/autoComplete.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarekRaafat/autoComplete.js.git"
+  },
+  "npmName": "@tarekraafat/autocomplete.js",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*.@(js|css|json|svg)"
+      ]
+    }
+  ],
+  "filename": "js/autoComplete.min.js"
+}
