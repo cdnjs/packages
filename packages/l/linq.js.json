@@ -1,15 +1,17 @@
 {
   "name": "linq.js",
-  "description": "linq.js - LINQ for JavaScript library packaged for node.js",
+  "description": "linq.js - LINQ for JavaScript. Implements all .NET 4.0 LINQ to Objects methods and many extra methods (inspiration from Rx, Achiral, Haskell, Ruby, etc...)",
   "keywords": [
-    "linq"
+    "linq",
+    "json",
+    "query"
   ],
   "author": {
     "name": "Mihai Ciuraru",
     "email": "mihaixc@gmail.com"
   },
-  "license": "",
-  "homepage": "https://github.com/mihaifm/linq",
+  "license": "MIT",
+  "homepage": "http://linqjs.codeplex.com/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mihaifm/linq.git"
