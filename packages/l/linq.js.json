@@ -1,19 +1,29 @@
 {
   "name": "linq.js",
-  "filename": "linq.min.js",
-  "version": "2.2.0.2",
   "description": "linq.js - LINQ for JavaScript. Implements all .NET 4.0 LINQ to Objects methods and many extra methods (inspiration from Rx, Achiral, Haskell, Ruby, etc...)",
-  "homepage": "http://linqjs.codeplex.com/",
   "keywords": [
     "linq",
     "json",
-    "query",
-    "jquery",
-    "rx"
+    "query"
   ],
+  "author": {
+    "name": "Mihai Ciuraru",
+    "email": "mihaixc@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "http://linqjs.codeplex.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mihaifm/linq.git"
+    "url": "git+https://github.com/mihaifm/linq.git"
   },
-  "license": "MIT"
+  "npmName": "linq",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "*.@(ts|js)"
+      ]
+    }
+  ],
+  "filename": "linq.min.js"
 }
