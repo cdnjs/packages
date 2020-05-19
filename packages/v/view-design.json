@@ -1,0 +1,33 @@
+{
+  "name": "view-design",
+  "description": "A high quality UI components Library with Vue.js",
+  "keywords": [
+    "iview",
+    "vue",
+    "viewui",
+    "vue.js",
+    "component",
+    "components",
+    "ui",
+    "framework"
+  ],
+  "author": {
+    "name": "Aresn"
+  },
+  "license": "MIT",
+  "homepage": "http://www.iviewui.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/view-design/ViewUI.git"
+  },
+  "npmName": "view-design",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ],
+  "filename": "iview.min.js"
+}
