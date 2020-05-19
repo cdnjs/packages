@@ -1,0 +1,36 @@
+{
+  "name": "mailgo",
+  "description": "a different mailto: and another tel:",
+  "keywords": [
+    "mailto",
+    "mail",
+    "tel",
+    "callto",
+    "gmail",
+    "outlook",
+    "telegram",
+    "whatsapp",
+    "skype"
+  ],
+  "author": {
+    "name": "Matteo Manzinello",
+    "email": "matteo@manzinello.dev",
+    "url": "https://matteomanzinello.com"
+  },
+  "license": "MIT",
+  "homepage": "https://mailgo.js.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manzinello/mailgo.git"
+  },
+  "npmName": "mailgo",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|css)"
+      ]
+    }
+  ],
+  "filename": "mailgo.min.js"
+}
