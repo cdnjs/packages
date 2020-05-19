@@ -1,0 +1,28 @@
+{
+  "name": "macy",
+  "description": "Macy is a lightweight, dependency free, masonry layout library",
+  "keywords": [
+    "masonry",
+    "layout"
+  ],
+  "author": {
+    "name": "Big Bite Creative",
+    "url": "http://bigbitecreative.com"
+  },
+  "license": "MIT",
+  "homepage": "http://macyjs.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigbitecreative/macy.js.git"
+  },
+  "npmName": "macy",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "macy.js"
+}
