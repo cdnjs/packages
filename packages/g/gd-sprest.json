@@ -9,7 +9,9 @@
   "keywords": [
     "sharepoint",
     "spo",
-    "rest"
+    "office365",
+    "rest",
+    "spfx"
   ],
   "homepage": "https://dattabase.com/",
   "npmName": "gd-sprest",
