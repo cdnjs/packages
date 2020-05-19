@@ -1,0 +1,26 @@
+{
+  "name": "pageable",
+  "description": "Create full page scrolling web pages. No jQuery.",
+  "keywords": [
+    "slider"
+  ],
+  "author": {
+    "name": "Karl Saunders"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Mobius1/Pageable#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mobius1/Pageable.git"
+  },
+  "npmName": "pageable",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|css)"
+      ]
+    }
+  ],
+  "filename": "pageable.min.js"
+}
