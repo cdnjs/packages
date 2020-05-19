@@ -1,44 +1,43 @@
 {
   "name": "datepicker",
   "description": "A simple jQuery datepicker plugin.",
-  "version": "0.6.5",
-  "filename": "datepicker.min.js",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fengyuanchen/datepicker.git"
-  },
-  "homepage": "https://fengyuanchen.github.io/datepicker/",
-  "author": {
-    "name": "Fengyuan Chen",
-    "url": "http://chenfengyuan.com"
-  },
   "keywords": [
     "date",
     "picker",
     "datepicker",
     "jquery",
     "plugin",
+    "jquery-plugin",
     "html",
     "css",
     "javascript",
     "front-end",
-    "web",
-    "development"
+    "web"
   ],
-  "npmName": "@fengyuanchen/datepicker",
+  "author": {
+    "name": "Chen Fengyuan",
+    "url": "https://chenfengyuan.com"
+  },
+  "license": "MIT",
+  "homepage": "https://fengyuanchen.github.io/datepicker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengyuanchen/datepicker.git"
+  },
+  "npmName": "@chenfengyuan/datepicker",
   "npmFileMap": [
     {
       "basePath": "dist",
       "files": [
-        "**/!(datepicker.esm.js*|datepicker.common.js*)"
+        "*.@(js|css)"
       ]
     },
     {
       "basePath": "",
       "files": [
-        "i18n/datepicker*"
+        "i18n/*.js"
       ]
     }
-  ]
+  ],
+  "filename": "datepicker.min.js"
 }
