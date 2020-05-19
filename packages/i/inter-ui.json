@@ -1,0 +1,31 @@
+{
+  "name": "inter-ui",
+  "description": "Font files for the Inter font family.",
+  "keywords": [
+    "inter",
+    "inter-ui",
+    "typeface",
+    "font",
+    "font family"
+  ],
+  "author": {
+    "name": "Rasmus Andersson",
+    "url": "https://rsms.me"
+  },
+  "license": "OFL-1.1",
+  "homepage": "https://github.com/philipbelesky/inter-ui#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/philipbelesky/inter-ui.git"
+  },
+  "npmName": "inter-ui",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "**/*.@(css|woff|woff2|scss)"
+      ]
+    }
+  ],
+  "filename": "inter.css"
+}
