@@ -1,0 +1,31 @@
+{
+  "name": "json-editor",
+  "description": "JSON Schema based editor",
+  "keywords": [
+    "json",
+    "schema",
+    "jsonschema",
+    "editor"
+  ],
+  "author": {
+    "name": "Jeremy Dorn",
+    "email": "jeremy@jeremydorn.com",
+    "url": "http://jeremydorn.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/json-editor/json-editor#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/json-editor/json-editor.git"
+  },
+  "npmName": "@json-editor/json-editor",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "jsoneditor.js"
+}
