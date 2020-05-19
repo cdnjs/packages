@@ -1,8 +1,15 @@
 {
   "name": "chartjs-plugin-doughnutlabel",
   "description": "Chart.js plugin for doughnut chart to display lines of text in the center",
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "chartjs",
+    "chartjs-plugin",
+    "chartjs-doughnut".
+    "javascript",
+    "doughnut",
+    "doughnut-chart"
+  ],
+  "author": "Ciprian Ciurea",
   "license": "ISC",
   "homepage": "https://github.com/ciprianciurea/chartjs-plugin-doughnutlabel#readme",
   "repository": {
