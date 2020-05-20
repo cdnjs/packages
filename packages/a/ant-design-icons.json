@@ -1,0 +1,22 @@
+{
+  "name": "ant-design-icons",
+  "description": "<h1 align=\"center\"> Ant Design Icons for React </h1>",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ant-design/ant-design-icons/tree/master/packages/icons-react"
+  },
+  "npmName": "@ant-design/icons",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "index.umd.min.js"
+}
