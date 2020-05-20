@@ -1,0 +1,31 @@
+{
+  "name": "w3-css",
+  "description": "W3.CSS is a modern CSS framework with built-in responsiveness",
+  "keywords": [
+    "css",
+    "w3css",
+    "w3-css",
+    "w3c",
+    "w3",
+    "w3.css"
+  ],
+  "author": {
+    "name": "vitorlans"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/vitorlans/w3-css#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorlans/w3-css.git"
+  },
+  "npmName": "w3-css",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "**/*.css"
+      ]
+    }
+  ],
+  "filename": "w3.css"
+}
