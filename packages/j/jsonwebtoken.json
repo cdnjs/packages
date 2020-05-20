@@ -1,0 +1,26 @@
+{
+  "name": "jsonwebtoken",
+  "description": "JSON Web Token implementation (symmetric and asymmetric)",
+  "keywords": [
+    "jwt"
+  ],
+  "author": {
+    "name": "auth0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/auth0/node-jsonwebtoken#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auth0/node-jsonwebtoken.git"
+  },
+  "npmName": "jsonwebtoken",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "**/*.js"
+      ]
+    }
+  ],
+  "filename": "index.js"
+}
