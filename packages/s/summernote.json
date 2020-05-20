@@ -1,40 +1,28 @@
 {
   "name": "summernote",
-  "filename": "summernote.min.js",
-  "version": "0.8.12",
-  "description": "Super Simple WYSIWYG Editor on Bootstrap",
-  "homepage": "http://summernote.org",
+  "description": "Super simple WYSIWYG editor",
   "keywords": [
-    "bootstrap",
-    "summernote",
     "editor",
     "WYSIWYG"
   ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/summernote/summernote.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
-        "basePath": "",
-        "files": [
-          "plugin/**/*"
-        ]
-      }
-    ]
+  "author": {
+    "name": "hackerwins",
+    "email": "<susukang98@gmail.com"
   },
+  "license": "MIT",
+  "homepage": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/summernote/summernote.git"
   },
-  "license": "MIT",
-  "author": {
-    "name": "hackerwins",
-    "email": "<susukang98@gmail.com>"
-  }
+  "npmName": "summernote",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*.@(js|css|map|eot|ttf|woff|woff2)"
+      ]
+    }
+  ],
+  "filename": "summernote.min.js"
 }
