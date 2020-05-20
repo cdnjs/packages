@@ -1,0 +1,27 @@
+{
+  "name": "textAngularJs",
+  "description": "A fork of textangular that can be used on Angular 1.7+",
+  "keywords": [
+    "AngularJS",
+    "text editor",
+    "WYSIWYG",
+    "directive"
+  ],
+  "author": "antosarho",
+  "license": "MIT",
+  "homepage": "http://textangular.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antosarho/textAngularJs.git"
+  },
+  "npmName": "textangularjs",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|css)"
+      ]
+    }
+  ],
+  "filename": "textAngular.min.js"
+}
