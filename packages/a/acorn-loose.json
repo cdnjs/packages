@@ -1,0 +1,22 @@
+{
+  "name": "acorn-loose",
+  "description": "Error-tolerant ECMAScript parser",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/acornjs/acorn",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acornjs/acorn.git"
+  },
+  "npmName": "acorn-loose",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js?(.map)"
+      ]
+    }
+  ],
+  "filename": "acorn-loose.js"
+}
