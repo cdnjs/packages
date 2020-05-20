@@ -1,0 +1,38 @@
+{
+  "name": "pdf-lib",
+  "description": "Create and modify PDF files with JavaScript",
+  "keywords": [
+    "pdf-lib",
+    "pdf",
+    "document",
+    "create",
+    "modify",
+    "creation",
+    "modification",
+    "edit",
+    "editing",
+    "typescript",
+    "javascript",
+    "library"
+  ],
+  "author": {
+    "name": "Andrew Dillon",
+    "email": "andrew.dillon.j@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://pdf-lib.js.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hopding/pdf-lib.git"
+  },
+  "npmName": "pdf-lib",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "pdf-lib.min.js"
+}
