@@ -1,13 +1,6 @@
 {
   "name": "interact.js",
-  "version": "1.2.9",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/taye/interact.js.git"
-  },
-  "filename": "interact.min.js",
-  "description": "Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)",
-  "homepage": "http://interactjs.io",
+  "description": "Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)",
   "keywords": [
     "interact.js",
     "draggable",
@@ -23,24 +16,24 @@
     "inertia",
     "grid",
     "autoscroll",
-    "SVG"
+    "SVG",
+    "interact"
   ],
+  "author": "",
   "license": "MIT",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/taye/interact.js.git",
-    "fileMap": [
-      {
-        "basePath": "",
-        "files": [
-          "interact.*"
-        ]
-      }
-    ]
+  "homepage": "https://interactjs.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taye/interact.js.git"
   },
-  "author": {
-    "name": "Taye Adeyemi",
-    "email": "dev@taye.me",
-    "url": "http://taye.me"
-  }
+  "npmName": "interactjs",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "interact.min.js"
 }
