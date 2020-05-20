@@ -1,6 +1,5 @@
 {
   "name": "vuex",
-  "version": "3.1.3",
   "filename": "vuex.min.js",
   "description": "state management for Vue.js",
   "repository": {
@@ -21,7 +20,7 @@
     {
       "basePath": "dist",
       "files": [
-        "**/vuex!(.common|.esm).js"
+        "*.js"
       ]
     }
   ]
