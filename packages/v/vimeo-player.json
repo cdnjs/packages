@@ -11,12 +11,9 @@
     "javascript",
     "postMessage"
   ],
-  "author": {
-    "name": "Vimeo",
-    "email": "https://vimeo.com"
-  },
+  "author": "Vimeo (https://vimeo.com)",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/vimeo/player.js#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/vimeo/player.js.git"
