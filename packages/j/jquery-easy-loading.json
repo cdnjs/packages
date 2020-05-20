@@ -1,0 +1,33 @@
+{
+  "name": "jquery-easy-loading",
+  "description": "Easily add and manipulate loading states of any element on the page",
+  "keywords": [
+    "jquery",
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "overlay",
+    "loading",
+    "loader",
+    "ajax"
+  ],
+  "author": {
+    "name": "Carlos Bonetti",
+    "email": "carlosbonetti.mail@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "http://carlosbonetti.github.io/jquery-loading/",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CarlosBonetti/jquery-loading.git"
+  },
+  "npmName": "jquery-easy-loading",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "jquery.loading.min.js"
+}
