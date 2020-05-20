@@ -1,0 +1,31 @@
+{
+  "name": "vimeo-player",
+  "description": "Interact with and control an embedded Vimeo Player.",
+  "keywords": [
+    "vimeo",
+    "player",
+    "api",
+    "iframe",
+    "embed",
+    "video",
+    "javascript",
+    "postMessage"
+  ],
+  "author": "Vimeo (https://vimeo.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/vimeo/player.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vimeo/player.js.git"
+  },
+  "npmName": "@vimeo/player",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "player.min.js"
+}
