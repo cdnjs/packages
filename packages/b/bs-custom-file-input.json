@@ -1,0 +1,32 @@
+{
+  "name": "bs-custom-file-input",
+  "description": "A little plugin for Bootstrap 4 custom file input",
+  "keywords": [
+    "bootstrap",
+    "bootstrap 4",
+    "custom file input",
+    "vanillajs",
+    "react",
+    "angular"
+  ],
+  "author": {
+    "name": "Johann-S",
+    "email": "johann.servoire@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Johann-S/bs-custom-file-input",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johann-S/bs-custom-file-input.git"
+  },
+  "npmName": "bs-custom-file-input",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "bs-custom-file-input.min.js"
+}
