@@ -1,0 +1,27 @@
+{
+  "name": "mqtt",
+  "description": "A library for the MQTT protocol",
+  "keywords": [
+    "mqtt",
+    "publish/subscribe",
+    "publish",
+    "subscribe"
+  ],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/mqttjs/MQTT.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mqttjs/MQTT.js.git"
+  },
+  "npmName": "mqtt",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "mqtt.min.js"
+}
