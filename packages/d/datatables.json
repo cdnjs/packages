@@ -1,40 +1,34 @@
 {
   "name": "datatables",
-  "version": "1.10.20",
-  "filename": "js/jquery.dataTables.min.js",
-  "description": "DataTables enhances HTML tables with the ability to sort, filter and page the data in the table very easily. It provides a comprehensive API and set of configuration options, allowing you to consume data from virtually any data source.",
-  "homepage": "http://datatables.net",
+  "description": "DataTables for jQuery ",
   "keywords": [
-    "DataTables",
-    "DataTable",
-    "table",
-    "grid",
     "filter",
     "sort",
-    "page",
-    "internationalisable"
+    "DataTables",
+    "jQuery",
+    "table",
+    "DataTables"
   ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/DataTables/DataTables.git",
-    "fileMap": [
-      {
-        "basePath": "media",
-        "files": [
-          "css/*",
-          "js/*dataTables*",
-          "images/*.png"
-        ]
-      }
-    ]
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
   },
   "license": "MIT",
+  "homepage": "https://datatables.net",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DataTables/DataTables.git"
+    "url": "git+https://github.com/DataTables/Dist-DataTables-DataTables.git"
   },
-  "author": {
-    "name": "Allan Jardine",
-    "url": "http://sprymedia.co.uk"
-  }
+  "npmName": "datatables.net-dt",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "css/*.css",
+        "images/*.png",
+        "js/*.js"
+      ]
+    }
+  ],
+  "filename": "js/dataTables.dataTables.min.js"
 }
