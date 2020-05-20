@@ -1,0 +1,40 @@
+{
+  "name": "bootstrap-v4-rtl",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "keywords": [
+    "css",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web",
+    "rtl",
+    "bootstrap"
+  ],
+  "author": {
+    "name": "Mahdi Majidzadeh"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl.git"
+  },
+  "npmName": "bootstrap-v4-rtl",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*.@(js|css|map)"
+      ]
+    },
+    {
+      "basePath": "",
+      "files": [
+        "scss/**/*.scss"
+      ]
+    }
+  ],
+  "filename": "js/bootstrap.min.js"
+}
