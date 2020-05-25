@@ -1,0 +1,29 @@
+{
+  "name": "embla-carousel",
+  "description": "Extensible bare bones carousels for the web",
+  "keywords": [
+    "slider",
+    "carousel",
+    "lightweight",
+    "touch"
+  ],
+  "author": {
+    "name": "David Cetinkaya"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/davidcetinkaya/embla-carousel#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcetinkaya/embla-carousel.git"
+  },
+  "npmName": "embla-carousel",
+  "npmFileMap": [
+    {
+      "basePath": "lib",
+      "files": [
+        "**/*.@(js|ts)"
+      ]
+    }
+  ],
+  "filename": "index.js"
+}
