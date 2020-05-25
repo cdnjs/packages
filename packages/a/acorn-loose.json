@@ -2,7 +2,7 @@
   "name": "acorn-loose",
   "description": "Error-tolerant ECMAScript parser",
   "keywords": [],
-  "author": "",
+  "author": "https://github.com/acornjs/acorn/graphs/contributors",
   "license": "MIT",
   "homepage": "https://github.com/acornjs/acorn",
   "repository": {
