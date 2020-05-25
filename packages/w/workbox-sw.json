@@ -1,0 +1,27 @@
+{
+  "name": "workbox-sw",
+  "description": "This module makes it easy to get started with the Workbox service worker libraries.",
+  "keywords": [
+    "workbox",
+    "workboxjs",
+    "service worker",
+    "sw"
+  ],
+  "author": "Google's Web DevRel Team",
+  "license": "MIT",
+  "homepage": "https://github.com/GoogleChrome/workbox",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/googlechrome/workbox.git"
+  },
+  "npmName": "workbox-sw",
+  "npmFileMap": [
+    {
+      "basePath": "build",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "workbox-sw.js"
+}
