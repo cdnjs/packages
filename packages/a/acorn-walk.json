@@ -2,7 +2,7 @@
   "name": "acorn-walk",
   "description": "ECMAScript (ESTree) AST walker",
   "keywords": [],
-  "author": "",
+  "author": "https://github.com/acornjs/acorn/graphs/contributors",
   "license": "MIT",
   "homepage": "https://github.com/acornjs/acorn",
   "repository": {
