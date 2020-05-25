@@ -1,0 +1,30 @@
+{
+  "name": "ant-design-icons",
+  "description": "Ant Design Icons for React",
+  "keywords": [
+    "angular",
+    "icons",
+    "svg-icons",
+    "react",
+    "vue",
+    "antd",
+    "ant-design"
+  ],
+  "author": "Ant Design Team",
+  "license": "MIT",
+  "homepage": "https://ant.design/components/icon/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ant-design/ant-design-icons/tree/master/packages/icons-react"
+  },
+  "npmName": "@ant-design/icons",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "index.umd.min.js"
+}
