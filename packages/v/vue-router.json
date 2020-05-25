@@ -1,0 +1,28 @@
+{
+  "name": "vue-router",
+  "description": "Official router for Vue.js 2",
+  "keywords": [
+    "vue",
+    "router",
+    "routing"
+  ],
+  "author": {
+    "name": "Evan You"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/vuejs/vue-router#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/vue-router.git"
+  },
+  "npmName": "vue-router",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "vue-router.min.js"
+}
