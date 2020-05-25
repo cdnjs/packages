@@ -1,0 +1,22 @@
+{
+  "name": "acorn-walk",
+  "description": "ECMAScript (ESTree) AST walker",
+  "keywords": [],
+  "author": "https://github.com/acornjs/acorn/graphs/contributors",
+  "license": "MIT",
+  "homepage": "https://github.com/acornjs/acorn",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acornjs/acorn.git"
+  },
+  "npmName": "acorn-walk",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js?(.map)"
+      ]
+    }
+  ],
+  "filename": "walk.js"
+}
