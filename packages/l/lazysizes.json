@@ -1,6 +1,5 @@
 {
   "name": "lazysizes",
-  "version": "5.2.0",
   "filename": "lazysizes.min.js",
   "author": "Alexander Farkas <info@corrupt-system.de>",
   "repository": {
@@ -13,8 +12,7 @@
     {
       "basePath": "",
       "files": [
-        "*.min.js",
-        "plugins/**/*.min.js"
+        "**/*.js"
       ]
     }
   ],
