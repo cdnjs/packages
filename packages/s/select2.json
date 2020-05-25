@@ -1,24 +1,27 @@
 {
   "name": "select2",
+  "filename": "js/select2.min.js",
   "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.",
+  "homepage": "https://select2.org",
   "keywords": [
     "select",
+    "jquery",
     "autocomplete",
     "typeahead",
     "dropdown",
+    "ui",
     "multiselect",
     "tag",
     "tagging"
   ],
-  "author": {
-    "name": "Kevin Brown",
-    "url": "https://github.com/kevin-brown"
-  },
-  "license": "MIT",
-  "homepage": "https://select2.org",
   "repository": {
     "type": "git",
     "url": "git://github.com/select2/select2.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Kevin Brown",
+    "url": "https://github.com/kevin-brown"
   },
   "npmName": "select2",
   "npmFileMap": [
@@ -28,6 +31,5 @@
         "**/*.@(css|js)"
       ]
     }
-  ],
-  "filename": "js/select2.min.js"
+  ]
 }
