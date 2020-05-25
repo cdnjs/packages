@@ -1,5 +1,11 @@
 {
   "name": "interact.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taye/interact.js.git"
+  },
+  "filename": "interact.min.js",
+  "homepage": "https://interactjs.io",
   "description": "Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)",
   "keywords": [
     "interact.js",
@@ -19,12 +25,11 @@
     "SVG",
     "interact"
   ],
-  "author": "",
   "license": "MIT",
-  "homepage": "https://interactjs.io",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/taye/interact.js.git"
+  "author": {
+    "name": "Taye Adeyemi",
+    "email": "dev@taye.me",
+    "url": "http://taye.me"
   },
   "npmName": "interactjs",
   "npmFileMap": [
@@ -34,6 +39,5 @@
         "*.@(js|map)"
       ]
     }
-  ],
-  "filename": "interact.min.js"
+  ]
 }
