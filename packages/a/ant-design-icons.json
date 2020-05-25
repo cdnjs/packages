@@ -1,10 +1,18 @@
 {
   "name": "ant-design-icons",
-  "description": "<h1 align=\"center\"> Ant Design Icons for React </h1>",
-  "keywords": [],
-  "author": "",
+  "description": "Ant Design Icons for React",
+  "keywords": [
+    "angular",
+    "icons",
+    "svg-icons",
+    "react",
+    "vue",
+    "antd",
+    "ant-design"
+  ],
+  "author": "Ant Design Team",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://ant.design/components/icon/",
   "repository": {
     "type": "git",
     "url": "https://github.com/ant-design/ant-design-icons/tree/master/packages/icons-react"
