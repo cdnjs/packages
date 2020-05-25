@@ -1,19 +1,22 @@
 {
   "name": "summernote",
-  "description": "Super simple WYSIWYG editor",
+  "filename": "summernote.min.js",
+  "description": "Super simple WYSIWYG editor on Bootstrap",
+  "homepage": "https://summernote.org",
   "keywords": [
+    "bootstrap",
+    "summernote",
     "editor",
     "WYSIWYG"
   ],
-  "author": {
-    "name": "hackerwins",
-    "email": "<susukang98@gmail.com"
-  },
-  "license": "MIT",
-  "homepage": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/summernote/summernote.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "hackerwins",
+    "email": "susukang98@gmail.com"
   },
   "npmName": "summernote",
   "npmFileMap": [
@@ -23,6 +26,5 @@
         "**/*.@(js|css|map|eot|ttf|woff|woff2)"
       ]
     }
-  ],
-  "filename": "summernote.min.js"
+  ]
 }
