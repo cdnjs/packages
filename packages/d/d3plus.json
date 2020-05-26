@@ -1,6 +1,5 @@
 {
   "name": "d3plus",
-  "version": "1.9.8",
   "description": "Data visualization made easy. A javascript library that extends the popular D3.js to enable fast and beautiful visualizations.",
   "repository": {
     "type": "git",
@@ -26,10 +25,13 @@
     {
       "basePath": "",
       "files": [
-        "d3plus.full.js",
-        "d3plus.full.min.js",
-        "d3plus.js",
-        "d3plus.min.js"
+        "d3plus*.js",
+      ]
+    },
+    {
+      "basePath": "build",
+      "files": [
+        "d3plus*.@(js|map)",
       ]
     }
   ]
