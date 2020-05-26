@@ -1,9 +1,17 @@
 {
   "name": "angular",
   "description": "Angular - the core framework",
-  "keywords": [],
+  "keywords": [
+    "angular",
+    "typescript",
+    "web",
+    "javascript",
+    "pwa",
+    "web-framework",
+    "web-performance"
+  ],
   "author": {
-    "name": "angular"
+    "name": "Angular"
   },
   "license": "MIT",
   "homepage": "https://github.com/angular/angular#readme",
