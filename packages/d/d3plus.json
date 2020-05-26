@@ -25,13 +25,13 @@
     {
       "basePath": "",
       "files": [
-        "d3plus*.js",
+        "d3plus*.js"
       ]
     },
     {
       "basePath": "build",
       "files": [
-        "d3plus*.@(js|map)",
+        "d3plus*.@(js|map)"
       ]
     }
   ]
