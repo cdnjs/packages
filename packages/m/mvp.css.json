@@ -1,0 +1,28 @@
+{
+  "name": "mvp.css",
+  "description": "A minimalist stylesheet for HTML elements",
+  "keywords": [
+    "css",
+    "stylesheet",
+    "mvp"
+  ],
+  "author": {
+    "name": "Andy Brewer"
+  },
+  "license": "MIT",
+  "homepage": "https://andybrewer.github.io/mvp/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andybrewer/mvp.git"
+  },
+  "npmName": "mvp.css",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "mvp.css"
+      ]
+    }
+  ],
+  "filename": "mvp.css"
+}
