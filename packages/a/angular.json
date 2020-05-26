@@ -1,0 +1,33 @@
+{
+  "name": "angular",
+  "description": "Angular - the core framework",
+  "keywords": [
+    "angular",
+    "typescript",
+    "web",
+    "javascript",
+    "pwa",
+    "web-framework",
+    "web-performance"
+  ],
+  "author": {
+    "name": "Angular"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/angular/angular#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git",
+    "directory": "packages/core"
+  },
+  "npmName": "@angular/core",
+  "npmFileMap": [
+    {
+      "basePath": "bundles",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "core.umd.min.js"
+}
