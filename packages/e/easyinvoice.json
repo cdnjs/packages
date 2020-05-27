@@ -1,0 +1,31 @@
+{
+  "name": "easyinvoice",
+  "description": "Easily create beautiful pdf invoices.",
+  "keywords": [
+    "invoice",
+    "quote",
+    "estimate",
+    "bill",
+    "pdf",
+    "generator"
+  ],
+  "author": {
+    "name": "Danny Veldhoen"
+  },
+  "license": "MIT",
+  "homepage": "https://easyinvoice.cloud",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dveldhoen/easyinvoice.git"
+  },
+  "npmName": "easyinvoice",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|map)"
+      ]
+    }
+  ],
+  "filename": "easyinvoice.min.js"
+}
