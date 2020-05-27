@@ -1,0 +1,28 @@
+{
+  "name": "vue-echarts",
+  "description": "ECharts component for Vue.js.",
+  "keywords": [
+    "ECharts",
+    "Vue.js"
+  ],
+  "author": {
+    "name": "Justineo",
+    "url": "justice360@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ecomfe/vue-echarts#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecomfe/vue-echarts.git"
+  },
+  "npmName": "vue-echarts",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "vue-echarts.js"
+}
