@@ -24,7 +24,12 @@
     {
       "basePath": "distrib",
       "files": [
-        "**/*.+(js|css)"
+        "jsxgraphcore.js",
+        "jsxgraph.css",
+        "geonext.min.js",
+        "intergeo.min.js",
+        "geogebra.min.js",
+        "sketch.min.js"
       ]
     }
   ],
