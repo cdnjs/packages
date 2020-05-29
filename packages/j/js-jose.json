@@ -1,0 +1,33 @@
+{
+  "name": "js-jose",
+  "description": "Library to encrypt and decrypt data in JSON Web Encryption (JWE) format and to sign data in JSON Web Signature (JWS) format. Leverages Browser's native web crypto API.",
+  "keywords": [
+    "crypto",
+    "jwe",
+    "jws",
+    "encrypt",
+    "decrypt",
+    "sign",
+    "verify"
+  ],
+  "author": "square",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/square/js-jose",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/square/js-jose.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/square/js-jose.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  },
+  "filename": "jose.min.js"
+}
