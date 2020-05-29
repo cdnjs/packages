@@ -1,0 +1,29 @@
+{
+  "name": "file-upload-with-preview",
+  "description": "A simple file-upload utility that shows a preview of the uploaded image. Written in pure JavaScript. No dependencies. Works well with Bootstrap 4 or without a framework.",
+  "keywords": [
+    "upload",
+    "uploader",
+    "preview",
+    "image",
+    "file",
+    "bootstrap"
+  ],
+  "author": "John Datserakis <johndatserakis@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/promosis/file-upload-with-preview#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promosis/file-upload-with-preview.git"
+  },
+  "npmName": "file-upload-with-preview",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|css)"
+      ]
+    }
+  ],
+  "filename": "file-upload-with-preview.min.js"
+}
