@@ -1,0 +1,29 @@
+{
+  "name": "fitty",
+  "description": "Snugly resizes text to fit its parent container",
+  "keywords": [
+    "fit",
+    "responsive",
+    "text",
+    "font",
+    "rescale",
+    "resize"
+  ],
+  "author": "Rik Schennink <rik@pqina.nl> (https://pqina.nl/)",
+  "license": "MIT",
+  "homepage": "https://github.com/rikschennink/fitty",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikschennink/fitty.git"
+  },
+  "npmName": "fitty",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "fitty.min.js"
+}
