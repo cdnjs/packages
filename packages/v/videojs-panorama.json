@@ -1,0 +1,25 @@
+{
+  "name": "videojs-panorama",
+  "description": "a plugin for videojs run a full 360 degree panorama video. ",
+  "keywords": [
+    "videojs",
+    "videojs-plugin"
+  ],
+  "author": "yanwsh@gmail.com",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/yanwsh/videojs-panorama#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yanwsh/videojs-panorama.git"
+  },
+  "npmName": "videojs-panorama",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|css)"
+      ]
+    }
+  ],
+  "filename": "videojs-panorama.v5.min.js"
+}
