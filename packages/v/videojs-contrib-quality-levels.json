@@ -1,0 +1,25 @@
+{
+  "name": "videojs-contrib-quality-levels",
+  "description": "Exposes a list of quality levels available for the source.",
+  "keywords": [
+    "videojs",
+    "videojs-plugin"
+  ],
+  "author": "Brightcove, Inc.",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/videojs/videojs-contrib-quality-levels#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/videojs/videojs-contrib-quality-levels.git"
+  },
+  "npmName": "videojs-contrib-quality-levels",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "videojs-contrib-quality-levels.min.js"
+}
