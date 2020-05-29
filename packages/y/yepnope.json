@@ -1,0 +1,17 @@
+{
+  "name": "yepnope",
+  "filename": "yepnope.min.js",
+  "version": "2.0.0",
+  "description": "A Script Loader For Your Conditional Builds",
+  "homepage": "http://yepnopejs.com/",
+  "keywords": [
+    "loader",
+    "popular"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SlexAxton/yepnope.js"
+  },
+  "license": "BSD-3-Clause",
+  "author": "Alex Sexton, Ralph Holzmann"
+}
