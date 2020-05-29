@@ -1,0 +1,22 @@
+{
+  "name": "base32",
+  "description": "Base32 encoding and decoding",
+  "keywords": [],
+  "author": "Isaac Wolkerstorfer <agnoster@gmail.com> (http://agnoster.net/)",
+  "license": "MIT",
+  "homepage": "https://github.com/agnoster/base32-js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/agnoster/base32-js.git"
+  },
+  "npmName": "base32",
+  "npmFileMap": [
+    {
+      "basePath": "lib",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "base32.js"
+}
