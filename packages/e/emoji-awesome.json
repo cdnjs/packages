@@ -1,0 +1,26 @@
+{
+  "name": "emoji-awesome",
+  "description": "Cross platform, easy to use, no-javascript solution for the emoji awesomeness 😎",
+  "keywords": [
+    "css",
+    "emoji",
+    "emoji-awesome"
+  ],
+  "author": "Zeeshan Ahmad <ziishaned@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/ziishaned/emoji-awesome",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziishaned/emoji-awesome.git"
+  },
+  "npmName": "emoji-awesome",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ],
+  "filename": "css/emojione.min.css"
+}
