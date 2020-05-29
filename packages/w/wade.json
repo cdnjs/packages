@@ -1,0 +1,27 @@
+{
+  "name": "wade",
+  "description": "Blazing fast, 1kb search library",
+  "keywords": [
+    "search",
+    "wade",
+    "fast",
+    "light"
+  ],
+  "author": "Kabir Shah",
+  "license": "MIT",
+  "homepage": "https://github.com/KingPixil/wade#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingPixil/wade.git"
+  },
+  "npmName": "wade",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "wade.min.js"
+}
