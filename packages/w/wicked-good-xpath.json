@@ -1,0 +1,32 @@
+{
+  "name": "wicked-good-xpath",
+  "description": "Pure JS implementation of the DOM Level 3 XPath specification",
+  "keywords": [
+    "closure",
+    "google",
+    "html",
+    "javascript",
+    "library",
+    "parse",
+    "wgxpath",
+    "wicked-good-xpath",
+    "xpath"
+  ],
+  "author": "Google Inc.",
+  "license": "MIT",
+  "homepage": "https://github.com/google/wicked-good-xpath",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/google/wicked-good-xpath.git"
+  },
+  "npmName": "wicked-good-xpath",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.js"
+      ]
+    }
+  ],
+  "filename": "wgxpath.install.js"
+}
