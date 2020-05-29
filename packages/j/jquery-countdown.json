@@ -1,0 +1,42 @@
+{
+  "name": "jquery-countdown",
+  "filename": "js/jquery.countdown.min.js",
+  "version": "2.1.0",
+  "description": "Countdown for jQuery.",
+  "homepage": "http://keith-wood.name/countdown.html",
+  "keywords": [
+    "jquery",
+    "countdown",
+    "i18n",
+    "timer",
+    "timezone",
+    "ui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kbwood/countdown.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Keith Wood",
+    "url": "http://keith-wood.name/"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/kbwood/countdown.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery.+(plugin|countdown)*.+(js|css)"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "**/+(css|js)/jquery.+(plugin|countdown)*.+(js|css|map)"
+        ]
+      }
+    ]
+  }
+}
