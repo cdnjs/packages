@@ -14,5 +14,17 @@
     "layui",
     "dialog"
   ],
-  "license": "LGPL"
+  "license": "LGPL",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/sentsin/layer.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css|png|gif)"
+        ]
+      }
+    ]
+  }
 }
