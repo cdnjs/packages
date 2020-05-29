@@ -1,0 +1,37 @@
+{
+  "name": "jquery.perfect-scrollbar",
+  "filename": "perfect-scrollbar.min.js",
+  "version": "1.5.0",
+  "description": "Minimalistic but perfect custom scrollbar plugin",
+  "homepage": "https://utatti.github.io/perfect-scrollbar/",
+  "keywords": [
+    "jquery-plugin",
+    "frontend",
+    "scroll",
+    "scrollbar"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/utatti/perfect-scrollbar.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.esm.*|*.common.*)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "css/perfect-scrollbar*"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utatti/perfect-scrollbar"
+  },
+  "license": "MIT",
+  "author": "Hyunje Alex Jun <me@noraesae.net>"
+}
