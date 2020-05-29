@@ -1,6 +1,7 @@
 {
   "name": "jsxgraph",
   "filename": "jsxgraphcore.js",
+  "version": "0.99.7",
   "description": "A JavaScript library for interactive geometry, function plotting, visualization",
   "keywords": [
     "dynamic geometry",
@@ -19,19 +20,21 @@
     "type": "git",
     "url": "https://github.com/jsxgraph/jsxgraph.git"
   },
-  "npmName": "jsxgraph",
-  "npmFileMap": [
-    {
-      "basePath": "distrib",
-      "files": [
-        "jsxgraphcore.js",
-        "jsxgraph.css",
-        "geonext.min.js",
-        "intergeo.min.js",
-        "geogebra.min.js",
-        "sketch.min.js"
-      ]
-    }
-  ],
-  "license": "(MIT OR LGPL-3.0-or-later)"
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/jsxgraph/jsxgraph.git",
+    "fileMap": [
+      {
+        "basePath": "update_cdnjs",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "namespace": "JXG",  
+  "licenses": [
+    "MIT",
+    "LGPL-3.0"
+  ]
 }
