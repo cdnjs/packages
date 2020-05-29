@@ -1,0 +1,30 @@
+{
+  "name": "vuex-persistedstate",
+  "description": "Persist and rehydrate your Vuex state between page reloads.",
+  "keywords": [
+    "vue",
+    "vuex",
+    "plugin"
+  ],
+  "author": {
+    "name": "Robin van der Vleuten",
+    "email": "robin@webstronauts.co",
+    "url": "robinvdvleuten.nl"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/robinvdvleuten/vuex-persistedstate#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinvdvleuten/vuex-persistedstate.git"
+  },
+  "npmName": "vuex-persistedstate",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*.@(js|ts|map)"
+      ]
+    }
+  ],
+  "filename": "vuex-persistedstate.js"
+}
