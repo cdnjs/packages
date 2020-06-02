@@ -1,7 +1,7 @@
 ---
 name: cdnjs Update Request
 about: Request a library with a bad or missing auto-update config to be updated
-title: "U[date: xxx"
+title: "Update: xxx"
 labels: "📦 Update Request"
 ---
 
