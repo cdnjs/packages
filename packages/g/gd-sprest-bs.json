@@ -1,6 +1,6 @@
 {
   "name": "gd-sprest-bs",
-  "filename": "gd-sprest-bs-icons.min.js",
+  "filename": "gd-sprest-bs.min.js",
   "description": "A JavaScript library to interact with the SharePoint REST API including Bootstrap components.",
   "repository": {
     "type": "git",
