@@ -12,8 +12,7 @@
 * [Policy, rules and guidelines](#policy-rules-and-guidelines)
 * [Configuring library auto-update](#configuring-library-auto-update)
   * [Auto-update overview](#auto-update-overview)
-  * [NPM-based auto-update](#npm-based-auto-update)
-  * [Git-based auto-update](#git-based-auto-update)
+  * [Auto-update config](#auto-update-config)
 * [Creating a new library on cdnjs](#creating-a-new-library-on-cdnjs)
 
 ## Overview
@@ -42,18 +41,18 @@ cdnjs maintainers and peer-reviewers need to know the origin of new libraries an
 
 ### Auto-update overview
 
-Libraries that are actively maintained on [npm](https://www.npmjs.com/) or in a git repository with tagged releases can be configured to be automatically updated. A cdnjs auto-update script runs at scheduled intervals to check for new versions for cdnjs libraries on the relevant npm packages and git repositories as configured in each library's `package.json` file in this repository.
+Libraries that are actively maintained on [npm](https://www.npmjs.com/) or in a git repository with tagged releases can be configured to be automatically updated. A cdnjs auto-update script runs at scheduled intervals to check for new versions for cdnjs libraries on the relevant npm packages and git repositories as configured in each library's JSON file in this repository.
 
-Each cdnjs library has a JSON file. This file contains required and sometimes optional information about how the library works. Auto-update is configured in `package.json` alongside other library information.
+Each cdnjs library has a JSON file. This file contains required and sometimes optional information about how the library works. Auto-update is configured in the library's JSON file alongside other library information.
 
-### Auto-update
+### Auto-update config
 
-* `autoupdate` is the top-level property that all autoupdate config options are contained within
-  * `source` should be either `npm` for a NPM-based auto-update package, or `git` to indicate git-based auto-updating
-  * `target` is the NPM package name, or the git url for the git repo to be used for updating
-  * `fileMap` contains an array of a single object that houses the information on what files cdnjs should copy
-    * `basePath` is the path in the git repository or NPM package that we will start exploring from
-    * `files` indicates the file(s) to copy and can be named (e.g. `lodash.min.js`) or [globs](https://do.co/glob-tool) (e.g. `*.js`).
+- `autoupdate` is the top-level property that all autoupdate config options are contained within
+  - `source` should be either `npm` for a NPM-based auto-update package, or `git` to indicate git-based auto-updating
+  - `target` is the NPM package name, or the git url for the git repo to be used for updating
+  - `fileMap` contains an array of a single object that houses the information on what files cdnjs should copy
+    - `basePath` is the path in the git repository or NPM package that we will start exploring from
+    - `files` indicates the file(s) to copy and can be named (e.g. `lodash.min.js`) or [globs](https://do.co/glob-tool) (e.g. `*.js`).
 
 #### NPM-based auto-update example
 
