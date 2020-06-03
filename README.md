@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <a href="#contributing">
+ <a href="#contributing">
    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
  </a>
  <a href="https://github.com/cdnjs/packages/blob/master/LICENSE">
@@ -56,7 +56,7 @@ Currently, cdnjs is the #1 free and open source CDN built to make life easier fo
 
 ### Other Repositories
 
-For the full set of library assets that are hosted on cdjs, please take a look at the robot-only [`cdnjs/cdnjs`](https://github.com/cdnjs/cdnjs) repository.
+For the full set of library assets that are hosted on cdnjs, please take a look at the robot-only [`cdnjs/cdnjs`](https://github.com/cdnjs/cdnjs) repository.
 
 For our website, please refer to the [`cdnjs/new-website`](https://github.com/cdnjs/new-website) repository.
 
