@@ -5,18 +5,17 @@
   "keywords": [
     "fullscreen"
   ],
-  "version": "1.1.4",
   "author": {
     "name": "Klaus Reimer",
     "email": "k@ailis.de"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kayahr/jquery-fullscreen-plugin.git"
+    "url": "https://github.com/code-lts/jquery-fullscreen-plugin.git"
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/kayahr/jquery-fullscreen-plugin.git",
+    "target": "git://github.com/code-lts/jquery-fullscreen-plugin.git",
     "fileMap": [
       {
         "basePath": "",
