@@ -1,0 +1,31 @@
+{
+  "name": "datatables.net-rowgroup",
+  "description": "RowGroup for DataTables ",
+  "keywords": [
+    "row grouping",
+    "DataTables",
+    "jQuery",
+    "table",
+    "DataTables"
+  ],
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {},
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-rowgroup",
+    "fileMap": [
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "dataTables.rowGroup.min.js"
+}
