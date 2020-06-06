@@ -1,0 +1,37 @@
+{
+  "name": "datatables.net-dt",
+  "description": "DataTables for jQuery ",
+  "keywords": [
+    "filter",
+    "sort",
+    "DataTables",
+    "jQuery",
+    "table",
+    "DataTables"
+  ],
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-DataTables.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-dt",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/*.css",
+          "images/*.png",
+          "js/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/dataTables.dataTables.min.js"
+}
