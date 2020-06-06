@@ -1,0 +1,40 @@
+{
+  "name": "datatables.net-responsive-bs",
+  "description": "Responsive for DataTables with styling for [Bootstrap 3](http://getbootstrap.com/)",
+  "keywords": [
+    "responsive",
+    "DataTables",
+    "jQuery",
+    "table",
+    "Bootstrap"
+  ],
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-Responsive-Bootstrap.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-responsive-bs",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "responsive.bootstrap.min.js"
+}
