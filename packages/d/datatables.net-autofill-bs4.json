@@ -1,0 +1,38 @@
+{
+  "name": "datatables.net-autofill-bs4",
+  "description": "AutoFill for DataTables with styling for [Bootstrap 4](http://getbootstrap.com/)",
+  "keywords": [
+    "autofill",
+    "excel",
+    "DataTables",
+    "jQuery",
+    "table",
+    "Bootstrap 4"
+  ],
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {},
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-autofill-bs4",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "autoFill.bootstrap4.min.js"
+}
