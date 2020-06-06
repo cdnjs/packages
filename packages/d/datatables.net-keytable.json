@@ -1,0 +1,36 @@
+{
+  "name": "datatables.net-keytable",
+  "description": "KeyTable for DataTables ",
+  "keywords": [
+    "spreadsheet",
+    "excel",
+    "keyboard",
+    "DataTables",
+    "jQuery",
+    "table",
+    "DataTables"
+  ],
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-KeyTable.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-keytable",
+    "fileMap": [
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "dataTables.keyTable.min.js"
+}
