@@ -1,0 +1,38 @@
+{
+  "name": "datatables.net-select-bs4",
+  "description": "Select for DataTables with styling for [Bootstrap 4](http://getbootstrap.com/)",
+  "keywords": [
+    "select",
+    "selection",
+    "DataTables",
+    "jQuery",
+    "table",
+    "Bootstrap 4"
+  ],
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {},
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-select-bs4",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "select.bootstrap4.min.js"
+}
