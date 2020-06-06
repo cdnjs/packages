@@ -1,0 +1,30 @@
+{
+  "name": "datatables.net-editor",
+  "description": "DataTables Editor",
+  "keywords": [
+    "DataTables",
+    "Editor"
+  ],
+  "author": {
+    "name": "SpryMedia Ltd"
+  },
+  "license": "SEE LICENSE IN License.md",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "github.com:DataTables/editor-npm.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-editor",
+    "fileMap": [
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "dataTables.editor.min.js"
+}
