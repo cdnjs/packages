@@ -1,0 +1,37 @@
+{
+  "name": "datatables.net-rowgroup-bs4",
+  "description": "RowGroup for DataTables with styling for [Bootstrap 4](http://getbootstrap.com/)",
+  "keywords": [
+    "row grouping",
+    "DataTables",
+    "jQuery",
+    "table",
+    "Bootstrap 4"
+  ],
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {},
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-rowgroup-bs4",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "rowGroup.bootstrap4.min.js"
+}
