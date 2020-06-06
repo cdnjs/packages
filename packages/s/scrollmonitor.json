@@ -1,25 +1,26 @@
 {
   "name": "scrollmonitor",
-  "version": "1.2.0",
   "filename": "scrollMonitor.js",
   "author": "Stu Kabakoff <stukabakoff@gmail.com>",
-  "description": "A simple and fast API to monitor DOM elements as you scroll",
+  "description": "A simple and fast API to monitor elements as you scroll ",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sakabako/scrollMonitor.git"
+    "url": "https://github.com/stutrek/scrollmonitor.git"
   },
   "keywords": [
     "scroll",
-    "dom"
+    "dom",
+    "javascript",
+    "viewport"
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/sakabako/scrollMonitor.git",
+    "target": "git://github.com/stutrek/scrollmonitor.git",
     "fileMap": [
       {
         "basePath": "",
         "files": [
-          "scrollMonitor.js"
+          "scrollMonitor.js?(.map)"
         ]
       }
     ]
