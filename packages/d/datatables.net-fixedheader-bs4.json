@@ -1,0 +1,38 @@
+{
+  "name": "datatables.net-fixedheader-bs4",
+  "description": "FixedHeader for DataTables with styling for [Bootstrap 4](http://getbootstrap.com/)",
+  "keywords": [
+    "fixed headers",
+    "sticky",
+    "DataTables",
+    "jQuery",
+    "table",
+    "Bootstrap 4"
+  ],
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {},
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-fixedheader-bs4",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "fixedHeader.bootstrap4.min.js"
+}
