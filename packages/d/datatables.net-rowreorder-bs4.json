@@ -14,7 +14,10 @@
   },
   "license": "MIT",
   "homepage": "https://datatables.net",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-RowReorder-Bootstrap4.git"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "datatables.net-rowreorder-bs4",
