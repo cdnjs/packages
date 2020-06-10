@@ -14,6 +14,13 @@
   * [Auto-update overview](#auto-update-overview)
   * [Auto-update config](#auto-update-config)
 * [Creating a new library on cdnjs](#creating-a-new-library-on-cdnjs)
+  * [Fork the cdnjs repository](#fork-the-cdnjs-repository)
+  * [Make changes to your fork](#make-changes-to-your-fork)
+  * [Follow the existing library conventions](#follow-the-existing-library-conventions)
+  * [Making changes using your browser](#making-changes-using-your-browser)
+  * [Create a pull request](#create-a-pull-request)
+  * [Fixing any CI errors](#fixing-any-ci-errors)
+  * [Reviewing and merging](#reviewing-and-merging)
 
 ## Overview
 
@@ -27,15 +34,15 @@ Libraries that do not have a way to provide automatic updates are no longer supp
 
 ## Policy, rules and guidelines
 
-<!-- TODO: Get a full list of whitelisted file types from Cloudflare, to be listed here -->
-
 cdnjs will host any production version of any JavaScript (JS) or Cascading Style Sheets (CSS) library, subject to appropriate licence permissions.
 
-cdnjs will host JS, CSS, SWF and library image files. Note: cdnjs does not currently serve HTML or PHP files.
+cdnjs will host a specific subset of file types, which include JS, TS, CSS, SCSS, JSON, WASM, SWF, images, audio.
+The full list of supported extensions can be requested through the cdnjs API: [api.cdnjs.com/whitelist](https://api.cdnjs.com/whitelist)
 
-New libraries should have some indicator of popularity (e.g., GitHub stars or watchers) and purpose (e.g., a jQuery plugin to display images).
-
-cdnjs maintainers and peer-reviewers need to know the origin of new libraries and updates (i.e., where you downloaded the files from).
+New libraries are required to meet a basic popularity level to be hosted on cdnjs, to avoid wasting maintainer time.
+For NPM packages, the base level for popularity is 800 downloads or more per month.
+For GitHub repositories the requirement is normally 200 stars.
+These requirements are at the discretion of cdnjs maintainers when adding libraries to cdnjs.
 
 ## Configuring library auto-update
 
@@ -181,88 +188,69 @@ The auto-update process will locate `lib` (specified in `basePath`) and copy `*`
 
 ## Creating a new library on cdnjs
 
-<!-- TODO: Create PR that adds package.json file with correct properties and auto-update -->
-
-<!--
-
-TODO: Vet all of this
-
-## 5. Adding and updating cdnjs
-
 Changes to cdnjs happen with the following process:
 
-* fork the cdnjs repository to your GitHub account
-* make the required changes to the forked repository
-* run the pre-flight `npm` check, resolve any errors
-* raise a pull request with appropriate information
-* remove your forked repository after the merge
+* Fork the cdnjs/packages repository on your GitHub account
+* Make the required changes to the forked repository
+* Raise a pull request with appropriate information
+* Remove your forked repository (or branch if you plan to contribute again) after merge
 
-If these steps are followed, and everything works out, the update process is usually efficient and your library update will go live soon afterwards.
+If these steps are followed, and everything works out, the process for adding a library is usually efficient and your library will go live soon afterwards.
 
-### 5.1 Fork the cdnjs repository
-
-Forking the cdnjs repository is easy. Be aware that it is one of the largest repositories on GitHub (>3GB), and this should be a consideration if you choose to clone it to your computer.
+### Fork the cdnjs repository
 
 To fork the repository via your browser, visit this link:
 
-[https://github.com/cdnjs/cdnjs/fork](https://github.com/cdnjs/cdnjs/fork)
+[https://github.com/cdnjs/packages/fork](https://github.com/cdnjs/packages/fork)
 
-Select your GitHub account for the destination and wait for the forking process to complete. Assuming you saw no errors, you should be able to access your fork of cdnjs from your own GitHub account:
+Select your GitHub account for the destination and wait for the forking process to complete.
+Assuming you saw no errors, you should be able to access your fork of cdnjs from your own GitHub account:
 
-https://github.com/your-github-username/cdnjs
+https://github.com/your-github-username/packages
 
-&hellip;where your-github-username is, unsurprisingly, your GitHub username.
+Please make sure to fork cdnjs/packages, NOT cdnjs/cdnjs, as we only accept pull requests adding library JSON files to the cdnjs/packages repository.
+cdnjs/cdnjs is now a robot-only repository and does not accept PRs.
 
-### 5.2 Make changes to your fork
+### Make changes to your fork
 
-Change are made to your fork of cdnjs. These changes contribute to a pull request, which may be merged after examination by the cdnjs maintainers.
+Change are made to your fork of cdnjs. These changes contribute to a pull request, which may be merged after review by the cdnjs maintainers.
 
-Changes to your fork can be made at GitHub using your browser, or on your computer using a `git` command line or graphical user interface.
+Changes to your fork can be made in GitHub using your browser, or on your computer using a `git` command line or graphical user interface.
 
 * If you intend to make a _single, simple contribution_ to cdnjs you will likely find the browser experience more straightforward.
 
 * If you intend to make _numerous contributions_ to cdnjs, you may find a local clone of your forked repository a better route.
 
-#### 5.2.1 Follow the existing library convention
+### Follow the existing library conventions
 
-Where possible, follow the existing file and directory structure for the library when adding a new version. Users should ideally be able to increment the version number reference in their projects to load a more recent version.
+When adding a new library, please refer to existing libraries in the repository, preferring more recently added ones as a source of truth for the preferred structure for a library JSON file.
 
-This is not always possible with major or minor version changes, especially with considerable changes, so please ask if you are not sure.
+### Making changes using your browser
 
-#### 5.2.2 Make changes using your browser
+The GitHub website provides an easy-to-use interface to add libraries.
 
-The GitHub website provides an easy-to-use interface to add and update simple libraries. A library containing a single or small number of text files is an ideal candidate for this route.
+In your fork of cdnjs, navigate to the `packages` directory of the repository:
 
-In your fork of cdnjs, navigate to `ajax/libs`:
+https://github.com/your-github-username/packages/tree/master/packages
 
-https://github.com/your-github-username/cdnjs/tree/master/ajax/libs
+From here, you can then click the 'Create new file' button in the bar above the file list.
 
-&hellip;where, again, `your-github-username` is your GitHub username.
+You can then define the name for the library JSON file, as well as the directory. If you type in `a/a-library.json` as the name, GitHub will automatically create or move you to the `a` directory and then create the file named `a-library.json`.
 
-##### 5.2.2.1 Update a library using your browser
+In the file contents you should include your basic library JSON data, based on the conventions set by existing libraries and following the above guidance on a valid auto-update configuration.
 
-If you are updating an existing library, find it from the list. Click on the library name; you'll find a `package.json` file and one or more numbered directories. Each directory contains that version of the library, and that version _only_.
+<!--
 
-To add a new version of a library, create a new directory named after the new library version by clicking the `+` link near the top.
+### Create a pull request
 
-*[INCOMPLETE]*
+TODO: this
 
-#### 5.2.3 Make changes on a local repo clone
+### Fixing any CI errors
 
-Coming soon - please refer to `README.md`.
+TODO: this
 
-### 5.3 Pre-flight checks
+### Reviewing and merging
 
-Coming soon - please refer to `README.md`.
-
-### 5.4 Create a pull request
-
-Coming soon - please refer to `README.md`.
-
-### 5.5 Pull request follow-up
-
-Coming soon - please refer to `README.md`.
-
-## 6. Create an issue
+TODO: this
 
 -->
