@@ -239,18 +239,44 @@ You can then define the name for the library JSON file, as well as the directory
 
 In the file contents you should include your basic library JSON data, based on the conventions set by existing libraries and following the above guidance on a valid auto-update configuration.
 
-<!--
-
 ### Create a pull request
 
-TODO: this
+Once you have added your content to your file, you need to commit this and then create a PR.
+
+If you're using the GitHub browser interface, below the file content will be a set of inputs for controlling the commit.
+
+For the commit message, it should follow the standard following format so we can easily tracking libraries being added:
+
+`Add my-library-name w/ npm/git auto-update`, where `my-library-name` is replaced with the name of the library (should match the JSON file name), and `npm/git` is replaced with the choice matching the auto-update config in the JSON file.
+
+A commit description is not required, though if an issue requesting this library to be added exists, it may be useful to add `Resolves <issue link>` to the description so that GitHub tracks the PR in the issue.
+
+Please do NOT commit to the `master` branch, instead choose to create a new branch and again give it a sensible name, such as `add-my-library-name`.
+
+Finally, press the 'Propose new file' button to commit the new file and begin the process of creating a PR.
+
+On the PR creation page, please fill out the provided template with the requested information about the library and then press the button to create the pull request.
+cdnjs maintainers will then review your pull request as soon as they can.
 
 ### Fixing any CI errors
 
-TODO: this
+To help with ensuring all library JSON files added to cdnjs are of a standard format and contain a valid auto-update configuration as well as other information about the library, we have an automated CI that will review your JSON file in the PR.
+
+If the CI finds any issues with your JSON file it will mark itself as failed and add an annotation to the JSON file in the pull request 'Files' tab with information about the issues it found.
+
+Please edit your JSON file either in the GitHub browser interface or via your local clone to resolve issues highlighted.
+If you are unsure, please ask a cdnjs maintainer for help and we'll happily work with you to get your PR ready to merge.
 
 ### Reviewing and merging
 
-TODO: this
+As soon as your PR is passing the CI and a maintainer has time, they will manually review your pull request to ensure no issues have slipped past the automated CI.
 
--->
+Once the maintainer is happy that your PR is ready to go, they will merge it.
+You can then delete your fork (or branch if you plan to contribute again).
+
+Thank you for contributing to cdnjs!
+
+The cdnjs auto-updating logic runs roughly once per hour.
+It will detect any newly added JSON files and populate the 10 most recent versions it can find into the cdnjs/cdnjs repository.
+
+Once this is done, the files should shortly after be available on the CDN, though it may take a while longer for them to appear on our website as this doesn't automatically update as often.
