@@ -6,13 +6,14 @@
     "Editor"
   ],
   "author": {
-    "name": "SpryMedia Ltd"
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
   },
   "license": "SEE LICENSE IN License.md",
-  "homepage": "",
+  "homepage": "https://datatables.net",
   "repository": {
     "type": "git",
-    "url": "github.com:DataTables/editor-npm.git"
+    "url": "git+https://github.com/DataTables/Dist-Editor.git"
   },
   "autoupdate": {
     "source": "npm",
