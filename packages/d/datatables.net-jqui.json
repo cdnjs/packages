@@ -1,0 +1,41 @@
+{
+  "name": "datatables.net-jqui",
+  "description": "DataTables for jQuery with styling for [jQuery UI](http://jqueryui.com/)",
+  "keywords": [
+    "filter",
+    "sort",
+    "DataTables",
+    "jQuery",
+    "table",
+    "jQuery UI"
+  ],
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-jQueryUI.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-jqui",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "dataTables.jqueryui.min.js"
+}
