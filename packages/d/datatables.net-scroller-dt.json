@@ -1,0 +1,40 @@
+{
+  "name": "datatables.net-scroller-dt",
+  "description": "Scroller for DataTables ",
+  "keywords": [
+    "virtual scrolling",
+    "DataTables",
+    "jQuery",
+    "table",
+    "DataTables"
+  ],
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-Scroller-DataTables.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-scroller-dt",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "scroller.dataTables.min.js"
+}
