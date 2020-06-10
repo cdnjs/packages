@@ -1,0 +1,32 @@
+{
+  "name": "swup",
+  "description": "Complete, flexible, extensible and easy to use page transition library for your web.",
+  "keywords": [
+    "css",
+    "animation",
+    "page",
+    "transition"
+  ],
+  "author": {
+    "name": "Georgy Marchuk"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/gmrchk/swup#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmrchk/swup.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "swup",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "swup.min.js"
+}
