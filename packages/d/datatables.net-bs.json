@@ -1,0 +1,41 @@
+{
+  "name": "datatables.net-bs",
+  "description": "DataTables for jQuery with styling for [Bootstrap 3](http://getbootstrap.com/)",
+  "keywords": [
+    "filter",
+    "sort",
+    "DataTables",
+    "jQuery",
+    "table",
+    "Bootstrap"
+  ],
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-Bootstrap.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-bs",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "dataTables.bootstrap.min.js"
+}
