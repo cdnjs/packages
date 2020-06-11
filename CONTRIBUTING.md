@@ -269,7 +269,7 @@ If you are unsure, please ask a cdnjs maintainer for help and we'll happily work
 
 ### Reviewing and merging
 
-As soon as your PR is passing the CI and a maintainer has time, they will manually review your pull request to ensure no issues have slipped past the automated CI.
+As soon as your PR is passing the CI, and when a maintainer has time, they will manually review your pull request to ensure no issues have slipped past the automated CI.
 
 Once the maintainer is happy that your PR is ready to go, they will merge it.
 You can then delete your fork (or branch if you plan to contribute again).
