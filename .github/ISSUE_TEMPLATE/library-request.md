@@ -10,8 +10,8 @@ efficiently process your request for a new library to be added to cdnjs -->
 
 <!-- To add a library to cdnjs, it must have a way for an auto-update mechanism
 to be used. This can either be via a Git repository that has versions tagged,
-with the required files included in the repository at the tag. Or, this can be
-done via an NPM package. -->
+with the required files included in the repository at the tag. Alternatively,
+this can be done via an NPM package. -->
 
 <!-- cdnjs has a basic popularity requirement for libraries being added.
 Please ensure the library you are requesting has at least 800 downloads per
