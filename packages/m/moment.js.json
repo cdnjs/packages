@@ -17,7 +17,6 @@
     }
   ],
   "filename": "moment.min.js",
-  "version": "",
   "description": "Parse, validate, manipulate, and display dates",
   "homepage": "http://momentjs.com/",
   "keywords": [
