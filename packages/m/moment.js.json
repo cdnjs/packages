@@ -12,7 +12,7 @@
     {
       "basePath": "min",
       "files": [
-        "moment*.js"
+        "moment*.@(js|map)"
       ]
     }
   ],
