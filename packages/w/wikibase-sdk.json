@@ -1,0 +1,33 @@
+{
+  "name": "wikibase-sdk",
+  "description": "utils functions to query a Wikibase instance and simplify its results",
+  "keywords": [
+    "wikidata",
+    "wikibase",
+    "sdk",
+    "api",
+    "wdq",
+    "sparql",
+    "wbk"
+  ],
+  "author": "maxlath",
+  "license": "MIT",
+  "homepage": "https://github.com/maxlath/wikibase-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maxlath/wikibase-sdk.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/maxlath/wikibase-sdk.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "wikibase-sdk.min.js"
+}
