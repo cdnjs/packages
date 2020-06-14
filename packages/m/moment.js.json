@@ -12,12 +12,11 @@
     {
       "basePath": "min",
       "files": [
-        "moment*.js"
+        "moment*.@(js|map)"
       ]
     }
   ],
   "filename": "moment.min.js",
-  "version": "2.24.0",
   "description": "Parse, validate, manipulate, and display dates",
   "homepage": "http://momentjs.com/",
   "keywords": [
