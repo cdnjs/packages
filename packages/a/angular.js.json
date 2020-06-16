@@ -2,7 +2,6 @@
   "name": "angular.js",
   "filename": "angular.min.js",
   "description": "AngularJS is an MVC framework for building web applications. The core features include HTML enhanced with custom component and data-binding capabilities, dependency injection and strong focus on simplicity, testability, maintainability and boiler-plate reduction.",
-  "version": "1.7.9",
   "homepage": "http://angularjs.org",
   "keywords": [
     "framework",
@@ -18,13 +17,16 @@
     "type": "git",
     "url": "git://github.com/angular/angular.js.git"
   },
-  "npmName": "angular",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "angular.*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "angular*.@(js|css)?(.map)"
+        ]
+      }
+    ]
+  }
 }
