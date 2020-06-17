@@ -1,0 +1,46 @@
+{
+  "name": "medium-zoom",
+  "description": "A JavaScript library for zooming images like Medium",
+  "keywords": [
+    "medium",
+    "image",
+    "zoom",
+    "picture",
+    "lightbox",
+    "click",
+    "scroll",
+    "pure",
+    "plain",
+    "vanilla",
+    "javascript",
+    "ux",
+    "performance",
+    "event",
+    "medium-zoom",
+    "zoomable"
+  ],
+  "author": {
+    "name": "Francois Chalifour",
+    "email": "francois.chalifour@gmail.com",
+    "url": "https://francoischalifour.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/francoischalifour/medium-zoom#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francoischalifour/medium-zoom.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "medium-zoom",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(ts|js)"
+        ]
+      }
+    ]
+  },
+  "filename": "medium-zoom.min.js"
+}
