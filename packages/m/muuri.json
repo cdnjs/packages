@@ -1,8 +1,6 @@
 {
   "name": "muuri",
-  "filename": "muuri.min.js",
-  "version": "0.5.4",
-  "description": "Responsive, sortable, filterable and draggable grid layouts.",
+  "description": "Responsive, sortable, filterable and draggable layouts",
   "keywords": [
     "grid",
     "layout",
@@ -11,26 +9,28 @@
     "sort",
     "drag"
   ],
-  "homepage": "https://haltu.github.io/muuri/",
-  "license": "MIT",
   "author": {
-    "name": "Haltu Oy",
-    "url": "http://www.haltu.fi/"
+    "name": "Niklas Rämö",
+    "email": "inramo@gmail.com",
+    "url": "https://github.com/niklasramo"
   },
+  "license": "MIT",
+  "homepage": "https://muuri.dev/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/haltu/muuri.git"
+    "url": "git+ssh://git@github.com/haltu/muuri.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/haltu/muuri.git",
+    "source": "npm",
+    "target": "muuri",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "muuri*"
+          "*.js"
         ]
       }
     ]
-  }
+  },
+  "filename": "muuri.min.js"
 }
