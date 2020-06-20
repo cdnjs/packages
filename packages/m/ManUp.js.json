@@ -1,6 +1,5 @@
 {
 	"name": "ManUp.js",
-	"version": "",
 	"description": "ManUp.js is a polyfill to support the Manifest for Web Apps",
 	"filename": "manup.min.js",
 	"repository": {
