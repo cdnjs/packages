@@ -20,7 +20,9 @@
 		"fileMap": [
 			{
 				"basePath": "",
-				"files": ["manup*.js"]
+				"files": [
+				  "manup*.js"
+				]
 			}
 		]
 	}
