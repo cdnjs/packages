@@ -1,0 +1,23 @@
+{
+	"name": "ManUp.js",
+	"version": "",
+	"description": "ManUp.js is a polyfill to support the Manifest for Web Apps",
+	"filename": "manup.min.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/boyofgreen/ManUp.js.git"
+	},
+	"keywords": ["boyofgreen", "polyfill", "manup", "manupjs"],
+	"author": "Jeff Burtoft <boyofgreen@gmail.com>",
+	"license": "Apache-2.0",
+	"autoupdate": {
+		"source": "git",
+		"target": "git://github.com/boyofgreen/ManUp.js.git",
+		"fileMap": [
+			{
+				"basePath": "",
+				"files": ["manup*.js"]
+			}
+		]
+	}
+}
