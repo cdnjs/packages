@@ -6,7 +6,12 @@
 		"type": "git",
 		"url": "git://github.com/boyofgreen/ManUp.js.git"
 	},
-	"keywords": ["boyofgreen", "polyfill", "manup", "manupjs"],
+	"keywords": [
+	  "boyofgreen",
+	  "polyfill",
+	  "manup",
+	  "manupjs"
+	],
 	"author": "Jeff Burtoft <boyofgreen@gmail.com>",
 	"license": "Apache-2.0",
 	"autoupdate": {
