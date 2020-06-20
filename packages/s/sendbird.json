@@ -20,7 +20,7 @@
       {
         "basePath": "",
         "files": [
-          "SendBird.min*"
+          "SendBird.@(d.ts|min.js)"
         ]
       }
     ]
