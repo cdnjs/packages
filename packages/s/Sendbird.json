@@ -1,7 +1,7 @@
   
 {
   "name": "sendbird",
-  "version": ,
+  "version": "",
   "description": "SendBird provides the chat API and SDK for your app enabling real-time communication among your users.",
   "filename": "SendBird.min.js",
   "keywords": [
