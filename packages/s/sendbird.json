@@ -1,7 +1,5 @@
-  
 {
   "name": "sendbird",
-  "version": "",
   "description": "SendBird provides the chat API and SDK for your app enabling real-time communication among your users.",
   "filename": "SendBird.min.js",
   "keywords": [
@@ -15,13 +13,16 @@
     "type": "git",
     "url": "https://github.com/sendbird/SendBird-SDK-JavaScript"
   },
-  "npmName": "sendbird",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "SendBird.min*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "sendbird",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "SendBird.min*"
+        ]
+      }
+    ]
+  }
 }
