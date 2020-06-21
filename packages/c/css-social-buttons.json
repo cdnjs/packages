@@ -1,7 +1,13 @@
 {
   "name": "css-social-buttons",
   "description": "Zocial CSS social buttons.",
-  "keywords": ["css", "font", "icon", "social", "zocial"],
+  "keywords": [
+    "css",
+    "font",
+    "icon",
+    "social",
+    "zocial"
+  ],
   "homepage": "http://zocial.smcllns.com/",
   "filename": "css/zocial.min.css",
   "repository": {
@@ -15,7 +21,10 @@
     "fileMap": [
       {
         "basePath": "",
-        "files": ["css/zocial*", "src/*.svg"]
+        "files": [
+          "css/zocial*",
+          "src/*.svg"
+        ]
       }
     ]
   },
