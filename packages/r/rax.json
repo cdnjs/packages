@@ -12,15 +12,18 @@
     "jsx"
   ],
   "homepage": "https://rax.js.org/",
-  "npmName": "rax",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "rax",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  },
   "license": "BSD-3-Clause",
   "author": {
     "name": "yuanyan",
