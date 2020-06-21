@@ -1,8 +1,17 @@
 {
   "name": "tabler-icons",
   "description": "A set of over 500 free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a `2px` stroke.",
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "icons",
+    "iconset",
+    "svg-icons",
+    "svg",
+    "icons-pack",
+    "bootstrap-icons",
+    "css",
+    "icon-pack"
+  ],
+  "author": "Paweł Kuna (https://github.com/codecalm)",
   "license": "MIT",
   "homepage": "https://github.com/tabler/tabler-icons#readme",
   "repository": {
