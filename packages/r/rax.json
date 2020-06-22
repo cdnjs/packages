@@ -1,0 +1,32 @@
+{
+  "name": "rax",
+  "filename": "rax.min.js",
+  "description": "A universal React-compatible render engine.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alibaba/rax"
+  },
+  "keywords": [
+    "rax",
+    "react",
+    "jsx"
+  ],
+  "homepage": "https://rax.js.org/",
+  "autoupdate": {
+    "source": "npm",
+    "target": "rax",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "license": "BSD-3-Clause",
+  "author": {
+    "name": "yuanyan",
+    "email": "yuanyan.cao@alibaba-inc.com"
+  }
+}
