@@ -16,6 +16,72 @@
                 "files": [
                     "**"
                 ]
+            },
+            {
+                "basePath": "src/all_ignored",
+                "files": [
+                    "**"
+                ]
+            },
+            {
+                "basePath": "src/all_ignored",
+                "files": [
+                    "**"
+                ]
+            },
+            {
+                "basePath": "src/all_ignored",
+                "files": [
+                    "**"
+                ]
+            },
+            {
+                "basePath": "src/all_ignored",
+                "files": [
+                    "**"
+                ]
+            },
+            {
+                "basePath": "src/all_ignored",
+                "files": [
+                    "**"
+                ]
+            },
+            {
+                "basePath": "src/all_ignored",
+                "files": [
+                    "**"
+                ]
+            },
+            {
+                "basePath": "src/all_ignored",
+                "files": [
+                    "**"
+                ]
+            },
+            {
+                "basePath": "src/all_ignored",
+                "files": [
+                    "**"
+                ]
+            },
+            {
+                "basePath": "src/all_ignored",
+                "files": [
+                    "**"
+                ]
+            },
+            {
+                "basePath": "src/all_ignored",
+                "files": [
+                    "**"
+                ]
+            },
+            {
+                "basePath": "src/all_ignored",
+                "files": [
+                    "**"
+                ]
             }
         ],
         "source": "git",
