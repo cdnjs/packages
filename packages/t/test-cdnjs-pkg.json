@@ -1,0 +1,24 @@
+{
+    "name": "test_cdnjs_package",
+    "description": "A test package for cdnjs.",
+    "homepage": "https://github.com/tc80",
+    "author": {
+        "name": "tc80"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:tc80/test-cdnjs-pkg.git"
+    },
+    "autoupdate": {
+        "fileMap": [
+            {
+                "basePath": "src/some_ignored",
+                "files": [
+                    "**"
+                ]
+            }
+        ],
+        "source": "git",
+        "target": "git@github.com:tc80/test-cdnjs-pkg.git"
+    }
+}
