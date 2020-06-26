@@ -7,7 +7,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:tc80/test-cdnjs-pkg.git"
+        "url": "git+https://github.com/tc80/test-cdnjs-pkg.git"
     },
     "autoupdate": {
         "fileMap": [
@@ -19,6 +19,6 @@
             }
         ],
         "source": "git",
-        "target": "git@github.com:tc80/test-cdnjs-pkg.git"
+        "target": "git://github.com/tc80/test-cdnjs-pkg.git"
     }
 }
