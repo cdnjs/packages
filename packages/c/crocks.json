@@ -1,0 +1,40 @@
+{
+  "name": "crocks",
+  "description": "A collection of well known Algebraic Datatypes for your utter enjoyment.",
+  "keywords": [
+    "FP",
+    "Functional",
+    "Monadic",
+    "Monads",
+    "fantasy",
+    "Applicative",
+    "Functor"
+  ],
+  "author": {
+    "name": "Ian Hofmann-Hicks",
+    "email": "evilsoft@aol.com",
+    "url": "https://github.com/evilsoft"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evilsoft/crocks/issues"
+  },
+  "homepage": "https://crocks.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evilsoft/crocks.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "crocks",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "crocks.min.js"
+}
