@@ -1,0 +1,33 @@
+{
+  "name": "rambdax",
+  "filename": "rambdax.umd.js",
+  "description": "Lightweight alternative to Ramda - extended version",
+  "homepage": "https://selfrefactor.github.io/rambdax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selfrefactor/rambdax.git"
+  },
+  "keywords": [
+    "rambda",
+    "lodash",
+    "ramda",
+    "util"
+  ],
+  "author": {
+    "name": "Dejan Toteff",
+    "url": "https://github.com/selfrefactor"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "rambdax",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
+}
