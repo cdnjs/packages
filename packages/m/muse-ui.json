@@ -1,12 +1,18 @@
 {
   "name": "muse-ui",
   "description": "material design ui for vue2",
-  "keywords": [],
+  "keywords": [
+    "muse-ui",
+    "material",
+    "vuejs2",
+    "vue2",
+    "vue"
+  ],
   "author": {
     "name": "myronliu347",
     "email": "myronliu347@gmail.com"
   },
-  "license": "",
+  "license": "MIT",
   "homepage": "https://github.com/museui/muse-ui#readme",
   "repository": {
     "type": "git",
