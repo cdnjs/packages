@@ -1,7 +1,18 @@
 {
   "name": "tagify",
   "description": "lightweight, efficient Tags input component in Vanilla JS / React / Angular [super customizable, tiny size & top performance]",
-  "keywords": [],
+  "keywords": [
+    "tagging",
+    "html",
+    "input",
+    "tags",
+    "tagify",
+    "javascript",
+    "react",
+    "reactjs",
+    "react-component",
+    "angular-component"
+  ],
   "author": {
     "name": "Yair Even-Or",
     "email": "vsync.design@gmail.com"
