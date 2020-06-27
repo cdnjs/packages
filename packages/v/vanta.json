@@ -17,7 +17,6 @@
   ],
   "author": "Teng Bao",
   "license": "MIT",
-  "npmName": "vanta",
   "autoupdate": {
     "source": "npm",
     "target": "vanta",
