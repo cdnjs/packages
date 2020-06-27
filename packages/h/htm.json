@@ -1,0 +1,43 @@
+{
+  "name": "htm",
+  "description": "The Tagged Template syntax for Virtual DOM. Only browser-compatible syntax.",
+  "keywords": [
+    "Hyperscript Tagged Markup",
+    "tagged template",
+    "template literals",
+    "html",
+    "htm",
+    "jsx",
+    "virtual dom",
+    "hyperscript"
+  ],
+  "author": {
+    "name": "Jason Miller",
+    "email": "jason@developit.ca"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/developit/htm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developit/htm.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "htm",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|ts)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "@(mini|preact|react)/*.@(js|ts)"
+        ]
+      }
+    ]
+  },
+  "filename": "htm.js"
+}
