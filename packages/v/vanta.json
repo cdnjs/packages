@@ -1,0 +1,32 @@
+{
+  "name": "vanta",
+  "description": "3D animated backgrounds for your website",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tengbao/vanta"
+  },
+  "keywords": [
+    "animation",
+    "3d",
+    "three",
+    "threejs",
+    "background",
+    "canvas",
+    "javascript",
+    "webgl"
+  ],
+  "author": "Teng Bao",
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "vanta",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
+}
