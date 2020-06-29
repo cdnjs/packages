@@ -1,0 +1,27 @@
+{
+  "name": "cw",
+  "filename": "cw.min.js",
+  "homepage": "https://www.mastercw.com/cw.js/",
+  "title": "A comprehensive Morse code (CW) library",
+  "author": {
+    "name": "Yuval Adam",
+    "url": "https://www.mastercw.com"
+  },
+  "license": "ISC",
+  "description": "A comprehensive Morse code (CW) library used for playing Morse code sequences directly in the browser",
+  "keywords": ["javascript", "morse", "morse code", "cw", "library"],
+  "autoupdate": {
+    "source": "npm",
+    "target": "cw",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["**/*"]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mastercw/cw.js"
+  }
+}
