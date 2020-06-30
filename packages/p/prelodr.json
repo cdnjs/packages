@@ -1,7 +1,6 @@
 {
   "name": "prelodr",
   "filename": "prelodr.min.js",
-  "version": "2.1.1",
   "description": "A simple Material preloader inspired in Google Inbox",
   "keywords": [
     "preloader",

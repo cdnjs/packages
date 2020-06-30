@@ -9,7 +9,6 @@
     "framework",
     "lightweight"
   ],
-  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/hay/stapes.git"

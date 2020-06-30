@@ -1,6 +1,5 @@
 {
   "name": "tauCharts",
-  "version": "1.2.1",
   "filename": "tauCharts.min.js",
   "description": "D3 based data-focused charting library",
   "author": {

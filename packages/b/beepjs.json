@@ -2,7 +2,6 @@
   "name": "beepjs",
   "title": "beepjs",
   "filename": "beep.min.js",
-  "version": "0.0.1",
   "description": "Makes browser beep.",
   "author": {
     "name": "Neuman Vong",

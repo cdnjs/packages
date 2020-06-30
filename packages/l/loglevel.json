@@ -1,7 +1,6 @@
 {
   "name": "loglevel",
   "description": "Minimal lightweight logging for JavaScript, adding reliable log level methods to any available console.log methods",
-  "version": "1.6.8",
   "author": {
     "name": "Tim Perry",
     "email": "pimterry@gmail.com",

@@ -9,7 +9,6 @@
     }
   ],
   "name": "moment-range",
-  "version": "4.0.2",
   "description": "Fancy date ranges for Moment.js",
   "filename": "moment-range.js",
   "keywords": [

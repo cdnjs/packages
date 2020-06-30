@@ -1,7 +1,6 @@
 {
   "name": "vue-material",
   "description": "Material Design for Vue.js",
-  "version": "1.0.0",
   "filename": "vue-material.min.js",
   "author": {
     "name": "Marcos Moura",

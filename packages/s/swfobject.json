@@ -1,7 +1,6 @@
 {
   "name": "swfobject",
   "filename": "swfobject.min.js",
-  "version": "2.2",
   "description": "SWFObject is an easy-to-use and standards-friendly method to embed Flash content, which utilizes one small JavaScript file",
   "homepage": "http://code.google.com/p/swfobject/",
   "keywords": [

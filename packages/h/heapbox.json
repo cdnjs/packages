@@ -1,6 +1,5 @@
 {
   "name": "heapbox",
-  "version": "0.9.4",
   "filename": "jquery.heapbox.min.js",
   "description": "Customizable replacement for html select (not only) with events, callbacks, themes and much more.",
   "keywords": [

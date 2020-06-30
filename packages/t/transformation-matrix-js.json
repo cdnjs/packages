@@ -19,6 +19,5 @@
     "type": "git",
     "url": "https://gitlab.com/epistemex/transformation-matrix-js.git"
   },
-  "license": "MIT",
-  "version": "2.7.2"
+  "license": "MIT"
 }

@@ -1,7 +1,6 @@
 {
   "name": "clipboard-polyfill",
   "filename": "clipboard-polyfill.js",
-  "version": "2.8.6",
   "description": "A polyfill for the asynchronous clipboard API",
   "repository": {
     "type": "git",

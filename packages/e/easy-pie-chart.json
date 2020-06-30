@@ -1,7 +1,6 @@
 {
   "name": "easy-pie-chart",
   "filename": "jquery.easypiechart.min.js",
-  "version": "2.1.6",
   "description": "Lightweight plugin to render simple, animated and retina optimized pie charts",
   "homepage": "http://rendro.github.io/easy-pie-chart/",
   "keywords": [

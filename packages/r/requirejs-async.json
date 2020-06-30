@@ -1,7 +1,6 @@
 {
   "name": "requirejs-async",
   "filename": "async.js",
-  "version": "0.1.1",
   "description": "RequireJS plugin for async dependency load like JSONP and Google Maps",
   "keywords": [
     "requirejs",

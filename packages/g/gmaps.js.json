@@ -1,7 +1,6 @@
 {
   "filename": "gmaps.min.js",
   "name": "gmaps.js",
-  "version": "0.4.25",
   "description": "the easiest way to use Google Maps",
   "keywords": [
     "google maps",

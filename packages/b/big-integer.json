@@ -1,7 +1,6 @@
 {
   "name": "big-integer",
   "filename": "BigInteger.min.js",
-  "version": "1.6.48",
   "description": "An arbitrary length integer library for Javascript",
   "keywords": [
     "math",

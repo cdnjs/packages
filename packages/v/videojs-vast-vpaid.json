@@ -1,7 +1,6 @@
 {
   "name": "videojs-vast-vpaid",
   "filename": "videojs_5.vast.vpaid.min.js",
-  "version": "2.0.2",
   "description": "VAST plugin to use with video.js",
   "repository": {
     "type": "git",

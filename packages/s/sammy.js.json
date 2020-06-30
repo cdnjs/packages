@@ -1,7 +1,6 @@
 {
   "name": "sammy.js",
   "filename": "sammy.min.js",
-  "version": "0.7.6",
   "description": "Sammy is a RESTful Evented JavaScript framework built on top of jQuery",
   "homepage": "http://sammyjs.org/",
   "keywords": [

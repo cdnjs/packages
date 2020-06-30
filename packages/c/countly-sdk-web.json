@@ -1,6 +1,5 @@
 {
   "name": "countly-sdk-web",
-  "version": "20.4.0",
   "description": "Countly Web SDK",
   "repository": {
     "type": "git",

@@ -1,7 +1,6 @@
 {
   "name": "requirejs-handlebars",
   "filename": "hbars.min.js",
-  "version": "0.0.2",
   "description": "RequireJS Handlebars template plugin",
   "keywords": [
     "require",

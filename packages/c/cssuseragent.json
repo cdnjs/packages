@@ -1,7 +1,6 @@
 {
   "name": "cssuseragent",
   "filename": "cssua.min.js",
-  "version": "2.1.31",
   "description": "CssUserAgent: user-agent specific CSS support",
   "keywords": [
     "cssua",

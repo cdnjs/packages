@@ -23,6 +23,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/alexmacarthur/typeit.git"
-  },
-  "version": "7.0.3"
+  }
 }

@@ -2,7 +2,6 @@
   "name": "jquery-json",
   "description": "jQuery plugin for serialising to and parsing from JSON.",
   "filename": "jquery.json.min.js",
-  "version": "2.6.0",
   "keywords": [
     "jquery-plugin"
   ],

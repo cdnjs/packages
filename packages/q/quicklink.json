@@ -1,7 +1,6 @@
 {
   "name": "quicklink",
   "filename": "quicklink.js",
-  "version": "1.0.1",
   "description": "Faster subsequent page-loads by prefetching in-viewport links during idle time",
   "author": "addyosmani <addyosmani@gmail.com>",
   "license": "Apache-2.0",

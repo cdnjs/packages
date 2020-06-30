@@ -1,7 +1,6 @@
 {
   "name": "bootstrap-colorpicker",
   "filename": "js/bootstrap-colorpicker.min.js",
-  "version": "3.2.0",
   "description": "Modular color picker plugin for Twitter Bootstrap",
   "keywords": [
     "bootstrap",

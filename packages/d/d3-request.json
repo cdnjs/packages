@@ -27,6 +27,5 @@
         "**/!(*node*|package.js|version.js)"
       ]
     }
-  ],
-  "version": "1.0.6"
+  ]
 }

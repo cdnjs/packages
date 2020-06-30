@@ -1,6 +1,5 @@
 {
   "name": "texthighlighter",
-  "version": "1.2.0",
   "description": "TextHighlighter allows you to highlight text on web pages.",
   "filename": "TextHighlighter.min.js",
   "repository": {

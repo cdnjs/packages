@@ -1,7 +1,6 @@
 {
   "name": "icono",
   "filename": "icono.min.css",
-  "version": "1.3.0",
   "description": "Pure CSS Icons",
   "repository": {
     "type": "git",

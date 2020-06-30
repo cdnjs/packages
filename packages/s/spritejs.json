@@ -30,6 +30,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/spritejs/spritejs.git"
-  },
-  "version": "3.7.4"
+  }
 }

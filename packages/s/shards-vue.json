@@ -66,6 +66,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/DesignRevision/shards-vue.git"
-  },
-  "version": "1.0.7"
+  }
 }

@@ -28,6 +28,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dylang/shortid.git"
-  },
-  "version": "2.2.15"
+  }
 }

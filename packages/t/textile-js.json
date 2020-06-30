@@ -1,7 +1,6 @@
 {
   "name": "textile-js",
   "filename": "textile.min.js",
-  "version": "2.0.5",
   "description": "A full-featured JavaScript Textile parser",
   "author": "Borgar Þorsteinsson <borgar@borgar.net>",
   "repository": {

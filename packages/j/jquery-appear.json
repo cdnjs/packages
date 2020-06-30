@@ -1,7 +1,6 @@
 {
   "name": "jquery-appear",
   "filename": "jquery.appear.min.js",
-  "version": "0.1",
   "description": "jQuery plugin to call a function when an element appears",
   "repository": {
     "type": "git",

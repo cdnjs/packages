@@ -1,7 +1,6 @@
 {
   "name": "ical.js",
   "filename": "ical.min.js",
-  "version": "1.4.0",
   "author": "Philipp Kewisch",
   "description": "Javascript parser for ics (rfc5545) and vcard (rfc6350) data",
   "repository": {

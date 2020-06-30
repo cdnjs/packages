@@ -1,7 +1,6 @@
 {
   "name": "simplePagination.js",
   "filename": "jquery.simplePagination.min.js",
-  "version": "1.6",
   "description": "A simple jQuery pagination plugin, 3 CSS themes and Bootstrap support.",
   "repository": {
     "type": "git",

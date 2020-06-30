@@ -1,7 +1,6 @@
 {
   "name": "vide",
   "filename": "jquery.vide.min.js",
-  "version": "0.5.1",
   "description": "Easy as hell jQuery plugin for video backgrounds.",
   "keywords": [
     "jquery-plugin",

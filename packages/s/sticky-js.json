@@ -1,7 +1,6 @@
 {
   "name": "sticky-js",
   "filename": "sticky.min.js",
-  "version": "1.3.0",
   "description": "Sticky-js is a library for sticky elements written in vanilla javascript. With this library you can easily set sticky elements on your website. It's also responsive.",
   "license": "MIT",
   "author": "rgalus <biuro@rafalgalus.pl>",

@@ -1,7 +1,6 @@
 {
   "name": "github-repo-widget",
   "filename": "jquery.githubRepoWidget.min.js",
-  "version": "e23d85ab8f",
   "description": "GitHub jQuery Repo Widget will build you a beautiful widget that displays the status of your GitHub repo.",
   "repository": {
     "type": "git",

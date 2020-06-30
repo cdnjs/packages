@@ -1,7 +1,6 @@
 {
   "name": "jquery-tubeplayer",
   "filename": "jquery.tubeplayer.min.js",
-  "version": "2.1.0",
   "description": "A jQuery wrapper around the YouTube Player API.",
   "repository": {
     "type": "git",

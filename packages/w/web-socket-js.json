@@ -1,7 +1,6 @@
 {
   "name": "web-socket-js",
   "filename": "web_socket.min.js",
-  "version": "1.0.0",
   "description": "HTML5 Web Socket implementation powered by Flash.",
   "keywords": [
     "websocket",

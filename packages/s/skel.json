@@ -1,7 +1,6 @@
 {
   "name": "skel",
   "filename": "skel.min.js",
-  "version": "3.0.1",
   "description": "Skel: A lightweight responsive framework for the www.",
   "homepage": "http://getskel.com/",
   "keywords": [

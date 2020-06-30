@@ -1,7 +1,6 @@
 {
   "name": "react-mdl",
   "filename": "ReactMDL.min.js",
-  "version": "2.1.0",
   "description": "React Components for Material Design Lite",
   "repository": {
     "type": "git",

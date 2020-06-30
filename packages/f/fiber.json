@@ -1,7 +1,6 @@
 {
   "name": "fiber",
   "filename": "fiber.min.js",
-  "version": "1.0.5",
   "description": "Lightweight JavaScript inheritance library",
   "keywords": [
     "inheritance",

@@ -1,7 +1,6 @@
 {
   "name": "zingchart-angularjs",
   "filename": "zingchart-angularjs.min.js",
-  "version": "1.2.0",
   "description": "A ZingChart AngularJS directive",
   "keywords": [
     "zingchart",

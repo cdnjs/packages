@@ -1,7 +1,6 @@
 {
   "name": "Han",
   "filename": "han.min.css",
-  "version": "3.3.0",
   "description": "The CSS typography framework optimised for Hanzi",
   "npmName": "han-css",
   "npmFileMap": [

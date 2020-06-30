@@ -1,7 +1,6 @@
 {
   "name": "css-doodle",
   "filename": "css-doodle.min.js",
-  "version": "0.8.5",
   "description": "A web component for drawing patterns with css.",
   "repository": {
     "type": "git",

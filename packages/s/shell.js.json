@@ -2,7 +2,6 @@
   "title": "Shell.js",
   "name": "shell.js",
   "filename": "js/shell.min.js",
-  "version": "1.0.5",
   "description": "A JavaScript and CSS library to create terminals",
   "author": "Davide Caruso  <davide.caruso93@gmail.com>",
   "license": "MIT",

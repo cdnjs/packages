@@ -1,7 +1,6 @@
 {
   "name": "TableDnD",
   "filename": "jquery.tablednd.min.js",
-  "version": "1.0.3",
   "description": "jQuery plug-in to drag and drop rows in HTML tables",
   "repository": {
     "type": "git",

@@ -1,7 +1,6 @@
 {
   "name": "backbone.collectionView",
   "filename": "backbone.collectionView.min.js",
-  "version": "2.0.0",
   "description": "Easily render backbone.js collections with support for automatic selection of models in response to clicks, reordering models via drag and drop, and more.",
   "keywords": [
     "backbone",

@@ -1,6 +1,5 @@
 {
   "name": "angular-multi-select",
-  "version": "4.0.0",
   "description": "A multi select dropdown directive for AngularJS",
   "filename": "isteven-multi-select.min.js",
   "repository": {

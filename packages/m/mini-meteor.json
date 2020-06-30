@@ -9,7 +9,6 @@
       ]
     }
   ],
-  "version": "1.0.1",
   "description": "Select Client-side components of MeteorJS",
   "filename": "mini-meteor.min.js",
   "repository": {

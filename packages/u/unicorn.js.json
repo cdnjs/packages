@@ -1,6 +1,5 @@
 {
   "name": "unicorn.js",
-  "version": "1.0",
   "filename": "unicorn.min.js",
   "description": "Unicorn CPU emulator framework port for JavaScript",
   "author": "Alexandro Sanchez Bach <alexaltea123@gmail.com>",

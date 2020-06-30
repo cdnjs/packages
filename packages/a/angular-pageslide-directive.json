@@ -14,7 +14,6 @@
     "modal",
     "pane"
   ],
-  "version": "2.2.0",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/danielepiccone/ng-pageslide.git",

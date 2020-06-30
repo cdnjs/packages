@@ -1,7 +1,6 @@
 {
   "name": "immutable",
   "filename": "immutable.min.js",
-  "version": "3.8.2",
   "description": "Immutable Data Collections",
   "keywords": [
     "immutable",

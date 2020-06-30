@@ -1,7 +1,6 @@
 {
   "name": "Cookies.js",
   "filename": "cookies.min.js",
-  "version": "1.2.1",
   "description": "Client-Side Cookie Manipulation API",
   "keywords": [
     "javascript",

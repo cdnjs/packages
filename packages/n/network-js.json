@@ -1,7 +1,6 @@
 {
   "name": "network-js",
   "filename": "network.min.js",
-  "version": "2.1.0",
   "description": "Make accurate network measures in JavaScript",
   "repository": {
     "type": "git",

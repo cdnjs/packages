@@ -2,7 +2,6 @@
   "name": "tablesaw",
   "filename": "tablesaw.min.js",
   "description": "A set of plugins for responsive tables.",
-  "version": "3.1.2",
   "author": {
     "name": "Zach Leatherman",
     "email": "zach@filamentgroup.com"

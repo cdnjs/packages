@@ -1,7 +1,6 @@
 {
   "name": "angular-notification",
   "filename": "angular-notification.min.js",
-  "version": "1.1.1",
   "description": "Notification service for Angular using native HTML5 API.",
   "repository": {
     "type": "git",

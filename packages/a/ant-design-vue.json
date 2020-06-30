@@ -29,6 +29,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vueComponent/ant-design-vue.git"
-  },
-  "version": "1.5.3"
+  }
 }

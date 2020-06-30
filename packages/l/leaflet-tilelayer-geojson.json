@@ -1,7 +1,6 @@
 {
   "name": "leaflet-tilelayer-geojson",
   "filename": "TileLayer.GeoJSON.min.js",
-  "version": "1.0.4",
   "description": "Leaflet plugin to render GeoJSON data over tile layer",
   "repository": {
     "type": "git",

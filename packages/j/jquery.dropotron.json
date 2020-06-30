@@ -1,7 +1,6 @@
 {
   "name": "jquery.dropotron",
   "filename": "jquery.dropotron.min.js",
-  "version": "1.4.3",
   "description": "Adds multilevel dropdown menus to jQuery.",
   "keywords": [
     "jquery",

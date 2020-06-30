@@ -1,7 +1,6 @@
 {
   "name": "hazzik-jquery.livequery",
   "filename": "jquery.livequery.min.js",
-  "version": "1.3.6",
   "description": "Live Query utilizes the power of jQuery selectors by firing callbacks for matched elements auto-magically, even after the page has been loaded and the DOM updated.",
   "repository": {
     "type": "git",

@@ -1,7 +1,6 @@
 {
   "name": "authy-forms.css",
   "filename": "form.authy.min.css",
-  "version": "2.2",
   "description": "Authy Form Helpers help you build your Registration and Verification forms to use Authy quicker",
   "homepage": "https://www.authy.com",
   "keywords": [

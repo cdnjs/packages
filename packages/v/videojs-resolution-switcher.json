@@ -1,7 +1,6 @@
 {
   "name": "videojs-resolution-switcher",
   "filename": "videojs-resolution-switcher.min.js",
-  "version": "0.4.2",
   "author": {
     "name": "Kasper Moskwiak",
     "email": "kasper.moskwiak@gmail.com",

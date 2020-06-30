@@ -1,7 +1,6 @@
 {
   "name": "respond.js",
   "filename": "respond.min.js",
-  "version": "1.4.2",
   "description": "min/max-width media query polyfill",
   "keywords": [
     "polyfill",

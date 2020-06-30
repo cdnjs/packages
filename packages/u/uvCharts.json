@@ -1,6 +1,5 @@
 {
   "name": "uvCharts",
-  "version": "2.0.0",
   "filename": "uvcharts.min.js",
   "description": "Simple yet powerful JavaScript Charting library built using d3.js",
   "keywords": [

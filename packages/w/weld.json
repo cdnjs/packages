@@ -1,7 +1,6 @@
 {
   "name": "weld",
   "filename": "weld.min.js",
-  "version": "0.2.3",
   "description": "Template antimatter for JavaScript",
   "repository": {
     "type": "git",

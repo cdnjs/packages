@@ -1,7 +1,6 @@
 {
   "name": "ion.calendar",
   "filename": "js/ion.calendar.min.js",
-  "version": "2.0.2",
   "title": "Ion Calendar",
   "description": "jQuery-calendar and datepicker, based on powerful library to work with time - Moment.js",
   "keywords": [

@@ -1,6 +1,5 @@
 {
   "name": "chrome-bootstrap",
-  "version": "1.5.0",
   "filename": "chrome-bootstrap.min.css",
   "description": "Reusable Chrome settings UI",
   "author": "Roy Kolak <roy.kolak@gmail.com>",

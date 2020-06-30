@@ -1,7 +1,6 @@
 {
   "name": "algebra.js",
   "filename": "algebra.min.js",
-  "version": "0.2.6",
   "description": "Build, display, and solve algebraic equations.",
   "repository": {
     "type": "git",

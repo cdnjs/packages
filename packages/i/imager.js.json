@@ -1,7 +1,6 @@
 {
   "name": "imager.js",
   "filename": "Imager.min.js",
-  "version": "0.5.1",
   "description": "Imager.js is an alternative solution to the issue of how to handle responsive image loading, created by developers at BBC News.",
   "repository": {
     "type": "git",

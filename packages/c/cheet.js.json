@@ -1,7 +1,6 @@
 {
   "name": "cheet.js",
   "filename": "cheet.min.js",
-  "version": "0.3.3",
   "description": "easy easter eggs (konami code, etc) for your site",
   "homepage": "http://lou.wtf/cheet.js/",
   "repository": {

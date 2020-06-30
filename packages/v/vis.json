@@ -1,6 +1,5 @@
 {
   "name": "vis",
-  "version": "4.21.0",
   "filename": "vis.min.js",
   "description": "A dynamic, browser-based visualization library.",
   "homepage": "http://visjs.org/",

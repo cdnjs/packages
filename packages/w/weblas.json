@@ -1,6 +1,5 @@
 {
   "name": "weblas",
-  "version": "0.9.1",
   "description": "GPU accelerated BLAS for node and the browser",
   "filename": "weblas.js",
   "keywords": [

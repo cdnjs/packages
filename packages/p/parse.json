@@ -1,7 +1,6 @@
 {
   "name": "parse",
   "filename": "parse.min.js",
-  "version": "2.13.0",
   "description": "The Parse JavaScript SDK",
   "homepage": "https://www.parse.com",
   "keywords": [

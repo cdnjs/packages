@@ -1,6 +1,5 @@
 {
   "name": "animateplus",
-  "version": "2.1.1",
   "description": "CSS and SVG animation library",
   "filename": "animateplus.min.js",
   "repository": {

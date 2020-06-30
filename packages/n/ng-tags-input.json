@@ -1,6 +1,5 @@
 {
   "name": "ng-tags-input",
-  "version": "3.2.0",
   "description": "Tags input directive for AngularJS",
   "filename": "ng-tags-input.min.js",
   "license": "MIT",

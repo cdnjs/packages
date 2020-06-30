@@ -27,6 +27,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adonespitogo/angular-base64-upload.git"
-  },
-  "version": "0.1.23"
+  }
 }

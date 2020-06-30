@@ -25,6 +25,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/cheeriojs/cheerio.git"
-  },
-  "version": "1.0.0-rc.3"
+  }
 }

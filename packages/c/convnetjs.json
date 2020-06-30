@@ -1,7 +1,6 @@
 {
   "name": "convnetjs",
   "filename": "convnet-min.js",
-  "version": "0.3.0",
   "description": "Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.",
   "keywords": [
     "machine",

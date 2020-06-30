@@ -1,7 +1,6 @@
 {
   "name": "jsfx",
   "filename": "jsfx.min.js",
-  "version": "1.2.0",
   "description": "Package for sound effect generation.",
   "repository": {
     "type": "git",

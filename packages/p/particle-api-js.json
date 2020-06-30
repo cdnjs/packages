@@ -1,7 +1,6 @@
 {
   "name": "particle-api-js",
   "filename": "particle.min.js",
-  "version": "8.4.0",
   "description": "Particle API Client",
   "repository": {
     "type": "git",

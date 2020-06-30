@@ -1,6 +1,5 @@
 {
   "name": "jmespath",
-  "version": "0.15.0",
   "filename": "jmespath.min.js",
   "description": "JMESPath implementation in JavaScript",
   "homepage": "http://jmespath.org/",

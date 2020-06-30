@@ -1,7 +1,6 @@
 {
   "name": "buy-button-js",
   "filename": "buybutton.min.js",
-  "version": "2.1.3",
   "description": "BuyButton.js is a highly customizable UI library for adding ecommerce functionality to any website.",
   "author": "Shopify Inc.",
   "repository": {

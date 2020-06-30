@@ -1,7 +1,6 @@
 {
   "name": "zone.js",
   "filename": "zone.min.js",
-  "version": "0.9.1",
   "description": "Zones for JavaScript",
   "repository": {
     "type": "git",

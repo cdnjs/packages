@@ -1,6 +1,5 @@
 {
   "name": "tabulator",
-  "version": "4.4.3",
   "description": "Interactive table generation JavaScript library",
   "filename": "js/tabulator.min.js",
   "repository": {

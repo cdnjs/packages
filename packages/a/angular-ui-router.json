@@ -1,7 +1,6 @@
 {
   "name": "angular-ui-router",
   "description": "State-based routing for AngularJS",
-  "version": "1.0.26",
   "filename": "angular-ui-router.min.js",
   "homepage": "https://angular-ui.github.com/",
   "author": {

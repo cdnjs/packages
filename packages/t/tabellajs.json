@@ -1,7 +1,6 @@
 {
   "name": "tabellajs",
   "filename": "tabella.min.js",
-  "version": "0.5.1",
   "description": "Pure javascript, touch enabled, responsive tables",
   "repository": {
     "type": "git",

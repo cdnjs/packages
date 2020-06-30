@@ -2,7 +2,6 @@
   "name": "angular-foundation",
   "filename": "mm-foundation.min.js",
   "description": "Angular components for Foundation",
-  "version": "0.8.0",
   "homepage": "http://pineconellc.github.io/angular-foundation/",
   "author": "Pinecone, LLC",
   "keywords": [

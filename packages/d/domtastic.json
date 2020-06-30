@@ -1,7 +1,6 @@
 {
   "name": "domtastic",
   "filename": "domtastic.min.js",
-  "version": "0.12.1",
   "description": "Small, fast, and modular DOM and event library for modern browsers.",
   "keywords": [
     "domtastic",

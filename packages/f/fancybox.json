@@ -1,7 +1,6 @@
 {
   "name": "fancybox",
   "filename": "jquery.fancybox.min.js",
-  "version": "3.5.7",
   "description": "Touch enabled, responsive and fully customizable jQuery lightbox script",
   "homepage": "https://fancyapps.com/fancybox/3/",
   "keywords": [

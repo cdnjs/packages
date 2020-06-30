@@ -1,7 +1,6 @@
 {
   "name": "taggd",
   "filename": "taggd.min.js",
-  "version": "4.0.0",
   "description": "A jQuery plugin that adds tags to your image.",
   "repository": {
     "type": "git",

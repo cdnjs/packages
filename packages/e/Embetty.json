@@ -25,6 +25,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/heiseonline/embetty"
-  },
-  "version": "4.0.0-beta.5"
+  }
 }

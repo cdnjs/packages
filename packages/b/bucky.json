@@ -1,7 +1,6 @@
 {
   "name": "bucky",
   "filename": "bucky.min.js",
-  "version": "0.2.8",
   "description": "Collect performance data from the client and node",
   "homepage": "http://github.hubspot.com/bucky/",
   "keywords": [

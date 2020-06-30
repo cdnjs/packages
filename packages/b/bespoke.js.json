@@ -1,7 +1,6 @@
 {
   "name": "bespoke.js",
   "filename": "bespoke.min.js",
-  "version": "1.1.0",
   "description": "DIY Presentation Micro-Framework",
   "keywords": [
     "bespoke",

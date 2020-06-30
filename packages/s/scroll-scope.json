@@ -1,6 +1,5 @@
 {
   "name": "scroll-scope",
-  "version": "0.1.0",
   "filename": "scroll-scope.min.js",
   "description": "Small jQuery plugin to keep parent element still when scrolling an element to its boundary.",
   "keywords": [

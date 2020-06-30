@@ -1,6 +1,5 @@
 {
   "name": "europa",
-  "version": "4.0.0",
   "description": "Library for converting HTML into valid Markdown",
   "author": {
     "name": "Alasdair Mercer",

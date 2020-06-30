@@ -1,7 +1,6 @@
 {
   "name": "javascript.util",
   "filename": "javascript.util.min.js",
-  "version": "0.12.12",
   "description": "javascript.util is a port of selected parts of java.util to JavaScript which main purpose is to ease porting Java code to JavaScript.",
   "keywords": [
     "java",

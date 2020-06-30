@@ -24,6 +24,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/liferay/alloy-editor.git"
-  },
-  "version": "2.11.6"
+  }
 }

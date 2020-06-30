@@ -1,6 +1,5 @@
 {
   "name": "jquery.ns-autogrow",
-  "version": "1.1.6",
   "filename": "jquery.ns-autogrow.min.js",
   "description": "Automatically adjust textarea height based on user input. Non-sucking version.",
   "keywords": [

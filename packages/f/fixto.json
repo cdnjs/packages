@@ -1,7 +1,6 @@
 {
   "name": "fixto",
   "filename": "fixto.min.js",
-  "version": "0.5.0",
   "description": "A jQuery plugin for custom sticky positioning",
   "repository": {
     "type": "git",

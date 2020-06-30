@@ -1,7 +1,6 @@
 {
   "name": "x18n",
   "filename": "x18n.min.js",
-  "version": "2.0.3",
   "description": "A JavaScript internationalisation library",
   "license": "MIT",
   "repository": {

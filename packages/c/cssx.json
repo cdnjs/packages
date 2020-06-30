@@ -1,6 +1,5 @@
 {
   "name": "cssx",
-  "version": "5.2.1",
   "filename": "cssx.min.js",
   "description": "CSS in JavaScript",
   "repository": {

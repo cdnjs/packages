@@ -1,7 +1,6 @@
 {
   "filename": "text.min.js",
   "name": "require-text",
-  "version": "2.0.12",
   "description": "An AMD loader plugin for loading text resources.",
   "keywords": [
     "requirejs",

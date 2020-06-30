@@ -11,7 +11,6 @@
     }
   ],
   "description": "Easy to use Wizard library for AngularJS",
-  "version": "1.1.1",
   "filename": "angular-wizard.min.js",
   "author": "Martin Gontovnikas <martin@gon.to>",
   "repository": {

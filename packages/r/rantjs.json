@@ -1,7 +1,6 @@
 {
   "name": "rantjs",
   "filename": "rant.min.js",
-  "version": "1.0.6",
   "description": "A procedural text generator for JavaScript",
   "keywords": [
     "rant",

@@ -9,7 +9,6 @@
       ]
     }
   ],
-  "version": "0.2.6",
   "filename": "ng-clip.min.js",
   "description": "Copy to clipboard using AngularJS",
   "repository": {

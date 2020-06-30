@@ -1,7 +1,6 @@
 {
   "name": "bitcoinjs-lib",
   "filename": "bitcoinjs-min.js",
-  "version": "0.2.0-1",
   "description": "Client-side Bitcoin JavaScript library",
   "homepage": "http://bitcoinjs.org/",
   "keywords": [

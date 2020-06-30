@@ -1,7 +1,6 @@
 {
   "name": "jquery-easing",
   "filename": "jquery.easing.min.js",
-  "version": "1.4.1",
   "description": "A jQuery plugin from GSGD to give advanced easing options",
   "homepage": "http://gsgd.co.uk/sandbox/jquery/easing/",
   "keywords": [

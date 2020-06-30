@@ -1,6 +1,5 @@
 {
   "name": "BrowserFS",
-  "version": "2.0.0",
   "npmName": "browserfs",
   "npmFileMap": [
     {

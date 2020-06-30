@@ -1,7 +1,6 @@
 {
   "name": "cyclejs-dom",
   "filename": "cycle-dom.min.js",
-  "version": "10.1.0",
   "author": "Andre Staltz",
   "description": "The standard DOM Driver for Cycle.js, based on virtual-dom, and other helpers",
   "license": "MIT",

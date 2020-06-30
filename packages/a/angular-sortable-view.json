@@ -1,7 +1,6 @@
 {
   "name": "angular-sortable-view",
   "filename": "angular-sortable-view.min.js",
-  "version": "0.0.17",
   "description": "Fully declarative (multi)sortable for AngularJS",
   "keywords": [
     "angularjs",

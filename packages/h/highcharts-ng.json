@@ -1,6 +1,5 @@
 {
   "name": "highcharts-ng",
-  "version": "1.2.1",
   "description": "AngularJS directive for Highcharts",
   "filename": "highcharts-ng.min.js",
   "keywords": [

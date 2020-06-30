@@ -1,7 +1,6 @@
 {
   "name": "matreshka",
   "filename": "matreshka.min.js",
-  "version": "1.9.1",
   "description": "Event-driven JavaScript framework",
   "homepage": "http://matreshka.io/",
   "keywords": [

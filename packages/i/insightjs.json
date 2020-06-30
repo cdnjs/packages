@@ -1,7 +1,6 @@
 {
   "name": "insightjs",
   "filename": "insight.min.js",
-  "version": "1.4.0",
   "license": "MIT",
   "keywords": [
     "visualization",

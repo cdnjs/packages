@@ -1,7 +1,6 @@
 {
   "name": "minitranslate",
   "filename": "minitranslate.min.js",
-  "version": "1.2.0",
   "description": "A lightweight way to change words into other words.",
   "homepage": "http://bryce.io/minitranslate",
   "repository": {

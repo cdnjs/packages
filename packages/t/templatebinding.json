@@ -10,7 +10,6 @@
       ]
     }
   ],
-  "version": "0.3.4",
   "filename": "TemplateBinding.min.js",
   "description": "Polymer's template binding polyfill. Concatenated and minified.",
   "repository": {

@@ -1,7 +1,6 @@
 {
   "name": "css-loader",
   "filename": "css-loader.css",
-  "version": "3.3.3",
   "homepage": "http://www.raphaelfabeni.com.br/css-loader/",
   "repository": {
     "type": "git",

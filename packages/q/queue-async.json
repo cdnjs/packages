@@ -1,6 +1,5 @@
 {
   "name": "queue-async",
-  "version": "1.0.7",
   "description": "A little helper for asynchronous JavaScript.",
   "filename": "queue.min.js",
   "keywords": [

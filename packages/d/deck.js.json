@@ -1,7 +1,6 @@
 {
   "name": "deck.js",
   "filename": "core/deck.core.min.js",
-  "version": "1.1.0",
   "description": "Modern HTML Presentations",
   "author": {
     "name": "Caleb Troughton",

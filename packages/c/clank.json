@@ -1,6 +1,5 @@
 {
   "name": "clank",
-  "version": "0.3.6",
   "description": "Clank: open source prototyping framework for mobile apps",
   "filename": "clank.min.js",
   "repository": {

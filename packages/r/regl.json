@@ -1,7 +1,6 @@
 {
   "name": "regl",
   "filename": "regl.min.js",
-  "version": "1.4.2",
   "description": "regl is a fast functional WebGL framework.",
   "repository": {
     "type": "git",

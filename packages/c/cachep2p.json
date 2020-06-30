@@ -2,7 +2,6 @@
   "name": "cachep2p",
   "filename": "cachep2p.min.js",
   "description": "The Peer to Peer Cache for the Masses",
-  "version": "0.1.6",
   "author": {
     "name": "Carlos Guerrero",
     "email": "carlos@carlosguerrero.com",

@@ -1,7 +1,6 @@
 {
   "name": "idbwrapper",
   "filename": "idbstore.min.js",
-  "version": "1.7.2",
   "description": "A cross-browser wrapper for IndexedDB",
   "keywords": [
     "IndexedDB",

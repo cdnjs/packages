@@ -57,6 +57,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/QuickGroup/QCObjects.git"
-  },
-  "version": "2.1.421"
+  }
 }

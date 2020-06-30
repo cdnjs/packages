@@ -1,6 +1,5 @@
 {
   "name": "RyanMullins-angular-hammer",
-  "version": "2.2.0",
   "filename": "angular.hammer.min.js",
   "description": "Hammer.js support for Angular.js applications",
   "repository": {

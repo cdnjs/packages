@@ -6,7 +6,6 @@
     "database",
     "storage"
   ],
-  "version": "1.6.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/jsoma/tabletop.git"

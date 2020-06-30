@@ -1,6 +1,5 @@
 {
   "name": "ismobilejs",
-  "version": "0.4.1",
   "description": "A simple JS library that detects mobile devices.",
   "keywords": [
     "ismobile",

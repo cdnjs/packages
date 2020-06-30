@@ -1,6 +1,5 @@
 {
   "name": "angular-hal",
-  "version": "2.3.0",
   "filename": "angular-hal.min.js",
   "description": "Hal client for angularjs",
   "homepage": "http://angular-hal.io",

@@ -10,7 +10,6 @@
       ]
     }
   ],
-  "version": "3.6.4",
   "description": "The mobile-friendly, responsive, and lightweight jQuery date & time input picker.",
   "homepage": "http://amsul.github.io/pickadate.js",
   "license": "MIT",

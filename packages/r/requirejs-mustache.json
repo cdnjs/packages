@@ -1,7 +1,6 @@
 {
   "name": "requirejs-mustache",
   "filename": "stache.min.js",
-  "version": "0.0.2",
   "description": "A RequireJS/AMD loader plugin for Mustache.js micro-templates",
   "keywords": [
     "require",

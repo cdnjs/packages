@@ -1,6 +1,5 @@
 {
   "name": "react-modal",
-  "version": "3.11.2",
   "description": "Accessible modal dialog component for React.JS",
   "repository": {
     "type": "git",

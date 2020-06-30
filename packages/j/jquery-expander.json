@@ -22,7 +22,6 @@
     "type": "git",
     "url": "git+https://github.com/kswedberg/jquery-expander.git"
   },
-  "version": "1.7.0",
   "npmName": "jquery-expander",
   "npmFileMap": [
     {

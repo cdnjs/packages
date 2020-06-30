@@ -1,6 +1,5 @@
 {
   "name": "response.js",
-  "version": "0.10.1",
   "filename": "response.min.js",
   "description": "Response is an experimental jQuery/Ender/Zepto plugin that gives web designers tools for building responsive websites. It can dynamically swap content based on breakpoints and data attributes.",
   "homepage": "http://responsejs.com/",

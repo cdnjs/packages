@@ -1,7 +1,6 @@
 {
   "name": "arbor",
   "filename": "arbor.min.js",
-  "version": "0.91.0",
   "description": "a graph visualization library using web workers and jQuery",
   "keywords": [
     "graph",

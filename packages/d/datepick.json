@@ -2,7 +2,6 @@
   "name": "datepick",
   "filename": "js/jquery.datepick.min.js",
   "description": "This plugin attaches a popup calendar to your input fields or shows an inline calendar for selecting individual dates or date ranges.",
-  "version": "5.1.1",
   "keywords": [
     "calendar",
     "date",

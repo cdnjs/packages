@@ -1,6 +1,5 @@
 {
   "name": "vue-form",
-  "version": "0.3.1",
   "description": "Form validation for Vue.js",
   "filename": "vue-form.min.js",
   "author": "Fergal Doyle",

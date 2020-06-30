@@ -1,7 +1,6 @@
 {
   "name": "jquery.percentageloader",
   "filename": "jquery.percentageloader.min.js",
-  "version": "0.1.0",
   "description": "A tiny jQuery plugin for displaying progress in a visual and engaging way",
   "homepage": "http://widgets.better2web.com/loader/",
   "keywords": [

@@ -1,7 +1,6 @@
 {
   "name": "svgeezy",
   "filename": "svgeezy.min.js",
-  "version": "1.0.0",
   "description": "A simple JavaScript plugin which detects SVG images on your website, and automatically looks for a standard image fallback for those older, less capable browsers.",
   "repository": {
     "type": "git",

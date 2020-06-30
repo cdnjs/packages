@@ -1,6 +1,5 @@
 {
   "name": "oj.mustache",
-  "version": "0.7.2",
   "description": "Mustache plugin for OJ",
   "homepage": "http://ojjs.org",
   "keywords": [

@@ -1,7 +1,6 @@
 {
   "name": "mockstate",
   "filename": "mockstate.min.js",
-  "version": "0.0.7",
   "description": "A centralized state management for Javascript applications, made easy.",
   "repository": {
     "type": "git",

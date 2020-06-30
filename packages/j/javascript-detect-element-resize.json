@@ -1,7 +1,6 @@
 {
   "name": "javascript-detect-element-resize",
   "filename": "detect-element-resize.min.js",
-  "version": "0.5.3",
   "description": "A Cross-Browser, Event-based, Element Resize Detection",
   "repository": {
     "type": "git",

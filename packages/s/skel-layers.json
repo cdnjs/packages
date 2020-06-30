@@ -1,7 +1,6 @@
 {
   "name": "skel-layers",
   "filename": "skel-layers.min.js",
-  "version": "2.2.1",
   "description": "Layers: A plugin for Skel that streamlines building stuff like off-canvas navigation, toolbars, modals, and other stuff.",
   "homepage": "http://getskel.com/",
   "keywords": [

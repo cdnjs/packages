@@ -1,7 +1,6 @@
 {
   "name": "vanilla-masker",
   "filename": "vanilla-masker.min.js",
-  "version": "1.2.0",
   "description": "VanillaMasker is a pure javascript input mask.",
   "repository": {
     "type": "git",

@@ -1,6 +1,5 @@
 {
   "name": "angular-ladda",
-  "version": "0.4.3",
   "filename": "angular-ladda.min.js",
   "description": "An angular directive wrapper for Ladda.",
   "repository": {

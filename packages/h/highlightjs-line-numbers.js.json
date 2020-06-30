@@ -1,7 +1,6 @@
 {
   "name": "highlightjs-line-numbers.js",
   "filename": "highlightjs-line-numbers.min.js",
-  "version": "2.7.0",
   "description": "Highlight.js line numbers plugin.",
   "keywords": [
     "highlight"

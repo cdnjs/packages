@@ -1,7 +1,6 @@
 {
   "name": "gojs",
   "filename": "go.js",
-  "version": "2.1.15",
   "description": "Interactive diagrams, charts, and graphs, such as trees, flowcharts, orgcharts, UML, BPMN, or business diagrams",
   "keywords": [
     "diagram",

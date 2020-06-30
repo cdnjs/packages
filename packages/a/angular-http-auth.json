@@ -1,7 +1,6 @@
 {
   "name": "angular-http-auth",
   "filename": "http-auth-interceptor.min.js",
-  "version": "1.5.0",
   "description": "HTTP Auth Interceptor Module for AngularJS.",
   "keywords": [
     "angular",

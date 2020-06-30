@@ -1,7 +1,6 @@
 {
   "name": "yui",
   "filename": "yui/yui-min.js",
-  "version": "3.18.0",
   "description": "YUI 3 Source",
   "homepage": "http://yuilibrary.com/",
   "keywords": [

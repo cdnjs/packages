@@ -1,6 +1,5 @@
 {
   "name": "handjs",
-  "version": "1.3.11",
   "filename": "hand.min.js",
   "description": "Hand.js is a polyfill for pointer events.",
   "keywords": [

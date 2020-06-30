@@ -1,7 +1,6 @@
 {
   "name": "angular-ckeditor",
   "filename": "angular-ckeditor.min.js",
-  "version": "1.0.3",
   "description": "CKEditor directive for Angular.",
   "repository": {
     "type": "git",

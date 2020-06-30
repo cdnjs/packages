@@ -4,7 +4,6 @@
     "email": "alexkaul@googlemail.com"
   },
   "name": "ng-img-crop",
-  "version": "0.3.2",
   "filename": "ng-img-crop.js",
   "description": "Image crop directive for AngularJS",
   "license": "MIT",

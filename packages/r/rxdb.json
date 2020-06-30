@@ -1,6 +1,5 @@
 {
   "name": "rxdb",
-  "version": "8.9.0",
   "filename": "rxdb.browserify.min.js",
   "description": "A realtime Database for the Web",
   "author": "pubkey",

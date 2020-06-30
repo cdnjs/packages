@@ -1,7 +1,6 @@
 {
   "name": "colors",
   "filename": "js/colors.min.js",
-  "version": "3.0.0",
   "description": "Better default colors for the web. A collection of skin classes for faster prototyping and nicer looking sites.",
   "homepage": "http://clrs.cc",
   "keywords": [

@@ -24,6 +24,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/request/request.git"
-  },
-  "version": "2.88.2"
+  }
 }

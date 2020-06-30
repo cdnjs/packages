@@ -18,6 +18,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/gitana/alpaca.git"
-  },
-  "version": "1.5.27"
+  }
 }

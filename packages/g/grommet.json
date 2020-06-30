@@ -1,7 +1,6 @@
 {
   "name": "grommet",
   "filename": "grommet.min.js",
-  "version": "2.13.0",
   "description": "The most advanced UX framework for enterprise applications.",
   "authors": [
     "Alan Souza",

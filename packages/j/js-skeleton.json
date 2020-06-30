@@ -1,6 +1,5 @@
 {
   "name": "js-skeleton",
-  "version": "3.6.3",
   "filename": "skeleton.min.js",
   "description": "Rendering lists made as easy as pushing to an array",
   "repository": {

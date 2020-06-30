@@ -1,6 +1,5 @@
 {
   "name": "redux-router",
-  "version": "2.1.2",
   "description": "Redux bindings for React Router — keep your router state inside your Redux Store.",
   "filename": "redux-router.min.js",
   "repository": {

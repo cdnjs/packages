@@ -30,6 +30,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/primefaces/primeng.git"
-  },
-  "version": "9.0.6"
+  }
 }

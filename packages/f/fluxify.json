@@ -1,6 +1,5 @@
 {
   "name": "fluxify",
-  "version": "0.2.3",
   "description": "The simplest flux implementation",
   "filename": "fluxify.min.js",
   "repository": {

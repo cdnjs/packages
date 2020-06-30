@@ -1,7 +1,6 @@
 {
   "name": "corysimmons-selectivizr2",
   "description": "Selectivizr maintained.",
-  "version": "1.0.9",
   "filename": "selectivizr2.min.js",
   "repository": {
     "type": "git",

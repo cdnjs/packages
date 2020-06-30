@@ -17,7 +17,6 @@
     "type": "git",
     "url": "git+https://github.com/vvo/lazyload.git"
   },
-  "version": "3.2.2",
   "npmName": "lazyloadjs",
   "npmFileMap": [
     {

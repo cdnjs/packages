@@ -2,7 +2,6 @@
   "name": "stylus",
   "filename": "stylus.min.js",
   "description": "Robust, expressive, and feature-rich CSS superset",
-  "version": "0.32.1",
   "homepage": "http://learnboost.github.io/stylus/",
   "keywords": [
     "processor",

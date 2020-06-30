@@ -1,7 +1,6 @@
 {
   "name": "vexflow",
   "filename": "vexflow-min.js",
-  "version": "3.0.9",
   "description": "A JavaScript library for rendering music notation and guitar tablature",
   "repository": {
     "type": "git",

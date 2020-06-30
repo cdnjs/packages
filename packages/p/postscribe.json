@@ -10,7 +10,6 @@
     }
   ],
   "description": "Asynchronously write javascript, even with document.write.",
-  "version": "2.0.8",
   "keywords": [
     "document.write",
     "tag writer",

@@ -1,7 +1,6 @@
 {
   "name": "ideal-image-slider",
   "filename": "ideal-image-slider.min.js",
-  "version": "1.5.1",
   "description": "Quite simply the ideal Image Slider in vanilla JS.",
   "keywords": [
     "ideal",

@@ -28,6 +28,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/primer/css.git"
-  },
-  "version": "14.3.0"
+  }
 }

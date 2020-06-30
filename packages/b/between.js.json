@@ -25,6 +25,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sasha240100/between.js.git"
-  },
-  "version": "0.1.2"
+  }
 }

@@ -11,7 +11,6 @@
     }
   ],
   "filename": "xls.min.js",
-  "version": "0.7.6",
   "description": "Excel 5.0/95 and 97-2004 spreadsheet (BIFF5 XLS / BIFF8 XLS / XML 2003) parser",
   "license": "Apache License, Version 2.0",
   "keywords": [

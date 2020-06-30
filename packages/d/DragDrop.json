@@ -1,7 +1,6 @@
 {
   "name": "DragDrop",
   "filename": "drag-drop.min.js",
-  "version": "0.3.0",
   "description": "A JavaScript micro-framework for adding drag-and-drop functionality to elements for advanced UI development",
   "repository": {
     "type": "git",

@@ -1,7 +1,6 @@
 {
   "name": "jqModal",
   "filename": "jqModal.min.js",
-  "version": "1.4.2",
   "description": "jqModal helps you display modals, popups, and notices. It is flexible and tiny, and provides a general-purpose base for all your windowing needs.",
   "homepage": "http://jquery.iceburg.net/jqModal/",
   "keywords": [

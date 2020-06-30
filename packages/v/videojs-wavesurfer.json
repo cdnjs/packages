@@ -1,6 +1,5 @@
 {
   "name": "videojs-wavesurfer",
-  "version": "3.2.0",
   "description": "video.js plugin that adds a navigable waveform for audio and video files.",
   "filename": "videojs.wavesurfer.min.js",
   "repository": {

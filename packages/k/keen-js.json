@@ -1,7 +1,6 @@
 {
   "name": "keen-js",
   "filename": "keen.umd.min.js",
-  "version": "5.0.5",
   "description": "Keen IO JavaScript SDK",
   "license": "MIT",
   "authors": [

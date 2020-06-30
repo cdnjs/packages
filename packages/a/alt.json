@@ -1,7 +1,6 @@
 {
   "name": "alt",
   "filename": "alt.min.js",
-  "version": "0.18.6",
   "description": "A flux implementation",
   "repository": {
     "type": "git",

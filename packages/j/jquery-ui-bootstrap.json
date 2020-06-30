@@ -2,7 +2,6 @@
   "name": "jquery-ui-bootstrap",
   "description": "A Bootstrap-themed kickstart for jQuery UI widgets",
   "filename": "assets/css/bootstrap.min.css",
-  "version": "0.5pre",
   "keywords": [
     "jquery",
     "bootstrap"

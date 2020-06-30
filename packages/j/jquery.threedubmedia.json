@@ -1,6 +1,5 @@
 {
   "name": "jquery.threedubmedia",
-  "version": "2.2",
   "filename": "event.drop/jquery.event.drop.min.js",
   "description": "A jquery special event plugin that makes the task of adding complex drag and drop interactions, to any element, simple and powerful.",
   "repository": {

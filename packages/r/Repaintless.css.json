@@ -19,7 +19,6 @@
     "type": "git",
     "url": "git+https://github.com/szynszyliszys/repaintless.git"
   },
-  "version": "1.4.0",
   "npmName": "repaintless",
   "npmFileMap": [
     {

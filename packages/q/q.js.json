@@ -10,7 +10,6 @@
     }
   ],
   "filename": "q.min.js",
-  "version": "2.0.3",
   "description": "A library for promises (CommonJS/Promises/A,B,D)",
   "author": "Kris Kowal <kris@cixar.com> (https://github.com/kriskowal)",
   "keywords": [

@@ -1,7 +1,6 @@
 {
   "name": "json2csv",
   "description": "Convert JSON to CSV",
-  "version": "5.0.1",
   "filename": "json2csv.umd.min.js",
   "keywords": [
     "json",

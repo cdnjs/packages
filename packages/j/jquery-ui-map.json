@@ -2,7 +2,6 @@
   "name": "jquery-ui-map",
   "description": "Google Map version 3 plugin for jQuery and jQM",
   "filename": "jquery.ui.map.js",
-  "version": "3.0-rc1",
   "keywords": [
     "jquery",
     "maps",

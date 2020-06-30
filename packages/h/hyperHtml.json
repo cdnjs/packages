@@ -32,6 +32,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/WebReflection/hyperhtml.git"
-  },
-  "version": "2.32.2"
+  }
 }

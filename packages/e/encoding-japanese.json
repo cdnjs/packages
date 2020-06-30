@@ -2,7 +2,6 @@
   "name": "encoding-japanese",
   "filename": "encoding.min.js",
   "description": "Converts character encoding.",
-  "version": "1.0.30",
   "keywords": [
     "encoding",
     "charset",

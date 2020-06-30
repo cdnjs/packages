@@ -21,6 +21,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/instructure-react/react-tinymce.git"
-  },
-  "version": "0.7.0"
+  }
 }

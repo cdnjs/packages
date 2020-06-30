@@ -1,7 +1,6 @@
 {
   "name": "nod",
   "filename": "nod.min.js",
-  "version": "2.0.12",
   "description": "Frontend input validation",
   "repository": {
     "type": "git",

@@ -1,6 +1,5 @@
 {
   "name": "jquery-dropdown",
-  "version": "2.0.3",
   "filename": "jquery.dropdown.min.js",
   "description": "Minimal dropdown as a jQuery plugin",
   "repository": {

@@ -1,6 +1,5 @@
 {
   "name": "lazyyt",
-  "version": "0.3.4",
   "description": "A jQuery plugin to lazy load those darn slow Youtube iframe videos",
   "filename": "lazyYT.min.js",
   "repository": {

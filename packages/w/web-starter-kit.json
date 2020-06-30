@@ -1,7 +1,6 @@
 {
   "name": "web-starter-kit",
   "filename": "styles/main.min.css",
-  "version": "0.2.0-beta",
   "description": "Google Web Starter Kit: Boilerplate & Tooling for Multi-Device Development",
   "homepage": "https://developers.google.com/web/starter-kit/",
   "keywords": [

@@ -1,7 +1,6 @@
 {
   "name": "Buttons",
   "filename": "css/buttons.min.css",
-  "version": "2.0.0",
   "homepage": "http://unicorn-ui.com/buttons/",
   "description": "A CSS button library built with Sass",
   "keywords": [

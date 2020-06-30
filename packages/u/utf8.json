@@ -18,7 +18,6 @@
     "type": "git",
     "url": "git+https://github.com/mathiasbynens/utf8.js.git"
   },
-  "version": "3.0.0",
   "npmName": "utf8",
   "npmFileMap": [
     {

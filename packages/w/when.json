@@ -1,6 +1,5 @@
 {
   "name": "when",
-  "version": "3.7.8",
   "filename": "when.min.js",
   "description": "A lightweight Promises/A+ and when() implementation, plus other async goodies.",
   "keywords": [

@@ -1,7 +1,6 @@
 {
   "name": "angular-debounce",
   "filename": "angular-debounce.min.js",
-  "version": "0.1.7",
   "description": "AngularJS Debounce service and directive",
   "repository": {
     "type": "git",

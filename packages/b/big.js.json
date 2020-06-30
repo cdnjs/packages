@@ -2,7 +2,6 @@
   "name": "big.js",
   "filename": "big.min.js",
   "description": "A small, fast, easy-to-use library for arbitrary-precision decimal arithmetic",
-  "version": "5.2.2",
   "keywords": [
     "arbitrary",
     "precision",

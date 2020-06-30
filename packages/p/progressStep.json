@@ -1,7 +1,6 @@
 {
   "name": "progressStep",
   "filename": "progressStep.min.js",
-  "version": "1.0.3",
   "description": "Dynamically renders a progress bar with numbered steps.",
   "author": {
     "name": "Matthew Eagar",

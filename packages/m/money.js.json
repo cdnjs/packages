@@ -1,7 +1,6 @@
 {
   "name": "money.js",
   "filename": "money.min.js",
-  "version": "0.2.0",
   "description": "JavaScript currency conversion library.",
   "keywords": [
     "accounting",

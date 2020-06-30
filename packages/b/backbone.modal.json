@@ -1,7 +1,6 @@
 {
   "name": "backbone.modal",
   "filename": "backbone.modal-bundled-min.js",
-  "version": "1.1.5",
   "description": "A plugin for Backbone.js that simplifies creating modals for your application.",
   "homepage": "http://awkward.github.io/backbone.modal/",
   "author": "Awkward",

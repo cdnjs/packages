@@ -1,7 +1,6 @@
 {
   "name": "collect.js",
   "filename": "collect.min.js",
-  "version": "4.27.3",
   "description": "Convenient and dependency free wrapper for working with arrays and objects.",
   "repository": {
     "type": "git",

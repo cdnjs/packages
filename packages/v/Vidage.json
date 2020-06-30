@@ -1,6 +1,5 @@
 {
   "name": "Vidage",
-  "version": "0.5.1",
   "filename": "vidage.js",
   "description": "Your solution to full-screen background video and image combined.",
   "repository": {

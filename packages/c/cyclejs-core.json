@@ -1,6 +1,5 @@
 {
   "name": "cyclejs-core",
-  "version": "7.0.0",
   "filename": "cycle.min.js",
   "author": "Andre Staltz",
   "description": "A fully reactive JavaScript framework for Human-Computer Interaction",

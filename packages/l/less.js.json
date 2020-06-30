@@ -1,7 +1,6 @@
 {
   "name": "less.js",
   "filename": "less.min.js",
-  "version": "3.11.1",
   "homepage": "http://lesscss.org/",
   "description": "Leaner CSS",
   "keywords": [

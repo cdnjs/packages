@@ -1,7 +1,6 @@
 {
   "name": "pavilion",
   "filename": "pavilion.min.css",
-  "version": "2.0.3",
   "description": "A simple, unopinionated CSS framework, ready for the future.",
   "homepage": "http://www.pavilion.io",
   "license": "MIT",

@@ -1,7 +1,6 @@
 {
   "name": "timedropper",
   "filename": "timedropper.min.js",
-  "version": "1.0",
   "description": "timedropper jQuery time plugin",
   "repository": {
     "type": "git",

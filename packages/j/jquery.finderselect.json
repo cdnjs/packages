@@ -1,7 +1,6 @@
 {
   "name": "jquery.finderselect",
   "filename": "jquery.finderselect.min.js",
-  "version": "0.6.0",
   "description": "Add File Explorer selecting functions to any element",
   "homepage": "http://evulse.github.io/finderSelect/",
   "keywords": [

@@ -1,7 +1,6 @@
 {
   "name": "tootik",
   "filename": "css/tootik.min.css",
-  "version": "1.0.2",
   "homepage": "https://eliortabeka.github.io/tootik/",
   "description": "A pure CSS/SCSS/LESS Tooltip library",
   "repository": {

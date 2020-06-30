@@ -1,7 +1,6 @@
 {
   "name": "jquery.countdown",
   "filename": "jquery.countdown.min.js",
-  "version": "2.2.0",
   "description": "The Final Countdown for jQuery",
   "author": "Edson Hilios",
   "homepage": "http://hilios.github.io/jQuery.countdown/",

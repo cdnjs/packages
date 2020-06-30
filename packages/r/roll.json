@@ -1,7 +1,6 @@
 {
   "name": "roll",
   "filename": "roll.min.js",
-  "version": "0.1.2",
   "description": "A simple library to track scroll movements.",
   "author": "William Ngan",
   "repository": {

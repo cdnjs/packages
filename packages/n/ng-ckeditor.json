@@ -1,6 +1,5 @@
 {
   "name": "ng-ckeditor",
-  "version": "0.2.1",
   "description": "CKEditor + AngularJS",
   "filename": "ng-ckeditor.min.js",
   "repository": {

@@ -11,7 +11,6 @@
     }
   ],
   "description": "Transform DOM elements into each another with smooth transitions",
-  "version": "0.5.0",
   "author": {
     "name": "Rich Harris"
   },

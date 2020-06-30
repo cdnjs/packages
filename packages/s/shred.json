@@ -1,7 +1,6 @@
 {
   "name": "shred",
   "filename": "shred.min.js",
-  "version": "0.8.10",
   "description": "Shred is an HTTP client library for browsers and node.js. Shred supports gzip, cookies, https, proxies, and redirects.",
   "homepage": "https://github.com/automatthew/shred",
   "keywords": [

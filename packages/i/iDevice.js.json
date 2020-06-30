@@ -1,6 +1,5 @@
 {
   "name": "iDevice.js",
-  "version": "2.1.0",
   "filename": "idevice.min.js",
   "description": "Discover which iOS devices are used on your site",
   "repository": {

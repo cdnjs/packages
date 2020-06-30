@@ -1,7 +1,6 @@
 {
   "name": "egjs-component",
   "filename": "component.min.js",
-  "version": "2.1.2",
   "description": "A base class utility that manages events and options in modules.",
   "author": "NAVER Corp.",
   "license": "MIT",

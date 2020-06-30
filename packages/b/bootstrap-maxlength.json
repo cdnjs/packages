@@ -1,7 +1,6 @@
 {
   "name": "bootstrap-maxlength",
   "filename": "bootstrap-maxlength.min.js",
-  "version": "1.9.1",
   "description": "An visual feedback indicator for the MaxLength attribute",
   "repository": {
     "type": "git",

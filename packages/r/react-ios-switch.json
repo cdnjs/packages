@@ -1,7 +1,6 @@
 {
   "name": "react-ios-switch",
   "filename": "bundle.js",
-  "version": "0.1.19",
   "description": "React switch component",
   "author": "Matthew King <mking@clari.com>",
   "license": "MIT",

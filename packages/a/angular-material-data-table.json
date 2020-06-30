@@ -1,7 +1,6 @@
 {
   "name": "angular-material-data-table",
   "filename": "md-data-table.min.js",
-  "version": "0.10.10",
   "description": "Material Design data table.",
   "repository": {
     "type": "git",

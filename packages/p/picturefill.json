@@ -1,7 +1,6 @@
 {
   "name": "picturefill",
   "filename": "picturefill.min.js",
-  "version": "3.0.3",
   "description": "A responsive image polyfill.",
   "homepage": "http://scottjehl.github.com/picturefill/",
   "keywords": [

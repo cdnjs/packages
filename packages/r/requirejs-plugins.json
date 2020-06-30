@@ -1,6 +1,5 @@
 {
   "name": "requirejs-plugins",
-  "version": "1.0.3",
   "filename": "async.min.js",
   "description": "Small set of plugins for RequireJS. Some plugins may also work on other AMD loaders.",
   "autoupdate": {

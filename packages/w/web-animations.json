@@ -1,6 +1,5 @@
 {
   "name": "web-animations",
-  "version": "2.3.2",
   "filename": "web-animations.min.js",
   "description": "JavaScript implementation of the Web Animations API",
   "repository": {

@@ -1,6 +1,5 @@
 {
   "name": "expect",
-  "version": "1.20.2",
   "description": "Write better assertions",
   "license": "MIT",
   "keywords": [

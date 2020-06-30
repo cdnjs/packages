@@ -1,6 +1,5 @@
 {
   "name": "excel-builder",
-  "version": "2.0.3",
   "filename": "excel-builder.dist.min.js",
   "description": "An easy way of building Excel files with javascript",
   "repository": {

@@ -1,7 +1,6 @@
 {
   "name": "paste.js",
   "filename": "paste.min.js",
-  "version": "0.0.21",
   "description": "read image/text data from clipboard (cross-browser)",
   "repository": {
     "type": "git",

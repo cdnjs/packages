@@ -1,6 +1,5 @@
 {
   "name": "soundplayer-widget",
-  "version": "0.4.2",
   "description": "Lightweight embedded SoundCloud player widgets",
   "keywords": [
     "soundcloud",

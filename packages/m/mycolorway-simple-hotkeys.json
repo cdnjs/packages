@@ -2,7 +2,6 @@
   "name": "mycolorway-simple-hotkeys",
   "description": "Simple hotkeys for tower.im",
   "filename": "hotkeys.min.js",
-  "version": "1.0.3",
   "author": {
     "name": "ichord",
     "email": "chord.luo@gmail.com"

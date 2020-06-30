@@ -1,7 +1,6 @@
 {
   "name": "condition",
   "filename": "condition.min.js",
-  "version": "1.2.0",
   "description": "Advanced condition library",
   "keywords": [
     "conditions"

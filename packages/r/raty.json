@@ -22,7 +22,6 @@
     "type": "git",
     "url": "https://github.com/wbotelhos/raty"
   },
-  "version": "2.9.0",
   "npmName": "raty-js",
   "npmFileMap": [
     {

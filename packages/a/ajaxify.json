@@ -1,7 +1,6 @@
 {
   "name": "ajaxify",
   "filename": "ajaxify.min.js",
-  "version": "7.6.2",
   "description": "Ajaxify your site out of the box, instantly",
   "repository": {
     "type": "git",

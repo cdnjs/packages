@@ -1,6 +1,5 @@
 {
   "name": "alchemyjs",
-  "version": "0.4.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/graphalchemist/alchemy.git"

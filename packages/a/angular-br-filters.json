@@ -1,6 +1,5 @@
 {
   "name": "angular-br-filters",
-  "version": "0.7.0",
   "description": "An Angular library of masks applicable to several Brazilian data.",
   "filename": "angular-br-filters.min.js",
   "repository": {

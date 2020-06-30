@@ -1,6 +1,5 @@
 {
   "name": "string-mask",
-  "version": "0.3.0",
   "description": "A string formatter and validator based on masks",
   "filename": "string-mask.min.js",
   "repository": {

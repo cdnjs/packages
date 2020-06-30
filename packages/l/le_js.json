@@ -1,7 +1,6 @@
 {
   "name": "le_js",
   "filename": "le.min.js",
-  "version": "0.0.3",
   "description": "Javascript library for Logentries.com",
   "repository": {
     "type": "git",

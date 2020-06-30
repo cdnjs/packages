@@ -1,6 +1,5 @@
 {
   "name": "nightly.js",
-  "version": "1.1.0",
   "filename": "nightly.min.js",
   "description": "A zero dependency javascript library that enables the night mode in your website easily ",
   "repository": {

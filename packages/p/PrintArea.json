@@ -1,7 +1,6 @@
 {
   "name": "PrintArea",
   "filename": "jquery.PrintArea.min.js",
-  "version": "2.4.1",
   "description": "Prints a specific area of the page. Using json settings, the printed area is either opened in a popup or in a hidden iframe. Minimal setup and easy to use. See the demo for examples and usage of the options.",
   "keywords": [
     "jquery",

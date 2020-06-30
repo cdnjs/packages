@@ -1,6 +1,5 @@
 {
   "name": "jQuery.BlackAndWhite",
-  "version": "0.3.8",
   "description": "This plug-in can easily convert any colored image (in an html page) into a B&W greyscale image.",
   "filename": "jquery.BlackAndWhite.min.js",
   "repository": {

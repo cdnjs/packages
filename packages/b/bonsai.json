@@ -1,7 +1,6 @@
 {
   "name": "bonsai",
   "filename": "bonsai.min.js",
-  "version": "0.4.5",
   "description": "Bonsai runtime and node server",
   "homepage": "http://bonsaijs.org",
   "keywords": [

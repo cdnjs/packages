@@ -1,7 +1,6 @@
 {
   "name": "frontpress",
   "filename": "frontpress.min.js",
-  "version": "1.0.8",
   "description": "Full front-end AngularJS template for WordPress Rest API.",
   "keywords": [
     "frontpress",

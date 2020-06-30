@@ -1,7 +1,6 @@
 {
   "name": "simplebar",
   "filename": "simplebar.min.js",
-  "version": "5.2.0",
   "description": "Custom scrollbars with native scroll, done simple, lightweight, easy to use and cross-browser.",
   "homepage": "https://grsmto.github.io/simplebar/",
   "keywords": [

@@ -1,6 +1,5 @@
 {
   "name": "vuejs-paginate",
-  "version": "2.1.0",
   "filename": "index.js",
   "description": "A simple pagination component for Vue.js",
   "repository": {

@@ -17,6 +17,5 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:dbrekalo/simpleLightbox.git"
-  },
-  "version": "2.1.0"
+  }
 }

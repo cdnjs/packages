@@ -21,6 +21,5 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:imgix/drift.git"
-  },
-  "version": "1.4.0"
+  }
 }

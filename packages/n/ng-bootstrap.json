@@ -1,7 +1,6 @@
 {
   "name": "ng-bootstrap",
   "filename": "ng-bootstrap.umd.min.js",
-  "version": "6.1.0",
   "description": "Angular powered Bootstrap",
   "keywords": [
     "angular",

@@ -1,6 +1,5 @@
 {
   "name": "jquery-visibility",
-  "version": "1.0.11",
   "description": "Page visibility shim for jQuery.",
   "keywords": [
     "page",

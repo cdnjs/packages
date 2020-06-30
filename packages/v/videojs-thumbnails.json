@@ -2,7 +2,6 @@
   "name": "videojs-thumbnails",
   "filename": "videojs.thumbnails.min.js",
   "description": "progress bar thumbnails plugin for video.js",
-  "version": "0.1.1",
   "authors": [
     "Gary Katsevman <me@gkatsev.com>",
     "David LaPalomento"

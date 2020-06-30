@@ -1,7 +1,6 @@
 {
   "name": "handlebars.js",
   "filename": "handlebars.min.js",
-  "version": "4.7.6",
   "description": "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration",
   "homepage": "http://www.handlebarsjs.com",
   "keywords": [

@@ -1,7 +1,6 @@
 {
   "name": "deb.js",
   "filename": "deb.min.js",
-  "version": "0.0.2",
   "description": "Minimalistic JavaScript library for debugging in the browser",
   "author": {
     "name": "Krasimir Tsonev",

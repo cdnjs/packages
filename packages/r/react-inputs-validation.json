@@ -30,6 +30,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/edwardfhsiao/react-inputs-validation"
-  },
-  "version": "4.4.1"
+  }
 }

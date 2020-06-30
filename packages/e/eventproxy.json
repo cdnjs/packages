@@ -1,6 +1,5 @@
 {
   "name": "eventproxy",
-  "version": "1.0.0",
   "filename": "eventproxy.min.js",
   "description": "An implementation of task/event based asynchronous pattern.",
   "keywords": [

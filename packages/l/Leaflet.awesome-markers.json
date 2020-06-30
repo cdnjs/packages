@@ -1,7 +1,6 @@
 {
   "name": "Leaflet.awesome-markers",
   "filename": "leaflet.awesome-markers.min.js",
-  "version": "2.0.2",
   "description": "Colorful iconic & retina-proof markers for Leaflet, based on the Glyphicons / Font-Awesome icons",
   "license": "MIT",
   "autoupdate": {

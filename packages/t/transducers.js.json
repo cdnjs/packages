@@ -1,6 +1,5 @@
 {
   "name": "transducers.js",
-  "version": "0.3.2",
   "filename": "transducers.min.js",
   "description": "A small library for generalized transformation of data",
   "author": "James Long <longster@gmail.com>",

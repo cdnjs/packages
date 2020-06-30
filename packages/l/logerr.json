@@ -1,7 +1,6 @@
 {
   "name": "logerr",
   "filename": "logerr.min.js",
-  "version": "1.2.0",
   "description": "Provides JavaScript errors in readable format. Also allows developers to log exceptions remotely by sending a post reqest.",
   "keywords": [
     "javascript",

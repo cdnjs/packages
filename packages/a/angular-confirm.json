@@ -1,6 +1,5 @@
 {
   "name": "angular-confirm",
-  "version": "1.2.6",
   "description": "Angular Confirm Modal",
   "filename": "angular-confirm.min.js",
   "repository": {

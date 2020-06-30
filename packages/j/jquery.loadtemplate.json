@@ -1,6 +1,5 @@
 {
   "name": "jquery.loadtemplate",
-  "version": "1.5.10",
   "description": "jQuery plugin for loading and using templates. The plugin is designed to be simple yet powerful, and supports loading templates from within the page, or using AJAX to load html files.",
   "filename": "jquery.loadTemplate.min.js",
   "keywords": [

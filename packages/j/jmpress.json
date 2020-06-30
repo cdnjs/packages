@@ -12,7 +12,6 @@
     }
   ],
   "filename": "jmpress.min.js",
-  "version": "0.4.5",
   "title": "jQuery.jmpress()",
   "description": "A jQuery plugin to build a website on the infinite canvas.",
   "homepage": "http://jmpressjs.github.com/jmpress.js",

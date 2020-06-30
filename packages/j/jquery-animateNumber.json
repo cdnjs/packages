@@ -1,7 +1,6 @@
 {
   "name": "jquery-animateNumber",
   "filename": "jquery.animateNumber.min.js",
-  "version": "0.0.14",
   "description": "jQuery animate number plugin",
   "repository": {
     "type": "git",

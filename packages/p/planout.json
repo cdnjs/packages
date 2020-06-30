@@ -1,7 +1,6 @@
 {
   "name": "planout",
   "filename": "planout.min.js",
-  "version": "5.0.1",
   "description": "PlanOut is a framework and programming language for online field experimentation",
   "repository": {
     "type": "git",

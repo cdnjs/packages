@@ -1,6 +1,5 @@
 {
   "name": "bootstrap3-wysiwyg",
-  "version": "0.3.3",
   "filename": "bootstrap3-wysihtml5.all.min.js",
   "description": "Bootstrap 3 compatible wysiwyg editor",
   "repository": {

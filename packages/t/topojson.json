@@ -1,7 +1,6 @@
 {
   "name": "topojson",
   "filename": "topojson.min.js",
-  "version": "3.0.2",
   "description": "An extension to GeoJSON that encodes topology.",
   "keywords": [
     "geojson",

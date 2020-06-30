@@ -1,7 +1,6 @@
 {
   "name": "path.js",
   "filename": "path.min.js",
-  "version": "0.8.4",
   "description": "PathJS is a lightweight, client-side routing library that allows you to create 'single page' applications using Hashbangs and/or HTML5 pushState.",
   "keywords": [
     "path",

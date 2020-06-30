@@ -2,7 +2,6 @@
   "name": "notificon",
   "filename": "notificon.min.js",
   "description": "favicon notifications and alerts",
-  "version": "1.0.4",
   "keywords": [
     "ender",
     "notificon"

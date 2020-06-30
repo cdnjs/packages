@@ -1,7 +1,6 @@
 {
   "name": "bootstrap-tagsinput",
   "title": "Bootstrap Tags Input",
-  "version": "0.8.0",
   "description": "jQuery plugin providing a Twitter Bootstrap user interface for managing tags.",
   "filename": "bootstrap-tagsinput.min.js",
   "repository": {

@@ -2,7 +2,6 @@
   "name": "unitegallery",
   "filename": "js/unitegallery.min.js",
   "description": "The Unite Gallery is multipurpose javascript gallery based on jquery library. It's built with a modular technique with a lot of accent of ease of use and customization",
-  "version": "1.7.40",
   "license": "MIT",
   "homepage": "http://unitegallery.net/",
   "author": {

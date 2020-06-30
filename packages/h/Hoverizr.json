@@ -1,7 +1,6 @@
 {
   "name": "Hoverizr",
   "filename": "jquery.hoverizr.min.js",
-  "version": "1.0",
   "description": "An image manipulation and overlay plugin for jQuery",
   "homepage": "http://www.iliasiovis.com/hoverizr",
   "author": {

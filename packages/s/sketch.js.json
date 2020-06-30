@@ -1,7 +1,6 @@
 {
   "name": "sketch.js",
   "filename": "sketch.min.js",
-  "version": "1.0",
   "description": "Cross-Platform JavaScript Creative Coding Framework",
   "homepage": "https://github.com/soulwire/sketch.js/",
   "keywords": [

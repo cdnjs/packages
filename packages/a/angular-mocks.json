@@ -1,7 +1,6 @@
 {
   "name": "angular-mocks",
   "filename": "angular-mocks.min.js",
-  "version": "1.7.9",
   "description": "AngularJS mocks for testing",
   "repository": {
     "type": "git",

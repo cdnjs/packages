@@ -1,7 +1,6 @@
 {
   "name": "angular-media-queries",
   "filename": "match-media.min.js",
-  "version": "0.6.1",
   "description": "Angular service to test if a given @media statment is true.",
   "repository": {
     "type": "git",

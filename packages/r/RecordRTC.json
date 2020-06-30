@@ -1,7 +1,6 @@
 {
   "name": "RecordRTC",
   "filename": "RecordRTC.min.js",
-  "version": "5.5.9",
   "description": "RecordRTC is a server-less (entire client-side) JavaScript library can be used to record WebRTC audio/video media streams. It supports cross-browser audio/video recording.",
   "repository": {
     "type": "git",

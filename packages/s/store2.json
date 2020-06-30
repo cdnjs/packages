@@ -1,6 +1,5 @@
 {
   "name": "store2",
-  "version": "2.11.2",
   "filename": "store2.min.js",
   "description": "Better localStorage",
   "keywords": [

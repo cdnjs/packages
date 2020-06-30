@@ -1,7 +1,6 @@
 {
   "name": "psd.js",
   "filename": "psd.min.js",
-  "version": "3.2.0",
   "description": "A general purpose Photoshop file parser.",
   "homepage": "http://meltingice.github.com/psd.js/",
   "keywords": [

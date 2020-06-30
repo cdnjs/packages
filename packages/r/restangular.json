@@ -10,7 +10,6 @@
     }
   ],
   "description": "Restful Resources service for AngularJS apps",
-  "version": "1.6.1",
   "filename": "restangular.min.js",
   "author": "Martin Gontovnikas <martin@gon.to>",
   "repository": {

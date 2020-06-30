@@ -1,7 +1,6 @@
 {
   "name": "taggle",
   "filename": "taggle.min.js",
-  "version": "1.15.0",
   "description": "Taggle is a dependency-less tagging library",
   "author": "Sean Coker <sean@seancoker.com>",
   "repository": {

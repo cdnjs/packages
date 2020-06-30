@@ -1,7 +1,6 @@
 {
   "name": "formbuilder",
   "filename": "formbuilder-min.js",
-  "version": "0.2.1",
   "description": "Graphical form builder for the web.",
   "author": "ajb <ad@mbecker.cc>",
   "license": "MIT",

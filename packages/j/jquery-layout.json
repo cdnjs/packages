@@ -1,7 +1,6 @@
 {
   "name": "jquery-layout",
   "filename": "jquery.layout.min.js",
-  "version": "1.4.3",
   "description": "jQuery plugin for layout management (jQuery version of extJS border-layout).",
   "homepage": "http://layout.jquery-dev.net/",
   "keywords": [

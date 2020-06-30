@@ -1,6 +1,5 @@
 {
   "name": "Dropify",
-  "version": "0.2.2",
   "filename": "js/dropify.min.js",
   "description": "Override your input files with style.",
   "keywords": [

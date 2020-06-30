@@ -1,7 +1,6 @@
 {
   "name": "scrollama",
   "description": "Lightweight scrollytelling library using IntersectionObserver",
-  "version": "2.2.1",
   "filename": "scrollama.min.js",
   "repository": {
     "type": "git",

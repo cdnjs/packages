@@ -1,7 +1,6 @@
 {
   "name": "highlight.js",
   "filename": "highlight.min.js",
-  "version": "10.0.3",
   "description": "Syntax highlighting with language autodetection.",
   "homepage": "http://highlightjs.org",
   "keywords": [

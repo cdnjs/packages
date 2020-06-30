@@ -1,7 +1,6 @@
 {
   "name": "angular-cookie",
   "filename": "angular-cookie.min.js",
-  "version": "4.1.0",
   "description": "angular module for accessing browser coockies",
   "keywords": [
     "cookie",

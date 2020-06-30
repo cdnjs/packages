@@ -2,7 +2,6 @@
   "name": "MutationObserver.js",
   "filename": "mutationobserver.min.js",
   "description": "MutationObserver shim for ES3 environments",
-  "version": "0.3.5",
   "keywords": [
     "DOM",
     "observer",

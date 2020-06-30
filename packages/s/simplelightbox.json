@@ -1,6 +1,5 @@
 {
   "name": "simplelightbox",
-  "version": "2.2.1",
   "description": "Touch-friendly image lightbox for mobile and desktop with jQuery",
   "filename": "simple-lightbox.min.js",
   "repository": {

@@ -1,7 +1,6 @@
 {
   "name": "js-data-localstorage",
   "description": "localStorage adapter for js-data.",
-  "version": "2.3.2",
   "homepage": "http://www.js-data.io/docs/dslocalstorageadapter",
   "repository": {
     "type": "git",

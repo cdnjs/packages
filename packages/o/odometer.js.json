@@ -1,7 +1,6 @@
 {
   "name": "odometer.js",
   "filename": "odometer.min.js",
-  "version": "0.4.8",
   "description": "Transition numbers with ease",
   "homepage": "http://github.hubspot.com/odometer/docs/welcome/",
   "keywords": [

@@ -1,7 +1,6 @@
 {
   "name": "jquery-toggles",
   "filename": "toggles.min.js",
-  "version": "2.0.4",
   "description": "Toggles is a lightweight jQuery plugin that creates easily-styleable toggle buttons.",
   "homepage": "http://simontabor.com/labs/toggles/",
   "keywords": [

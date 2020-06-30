@@ -1,7 +1,6 @@
 {
   "name": "boba.js",
   "filename": "boba.min.js",
-  "version": "1.0.3",
   "description": "A small, easily extensible JavaScript library that makes working with Google Analytics easier.",
   "repository": {
     "type": "git",

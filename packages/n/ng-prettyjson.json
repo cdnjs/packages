@@ -2,7 +2,6 @@
   "name": "ng-prettyjson",
   "filename": "ng-prettyjson.min.js",
   "description": "AngularJS directive for json pretty output (colors / indent / editor)",
-  "version": "0.2.0",
   "license": "MIT",
   "author": {
     "name": "Julien Valéry",

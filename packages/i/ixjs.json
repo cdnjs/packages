@@ -3,7 +3,6 @@
   "filename": "ix.min.js",
   "title": "Interactive Extensions for JavaScript (RxJS)",
   "description": "Library for composing asynchronous and event-based operations in JavaScript",
-  "version": "1.0.6",
   "homepage": "http://rx.codeplex.com",
   "author": {
     "name": "Cloud Programmability Team",

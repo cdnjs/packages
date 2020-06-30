@@ -1,7 +1,6 @@
 {
   "name": "SyntaxHighlighter",
   "filename": "scripts/shCore.min.js",
-  "version": "3.0.83",
   "description": "SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.",
   "homepage": "http://alexgorbatchev.com/SyntaxHighlighter",
   "keywords": [

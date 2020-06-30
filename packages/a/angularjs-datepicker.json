@@ -1,6 +1,5 @@
 {
   "name": "angularjs-datepicker",
-  "version": "2.1.23",
   "filename": "angular-datepicker.min.js",
   "description": "A datepicker directive for angularjs.",
   "homepage": "https://720kb.github.io/angular-datepicker",

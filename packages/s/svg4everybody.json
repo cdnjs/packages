@@ -1,7 +1,6 @@
 {
   "name": "svg4everybody",
   "description": "Use external SVG spritemaps in any browser",
-  "version": "2.1.9",
   "author": "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com)",
   "license": "CC0-1.0",
   "keywords": [

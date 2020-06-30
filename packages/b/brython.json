@@ -1,7 +1,6 @@
 {
   "name": "brython",
   "filename": "brython.min.js",
-  "version": "3.8.8",
   "description": "Python 3 in the browser",
   "repository": {
     "type": "git",

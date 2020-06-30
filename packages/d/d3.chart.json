@@ -1,6 +1,5 @@
 {
   "name": "d3.chart",
-  "version": "0.3.0",
   "filename": "d3.chart.min.js",
   "description": "A framework for creating reusable charts with D3.js",
   "repository": {

@@ -2,7 +2,6 @@
   "name": "animsition",
   "filename": "js/animsition.min.js",
   "description": "A simple and easy jQuery plugin for CSS animated page transitions.",
-  "version": "4.0.2",
   "homepage": "http://git.blivesta.com/animsition",
   "author": {
     "name": "blivesta",

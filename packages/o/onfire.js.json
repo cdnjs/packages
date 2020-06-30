@@ -1,7 +1,6 @@
 {
   "name": "onfire.js",
   "filename": "onfire.min.js",
-  "version": "1.0.6",
   "description": "onfire.js is a simple events dispatcher subscribe / publish library. aysnc, simple and usefull.",
   "author": {
     "name": "hustcc",

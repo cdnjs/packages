@@ -1,6 +1,5 @@
 {
   "name": "porthole",
-  "version": "1.0.0",
   "filename": "porthole.min.js",
   "description": "A proxy to safely communicate to cross-domain iframes in JavaScript.",
   "homepage": "https://ternarylabs.github.com/porthole/",

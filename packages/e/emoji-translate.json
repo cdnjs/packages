@@ -1,6 +1,5 @@
 {
   "name": "emoji-translate",
-  "version": "1.0.2",
   "filename": "emoji-translate.min.js",
   "description": "A library that translates english words to emoji",
   "repository": {

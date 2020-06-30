@@ -1,7 +1,6 @@
 {
   "name": "angular-md5",
   "filename": "angular-md5.min.js",
-  "version": "0.1.10",
   "description": "A md5 crypto component for Angular.js",
   "author": {
     "name": "Patrick Stapleton",

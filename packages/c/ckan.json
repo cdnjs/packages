@@ -1,7 +1,6 @@
 {
   "name": "ckan",
   "filename": "ckan.min.js",
-  "version": "0.2.3",
   "description": "A Javascript client library for CKAN designed for both the browser and NodeJS.",
   "keywords": [
     "Javascript",

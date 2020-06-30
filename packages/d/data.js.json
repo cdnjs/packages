@@ -2,7 +2,6 @@
   "name": "data.js",
   "filename": "data.min.js",
   "description": "data.js is a datacenter with notifications. I call the data that can speak. It aim to make coding easier and make a better world.",
-  "version": "0.3.0",
   "author": {
     "name": "yanhaijing",
     "email": "yanhaijing@yeah.net",

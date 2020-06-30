@@ -2,7 +2,6 @@
   "name": "jss",
   "filename": "jss.min.js",
   "description": "Composable and reusable style sheets.",
-  "version": "10.1.1",
   "author": {
     "name": "Oleg Slobodskoi",
     "email": "oleg008@gmail.com"

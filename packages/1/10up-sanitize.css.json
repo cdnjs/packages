@@ -1,6 +1,5 @@
 {
   "name": "10up-sanitize.css",
-  "version": "11.0.1",
   "description": "Render elements consistently. Style with best practices.",
   "filename": "sanitize.min.css",
   "repository": {

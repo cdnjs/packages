@@ -2,7 +2,6 @@
   "name": "motio",
   "filename": "motio.min.js",
   "description": "Small JavaScript library for sprite based animations and panning",
-  "version": "2.2.2",
   "homepage": "http://darsa.in/motio",
   "author": {
     "name": "darsain",

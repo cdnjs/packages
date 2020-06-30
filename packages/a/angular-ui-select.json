@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git://github.com/angular-ui/ui-select.git"
   },
-  "version": "0.20.0",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

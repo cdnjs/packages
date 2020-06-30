@@ -1,7 +1,6 @@
 {
   "name": "string_score",
   "filename": "string_score.min.js",
-  "version": "0.1.22",
   "description": "String Scoring Algorithm packaged for NodeJS",
   "keywords": [
     "search",

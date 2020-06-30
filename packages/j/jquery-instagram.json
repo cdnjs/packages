@@ -1,7 +1,6 @@
 {
   "name": "jquery-instagram",
   "filename": "instagram.min.js",
-  "version": "0.3.1",
   "description": "Instagram jQuery plugin",
   "keywords": [
     "jquery",

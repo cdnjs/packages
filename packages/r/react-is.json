@@ -22,6 +22,5 @@
     "directory": "packages/react-is",
     "type": "git",
     "url": "git+https://github.com/facebook/react.git"
-  },
-  "version": "16.13.1"
+  }
 }

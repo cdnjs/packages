@@ -1,6 +1,5 @@
 {
   "name": "mo",
-  "version": "1.7.3",
   "description": "A collection of OzJS core modules that form a library called \"Mo\"",
   "filename": "lang.js",
   "homepage": "http://ozjs.org/mo/",

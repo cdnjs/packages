@@ -1,7 +1,6 @@
 {
   "name": "zooming",
   "filename": "zooming.min.js",
-  "version": "2.1.1",
   "description": "Image zoom that makes sense.",
   "repository": {
     "type": "git",

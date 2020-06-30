@@ -1,7 +1,6 @@
 {
   "name": "use.js",
   "filename": "use.min.js",
-  "version": "0.4.0",
   "description": "An AMD plugin for consuming globally defined JavaScript.",
   "keywords": [
     "requirejs",

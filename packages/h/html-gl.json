@@ -1,6 +1,5 @@
 {
   "name": "html-gl",
-  "version": "0.3.1",
   "filename": "htmlgl.min.js",
   "description": "Get as many FPS as you need by rendering HTML/CSS in WebGL",
   "repository": {

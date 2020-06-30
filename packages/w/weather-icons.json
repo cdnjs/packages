@@ -1,7 +1,6 @@
 {
   "name": "weather-icons",
   "filename": "css/weather-icons.min.css",
-  "version": "2.0.9",
   "description": "215 weather themed icons inspired by Font Awesome and ready for Bootstrap",
   "homepage": "http://erikflowers.github.io/weather-icons/",
   "keywords": [

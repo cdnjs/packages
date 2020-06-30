@@ -1,7 +1,6 @@
 {
   "name": "soxx",
   "filename": "soxx.min.js",
-  "version": "2.0.3",
   "description": "The missing microlib for websocket communication in the browser",
   "repository": {
     "type": "git",

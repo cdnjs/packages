@@ -1,7 +1,6 @@
 {
   "name": "salesforce-canvas",
   "filename": "canvas-all.min.js",
-  "version": "27.0",
   "description": "An open source javascript sdk to build a seamless end-user experience inside of salesforce.com.",
   "homepage": "http://wiki.developerforce.com/page/Force.com_Canvas",
   "keywords": [

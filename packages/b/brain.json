@@ -1,7 +1,6 @@
 {
   "name": "brain",
   "filename": "brain.min.js",
-  "version": "0.6.3",
   "description": "Neural network library",
   "keywords": [
     "brain",

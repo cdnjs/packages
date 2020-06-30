@@ -1,6 +1,5 @@
 {
   "name": "angular-relative-date",
-  "version": "2.1.1",
   "filename": "angular-relative-date.min.js",
   "description": "AngularJS filter to provide relative, human-readable dates.",
   "license": "MIT",

@@ -29,6 +29,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/playcanvas/engine.git"
-  },
-  "version": "1.27.0"
+  }
 }

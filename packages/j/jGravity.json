@@ -1,7 +1,6 @@
 {
   "name": "jGravity",
   "filename": "jGravity-min.js",
-  "version": "0.8.0",
   "description": "jQuery plugin to bring gravity to your site.",
   "homepage": "http://tinybigideas.com/plugins/jquery-gravity/",
   "author": {

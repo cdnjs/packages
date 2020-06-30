@@ -2,7 +2,6 @@
   "name": "esri-leaflet-related",
   "filename": "esri-leaflet-related.js",
   "description": "A Leaflet plugin that allows users to query related tables.",
-  "version": "2.0.0",
   "author": "John Gravois <jgravois@esri.com> (http://johngravois.com)",
   "keywords": [
     "esri",

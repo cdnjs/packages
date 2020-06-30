@@ -1,6 +1,5 @@
 {
   "name": "angularjs-ie8-build",
-  "version": "1.4.7",
   "filename": "angular.min.js",
   "description": "A build of AngularJS 1.3 with polyfils and some changes to bring back IE8 compatibilty",
   "author": "Fergal Doyle",

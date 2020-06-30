@@ -17,6 +17,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ant-design/ant-design-icons.git"
-  },
-  "version": "4.0.0"
+  }
 }

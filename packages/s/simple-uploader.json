@@ -1,6 +1,5 @@
 {
   "name": "simple-uploader",
-  "version": "3.0.0",
   "filename": "simple-uploader.min.js",
   "description": "A HTML5 upload component without UI",
   "keywords": [

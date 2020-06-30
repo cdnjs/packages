@@ -1,7 +1,6 @@
 {
   "name": "nosleep",
   "filename": "NoSleep.min.js",
-  "version": "0.6.0",
   "description": "Prevent display sleep on all Android and iOS browsers",
   "repository": {
     "type": "git",

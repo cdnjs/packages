@@ -22,6 +22,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/theaqua/redux-logger.git"
-  },
-  "version": "4.0.0"
+  }
 }

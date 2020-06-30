@@ -1,7 +1,6 @@
 {
   "name": "leaflet.heat",
   "filename": "leaflet-heat.js",
-  "version": "0.2.0",
   "description": "A tiny and fast Leaflet heatmap plugin.",
   "keywords": [
     "heatmap",

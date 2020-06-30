@@ -1,6 +1,5 @@
 {
   "name": "spf",
-  "version": "2.4.0",
   "description": "A lightweight JS framework for fast navigation and page updates from YouTube",
   "repository": {
     "type": "git",

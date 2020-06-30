@@ -1,7 +1,6 @@
 {
   "name": "jscolor",
   "filename": "jscolor.min.js",
-  "version": "2.0.4",
   "description": "jscolor is a web color picker component that aims to be super easy both for developers to install and end users to use.",
   "repository": {
     "type": "git",

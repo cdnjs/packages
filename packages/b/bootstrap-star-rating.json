@@ -1,7 +1,6 @@
 {
   "name": "bootstrap-star-rating",
   "filename": "js/star-rating.min.js",
-  "version": "4.0.6",
   "author": "Kartik Visweswaran <kartikv2@gmail.com>",
   "description": "A simple yet powerful JQuery star rating plugin for Bootstrap.",
   "repository": {

@@ -1,6 +1,5 @@
 {
   "name": "ng-fittext",
-  "version": "4.2.3",
   "description": "An AngularJS directive for inflating web type",
   "repository": {
     "type": "git",

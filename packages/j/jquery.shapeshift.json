@@ -1,6 +1,5 @@
 {
   "name": "jquery.shapeshift",
-  "version": "2.0.0",
   "filename": "jquery.shapeshift.min.js",
   "description": "jQuery plugin which creates a column based grid system that allows drag and drop even between multiple containers.",
   "keywords": [

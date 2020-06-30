@@ -11,7 +11,6 @@
     }
   ],
   "filename": "xlsx.min.js",
-  "version": "0.15.6",
   "description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer",
   "license": "Apache License, Version 2.0",
   "keywords": [

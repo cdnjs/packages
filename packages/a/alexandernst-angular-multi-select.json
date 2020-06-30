@@ -1,6 +1,5 @@
 {
   "name": "alexandernst-angular-multi-select",
-  "version": "7.4.6",
   "description": "A multi select dropdown directive for AngularJS",
   "filename": "angular-multi-select.min.js",
   "repository": {

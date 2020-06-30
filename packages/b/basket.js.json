@@ -10,7 +10,6 @@
     }
   ],
   "filename": "basket.full.min.js",
-  "version": "0.5.2",
   "description": "A script and resource loader for caching & loading scripts with localStorage",
   "homepage": "http://addyosmani.github.com/basket.js",
   "keywords": [

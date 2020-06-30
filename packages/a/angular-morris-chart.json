@@ -1,6 +1,5 @@
 {
   "name": "angular-morris",
-  "version": "1.3.0",
   "filename": "angular-morris.min.js",
   "description": "Easy use of morris.js with angular.js",
   "homepage": "https://angular-morris.io",

@@ -1,6 +1,5 @@
 {
   "name": "angular-restmod",
-  "version": "1.1.11",
   "description": "API Bound Models for AngularJS",
   "license": "MIT",
   "author": "Ignacio Baixas <ignacio@platan.us>",

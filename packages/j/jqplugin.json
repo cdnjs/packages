@@ -1,7 +1,6 @@
 {
   "name": "jqplugin",
   "title": "jqplugin",
-  "version": "1.0.2",
   "filename": "jquery.jqplugin.min.js",
   "description": "A jQuery plugin that extends the jQuery.browser object to allow simple and easy browser plugin detection",
   "keywords": [

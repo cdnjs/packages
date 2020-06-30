@@ -1,7 +1,6 @@
 {
   "name": "bootstrap-magnify",
   "filename": "js/bootstrap-magnify.min.js",
-  "version": "0.3.0",
   "description": "Small bootstrap js plugin to enhance porte-folios and image galleries.",
   "keywords": [
     "bootstrap",

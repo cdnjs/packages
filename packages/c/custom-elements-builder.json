@@ -1,7 +1,6 @@
 {
   "name": "custom-elements-builder",
   "description": "custom-element-builder is just a set of builders, natively scalable and designed for FRP.",
-  "version": "0.3.4",
   "npmName": "ceb",
   "npmFileMap": [
     {

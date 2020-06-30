@@ -1,6 +1,5 @@
 {
   "name": "leaflet-ajax",
-  "version": "2.1.0",
   "filename": "leaflet.ajax.min.js",
   "description": "AJAX and JSONP in Leaflet",
   "repository": {

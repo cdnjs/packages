@@ -1,6 +1,5 @@
 {
   "name": "circles",
-  "version": "0.0.6",
   "description": "Lightweight JavaScript library that generates circular graphs in SVG. Now with animation.",
   "filename": "circles.min.js",
   "repository": {

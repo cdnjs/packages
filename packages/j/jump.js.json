@@ -1,7 +1,6 @@
 {
   "name": "jump.js",
   "filename": "jump.min.js",
-  "version": "1.0.2",
   "description": "A small, modern, dependency-free smooth scrolling library.",
   "author": "Michael Cavalea",
   "license": "MIT",

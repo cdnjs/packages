@@ -1,7 +1,6 @@
 {
   "name": "chardin.js",
   "filename": "chardinjs.min.js",
-  "version": "0.1.3",
   "description": "Simple overlay instructions for your apps.",
   "homepage": "http://heelhook.github.io/chardin.js/",
   "keywords": [

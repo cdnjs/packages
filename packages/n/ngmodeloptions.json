@@ -1,7 +1,6 @@
 {
   "name": "ngmodeloptions",
   "filename": "ngModelOptions.min.js",
-  "version": "1.0.1",
   "description": "ngModelOptions for AngularJS 1.2",
   "repository": {
     "type": "git",

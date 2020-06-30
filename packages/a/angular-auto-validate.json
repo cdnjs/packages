@@ -26,6 +26,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jonsamwell/angular-auto-validate.git"
-  },
-  "version": "1.19.0"
+  }
 }

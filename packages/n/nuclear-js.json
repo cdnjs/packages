@@ -1,7 +1,6 @@
 {
   "name": "nuclear-js",
   "filename": "nuclear.min.js",
-  "version": "1.4.0",
   "description": "Immutable, reactive Flux architecture. UI Agnostic.",
   "keywords": [
     "flux",

@@ -1,7 +1,6 @@
 {
   "name": "jQuery-Paging",
   "description": "Probably the most advanced jQuery pagination plugin.",
-  "version": "1.2.0",
   "filename": "jquery.paging.min.js",
   "repository": {
     "type": "git",

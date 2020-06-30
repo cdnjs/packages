@@ -1,6 +1,5 @@
 {
   "name": "bricks.js",
-  "version": "1.8.0",
   "description": "A blazing fast masonry layout generator for fixed width elements.",
   "filename": "bricks.min.js",
   "author": "Michael Cavalea",

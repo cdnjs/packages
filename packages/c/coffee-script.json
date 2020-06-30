@@ -1,7 +1,6 @@
 {
   "name": "coffee-script",
   "filename": "coffeescript.js",
-  "version": "2.5.1",
   "description": "Unfancy JavaScript",
   "homepage": "http://jashkenas.github.com/coffee-script/",
   "keywords": [

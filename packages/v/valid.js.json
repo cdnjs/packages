@@ -1,6 +1,5 @@
 {
   "name": "valid.js",
-  "version": "1.2.5",
   "filename": "validate.js",
   "description": "A simple library for data validation",
   "repository": {

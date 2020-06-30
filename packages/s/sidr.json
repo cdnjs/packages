@@ -1,7 +1,6 @@
 {
   "name": "sidr",
   "filename": "jquery.sidr.min.js",
-  "version": "2.2.1",
   "description": "Sidr is a jQuery plugin for creating side menus and the easiest way for doing your menu responsive.",
   "homepage": "http://www.berriart.com/sidr/",
   "keywords": [

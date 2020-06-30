@@ -1,7 +1,6 @@
 {
   "name": "chocolat",
   "filename": "js/jquery.chocolat.min.js",
-  "version": "1.0.1",
   "description": " Responsive jQuery Lightbox Plugin",
   "repository": {
     "type": "git",

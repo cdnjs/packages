@@ -1,7 +1,6 @@
 {
   "name": "urlive",
   "filename": "jquery.urlive.min.js",
-  "version": "1.1.1",
   "description": "jQuery URLive lets you easily create a live preview of a URL.",
   "repository": {
     "type": "git",

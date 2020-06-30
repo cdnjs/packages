@@ -1,6 +1,5 @@
 {
   "name": "vue-material-components",
-  "version": "0.3.4",
   "filename": "vue-material-components.min.js",
   "description": "Web components of Vue.js and materializecss",
   "repository": {

@@ -1,7 +1,6 @@
 {
   "name": "chrono-node",
   "filename": "chrono.min.js",
-  "version": "1.4.3",
   "description": "A natural language date parser in Javascript",
   "keywords": [
     "parser",

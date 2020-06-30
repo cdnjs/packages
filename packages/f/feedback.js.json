@@ -1,7 +1,6 @@
 {
   "name": "feedback.js",
   "filename": "feedback.min.js",
-  "version": "2012.10.17",
   "description": "Feedback form with screenshot",
   "homepage": "http://experiments.hertzen.com/jsfeedback/",
   "keywords": [

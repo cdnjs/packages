@@ -1,7 +1,6 @@
 {
   "name": "bootstrap-sidebar",
   "filename": "js/sidebar.min.js",
-  "version": "0.2.2",
   "description": "a sidebar plugin for bootstrap 3",
   "keywords": [
     "bootstrap",

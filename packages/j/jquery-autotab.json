@@ -1,7 +1,6 @@
 {
   "name": "jquery-autotab",
   "filename": "js/jquery.autotab.min.js",
-  "version": "1.9.2",
   "description": "A jQuery plugin that provides auto-tabbing and filtering on text fields in a form",
   "keywords": [
     "autotab",

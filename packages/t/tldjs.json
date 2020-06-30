@@ -28,6 +28,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/oncletom/tld.js.git"
-  },
-  "version": "2.3.1"
+  }
 }

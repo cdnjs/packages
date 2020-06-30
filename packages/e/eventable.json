@@ -1,6 +1,5 @@
 {
   "name": "eventable",
-  "version": "1.0.5",
   "filename": "eventable.min.js",
   "description": "The events part of Backbone",
   "license": "MIT",

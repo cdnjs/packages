@@ -1,7 +1,6 @@
 {
   "name": "sw-toolbox",
   "filename": "sw-toolbox.js",
-  "version": "3.6.1",
   "description": "Service Worker Toolbox provides some simple helpers for use in creating your own service workers.",
   "keywords": [
     "service",

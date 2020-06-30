@@ -1,7 +1,6 @@
 {
   "name": "milojs",
   "filename": "milo.min.js",
-  "version": "1.6.1",
   "description": "Browser/nodejs reactive programming and data driven DOM manipulation with modular components.",
   "keywords": [
     "framework",

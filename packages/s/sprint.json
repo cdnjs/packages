@@ -1,7 +1,6 @@
 {
   "name": "sprint",
   "filename": "sprint.min.js",
-  "version": "0.9.2",
   "description": "A tiny, lightning fast jQuery-like library for modern browsers.",
   "keywords": [
     "high-performance",

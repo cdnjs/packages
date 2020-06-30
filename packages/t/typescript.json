@@ -21,6 +21,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Microsoft/TypeScript"
-  },
-  "version": "3.9.1-rc"
+  }
 }

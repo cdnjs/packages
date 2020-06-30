@@ -1,7 +1,6 @@
 {
   "name": "jquery-once",
   "description": "Act on jQuery elements only once.",
-  "version": "2.2.3",
   "keywords": [
     "jquery",
     "jquery-plugin"

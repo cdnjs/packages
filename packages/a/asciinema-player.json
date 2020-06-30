@@ -1,7 +1,6 @@
 {
   "name": "asciinema-player",
   "filename": "asciinema-player.min.js",
-  "version": "2.4.1",
   "description": "Web player for terminal session recordings",
   "homepage": "https://asciinema.org",
   "keywords": [

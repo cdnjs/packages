@@ -1,7 +1,6 @@
 {
   "name": "tinycolor",
   "filename": "tinycolor.min.js",
-  "version": "1.4.1",
   "description": "Fast Color Parsing and Manipulation",
   "homepage": "http://bgrins.github.io/TinyColor/",
   "keywords": [

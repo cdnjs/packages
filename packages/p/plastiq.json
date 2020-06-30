@@ -1,7 +1,6 @@
 {
   "name": "plastiq",
   "filename": "plastiq.min.js",
-  "version": "1.14.0",
   "description": "A fast, feature rich and simple framework for building dynamic browser applications.",
   "npmName": "angular-moment",
   "npmFileMap": [

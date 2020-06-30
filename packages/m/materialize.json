@@ -3,7 +3,6 @@
   "filename": "css/materialize.min.css",
   "description": "Builds Materialize distribution packages",
   "author": "Alvin Wang, Alan Chang",
-  "version": "1.0.0",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

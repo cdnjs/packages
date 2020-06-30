@@ -1,7 +1,6 @@
 {
   "name": "simple-gallery-js",
   "filename": "simple-gallery.min.js",
-  "version": "1.0.3",
   "description": "Easy gallery upload. Native. Just 2kb gzipped.",
   "keywords": [
     "gallery",

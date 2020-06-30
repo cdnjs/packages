@@ -1,6 +1,5 @@
 {
   "name": "swipebox",
-  "version": "1.4.4",
   "description": "A touchable jQuery lightbox",
   "repository": {
     "type": "git",

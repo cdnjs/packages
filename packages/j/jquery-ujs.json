@@ -1,6 +1,5 @@
 {
   "name": "jquery-ujs",
-  "version": "1.2.2",
   "filename": "rails.min.js",
   "authors": [
     "Stephen St. Martin",

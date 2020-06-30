@@ -1,7 +1,6 @@
 {
   "name": "email-autocomplete",
   "filename": "jquery.email-autocomplete.min.js",
-  "version": "0.1.3",
   "description": "jQuery plugin that displays in-place autocomplete suggestions for email input fields.",
   "keywords": [
     "jquery-plugin",

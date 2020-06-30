@@ -1,6 +1,5 @@
 {
   "name": "grd",
-  "version": "1.2.3",
   "filename": "grd.css",
   "description": "A CSS grid framework using Flexbox.",
   "keywords": [

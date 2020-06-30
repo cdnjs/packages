@@ -1,6 +1,5 @@
 {
   "name": "material-components-web",
-  "version": "6.0.0",
   "filename": "material-components-web.min.js",
   "description": "Modular and customizable Material Design UI components for the web",
   "homepage": "https://material.io/components/",

@@ -1,6 +1,5 @@
 {
   "name": "angular-stripe",
-  "version": "5.0.0",
   "description": "Angular service provider for interacting with Stripe",
   "filename": "angular-stripe.min.js",
   "repository": {

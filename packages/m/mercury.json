@@ -1,7 +1,6 @@
 {
   "name": "mercury",
   "filename": "mercury.min.js",
-  "version": "14.1.0",
   "description": "A truly modular frontend framework",
   "keywords": [
     "framework",

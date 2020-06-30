@@ -1,7 +1,6 @@
 {
   "name": "jQuery.BgSwitcher",
   "filename": "jquery.bgswitcher.min.js",
-  "version": "0.4.3",
   "description": "Switch the background image with using effect.",
   "repository": {
     "type": "git",

@@ -1,7 +1,6 @@
 {
   "name": "videojs-swf",
   "description": "The Flash-fallback video player for video.js (http://videojs.com)",
-  "version": "5.4.2",
   "filename": "video-js.swf",
   "keywords": [
     "flash",

@@ -1,6 +1,5 @@
 {
   "name": "filter.js",
-  "version": "1.5.2",
   "filename": "filter.min.js",
   "description": "A javascript library for filtering json object and rendering html",
   "license": "MIT",

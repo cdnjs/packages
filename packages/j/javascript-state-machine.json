@@ -1,7 +1,6 @@
 {
   "name": "javascript-state-machine",
   "filename": "state-machine.min.js",
-  "version": "2.0.0",
   "description": "A simple finite state machine library",
   "keywords": [
     "state-machine",

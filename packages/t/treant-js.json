@@ -1,6 +1,5 @@
 {
   "name": "treant-js",
-  "version": "1.0",
   "description": "javascript library for drawing tree diagrams",
   "filename": "Treant.min.js",
   "repository": {

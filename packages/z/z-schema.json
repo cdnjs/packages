@@ -1,6 +1,5 @@
 {
   "name": "z-schema",
-  "version": "4.2.3",
   "description": "JSON schema validator",
   "license": "MIT",
   "keywords": [

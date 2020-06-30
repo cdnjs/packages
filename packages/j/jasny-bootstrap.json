@@ -1,7 +1,6 @@
 {
   "name": "jasny-bootstrap",
   "description": "Additional features and components for Bootstrap",
-  "version": "4.0.0",
   "filename": "css/jasny-bootstrap.min.css",
   "keywords": [
     "twitter bootstrap",

@@ -25,6 +25,5 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:imgix/react-imgix.git"
-  },
-  "version": "9.0.2"
+  }
 }

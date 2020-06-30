@@ -1,6 +1,5 @@
 {
   "name": "woofmark",
-  "version": "4.2.6",
   "filename": "woofmark.min.js",
   "description": "Barking up the DOM tree. A modular, progressive, and beautiful Markdown and HTML editor",
   "repository": {

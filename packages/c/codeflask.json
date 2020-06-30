@@ -23,6 +23,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kazzkiq/CodeFlask.git"
-  },
-  "version": "1.4.1"
+  }
 }

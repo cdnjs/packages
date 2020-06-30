@@ -1,7 +1,6 @@
 {
   "name": "list.pagination.js",
   "filename": "list.pagination.min.js",
-  "version": "0.1.1",
   "description": "A pagination plugin for List.js",
   "homepage": "http://listjs.com/docs/plugins/fuzzysearch",
   "keywords": [

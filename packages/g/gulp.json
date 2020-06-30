@@ -2,7 +2,6 @@
   "name": "gulp",
   "filename": "gulp.min.js",
   "description": "The streaming build system",
-  "version": "3.8.5",
   "homepage": "http://gulpjs.com",
   "repository": {
     "type": "git",

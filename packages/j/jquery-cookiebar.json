@@ -1,7 +1,6 @@
 {
   "name": "jquery-cookiebar",
   "filename": "jquery.cookiebar.min.js",
-  "version": "1.0.5",
   "description": "jQuery CookieBar Plugin",
   "repository": {
     "type": "git",

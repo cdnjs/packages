@@ -1,7 +1,6 @@
 {
   "name": "node-uuid",
   "filename": "uuid.min.js",
-  "version": "1.4.8",
   "author": {
     "email": "robert@broofa.com",
     "name": "Robert Kieffer"

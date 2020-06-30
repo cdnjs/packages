@@ -1,6 +1,5 @@
 {
   "name": "w2ui",
-  "version": "1.4.3",
   "filename": "w2ui.min.css",
   "description": "JavaScript UI library. Includes grid, layout, toolbars, trees, popups.",
   "repository": {

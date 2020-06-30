@@ -1,6 +1,5 @@
 {
   "name": "angulartics-google-analytics",
-  "version": "0.5.0",
   "description": "Google Analytics plugin for Angulartics",
   "filename": "angulartics-ga.min.js",
   "keywords": [

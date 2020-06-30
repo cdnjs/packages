@@ -1,7 +1,6 @@
 {
   "name": "wdt-emoji-bundle",
   "filename": "wdt-emoji-bundle.min.js",
-  "version": "0.2.1",
   "description": "Slack like emoji selector with apple, twitter, google, emojione and custom emoji support.",
   "homepage": "http://ned.im/wdt-emoji-bundle",
   "keywords": [

@@ -2,7 +2,6 @@
   "name": "cropperjs",
   "filename": "cropper.min.js",
   "description": "JavaScript image cropper.",
-  "version": "1.5.7",
   "license": "MIT",
   "repository": {
     "type": "git",

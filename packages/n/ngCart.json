@@ -1,7 +1,6 @@
 {
   "name": "ngCart",
   "filename": "ngCart.min.js",
-  "version": "1.0.0",
   "description": "Really simple shopping cart for AngularJS",
   "license": "MIT",
   "repository": {

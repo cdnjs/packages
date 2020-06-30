@@ -1,6 +1,5 @@
 {
   "name": "neo-async",
-  "version": "2.3.0",
   "description": "Neo-Async is thought to be used as a drop-in replacement for Async, it almost fully covers its functionality and runs faster ",
   "keywords": [
     "async"

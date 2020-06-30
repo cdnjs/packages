@@ -1,7 +1,6 @@
 {
   "name": "ratchet",
   "filename": "js/ratchet.min.js",
-  "version": "2.0.2",
   "description": "Build mobile apps with simple HTML, CSS, and JS components.",
   "keywords": [
     "mobile",

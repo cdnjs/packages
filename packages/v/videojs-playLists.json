@@ -1,7 +1,6 @@
 {
   "name": "videojs-playLists",
   "filename": "videojs-playlists.min.js",
-  "version": "0.2.0",
   "description": "Playlists done right for Videojs",
   "repository": {
     "type": "git",

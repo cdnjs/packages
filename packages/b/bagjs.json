@@ -1,7 +1,6 @@
 {
   "name": "bagjs",
   "filename": "bag.min.js",
-  "version": "3.0.0",
   "description": "JS / CSS / resources loader with cache in IndexedDB/Websql/localStorage + key/value storage",
   "keywords": [
     "loader",

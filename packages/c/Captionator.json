@@ -2,7 +2,6 @@
   "name": "Captionator",
   "filename": "js/captionator-min.js",
   "description": "Simple closed-captioning polyfill for HTML5. Just 8KB when gzipped!",
-  "version": "0.6",
   "homepage": "http://captionatorjs.com/",
   "author": {
     "name": "Christopher Giffard",

@@ -2,7 +2,6 @@
   "name": "legojs",
   "description": "Lego JS",
   "filename": "lego.min.js",
-  "version": "0.0.1",
   "npmName": "legojs",
   "license": "MIT",
   "npmFileMap": [

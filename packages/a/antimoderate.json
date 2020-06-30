@@ -1,6 +1,5 @@
 {
   "name": "antimoderate",
-  "version": "0.0.2",
   "description": "The progressive image loading library for great good!",
   "filename": "antimoderate.min.js",
   "repository": {

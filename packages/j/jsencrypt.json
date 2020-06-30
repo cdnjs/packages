@@ -1,7 +1,6 @@
 {
   "name": "jsencrypt",
   "filename": "jsencrypt.min.js",
-  "version": "2.3.1",
   "description": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
   "author": {
     "name": "Travis Tidwell",

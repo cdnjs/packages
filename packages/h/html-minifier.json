@@ -1,7 +1,6 @@
 {
   "name": "html-minifier",
   "description": "Highly configurable, well-tested, JavaScript-based HTML minifier.",
-  "version": "4.0.0",
   "filename": "htmlminifier.min.js",
   "keywords": [
     "cli",

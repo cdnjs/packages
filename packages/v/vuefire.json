@@ -1,7 +1,6 @@
 {
   "name": "vuefire",
   "filename": "vuefire.min.js",
-  "version": "2.2.2",
   "description": "Firebase bindings for Vue.js",
   "repository": {
     "type": "git",

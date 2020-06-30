@@ -1,6 +1,5 @@
 {
   "name": "tether-select",
-  "version": "1.1.1",
   "filename": "js/select.min.js",
   "description": "Styleable select elements built on Tether",
   "authors": [

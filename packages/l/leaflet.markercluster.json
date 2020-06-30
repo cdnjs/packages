@@ -1,7 +1,6 @@
 {
   "name": "leaflet.markercluster",
   "filename": "leaflet.markercluster.js",
-  "version": "1.4.1",
   "description": "Provides Beautiful Animated Marker Clustering functionality for Leaflet",
   "keywords": [
     "maps",

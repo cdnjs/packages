@@ -1,6 +1,5 @@
 {
   "name": "crel",
-  "version": "4.2.1",
   "filename": "crel.min.js",
   "description": "A small, simple, and fast DOM creation utility",
   "keywords": [

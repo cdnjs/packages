@@ -1,7 +1,6 @@
 {
   "name": "blueprint",
   "filename": "blueprint.min.js",
-  "version": "2.1.5",
   "description": "A sleek and simple interface for building powerful Javascript classes",
   "keywords": [
     "blueprint",

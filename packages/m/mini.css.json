@@ -1,6 +1,5 @@
 {
   "name": "mini.css",
-  "version": "3.0.1",
   "filename": "mini-default.min.css",
   "description": "A minimal, responsive, style-agnostic CSS toolkit.",
   "repository": {

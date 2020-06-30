@@ -1,7 +1,6 @@
 {
   "name": "jquery-weui",
   "filename": "js/jquery-weui.min.js",
-  "version": "1.2.1",
   "description": "UI lib for build hybrid wechat web app",
   "keywords": [
     "jQuery WeUI",

@@ -10,7 +10,6 @@
     }
   ],
   "filename": "jsfile.min.js",
-  "version": "0.1.17",
   "description": "JavaScript library for working with files in browser",
   "repository": {
     "type": "git",

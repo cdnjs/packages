@@ -1,6 +1,5 @@
 {
   "name": "matchmedia-ng",
-  "version": "1.0.8",
   "description": "matchmedia wrapper for AngularJS",
   "filename": "matchmedia-ng.min.js",
   "repository": {

@@ -1,7 +1,6 @@
 {
   "name": "quasar-framework",
   "filename": "quasar.mat.umd.min.js",
-  "version": "0.17.20",
   "description": "Simultaneously build desktop/mobile SPA websites & phone/tablet apps with VueJS",
   "repository": {
     "type": "git",

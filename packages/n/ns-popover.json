@@ -3,7 +3,6 @@
   "filename": "nsPopover.min.js",
   "author": "Neylor Ohmaly",
   "description": "A popover directive for angularJs",
-  "version": "0.6.8",
   "homepage": "http://nohros.com/nsPopover",
   "keywords": [
     "popover",

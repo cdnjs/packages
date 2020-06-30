@@ -21,6 +21,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/reduxjs/redux-devtools.git"
-  },
-  "version": "0.11.2"
+  }
 }

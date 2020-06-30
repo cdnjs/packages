@@ -1,7 +1,6 @@
 {
   "name": "leaflet.toolbar.js",
   "filename": "leaflet.toolbar.js",
-  "version": "0.3.0",
   "description": "Flexible, extensible toolbars for Leaflet maps.",
   "repository": {
     "type": "git",

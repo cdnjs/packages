@@ -27,6 +27,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sitetent/tentcss.git"
-  },
-  "version": "1.4.3"
+  }
 }

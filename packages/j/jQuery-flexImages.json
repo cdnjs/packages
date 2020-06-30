@@ -2,7 +2,6 @@
   "name": "jQuery-flexImages",
   "filename": "jquery.flex-images.min.js",
   "description": "A lightweight jQuery plugin for creating fluid galleries as seen on Flickr and Google Images.",
-  "version": "1.0.4",
   "homepage": "https://goodies.pixabay.com/jquery/flex-images/demo.html",
   "repository": {
     "type": "git",

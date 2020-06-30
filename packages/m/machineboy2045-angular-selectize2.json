@@ -1,7 +1,6 @@
 {
   "name": "machineboy2045-angular-selectize2",
   "filename": "angular-selectize.min.js",
-  "version": "3.0.1",
   "description": "This is an Angular.js directive for Brian Reavis's selectize jQuery plugin. It supports all of Selectize's features",
   "author": {
     "name": "machineboy2045",

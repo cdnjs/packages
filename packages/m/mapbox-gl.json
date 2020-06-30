@@ -22,6 +22,5 @@
         "**/!(*.flow|test.js|index.js*)"
       ]
     }
-  ],
-  "version": "1.10.0"
+  ]
 }

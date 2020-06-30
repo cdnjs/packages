@@ -1,6 +1,5 @@
 {
   "name": "angular-drag-and-drop-lists",
-  "version": "2.1.0",
   "filename": "angular-drag-and-drop-lists.min.js",
   "description": "Angular directives for sorting nested lists using the HTML5 Drag and Drop API",
   "keywords": [

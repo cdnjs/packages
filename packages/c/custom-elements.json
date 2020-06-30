@@ -1,7 +1,6 @@
 {
   "name": "custom-elements",
   "filename": "custom-elements.min.js",
-  "version": "1.4.1",
   "description": "HTML Custom Elements Polyfill",
   "keywords": [
     "webcomponents"

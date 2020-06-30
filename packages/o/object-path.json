@@ -34,6 +34,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/mariocasciaro/object-path.git"
-  },
-  "version": "0.11.4"
+  }
 }

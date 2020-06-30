@@ -1,7 +1,6 @@
 {
   "name": "angular-video-bg",
   "filename": "angular-video-bg.min.js",
-  "version": "0.3.4",
   "description": "An Angular.js YouTube video background player directive that stresses simplicity and performance.",
   "keywords": [
     "background",

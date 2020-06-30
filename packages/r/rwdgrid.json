@@ -1,7 +1,6 @@
 {
   "name": "rwdgrid",
   "filename": "css/rwdgrid.min.css",
-  "version": "2",
   "description": "rwdgrid is just another Grid system based on popular 960grid, which is responsive and ranges from mobile, tablet, laptops and wide screen displays.",
   "repository": {
     "type": "git",

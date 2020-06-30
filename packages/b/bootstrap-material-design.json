@@ -2,7 +2,6 @@
   "name": "bootstrap-material-design",
   "title": "bootstrap-material",
   "filename": "bootstrap-material-design.umd.min.js",
-  "version": "4.0.2",
   "description": "Material Design for Bootstrap 3",
   "repository": {
     "type": "git",

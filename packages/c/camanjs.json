@@ -1,7 +1,6 @@
 {
   "name": "camanjs",
   "filename": "caman.full.min.js",
-  "version": "4.1.2",
   "description": "Javascript (Ca)nvas (Man)ipulation for NodeJS and the browser",
   "homepage": "http://camanjs.com/",
   "keywords": [

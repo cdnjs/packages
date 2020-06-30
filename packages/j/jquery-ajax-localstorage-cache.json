@@ -2,7 +2,6 @@
   "name": "jquery-ajax-localstorage-cache",
   "filename": "jalc.min.js",
   "description": "Store ajax responses using the browser's local storage, or any Storage-interface compatible object.",
-  "version": "2.0.1",
   "keywords": [
     "ajax",
     "localstorage",

@@ -1,6 +1,5 @@
 {
   "name": "gpu.js",
-  "version": "1.10.4",
   "filename": "gpu.min.js",
   "description": "GPU Accelerated JavaScript",
   "repository": {

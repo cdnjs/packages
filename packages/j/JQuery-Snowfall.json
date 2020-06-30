@@ -1,6 +1,5 @@
 {
   "name": "JQuery-Snowfall",
-  "version": "1.7.4",
   "description": "Make it snow on you page or elements",
   "filename": "snowfall.jquery.min.js",
   "repository": {

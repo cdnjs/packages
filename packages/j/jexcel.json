@@ -1,7 +1,6 @@
 {
   "name": "jexcel",
   "filename": "jexcel.min.js",
-  "version": "4.2.0",
   "description": "jQuery plugin for embed a excel-like spreadsheet in your apps or website.",
   "homepage": "http://bossanova.uk/jexcel",
   "repository": {

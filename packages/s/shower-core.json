@@ -1,7 +1,6 @@
 {
   "name": "shower-core",
   "filename": "shower.min.js",
-  "version": "2.1.0",
   "description": "Core for Shower HTML presentation engine",
   "author": {
     "name": "Vadim Makeev",

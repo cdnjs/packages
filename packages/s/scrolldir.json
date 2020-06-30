@@ -1,7 +1,6 @@
 {
   "name": "scrolldir",
   "filename": "scrolldir.min.js",
-  "version": "1.5.1",
   "description": "Vertical scroll direction in CSS",
   "repository": {
     "type": "git",

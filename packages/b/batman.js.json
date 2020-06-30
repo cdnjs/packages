@@ -1,7 +1,6 @@
 {
   "name": "batman.js",
   "filename": "batman.min.js",
-  "version": "0.16.0",
   "description": "The best client side framework for Rails developers.",
   "homepage": "http://batmanjs.org",
   "keywords": [

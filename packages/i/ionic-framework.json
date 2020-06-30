@@ -1,6 +1,5 @@
 {
   "name": "ionic-framework",
-  "version": "2.0.0-beta.2",
   "description": "An advanced HTML5 mobile app framework built on Angular2",
   "filename": "ionic.min.js",
   "license": "MIT",

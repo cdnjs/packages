@@ -1,7 +1,6 @@
 {
   "name": "mojio-js",
   "filename": "mojio-js.min.js",
-  "version": "3.5.2",
   "description": "Mojio javascript REST client.",
   "keywords": [
     "Mojio",

@@ -31,6 +31,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/palantir/blueprint"
-  },
-  "version": "3.26.0"
+  }
 }

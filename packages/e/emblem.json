@@ -1,7 +1,6 @@
 {
   "name": "emblem",
   "filename": "emblem.min.js",
-  "version": "0.4.0",
   "description": "Templating language targeting Handlebars with default Ember.js conventions",
   "homepage": "http://emblemjs.com/",
   "keywords": [

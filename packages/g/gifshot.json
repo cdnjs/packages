@@ -1,7 +1,6 @@
 {
   "name": "gifshot",
   "filename": "gifshot.min.js",
-  "version": "0.3.2",
   "description": "JavaScript library that can create animated gifs from video streams (e.g. webcam), existing videos (e.g. mp4), or existing images",
   "homepage": "https://yahoo.github.io/gifshot/",
   "author": {

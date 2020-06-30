@@ -1,6 +1,5 @@
 {
   "name": "ie-love",
-  "version": "0.0.3",
   "description": "Combo polyfill for IE8 and below.",
   "filename": "ie-love.min.js",
   "repository": {

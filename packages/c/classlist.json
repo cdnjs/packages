@@ -1,6 +1,5 @@
 {
   "name": "classlist",
-  "version": "1.2.201711092",
   "filename": "classList.min.js",
   "description": "Cross-browser full element.classList implementation.",
   "author": {

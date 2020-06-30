@@ -1,7 +1,6 @@
 {
   "name": "font-linux",
   "filename": "font-linux.min.css",
-  "version": "0.9",
   "description": "Font-linux is an icon font containing logos of popular linux distributions for inclusion in websites.",
   "repository": {
     "type": "git",

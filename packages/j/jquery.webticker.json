@@ -1,7 +1,6 @@
 {
   "name": "jquery.webticker",
   "filename": "jquery.webticker.min.js",
-  "version": "3.0.0",
   "description": "JQuery Web Ticker",
   "keywords": [
     "animation",

@@ -1,6 +1,5 @@
 {
   "name": "faviconx",
-  "version": "1.0.1",
   "filename": "faviconx-min.js",
   "description": "A tiny javascript library that makes progress bars out of the favicon placeholders.",
   "repository": {

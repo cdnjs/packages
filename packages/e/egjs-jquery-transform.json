@@ -1,7 +1,6 @@
 {
   "name": "egjs-jquery-transform",
   "filename": "transform.min.js",
-  "version": "2.0.0",
   "description": "A method extended from the jQuery animate() method. It supports CSS transform property and 3D acceleration.",
   "author": "NAVER Corp.",
   "license": "MIT",

@@ -1,6 +1,5 @@
 {
   "name": "rellax",
-  "version": "1.12.1",
   "filename": "rellax.min.js",
   "description": "Lightweight, vanilla javascript parallax library",
   "repository": {

@@ -28,6 +28,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/alibaba-fusion/next.git"
-  },
-  "version": "1.20.2"
+  }
 }

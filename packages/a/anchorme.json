@@ -29,6 +29,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alexcorvi/anchorme.js.git"
-  },
-  "version": "2.0.0"
+  }
 }

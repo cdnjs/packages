@@ -1,7 +1,6 @@
 {
   "name": "mathquill",
   "filename": "mathquill.min.js",
-  "version": "0.10.1",
   "description": "Easily type math in your webapp",
   "keywords": [
     "math",

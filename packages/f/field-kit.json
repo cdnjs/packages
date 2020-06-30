@@ -1,7 +1,6 @@
 {
   "name": "field-kit",
   "filename": "field-kit.min.js",
-  "version": "2.1.0",
   "description": "Utilities to effectively manage text entry on the web.",
   "homepage": "https://square.github.io/field-kit/",
   "keywords": [

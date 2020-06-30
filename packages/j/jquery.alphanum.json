@@ -1,7 +1,6 @@
 {
   "name": "jquery.alphanum",
   "filename": "jquery.alphanum.min.js",
-  "version": "1.0.24",
   "description": "Restrict what characters that may be entered into text fields. Supports alphanumeric, alphabetic or numeric. Easy to use. Fully customisable. Cross Browser compatible.",
   "keywords": [
     "alphanumeric",

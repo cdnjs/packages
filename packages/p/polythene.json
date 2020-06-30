@@ -1,7 +1,6 @@
 {
   "name": "polythene",
   "filename": "polythene-standalone.js",
-  "version": "0.3.0",
   "description": "Modular implementation of Material Design for Mithril.",
   "license": "MIT",
   "keywords": [

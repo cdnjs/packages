@@ -1,7 +1,6 @@
 {
   "name": "jQuery-webcam",
   "filename": "jquery.webcam.min.js",
-  "version": "1.0.0",
   "homepage": "http://www.xarg.org/project/jquery-webcam-plugin/",
   "description": "A webcam wrapper plugin for jQuery.",
   "keywords": [

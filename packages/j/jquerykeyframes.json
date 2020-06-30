@@ -1,6 +1,5 @@
 {
   "name": "jquerykeyframes",
-  "version": "0.0.9",
   "description": "jQuery-Keyframes allows dynamic generation of CSS3 keyframes with callback events and other niceness.",
   "filename": "jquery.keyframes.min.js",
   "repository": {

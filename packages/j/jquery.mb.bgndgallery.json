@@ -1,7 +1,6 @@
 {
   "name": "jquery.mb.bgndgallery",
   "filename": "jquery.mb.bgndGallery.min.js",
-  "version": "1.9.5",
   "description": "This plugin let you create a flexible photo gallery that you can use also as background of your site.",
   "keywords": [
     "jquery-plugin",

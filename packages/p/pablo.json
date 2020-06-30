@@ -1,6 +1,5 @@
 {
   "name": "pablo",
-  "version": "0.4.0",
   "filename": "pablo.min.js",
   "description": "A tool for creating interactive SVG drawings and animations for the web.",
   "homepage": "http://pablojs.com",

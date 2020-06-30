@@ -9,7 +9,6 @@
     "dependencies"
   ],
   "description": "A lightweight plugin / dependency system for javascript libraries.",
-  "version": "0.0.3",
   "author": "Brian Reavis <brian@thirdroute.com>",
   "repository": {
     "type": "git",

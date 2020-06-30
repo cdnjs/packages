@@ -1,7 +1,6 @@
 {
   "name": "multi.js",
   "filename": "multi.min.js",
-  "version": "0.5.1",
   "description": "A user-friendly replacement for select boxes with multiple attribute enabled",
   "keywords": [
     "user-friendly",

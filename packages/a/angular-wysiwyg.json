@@ -1,6 +1,5 @@
 {
   "name": "angular-wysiwyg",
-  "version": "1.2.4",
   "description": "AngularJS WYSIWYG editor",
   "filename": "angular-wysiwyg.min.js",
   "repository": {

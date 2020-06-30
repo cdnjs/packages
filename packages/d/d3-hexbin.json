@@ -1,7 +1,6 @@
 {
   "name": "d3-hexbin",
   "filename": "d3-hexbin.min.js",
-  "version": "0.2.2",
   "description": "Group two-dimensional points into hexagonal bins.",
   "keywords": [
     "d3",

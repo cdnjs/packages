@@ -1,6 +1,5 @@
 {
   "name": "pts",
-  "version": "0.9.4",
   "filename": "pts.min.js",
   "description": "A library for visualization and creative-coding",
   "repository": {

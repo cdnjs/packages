@@ -1,7 +1,6 @@
 {
   "name": "schedulejs",
   "filename": "schedule.min.js",
-  "version": "0.6.3",
   "description": "Schedule tasks, meetings, appointments, etc",
   "keywords": [
     "schedule",

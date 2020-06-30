@@ -2,7 +2,6 @@
   "name": "dragscroll",
   "filename": "dragscroll.min.js",
   "description": "Tiny library for drag-n-drop scrolling style",
-  "version": "0.0.8",
   "keywords": [
     "dragscroll",
     "scroll",

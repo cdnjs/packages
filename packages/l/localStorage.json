@@ -1,7 +1,6 @@
 {
   "name": "localStorage",
   "filename": "localStorage.min.js",
-  "version": "2.0.1",
   "author": {
     "name": "Morten Houmøller Nygaard",
     "email": "mortzdk@gmail.com",

@@ -1,7 +1,6 @@
 {
   "name": "wingcss",
   "filename": "wing.min.css",
-  "version": "0.1.9",
   "description": "A lightweight, responsive CSS Framework",
   "repository": {
     "type": "git",

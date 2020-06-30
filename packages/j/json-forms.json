@@ -1,7 +1,6 @@
 {
   "name": "json-forms",
   "filename": "js/brutusin-json-forms.min.js",
-  "version": "1.6.3",
   "description": "Brutusin json-forms is a JSON Schema to HTML form generator, supporting dynamic subschemas (on the fly resolution). Extensible and customizable library with zero dependencies. Bootstrap add-ons provided",
   "repository": {
     "type": "git",

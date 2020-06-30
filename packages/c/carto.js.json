@@ -25,6 +25,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/CartoDB/carto.js.git"
-  },
-  "version": "4.2.0"
+  }
 }

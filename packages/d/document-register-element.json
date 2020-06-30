@@ -1,6 +1,5 @@
 {
   "name": "document-register-element",
-  "version": "1.14.3",
   "description": "A stand-alone working lightweight version of the W3C Custom Elements specification",
   "keywords": [
     "Web",

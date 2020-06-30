@@ -1,7 +1,6 @@
 {
   "name": "zurb-ink",
   "filename": "ink.min.css",
-  "version": "1.0.5",
   "description": "Ink is a responsive email framework for making emails that look great on any device.",
   "homepage": "http://zurb.com/ink",
   "keywords": [

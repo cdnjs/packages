@@ -1,7 +1,6 @@
 {
   "name": "ikki",
   "filename": "ikki.min.js",
-  "version": "0.2.0",
   "homepage": "https://cognitom.github.io/ikki/",
   "description": "The extention toolkit for Riot.js",
   "repository": {

@@ -1,6 +1,5 @@
 {
   "name": "koto",
-  "version": "0.4.2",
   "description": "A d3 chart framework written in ES6",
   "repository": {
     "type": "git",

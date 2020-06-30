@@ -21,6 +21,5 @@
         "+(js|css)/**/bootstrap-year-calendar*"
       ]
     }
-  ],
-  "version": "1.1.1"
+  ]
 }

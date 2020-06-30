@@ -1,7 +1,6 @@
 {
   "name": "vocalizer",
   "filename": "vocalizer.min.js",
-  "version": "1.0.0",
   "description": "Vocalizer is a plugin that help people learn to say your name",
   "homepage": "https://www.vocalizer.io",
   "keywords": [

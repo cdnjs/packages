@@ -2,7 +2,6 @@
   "name": "postal.js",
   "filename": "postal.min.js",
   "description": "Pub/Sub library providing wildcard subscriptions, complex message handling, etc.  Works server and client-side.",
-  "version": "2.0.5",
   "repository": {
     "type": "git",
     "url": "git://github.com/postaljs/postal.js.git"

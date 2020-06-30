@@ -1,7 +1,6 @@
 {
   "name": "backbone.radio",
   "description": "Messaging patterns for Backbone applications.",
-  "version": "2.0.0",
   "filename": "backbone.radio.min.js",
   "keywords": [
     "backbone",

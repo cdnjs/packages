@@ -1,7 +1,6 @@
 {
   "name": "libil",
   "filename": "libil.min.js",
-  "version": "0.1.2",
   "description": "Libil is a JavaScript library to process string for Bahasa Walikan. It supports Yogyakarta and Malang Style",
   "homepage": "https://github.com/lynxluna/libil.js",
   "keywords": [

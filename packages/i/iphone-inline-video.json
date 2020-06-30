@@ -34,6 +34,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/bfred-it/iphone-inline-video.git"
-  },
-  "version": "2.2.2"
+  }
 }

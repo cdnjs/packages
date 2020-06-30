@@ -30,6 +30,5 @@
     "type": "git",
     "url": "https://github.com/klaytn/caver-js.git"
   },
-  "title": "JavaScript API Library for Klaytn",
-  "version": "1.4.1"
+  "title": "JavaScript API Library for Klaytn"
 }

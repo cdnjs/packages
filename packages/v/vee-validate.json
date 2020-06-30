@@ -1,7 +1,6 @@
 {
   "name": "vee-validate",
   "filename": "vee-validate.min.js",
-  "version": "3.2.5",
   "description": "Simple VueJS input validation plugin",
   "homepage": "http://vee-validate.logaretm.com",
   "repository": {

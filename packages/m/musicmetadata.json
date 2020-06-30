@@ -1,7 +1,6 @@
 {
   "name": "musicmetadata",
   "filename": "musicmetadata.min.js",
-  "version": "2.0.2",
   "description": "Streaming music metadata parser for node and the browser.",
   "keywords": [
     "id3",

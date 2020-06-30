@@ -1,6 +1,5 @@
 {
   "name": "angular-chart.js",
-  "version": "1.1.1",
   "filename": "angular-chart.min.js",
   "description": "An angular.js wrapper for Chart.js",
   "author": "Jerome Touffe-Blin <jtblin@gmail.com>",

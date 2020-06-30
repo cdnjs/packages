@@ -10,7 +10,6 @@
     "url": "https://github.com/phoboslab/jsmpeg.git"
   },
   "license": "MIT",
-  "version": "0.2",
   "keywords": [
     "MPEG1",
     "decode",

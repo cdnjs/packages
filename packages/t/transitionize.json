@@ -16,7 +16,6 @@
     "transition",
     "dynamic"
   ],
-  "version": "0.0.3",
   "npmName": "transitionize",
   "npmFileMap": [
     {

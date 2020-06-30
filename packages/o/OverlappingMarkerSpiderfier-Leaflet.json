@@ -1,6 +1,5 @@
 {
   "name": "OverlappingMarkerSpiderfier-Leaflet",
-  "version": "0.2.6",
   "description": "Deals with overlapping markers in the Leaflet maps API, Google Earth-style.",
   "filename": "oms.min.js",
   "repository": {

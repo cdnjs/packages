@@ -1,6 +1,5 @@
 {
   "name": "fuckadblock",
-  "version": "3.2.1",
   "filename": "fuckadblock.min.js",
   "description": "Detects ad blockers (AdBlock, ...)",
   "author": {

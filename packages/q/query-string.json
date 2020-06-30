@@ -31,6 +31,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/SaneMethod/sindresorhus/query-string.git"
-  },
-  "version": "6.12.1"
+  }
 }

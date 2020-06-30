@@ -1,6 +1,5 @@
 {
   "name": "element-ui",
-  "version": "2.13.2",
   "description": "A Component Library for Vue.js.",
   "filename": "index.js",
   "repository": {

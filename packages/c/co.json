@@ -1,7 +1,6 @@
 {
   "name": "co",
   "filename": "index.min.js",
-  "version": "4.1.0",
   "description": "generator async control flow goodness",
   "keywords": [
     "async",

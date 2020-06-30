@@ -1,7 +1,6 @@
 {
   "name": "fetch",
   "filename": "fetch.min.js",
-  "version": "3.0.0",
   "description": "A window.fetch JavaScript polyfill.",
   "keywords": [
     "polyfill",

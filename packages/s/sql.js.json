@@ -30,6 +30,5 @@
   "repository": {
     "type": "git",
     "url": "http://github.com/kripken/sql.js.git"
-  },
-  "version": "1.2.2"
+  }
 }

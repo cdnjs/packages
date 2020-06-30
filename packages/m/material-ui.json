@@ -24,6 +24,5 @@
     "directory": "packages/material-ui",
     "type": "git",
     "url": "git+https://github.com/mui-org/material-ui.git"
-  },
-  "version": "4.9.12"
+  }
 }

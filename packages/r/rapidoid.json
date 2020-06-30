@@ -1,7 +1,6 @@
 {
   "name": "rapidoid",
   "filename": "rapidoid.min.js",
-  "version": "5.4.1",
   "description": "A pack of several JQuery and Angular plugins, Rapidoid extras and other JavaScript libraries that work well together, included by default in the Rapidoid web application framework.",
   "repository": {
     "type": "git",

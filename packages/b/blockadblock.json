@@ -1,6 +1,5 @@
 {
   "name": "blockadblock",
-  "version": "3.2.1",
   "filename": "blockadblock.min.js",
   "description": "Detects ad blockers (AdBlock, ...)",
   "author": {

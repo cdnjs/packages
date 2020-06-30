@@ -1,7 +1,6 @@
 {
   "name": "jquery-teletype-plugin",
   "filename": "jquery.teletype.min.js",
-  "version": "0.1.6",
   "description": "Teletype is a jQuery plugin that types out text, and then optionally deletes it, replicating human interaction.",
   "keywords": [
     "jquery",

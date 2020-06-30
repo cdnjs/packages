@@ -1,7 +1,6 @@
 {
   "name": "Iframe-Height-Jquery-Plugin",
   "filename": "iframeheight.min.js",
-  "version": "1.2.5",
   "author": "Ilker Guller <me@ilkerguller.com> (http://ilkerguller.com)",
   "description": "This plugin can get contents of iframe and set height of iframe automatically. Also it has cross-domain fix",
   "keywords": [

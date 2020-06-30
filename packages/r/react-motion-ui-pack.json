@@ -1,7 +1,6 @@
 {
   "name": "react-motion-ui-pack",
   "filename": "react-motion-ui-pack.min.js",
-  "version": "0.10.3",
   "description": "Addon component wrappers for common UI transitions.",
   "repository": {
     "type": "git",

@@ -1,7 +1,6 @@
 {
   "name": "lamejs",
   "filename": "lame.min.js",
-  "version": "1.2.0",
   "description": "Pure JavaScript MP3 Encoder",
   "repository": {
     "type": "git",

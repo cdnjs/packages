@@ -1,7 +1,6 @@
 {
   "name": "es6-tween",
   "description": "ES6 implementation of amazing tween.js",
-  "version": "5.5.11",
   "filename": "Tween.min.js",
   "keywords": [
     "tween",

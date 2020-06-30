@@ -2,7 +2,6 @@
   "name": "submitter",
   "filename": "submitter.min.js",
   "description": "A simple jQuery form submitting plugin.",
-  "version": "0.3.1",
   "keywords": [
     "form",
     "submit",

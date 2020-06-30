@@ -1,7 +1,6 @@
 {
   "name": "split.js",
   "filename": "split.min.js",
-  "version": "1.5.11",
   "description": "2kb unopinionated utility for resizeable split views",
   "repository": {
     "type": "git",

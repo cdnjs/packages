@@ -9,7 +9,6 @@
     "function",
     "date"
   ],
-  "version": "2.1.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/pvorb/clone"

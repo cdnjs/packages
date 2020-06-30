@@ -1,7 +1,6 @@
 {
   "name": "nprogress",
   "filename": "nprogress.min.js",
-  "version": "0.2.0",
   "description": "Simple slim progress bars",
   "homepage": "http://ricostacruz.com/nprogress/",
   "keywords": [

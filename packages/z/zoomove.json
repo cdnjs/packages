@@ -1,6 +1,5 @@
 {
   "name": "zoomove",
-  "version": "1.3.0",
   "description": "Enlarges the image with the mouse hover and move",
   "title": "ZooMove",
   "filename": "zoomove.min.js",

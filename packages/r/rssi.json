@@ -1,7 +1,6 @@
 {
   "name": "rssi",
   "filename": "rssi.min.js",
-  "version": "0.0.7",
   "description": "Ruby-like simple string interpolation",
   "keywords": [
     "interpolation",

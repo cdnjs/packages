@@ -1,7 +1,6 @@
 {
   "name": "pnp-graph",
   "filename": "graph.es5.umd.min.js",
-  "version": "1.3.11",
   "description": "pnp - provides functionality to query the Microsoft Graph",
   "keywords": [
     "patterns and practices",

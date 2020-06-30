@@ -37,6 +37,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nfl/react-helmet.git"
-  },
-  "version": "6.0.0"
+  }
 }

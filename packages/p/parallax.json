@@ -2,7 +2,6 @@
   "name": "parallax",
   "filename": "parallax.min.js",
   "description": "Parallax Engine that reacts to the orientation of a smart device.",
-  "version": "3.1.0",
   "license": "MIT",
   "homepage": "http://matthew.wagerfield.com/parallax/",
   "author": "Matthew Wagerfield <matthew@wagerfield.com>",

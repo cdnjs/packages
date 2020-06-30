@@ -1,7 +1,6 @@
 {
   "name": "paypaljsbuttons",
   "filename": "paypal-button.min.js",
-  "version": "2.0.1",
   "description": "JavaScript integration for PayPal's buttons",
   "homepage": "http://paypal.github.io/JavaScriptButtons",
   "keywords": [

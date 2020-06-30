@@ -1,7 +1,6 @@
 {
   "name": "currencyformatter.js",
   "filename": "currencyFormatter.min.js",
-  "version": "2.2.0",
   "description": "A super simple currency formatting library",
   "repository": {
     "type": "git",

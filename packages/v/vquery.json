@@ -1,6 +1,5 @@
 {
   "name": "vquery",
-  "version": "5.0.1",
   "filename": "v.min.js",
   "description": "A simple, light-weight, vanilla JS wrapper for jQuery-like syntax.",
   "repository": {

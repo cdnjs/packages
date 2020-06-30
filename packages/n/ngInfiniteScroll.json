@@ -1,7 +1,6 @@
 {
   "name": "ngInfiniteScroll",
   "filename": "ng-infinite-scroll.min.js",
-  "version": "1.3.0",
   "homepage": "http://sroze.github.io/ngInfiniteScroll/",
   "description": "Infinite scrolling for AngularJS",
   "keywords": [

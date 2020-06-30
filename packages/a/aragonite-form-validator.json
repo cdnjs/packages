@@ -24,7 +24,6 @@
     "type": "git",
     "url": "git+https://github.com/leojavier/aragonite-validator.git"
   },
-  "version": "1.1.2",
   "npmName": "aragonite-form-validator",
   "npmFileMap": [
     {

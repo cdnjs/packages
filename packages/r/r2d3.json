@@ -1,7 +1,6 @@
 {
   "name": "r2d3",
   "filename": "r2d3.min.js",
-  "version": "0.2.0",
   "description": "Raphael Rendered, Data Driven Documents",
   "author": "Mike Hemesath",
   "repository": {

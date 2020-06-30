@@ -2,7 +2,6 @@
   "name": "teadao",
   "filename": "teadao.min.js",
   "description": "Rapid Application Development Framework Built With React.js",
-  "version": "0.6.1",
   "license": "MIT",
   "repository": {
     "type": "git",

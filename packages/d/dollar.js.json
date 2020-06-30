@@ -1,6 +1,5 @@
 {
   "name": "dollar.js",
-  "version": "1.5.1",
   "filename": "dollar.min.js",
   "description": "A jQuery-compatible and non-All-in-One library which is more \"Zepto\" than Zepto.js",
   "homepage": "http://ozjs.org/DollarJS/",

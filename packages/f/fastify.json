@@ -29,6 +29,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fastify/fastify.git"
-  },
-  "version": "3.0.0-alpha.1"
+  }
 }

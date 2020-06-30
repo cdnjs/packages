@@ -13,7 +13,6 @@
     "type": "git",
     "url": "git://github.com/antennaio/jquery-bar-rating.git"
   },
-  "version": "1.2.2",
   "license": "MIT",
   "npmName": "jquery-bar-rating",
   "npmFileMap": [

@@ -1,6 +1,5 @@
 {
   "name": "javascript-debug",
-  "version": "0.4",
   "description": "A simple wrapper for console.log",
   "filename": "ba-debug.min.js",
   "repository": {

@@ -1,6 +1,5 @@
 {
   "name": "jquery-sidebar",
-  "version": "3.3.2",
   "description": "A stupid simple sidebar jQuery plugin.",
   "repository": {
     "type": "git",

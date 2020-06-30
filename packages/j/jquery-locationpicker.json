@@ -1,7 +1,6 @@
 {
   "name": "jquery-locationpicker",
   "filename": "locationpicker.jquery.min.js",
-  "version": "0.1.12",
   "keywords": [
     "jquery-plugin",
     "googlemap",

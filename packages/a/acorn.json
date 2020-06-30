@@ -22,6 +22,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ternjs/acorn.git"
-  },
-  "version": "6.4.1"
+  }
 }

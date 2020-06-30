@@ -1,7 +1,6 @@
 {
   "name": "angular-ui-validate",
   "filename": "validate.min.js",
-  "version": "1.2.3",
   "description": "General-purpose validator for ngModel.",
   "author": "https://github.com/angular-ui/ui-validate/graphs/contributors",
   "license": "MIT",

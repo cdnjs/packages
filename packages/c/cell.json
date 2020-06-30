@@ -1,7 +1,6 @@
 {
   "name": "cell",
   "filename": "cell.min.js",
-  "version": "1.2.0",
   "description": "A self-constructing web app framework powered by a self-driving DOM",
   "homepage": "https://www.celljs.org",
   "license": "MIT",

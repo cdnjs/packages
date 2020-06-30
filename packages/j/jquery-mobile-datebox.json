@@ -2,7 +2,6 @@
   "name": "jquery-mobile-datebox",
   "filename": "jqm-datebox.core.min.js",
   "description": "Plugin to provide a framework agnostic Date and Time Picker (jQuery Mobile & Bootstrap currently supported)",
-  "version": "1.1.1",
   "homepage": "http://dev.jtsage.com/forums/",
   "repository": {
     "type": "git",

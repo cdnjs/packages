@@ -1,6 +1,5 @@
 {
   "name": "jquery-modal",
-  "version": "0.9.2",
   "filename": "jquery.modal.min.js",
   "description": "The simplest possible modal for jQuery",
   "homepage": "http://jquerymodal.com/",

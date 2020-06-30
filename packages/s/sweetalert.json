@@ -1,7 +1,6 @@
 {
   "name": "sweetalert",
   "filename": "sweetalert.min.js",
-  "version": "2.1.2",
   "description": "A beautiful replacement for JavaScript's \"alert\"",
   "homepage": "https://sweetalert.js.org/",
   "keywords": [

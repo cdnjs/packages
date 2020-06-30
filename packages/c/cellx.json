@@ -1,7 +1,6 @@
 {
   "name": "cellx",
   "filename": "cellx.min.js",
-  "version": "1.10.2",
   "description": "Ultra-fast implementation of reactivity for javascript",
   "keywords": [
     "cellx",

@@ -1,7 +1,6 @@
 {
   "name": "aws-sdk",
   "filename": "aws-sdk.min.js",
-  "version": "2.661.0",
   "description": "AWS SDK for JavaScript",
   "keywords": [
     "api",

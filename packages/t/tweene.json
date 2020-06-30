@@ -1,7 +1,6 @@
 {
   "name": "tweene",
   "title": "Tweene",
-  "version": "0.5.11",
   "filename": "tweene-all.min.js",
   "description": "JavaScript Animation Proxy. It can work with GSAP, Velocity.js, Transit or jQuery.",
   "keywords": [

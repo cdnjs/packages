@@ -1,7 +1,6 @@
 {
   "name": "animations",
   "filename": "js/animations.min.js",
-  "version": "2.1",
   "description": "A versatile CSS3 animation pack with various usages, trigger CSS3 animations as elements enter the viewport, as you hover with a mouse or by binding them via JavaScript functions.",
   "keywords": [
     "css3",

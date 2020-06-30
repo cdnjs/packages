@@ -1,7 +1,6 @@
 {
   "name": "canvid",
   "filename": "canvid.min.js",
-  "version": "1.6.0",
   "description": "canvid is a tiny library for playback of relatively short videos on canvas elements.",
   "repository": {
     "type": "git",

@@ -1,7 +1,6 @@
 {
   "name": "visibly.js",
   "filename": "visibly.min.js",
-  "version": "0.1.1",
   "description": "A cross-browser Page Visibility API shim",
   "repository": {
     "type": "git",

@@ -1,7 +1,6 @@
 {
   "name": "js-beautify",
   "filename": "beautify.min.js",
-  "version": "1.11.0",
   "description": "jsbeautifier.org for node",
   "homepage": "http://jsbeautifier.org/",
   "repository": {

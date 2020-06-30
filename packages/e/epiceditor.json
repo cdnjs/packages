@@ -1,7 +1,6 @@
 {
   "name": "epiceditor",
   "filename": "js/epiceditor.min.js",
-  "version": "0.2.2",
   "description": "An Embeddable Markdown Editor",
   "homepage": "http://epiceditor.com",
   "keywords": [

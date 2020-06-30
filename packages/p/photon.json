@@ -1,7 +1,6 @@
 {
   "name": "photon",
   "filename": "css/photon.min.css",
-  "version": "0.1.2-alpha",
   "description": "UI toolkit for building desktop apps with Electron.",
   "author": "Connor Sears",
   "keywords": [

@@ -1,7 +1,6 @@
 {
   "name": "qwery",
   "description": "blazing fast CSS3 query selector engine",
-  "version": "4.0.0",
   "author": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)",
   "filename": "qwery.min.js",
   "keywords": [

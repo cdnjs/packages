@@ -1,7 +1,6 @@
 {
   "name": "imagehover.css",
   "filename": "css/imagehover.min.css",
-  "version": "2.0.0",
   "description": "A Scaleable & Light Image Hover CSS Library",
   "repository": {
     "type": "git",

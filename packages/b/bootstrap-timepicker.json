@@ -2,7 +2,6 @@
   "name": "bootstrap-timepicker",
   "filename": "js/bootstrap-timepicker.min.js",
   "description": "Timepicker widget for Twitter Bootstrap",
-  "version": "0.5.2",
   "license": "MIT",
   "homepage": "https://jdewit.github.io/bootstrap-timepicker/",
   "author": {

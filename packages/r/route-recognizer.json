@@ -18,6 +18,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tildeio/route-recognizer.git"
-  },
-  "version": "0.3.4"
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "bokeh",
   "filename": "bokeh.min.js",
-  "version": "2.0.2",
   "description": "Interactive, novel data visualization",
   "keywords": [
     "bokeh",

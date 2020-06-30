@@ -1,7 +1,6 @@
 {
   "name": "jquery-te",
   "filename": "jquery-te.min.js",
-  "version": "1.4.0",
   "description": "jQuery Text Editor is a lightweight WYSIWYG text editor built with jQuery.",
   "homepage": "http://jqueryte.com",
   "keywords": [

@@ -1,7 +1,6 @@
 {
   "name": "bootstrap-checkbox",
   "filename": "js/bootstrap-checkbox.min.js",
-  "version": "1.5.0",
   "description": "A checkbox component based on Bootstrap framework",
   "keywords": [
     "bootstrap",

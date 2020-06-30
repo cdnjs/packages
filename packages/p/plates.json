@@ -1,7 +1,6 @@
 {
   "name": "plates",
   "filename": "plates.min.js",
-  "version": "0.4.11",
   "description": "Unobtrusive templating for the flatiron framework",
   "keywords": [
     "templates",

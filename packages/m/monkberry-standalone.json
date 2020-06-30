@@ -1,7 +1,6 @@
 {
   "name": "monkberry-standalone",
   "filename": "monkberry.min.js",
-  "version": "4.0.8",
   "description": "Standalone build of Monkberry for use in browsers.",
   "repository": {
     "type": "git",

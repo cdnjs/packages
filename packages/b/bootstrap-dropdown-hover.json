@@ -24,6 +24,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/istvan-ujjmeszaros/bootstrap-dropdown-hover.git"
-  },
-  "version": "4.2.0"
+  }
 }

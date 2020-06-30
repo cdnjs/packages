@@ -1,7 +1,6 @@
 {
   "name": "jplayer",
   "filename": "jplayer/jquery.jplayer.min.js",
-  "version": "2.9.2",
   "description": "The jQuery HTML5 Audio / Video Library. Allows you to create a media player with a consistent interface and experience across all browsers.",
   "homepage": "http://www.jplayer.org/",
   "keywords": [

@@ -1,7 +1,6 @@
 {
   "name": "chillout",
   "title": "chillout",
-  "version": "5.0.0",
   "description": "Reduce CPU usage by non-blocking async loop and psychologically speed up in JavaScript.",
   "author": {
     "name": "polygon planet",

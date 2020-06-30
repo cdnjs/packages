@@ -1,6 +1,5 @@
 {
   "name": "select2-bootstrap-css",
-  "version": "1.4.6",
   "description": "simple css to make select2 widgets fit in with bootstrap",
   "filename": "select2-bootstrap.min.css",
   "npmName": "select2-bootstrap-css",

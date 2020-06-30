@@ -1,7 +1,6 @@
 {
   "name": "sketchpad",
   "filename": "scripts/sketchpad.min.js",
-  "version": "0.1.0",
   "description": "A simple sketchpad.",
   "repository": {
     "type": "git",

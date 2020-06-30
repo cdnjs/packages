@@ -1,6 +1,5 @@
 {
   "name": "anchorific",
-  "version": "1.2",
   "description": "Automatically generate anchored headings and nested navigations based on header tags",
   "filename": "min/anchorific.min.js",
   "repository": {

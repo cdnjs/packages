@@ -27,6 +27,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/matteobruni/tsparticles.git"
-  },
-  "version": "1.14.0-alpha.2"
+  }
 }

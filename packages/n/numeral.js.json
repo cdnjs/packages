@@ -1,7 +1,6 @@
 {
   "name": "numeral.js",
   "filename": "numeral.min.js",
-  "version": "2.0.6",
   "description": "Format and manipulate numbers.",
   "homepage": "http://numeraljs.com/",
   "keywords": [

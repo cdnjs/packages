@@ -1,7 +1,6 @@
 {
   "name": "bootstrap-modal",
   "filename": "js/bootstrap-modalmanager.min.js",
-  "version": "2.2.6",
   "description": "Extends the default Bootstrap Modal class.",
   "keywords": [
     "bootstrap",

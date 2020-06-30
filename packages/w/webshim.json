@@ -1,7 +1,6 @@
 {
   "name": "webshim",
   "filename": "minified/polyfiller.js",
-  "version": "1.16.0",
   "title": "Webshims - polyfills jQuery with many HTML5 features",
   "author": {
     "name": "Alexander Farkas",

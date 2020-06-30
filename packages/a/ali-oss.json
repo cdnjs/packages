@@ -23,6 +23,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/aliyun/oss-nodejs-sdk.git"
-  },
-  "version": "6.8.0-beta"
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "headhesive",
   "filename": "headhesive.min.js",
-  "version": "1.2.4",
   "homepage": "http://markgoodyear.com/labs/headhesive",
   "description": "An on-demand sticky header",
   "keywords": [

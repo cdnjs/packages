@@ -1,7 +1,6 @@
 {
   "filename": "jquery.ba-dotimeout.min.js",
   "name": "jquery-dotimeout",
-  "version": "1.0",
   "description": "jQuery doTimeout takes the work out of delayed code execution, including interval and timeout management, polling loops and debouncing.",
   "author": "cowboy",
   "keywords": [

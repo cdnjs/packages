@@ -1,6 +1,5 @@
 {
   "name": "moonjs",
-  "version": "0.11.0",
   "filename": "moon.min.js",
   "description": "A minimal, blazing fast UI library.",
   "homepage": "http://moonjs.ga/",

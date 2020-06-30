@@ -1,7 +1,6 @@
 {
   "name": "Promin",
   "filename": "js/jquery.promin.min.js",
-  "version": "1.0.1",
   "description": "A jQuery plugin to boost your HTML forms to level awesome.",
   "author": {
     "name": "Tim Severien",

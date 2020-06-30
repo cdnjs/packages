@@ -27,6 +27,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/mfranzke/loading-attribute-polyfill.git"
-  },
-  "version": "1.5.3"
+  }
 }

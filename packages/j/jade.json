@@ -1,6 +1,5 @@
 {
   "name": "jade",
-  "version": "1.11.0",
   "filename": "jade.min.js",
   "description": "A clean, whitespace-sensitive template language for writing HTML",
   "homepage": "http://jade-lang.com/",

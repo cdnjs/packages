@@ -1,7 +1,6 @@
 {
   "name": "bigslide.js",
   "filename": "bigSlide.min.js",
-  "version": "0.12.0",
   "description": "A tiny slide panel navigation jQuery plugin with big dreams",
   "author": "Adam D. Scott <hello@adamdscott.com>",
   "repository": {

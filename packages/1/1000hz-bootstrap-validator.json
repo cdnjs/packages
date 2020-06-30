@@ -1,6 +1,5 @@
 {
   "name": "1000hz-bootstrap-validator",
-  "version": "0.11.9",
   "description": "A user-friendly HTML5 Form validator for Bootstrap 3",
   "filename": "validator.min.js",
   "repository": {

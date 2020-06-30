@@ -1,7 +1,6 @@
 {
   "name": "socket.io-stream",
   "filename": "socket.io-stream.min.js",
-  "version": "0.9.1",
   "description": "stream for socket.io",
   "author": "Naoyuki Kanezawa <naoyuki.kanezawa@gmail.com>",
   "keywords": [

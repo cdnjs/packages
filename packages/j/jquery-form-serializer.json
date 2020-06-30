@@ -1,6 +1,5 @@
 {
   "name": "jquery-form-serializer",
-  "version": "1.2.0",
   "description": "Serialize forms to JSON objects in a friendly way.",
   "repository": {
     "type": "git",

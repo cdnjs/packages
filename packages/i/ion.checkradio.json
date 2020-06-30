@@ -23,7 +23,6 @@
     "type": "git",
     "url": "git+https://github.com/IonDen/ion.checkRadio.git"
   },
-  "version": "2.0.0",
   "npmName": "ion-checkradio",
   "npmFileMap": [
     {

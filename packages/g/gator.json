@@ -1,6 +1,5 @@
 {
   "name": "gator",
-  "version": "1.2.4",
   "filename": "gator.min.js",
   "description": "Event delegation in javascript",
   "repository": {

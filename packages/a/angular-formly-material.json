@@ -1,6 +1,5 @@
 {
   "name": "angular-formly-material",
-  "version": "0.14.3",
   "description": "Material design templates for angular-formly",
   "filename": "formly-material.min.js",
   "repository": {

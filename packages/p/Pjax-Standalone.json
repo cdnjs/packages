@@ -1,7 +1,6 @@
 {
   "name": "Pjax-Standalone",
   "description": "A standalone implementation of Pushstate AJAX, for non-jquery webpages",
-  "version": "0.6.0",
   "filename": "pjax-standalone.min.js",
   "license": "MIT",
   "repository": {

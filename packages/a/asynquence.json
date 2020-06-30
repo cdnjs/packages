@@ -1,7 +1,6 @@
 {
   "name": "asynquence",
   "filename": "asq.js",
-  "version": "0.10.2",
   "author": {
     "email": "getify@gmail.com",
     "name": "Kyle Simpson"

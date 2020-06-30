@@ -1,7 +1,6 @@
 {
   "name": "parcoords",
   "filename": "d3.parcoords.min.js",
-  "version": "0.7.0",
   "description": "Parallel Coordinates: A visual toolkit for multidimensional detectives",
   "keywords": [
     "d3",

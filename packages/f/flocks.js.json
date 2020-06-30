@@ -7,7 +7,6 @@
   "name": "flocks.js",
   "filename": "flocks.min.js",
   "description": "Simpler state management for React.js",
-  "version": "1.6.1",
   "homepage": "http://flocks.rocks/",
   "repository": {
     "type": "git",

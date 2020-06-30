@@ -1,7 +1,6 @@
 {
   "name": "tv4",
   "filename": "tv4.min.js",
-  "version": "1.3.0",
   "author": "Geraint Luff",
   "description": "A public domain JSON Schema validator for JavaScript",
   "keywords": [

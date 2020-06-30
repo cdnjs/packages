@@ -1,7 +1,6 @@
 {
   "name": "cta.js",
   "description": "A light-weight performant library to animate your 'action-to-effect' paths",
-  "version": "0.3.2",
   "filename": "cta.min.js",
   "keywords": [
     "animation",

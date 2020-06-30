@@ -1,7 +1,6 @@
 {
   "name": "show-your-terms",
   "filename": "show-your-terms.min.js",
-  "version": "1.1.1",
   "author": "Kande Bonfim <kandebonfim@gmail.com>",
   "description": "Simple demos of your applications' terminal commands.",
   "homepage": "https://kandebonfim.github.io/show-your-terms/",

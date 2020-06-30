@@ -18,6 +18,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/google/data-layer-helper.git"
-  },
-  "version": "0.1.0"
+  }
 }

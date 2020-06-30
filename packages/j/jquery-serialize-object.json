@@ -1,7 +1,6 @@
 {
   "name": "jquery-serialize-object",
   "filename": "jquery.serialize-object.min.js",
-  "version": "2.5.0",
   "description": "serialize form fields into an object or JSON",
   "keywords": [
     "form",

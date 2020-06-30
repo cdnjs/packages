@@ -1,6 +1,5 @@
 {
   "name": "preact-compat",
-  "version": "3.19.0",
   "filename": "preact-compat.min.js",
   "description": "A React compatibility layer for Preact",
   "repository": {

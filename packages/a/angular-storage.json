@@ -1,7 +1,6 @@
 {
   "name": "angular-storage",
   "filename": "angular-storage.min.js",
-  "version": "0.0.15",
   "description": "A Storage done right for AngularJS",
   "keywords": [
     "storage",

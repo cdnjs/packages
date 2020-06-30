@@ -22,6 +22,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wickedest/Mergely.git"
-  },
-  "version": "4.0.15"
+  }
 }

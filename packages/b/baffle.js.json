@@ -1,6 +1,5 @@
 {
   "name": "baffle.js",
-  "version": "0.3.6",
   "filename": "baffle.min.js",
   "description": "A tiny javascript library for obfuscating and revealing text in DOM elements.",
   "repository": {

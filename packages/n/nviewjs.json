@@ -1,7 +1,6 @@
 {
   "name": "nviewjs",
   "filename": "nview.min.js",
-  "version": "1.0.3",
   "description": "View template engine.",
   "author": "anyjser",
   "license": "MIT",

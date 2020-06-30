@@ -1,7 +1,6 @@
 {
   "name": "ReStable",
   "filename": "jquery.restable.min.js",
-  "version": "0.1.2",
   "description": "jQuery plugin that make tables responsive",
   "repository": {
     "type": "git",

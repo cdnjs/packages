@@ -1,7 +1,6 @@
 {
   "name": "artDialog",
   "filename": "dialog.js",
-  "version": "7.0.0",
   "description": "classical web dialog module which perfectly crafted from inside to outside",
   "homepage": "https://aui.github.io/artDialog/",
   "keywords": [

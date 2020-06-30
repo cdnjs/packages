@@ -1,7 +1,6 @@
 {
   "name": "videojs-markers",
   "filename": "videojs-markers.min.js",
-  "version": "0.7.0",
   "description": "video marker breaks plugin for video.js",
   "repository": {
     "type": "git",

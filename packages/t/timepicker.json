@@ -2,7 +2,6 @@
   "name": "timepicker",
   "description": "Enhances standard form input fields helping users to select (or type) times.",
   "filename": "jquery.timepicker.min.js",
-  "version": "1.3.5",
   "homepage": "http://timepicker.co",
   "author": {
     "name": "Willington Vega",

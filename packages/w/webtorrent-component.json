@@ -1,6 +1,5 @@
 {
   "name": "webtorrent-component",
-  "version": "1.0.2",
   "filename": "webtorrent-component.min.js",
   "description": "WebTorrent HTML element.",
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",

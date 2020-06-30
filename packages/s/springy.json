@@ -1,7 +1,6 @@
 {
   "name": "springy",
   "filename": "springy.min.js",
-  "version": "2.8.0",
   "description": "A force directed graph layout algorithm in JavaScript.",
   "repository": {
     "type": "git",

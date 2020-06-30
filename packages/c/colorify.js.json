@@ -1,6 +1,5 @@
 {
   "name": "colorify.js",
-  "version": "1.0.3",
   "license": "ISC",
   "filename": "scripts/colorify.min.js",
   "description": "The simple, customizable, tiny javascript color extractor.",

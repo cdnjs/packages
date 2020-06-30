@@ -1,7 +1,6 @@
 {
   "name": "phaser",
   "filename": "phaser.min.js",
-  "version": "3.23.0",
   "description": "A fast, free and fun HTML5 Game Framework for Desktop and Mobile web browsers.",
   "homepage": "https://phaser.io/",
   "keywords": [

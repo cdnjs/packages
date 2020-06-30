@@ -1,7 +1,6 @@
 {
   "name": "jq-console",
   "filename": "jqconsole.min.js",
-  "version": "2.7.7",
   "description": "Feature complete web terminal",
   "homepage": "http://repl.it/",
   "keywords": [

@@ -1,6 +1,5 @@
 {
   "name": "balance-text",
-  "version": "3.3.0",
   "filename": "balancetext.min.js",
   "description": "Plugin for implementing balancing of text across lines in a web page",
   "license": "Apache-2.0",

@@ -1,7 +1,6 @@
 {
   "name": "rome",
   "description": "Customizable date (and time) picker. Opt-in UI, no jQuery!",
-  "version": "3.0.2",
   "filename": "rome.standalone.min.js",
   "keywords": [
     "rome",

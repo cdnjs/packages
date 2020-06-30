@@ -1,7 +1,6 @@
 {
   "name": "ODataResources",
   "filename": "odataresources.min.js",
-  "version": "1.0.25",
   "description": "Allows making fluent OData queries from angular resources",
   "repository": {
     "type": "git",

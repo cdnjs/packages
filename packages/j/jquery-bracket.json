@@ -1,7 +1,6 @@
 {
   "name": "jquery-bracket",
   "description": "Library for organizing single and double elimination tournaments",
-  "version": "0.11.1",
   "license": "MIT",
   "author": {
     "name": "Teijo Laine",

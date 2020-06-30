@@ -28,6 +28,5 @@
         "togeojson*.+(map|js|css)"
       ]
     }
-  ],
-  "version": "0.16.0"
+  ]
 }

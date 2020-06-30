@@ -1,7 +1,6 @@
 {
   "name": "pace",
   "filename": "pace.min.js",
-  "version": "1.0.2",
   "description": "Automatic page load progress bar",
   "homepage": "http://github.hubspot.com/pace/",
   "keywords": [

@@ -10,7 +10,6 @@
       ]
     }
   ],
-  "version": "1.7.3",
   "description": "Yet another jQuery plugin for tabs, lightweight, easy to use and with some extra features.",
   "repository": {
     "type": "git",

@@ -37,6 +37,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angulartics/angulartics2.git"
-  },
-  "version": "9.0.0"
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "hola-video.js",
   "description": "An HTML5 and Flash video player with a common API and skin for both. This is modified version to support HolaCDN.",
-  "version": "5.10.2-27",
   "license": "Apache-2.0",
   "keywords": [
     "flash",

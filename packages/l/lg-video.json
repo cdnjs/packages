@@ -1,6 +1,5 @@
 {
   "name": "lg-video",
-  "version": "1.3.0",
   "filename": "lg-video.min.js",
   "description": "Video module for lightgallery.",
   "keywords": [

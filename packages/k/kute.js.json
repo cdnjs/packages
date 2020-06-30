@@ -1,6 +1,5 @@
 {
   "name": "kute.js",
-  "version": "1.6.2",
   "filename": "kute.min.js",
   "description": "A minimal Native Javascript animation engine.",
   "repository": {

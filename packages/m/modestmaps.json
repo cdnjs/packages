@@ -1,6 +1,5 @@
 {
   "name": "modestmaps",
-  "version": "3.3.5",
   "filename": "modestmaps.min.js",
   "description": "A display and interaction library for tile-based maps.",
   "homepage": "http://modestmaps.com/",

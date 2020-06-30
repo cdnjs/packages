@@ -1,7 +1,6 @@
 {
   "name": "backbone.js",
   "filename": "backbone-min.js",
-  "version": "1.4.0",
   "description": "Give your JS App some Backbone with Models, Views, Collections, and Events.",
   "homepage": "http://backbonejs.org/",
   "keywords": [

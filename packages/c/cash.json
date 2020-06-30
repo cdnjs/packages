@@ -1,7 +1,6 @@
 {
   "name": "cash",
   "filename": "cash.min.js",
-  "version": "7.0.1",
   "description": "An absurdly small jQuery alternative for modern browsers.",
   "keywords": [
     "Cash",

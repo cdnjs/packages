@@ -2,7 +2,6 @@
   "name": "san",
   "filename": "san.min.js",
   "description": "A Flexible JavaScript Component Framework",
-  "version": "3.8.5",
   "homepage": "https://baidu.github.io/san/",
   "repository": {
     "type": "git",

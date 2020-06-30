@@ -10,7 +10,6 @@
     }
   ],
   "title": "free jqGrid",
-  "version": "4.15.5",
   "description": "grid as jQuery plugin - fork of jqGrid before licensing change",
   "filename": "jquery.jqgrid.min.js",
   "repository": {

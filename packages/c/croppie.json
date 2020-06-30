@@ -1,7 +1,6 @@
 {
   "name": "croppie",
   "filename": "croppie.min.js",
-  "version": "2.6.4",
   "description": "A simple javascript image cropper",
   "repository": {
     "type": "git",

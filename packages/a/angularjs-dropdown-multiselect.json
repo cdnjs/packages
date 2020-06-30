@@ -1,6 +1,5 @@
 {
   "name": "angularjs-dropdown-multiselect",
-  "version": "1.11.8",
   "filename": "angularjs-dropdown-multiselect.min.js",
   "description": "This directive gives you a Bootstrap Dropdown with the power of AngularJS directives.",
   "homepage": "https://dotansimha.github.io/angularjs-dropdown-multiselect/",

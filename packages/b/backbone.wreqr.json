@@ -1,7 +1,6 @@
 {
   "name": "backbone.wreqr",
   "filename": "backbone.wreqr.min.js",
-  "version": "1.4.0",
   "description": "A Simple Service Bus For Backbone and Backbone.Marionette",
   "keywords": [
     "events",

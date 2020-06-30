@@ -1,7 +1,6 @@
 {
   "name": "console-polyfill",
   "filename": "index.min.js",
-  "version": "0.3.0",
   "description": "Browser console polyfill. Makes it safe to do console.log()-s etc always.",
   "repository": {
     "type": "git",

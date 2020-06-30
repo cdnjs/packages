@@ -1,6 +1,5 @@
 {
   "name": "markdown-it",
-  "version": "11.0.0",
   "filename": "markdown-it.min.js",
   "description": "Markdown-it - modern pluggable markdown parser.",
   "keywords": [

@@ -1,6 +1,5 @@
 {
   "name": "string-format",
-  "version": "0.5.0",
   "description": "Adds a `format` method to `String.prototype`. Inspired by Python's `str.format()`.",
   "author": "David Chambers <dc@davidchambers.me>",
   "filename": "string-format.min.js",

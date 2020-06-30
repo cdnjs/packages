@@ -27,6 +27,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/request/request-promise.git"
-  },
-  "version": "4.2.5"
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "doony",
   "filename": "js/doony.min.js",
-  "version": "2.1",
   "description": "UI Improvements for Jenkins",
   "homepage": "http://doony.org",
   "license": "MIT",

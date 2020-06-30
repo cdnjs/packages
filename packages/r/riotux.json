@@ -1,7 +1,6 @@
 {
   "name": "riotux",
   "filename": "riotux.min.js",
-  "version": "2.1.1",
   "description": "Simple Event Controller for Riot.js, inspired in Flux Pattern.",
   "npmName": "riotux",
   "npmFileMap": [

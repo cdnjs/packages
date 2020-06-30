@@ -1,7 +1,6 @@
 {
   "name": "requirejs-tpl",
   "filename": "tpl.min.js",
-  "version": "0.0.2",
   "description": "RequireJS UnderscoreJS template plugin",
   "keywords": [
     "require",

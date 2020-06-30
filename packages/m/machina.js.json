@@ -2,7 +2,6 @@
   "name": "machina.js",
   "filename": "machina.min.js",
   "description": "A library for creating powerful and flexible finite state machines. Loosely inspired by Erlang/OTP's gen_fsm behavior.",
-  "version": "4.0.2",
   "homepage": "http://machina-js.org/",
   "repository": {
     "type": "git",

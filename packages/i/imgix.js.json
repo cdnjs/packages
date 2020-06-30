@@ -25,6 +25,5 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:imgix/imgix.js.git"
-  },
-  "version": "3.4.2"
+  }
 }

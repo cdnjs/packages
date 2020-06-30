@@ -1,7 +1,6 @@
 {
   "name": "fixed-sticky",
   "filename": "fixedsticky.min.js",
-  "version": "0.1.7",
   "description": "A position: sticky polyfill that works with filamentgroup/fixed-fixed for a safer position:fixed fallback.",
   "repository": {
     "type": "git",

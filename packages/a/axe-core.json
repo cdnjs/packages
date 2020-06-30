@@ -1,7 +1,6 @@
 {
   "name": "axe-core",
   "description": "Accessibility engine for automated Web UI testing",
-  "version": "3.5.3",
   "license": "MPL-2.0",
   "repository": {
     "type": "git",

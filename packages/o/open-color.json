@@ -1,7 +1,6 @@
 {
   "name": "open-color",
   "filename": "open-color.min.css",
-  "version": "1.7.0",
   "description": "Open color scheme for web UI",
   "repository": {
     "type": "git",

@@ -1,6 +1,5 @@
 {
   "name": "jxon",
-  "version": "1.6.1",
   "description": "A complete, bidirectional, JXON library",
   "filename": "index.min.js",
   "repository": {

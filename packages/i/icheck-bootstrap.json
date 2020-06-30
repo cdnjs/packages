@@ -26,6 +26,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bantikyan/icheck-bootstrap.git"
-  },
-  "version": "3.0.1"
+  }
 }

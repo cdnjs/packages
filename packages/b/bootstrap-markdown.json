@@ -1,7 +1,6 @@
 {
   "name": "bootstrap-markdown",
   "filename": "js/bootstrap-markdown.min.js",
-  "version": "2.10.0",
   "description": "A bootstrap plugin for markdown editing",
   "keywords": [
     "twitter",

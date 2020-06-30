@@ -1,7 +1,6 @@
 {
   "filename": "i18n.min.js",
   "name": "require-i18n",
-  "version": "2.0.4",
   "description": "An AMD loader plugin for loading internationalization/localization string resources.",
   "keywords": [
     "requirejs",

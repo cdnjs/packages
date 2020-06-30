@@ -1,7 +1,6 @@
 {
   "name": "perfbar",
   "filename": "perfbar.min.js",
-  "version": "0.2.1",
   "homepage": "http://lafikl.github.io/perfBar",
   "description": "Tracking performance metrics never been easier",
   "author": "Khalid Lafi",

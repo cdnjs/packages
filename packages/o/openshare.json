@@ -21,6 +21,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OpenShare/openshare.git"
-  },
-  "version": "1.4.11"
+  }
 }

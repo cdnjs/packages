@@ -1,6 +1,5 @@
 {
   "name": "dashjs",
-  "version": "3.1.0",
   "filename": "dash.all.min.js",
   "description": "A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.",
   "repository": {

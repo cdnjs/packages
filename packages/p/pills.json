@@ -1,6 +1,5 @@
 {
   "name": "pills",
-  "version": "1.0.1",
   "filename": "pills.min.css",
   "description": "A simple, responsive, and tiny CSS grid for humans.",
   "repository": {

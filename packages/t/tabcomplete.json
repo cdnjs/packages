@@ -1,6 +1,5 @@
 {
   "name": "tabcomplete",
-  "version": "1.4.0",
   "description": "Lightweight tab completion for inputs and textareas",
   "filename": "tabcomplete.min.js",
   "repository": {

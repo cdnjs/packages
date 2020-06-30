@@ -37,6 +37,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/mikolalysenko/ndarray.git"
-  },
-  "version": "1.0.19"
+  }
 }

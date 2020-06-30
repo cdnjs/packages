@@ -9,7 +9,6 @@
     "font",
     "icons"
   ],
-  "version": "2.2.0",
   "author": "Sergey Kupletsky <s.kupletsky@gmail.com> (https://github.com/zavoloklom)",
   "autoupdate": {
     "source": "git",

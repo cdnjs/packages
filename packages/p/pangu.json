@@ -1,7 +1,6 @@
 {
   "name": "pangu",
   "filename": "pangu.min.js",
-  "version": "4.0.7",
   "description": "Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols).",
   "keywords": [
     "chinese",

@@ -1,6 +1,5 @@
 {
   "name": "angular-base64",
-  "version": "2.0.5",
   "filename": "angular-base64.min.js",
   "description": "Base64 conversion for AngularJS",
   "license": "MIT",

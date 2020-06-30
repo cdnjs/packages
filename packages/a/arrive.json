@@ -1,7 +1,6 @@
 {
   "name": "arrive",
   "filename": "arrive.min.js",
-  "version": "2.4.1",
   "description": "arrive.js provides events to watch for DOM elements creation and removal. It makes use of Mutation Observers internally.",
   "repository": {
     "type": "git",

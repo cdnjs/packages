@@ -1,7 +1,6 @@
 {
   "name": "jsonlint",
   "filename": "jsonlint.min.js",
-  "version": "1.6.0",
   "homepage": "http://zaach.github.com/jsonlint/",
   "description": "Validate JSON",
   "keywords": [

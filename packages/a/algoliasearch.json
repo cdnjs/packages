@@ -1,7 +1,6 @@
 {
   "name": "algoliasearch",
   "filename": "algoliasearch.min.js",
-  "version": "4.2.0",
   "description": "AlgoliaSearch API JavaScript client",
   "keywords": [
     "algolia",
