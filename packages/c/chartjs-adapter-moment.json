@@ -1,0 +1,29 @@
+{
+  "name": "chartjs-adapter-moment",
+  "filename": "chartjs-adapter-moment.min.js",
+  "description": "Chart.js adapter to use Moment.js for time functionalities",
+  "keywords": [
+    "chart.js",
+    "date",
+    "moment",
+    "time"
+  ],
+  "homepage": "https://github.com/chartjs/chartjs-adapter-moment",
+  "autoupdate": {
+    "source": "npm",
+    "target": "chartjs-adapter-moment",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chartjs/chartjs-adapter-moment.git"
+  },
+  "license": "MIT"
+}
