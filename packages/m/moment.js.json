@@ -1,21 +1,5 @@
 {
   "name": "moment.js",
-  "npmName": "moment",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "moment*.js",
-        "locale/*"
-      ]
-    },
-    {
-      "basePath": "min",
-      "files": [
-        "moment*.@(js|map)"
-      ]
-    }
-  ],
   "filename": "moment.min.js",
   "description": "Parse, validate, manipulate, and display dates",
   "homepage": "http://momentjs.com/",
@@ -30,5 +14,24 @@
     "url": "https://github.com/moment/moment"
   },
   "license": "MIT",
-  "author": "Iskren Ivov Chernev <iskren.chernev@gmail.com> (https://github.com/ichernev)"
+  "author": "Iskren Ivov Chernev <iskren.chernev@gmail.com> (https://github.com/ichernev)",
+  "autoupdate": {
+    "source": "npm",
+    "target": "moment",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "moment*.js",
+          "locale/*"
+        ]
+      },
+      {
+        "basePath": "min",
+        "files": [
+          "moment*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

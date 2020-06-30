@@ -5,17 +5,20 @@
   "keywords": [],
   "license": "MIT",
   "name": "ant-design-icons-svg",
-  "npmFileMap": [
-    {
-      "basePath": "inline-svg",
-      "files": [
-        "**/*.svg"
-      ]
-    }
-  ],
-  "npmName": "@ant-design/icons-svg",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ant-design/ant-design-icons.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@ant-design/icons-svg",
+    "fileMap": [
+      {
+        "basePath": "inline-svg",
+        "files": [
+          "**/*.svg"
+        ]
+      }
+    ]
   }
 }

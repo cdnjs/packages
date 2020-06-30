@@ -16,13 +16,16 @@
     "type": "git",
     "url": "git+https://github.com/d3/d3-sankey.git"
   },
-  "npmName": "d3-sankey",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "d3-sankey",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

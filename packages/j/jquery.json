@@ -1,14 +1,5 @@
 {
   "name": "jquery",
-  "npmName": "jquery",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "filename": "jquery.min.js",
   "description": "JavaScript library for DOM operations",
   "homepage": "http://jquery.com/",
@@ -29,5 +20,17 @@
   "author": {
     "name": "jQuery Foundation and other contributors",
     "url": "https://github.com/jquery/jquery/blob/master/AUTHORS.txt"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

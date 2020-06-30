@@ -19,14 +19,17 @@
     "ui-components",
     "framework"
   ],
-  "npmName": "@primer/css",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.css",
-        "*.map"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@primer/css",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.css",
+          "*.map"
+        ]
+      }
+    ]
+  }
 }

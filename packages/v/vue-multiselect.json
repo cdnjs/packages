@@ -9,18 +9,21 @@
     "url": "git+https://github.com/shentao/vue-multiselect.git"
   },
   "description": "Multiselect component for vue.js",
-  "npmName": "vue-multiselect",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "filename": "vue-multiselect.min.js",
   "keywords": [
     "vue",
     "multiselect"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-multiselect",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

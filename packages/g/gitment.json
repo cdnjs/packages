@@ -15,23 +15,26 @@
   ],
   "license": "MIT",
   "name": "gitment",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "gitment.browser*"
-      ]
-    },
-    {
-      "basePath": "style",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "gitment",
   "repository": {
     "type": "git",
     "url": "https://github.com/imsun/gitment"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "gitment",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "gitment.browser*"
+        ]
+      },
+      {
+        "basePath": "style",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

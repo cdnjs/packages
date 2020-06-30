@@ -20,19 +20,22 @@
   "license": "MIT",
   "homepage": "http://www.d3plus.org",
   "filename": "d3plus.min.js",
-  "npmName": "d3plus",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "d3plus*.js"
-      ]
-    },
-    {
-      "basePath": "build",
-      "files": [
-        "d3plus*.@(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "d3plus",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "d3plus*.js"
+        ]
+      },
+      {
+        "basePath": "build",
+        "files": [
+          "d3plus*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

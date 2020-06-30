@@ -15,17 +15,20 @@
   ],
   "license": "MIT",
   "name": "tent-css",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "tent-css",
   "repository": {
     "type": "git",
     "url": "https://github.com/sitetent/tentcss.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "tent-css",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

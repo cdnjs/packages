@@ -14,17 +14,20 @@
   ],
   "license": "MIT",
   "name": "sql-formatter",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "sql-formatter.*"
-      ]
-    }
-  ],
-  "npmName": "sql-formatter",
   "repository": {
     "type": "git",
     "url": "https://github.com/zeroturnaround/sql-formatter.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "sql-formatter",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "sql-formatter.*"
+        ]
+      }
+    ]
   }
 }

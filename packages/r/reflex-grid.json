@@ -17,20 +17,23 @@
     "type": "git",
     "url": "git+https://github.com/leejordan/reflex.git"
   },
-  "npmName": "reflex-grid",
-  "npmFileMap": [
-    {
-      "basePath": "css",
-      "files": [
-        "*.css"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "scss/**/*.scss"
-      ]
-    }
-  ],
-  "filename": "reflex.min.css"
+  "filename": "reflex.min.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "reflex-grid",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "scss/**/*.scss"
+        ]
+      }
+    ]
+  }
 }

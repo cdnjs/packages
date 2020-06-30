@@ -12,20 +12,23 @@
     "type": "git",
     "url": "https://github.com/codemirror/CodeMirror.git"
   },
-  "npmName": "codemirror",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "*.+(js|css)"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "+(addon|theme|mode|keymap)/**/*.+(js|css)"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "codemirror",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.+(js|css)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "+(addon|theme|mode|keymap)/**/*.+(js|css)"
+        ]
+      }
+    ]
+  }
 }

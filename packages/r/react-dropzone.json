@@ -19,13 +19,16 @@
   "author": "Param Aggarwal",
   "license": "MIT",
   "homepage": "https://react-dropzone.js.org/",
-  "npmName": "react-dropzone",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "!(es){,/**}"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-dropzone",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "!(es){,/**}"
+        ]
+      }
+    ]
+  }
 }

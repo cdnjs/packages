@@ -17,14 +17,17 @@
   ],
   "author": "deepstreamHub GmbH",
   "license": "Apache-2.0",
-  "npmName": "deepstream.io-client-js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "homepage": "http://deepstream.io"
+  "homepage": "http://deepstream.io",
+  "autoupdate": {
+    "source": "npm",
+    "target": "deepstream.io-client-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

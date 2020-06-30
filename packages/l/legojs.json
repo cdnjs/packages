@@ -2,16 +2,7 @@
   "name": "legojs",
   "description": "Lego JS",
   "filename": "lego.min.js",
-  "npmName": "legojs",
   "license": "MIT",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "lego.min.js"
-      ]
-    }
-  ],
   "author": {
     "name": "Tyler Benziger",
     "url": "http://tybenz.com"
@@ -22,5 +13,17 @@
   },
   "keywords": [
     "legojs"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "legojs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "lego.min.js"
+        ]
+      }
+    ]
+  }
 }

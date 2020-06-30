@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/vuejs/vue-router.git"
   },
-  "npmName": "vue-router",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "vue-router.min.js"
+  "filename": "vue-router.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-router",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

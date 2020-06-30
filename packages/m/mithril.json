@@ -1,6 +1,5 @@
 {
   "name": "mithril",
-  "npmName": "mithril",
   "filename": "mithril.min.js",
   "description": "A framework for building brilliant applications",
   "homepage": "http://mithril.js.org",
@@ -14,15 +13,19 @@
     "type": "git",
     "url": "https://github.com/MithrilJS/mithril.js.git"
   },
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "mithril.js",
-        "mithril.min.js",
-        "mithril.min.js.map",
-        "stream/stream.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "mithril",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "mithril.js",
+          "mithril.min.js",
+          "mithril.min.js.map",
+          "stream/stream.js"
+        ]
+      }
+    ]
+  }
 }

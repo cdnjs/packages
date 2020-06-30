@@ -13,13 +13,16 @@
   ],
   "author": "David Dias <daviddias@ipfs.io>",
   "license": "MIT",
-  "npmName": "ipfs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(index.min.js.LICENSE)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ipfs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(index.min.js.LICENSE)"
+        ]
+      }
+    ]
+  }
 }

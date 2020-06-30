@@ -1,14 +1,5 @@
 {
   "name": "sizzle",
-  "npmName": "sizzle",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*"
-      ]
-    }
-  ],
   "filename": "sizzle.min.js",
   "description": "A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library.",
   "homepage": "http://sizzlejs.com/",
@@ -25,5 +16,17 @@
   "author": {
     "name": "jQuery Foundation and other contributors",
     "url": "https://github.com/jquery/sizzle/blob/master/AUTHORS.txt"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "sizzle",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*"
+        ]
+      }
+    ]
   }
 }

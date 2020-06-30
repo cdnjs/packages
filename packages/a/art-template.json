@@ -11,14 +11,17 @@
     "type": "git",
     "url": "git://github.com/aui/art-template.git"
   },
-  "npmName": "art-template",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "**/*.@(js|ts)"
-      ]
-    }
-  ],
-  "filename": "index.js"
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "art-template",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

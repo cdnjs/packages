@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/filipedeschamps/cep-promise.git"
   },
-  "npmName": "cep-promise",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "cep-promise-browser.min.js"
+  "filename": "cep-promise-browser.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "cep-promise",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

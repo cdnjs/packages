@@ -1,14 +1,5 @@
 {
   "name": "vis-timeline",
-  "npmName": "vis-timeline",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "filename": "vis-timeline-graph2d.min.js",
   "description": "Create a fully customizable, interactive timeline with items and ranges.",
   "homepage": "https://visjs.github.io/vis-timeline/",
@@ -29,5 +20,17 @@
   "author": {
     "name": "VisJs and other contributors",
     "url": "https://opencollective.com/visjs/contributors.svg"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "vis-timeline",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

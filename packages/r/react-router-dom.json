@@ -20,13 +20,16 @@
     "link"
   ],
   "homepage": "https://reacttraining.com/react-router/",
-  "npmName": "react-router-dom",
-  "npmFileMap": [
-    {
-      "basePath": "umd",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-router-dom",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

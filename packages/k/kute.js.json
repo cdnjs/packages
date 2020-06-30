@@ -15,13 +15,16 @@
   "author": "thednp",
   "license": "MIT",
   "homepage": "http://thednp.github.io/kute.js",
-  "npmName": "kute.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "kute.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

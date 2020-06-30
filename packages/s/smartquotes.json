@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git://github.com/kellym/smartquotesjs.git"
   },
-  "npmName": "smartquotes",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "smartquotes.js"
+  "filename": "smartquotes.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "smartquotes",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

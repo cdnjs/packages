@@ -10,17 +10,20 @@
   ],
   "license": "MIT",
   "name": "parsimmon",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "parsimmon",
   "repository": {
     "type": "git",
     "url": "https://github.com/jneen/parsimmon"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "parsimmon",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

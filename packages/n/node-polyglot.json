@@ -14,17 +14,20 @@
   ],
   "license": "BSD-2-Clause",
   "name": "node-polyglot",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "index.js"
-      ]
-    }
-  ],
-  "npmName": "node-polyglot",
   "repository": {
     "type": "git",
     "url": "git://github.com/airbnb/polyglot.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "node-polyglot",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
   }
 }

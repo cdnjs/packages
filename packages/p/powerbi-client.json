@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/Microsoft/PowerBI-JavaScript.git"
   },
-  "npmName": "powerbi-client",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|ts|map)"
-      ]
-    }
-  ],
-  "filename": "powerbi.min.js"
+  "filename": "powerbi.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "powerbi-client",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|ts|map)"
+        ]
+      }
+    ]
+  }
 }

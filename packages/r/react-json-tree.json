@@ -9,17 +9,20 @@
   ],
   "license": "MIT",
   "name": "react-json-tree",
-  "npmFileMap": [
-    {
-      "basePath": "umd",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "npmName": "react-json-tree",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/reduxjs/redux-devtools.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-json-tree",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
   }
 }

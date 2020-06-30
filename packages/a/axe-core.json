@@ -16,13 +16,16 @@
     "aXe"
   ],
   "filename": "axe.min.js",
-  "npmName": "axe-core",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "axe*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "axe-core",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "axe*"
+        ]
+      }
+    ]
+  }
 }

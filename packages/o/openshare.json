@@ -9,17 +9,20 @@
   ],
   "license": "MIT",
   "name": "openshare",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(test)*"
-      ]
-    }
-  ],
-  "npmName": "openshare",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OpenShare/openshare.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "openshare",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(test)*"
+        ]
+      }
+    ]
   }
 }

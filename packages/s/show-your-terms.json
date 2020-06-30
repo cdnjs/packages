@@ -15,13 +15,16 @@
     "url": "git@github.com:kandebonfim/show-your-terms.git"
   },
   "license": "MIT",
-  "npmName": "show-your-terms",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "show-your-terms",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

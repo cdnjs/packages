@@ -15,14 +15,17 @@
     "url": "git+https://github.com/kevinchappell/formBuilder.git",
     "type": "git"
   },
-  "npmName": "formBuilder",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "form-builder.min.js"
+  "filename": "form-builder.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "formBuilder",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

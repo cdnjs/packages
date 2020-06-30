@@ -6,17 +6,20 @@
   "keywords": [],
   "license": "Apache-2.0",
   "name": "data-layer-helper",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "npmName": "data-layer-helper",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/google/data-layer-helper.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "data-layer-helper",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
   }
 }

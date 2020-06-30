@@ -17,13 +17,16 @@
     "hyperscript",
     "vanilla"
   ],
-  "npmName": "hyperapp",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.!(*gz)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "hyperapp",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.!(*gz)"
+        ]
+      }
+    ]
+  }
 }

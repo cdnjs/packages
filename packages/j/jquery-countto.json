@@ -15,13 +15,16 @@
   ],
   "author": "Matt Huggins <matt.huggins@gmail.com>",
   "license": "MIT",
-  "npmName": "jquery-countto",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jquery.countTo*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-countto",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery.countTo*"
+        ]
+      }
+    ]
+  }
 }

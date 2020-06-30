@@ -10,17 +10,20 @@
   ],
   "license": "MIT",
   "name": "redux-logger",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "redux-logger",
   "repository": {
     "type": "git",
     "url": "git://github.com/theaqua/redux-logger.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "redux-logger",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

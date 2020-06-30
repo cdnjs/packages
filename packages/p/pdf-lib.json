@@ -25,14 +25,17 @@
     "type": "git",
     "url": "git+https://github.com/Hopding/pdf-lib.git"
   },
-  "npmName": "pdf-lib",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "pdf-lib.min.js"
+  "filename": "pdf-lib.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "pdf-lib",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

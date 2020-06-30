@@ -15,13 +15,16 @@
     "dropdown",
     "search"
   ],
-  "npmName": "slim-select",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "slimselect*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "slim-select",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "slimselect*"
+        ]
+      }
+    ]
+  }
 }

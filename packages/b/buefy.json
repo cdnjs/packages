@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git+https://github.com/buefy/buefy.git"
   },
-  "npmName": "buefy",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|css|json)"
-      ]
-    }
-  ],
-  "filename": "buefy.min.js"
+  "filename": "buefy.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "buefy",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css|json)"
+        ]
+      }
+    ]
+  }
 }

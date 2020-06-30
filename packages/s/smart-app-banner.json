@@ -14,17 +14,20 @@
   ],
   "license": "MIT",
   "name": "smart-app-banner",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "smart-app-banner",
   "repository": {
     "type": "git",
     "url": "git://github.com/kudago/smart-app-banner.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "smart-app-banner",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

@@ -18,13 +18,16 @@
     "renderer",
     "commonmark"
   ],
-  "npmName": "remarkable",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/remarkable*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "remarkable",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/remarkable*"
+        ]
+      }
+    ]
+  }
 }

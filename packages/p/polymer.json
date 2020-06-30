@@ -6,21 +6,24 @@
   "keywords": [
     "web-components"
   ],
-  "npmName": "@polymer/polymer",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.@(js|ts)",
-        "lib/**/*",
-        "externs/**/*"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Polymer/polymer.git"
   },
   "license": "BSD-3-Clause",
-  "author": "The Polymer Project Authors"
+  "author": "The Polymer Project Authors",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@polymer/polymer",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|ts)",
+          "lib/**/*",
+          "externs/**/*"
+        ]
+      }
+    ]
+  }
 }

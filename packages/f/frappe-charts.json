@@ -18,13 +18,16 @@
   ],
   "author": "Prateeksha Singh (https://github.com/pratu16x7)",
   "license": "MIT",
-  "npmName": "frappe-charts",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(frappe-charts.esm.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "frappe-charts",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(frappe-charts.esm.js)"
+        ]
+      }
+    ]
+  }
 }

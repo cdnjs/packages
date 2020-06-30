@@ -10,23 +10,26 @@
   ],
   "license": "MIT",
   "name": "print-js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    },
-    {
-      "basePath": "src",
-      "files": [
-        "css/print*"
-      ]
-    }
-  ],
-  "npmName": "print-js",
   "repository": {
     "type": "git",
     "url": "https://github.com/crabbly/Print.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "print-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "src",
+        "files": [
+          "css/print*"
+        ]
+      }
+    ]
   }
 }

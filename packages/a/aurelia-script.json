@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+ssh://git@github.com/aurelia/aurelia.git"
   },
-  "npmName": "aurelia-script",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "aurelia.umd.min.js"
+  "filename": "aurelia.umd.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "aurelia-script",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

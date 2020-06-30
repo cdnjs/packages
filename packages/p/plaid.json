@@ -12,14 +12,17 @@
     "type": "git",
     "url": "git+ssh://git@github.com/plaid/plaid-node.git"
   },
-  "npmName": "plaid",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "plaid.js"
+  "filename": "plaid.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "plaid",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

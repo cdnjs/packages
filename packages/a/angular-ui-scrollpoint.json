@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/angular-ui/ui-scrollpoint.git"
   },
-  "npmName": "angular-ui-scrollpoint",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "scrollpoint.min.js"
+  "filename": "scrollpoint.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-ui-scrollpoint",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

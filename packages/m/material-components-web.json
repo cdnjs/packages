@@ -13,13 +13,16 @@
   },
   "license": "Apache-2.0",
   "author": "The Material Design Team",
-  "npmName": "material-components-web",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "material-components-web",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.ts)"
+        ]
+      }
+    ]
+  }
 }

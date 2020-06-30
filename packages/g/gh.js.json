@@ -12,14 +12,17 @@
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com>",
   "license": "MIT",
-  "npmName": "gh.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "gh.min.js"
+  "filename": "gh.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "gh.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

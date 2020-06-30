@@ -1,14 +1,5 @@
 {
   "name": "postgrest-client",
-  "npmName": "postgrest-client",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
   "filename": "postgrest-client.min.js",
   "description": "Advanced client for the PostgREST API",
   "author": "Caleb Meredith <calebmeredith8@gmail.com>",
@@ -21,5 +12,17 @@
     "postgrest",
     "api",
     "client"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "postgrest-client",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

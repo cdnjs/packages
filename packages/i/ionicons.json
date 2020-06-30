@@ -6,15 +6,6 @@
     "font",
     "icon"
   ],
-  "npmName": "ionicons",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.json|*.scss|*.ts|*.svj)"
-      ]
-    }
-  ],
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -24,5 +15,17 @@
     "Ben Sperry <ben@drifty.com>",
     "Adam Bradley <adam@drifty.com>",
     "Max Lynch <max@drifty.com>"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "ionicons",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.json|*.scss|*.ts|*.svj)"
+        ]
+      }
+    ]
+  }
 }

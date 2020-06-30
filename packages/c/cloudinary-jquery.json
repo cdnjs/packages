@@ -46,17 +46,20 @@
   ],
   "license": "MIT",
   "name": "cloudinary-jquery",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "cloudinary-jquery*"
-      ]
-    }
-  ],
-  "npmName": "cloudinary-jquery",
   "repository": {
     "type": "git",
     "url": "https://github.com/cloudinary/cloudinary_js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "cloudinary-jquery",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "cloudinary-jquery*"
+        ]
+      }
+    ]
   }
 }

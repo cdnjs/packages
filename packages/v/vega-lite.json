@@ -8,23 +8,26 @@
     "url": "https://github.com/vega/vega-lite.git"
   },
   "license": "BSD-3-Clause",
-  "npmName": "vega-lite",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "vega-lite*.+(js|css|map)"
-      ]
-    },
-    {
-      "basePath": "build",
-      "files": [
-        "**/vega-lite*.+(js|css|map)"
-      ]
-    }
-  ],
   "keywords": [
     "visualization",
     "grammar"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "vega-lite",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "vega-lite*.+(js|css|map)"
+        ]
+      },
+      {
+        "basePath": "build",
+        "files": [
+          "**/vega-lite*.+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

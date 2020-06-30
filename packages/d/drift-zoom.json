@@ -9,17 +9,20 @@
   ],
   "license": "BSD-2",
   "name": "drift-zoom",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "drift-zoom",
   "repository": {
     "type": "git",
     "url": "git@github.com:imgix/drift.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "drift-zoom",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

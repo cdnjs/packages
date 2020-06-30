@@ -21,13 +21,16 @@
     "name": "andrewtelnov",
     "email": "andrew.telnov@gmail.com"
   },
-  "npmName": "survey-angular",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "survey*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "survey-angular",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "survey*"
+        ]
+      }
+    ]
+  }
 }

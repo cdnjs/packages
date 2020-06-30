@@ -9,14 +9,17 @@
     "type": "git",
     "url": "git://github.com/angular-ui/ui-ace.git"
   },
-  "npmName": "angular-ui-ace",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "ui-ace.js"
+  "filename": "ui-ace.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-ui-ace",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

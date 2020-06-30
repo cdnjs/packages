@@ -18,13 +18,16 @@
     "type": "git",
     "url": "git+https://github.com/mathiasbynens/utf8.js.git"
   },
-  "npmName": "utf8",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "utf8*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "utf8",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "utf8*"
+        ]
+      }
+    ]
+  }
 }

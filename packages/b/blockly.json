@@ -13,16 +13,19 @@
     "type": "git",
     "url": "git+https://github.com/google/blockly.git"
   },
-  "npmName": "blockly",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.@(js|ts)",
-        "media/*",
-        "msg/*"
-      ]
-    }
-  ],
-  "filename": "blockly.min.js"
+  "filename": "blockly.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "blockly",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|ts)",
+          "media/*",
+          "msg/*"
+        ]
+      }
+    ]
+  }
 }

@@ -10,17 +10,20 @@
   ],
   "license": "MIT",
   "name": "g2plot",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "@antv/g2plot",
   "repository": {
     "type": "git",
     "url": "https://github.com/antvis/g2plot"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@antv/g2plot",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

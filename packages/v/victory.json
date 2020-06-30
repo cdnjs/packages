@@ -15,13 +15,16 @@
   "author": "Formidable",
   "license": "MIT",
   "homepage": "https://formidable.com/open-source/victory/",
-  "npmName": "victory",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "victory",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

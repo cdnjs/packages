@@ -14,13 +14,16 @@
     "mapbox",
     "mapping"
   ],
-  "npmName": "mapbox-gl",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.flow|test.js|index.js*)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "mapbox-gl",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.flow|test.js|index.js*)"
+        ]
+      }
+    ]
+  }
 }

@@ -10,17 +10,20 @@
   ],
   "license": "MIT",
   "name": "logline",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "logline.*"
-      ]
-    }
-  ],
-  "npmName": "logline",
   "repository": {
     "type": "git",
     "url": "https://github.com/latel/logline.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "logline",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "logline.*"
+        ]
+      }
+    ]
   }
 }

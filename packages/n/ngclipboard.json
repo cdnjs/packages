@@ -20,13 +20,16 @@
     "url": "git@github.com:sachinchoolur/ngclipboard.git"
   },
   "license": "MIT",
-  "npmName": "ngclipboard",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ngclipboard",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

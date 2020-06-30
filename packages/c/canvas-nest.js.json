@@ -8,15 +8,6 @@
     "html5",
     "nest"
   ],
-  "npmName": "canvas-nest.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "canvas-nest*.js"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/hustcc/canvas-nest.js.git"
@@ -25,5 +16,17 @@
   "author": {
     "name": "atool",
     "url": "https://atool.vip/"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "canvas-nest.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "canvas-nest*.js"
+        ]
+      }
+    ]
   }
 }

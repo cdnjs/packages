@@ -16,13 +16,16 @@
     "type": "git",
     "url": "git+https://github.com/arguiot/TheoremJS.git"
   },
-  "npmName": "theorem.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "theorem.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

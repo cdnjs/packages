@@ -18,13 +18,16 @@
     "type": "git",
     "url": "git://github.com/vuetifyjs/vuetify.git"
   },
-  "npmName": "vuetify",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vuetify",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

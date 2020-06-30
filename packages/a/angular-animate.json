@@ -12,17 +12,20 @@
   "license": "MIT",
   "name": "angular-animate",
   "namespace": "angular",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "angular-animate.*"
-      ]
-    }
-  ],
-  "npmName": "angular-animate",
   "repository": {
     "type": "git",
     "url": "git://github.com/angular/angular.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-animate",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "angular-animate.*"
+        ]
+      }
+    ]
   }
 }

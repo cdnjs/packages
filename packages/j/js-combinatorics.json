@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git://github.com/dankogai/js-combinatorics.git"
   },
-  "npmName": "js-combinatorics",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "combinatorics.js"
-      ]
-    }
-  ],
-  "filename": "combinatorics.js"
+  "filename": "combinatorics.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "js-combinatorics",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "combinatorics.js"
+        ]
+      }
+    ]
+  }
 }

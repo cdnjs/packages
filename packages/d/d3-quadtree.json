@@ -17,13 +17,16 @@
     "type": "git",
     "url": "https://github.com/d3/d3-quadtree.git"
   },
-  "npmName": "d3-quadtree",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/!(package.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "d3-quadtree",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/!(package.js)"
+        ]
+      }
+    ]
+  }
 }

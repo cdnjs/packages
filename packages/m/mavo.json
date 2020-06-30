@@ -12,13 +12,16 @@
     "url": "https://github.com/mavoweb/mavo/issues"
   },
   "homepage": "https://mavo.io",
-  "npmName": "mavo",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "mavo!(-)*.@(js|css)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "mavo",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "mavo!(-)*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

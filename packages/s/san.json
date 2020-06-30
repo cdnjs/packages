@@ -16,14 +16,17 @@
     "mvvm",
     "san"
   ],
-  "npmName": "san",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.md|*.gz)"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "san",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.md|*.gz)"
+        ]
+      }
+    ]
+  }
 }

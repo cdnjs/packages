@@ -20,14 +20,17 @@
     "type": "git",
     "url": "git+https://github.com/chenglou/react-motion.git"
   },
-  "npmName": "react-motion",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "react-motion.js"
+  "filename": "react-motion.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-motion",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

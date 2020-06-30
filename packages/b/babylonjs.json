@@ -16,13 +16,16 @@
     "webgl"
   ],
   "license": "Apache-2.0",
-  "npmName": "babylonjs",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "babylon*.!(ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "babylonjs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "babylon*.!(ts)"
+        ]
+      }
+    ]
+  }
 }

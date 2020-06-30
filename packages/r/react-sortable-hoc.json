@@ -33,13 +33,16 @@
     "higher-order-component"
   ],
   "homepage": "https://clauderic.github.io/react-sortable-hoc/",
-  "npmName": "react-sortable-hoc",
-  "npmFileMap": [
-    {
-      "basePath": "dist/umd",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-sortable-hoc",
+    "fileMap": [
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

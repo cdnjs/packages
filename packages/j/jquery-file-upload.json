@@ -14,19 +14,22 @@
     "url": "git@github.com:hayageek/jquery-upload-file.git"
   },
   "license": "MIT",
-  "npmName": "jquery-file-upload",
-  "npmFileMap": [
-    {
-      "basePath": "js",
-      "files": [
-        "?(jquery.)uploadfile*.js"
-      ]
-    },
-    {
-      "basePath": "css",
-      "files": [
-        "uploadfile!(.custom)*.css"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-file-upload",
+    "fileMap": [
+      {
+        "basePath": "js",
+        "files": [
+          "?(jquery.)uploadfile*.js"
+        ]
+      },
+      {
+        "basePath": "css",
+        "files": [
+          "uploadfile!(.custom)*.css"
+        ]
+      }
+    ]
+  }
 }

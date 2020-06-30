@@ -22,17 +22,20 @@
   ],
   "license": "MIT",
   "name": "iphone-inline-video",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "iphone-inline-video",
   "repository": {
     "type": "git",
     "url": "git://github.com/bfred-it/iphone-inline-video.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "iphone-inline-video",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

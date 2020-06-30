@@ -12,14 +12,17 @@
     "type": "git",
     "url": "git+https://github.com/quilljs/parchment.git"
   },
-  "npmName": "parchment",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "parchment.js"
+  "filename": "parchment.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "parchment",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

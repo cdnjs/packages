@@ -49,13 +49,16 @@
     "webm"
   ],
   "filename": "cloudinary-core.min.js",
-  "npmName": "cloudinary-core",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "cloudinary-core*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "cloudinary-core",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "cloudinary-core*"
+        ]
+      }
+    ]
+  }
 }

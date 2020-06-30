@@ -2,16 +2,6 @@
   "name": "signature_pad",
   "filename": "signature_pad.min.js",
   "description": "Library for drawing smooth signatures.",
-  "npmName": "signature_pad",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "signature_pad.js",
-        "signature_pad.min.js"
-      ]
-    }
-  ],
   "author": {
     "name": "Szymon Nowak",
     "email": "szimek@gmail.com",
@@ -26,5 +16,18 @@
     "html5",
     "canvas",
     "signature"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "signature_pad",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "signature_pad.js",
+          "signature_pad.min.js"
+        ]
+      }
+    ]
+  }
 }

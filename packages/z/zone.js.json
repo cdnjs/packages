@@ -14,13 +14,16 @@
     "thread-local storage",
     "javascript"
   ],
-  "npmName": "zone.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "!(*+(test|node)).js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "zone.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "!(*+(test|node)).js"
+        ]
+      }
+    ]
+  }
 }

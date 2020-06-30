@@ -8,16 +8,19 @@
     "url": "https://github.com/algolia/instantsearch.js"
   },
   "license": "MIT",
-  "npmName": "instantsearch.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.gz)"
-      ]
-    }
-  ],
   "keywords": [
     "instantsearch.js"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "instantsearch.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.gz)"
+        ]
+      }
+    ]
+  }
 }

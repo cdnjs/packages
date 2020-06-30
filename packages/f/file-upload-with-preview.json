@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/promosis/file-upload-with-preview.git"
   },
-  "npmName": "file-upload-with-preview",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "file-upload-with-preview.min.js"
+  "filename": "file-upload-with-preview.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "file-upload-with-preview",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

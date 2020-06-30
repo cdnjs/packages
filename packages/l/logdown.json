@@ -14,17 +14,20 @@
   ],
   "license": "MIT",
   "name": "logdown",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.gzip|*.ts)"
-      ]
-    }
-  ],
-  "npmName": "logdown",
   "repository": {
     "type": "git",
     "url": "https://github.com/caiogondim/logdown"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "logdown",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.gzip|*.ts)"
+        ]
+      }
+    ]
   }
 }

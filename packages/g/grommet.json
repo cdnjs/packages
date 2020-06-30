@@ -19,13 +19,16 @@
     "type": "git",
     "url": "https://github.com/grommet/grommet.git"
   },
-  "npmName": "grommet",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*grommet*.min.*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "grommet",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*grommet*.min.*"
+        ]
+      }
+    ]
+  }
 }

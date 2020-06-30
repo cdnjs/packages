@@ -18,13 +18,16 @@
     "MIT",
     "GPL-3.0"
   ],
-  "npmName": "docxtemplater",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "docxtemplater*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "docxtemplater",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "docxtemplater*"
+        ]
+      }
+    ]
+  }
 }

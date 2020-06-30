@@ -13,14 +13,17 @@
     "type": "git",
     "url": "git+https://github.com/miaolz123/vue-markdown.git"
   },
-  "npmName": "vue-markdown",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "vue-markdown.common.js"
+  "filename": "vue-markdown.common.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-markdown",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

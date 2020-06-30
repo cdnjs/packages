@@ -25,13 +25,16 @@
     "type": "git",
     "url": "git://github.com/strathausen/dracula.git"
   },
-  "npmName": "graphdracula",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "graphdracula",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

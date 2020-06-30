@@ -14,17 +14,20 @@
     "url": "git://github.com/vakata/jstree.git"
   },
   "keywords": [],
-  "npmName": "jstree",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "jstree.min.js",
-        "themes/**/*.png",
-        "themes/**/*.gif",
-        "themes/**/*.min.css"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jstree",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "jstree.min.js",
+          "themes/**/*.png",
+          "themes/**/*.gif",
+          "themes/**/*.min.css"
+        ]
+      }
+    ]
+  }
 }

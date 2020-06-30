@@ -20,13 +20,16 @@
     "email": "hernantorrisi@gmail.com"
   },
   "filename": "lottie.min.js",
-  "npmName": "lottie-web",
-  "npmFileMap": [
-    {
-      "basePath": "build/player",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "lottie-web",
+    "fileMap": [
+      {
+        "basePath": "build/player",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

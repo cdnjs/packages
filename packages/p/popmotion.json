@@ -29,13 +29,16 @@
     "svg"
   ],
   "license": "MIT",
-  "npmName": "popmotion",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "popmotion*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "popmotion",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "popmotion*.js"
+        ]
+      }
+    ]
+  }
 }

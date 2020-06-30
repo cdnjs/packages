@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git+https://github.com/DominicTobias/react-image-crop.git"
   },
-  "npmName": "react-image-crop",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "ReactCrop.min.js"
+  "filename": "ReactCrop.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-image-crop",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

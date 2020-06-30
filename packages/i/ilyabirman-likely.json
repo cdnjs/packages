@@ -16,13 +16,16 @@
     "social",
     "buttons"
   ],
-  "npmName": "ilyabirman-likely",
-  "npmFileMap": [
-    {
-      "basePath": "release",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ilyabirman-likely",
+    "fileMap": [
+      {
+        "basePath": "release",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

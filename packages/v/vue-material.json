@@ -23,14 +23,17 @@
     "angular-material",
     "components"
   ],
-  "npmName": "vue-material",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "vue-material!(*.esm.js|*.common.js)",
-        "!(docs)/**/!(*.scss|*.esm.js|*.common.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-material",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "vue-material!(*.esm.js|*.common.js)",
+          "!(docs)/**/!(*.scss|*.esm.js|*.common.js)"
+        ]
+      }
+    ]
+  }
 }

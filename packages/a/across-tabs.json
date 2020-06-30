@@ -23,14 +23,17 @@
     "website": "http://varunmalhotra.xyz"
   },
   "homepage": "http://engineering.wingify.com/across-tabs/introduction.html",
-  "npmName": "across-tabs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "across-tabs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

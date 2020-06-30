@@ -13,13 +13,16 @@
   ],
   "author": "Moe Amaya <moe@dixonandmoe.com> (https://dixonandmoe.com)",
   "license": "MIT",
-  "npmName": "rellax",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "rellax*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "rellax",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "rellax*"
+        ]
+      }
+    ]
+  }
 }

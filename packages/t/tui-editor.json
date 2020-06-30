@@ -20,13 +20,16 @@
     "url": "https://github.com/nhnent/tui.editor.git"
   },
   "license": "MIT",
-  "npmName": "tui-editor",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "tui-editor",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

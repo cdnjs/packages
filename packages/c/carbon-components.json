@@ -27,20 +27,23 @@
     "type": "git",
     "url": "https://github.com/carbon-design-system/carbon/tree/master/packages/components"
   },
-  "npmName": "carbon-components",
-  "npmFileMap": [
-    {
-      "basePath": "scripts",
-      "files": [
-        "*.js"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "{css,umd}/**/*"
-      ]
-    }
-  ],
-  "filename": "carbon-components.min.js"
+  "filename": "carbon-components.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "carbon-components",
+    "fileMap": [
+      {
+        "basePath": "scripts",
+        "files": [
+          "*.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "{css,umd}/**/*"
+        ]
+      }
+    ]
+  }
 }

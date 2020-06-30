@@ -21,13 +21,16 @@
   },
   "license": "MIT",
   "author": "Richard Davey <rdavey@gmail.com> (http://www.photonstorm.com)",
-  "npmName": "phaser",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "phaser",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

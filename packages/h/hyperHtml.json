@@ -18,19 +18,22 @@
   ],
   "license": "ISC",
   "name": "hyperHtml",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "min.js",
-        "index.@(js|d.ts)",
-        "umd.@(js|d.ts)"
-      ]
-    }
-  ],
-  "npmName": "hyperhtml",
   "repository": {
     "type": "git",
     "url": "https://github.com/WebReflection/hyperhtml.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "hyperhtml",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "min.js",
+          "index.@(js|d.ts)",
+          "umd.@(js|d.ts)"
+        ]
+      }
+    ]
   }
 }

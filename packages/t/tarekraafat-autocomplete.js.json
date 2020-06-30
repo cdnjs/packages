@@ -37,14 +37,17 @@
     "type": "git",
     "url": "git+https://github.com/TarekRaafat/autoComplete.js.git"
   },
-  "npmName": "@tarekraafat/autocomplete.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|css|json|svg)"
-      ]
-    }
-  ],
-  "filename": "js/autoComplete.min.js"
+  "filename": "js/autoComplete.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@tarekraafat/autocomplete.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css|json|svg)"
+        ]
+      }
+    ]
+  }
 }

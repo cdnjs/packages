@@ -12,14 +12,17 @@
     "webgl",
     "svg"
   ],
-  "npmName": "geojs",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "geo*.js"
-      ]
-    }
-  ],
-  "filename": "geo.min.js"
+  "filename": "geo.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "geojs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "geo*.js"
+        ]
+      }
+    ]
+  }
 }

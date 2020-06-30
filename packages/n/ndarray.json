@@ -25,17 +25,20 @@
   ],
   "license": "MIT",
   "name": "ndarray",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "ndarray.js"
-      ]
-    }
-  ],
-  "npmName": "ndarray",
   "repository": {
     "type": "git",
     "url": "git://github.com/mikolalysenko/ndarray.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "ndarray",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "ndarray.js"
+        ]
+      }
+    ]
   }
 }

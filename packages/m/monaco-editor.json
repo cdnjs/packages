@@ -16,13 +16,16 @@
     "TypeScript",
     "JavaScript"
   ],
-  "npmName": "monaco-editor",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "+(min|min-maps)/**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "monaco-editor",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "+(min|min-maps)/**/*"
+        ]
+      }
+    ]
+  }
 }

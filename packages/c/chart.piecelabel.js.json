@@ -12,14 +12,17 @@
     "type": "git",
     "url": "git+https://github.com/emn178/Chart.PieceLabel.js.git"
   },
-  "npmName": "chart.piecelabel.js",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "Chart.PieceLabel.min.js"
+  "filename": "Chart.PieceLabel.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "chart.piecelabel.js",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

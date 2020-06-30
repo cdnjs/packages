@@ -25,14 +25,17 @@
     "type": "git",
     "url": "git://github.com/char0n/ramda-adjunct.git"
   },
-  "npmName": "ramda-adjunct",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "RA.web.standalone.min.js"
+  "filename": "RA.web.standalone.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ramda-adjunct",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

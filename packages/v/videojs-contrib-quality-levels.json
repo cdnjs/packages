@@ -12,14 +12,17 @@
     "type": "git",
     "url": "git+https://github.com/videojs/videojs-contrib-quality-levels.git"
   },
-  "npmName": "videojs-contrib-quality-levels",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "videojs-contrib-quality-levels.min.js"
+  "filename": "videojs-contrib-quality-levels.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "videojs-contrib-quality-levels",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

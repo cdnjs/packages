@@ -7,15 +7,6 @@
     "vega",
     "vega.js"
   ],
-  "npmName": "vega",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/vega?(-core)?(.min).js"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/vega/vega.git"
@@ -24,5 +15,17 @@
   "author": {
     "name": "UW Interactive Data Lab",
     "url": "http://idl.cs.washington.edu"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "vega",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/vega?(-core)?(.min).js"
+        ]
+      }
+    ]
   }
 }

@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/MaxArt2501/share-this.git"
   },
-  "npmName": "share-this",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|css|map)"
-      ]
-    }
-  ],
-  "filename": "share-this.js"
+  "filename": "share-this.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "share-this",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

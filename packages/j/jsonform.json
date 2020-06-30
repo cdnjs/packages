@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/jsonform/jsonform.git"
   },
-  "npmName": "jsonform",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "jsonform.js"
+  "filename": "jsonform.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jsonform",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

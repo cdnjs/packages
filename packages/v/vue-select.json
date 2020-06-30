@@ -15,13 +15,16 @@
     "type": "git",
     "url": "git://github.com/sagalbot/vue-select.git"
   },
-  "npmName": "vue-select",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-select",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

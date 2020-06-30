@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/nicolodavis/boardgame.io.git"
   },
-  "npmName": "boardgame.io",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|ts)"
-      ]
-    }
-  ],
-  "filename": "boardgameio.min.js"
+  "filename": "boardgameio.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "boardgame.io",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

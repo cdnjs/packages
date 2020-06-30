@@ -16,13 +16,16 @@
     "slider",
     "react-component"
   ],
-  "npmName": "react-slick",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-slick",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

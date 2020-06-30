@@ -15,13 +15,16 @@
     "type": "git",
     "url": "https://github.com/rsuite/rsuite.git"
   },
-  "npmName": "rsuite",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "rsuite",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

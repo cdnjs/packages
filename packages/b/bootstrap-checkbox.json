@@ -8,15 +8,6 @@
     "jquery-plugin",
     "switch"
   ],
-  "npmName": "bootstrap-checkbox",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "homepage": "https://vsn4ik.github.io/bootstrap-checkbox/",
   "author": {
     "name": "Vasily A.",
@@ -26,5 +17,17 @@
     "type": "git",
     "url": "git+https://github.com/vsn4ik/bootstrap-checkbox.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-checkbox",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

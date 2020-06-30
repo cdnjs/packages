@@ -19,13 +19,16 @@
     "name": "andrewtelnov",
     "email": "andrew.telnov@gmail.com"
   },
-  "npmName": "survey-knockout",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "survey*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "survey-knockout",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "survey*"
+        ]
+      }
+    ]
+  }
 }

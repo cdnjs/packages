@@ -18,15 +18,18 @@
     "aggregation",
     "dimension"
   ],
-  "npmName": "orb",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js",
-        "*.css",
-        "*.map"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "orb",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*.css",
+          "*.map"
+        ]
+      }
+    ]
+  }
 }

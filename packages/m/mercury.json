@@ -16,14 +16,17 @@
     "url": "git://github.com/Raynos/mercury.git"
   },
   "homepage": "https://raynos.github.io/mercury/",
-  "npmName": "mercury",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mercury",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

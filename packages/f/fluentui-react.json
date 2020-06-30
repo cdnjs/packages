@@ -9,14 +9,17 @@
     "type": "git",
     "url": "git+https://github.com/microsoft/fluentui.git"
   },
-  "npmName": "@fluentui/react",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|ts|map)"
-      ]
-    }
-  ],
-  "filename": "fluentui-react.min.js"
+  "filename": "fluentui-react.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@fluentui/react",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|ts|map)"
+        ]
+      }
+    ]
+  }
 }

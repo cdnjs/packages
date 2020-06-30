@@ -14,15 +14,18 @@
     "type": "git",
     "url": "git://github.com/iamcal/emoji-data.git"
   },
-  "npmName": "emoji-datasource-google",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "emoji*.json",
-        "**/*.png"
-      ]
-    }
-  ],
-  "filename": "emoji.json"
+  "filename": "emoji.json",
+  "autoupdate": {
+    "source": "npm",
+    "target": "emoji-datasource-google",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "emoji*.json",
+          "**/*.png"
+        ]
+      }
+    ]
+  }
 }

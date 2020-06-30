@@ -13,20 +13,23 @@
     "type": "git",
     "url": "git+https://github.com/danigb/tonal.git"
   },
-  "npmName": "tonal",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.@(js|ts)"
-      ]
-    },
-    {
-      "basePath": "build",
-      "files": [
-        "*.@(js|ts)"
-      ]
-    }
-  ],
-  "filename": "index.js"
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "tonal",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|ts)"
+        ]
+      },
+      {
+        "basePath": "build",
+        "files": [
+          "*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

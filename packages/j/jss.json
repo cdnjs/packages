@@ -20,13 +20,16 @@
     "type": "git",
     "url": "https://github.com/jsstyles/jss.git"
   },
-  "npmName": "jss",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.bundle.js|*.cjs.js|*.esm.js|*.flow)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jss",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.bundle.js|*.cjs.js|*.esm.js|*.flow)"
+        ]
+      }
+    ]
+  }
 }

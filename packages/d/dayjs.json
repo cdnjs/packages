@@ -15,14 +15,17 @@
     "type": "git",
     "url": "https://github.com/iamkun/dayjs.git"
   },
-  "npmName": "dayjs",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "dayjs*",
-        "+(locale|plugin)/!(*.ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "dayjs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "dayjs*",
+          "+(locale|plugin)/!(*.ts)"
+        ]
+      }
+    ]
+  }
 }

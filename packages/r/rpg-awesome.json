@@ -18,18 +18,21 @@
     "OFL-1.1"
   ],
   "name": "rpg-awesome",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "css/rpg-awesome*",
-        "fonts/rpgawesome-webfont*"
-      ]
-    }
-  ],
-  "npmName": "rpg-awesome",
   "repository": {
     "type": "git",
     "url": "git://github.com/nagoshiashumari/Rpg-Awesome.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "rpg-awesome",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/rpg-awesome*",
+          "fonts/rpgawesome-webfont*"
+        ]
+      }
+    ]
   }
 }

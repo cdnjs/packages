@@ -17,14 +17,17 @@
     "type": "git",
     "url": "git+https://github.com/AmauriC/tarteaucitron.js.git"
   },
-  "npmName": "tarteaucitronjs",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "**/*.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "tarteaucitron.js"
+  "filename": "tarteaucitron.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "tarteaucitronjs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

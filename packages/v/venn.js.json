@@ -17,13 +17,16 @@
     "url": "git://github.com/benfred/venn.js.git"
   },
   "license": "MIT",
-  "npmName": "venn.js",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/!(bundle.*|*.zip)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "venn.js",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/!(bundle.*|*.zip)"
+        ]
+      }
+    ]
+  }
 }

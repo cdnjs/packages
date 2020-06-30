@@ -17,14 +17,17 @@
     "type": "git",
     "url": "git+https://github.com/jeremenichelli/hunt.git"
   },
-  "npmName": "huntjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "hunt.umd.js"
+  "filename": "hunt.umd.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "huntjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

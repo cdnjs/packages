@@ -15,13 +15,16 @@
     "state"
   ],
   "license": "MIT",
-  "npmName": "stately.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "Stately*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "stately.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "Stately*"
+        ]
+      }
+    ]
+  }
 }

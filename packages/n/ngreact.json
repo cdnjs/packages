@@ -15,13 +15,16 @@
     "react",
     "ngReact"
   ],
-  "npmName": "ngreact",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "ngReact*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ngreact",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "ngReact*"
+        ]
+      }
+    ]
+  }
 }

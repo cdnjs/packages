@@ -14,13 +14,16 @@
     "IMA",
     "SDK"
   ],
-  "npmName": "videojs-ima",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.scss|*.es.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "videojs-ima",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.scss|*.es.js)"
+        ]
+      }
+    ]
+  }
 }

@@ -7,15 +7,6 @@
     "url": "https://github.com/videojs/videojs-contrib-ads.git"
   },
   "author": "Brightcove",
-  "npmName": "videojs-contrib-ads",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(videojs-contrib-ads.cjs*|videojs-contrib-ads.es*)"
-      ]
-    }
-  ],
   "keywords": [
     "videojs",
     "html5",
@@ -23,5 +14,17 @@
     "ads",
     "advertisements"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "autoupdate": {
+    "source": "npm",
+    "target": "videojs-contrib-ads",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(videojs-contrib-ads.cjs*|videojs-contrib-ads.es*)"
+        ]
+      }
+    ]
+  }
 }

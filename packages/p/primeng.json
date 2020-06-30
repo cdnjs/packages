@@ -14,21 +14,24 @@
   ],
   "license": "MIT",
   "name": "primeng",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "bundles/*.+(js|map)",
-        "esm2015/**/*",
-        "fesm2015/*.+(js|map)",
-        "fesm5/*.+(js|map)",
-        "resources/**/!(*.scss)"
-      ]
-    }
-  ],
-  "npmName": "primeng",
   "repository": {
     "type": "git",
     "url": "https://github.com/primefaces/primeng.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "primeng",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "bundles/*.+(js|map)",
+          "esm2015/**/*",
+          "fesm2015/*.+(js|map)",
+          "fesm5/*.+(js|map)",
+          "resources/**/!(*.scss)"
+        ]
+      }
+    ]
   }
 }

@@ -12,17 +12,20 @@
   "license": "MIT",
   "name": "angular-cookies",
   "namespace": "angular",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "angular-cookies.*"
-      ]
-    }
-  ],
-  "npmName": "angular-cookies",
   "repository": {
     "type": "git",
     "url": "git://github.com/angular/angular.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-cookies",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "angular-cookies.*"
+        ]
+      }
+    ]
   }
 }

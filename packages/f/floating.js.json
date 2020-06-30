@@ -15,13 +15,16 @@
     "element",
     "infinite"
   ],
-  "npmName": "floating.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "floating*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "floating.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "floating*"
+        ]
+      }
+    ]
+  }
 }

@@ -18,17 +18,20 @@
   ],
   "license": "MIT",
   "name": "sql.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "dist/*"
-      ]
-    }
-  ],
-  "npmName": "sql.js",
   "repository": {
     "type": "git",
     "url": "http://github.com/kripken/sql.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "sql.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "dist/*"
+        ]
+      }
+    ]
   }
 }

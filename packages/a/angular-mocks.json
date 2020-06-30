@@ -17,13 +17,16 @@
   "author": "Angular Core Team <angular-core+npm@google.com>",
   "license": "MIT",
   "homepage": "https://angularjs.org",
-  "npmName": "angular-mocks",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "angular-mocks*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-mocks",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "angular-mocks*"
+        ]
+      }
+    ]
+  }
 }

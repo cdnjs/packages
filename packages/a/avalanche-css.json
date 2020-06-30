@@ -13,13 +13,16 @@
     "grid",
     "oocss"
   ],
-  "npmName": "avalanche-css",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "avalanche*.+(css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "avalanche-css",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "avalanche*.+(css|map)"
+        ]
+      }
+    ]
+  }
 }

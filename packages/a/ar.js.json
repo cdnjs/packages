@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/jeromeetienne/AR.js.git"
   },
-  "npmName": "ar.js",
-  "npmFileMap": [
-    {
-      "basePath": "aframe/build",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "aframe-ar.min.js"
+  "filename": "aframe-ar.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ar.js",
+    "fileMap": [
+      {
+        "basePath": "aframe/build",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

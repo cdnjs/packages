@@ -18,14 +18,17 @@
     "type": "git",
     "url": "https://github.com/vimeo/player.js.git"
   },
-  "npmName": "@vimeo/player",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "player.min.js"
+  "filename": "player.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@vimeo/player",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

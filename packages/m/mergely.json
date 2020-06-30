@@ -10,17 +10,20 @@
   ],
   "license": "(GPL-3.0 OR LGPL-3.0 OR MPL-1.1 OR SEE LICENSE IN LICENSE)",
   "name": "mergely",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "mergely",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wickedest/Mergely.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "mergely",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

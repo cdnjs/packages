@@ -1,14 +1,5 @@
 {
   "name": "jquery-migrate",
-  "npmName": "jquery-migrate",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "filename": "jquery-migrate.min.js",
   "description": "Migrate older jQuery code to jQuery 1.9+",
   "homepage": "http://jquery.com/",
@@ -25,5 +16,17 @@
   "author": {
     "name": "jQuery Foundation and other contributors",
     "url": "https://github.com/jquery/jquery-migrate/blob/master/AUTHORS.txt"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-migrate",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

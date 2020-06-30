@@ -20,19 +20,22 @@
     "url": "https://github.com/hyperform/hyperform.git"
   },
   "license": "MIT",
-  "npmName": "hyperform",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    },
-    {
-      "basePath": "css",
-      "files": [
-        "hyperform*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "hyperform",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "css",
+        "files": [
+          "hyperform*"
+        ]
+      }
+    ]
+  }
 }

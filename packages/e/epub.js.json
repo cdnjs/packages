@@ -9,14 +9,17 @@
     "type": "git",
     "url": "https://github.com/futurepress/epub.js"
   },
-  "npmName": "epub.js",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "epub.min.js"
+  "filename": "epub.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "epub.js",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

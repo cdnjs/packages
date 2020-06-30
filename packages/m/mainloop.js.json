@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git://github.com/IceCreamYou/MainLoop.js.git"
   },
-  "npmName": "mainloop.js",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "mainloop.min.js"
+  "filename": "mainloop.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mainloop.js",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

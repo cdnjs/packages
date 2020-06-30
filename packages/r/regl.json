@@ -23,13 +23,16 @@
   "author": "Mikola Lysenko",
   "license": "MIT",
   "homepage": "http://regl.party/",
-  "npmName": "regl",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.gz|*unchecked*)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "regl",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.gz|*unchecked*)"
+        ]
+      }
+    ]
+  }
 }

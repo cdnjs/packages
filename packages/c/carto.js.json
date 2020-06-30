@@ -13,17 +13,20 @@
   ],
   "license": "BSD-3-Clause",
   "name": "carto.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "carto.*.+(js|map)"
-      ]
-    }
-  ],
-  "npmName": "@carto/carto.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/CartoDB/carto.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@carto/carto.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "carto.*.+(js|map)"
+        ]
+      }
+    ]
   }
 }

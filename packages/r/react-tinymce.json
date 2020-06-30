@@ -9,17 +9,20 @@
   ],
   "license": "MIT",
   "name": "react-tinymce",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "react-tinymce",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/instructure-react/react-tinymce.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-tinymce",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

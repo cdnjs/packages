@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git+https://github.com/json-editor/json-editor.git"
   },
-  "npmName": "@json-editor/json-editor",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "jsoneditor.js"
+  "filename": "jsoneditor.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@json-editor/json-editor",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

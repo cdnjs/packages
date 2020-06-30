@@ -7,20 +7,6 @@
     "matreshka",
     "framework"
   ],
-  "npmName": "matreshka",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "matreshka.js",
-        "matreshka.min.js",
-        "matreshka.min.map",
-        "magic/matreshka-magic.js",
-        "magic/matreshka-magic.min.js",
-        "magic/matreshka-magic.min.map"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/matreshkajs/matreshka.git"
@@ -29,5 +15,22 @@
   "author": {
     "name": "Andrey Gubanov",
     "email": "a@odessite.com.ua"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "matreshka",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "matreshka.js",
+          "matreshka.min.js",
+          "matreshka.min.map",
+          "magic/matreshka-magic.js",
+          "magic/matreshka-magic.min.js",
+          "magic/matreshka-magic.min.map"
+        ]
+      }
+    ]
   }
 }

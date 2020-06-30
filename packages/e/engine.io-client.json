@@ -7,17 +7,20 @@
     "type": "git",
     "url": "https://github.com/socketio/engine.io-client.git"
   },
-  "npmName": "engine.io-client",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "engine.io*"
-      ]
-    }
-  ],
   "keywords": [
     "engine.io",
     "client"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "engine.io-client",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "engine.io*"
+        ]
+      }
+    ]
+  }
 }

@@ -15,13 +15,16 @@
   },
   "license": "MIT",
   "author": "Tanner Linsley <@tannerlinsley>",
-  "npmName": "react-table",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "react-table*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-table",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "react-table*"
+        ]
+      }
+    ]
+  }
 }

@@ -19,14 +19,17 @@
     "type": "git",
     "url": "git+https://github.com/google/wicked-good-xpath.git"
   },
-  "npmName": "wicked-good-xpath",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "wgxpath.install.js"
+  "filename": "wgxpath.install.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "wicked-good-xpath",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

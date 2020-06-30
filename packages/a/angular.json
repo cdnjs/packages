@@ -20,14 +20,17 @@
     "url": "git+https://github.com/angular/angular.git",
     "directory": "packages/core"
   },
-  "npmName": "@angular/core",
-  "npmFileMap": [
-    {
-      "basePath": "bundles",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "core.umd.min.js"
+  "filename": "core.umd.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@angular/core",
+    "fileMap": [
+      {
+        "basePath": "bundles",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

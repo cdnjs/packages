@@ -11,14 +11,17 @@
   ],
   "author": "Tsutomu Kawamura",
   "license": "MIT",
-  "npmName": "paper-css",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "paper*"
-      ]
-    }
-  ],
-  "filename": "paper.min.css"
+  "filename": "paper.min.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "paper-css",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "paper*"
+        ]
+      }
+    ]
+  }
 }

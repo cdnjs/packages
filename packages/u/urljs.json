@@ -13,13 +13,16 @@
   ],
   "author": "jillix <contact@jillix.com>",
   "license": "MIT",
-  "npmName": "urljs",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "urljs",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

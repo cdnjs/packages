@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/googlechrome/workbox.git"
   },
-  "npmName": "workbox-sw",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "workbox-sw.js"
+  "filename": "workbox-sw.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "workbox-sw",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

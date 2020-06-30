@@ -22,13 +22,16 @@
   "author": "Sandoche Adittane",
   "license": "MIT",
   "homepage": "https://github.com/sandoche/darkmode",
-  "npmName": "darkmode-js",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "darkmode-js",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

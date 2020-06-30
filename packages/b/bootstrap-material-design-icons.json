@@ -17,14 +17,17 @@
     "type": "git",
     "url": "git+https://github.com/mervick/material-design-icons.git"
   },
-  "npmName": "bootstrap-material-design-icons",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "{css,fonts,scss}/**/*"
-      ]
-    }
-  ],
-  "filename": "css/material-icons.min.css"
+  "filename": "css/material-icons.min.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-material-design-icons",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "{css,fonts,scss}/**/*"
+        ]
+      }
+    ]
+  }
 }

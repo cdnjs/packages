@@ -18,13 +18,16 @@
   ],
   "license": "Apache-2.0",
   "homepage": "https://docs.particle.io/",
-  "npmName": "particle-api-js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "particle-api-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

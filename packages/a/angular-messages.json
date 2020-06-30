@@ -18,13 +18,16 @@
   },
   "license": "MIT",
   "homepage": "http://angularjs.org",
-  "npmName": "angular-messages",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "angular-messages*.+(map|js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-messages",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "angular-messages*.+(map|js)"
+        ]
+      }
+    ]
+  }
 }

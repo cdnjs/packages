@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git://github.com/mqttjs/MQTT.js.git"
   },
-  "npmName": "mqtt",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "mqtt.min.js"
+  "filename": "mqtt.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mqtt",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

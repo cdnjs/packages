@@ -23,13 +23,16 @@
   },
   "license": "MIT",
   "author": "Tanner Linsley <@tannerlinsley>",
-  "npmName": "react-move",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-move",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

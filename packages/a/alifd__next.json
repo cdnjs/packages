@@ -16,17 +16,20 @@
   ],
   "license": "MIT",
   "name": "alifd__next",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "@alifd/next",
   "repository": {
     "type": "git",
     "url": "https://github.com/alibaba-fusion/next.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@alifd/next",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

@@ -1,15 +1,5 @@
 {
   "name": "sprintf",
-  "npmName": "sprintf-js",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "sprintf.js",
-        "sprintf.min.js"
-      ]
-    }
-  ],
   "filename": "sprintf.min.js",
   "description": "JavaScript sprintf implementation",
   "repository": {
@@ -26,5 +16,18 @@
     "email": "hello@alexei.ro",
     "url": "http://alexei.ro/"
   },
-  "license": "BSD"
+  "license": "BSD",
+  "autoupdate": {
+    "source": "npm",
+    "target": "sprintf-js",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "sprintf.js",
+          "sprintf.min.js"
+        ]
+      }
+    ]
+  }
 }

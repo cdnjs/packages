@@ -18,13 +18,16 @@
     "type": "git",
     "url": "git+https://github.com/Microsoft/tslib.git"
   },
-  "npmName": "tslib",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "tslib!(.node)*.+(js|map|css)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "tslib",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "tslib!(.node)*.+(js|map|css)"
+        ]
+      }
+    ]
+  }
 }

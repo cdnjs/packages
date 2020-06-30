@@ -24,13 +24,16 @@
     "type": "git",
     "url": "git+https://github.com/leojavier/aragonite-validator.git"
   },
-  "npmName": "aragonite-form-validator",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "aragonite-form-validator",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

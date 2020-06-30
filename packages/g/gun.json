@@ -31,14 +31,17 @@
     "type": "git",
     "url": "git+https://github.com/amark/gun.git"
   },
-  "npmName": "gun",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.@(js|ts)"
-      ]
-    }
-  ],
-  "filename": "gun.min.js"
+  "filename": "gun.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "gun",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

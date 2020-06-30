@@ -1,15 +1,5 @@
 {
   "name": "xlsx",
-  "npmName": "xlsx",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js",
-        "*.map"
-      ]
-    }
-  ],
   "filename": "xlsx.min.js",
   "description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer",
   "license": "Apache License, Version 2.0",
@@ -25,5 +15,18 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/SheetJS/js-xlsx.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "xlsx",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*.map"
+        ]
+      }
+    ]
   }
 }

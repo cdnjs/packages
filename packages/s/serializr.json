@@ -15,14 +15,17 @@
     "type": "git",
     "url": "https://github.com/mobxjs/serializr.git"
   },
-  "npmName": "serializr",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "**/*.@(js|ts)"
-      ]
-    }
-  ],
-  "filename": "serializr.min.js"
+  "filename": "serializr.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "serializr",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

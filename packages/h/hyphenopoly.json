@@ -18,17 +18,20 @@
   ],
   "license": "MIT",
   "name": "hyphenopoly",
-  "npmFileMap": [
-    {
-      "basePath": "min",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "hyphenopoly",
   "repository": {
     "type": "git",
     "url": "https://github.com/mnater/Hyphenopoly"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "hyphenopoly",
+    "fileMap": [
+      {
+        "basePath": "min",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

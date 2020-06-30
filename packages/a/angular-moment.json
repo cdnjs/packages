@@ -2,17 +2,6 @@
   "name": "angular-moment",
   "filename": "angular-moment.min.js",
   "description": "Angular.JS directives for Moment.JS (timeago alternative)",
-  "npmName": "angular-moment",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "angular-moment.js",
-        "angular-moment.min.js",
-        "angular-moment.min.js.map"
-      ]
-    }
-  ],
   "author": {
     "name": "Uri Shaked"
   },
@@ -25,5 +14,19 @@
     "moment",
     "timeago"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-moment",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "angular-moment.js",
+          "angular-moment.min.js",
+          "angular-moment.min.js.map"
+        ]
+      }
+    ]
+  }
 }

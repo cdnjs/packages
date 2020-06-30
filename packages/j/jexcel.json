@@ -25,13 +25,16 @@
     "data-spreadsheet"
   ],
   "license": "MIT",
-  "npmName": "jexcel",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(excel-formula|jquery.csv)*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jexcel",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(excel-formula|jquery.csv)*"
+        ]
+      }
+    ]
+  }
 }

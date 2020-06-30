@@ -23,14 +23,17 @@
     "international",
     "libphonenumber"
   ],
-  "npmName": "libphonenumber-js",
-  "npmFileMap": [
-    {
-      "basePath": "bundle",
-      "files": [
-        "libphonenumber-js*"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "libphonenumber-js",
+    "fileMap": [
+      {
+        "basePath": "bundle",
+        "files": [
+          "libphonenumber-js*"
+        ]
+      }
+    ]
+  }
 }

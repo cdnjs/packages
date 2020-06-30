@@ -14,13 +14,16 @@
     "Leaflet"
   ],
   "homepage": "https://esri.github.io/esri-leaflet/examples/geocoding-control.html",
-  "npmName": "esri-leaflet-geocoder",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "esri-leaflet-geocoder",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

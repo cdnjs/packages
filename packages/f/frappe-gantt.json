@@ -21,13 +21,16 @@
   ],
   "author": "Faris Ansari",
   "license": "MIT",
-  "npmName": "frappe-gantt",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "frappe-gantt",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

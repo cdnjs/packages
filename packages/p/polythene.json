@@ -13,13 +13,16 @@
   },
   "author": "Arthur Clemens",
   "homepage": "https://polythene.js.org/#/polythene",
-  "npmName": "polythene",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "polythene-standalone*js*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "polythene",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "polythene-standalone*js*"
+        ]
+      }
+    ]
+  }
 }

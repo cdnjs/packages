@@ -11,18 +11,21 @@
   ],
   "license": "Apache-2.0",
   "name": "request",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.js",
-        "lib/*.js"
-      ]
-    }
-  ],
-  "npmName": "request",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/request/request.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "request",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js",
+          "lib/*.js"
+        ]
+      }
+    ]
   }
 }

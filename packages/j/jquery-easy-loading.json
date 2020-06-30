@@ -20,14 +20,17 @@
     "type": "git",
     "url": "git+ssh://git@github.com/CarlosBonetti/jquery-loading.git"
   },
-  "npmName": "jquery-easy-loading",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "jquery.loading.min.js"
+  "filename": "jquery.loading.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-easy-loading",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

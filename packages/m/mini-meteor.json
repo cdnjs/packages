@@ -1,14 +1,5 @@
 {
   "name": "mini-meteor",
-  "npmName": "mini-meteor",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
   "description": "Select Client-side components of MeteorJS",
   "filename": "mini-meteor.min.js",
   "repository": {
@@ -23,5 +14,17 @@
     "rx"
   ],
   "author": "Dean Radcliffe <deanmisc@yahoo.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mini-meteor",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

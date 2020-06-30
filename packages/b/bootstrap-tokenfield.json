@@ -14,16 +14,6 @@
     "select",
     "form"
   ],
-  "npmName": "bootstrap-tokenfield",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*",
-        "css/*"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/sliptree/bootstrap-tokenfield.git"
@@ -32,5 +22,18 @@
   "author": {
     "name": "ragulka",
     "url": "https://github.com/ragulka"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-tokenfield",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*",
+          "css/*"
+        ]
+      }
+    ]
   }
 }

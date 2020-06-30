@@ -21,19 +21,22 @@
     "GPL-2.0"
   ],
   "author": "Simon Porritt",
-  "npmName": "jsplumb",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "css/jsplumbtoolkit-defaults.css"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jsplumb",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "css/jsplumbtoolkit-defaults.css"
+        ]
+      }
+    ]
+  }
 }

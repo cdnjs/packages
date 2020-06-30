@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/mozilla-services/react-jsonschema-form.git"
   },
-  "npmName": "react-jsonschema-form",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "react-jsonschema-form.js"
+  "filename": "react-jsonschema-form.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-jsonschema-form",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

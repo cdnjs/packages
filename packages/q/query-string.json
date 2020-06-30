@@ -19,17 +19,20 @@
   ],
   "license": "MIT",
   "name": "query-string",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "index.*"
-      ]
-    }
-  ],
-  "npmName": "query-string",
   "repository": {
     "type": "git",
     "url": "https://github.com/SaneMethod/sindresorhus/query-string.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "query-string",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.*"
+        ]
+      }
+    ]
   }
 }

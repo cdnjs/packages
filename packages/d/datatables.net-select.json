@@ -12,17 +12,20 @@
   ],
   "license": "MIT",
   "name": "datatables.net-select",
-  "npmFileMap": [
-    {
-      "basePath": "js",
-      "files": [
-        "dataTables.select*"
-      ]
-    }
-  ],
-  "npmName": "datatables.net-select",
   "repository": {
     "type": "git",
     "url": "https://github.com/DataTables/Select.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-select",
+    "fileMap": [
+      {
+        "basePath": "js",
+        "files": [
+          "dataTables.select*"
+        ]
+      }
+    ]
   }
 }

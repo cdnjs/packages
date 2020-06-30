@@ -15,17 +15,20 @@
   ],
   "license": "MIT",
   "name": "loading-attribute-polyfill",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "loading-attribute-polyfill*.js"
-      ]
-    }
-  ],
-  "npmName": "loading-attribute-polyfill",
   "repository": {
     "type": "git",
     "url": "git://github.com/mfranzke/loading-attribute-polyfill.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "loading-attribute-polyfill",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "loading-attribute-polyfill*.js"
+        ]
+      }
+    ]
   }
 }

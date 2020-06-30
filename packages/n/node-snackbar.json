@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/polonel/SnackBar.git"
   },
-  "npmName": "node-snackbar",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css|map)"
-      ]
-    }
-  ],
-  "filename": "snackbar.min.js"
+  "filename": "snackbar.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "node-snackbar",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

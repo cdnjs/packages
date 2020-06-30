@@ -1,15 +1,6 @@
 {
   "name": "leaflet-realtime",
   "filename": "leaflet-realtime.min.js",
-  "npmName": "leaflet-realtime",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "description": "Show realtime updated GeoJSON in Leaflet",
   "repository": {
     "type": "git",
@@ -23,5 +14,17 @@
     "name": "Per Liedman",
     "email": "per@liedman.net"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "autoupdate": {
+    "source": "npm",
+    "target": "leaflet-realtime",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

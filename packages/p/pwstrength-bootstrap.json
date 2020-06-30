@@ -19,13 +19,16 @@
     "GPL-3.0",
     "MIT"
   ],
-  "npmName": "pwstrength-bootstrap",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "pwstrength-bootstrap",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

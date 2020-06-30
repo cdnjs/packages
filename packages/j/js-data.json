@@ -29,15 +29,18 @@
     "http",
     "localstorage"
   ],
-  "npmName": "js-data",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.ts|*.flow.js)"
-      ]
-    }
-  ],
   "filename": "js-data.min.js",
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "js-data",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.ts|*.flow.js)"
+        ]
+      }
+    ]
+  }
 }

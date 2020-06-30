@@ -13,17 +13,20 @@
   ],
   "license": "ISC",
   "name": "react-imgix",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "react-imgix",
   "repository": {
     "type": "git",
     "url": "git@github.com:imgix/react-imgix.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-imgix",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

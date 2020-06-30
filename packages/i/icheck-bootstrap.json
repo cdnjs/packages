@@ -14,17 +14,20 @@
   ],
   "license": "MIT",
   "name": "icheck-bootstrap",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "**/*.css"
-      ]
-    }
-  ],
-  "npmName": "icheck-bootstrap",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bantikyan/icheck-bootstrap.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "icheck-bootstrap",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.css"
+        ]
+      }
+    ]
   }
 }

@@ -1,16 +1,5 @@
 {
   "name": "jmpress",
-  "npmName": "jmpress",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.js",
-        "*.css",
-        "plugin/*"
-      ]
-    }
-  ],
   "filename": "jmpress.min.js",
   "title": "jQuery.jmpress()",
   "description": "A jQuery plugin to build a website on the infinite canvas.",
@@ -26,5 +15,19 @@
   "license": "MIT",
   "keywords": [
     "jmpress"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "jmpress",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js",
+          "*.css",
+          "plugin/*"
+        ]
+      }
+    ]
+  }
 }

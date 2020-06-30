@@ -12,19 +12,22 @@
     "filesystem",
     "storage"
   ],
-  "npmName": "dropbox",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/dropbox/dropbox-sdk-js"
   },
   "license": "MIT",
-  "author": "Riley Tomasek"
+  "author": "Riley Tomasek",
+  "autoupdate": {
+    "source": "npm",
+    "target": "dropbox",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

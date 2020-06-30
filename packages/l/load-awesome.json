@@ -13,17 +13,20 @@
   ],
   "license": "MIT",
   "name": "load-awesome",
-  "npmFileMap": [
-    {
-      "basePath": "css",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "load-awesome",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danielcardoso/load-awesome.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "load-awesome",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

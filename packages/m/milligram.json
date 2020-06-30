@@ -30,13 +30,16 @@
     "style",
     "stylesheet"
   ],
-  "npmName": "milligram",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "milligram.*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "milligram",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "milligram.*"
+        ]
+      }
+    ]
+  }
 }

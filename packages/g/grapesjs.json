@@ -23,13 +23,16 @@
     "newsletter",
     "wysiwyg"
   ],
-  "npmName": "grapesjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(fontawesome|FontAwesome)*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "grapesjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(fontawesome|FontAwesome)*"
+        ]
+      }
+    ]
+  }
 }

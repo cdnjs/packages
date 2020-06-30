@@ -15,13 +15,16 @@
     "svg"
   ],
   "homepage": "https://feathericons.com/",
-  "npmName": "feather-icons",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/feather*.+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "feather-icons",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/feather*.+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

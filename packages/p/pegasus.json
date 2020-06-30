@@ -25,13 +25,16 @@
   ],
   "author": "Typicode <typicode@gmail.com>",
   "license": "MIT",
-  "npmName": "@typicode/pegasus",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@typicode/pegasus",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

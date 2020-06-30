@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git://github.com/mailgun/mailgun-js.git"
   },
-  "npmName": "mailgun.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "mailgun.min.js"
+  "filename": "mailgun.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mailgun.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

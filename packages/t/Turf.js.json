@@ -35,13 +35,16 @@
   ],
   "author": "morganherlocker",
   "license": "MIT",
-  "npmName": "@turf/turf",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "turf.+(js|min.js)?(.map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@turf/turf",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "turf.+(js|min.js)?(.map)"
+        ]
+      }
+    ]
+  }
 }

@@ -13,14 +13,17 @@
     "type": "git",
     "url": "git+https://github.com/uuidjs/uuid.git"
   },
-  "npmName": "uuid",
-  "npmFileMap": [
-    {
-      "basePath": "dist/umd",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "uuid.min.js"
+  "filename": "uuid.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "uuid",
+    "fileMap": [
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

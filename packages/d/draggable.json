@@ -15,13 +15,16 @@
     "drag-and-drop",
     "es6"
   ],
-  "npmName": "@shopify/draggable",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "!(utils).js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@shopify/draggable",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "!(utils).js"
+        ]
+      }
+    ]
+  }
 }

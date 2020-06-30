@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/stephband/jquery.event.move.git"
   },
-  "npmName": "jquery.event.move",
-  "npmFileMap": [
-    {
-      "basePath": "js",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "jquery.event.move.js"
+  "filename": "jquery.event.move.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery.event.move",
+    "fileMap": [
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

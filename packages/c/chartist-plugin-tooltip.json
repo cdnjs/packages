@@ -12,14 +12,17 @@
     "type": "git",
     "url": "git+https://github.com/CodeYellowBV/chartist-plugin-tooltip.git"
   },
-  "npmName": "chartist-plugin-tooltip",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "chartist-plugin-tooltip.js"
-      ]
-    }
-  ],
-  "filename": "chartist-plugin-tooltip.js"
+  "filename": "chartist-plugin-tooltip.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "chartist-plugin-tooltip",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "chartist-plugin-tooltip.js"
+        ]
+      }
+    ]
+  }
 }

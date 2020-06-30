@@ -14,13 +14,16 @@
   ],
   "author": "Paul Le Cam <paul@ulem.net>",
   "license": "MIT",
-  "npmName": "react-leaflet",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-leaflet",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

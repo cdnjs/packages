@@ -15,14 +15,17 @@
     "type": "git",
     "url": "https://github.com/amvtek/EventSource.git"
   },
-  "npmName": "eventsource-polyfill",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "browserify-eventsource.js"
+  "filename": "browserify-eventsource.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "eventsource-polyfill",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

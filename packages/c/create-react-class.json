@@ -11,14 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/facebook/react.git"
   },
-  "npmName": "create-react-class",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "create-react-class*.js"
-      ]
-    }
-  ],
-  "filename": "create-react-class.min.js"
+  "filename": "create-react-class.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "create-react-class",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "create-react-class*.js"
+        ]
+      }
+    ]
+  }
 }

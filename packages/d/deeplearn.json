@@ -9,14 +9,17 @@
     "type": "git",
     "url": "git+https://github.com/PAIR-code/deeplearnjs.git"
   },
-  "npmName": "deeplearn",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|ts)"
-      ]
-    }
-  ],
-  "filename": "deeplearn.min.js"
+  "filename": "deeplearn.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "deeplearn",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

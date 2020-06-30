@@ -14,17 +14,20 @@
   ],
   "license": "MIT",
   "name": "turndown",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "turndown",
   "repository": {
     "type": "git",
     "url": "https://github.com/domchristie/turndown.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "turndown",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

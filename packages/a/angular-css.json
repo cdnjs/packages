@@ -11,17 +11,20 @@
   ],
   "license": "MIT",
   "name": "angular-css",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "npmName": "angular-css",
   "repository": {
     "type": "git",
     "url": "git://github.com/castillo-io/angular-css"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-css",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
   }
 }

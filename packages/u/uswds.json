@@ -8,16 +8,19 @@
   },
   "author": "18F",
   "license": "SEE LICENSE in LICENSE.md",
-  "npmName": "uswds",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.md|*.scss)"
-      ]
-    }
-  ],
   "keywords": [
     "uswds"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "uswds",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.md|*.scss)"
+        ]
+      }
+    ]
+  }
 }

@@ -11,19 +11,22 @@
     "rendering",
     "webgl"
   ],
-  "npmName": "pixi.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/pixijs/pixi.js.git"
   },
   "license": "MIT",
-  "author": "Mat Groves"
+  "author": "Mat Groves",
+  "autoupdate": {
+    "source": "npm",
+    "target": "pixi.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

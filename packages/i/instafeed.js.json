@@ -7,18 +7,21 @@
     "type": "git",
     "url": "https://github.com/stevenschobert/instafeed.js.git"
   },
-  "npmName": "instafeed.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "instafeed*"
-      ]
-    }
-  ],
   "license": "MIT",
   "keywords": [
     "javascript",
     "instagram"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "instafeed.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "instafeed*"
+        ]
+      }
+    ]
+  }
 }

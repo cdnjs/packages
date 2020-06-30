@@ -9,17 +9,20 @@
     "type": "git",
     "url": "https://github.com/discolabs/cartjs.git"
   },
-  "npmName": "shopify-cartjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "keywords": [
     "shopify",
     "ajax"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "shopify-cartjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/ecomfe/vue-echarts.git"
   },
-  "npmName": "vue-echarts",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "vue-echarts.js"
+  "filename": "vue-echarts.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-echarts",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

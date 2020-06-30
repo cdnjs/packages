@@ -24,14 +24,17 @@
     "type": "git",
     "url": "git+https://github.com/netop/natsort.git"
   },
-  "npmName": "natsort",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "natsort.min.js"
+  "filename": "natsort.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "natsort",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

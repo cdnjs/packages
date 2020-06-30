@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git://github.com/krakenjs/zoid.git"
   },
-  "npmName": "zoid",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "zoid.min.js"
+  "filename": "zoid.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "zoid",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

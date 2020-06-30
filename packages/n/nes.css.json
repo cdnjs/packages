@@ -15,13 +15,16 @@
     "nes",
     "framework"
   ],
-  "npmName": "nes.css",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "css/nes*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "nes.css",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/nes*"
+        ]
+      }
+    ]
+  }
 }

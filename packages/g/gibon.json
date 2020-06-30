@@ -26,13 +26,16 @@
     "virtual-dom",
     "virtual"
   ],
-  "npmName": "gibon",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.!(*gz)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "gibon",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.!(*gz)"
+        ]
+      }
+    ]
+  }
 }

@@ -14,17 +14,20 @@
   ],
   "license": "BSD-3-Clause",
   "name": "collections",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "npmName": "collections",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/montagejs/collections.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "collections",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
   }
 }

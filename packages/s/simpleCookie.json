@@ -9,17 +9,20 @@
   ],
   "license": "ISC",
   "name": "simpleCookie",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "simpleCookie.js"
-      ]
-    }
-  ],
-  "npmName": "simplecookie",
   "repository": {
     "type": "git",
     "url": "https://github.com/tevko/simpleCookie.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "simplecookie",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "simpleCookie.js"
+        ]
+      }
+    ]
   }
 }

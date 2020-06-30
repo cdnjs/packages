@@ -13,18 +13,21 @@
   ],
   "license": "MIT",
   "name": "ally.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "ally.min.js",
-        "ally.min.js.map"
-      ]
-    }
-  ],
-  "npmName": "ally.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/medialize/ally.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "ally.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "ally.min.js",
+          "ally.min.js.map"
+        ]
+      }
+    ]
   }
 }

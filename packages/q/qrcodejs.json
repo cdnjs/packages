@@ -8,17 +8,20 @@
   ],
   "license": "MIT",
   "name": "qrcodejs",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "qrcode?(.min).js"
-      ]
-    }
-  ],
-  "npmName": "qrcodejs",
   "repository": {
     "type": "git",
     "url": "https://github.com/davidshimjs/qrcodejs.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "qrcodejs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "qrcode?(.min).js"
+        ]
+      }
+    ]
   }
 }

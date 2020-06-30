@@ -10,17 +10,20 @@
   ],
   "license": "MIT",
   "name": "deep-diff",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "deep-diff",
   "repository": {
     "type": "git",
     "url": "git://github.com/flitbit/diff.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "deep-diff",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

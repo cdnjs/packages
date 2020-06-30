@@ -15,19 +15,22 @@
     "webm"
   ],
   "author": "Dave Hall",
-  "npmName": "html5media",
-  "npmFileMap": [
-    {
-      "basePath": "dist/api",
-      "files": [
-        "*.js",
-        "*.swf"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/etianen/html5media.git"
   },
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "autoupdate": {
+    "source": "npm",
+    "target": "html5media",
+    "fileMap": [
+      {
+        "basePath": "dist/api",
+        "files": [
+          "*.js",
+          "*.swf"
+        ]
+      }
+    ]
+  }
 }

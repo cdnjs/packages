@@ -7,19 +7,22 @@
     "maps",
     "mobile"
   ],
-  "npmName": "leaflet.locatecontrol",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/domoritz/leaflet-locatecontrol"
   },
-  "author": "Dominik Moritz"
+  "author": "Dominik Moritz",
+  "autoupdate": {
+    "source": "npm",
+    "target": "leaflet.locatecontrol",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

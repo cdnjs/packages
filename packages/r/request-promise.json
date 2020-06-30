@@ -15,17 +15,20 @@
   ],
   "license": "ISC",
   "name": "request-promise",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "rp.js"
-      ]
-    }
-  ],
-  "npmName": "request-promise",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/request/request-promise.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "request-promise",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "rp.js"
+        ]
+      }
+    ]
   }
 }

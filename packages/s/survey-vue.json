@@ -19,13 +19,16 @@
     "name": "andrewtelnov",
     "email": "andrew.telnov@gmail.com"
   },
-  "npmName": "survey-vue",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "survey!(*.ts|*-vue.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "survey-vue",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "survey!(*.ts|*-vue.js)"
+        ]
+      }
+    ]
+  }
 }

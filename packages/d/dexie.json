@@ -14,13 +14,16 @@
   "author": "David Fahlander",
   "license": "Apache-2.0",
   "homepage": "http://www.dexie.org",
-  "npmName": "dexie",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(dexie.es*).+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "dexie",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(dexie.es*).+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

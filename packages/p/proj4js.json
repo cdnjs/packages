@@ -6,18 +6,21 @@
   "keywords": [
     "projection"
   ],
-  "npmName": "proj4",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/proj4js/proj4js.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "proj4",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

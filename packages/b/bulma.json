@@ -19,13 +19,16 @@
     "responsive",
     "framework"
   ],
-  "npmName": "bulma",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "css/bulma*.+(css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "bulma",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/bulma*.+(css|map)"
+        ]
+      }
+    ]
+  }
 }

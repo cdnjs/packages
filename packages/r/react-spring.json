@@ -17,13 +17,16 @@
     "type": "git",
     "url": "git+https://github.com/drcmda/react-spring.git"
   },
-  "npmName": "react-spring",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.@(js|ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-spring",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

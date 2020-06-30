@@ -8,21 +8,24 @@
     "file",
     "upload"
   ],
-  "npmName": "dropzone",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js",
-        "*.css",
-        "*/*.js",
-        "*/*.css"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/enyo/dropzone.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "dropzone",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*.css",
+          "*/*.js",
+          "*/*.css"
+        ]
+      }
+    ]
+  }
 }

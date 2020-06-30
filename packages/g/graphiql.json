@@ -6,20 +6,23 @@
     "url": "https://github.com/graphql/graphiql.git"
   },
   "filename": "graphiql.min.js",
-  "npmName": "graphiql",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "graphiql*"
-      ]
-    }
-  ],
   "license": {
     "type": "customized",
     "url": "https://github.com/graphql/graphiql/raw/master/LICENSE"
   },
   "keywords": [
     "graphiql"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "graphiql",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "graphiql*"
+        ]
+      }
+    ]
+  }
 }

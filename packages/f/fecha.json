@@ -16,13 +16,16 @@
     "fecha",
     "formatting"
   ],
-  "npmName": "fecha",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "fecha*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "fecha",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "fecha*"
+        ]
+      }
+    ]
+  }
 }

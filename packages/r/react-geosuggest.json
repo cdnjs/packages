@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git+https://github.com/ubilabs/react-geosuggest.git"
   },
-  "npmName": "react-geosuggest",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "react-geosuggest.min.js"
+  "filename": "react-geosuggest.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-geosuggest",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

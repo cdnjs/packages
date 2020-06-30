@@ -13,13 +13,16 @@
   ],
   "author": "Dash Industry Forum",
   "license": "BSD-3-Clause",
-  "npmName": "dashjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "dashjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

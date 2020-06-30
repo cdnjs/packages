@@ -14,13 +14,16 @@
     "url": "git://github.com/antennaio/jquery-bar-rating.git"
   },
   "license": "MIT",
-  "npmName": "jquery-bar-rating",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-bar-rating",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

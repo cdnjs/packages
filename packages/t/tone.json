@@ -16,17 +16,20 @@
   ],
   "license": "MIT",
   "name": "tone",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "Tone*"
-      ]
-    }
-  ],
-  "npmName": "tone",
   "repository": {
     "type": "git",
     "url": "https://github.com/Tonejs/Tone.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "tone",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "Tone*"
+        ]
+      }
+    ]
   }
 }

@@ -12,15 +12,6 @@
     "type": "git",
     "url": "https://github.com/scribbletune/scribbletune.git"
   },
-  "npmName": "scribbletune",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "scribbletune.js"
-      ]
-    }
-  ],
   "keywords": [
     "music",
     "javascript",
@@ -30,5 +21,17 @@
     "midi",
     "audio",
     "synth"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "scribbletune",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "scribbletune.js"
+        ]
+      }
+    ]
+  }
 }

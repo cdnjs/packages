@@ -15,17 +15,20 @@
   ],
   "license": "MIT",
   "name": "bounce.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "bounce*"
-      ]
-    }
-  ],
-  "npmName": "bounce.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/tictail/bounce.js"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "bounce.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "bounce*"
+        ]
+      }
+    ]
   }
 }

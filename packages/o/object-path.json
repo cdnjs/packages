@@ -22,17 +22,20 @@
   ],
   "license": "MIT",
   "name": "object-path",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "index.js"
-      ]
-    }
-  ],
-  "npmName": "object-path",
   "repository": {
     "type": "git",
     "url": "git://github.com/mariocasciaro/object-path.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "object-path",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
   }
 }

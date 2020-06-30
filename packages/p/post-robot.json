@@ -14,17 +14,20 @@
   ],
   "license": "Apache-2.0",
   "name": "post-robot",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "post-robot",
   "repository": {
     "type": "git",
     "url": "git://github.com/krakenjs/post-robot.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "post-robot",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

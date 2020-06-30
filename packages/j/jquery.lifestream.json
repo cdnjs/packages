@@ -11,20 +11,23 @@
     "type": "git",
     "url": "git+https://github.com/christianvuerings/jquery-lifestream.git"
   },
-  "npmName": "jquery-lifestream",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jquery.lifestream?(.min).js"
-      ]
-    },
-    {
-      "basePath": "css",
-      "files": [
-        "*.css"
-      ]
-    }
-  ],
-  "filename": "jquery.lifestream.min.js"
+  "filename": "jquery.lifestream.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-lifestream",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery.lifestream?(.min).js"
+        ]
+      },
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  }
 }

@@ -6,17 +6,20 @@
   "keywords": [],
   "license": "MIT",
   "name": "react-dnd",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "react-dnd",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/react-dnd/react-dnd.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-dnd",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

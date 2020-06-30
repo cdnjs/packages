@@ -19,14 +19,17 @@
   ],
   "author": "Jeff Wainwright <jjwainwright2@gmail.com> (https://jeffry.in)",
   "homepage": "https://dollarshaveclub.github.io/reframe.js/",
-  "npmName": "reframe.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.scss|*.es.js)"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "reframe.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.scss|*.es.js)"
+        ]
+      }
+    ]
+  }
 }

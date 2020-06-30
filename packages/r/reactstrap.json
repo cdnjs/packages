@@ -18,13 +18,16 @@
   },
   "license": "MIT",
   "author": "Eddy Hernandez <edward.d.hernandez@gmail.com> (https://github.com/eddywashere)",
-  "npmName": "reactstrap",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/reactstrap!(*.es.*|*.cjs.*)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "reactstrap",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/reactstrap!(*.es.*|*.cjs.*)"
+        ]
+      }
+    ]
+  }
 }

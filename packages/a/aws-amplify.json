@@ -11,14 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/aws-amplify/amplify-js.git"
   },
-  "npmName": "aws-amplify",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "aws-amplify.min.js"
+  "filename": "aws-amplify.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "aws-amplify",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

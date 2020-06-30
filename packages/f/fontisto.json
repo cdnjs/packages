@@ -29,14 +29,17 @@
     "type": "git",
     "url": "git+https://github.com/kenangundogan/fontisto.git"
   },
-  "npmName": "fontisto",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "{css,fonts,icons,sass}/**/*"
-      ]
-    }
-  ],
-  "filename": "css/fontisto/fontisto.min.css"
+  "filename": "css/fontisto/fontisto.min.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "fontisto",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "{css,fonts,icons,sass}/**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -22,13 +22,16 @@
     "url": "git+https://github.com/SlexAxton/messageformat.js.git"
   },
   "filename": "messageformat.min.js",
-  "npmName": "messageformat",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "messageformat.+(min.js|js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "messageformat",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "messageformat.+(min.js|js)"
+        ]
+      }
+    ]
+  }
 }

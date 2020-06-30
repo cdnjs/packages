@@ -19,13 +19,16 @@
     "webxr",
     "polyfill"
   ],
-  "npmName": "webvr-polyfill",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/!(*license)*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "webvr-polyfill",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/!(*license)*"
+        ]
+      }
+    ]
+  }
 }

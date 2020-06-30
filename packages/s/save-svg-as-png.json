@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/exupero/saveSvgAsPng.git"
   },
-  "npmName": "save-svg-as-png",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "saveSvgAsPng.js"
+  "filename": "saveSvgAsPng.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "save-svg-as-png",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

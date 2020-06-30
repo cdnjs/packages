@@ -14,13 +14,16 @@
     "type": "git",
     "url": "https://github.com/sutoiku/formula.js.git"
   },
-  "npmName": "formulajs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "formulajs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

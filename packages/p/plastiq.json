@@ -2,16 +2,6 @@
   "name": "plastiq",
   "filename": "plastiq.min.js",
   "description": "A fast, feature rich and simple framework for building dynamic browser applications.",
-  "npmName": "angular-moment",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "plastiq.js",
-        "plastiq.min.js"
-      ]
-    }
-  ],
   "keywords": [
     "virtual-dom",
     "front-end",
@@ -25,5 +15,18 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/featurist/plastiq.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-moment",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "plastiq.js",
+          "plastiq.min.js"
+        ]
+      }
+    ]
   }
 }

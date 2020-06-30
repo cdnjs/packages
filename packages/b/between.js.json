@@ -13,17 +13,20 @@
   "license": "MIT",
   "name": "between.js",
   "namespace": "between.js",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "between.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sasha240100/between.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "between.js",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

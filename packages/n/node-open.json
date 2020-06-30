@@ -38,14 +38,17 @@
     "type": "git",
     "url": "git+https://github.com/sindresorhus/open.git"
   },
-  "npmName": "open",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.@(js|ts)"
-      ]
-    }
-  ],
-  "filename": "index.js"
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "open",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

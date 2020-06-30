@@ -1,14 +1,5 @@
 {
   "name": "jquery.terminal",
-  "npmName": "jquery.terminal",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "+(js|css)/jquery.terminal?(.min).+(js|css)"
-      ]
-    }
-  ],
   "filename": "js/jquery.terminal.min.js",
   "description": "jQuery Terminal Emulator is a plugin for creating command line interpreters in your applications.",
   "keywords": [
@@ -32,5 +23,17 @@
     "type": "git",
     "url": "git+https://github.com/jcubic/jquery.terminal.git"
   },
-  "homepage": "http://terminal.jcubic.pl"
+  "homepage": "http://terminal.jcubic.pl",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery.terminal",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "+(js|css)/jquery.terminal?(.min).+(js|css)"
+        ]
+      }
+    ]
+  }
 }

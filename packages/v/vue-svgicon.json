@@ -19,14 +19,17 @@
     "type": "git",
     "url": "git+https://github.com/MMF-FE/vue-svgicon.git"
   },
-  "npmName": "vue-svgicon",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|ts|map)"
-      ]
-    }
-  ],
-  "filename": "components/svgicon.umd.min.js"
+  "filename": "components/svgicon.umd.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-svgicon",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|ts|map)"
+        ]
+      }
+    ]
+  }
 }

@@ -22,17 +22,20 @@
   ],
   "license": "MIT",
   "name": "icepick",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "npmName": "icepick",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/aearly/icepick.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "icepick",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
   }
 }

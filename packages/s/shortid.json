@@ -16,17 +16,20 @@
   ],
   "license": "MIT",
   "name": "shortid",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "shortid",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dylang/shortid.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "shortid",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

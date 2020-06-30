@@ -21,13 +21,16 @@
     "dom"
   ],
   "filename": "frzr.min.js",
-  "npmName": "frzr",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "frzr*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "frzr",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "frzr*.js"
+        ]
+      }
+    ]
+  }
 }

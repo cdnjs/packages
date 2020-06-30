@@ -12,13 +12,16 @@
     "interpolation"
   ],
   "author": "tween.js contributors (https://github.com/tweenjs/tween.js/graphs/contributors)",
-  "npmName": "@tweenjs/tween.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "tween.*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@tweenjs/tween.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "tween.*"
+        ]
+      }
+    ]
+  }
 }

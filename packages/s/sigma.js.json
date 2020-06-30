@@ -13,16 +13,19 @@
     "url": "https://github.com/jacomyal/sigma.js.git"
   },
   "license": "MIT",
-  "npmName": "sigma",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "keywords": [
     "sigma.js"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "sigma",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

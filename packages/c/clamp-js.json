@@ -17,14 +17,17 @@
     "type": "git",
     "url": "https://github.com/xavi160/Clamp.js.git"
   },
-  "npmName": "clamp-js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "clamp.js"
-      ]
-    }
-  ],
-  "filename": "clamp.js"
+  "filename": "clamp.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "clamp-js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "clamp.js"
+        ]
+      }
+    ]
+  }
 }

@@ -17,13 +17,16 @@
     "reactjs",
     "reactive"
   ],
-  "npmName": "mobx-react",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "+(index|custom|native).+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "mobx-react",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "+(index|custom|native).+(js|map)"
+        ]
+      }
+    ]
+  }
 }

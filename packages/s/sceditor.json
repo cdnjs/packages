@@ -18,13 +18,16 @@
     "ecosystem:jquery"
   ],
   "filename": "jquery.sceditor.min.js",
-  "npmName": "sceditor",
-  "npmFileMap": [
-    {
-      "basePath": "minified",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "sceditor",
+    "fileMap": [
+      {
+        "basePath": "minified",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

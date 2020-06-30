@@ -15,17 +15,20 @@
   ],
   "homepage": "https://eventbrite.github.io/britecharts/",
   "author": "Eventbrite",
-  "npmName": "britecharts",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/eventbrite/britecharts.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "britecharts",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

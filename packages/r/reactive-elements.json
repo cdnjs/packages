@@ -18,13 +18,16 @@
     "url": "https://pixelscommander.com/"
   },
   "license": "MIT",
-  "npmName": "reactive-elements",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "reactive-elements",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -19,13 +19,16 @@
   },
   "license": "MIT",
   "homepage": "http://angularjs.org",
-  "npmName": "angular-touch",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "angular-touch*.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-touch",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "angular-touch*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

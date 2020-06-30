@@ -21,17 +21,20 @@
   ],
   "license": "AGPL-3.0-only",
   "name": "infinite-ajax-scroll",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*"
-      ]
-    }
-  ],
-  "npmName": "@webcreate/infinite-ajax-scroll",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/webcreate/infinite-ajax-scroll.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@webcreate/infinite-ajax-scroll",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*"
+        ]
+      }
+    ]
   }
 }

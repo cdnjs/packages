@@ -20,16 +20,19 @@
     "type": "git",
     "url": "git+https://github.com/BlackrockDigital/startbootstrap-sb-admin.git"
   },
-  "npmName": "startbootstrap-sb-admin",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "css/*.css",
-        "js/*.js",
-        "scss/*.scss"
-      ]
-    }
-  ],
-  "filename": "css/sb-admin.min.css"
+  "filename": "css/sb-admin.min.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "startbootstrap-sb-admin",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/*.css",
+          "js/*.js",
+          "scss/*.scss"
+        ]
+      }
+    ]
+  }
 }

@@ -9,24 +9,27 @@
   ],
   "license": "MIT",
   "name": "geomicons-open",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*json|*.gz)"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "geomicons*",
-        "icons/*"
-      ]
-    }
-  ],
-  "npmName": "geomicons-open",
   "repository": {
     "type": "git",
     "url": "git://github.com/jxnblk/geomicons-open.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "geomicons-open",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*json|*.gz)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "geomicons*",
+          "icons/*"
+        ]
+      }
+    ]
   }
 }

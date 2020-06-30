@@ -17,13 +17,16 @@
   },
   "license": "BSD-3-Clause",
   "author": "Jason Quense",
-  "npmName": "react-transition-group",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-transition-group",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -26,17 +26,20 @@
   ],
   "license": "MIT",
   "name": "react-extras",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "react-extras",
   "repository": {
     "type": "git",
     "url": "https://github.com/sindresorhus/react-extras"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-extras",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

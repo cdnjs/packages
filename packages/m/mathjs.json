@@ -20,14 +20,17 @@
     "matrix",
     "unit"
   ],
-  "npmName": "mathjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mathjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

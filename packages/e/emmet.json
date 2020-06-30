@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git+https://github.com/emmetio/emmet.git"
   },
-  "npmName": "emmet",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|ts|map)"
-      ]
-    }
-  ],
-  "filename": "emmet.cjs.js"
+  "filename": "emmet.cjs.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "emmet",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|ts|map)"
+        ]
+      }
+    ]
+  }
 }

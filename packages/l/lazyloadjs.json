@@ -17,13 +17,16 @@
     "type": "git",
     "url": "git+https://github.com/vvo/lazyload.git"
   },
-  "npmName": "lazyloadjs",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "lazyloadjs",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

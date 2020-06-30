@@ -16,13 +16,16 @@
   "author": "dnp_theme",
   "license": "MIT",
   "homepage": "http://thednp.github.io/bootstrap.native/",
-  "npmName": "bootstrap.native",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap.native",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

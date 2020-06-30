@@ -13,13 +13,16 @@
     "type": "git",
     "url": "git://github.com/oakmac/chessboardjs.git"
   },
-  "npmName": "@chrisoakman/chessboardjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@chrisoakman/chessboardjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

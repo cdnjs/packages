@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/wagenaartje/neataptic.git"
   },
-  "npmName": "neataptic",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "neataptic.js"
+  "filename": "neataptic.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "neataptic",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

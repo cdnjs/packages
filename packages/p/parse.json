@@ -13,13 +13,16 @@
     "type": "git",
     "url": "https://github.com/ParsePlatform/Parse-SDK-JS"
   },
-  "npmName": "parse",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "parse",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

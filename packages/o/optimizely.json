@@ -11,14 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/optimizely/javascript-sdk.git"
   },
-  "npmName": "optimizely-client-sdk",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "optimizely.min.js"
+  "filename": "optimizely.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "optimizely-client-sdk",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

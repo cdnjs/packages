@@ -32,13 +32,16 @@
     "web",
     "development"
   ],
-  "npmName": "jquery-cropper",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(jquery-cropper.common.js|jquery-cropper.esm.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-cropper",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(jquery-cropper.common.js|jquery-cropper.esm.js)"
+        ]
+      }
+    ]
+  }
 }

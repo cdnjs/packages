@@ -16,17 +16,20 @@
   ],
   "license": "MIT",
   "name": "tldjs",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "tld?(.min).js"
-      ]
-    }
-  ],
-  "npmName": "tldjs",
   "repository": {
     "type": "git",
     "url": "git://github.com/oncletom/tld.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "tldjs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "tld?(.min).js"
+        ]
+      }
+    ]
   }
 }

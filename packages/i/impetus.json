@@ -12,14 +12,17 @@
     "type": "git",
     "url": "git+ssh://git@github.com/chrisbateman/impetus.git"
   },
-  "npmName": "impetus",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "impetus.min.js"
+  "filename": "impetus.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "impetus",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

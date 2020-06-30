@@ -31,15 +31,18 @@
     "url": "git://github.com/blueimp/Gallery.git"
   },
   "homepage": "https://blueimp.github.io/Gallery/",
-  "npmName": "blueimp-gallery",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "img/*",
-        "+(css|js)/*blueimp*.+(css|map|js)"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "blueimp-gallery",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "img/*",
+          "+(css|js)/*blueimp*.+(css|map|js)"
+        ]
+      }
+    ]
+  }
 }

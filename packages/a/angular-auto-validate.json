@@ -14,17 +14,20 @@
   ],
   "license": "MIT",
   "name": "angular-auto-validate",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|json)"
-      ]
-    }
-  ],
-  "npmName": "angular-auto-validate",
   "repository": {
     "type": "git",
     "url": "https://github.com/jonsamwell/angular-auto-validate.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-auto-validate",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|json)"
+        ]
+      }
+    ]
   }
 }

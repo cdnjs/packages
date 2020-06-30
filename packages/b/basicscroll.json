@@ -13,14 +13,17 @@
     "type": "git",
     "url": "git+https://github.com/electerious/basicScroll.git"
   },
-  "npmName": "basicscroll",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "basicScroll.min.js"
+  "filename": "basicScroll.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "basicscroll",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

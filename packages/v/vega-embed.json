@@ -9,21 +9,6 @@
     "component",
     "embed"
   ],
-  "npmName": "vega-embed",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "vega-embed*.+(js|css|map)"
-      ]
-    },
-    {
-      "basePath": "build",
-      "files": [
-        "**/vega-embed*.+(js|css|map)"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:vega/vega-embed.git"
@@ -32,5 +17,23 @@
   "author": {
     "name": "Jeffrey Heer",
     "url": "http://idl.cs.washington.edu"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "vega-embed",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "vega-embed*.+(js|css|map)"
+        ]
+      },
+      {
+        "basePath": "build",
+        "files": [
+          "**/vega-embed*.+(js|css|map)"
+        ]
+      }
+    ]
   }
 }

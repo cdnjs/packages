@@ -1,14 +1,5 @@
 {
   "name": "mori",
-  "npmName": "mori",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "mori.js"
-      ]
-    }
-  ],
   "filename": "mori.min.js",
   "description": "Persistent Data Structures for JavaScript",
   "homepage": "http://swannodette.github.io/mori/",
@@ -25,5 +16,17 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/swannodette/mori.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "mori",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "mori.js"
+        ]
+      }
+    ]
   }
 }

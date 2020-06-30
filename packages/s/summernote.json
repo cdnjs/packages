@@ -18,13 +18,16 @@
     "name": "hackerwins",
     "email": "susukang98@gmail.com"
   },
-  "npmName": "summernote",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|css|map|eot|ttf|woff|woff2)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "summernote",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css|map|eot|ttf|woff|woff2)"
+        ]
+      }
+    ]
+  }
 }

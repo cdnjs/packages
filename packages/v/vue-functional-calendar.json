@@ -30,17 +30,20 @@
   "license": "MIT",
   "author": "Manuk Minasyan <manuk.minasyan1@gmail.com> (https://github.com/ManukMinasyan)",
   "filename": "FunctionalCalendar.umd.min.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "npmName": "vue-functional-calendar",
   "repository": {
     "type": "git",
     "url": "https://github.com/ManukMinasyan/vue-functional-calendar.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-functional-calendar",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
   }
 }

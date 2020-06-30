@@ -19,17 +19,20 @@
   ],
   "license": "CC-BY-NC-4.0",
   "name": "mmenu-js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "mmenu-js",
   "repository": {
     "type": "git",
     "url": "https://github.com/FrDH/mmenu-js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "mmenu-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

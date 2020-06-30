@@ -2,7 +2,6 @@
   "name": "bootstrap-slider",
   "description": "Slider view component for Twitter Bootstrap.",
   "filename": "bootstrap-slider.min.js",
-  "npmName": "bootstrap-slider",
   "repository": {
     "type": "git",
     "url": "git://github.com/seiyria/bootstrap-slider.git"
@@ -15,12 +14,16 @@
     "twitter",
     "slide"
   ],
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-slider",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

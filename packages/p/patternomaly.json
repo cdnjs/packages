@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git+https://github.com/ashiguruma/patternomaly.git"
   },
-  "npmName": "patternomaly",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js?(.map)"
-      ]
-    }
-  ],
-  "filename": "patternomaly.js"
+  "filename": "patternomaly.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "patternomaly",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  }
 }

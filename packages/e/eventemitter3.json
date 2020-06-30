@@ -25,13 +25,16 @@
   ],
   "author": "Arnout Kazemier",
   "license": "MIT",
-  "npmName": "eventemitter3",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "index.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "eventemitter3",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  }
 }

@@ -42,13 +42,16 @@
     "web-development",
     "webdev"
   ],
-  "npmName": "infamous",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "global.*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "infamous",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "global.*"
+        ]
+      }
+    ]
+  }
 }

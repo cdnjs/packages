@@ -15,14 +15,17 @@
     "type": "git",
     "url": "https://github.com/pandao/editor.md.git"
   },
-  "npmName": "editor.md",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "editormd*.js"
-      ]
-    }
-  ],
-  "filename": "editormd.min.js"
+  "filename": "editormd.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "editor.md",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "editormd*.js"
+        ]
+      }
+    ]
+  }
 }

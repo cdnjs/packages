@@ -16,13 +16,16 @@
     "type": "git",
     "url": "https://github.com/vkbansal/react-contextmenu.git"
   },
-  "npmName": "react-contextmenu",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-contextmenu",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

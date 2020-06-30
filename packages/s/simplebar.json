@@ -13,13 +13,16 @@
   },
   "author": "Adrien Grsmto from a fork by Jonathan Nicol",
   "license": "MIT",
-  "npmName": "simplebar",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.esm.*)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "simplebar",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.esm.*)"
+        ]
+      }
+    ]
+  }
 }

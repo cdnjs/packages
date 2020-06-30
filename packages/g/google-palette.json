@@ -12,17 +12,20 @@
   ],
   "license": "Apache-2.0",
   "name": "google-palette",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "palette.js"
-      ]
-    }
-  ],
-  "npmName": "google-palette",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/google/palette.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "google-palette",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "palette.js"
+        ]
+      }
+    ]
   }
 }

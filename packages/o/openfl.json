@@ -1,14 +1,5 @@
 {
   "name": "openfl",
-  "npmName": "openfl",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "!(*.swc|*.gz|*.br)"
-      ]
-    }
-  ],
   "filename": "openfl.min.js",
   "description": "A fast, productive library for 2D cross-platform development.",
   "keywords": [
@@ -30,5 +21,17 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/openfl/openfl.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "openfl",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "!(*.swc|*.gz|*.br)"
+        ]
+      }
+    ]
   }
 }

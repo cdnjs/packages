@@ -13,14 +13,17 @@
     "type": "git",
     "url": "git+https://github.com/ziishaned/emoji-awesome.git"
   },
-  "npmName": "emoji-awesome",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "css/emojione.min.css"
+  "filename": "css/emojione.min.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "emoji-awesome",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

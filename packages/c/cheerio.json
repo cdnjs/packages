@@ -13,17 +13,20 @@
   ],
   "license": "MIT",
   "name": "cheerio",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "**/*.js"
-      ]
-    }
-  ],
-  "npmName": "cheerio",
   "repository": {
     "type": "git",
     "url": "git://github.com/cheeriojs/cheerio.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "cheerio",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.js"
+        ]
+      }
+    ]
   }
 }

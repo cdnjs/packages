@@ -14,13 +14,16 @@
     "url": "https://github.com/facebook/draft-js"
   },
   "license": "BSD-3-Clause",
-  "npmName": "draft-js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "draft-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

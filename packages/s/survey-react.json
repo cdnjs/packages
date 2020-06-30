@@ -20,13 +20,16 @@
     "name": "andrewtelnov",
     "email": "andrew.telnov@gmail.com"
   },
-  "npmName": "survey-react",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "survey*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "survey-react",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "survey*"
+        ]
+      }
+    ]
+  }
 }

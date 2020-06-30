@@ -13,13 +13,16 @@
   "license": "MIT",
   "homepage": "https://instant.page/",
   "filename": "instantpage.min.js",
-  "npmName": "instant.page",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "instantpage*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "instant.page",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "instantpage*"
+        ]
+      }
+    ]
+  }
 }

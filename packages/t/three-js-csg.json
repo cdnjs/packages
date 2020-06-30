@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git://github.com/james-oldfield/three-js-csg.git"
   },
-  "npmName": "three-js-csg",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "index.js"
-      ]
-    }
-  ],
-  "filename": "index.js"
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "three-js-csg",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  }
 }

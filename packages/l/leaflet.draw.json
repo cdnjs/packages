@@ -16,13 +16,16 @@
   },
   "license": "MIT",
   "author": "Jacob Toye",
-  "npmName": "leaflet-draw",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "leaflet-draw",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

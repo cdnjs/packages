@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git+https://github.com/DataTables/Dist-DataTables-Responsive.git"
   },
-  "npmName": "datatables.net-responsive",
-  "npmFileMap": [
-    {
-      "basePath": "js",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "dataTables.responsive.min.js"
+  "filename": "dataTables.responsive.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-responsive",
+    "fileMap": [
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

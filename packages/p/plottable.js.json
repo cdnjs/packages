@@ -21,15 +21,18 @@
     "plot",
     "plots"
   ],
-  "npmName": "plottable",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "plottable*"
-      ]
-    }
-  ],
   "author": "Palantir Technologies",
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "plottable",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "plottable*"
+        ]
+      }
+    ]
+  }
 }

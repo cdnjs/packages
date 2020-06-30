@@ -11,19 +11,22 @@
     "class diagram",
     "git graph"
   ],
-  "npmName": "mermaid",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.html)"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/knsv/mermaid"
   },
   "license": "MIT",
-  "author": "Knut Sveidqvist"
+  "author": "Knut Sveidqvist",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mermaid",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.html)"
+        ]
+      }
+    ]
+  }
 }

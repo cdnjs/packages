@@ -6,17 +6,20 @@
   "keywords": [],
   "license": "ISC",
   "name": "bf-solid",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "solid*.css"
-      ]
-    }
-  ],
-  "npmName": "bf-solid",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/buzzfeed/solid.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "bf-solid",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "solid*.css"
+        ]
+      }
+    ]
   }
 }

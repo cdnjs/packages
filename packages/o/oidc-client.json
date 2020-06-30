@@ -8,17 +8,20 @@
   },
   "author": "Brock Allen & Dominick Baier",
   "license": "Apache-2.0",
-  "npmName": "oidc-client",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.ts)"
-      ]
-    }
-  ],
   "keywords": [
     "oidc",
     "client"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "oidc-client",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.ts)"
+        ]
+      }
+    ]
+  }
 }

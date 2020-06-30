@@ -15,18 +15,21 @@
     "delay"
   ],
   "filename": "swiftclick.min.js",
-  "npmName": "swiftclick",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/munkychop/swiftclick"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "swiftclick",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

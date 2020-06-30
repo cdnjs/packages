@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/andybrewer/mvp.git"
   },
-  "npmName": "mvp.css",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "mvp.css"
-      ]
-    }
-  ],
-  "filename": "mvp.css"
+  "filename": "mvp.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mvp.css",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "mvp.css"
+        ]
+      }
+    ]
+  }
 }

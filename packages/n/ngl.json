@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/arose/ngl.git"
   },
-  "npmName": "ngl",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "ngl.js"
+  "filename": "ngl.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ngl",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

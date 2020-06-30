@@ -6,17 +6,20 @@
   "keywords": [],
   "license": "MIT",
   "name": "microevent",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "microevent.js"
-      ]
-    }
-  ],
-  "npmName": "microevent",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jeromeetienne/microevent.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "microevent",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "microevent.js"
+        ]
+      }
+    ]
   }
 }

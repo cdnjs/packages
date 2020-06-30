@@ -16,18 +16,21 @@
   ],
   "license": "MIT",
   "name": "fastify",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "fastify.*",
-        "lib/**/*"
-      ]
-    }
-  ],
-  "npmName": "fastify",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fastify/fastify.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "fastify",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "fastify.*",
+          "lib/**/*"
+        ]
+      }
+    ]
   }
 }

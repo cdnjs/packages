@@ -11,14 +11,17 @@
     "type": "git",
     "url": "git://github.com/nanostudio-org/nanogallery2.git"
   },
-  "npmName": "nanogallery2",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|css|woff|woff2|png)"
-      ]
-    }
-  ],
-  "filename": "jquery.nanogallery2.min.js"
+  "filename": "jquery.nanogallery2.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "nanogallery2",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css|woff|woff2|png)"
+        ]
+      }
+    ]
+  }
 }

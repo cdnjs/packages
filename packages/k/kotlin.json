@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://git@github.com/JetBrains/kotlin.git"
   },
-  "npmName": "kotlin",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "kotlin.js"
+  "filename": "kotlin.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "kotlin",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

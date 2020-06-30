@@ -18,13 +18,16 @@
     "responsive",
     "markup"
   ],
-  "npmName": "fg-appendaround",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "appendAround*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "fg-appendaround",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "appendAround*"
+        ]
+      }
+    ]
+  }
 }

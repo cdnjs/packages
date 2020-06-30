@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/bigbitecreative/macy.js.git"
   },
-  "npmName": "macy",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "macy.js"
+  "filename": "macy.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "macy",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

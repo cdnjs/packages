@@ -5,17 +5,20 @@
   "keywords": [],
   "license": "MIT",
   "name": "SimpleLightbox",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "simple-lightbox",
   "repository": {
     "type": "git",
     "url": "git@github.com:dbrekalo/simpleLightbox.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "simple-lightbox",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

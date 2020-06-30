@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/NickPiscitelli/Glider.js.git"
   },
-  "npmName": "glider-js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "glider*.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "glider.min.js"
+  "filename": "glider.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "glider-js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "glider*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

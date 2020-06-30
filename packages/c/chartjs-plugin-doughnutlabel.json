@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/ciprianciurea/chartjs-plugin-doughnutlabel.git"
   },
-  "npmName": "chartjs-plugin-doughnutlabel",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "chartjs-plugin-doughnutlabel.js"
+  "filename": "chartjs-plugin-doughnutlabel.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "chartjs-plugin-doughnutlabel",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

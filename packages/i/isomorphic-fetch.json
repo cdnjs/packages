@@ -14,13 +14,16 @@
     "node",
     "browserify"
   ],
-  "npmName": "isomorphic-fetch",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "fetch-!(npm-node|bower)*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "isomorphic-fetch",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "fetch-!(npm-node|bower)*"
+        ]
+      }
+    ]
+  }
 }

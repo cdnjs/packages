@@ -19,14 +19,17 @@
     "type": "git",
     "url": "git+https://github.com/smeijer/leaflet-geosearch.git"
   },
-  "npmName": "leaflet-geosearch",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "bundle.min.js"
+  "filename": "bundle.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "leaflet-geosearch",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

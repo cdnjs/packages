@@ -21,13 +21,16 @@
     "url": "http://www.muazkhan.com/"
   },
   "license": "MIT",
-  "npmName": "recordrtc",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "RecordRTC*.+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "recordrtc",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "RecordRTC*.+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

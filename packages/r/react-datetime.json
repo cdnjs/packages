@@ -16,19 +16,22 @@
   ],
   "author": "Javier Marquez",
   "license": "MIT",
-  "npmName": "react-datetime",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "css/react-datetime*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-datetime",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "css/react-datetime*"
+        ]
+      }
+    ]
+  }
 }

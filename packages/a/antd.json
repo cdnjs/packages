@@ -23,13 +23,16 @@
     "url": "https://github.com/ant-design/ant-design"
   },
   "license": "MIT",
-  "npmName": "antd",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.!(less)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "antd",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.!(less)"
+        ]
+      }
+    ]
+  }
 }

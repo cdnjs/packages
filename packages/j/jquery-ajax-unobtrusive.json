@@ -19,13 +19,16 @@
   },
   "homepage": "https://github.com/aspnet/jquery-ajax-unobtrusive",
   "filename": "jquery.unobtrusive-ajax.min.js",
-  "npmName": "jquery-ajax-unobtrusive",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-ajax-unobtrusive",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

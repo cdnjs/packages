@@ -12,15 +12,6 @@
     "url": "https://github.com/ckeditor/ckeditor5.git"
   },
   "homepage": "https://ckeditor.com/ckeditor-5",
-  "npmName": "@ckeditor/ckeditor5-build-classic",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*.@(js|map)"
-      ]
-    }
-  ],
   "filename": "ckeditor.min.js",
   "keywords": [
     "ckeditor",
@@ -38,5 +29,17 @@
     "collaborative",
     "real-time",
     "framework"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@ckeditor/ckeditor5-build-classic",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

@@ -22,13 +22,16 @@
     "url": "https://github.com/tailwindcss/tailwindcss"
   },
   "homepage": "https://tailwindcss.com",
-  "npmName": "tailwindcss",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "tailwindcss",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

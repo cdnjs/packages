@@ -14,13 +14,16 @@
   ],
   "author": "Jeremy Fields <jeremy.fields@viget.com>",
   "license": "MIT",
-  "npmName": "what-input",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/what-input*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "what-input",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/what-input*"
+        ]
+      }
+    ]
+  }
 }

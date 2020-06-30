@@ -23,13 +23,16 @@
     "name": "Kevin Brown",
     "url": "https://github.com/kevin-brown"
   },
-  "npmName": "select2",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(css|js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "select2",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(css|js)"
+        ]
+      }
+    ]
+  }
 }

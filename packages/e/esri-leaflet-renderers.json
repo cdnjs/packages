@@ -19,13 +19,16 @@
     "type": "git",
     "url": "git@github.com:Esri/esri-leaflet-renderers.git"
   },
-  "npmName": "esri-leaflet-renderers",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "esri-leaflet-renderers",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

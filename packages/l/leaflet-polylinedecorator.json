@@ -1,15 +1,6 @@
 {
   "name": "leaflet-polylinedecorator",
   "filename": "leaflet.polylineDecorator.min.js",
-  "npmName": "leaflet-polylinedecorator",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "leaflet.polylineDecorator*"
-      ]
-    }
-  ],
   "author": "Benjamin Becquet",
   "description": "A plug-in for the JS map library Leaflet, allowing to define patterns (like dashes, arrows, icons, etc.) on Polylines.",
   "keywords": [
@@ -20,5 +11,17 @@
     "type": "git",
     "url": "git@github.com:bbecquet/Leaflet.PolylineDecorator.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "leaflet-polylinedecorator",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "leaflet.polylineDecorator*"
+        ]
+      }
+    ]
+  }
 }

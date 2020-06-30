@@ -20,13 +20,16 @@
   ],
   "author": "Lucas Garron <code@garron.net> (https://garron.net/)",
   "license": "MIT",
-  "npmName": "clipboard-polyfill",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "clipboard-polyfill",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.ts)"
+        ]
+      }
+    ]
+  }
 }

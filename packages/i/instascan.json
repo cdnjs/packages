@@ -21,14 +21,17 @@
     "type": "git",
     "url": "git+https://github.com/schmich/instascan.git"
   },
-  "npmName": "instascan",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "**/*.js"
-      ]
-    }
-  ],
-  "filename": "index.js"
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "instascan",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.js"
+        ]
+      }
+    ]
+  }
 }

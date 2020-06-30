@@ -17,14 +17,17 @@
     "type": "git",
     "url": "git+https://github.com/andyearnshaw/Intl.js.git"
   },
-  "npmName": "intl",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "Intl.min.js"
+  "filename": "Intl.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "intl",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

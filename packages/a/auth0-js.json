@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git://github.com/auth0/auth0.js.git"
   },
-  "npmName": "auth0-js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "auth0.min.js"
+  "filename": "auth0.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "auth0-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

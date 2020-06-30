@@ -9,14 +9,17 @@
     "type": "git",
     "url": "git+https://github.com/acornjs/acorn.git"
   },
-  "npmName": "acorn-walk",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js?(.map)"
-      ]
-    }
-  ],
-  "filename": "walk.js"
+  "filename": "walk.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "acorn-walk",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  }
 }

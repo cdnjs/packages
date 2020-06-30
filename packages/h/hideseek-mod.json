@@ -15,17 +15,20 @@
   ],
   "license": "Apache-2.0",
   "name": "hideseek-mod",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "hideseek-mod",
   "repository": {
     "type": "git",
     "url": "https://github.com/maxwroc/HideSeek-Mod.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "hideseek-mod",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

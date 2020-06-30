@@ -15,13 +15,16 @@
   "homepage": "https://www.brython.info",
   "author": "Pierre Quentel",
   "license": "BSD-3-Clause",
-  "npmName": "brython",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "brython*.+(js|map|css)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "brython",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "brython*.+(js|map|css)"
+        ]
+      }
+    ]
+  }
 }

@@ -12,18 +12,21 @@
     "url": "https://github.com/vuejs-tips/vue-the-mask"
   },
   "homepage": "https://vuejs-tips.github.io/vue-the-mask/",
-  "npmName": "vue-the-mask",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "filename": "vue-the-mask.min.js",
   "keywords": [
     "vue",
     "mask"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-the-mask",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

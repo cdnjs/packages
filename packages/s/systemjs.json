@@ -7,17 +7,20 @@
   },
   "author": "Guy Bedford",
   "license": "MIT",
-  "npmName": "systemjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "filename": "system.min.js",
   "keywords": [
     "systemjs"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "systemjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

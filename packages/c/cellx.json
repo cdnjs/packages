@@ -12,13 +12,16 @@
   },
   "author": "Dmitry Vibe",
   "license": "MIT",
-  "npmName": "cellx",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "cellx",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.ts)"
+        ]
+      }
+    ]
+  }
 }

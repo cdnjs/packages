@@ -18,13 +18,16 @@
     "interactive",
     "waveform"
   ],
-  "npmName": "peaks.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "peaks*.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "peaks.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "peaks*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

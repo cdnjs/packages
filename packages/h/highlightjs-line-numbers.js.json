@@ -11,19 +11,22 @@
   },
   "author": "Yauheni Pakala <evgeniy.pakalo@gmail.com>",
   "license": "MIT",
-  "npmName": "highlightjs-line-numbers.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    },
-    {
-      "basePath": "src",
-      "files": [
-        "highlightjs-line-numbers*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "highlightjs-line-numbers.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "src",
+        "files": [
+          "highlightjs-line-numbers*"
+        ]
+      }
+    ]
+  }
 }

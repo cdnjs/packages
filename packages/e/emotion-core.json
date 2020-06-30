@@ -13,17 +13,20 @@
   ],
   "license": "MIT",
   "name": "emotion-core",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "@emotion/core",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/emotion-js/emotion.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@emotion/core",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

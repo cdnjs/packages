@@ -45,17 +45,20 @@
   ],
   "license": "LGPL-3.0",
   "name": "qcobjects",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "QCObjects.js"
-      ]
-    }
-  ],
-  "npmName": "qcobjects",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/QuickGroup/QCObjects.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "qcobjects",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "QCObjects.js"
+        ]
+      }
+    ]
   }
 }

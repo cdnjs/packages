@@ -9,19 +9,22 @@
   "author": "katspaugh <katspaugh@gmail.com>",
   "license": "BSD-3-Clause",
   "homepage": "https://wavesurfer-js.org/",
-  "npmName": "wavesurfer.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.cjs.*)"
-      ]
-    }
-  ],
   "keywords": [
     "waveform",
     "audio",
     "music",
     "player"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "wavesurfer.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.cjs.*)"
+        ]
+      }
+    ]
+  }
 }

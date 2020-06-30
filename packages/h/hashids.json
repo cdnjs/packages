@@ -18,17 +18,20 @@
   ],
   "license": "MIT",
   "name": "hashids",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "npmName": "hashids",
   "repository": {
     "type": "git",
     "url": "https://github.com/niieani/hashids.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "hashids",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

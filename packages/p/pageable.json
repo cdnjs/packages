@@ -13,14 +13,17 @@
     "type": "git",
     "url": "git+https://github.com/Mobius1/Pageable.git"
   },
-  "npmName": "pageable",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "pageable.min.js"
+  "filename": "pageable.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "pageable",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

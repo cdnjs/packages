@@ -13,13 +13,16 @@
   ],
   "author": "Mr Chimp <chimpytk@gmail.com>",
   "license": "MIT",
-  "npmName": "tocktimer",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "tock*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "tocktimer",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "tock*"
+        ]
+      }
+    ]
+  }
 }

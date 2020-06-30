@@ -32,14 +32,17 @@
     "type": "git",
     "url": "git://github.com/blueimp/jQuery-File-Upload.git"
   },
-  "npmName": "blueimp-file-upload",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "+(js|css)/**/*+(jquery|fileupload)*",
-        "img/**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "blueimp-file-upload",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "+(js|css)/**/*+(jquery|fileupload)*",
+          "img/**/*"
+        ]
+      }
+    ]
+  }
 }

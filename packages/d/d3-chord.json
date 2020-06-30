@@ -20,13 +20,16 @@
     "type": "git",
     "url": "https://github.com/d3/d3-chord.git"
   },
-  "npmName": "d3-chord",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/!(package.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "d3-chord",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/!(package.js)"
+        ]
+      }
+    ]
+  }
 }
