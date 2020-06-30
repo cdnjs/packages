@@ -1,6 +1,10 @@
 {
   "filename": "ui-cropper.js",
-  "keywords": ["image", "crop", "cropper"],
+  "keywords": [
+    "image",
+    "crop",
+    "cropper"
+  ],
   "author": {
     "name": "Alex Kaul",
     "email": "alexkaul@googlemail.com"

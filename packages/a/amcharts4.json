@@ -8,11 +8,11 @@
     "javascript",
     "charts"
   ],
-  "license":{
+  "license": {
     "name": "Free and commercial",
     "url": "https://github.com/amcharts/amcharts4/blob/master/dist/script/LICENSE"
   },
-  "name":"amcharts4",
+  "name": "amcharts4",
   "npmFileMap": [
     {
       "basePath": "",
