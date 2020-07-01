@@ -14,15 +14,18 @@
     "spfx"
   ],
   "homepage": "https://dattabase.com/",
-  "npmName": "gd-sprest",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|ts)"
-      ]
-    }
-  ],
   "license": "MIT",
-  "author": "Gunjan Datta <github@dattabase.com>"
+  "author": "Gunjan Datta <github@dattabase.com>",
+  "autoupdate": {
+    "source": "npm",
+    "target": "gd-sprest",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

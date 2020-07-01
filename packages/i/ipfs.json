@@ -1,6 +1,5 @@
 {
   "name": "ipfs",
-  "version": "0.43.1",
   "filename": "index.min.js",
   "description": "JavaScript implementation of the IPFS specification",
   "homepage": "https://ipfs.io",
@@ -14,13 +13,16 @@
   ],
   "author": "David Dias <daviddias@ipfs.io>",
   "license": "MIT",
-  "npmName": "ipfs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(index.min.js.LICENSE)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ipfs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(index.min.js.LICENSE)"
+        ]
+      }
+    ]
+  }
 }

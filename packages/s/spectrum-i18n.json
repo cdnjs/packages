@@ -2,7 +2,6 @@
   "name": "spectrum-i18n",
   "filename": "jquery.spectrum-es.min.js",
   "description": "Spectrum: the no hassle jQuery colorpicker",
-  "version": "1.3.0",
   "homepage": "http://bgrins.github.io/spectrum/",
   "keywords": [
     "color",

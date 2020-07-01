@@ -1,6 +1,5 @@
 {
   "name": "fast-xml-parser",
-  "version": "3.17.1",
   "description": "Parse XML to JS/JSON very fast without C/C++ based libraries",
   "filename": "parser.min.js",
   "repository": {

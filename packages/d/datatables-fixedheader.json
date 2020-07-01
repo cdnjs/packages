@@ -1,6 +1,5 @@
 {
   "name": "datatables-fixedheader",
-  "version": "3.1.7",
   "filename": "dataTables.fixedHeader.min.js",
   "description": "The FixedHeader plug-in will freeze in place the header, footer and left and/or right most columns in a DataTable, ensuring that title information will remain always visible.",
   "keywords": [
@@ -18,13 +17,16 @@
     "type": "git",
     "url": "git+https://github.com/DataTables/FixedHeader.git"
   },
-  "npmName": "datatables.net-fixedheader",
-  "npmFileMap": [
-    {
-      "basePath": "js",
-      "files": [
-        "*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-fixedheader",
+    "fileMap": [
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

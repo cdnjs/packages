@@ -1,7 +1,6 @@
 {
   "name": "bokeh",
   "filename": "bokeh.min.js",
-  "version": "2.0.2",
   "description": "Interactive, novel data visualization",
   "keywords": [
     "bokeh",
@@ -18,19 +17,22 @@
     "url": "git://github.com/bokeh/bokeh.git"
   },
   "homepage": "https://docs.bokeh.org/en/latest/",
-  "npmName": "@bokeh/bokehjs",
-  "npmFileMap": [
-    {
-      "basePath": "build/js",
-      "files": [
-        "bokeh*.!(json)"
-      ]
-    },
-    {
-      "basePath": "build/css",
-      "files": [
-        "bokeh*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@bokeh/bokehjs",
+    "fileMap": [
+      {
+        "basePath": "build/js",
+        "files": [
+          "bokeh*.!(json)"
+        ]
+      },
+      {
+        "basePath": "build/css",
+        "files": [
+          "bokeh*"
+        ]
+      }
+    ]
+  }
 }

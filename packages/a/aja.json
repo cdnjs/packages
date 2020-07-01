@@ -2,7 +2,6 @@
   "name": "aja",
   "filename": "aja.min.js",
   "description": "Asynchronous JavaScript And JavaScript/JSON(P) : Ajax without XML",
-  "version": "0.4.1",
   "homepage": "http://krampstudio.github.io/aja.js/",
   "author": {
     "name": "Bertrand Chevrier",

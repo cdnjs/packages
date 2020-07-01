@@ -17,14 +17,17 @@
     "type": "git",
     "url": "git+https://github.com/dubrox/Multiple-Dates-Picker-for-jQuery-UI.git"
   },
-  "npmName": "jquery-ui-multidatespicker",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jquery-ui.multidatespicker.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "jquery-ui.multidatespicker.js"
+  "filename": "jquery-ui.multidatespicker.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-ui-multidatespicker",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery-ui.multidatespicker.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

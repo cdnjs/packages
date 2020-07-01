@@ -35,14 +35,17 @@
     "type": "git",
     "url": "git+ssh://git@github.com/brainjs/brain.js.git"
   },
-  "npmName": "brain.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "brain-browser.min.js"
+  "filename": "brain-browser.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "brain.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

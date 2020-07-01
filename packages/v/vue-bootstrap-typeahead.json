@@ -9,15 +9,6 @@
     "bootstrap 4",
     "typeahead"
   ],
-  "npmName": "vue-bootstrap-typeahead",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*"
-      ]
-    }
-  ],
   "homepage": "https://alexurquhart.github.io/vue-bootstrap-typeahead/",
   "repository": {
     "type": "git",
@@ -28,5 +19,17 @@
     "name": "Alex Urquhart",
     "email": "alexurquhart@gmail.com",
     "url": "https://alexurquhart.com"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-bootstrap-typeahead",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*"
+        ]
+      }
+    ]
   }
 }

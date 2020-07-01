@@ -1,7 +1,6 @@
 {
   "name": "sp-pnp-js",
   "filename": "pnp.min.js",
-  "version": "3.0.10",
   "description": "A reusable JavaScript library targeting SharePoint client-side development.",
   "keywords": [
     "sharepoint",
@@ -10,19 +9,22 @@
     "spfx",
     "sharepoint framework"
   ],
-  "npmName": "sp-pnp-js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.ts)"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/SharePoint/PnP-JS-Core.git"
   },
   "license": "MIT",
-  "author": "Microsoft and other contributors"
+  "author": "Microsoft and other contributors",
+  "autoupdate": {
+    "source": "npm",
+    "target": "sp-pnp-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.ts)"
+        ]
+      }
+    ]
+  }
 }

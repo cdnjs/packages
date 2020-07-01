@@ -1,7 +1,6 @@
 {
   "name": "html-inspector",
   "filename": "html-inspector.min.js",
-  "version": "0.8.2",
   "description": "HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.",
   "license": "MIT",
   "keywords": [
@@ -18,13 +17,16 @@
     "type": "git",
     "url": "https://github.com/philipwalton/html-inspector.git"
   },
-  "npmName": "html-inspector",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "html-inspector.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "html-inspector",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "html-inspector.js"
+        ]
+      }
+    ]
+  }
 }

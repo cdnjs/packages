@@ -1,16 +1,5 @@
 {
   "name": "templatebinding",
-  "npmName": "templatebinding",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "TemplateBinding.min.js",
-        "TemplateBinding.js"
-      ]
-    }
-  ],
-  "version": "0.3.4",
   "filename": "TemplateBinding.min.js",
   "description": "Polymer's template binding polyfill. Concatenated and minified.",
   "repository": {
@@ -21,5 +10,18 @@
   "author": "The Polymer Authors",
   "keywords": [
     "templatebinding"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "templatebinding",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "TemplateBinding.min.js",
+          "TemplateBinding.js"
+        ]
+      }
+    ]
+  }
 }

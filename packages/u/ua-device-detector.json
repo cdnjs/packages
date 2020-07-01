@@ -13,14 +13,17 @@
     "type": "git",
     "url": "git+https://github.com/srfrnk/ua-device-detector.git"
   },
-  "npmName": "ua-device-detector",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "ua-device-detector*.js"
-      ]
-    }
-  ],
-  "filename": "ua-device-detector.min.js"
+  "filename": "ua-device-detector.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ua-device-detector",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "ua-device-detector*.js"
+        ]
+      }
+    ]
+  }
 }

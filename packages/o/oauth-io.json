@@ -1,7 +1,6 @@
 {
   "name": "oauth-io",
   "filename": "oauth.min.js",
-  "version": "0.6.2",
   "description": "OAuth that just works",
   "repository": {
     "type": "git",
@@ -15,13 +14,16 @@
   ],
   "author": "The OAuth.io Team",
   "license": "Apache-2.0",
-  "npmName": "oauthio-web",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "oauthio-web",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

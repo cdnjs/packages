@@ -1,7 +1,6 @@
 {
   "name": "c3-angular",
   "filename": "c3-angular.min.js",
-  "version": "1.4.0",
   "description": "An angularjs directive to integrate c3.js within your angularjs project.",
   "repository": {
     "type": "git",
@@ -15,13 +14,16 @@
   "author": "Jettro Coenradie",
   "license": "MIT",
   "homepage": "https://jettro.github.io/c3-angular-directive/",
-  "npmName": "c3-angular",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "c3-angular*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "c3-angular",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "c3-angular*"
+        ]
+      }
+    ]
+  }
 }

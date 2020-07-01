@@ -1,7 +1,6 @@
 {
   "name": "expr-eval",
   "filename": "bundle.min.js",
-  "version": "2.0.2",
   "description": "Mathematical expression evaluator",
   "repository": {
     "type": "git",
@@ -18,13 +17,16 @@
   ],
   "author": "Matthew Crumley",
   "license": "MIT",
-  "npmName": "expr-eval",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.mjs)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "expr-eval",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.mjs)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "verify",
-  "version": "0.0.1",
   "description": "A powerful asynchronous validation library",
   "filename": "verify.min.js",
   "repository": {

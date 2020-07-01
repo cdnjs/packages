@@ -1,7 +1,6 @@
 {
   "name": "simplebar",
   "filename": "simplebar.min.js",
-  "version": "5.2.0",
   "description": "Custom scrollbars with native scroll, done simple, lightweight, easy to use and cross-browser.",
   "homepage": "https://grsmto.github.io/simplebar/",
   "keywords": [
@@ -14,13 +13,16 @@
   },
   "author": "Adrien Grsmto from a fork by Jonathan Nicol",
   "license": "MIT",
-  "npmName": "simplebar",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.esm.*)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "simplebar",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.esm.*)"
+        ]
+      }
+    ]
+  }
 }

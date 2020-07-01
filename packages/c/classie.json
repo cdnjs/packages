@@ -1,6 +1,5 @@
 {
   "name": "classie",
-  "version": "1.0.1",
   "description": "class helper functions",
   "filename": "classie.min.js",
   "repository": {

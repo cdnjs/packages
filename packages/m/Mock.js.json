@@ -2,7 +2,6 @@
   "name": "Mock.js",
   "filename": "mock-min.js",
   "description": "Mock.js is a simulation data generator to help the front-end to develop and prototype separate from the back-end progress and reduce some monotony particularly while writing automated tests.",
-  "version": "1.0.0",
   "homepage": "http://mockjs.com/",
   "keywords": [
     "mock",

@@ -1,7 +1,6 @@
 {
   "name": "csspin",
   "filename": "csspin.css",
-  "version": "1.1.4",
   "homepage": "https://webkul.github.io/csspin/",
   "description": "CSS Spinners and Loaders - Modular, Customizable and Single HTML Element Code",
   "keywords": [
@@ -23,16 +22,19 @@
     "type": "git",
     "url": "https://github.com/webkul/csspin.git"
   },
-  "npmName": "csspin",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "csspin*",
-        "css/csspin*"
-      ]
-    }
-  ],
   "license": "MIT",
-  "author": "Nitish Kumar <support@webkul.com>"
+  "author": "Nitish Kumar <support@webkul.com>",
+  "autoupdate": {
+    "source": "npm",
+    "target": "csspin",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "csspin*",
+          "css/csspin*"
+        ]
+      }
+    ]
+  }
 }

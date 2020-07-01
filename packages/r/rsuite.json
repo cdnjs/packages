@@ -1,7 +1,6 @@
 {
   "name": "rsuite",
   "filename": "rsuite.min.js",
-  "version": "4.4.1",
   "description": "A suite of react components",
   "homepage": "https://rsuitejs.com/",
   "keywords": [
@@ -16,13 +15,16 @@
     "type": "git",
     "url": "https://github.com/rsuite/rsuite.git"
   },
-  "npmName": "rsuite",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "rsuite",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

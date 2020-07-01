@@ -1,7 +1,6 @@
 {
   "name": "atmosphere",
   "filename": "atmosphere.min.js",
-  "version": "2.2.9",
   "description": "A browser-side JavaScript client for the Atmosphere",
   "keywords": [
     "ws",

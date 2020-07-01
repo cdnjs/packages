@@ -1,7 +1,6 @@
 {
   "name": "headjs",
   "filename": "head.min.js",
-  "version": "1.0.3",
   "description": "HeadJS: Responsive Design, Feature Detections & Asset Loading. The only script in your <HEAD>",
   "homepage": "http://headjs.com",
   "keywords": [

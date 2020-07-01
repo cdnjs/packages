@@ -1,6 +1,5 @@
 {
   "name": "element-ui",
-  "version": "2.13.2",
   "description": "A Component Library for Vue.js.",
   "filename": "index.js",
   "repository": {
@@ -15,21 +14,24 @@
     "components"
   ],
   "license": "MIT",
-  "npmName": "element-ui",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "index.js",
-        "theme-*/index.css",
-        "theme-*/fonts/*"
-      ]
-    },
-    {
-      "basePath": "lib/umd",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "element-ui",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "index.js",
+          "theme-*/index.css",
+          "theme-*/fonts/*"
+        ]
+      },
+      {
+        "basePath": "lib/umd",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

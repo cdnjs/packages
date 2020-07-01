@@ -1,7 +1,6 @@
 {
   "name": "jquery-boilerplate",
   "filename": "jquery.boilerplate.min.js",
-  "version": "4.1.0",
   "description": "A jump-start for jQuery plugins development.",
   "keywords": [
     "jquery-plugin",

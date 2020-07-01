@@ -1,7 +1,6 @@
 {
   "name": "react-autocomplete",
   "filename": "react-autocomplete.min.js",
-  "version": "1.8.1",
   "description": "Accessible, extensible, Autocomplete for React.js",
   "repository": {
     "type": "git",
@@ -15,13 +14,16 @@
     "combobox",
     "a11y"
   ],
-  "npmName": "react-autocomplete",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-autocomplete",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

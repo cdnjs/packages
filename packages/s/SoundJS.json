@@ -1,7 +1,6 @@
 {
   "name": "SoundJS",
   "filename": "soundjs.min.js",
-  "version": "1.0.2",
   "description": "A JavaScript library that provides a simple API, and powerful features to make working with audio a breeze. Easily ties in audio file loading to PreloadJS.",
   "keywords": [
     "createjs",

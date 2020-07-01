@@ -1,6 +1,5 @@
 {
   "name": "emergence.js",
-  "version": "1.1.2",
   "filename": "emergence.min.js",
   "description": "Detect element visibility in the browser",
   "repository": {
@@ -18,13 +17,16 @@
   ],
   "author": "@xtianmiller",
   "license": "MIT",
-  "npmName": "emergence.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "emergence.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

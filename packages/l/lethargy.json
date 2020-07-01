@@ -1,7 +1,6 @@
 {
   "name": "lethargy",
   "filename": "lethargy.min.js",
-  "version": "1.0.9",
   "description": "Distinguish between scroll events initiated by the user, and those by inertial scrolling",
   "repository": {
     "type": "git",
@@ -19,13 +18,16 @@
   ],
   "author": "Daniel Li <dan@danyll.com>",
   "license": "MIT",
-  "npmName": "lethargy",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "lethargy*.+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "lethargy",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "lethargy*.+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

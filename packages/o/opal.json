@@ -1,7 +1,6 @@
 {
   "name": "opal",
   "filename": "opal.min.js",
-  "version": "0.3.43",
   "description": "Ruby runtime and core library for javascript.",
   "homepage": "http://opalrb.org",
   "keywords": [

@@ -2,7 +2,6 @@
   "name": "react-datepicker",
   "filename": "react-datepicker.min.js",
   "description": "A simple and reusable datepicker component for React",
-  "version": "2.16.0",
   "license": "MIT",
   "author": "HackerOne",
   "homepage": "https://hacker0x01.github.io/react-datepicker/",
@@ -17,13 +16,16 @@
     "type": "git",
     "url": "git://github.com/Hacker0x01/react-datepicker.git"
   },
-  "npmName": "react-datepicker",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-datepicker",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

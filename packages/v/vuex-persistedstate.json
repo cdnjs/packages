@@ -17,14 +17,17 @@
     "type": "git",
     "url": "git+https://github.com/robinvdvleuten/vuex-persistedstate.git"
   },
-  "npmName": "vuex-persistedstate",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|ts|map)"
-      ]
-    }
-  ],
-  "filename": "vuex-persistedstate.js"
+  "filename": "vuex-persistedstate.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "vuex-persistedstate",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|ts|map)"
+        ]
+      }
+    ]
+  }
 }

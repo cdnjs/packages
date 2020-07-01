@@ -2,7 +2,6 @@
   "name": "tern",
   "filename": "tern.min.js",
   "license": "MIT",
-  "version": "0.24.3",
   "author": "Marijn Haverbeke <marijnh@gmail.com>",
   "description": "A JavaScript code analyzer for deep, cross-editor language support",
   "repository": {
@@ -15,19 +14,22 @@
     "javascript"
   ],
   "homepage": "https://ternjs.net/",
-  "npmName": "tern",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "*.+(js|map)"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "plugin/*.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "tern",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.+(js|map)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "plugin/*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

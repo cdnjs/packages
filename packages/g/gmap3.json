@@ -1,6 +1,5 @@
 {
   "name": "gmap3",
-  "version": "7.2.0",
   "filename": "gmap3.min.js",
   "description": "jQuery plugin to generate Google Maps",
   "repository": {

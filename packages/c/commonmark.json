@@ -2,7 +2,6 @@
   "name": "commonmark",
   "filename": "commonmark.min.js",
   "description": "a strongly specified, highly compatible variant of Markdown",
-  "version": "0.29.1",
   "homepage": "http://commonmark.org",
   "keywords": [
     "markdown",

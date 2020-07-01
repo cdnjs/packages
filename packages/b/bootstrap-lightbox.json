@@ -1,7 +1,6 @@
 {
   "name": "bootstrap-lightbox",
   "filename": "bootstrap-lightbox.min.js",
-  "version": "0.7.0",
   "description": "A simple lightbox plugin based on the bootstrap modal plugin.",
   "homepage": "http://jbutz.github.com/bootstrap-lightbox/",
   "keywords": [

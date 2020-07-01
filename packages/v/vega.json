@@ -1,21 +1,11 @@
 {
   "name": "vega",
   "filename": "vega.min.js",
-  "version": "5.12.3",
   "description": "The Vega visualization grammar.",
   "homepage": "https://vega.github.io/vega/",
   "keywords": [
     "vega",
     "vega.js"
-  ],
-  "npmName": "vega",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/vega?(-core)?(.min).js"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -25,5 +15,17 @@
   "author": {
     "name": "UW Interactive Data Lab",
     "url": "http://idl.cs.washington.edu"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "vega",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/vega?(-core)?(.min).js"
+        ]
+      }
+    ]
   }
 }

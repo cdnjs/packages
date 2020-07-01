@@ -2,7 +2,6 @@
   "name": "cachep2p",
   "filename": "cachep2p.min.js",
   "description": "The Peer to Peer Cache for the Masses",
-  "version": "0.1.6",
   "author": {
     "name": "Carlos Guerrero",
     "email": "carlos@carlosguerrero.com",
@@ -36,13 +35,16 @@
     "type": "git",
     "url": "git://github.com/guerrerocarlos/cachep2p.git"
   },
-  "npmName": "cachep2p",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "cachep2p*.+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "cachep2p",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "cachep2p*.+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

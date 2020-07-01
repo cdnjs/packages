@@ -1,7 +1,6 @@
 {
   "name": "barba.js",
   "filename": "barba.min.js",
-  "version": "1.0.0",
   "description": "Barba.js it's a small, flexible and dependency free library that helps you creating fluid and smooth transition between your website's pages.",
   "homepage": "http://barbajs.org",
   "keywords": [
@@ -15,13 +14,16 @@
   },
   "author": "Luigi De Rosa <lurukee@gmail.com>",
   "license": "MIT",
-  "npmName": "barba.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "barba.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

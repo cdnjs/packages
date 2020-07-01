@@ -1,7 +1,6 @@
 {
   "name": "chainvas",
   "filename": "chainvas.min.js",
-  "version": "2.1",
   "description": "A tiny, modular library that can add chaining to any API that isn’t naturally chainable, like the Canvas API, the DOM and more.",
   "homepage": "http://leaverou.github.com/chainvas/",
   "keywords": [

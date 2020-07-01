@@ -1,7 +1,6 @@
 {
   "name": "ScrollMagic",
   "filename": "ScrollMagic.min.js",
-  "version": "2.0.7",
   "description": "The javascript library for magical scroll interactions.",
   "author": {
     "name": "Jan Paepke",
@@ -33,19 +32,22 @@
     "url": "git://github.com/janpaepke/ScrollMagic.git"
   },
   "namespace": "ScrollMagic",
-  "npmName": "scrollmagic",
-  "npmFileMap": [
-    {
-      "basePath": "scrollmagic/minified",
-      "files": [
-        "**/*.js"
-      ]
-    },
-    {
-      "basePath": "scrollmagic/uncompressed",
-      "files": [
-        "**/*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "scrollmagic",
+    "fileMap": [
+      {
+        "basePath": "scrollmagic/minified",
+        "files": [
+          "**/*.js"
+        ]
+      },
+      {
+        "basePath": "scrollmagic/uncompressed",
+        "files": [
+          "**/*.js"
+        ]
+      }
+    ]
+  }
 }

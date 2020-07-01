@@ -1,6 +1,5 @@
 {
   "name": "eventemitter3",
-  "version": "4.0.0",
   "filename": "index.min.js",
   "description": "EventEmitter3 focuses on performance while maintaining a Node.js AND browser compatible interface.",
   "repository": {
@@ -26,13 +25,16 @@
   ],
   "author": "Arnout Kazemier",
   "license": "MIT",
-  "npmName": "eventemitter3",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "index.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "eventemitter3",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "angular-loading-bar",
   "filename": "loading-bar.min.js",
-  "version": "0.9.0",
   "description": "An automatic loading bar for AngularJS",
   "repository": {
     "type": "git",
@@ -18,13 +17,16 @@
   "author": "Wes Cruver",
   "license": "MIT",
   "homepage": "https://chieffancypants.github.io/angular-loading-bar",
-  "npmName": "angular-loading-bar",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-loading-bar",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  }
 }

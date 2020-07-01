@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/SINTEF-9012/PruneCluster.git"
   },
-  "npmName": "prunecluster",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css|ts)"
-      ]
-    }
-  ],
-  "filename": "PruneCluster.js"
+  "filename": "PruneCluster.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "prunecluster",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css|ts)"
+        ]
+      }
+    ]
+  }
 }

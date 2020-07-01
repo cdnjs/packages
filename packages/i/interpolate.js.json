@@ -1,7 +1,6 @@
 {
   "name": "interpolate.js",
   "filename": "interpolate.min.js",
-  "version": "1.1.0",
   "description": "Map an Object against a template String",
   "author": "@toddmotto",
   "license": "MIT",

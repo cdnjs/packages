@@ -18,7 +18,6 @@
     "navigation"
   ],
   "homepage": "https://www.virtuosoft.eu/code/bootstrap-autohidingnavbar/",
-  "version": "4.0.0",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/istvan-ujjmeszaros/bootstrap-autohidingnavbar.git",

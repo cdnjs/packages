@@ -1,7 +1,6 @@
 {
   "name": "UAParser.js",
   "filename": "ua-parser.min.js",
-  "version": "0.7.21",
   "description": "Lightweight JavaScript-based user-agent string parser",
   "keywords": [
     "user-agent",
@@ -17,17 +16,20 @@
     "MIT"
   ],
   "author": "Faisal Salman <fyzlman@gmail.com> (http://faisalman.com)",
-  "npmName": "ua-parser-js",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/faisalman/ua-parser-js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "ua-parser-js",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
   }
 }

@@ -1,7 +1,6 @@
 {
   "name": "tAutocomplete",
   "filename": "tautocomplete.min.js",
-  "version": "1.0.0",
   "description": "Automplete drop-down lists the details in a table format. The plugin is useful when multiple details has to be displayed.",
   "repository": {
     "type": "git",

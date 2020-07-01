@@ -1,6 +1,5 @@
 {
   "name": "themoviedb-javascript-library",
-  "version": "3.0.3",
   "description": "A Javascript library to interact with themoviedb.org Rest API.",
   "filename": "themoviedb.min.js",
   "repository": {

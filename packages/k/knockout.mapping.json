@@ -1,7 +1,6 @@
 {
   "name": "knockout.mapping",
   "filename": "knockout.mapping.min.js",
-  "version": "2.4.1",
   "description": "Object mapping plugin for Knockout",
   "homepage": "http://knockoutjs.com/documentation/plugins-mapping.html",
   "keywords": [

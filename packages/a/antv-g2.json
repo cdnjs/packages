@@ -12,14 +12,17 @@
     "type": "git",
     "url": "git+https://github.com/antvis/g2.git"
   },
-  "npmName": "@antv/g2",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "g2.min.js"
+  "filename": "g2.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@antv/g2",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "angular-ladda",
-  "version": "0.4.3",
   "filename": "angular-ladda.min.js",
   "description": "An angular directive wrapper for Ladda.",
   "repository": {
@@ -15,13 +14,16 @@
   ],
   "author": "Chungsub Kim <subicura@subicura.com> (http://subicura.com/)",
   "license": "MIT",
-  "npmName": "angular-ladda",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-ladda",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

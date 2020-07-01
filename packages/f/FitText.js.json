@@ -1,7 +1,6 @@
 {
   "name": "FitText.js",
   "filename": "jquery.fittext.min.js",
-  "version": "1.2.0",
   "description": "A jQuery plugin for inflating web type",
   "homepage": "http://fittextjs.com/",
   "keywords": [

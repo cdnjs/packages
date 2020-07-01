@@ -1,7 +1,6 @@
 {
   "name": "markdown.js",
   "filename": "markdown.min.js",
-  "version": "0.5.0",
   "description": "A sensible Markdown parser for javascript",
   "homepage": "https://github.com/evilstreak/markdown-js/",
   "keywords": [
@@ -9,15 +8,6 @@
     "markdown-js",
     "text processing",
     "ast"
-  ],
-  "npmName": "markdown",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "markdown*.js"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -27,5 +17,17 @@
   "authors": [
     "Dominic Baggott <dominic.baggott@gmail.com> (http://evilstreak.co.uk)",
     "Ash Berlin <ash_markdownjs@firemirror.com> (http://ashberlin.com)"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "markdown",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "markdown*.js"
+        ]
+      }
+    ]
+  }
 }

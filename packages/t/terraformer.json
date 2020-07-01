@@ -1,6 +1,5 @@
 {
   "name": "terraformer",
-  "version": "1.0.12",
   "description": "A Geo-toolkit built in Javascript.",
   "filename": "terraformer.min.js",
   "repository": {
@@ -9,16 +8,19 @@
   },
   "author": "Patrick Arlt <parlt@esri.com> (http://patrickarlt.com)",
   "license": "MIT",
-  "npmName": "terraformer",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "terraformer*.+(css|js|map)"
-      ]
-    }
-  ],
   "keywords": [
     "terraformer"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "terraformer",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "terraformer*.+(css|js|map)"
+        ]
+      }
+    ]
+  }
 }

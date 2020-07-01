@@ -1,7 +1,6 @@
 {
   "name": "graphicsjs",
   "filename": "graphics.min.js",
-  "version": "1.4.0",
   "description": "A lightweight Javascript graphics library with the intuitive API, based on SVG/VML technology",
   "repository": {
     "type": "git",

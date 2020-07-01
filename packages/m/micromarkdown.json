@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/SimonWaldherr/micromarkdown.js.git"
   },
-  "npmName": "micromarkdown",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "micromarkdown.min.js"
+  "filename": "micromarkdown.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "micromarkdown",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

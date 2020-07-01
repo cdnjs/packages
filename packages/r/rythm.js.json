@@ -1,7 +1,6 @@
 {
   "name": "rythm.js",
   "filename": "rythm.min.js",
-  "version": "2.2.5",
   "description": "A javascript library that makes your page dance.",
   "keywords": [
     "page-dancing",
@@ -19,13 +18,16 @@
   "author": "Benjamin Plouzennec <plouzennec.benjamin@gmail.com>",
   "license": "GPL-3.0",
   "homepage": "https://okazari.github.io/Rythm.js/",
-  "npmName": "rythm.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "rythm*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "rythm.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "rythm*"
+        ]
+      }
+    ]
+  }
 }

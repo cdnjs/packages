@@ -1,6 +1,5 @@
 {
   "name": "jQueryFormStyler",
-  "version": "2.0.2",
   "description": "Jquery plugin for styling HTML form elements",
   "filename": "jquery.formstyler.min.js",
   "author": "Dimox (http://dimox.name/)",

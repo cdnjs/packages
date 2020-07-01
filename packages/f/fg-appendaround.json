@@ -3,7 +3,6 @@
   "filename": "appendAround.min.js",
   "title": "AppendAround",
   "description": "A pattern for responsive markup ",
-  "version": "1.0.0",
   "author": {
     "name": "Scott Jehl",
     "company": "Filament Group",
@@ -19,13 +18,16 @@
     "responsive",
     "markup"
   ],
-  "npmName": "fg-appendaround",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "appendAround*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "fg-appendaround",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "appendAround*"
+        ]
+      }
+    ]
+  }
 }

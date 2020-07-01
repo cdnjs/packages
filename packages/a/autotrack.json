@@ -1,6 +1,5 @@
 {
   "name": "autotrack",
-  "version": "2.4.1",
   "filename": "autotrack.js",
   "description": "Automatic + enhanced analytics.js tracking for common user interactions",
   "repository": {

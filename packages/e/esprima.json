@@ -3,7 +3,6 @@
   "filename": "esprima.min.js",
   "description": "ECMAScript parsing infrastructure for multipurpose analysis",
   "homepage": "http://esprima.org",
-  "version": "2.7.3",
   "author": {
     "name": "Ariya Hidayat",
     "email": "ariya.hidayat@gmail.com"
@@ -20,13 +19,16 @@
     "parser",
     "syntax"
   ],
-  "npmName": "esprima",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "esprima*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "esprima",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "esprima*"
+        ]
+      }
+    ]
+  }
 }

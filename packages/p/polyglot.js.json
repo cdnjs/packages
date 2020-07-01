@@ -1,6 +1,5 @@
 {
   "name": "polyglot.js",
-  "version": "2.2.2",
   "description": "Give your JavaScript the ability to speak many languages.",
   "filename": "polyglot.min.js",
   "repository": {

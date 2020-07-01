@@ -2,7 +2,6 @@
   "name": "nomnoml",
   "filename": "nomnoml.min.js",
   "description": "The sassy UML renderer that generates diagrams from text",
-  "version": "0.7.2",
   "homepage": "http://www.nomnoml.com",
   "author": {
     "name": "Daniel Kallin",
@@ -16,13 +15,16 @@
     "type": "git",
     "url": "https://github.com/skanaar/nomnoml.git"
   },
-  "npmName": "nomnoml",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(nomnoml-cli.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "nomnoml",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(nomnoml-cli.js)"
+        ]
+      }
+    ]
+  }
 }

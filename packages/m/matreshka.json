@@ -1,26 +1,11 @@
 {
   "name": "matreshka",
   "filename": "matreshka.min.js",
-  "version": "1.9.1",
   "description": "Event-driven JavaScript framework",
   "homepage": "http://matreshka.io/",
   "keywords": [
     "matreshka",
     "framework"
-  ],
-  "npmName": "matreshka",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "matreshka.js",
-        "matreshka.min.js",
-        "matreshka.min.map",
-        "magic/matreshka-magic.js",
-        "magic/matreshka-magic.min.js",
-        "magic/matreshka-magic.min.map"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -30,5 +15,22 @@
   "author": {
     "name": "Andrey Gubanov",
     "email": "a@odessite.com.ua"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "matreshka",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "matreshka.js",
+          "matreshka.min.js",
+          "matreshka.min.map",
+          "magic/matreshka-magic.js",
+          "magic/matreshka-magic.min.js",
+          "magic/matreshka-magic.min.map"
+        ]
+      }
+    ]
   }
 }

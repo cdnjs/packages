@@ -2,7 +2,6 @@
   "name": "angular-css-injector",
   "filename": "angular-css-injector.min.js",
   "description": "angularJS service to load dynamically CSS files",
-  "version": "1.4.0",
   "keywords": [
     "angular",
     "css",

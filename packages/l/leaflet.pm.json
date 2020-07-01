@@ -1,7 +1,6 @@
 {
   "name": "leaflet.pm",
   "filename": "leaflet.pm.min.js",
-  "version": "2.2.0",
   "description": "A Leaflet Plugin For Editing Geometry Layers in Leaflet 1.0",
   "keywords": [
     "leaflet",
@@ -26,13 +25,16 @@
   },
   "license": "MIT",
   "homepage": "https://codeofsumit.github.io/leaflet.pm/",
-  "npmName": "leaflet.pm",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "leaflet.pm",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

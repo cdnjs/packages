@@ -14,20 +14,23 @@
     "type": "git",
     "url": "git+https://github.com/moment/luxon.git"
   },
-  "npmName": "luxon",
-  "npmFileMap": [
-    {
-      "basePath": "build/global",
-      "files": [
-        "*.@(js|map)"
-      ]
-    },
-    {
-      "basePath": "build",
-      "files": [
-        "cjs-browser/*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "luxon.min.js"
+  "filename": "luxon.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "luxon",
+    "fileMap": [
+      {
+        "basePath": "build/global",
+        "files": [
+          "*.@(js|map)"
+        ]
+      },
+      {
+        "basePath": "build",
+        "files": [
+          "cjs-browser/*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

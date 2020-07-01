@@ -1,7 +1,6 @@
 {
   "name": "css-animations.js",
   "filename": "css-animations.min.js",
-  "version": "0.1.0",
   "description": "A library to work with CSS3 keyframe animations from javascript",
   "keywords": [
     "css3",

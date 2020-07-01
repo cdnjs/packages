@@ -1,7 +1,6 @@
 {
   "name": "plyr",
   "filename": "plyr.min.js",
-  "version": "3.6.2",
   "description": "A simple, accessible and customizable HTML5, YouTube and Vimeo media player",
   "author": "Sam Potts <sam@selz.com>",
   "homepage": "https://plyr.io",
@@ -15,13 +14,16 @@
     "type": "git",
     "url": "git://github.com/selz/plyr.git"
   },
-  "npmName": "plyr",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.mjs)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "plyr",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.mjs)"
+        ]
+      }
+    ]
+  }
 }

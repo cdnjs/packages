@@ -1,6 +1,5 @@
 {
   "name": "loadCSS",
-  "version": "3.1.0",
   "description": "A function for loading CSS asynchronously",
   "filename": "loadCSS.min.js",
   "author": "Filament Group <hello@filamentgroup.com>",

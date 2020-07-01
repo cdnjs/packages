@@ -1,7 +1,6 @@
 {
   "name": "qwery",
   "description": "blazing fast CSS3 query selector engine",
-  "version": "4.0.0",
   "author": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)",
   "filename": "qwery.min.js",
   "keywords": [
@@ -15,14 +14,17 @@
     "url": "https://github.com/ded/qwery.git"
   },
   "license": "MIT",
-  "npmName": "qwery",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "qwery.js",
-        "qwery.min.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "qwery",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "qwery.js",
+          "qwery.min.js"
+        ]
+      }
+    ]
+  }
 }

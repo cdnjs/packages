@@ -1,6 +1,5 @@
 {
   "name": "videojs-vast-plugin",
-  "version": "0.2.1",
   "description": "A VAST plugin for VideoJS",
   "filename": "videojs.vast.min.js",
   "homepage": "https://theonion.github.io/videojs-vast-plugin/",

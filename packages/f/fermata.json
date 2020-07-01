@@ -1,7 +1,6 @@
 {
   "name": "fermata",
   "filename": "fermata.min.js",
-  "version": "0.11.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/natevw/fermata.git"
@@ -18,13 +17,16 @@
   },
   "description": "Succinct native REST client, for client-side web apps and node.js. Turns URLs into magic JavaScript objects. Supports JSON, CouchDB, OAuth 1.0a, form uploads and more!",
   "license": "MIT",
-  "npmName": "fermata",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "fermata*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "fermata",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "fermata*"
+        ]
+      }
+    ]
+  }
 }

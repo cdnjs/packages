@@ -1,6 +1,5 @@
 {
   "name": "function-plot",
-  "version": "1.18.1",
   "description": "A simple 2d function plotter powered by d3",
   "license": "MIT",
   "filename": "function-plot.js",
@@ -21,13 +20,16 @@
     "derivative",
     "2d"
   ],
-  "npmName": "function-plot",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "function-plot",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

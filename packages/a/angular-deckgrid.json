@@ -25,6 +25,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/akoenig/angular-deckgrid"
-  },
-  "version": "0.5.0"
+  }
 }

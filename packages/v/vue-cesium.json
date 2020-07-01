@@ -17,16 +17,19 @@
     "type": "git",
     "url": "git+https://github.com/zouyaoji/vue-cesium.git"
   },
-  "npmName": "vue-cesium",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "lib/index.umd.js?(.map)",
-        "lib/*.css?(.map)",
-        "lang/*.js"
-      ]
-    }
-  ],
-  "filename": "lib/index.umd.js"
+  "filename": "lib/index.umd.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-cesium",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "lib/index.umd.js?(.map)",
+          "lib/*.css?(.map)",
+          "lang/*.js"
+        ]
+      }
+    ]
+  }
 }

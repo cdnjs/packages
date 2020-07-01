@@ -2,7 +2,6 @@
   "name": "angular-data",
   "filename": "angular-data.min.js",
   "description": "Angular wrapper for js-data.",
-  "version": "1.5.3",
   "homepage": "http://angular-data.pseudobry.com",
   "repository": {
     "type": "git",
@@ -18,15 +17,18 @@
     "url": "http://www.pseudobry.com",
     "email": "jason.dobry@gmail.com"
   },
-  "npmName": "angular-data",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js",
-        "*.map"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-data",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*.map"
+        ]
+      }
+    ]
+  }
 }

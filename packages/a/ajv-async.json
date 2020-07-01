@@ -27,14 +27,17 @@
     "type": "git",
     "url": "git+https://github.com/epoberezkin/ajv-async.git"
   },
-  "npmName": "ajv-async",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "ajv-async.min.js"
+  "filename": "ajv-async.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ajv-async",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

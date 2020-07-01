@@ -1,7 +1,6 @@
 {
   "name": "ga-lite",
   "filename": "ga-lite.min.js",
-  "version": "2.0.5",
   "description": "Small, cacheable subset of Google Analytics JS client",
   "keywords": [
     "google",

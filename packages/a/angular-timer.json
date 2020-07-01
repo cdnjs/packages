@@ -2,7 +2,6 @@
   "author": "Siddique Hameed",
   "name": "angular-timer",
   "description": "A simple, re-usable, inter-operable timer directive",
-  "version": "1.3.5",
   "filename": "angular-timer.min.js",
   "keywords": [
     "angular",

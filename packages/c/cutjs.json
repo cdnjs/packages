@@ -1,7 +1,6 @@
 {
   "name": "cutjs",
   "filename": "cut.web.min.js",
-  "version": "0.4.14",
   "description": "2D HTML5 JavaScript library for cross-platform game development",
   "homepage": "http://cutjs.org/",
   "keywords": [
@@ -18,13 +17,16 @@
     "type": "git",
     "url": "https://github.com/shakiba/stage.js.git"
   },
-  "npmName": "cutjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "cutjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

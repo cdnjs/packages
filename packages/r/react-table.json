@@ -1,6 +1,5 @@
 {
   "name": "react-table",
-  "version": "6.11.5",
   "filename": "react-table.min.js",
   "description": "A fast, lightweight, opinionated table and datagrid built on React",
   "homepage": "https://react-table.js.org/",
@@ -16,13 +15,16 @@
   },
   "license": "MIT",
   "author": "Tanner Linsley <@tannerlinsley>",
-  "npmName": "react-table",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "react-table*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-table",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "react-table*"
+        ]
+      }
+    ]
+  }
 }

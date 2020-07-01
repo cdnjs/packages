@@ -1,7 +1,6 @@
 {
   "name": "jquery.imagesloaded",
   "filename": "imagesloaded.pkgd.min.js",
-  "version": "4.1.4",
   "description": "You images done yet or what?",
   "homepage": "http://desandro.github.com/imagesloaded/",
   "keywords": [
@@ -9,19 +8,22 @@
     "load",
     "jquery"
   ],
-  "npmName": "imagesloaded",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "imagesloaded*.js"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/desandro/imagesloaded"
   },
   "license": "MIT",
-  "author": "David DeSandro"
+  "author": "David DeSandro",
+  "autoupdate": {
+    "source": "npm",
+    "target": "imagesloaded",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "imagesloaded*.js"
+        ]
+      }
+    ]
+  }
 }

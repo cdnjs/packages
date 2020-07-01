@@ -1,7 +1,6 @@
 {
   "name": "viewerjs",
   "description": "JavaScript image viewer.",
-  "version": "1.5.0",
   "filename": "viewer.min.js",
   "license": "MIT",
   "repository": {
@@ -27,13 +26,16 @@
     "component",
     "development"
   ],
-  "npmName": "viewerjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "viewerjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

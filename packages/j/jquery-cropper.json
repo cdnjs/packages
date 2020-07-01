@@ -2,7 +2,6 @@
   "name": "jquery-cropper",
   "filename": "cropper.min.js",
   "description": "A jQuery plugin wrapper for Cropper.js.",
-  "version": "1.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -33,13 +32,16 @@
     "web",
     "development"
   ],
-  "npmName": "jquery-cropper",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(jquery-cropper.common.js|jquery-cropper.esm.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-cropper",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(jquery-cropper.common.js|jquery-cropper.esm.js)"
+        ]
+      }
+    ]
+  }
 }

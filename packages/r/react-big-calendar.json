@@ -19,14 +19,17 @@
     "type": "git",
     "url": "git+https://github.com/intljusticemission/react-big-calendar.git"
   },
-  "npmName": "react-big-calendar",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "react-big-calendar.min.js"
+  "filename": "react-big-calendar.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-big-calendar",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

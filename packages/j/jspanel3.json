@@ -1,7 +1,6 @@
 {
   "name": "jspanel3",
   "filename": "jquery.jspanel.min.js",
-  "version": "3.11.3",
   "description": "A jQuery Plugin to create highly configurable multifunctional floating panels",
   "repository": {
     "type": "git",
@@ -25,14 +24,17 @@
   "author": "Stefan Straesser <info@jspanel.de> (http://jspanel.de/)",
   "homepage": "http://jspanel.de",
   "license": "MIT",
-  "npmName": "jspanel3",
-  "npmFileMap": [
-    {
-      "basePath": "source",
-      "files": [
-        "jquery.jspanel*.!(sass)",
-        "fonts/**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jspanel3",
+    "fileMap": [
+      {
+        "basePath": "source",
+        "files": [
+          "jquery.jspanel*.!(sass)",
+          "fonts/**/*"
+        ]
+      }
+    ]
+  }
 }

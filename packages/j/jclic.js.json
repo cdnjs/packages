@@ -1,7 +1,6 @@
 {
   "name": "jclic.js",
   "filename": "jclic.min.js",
-  "version": "1.1.12",
   "description": "HTML5 player for JClic activities",
   "homepage": "https://projectestac.github.io/jclic.js",
   "repository": {

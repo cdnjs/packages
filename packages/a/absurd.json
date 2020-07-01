@@ -1,21 +1,11 @@
 {
   "name": "absurd",
   "filename": "absurd.min.js",
-  "version": "0.3.9",
   "description": "JavaScript library with superpowers - http://absurdjs.com/",
   "homepage": "http://absurdjs.com/",
   "keywords": [
     "css",
     "preprocessor"
-  ],
-  "npmName": "absurd",
-  "npmFileMap": [
-    {
-      "basePath": "client-side/build",
-      "files": [
-        "*.js"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -26,5 +16,17 @@
     "name": "Krasimir Tsonev",
     "email": "info@krasimirtsonev.com",
     "url": "http://krasimirtsonev.com"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "absurd",
+    "fileMap": [
+      {
+        "basePath": "client-side/build",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
   }
 }

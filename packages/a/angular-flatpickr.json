@@ -11,14 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/archsaber/angular-flatpickr.git"
   },
-  "npmName": "angular-flatpickr",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "ng-flatpickr.min.js"
+  "filename": "ng-flatpickr.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-flatpickr",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

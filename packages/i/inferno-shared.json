@@ -1,6 +1,5 @@
 {
   "name": "inferno-shared",
-  "version": "7.4.2",
   "filename": "inferno-shared.min.js",
   "license": "MIT",
   "description": "Helpers functions for Inferno",
@@ -17,13 +16,16 @@
     "type": "git",
     "url": "git+https://github.com/infernojs/inferno.git"
   },
-  "npmName": "inferno-shared",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/inferno-shared!(*.node)*.!(*ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "inferno-shared",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/inferno-shared!(*.node)*.!(*ts)"
+        ]
+      }
+    ]
+  }
 }

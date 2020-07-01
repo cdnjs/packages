@@ -1,6 +1,5 @@
 {
   "name": "knockout-paging",
-  "version": "0.4.0",
   "description": "Adds an extender to Knockout to add paging functionality to observable arrays.",
   "repository": {
     "type": "git",

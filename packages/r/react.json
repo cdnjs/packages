@@ -1,7 +1,6 @@
 {
   "name": "react",
   "filename": "umd/react.production.min.js",
-  "version": "16.13.1",
   "description": "React is a JavaScript library for building user interfaces.",
   "repository": {
     "type": "git",
@@ -14,22 +13,25 @@
     "view"
   ],
   "homepage": "https://facebook.github.io/react/",
-  "npmName": "react",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "+(cjs|umd)/**/*"
-      ]
-    }
-  ],
   "namespace": "React",
   "license": "MIT",
-  "author": "Facebook"
+  "author": "Facebook",
+  "autoupdate": {
+    "source": "npm",
+    "target": "react",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "+(cjs|umd)/**/*"
+        ]
+      }
+    ]
+  }
 }

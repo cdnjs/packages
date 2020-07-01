@@ -1,7 +1,6 @@
 {
   "name": "vexflow",
   "filename": "vexflow-min.js",
-  "version": "3.0.9",
   "description": "A JavaScript library for rendering music notation and guitar tablature",
   "repository": {
     "type": "git",
@@ -20,19 +19,22 @@
     "guitar",
     "tablature"
   ],
-  "npmName": "vexflow",
-  "npmFileMap": [
-    {
-      "basePath": "releases",
-      "files": [
-        "**/vexflow!(*tests*|*.html)"
-      ]
-    },
-    {
-      "basePath": "lib",
-      "files": [
-        "vexflow*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vexflow",
+    "fileMap": [
+      {
+        "basePath": "releases",
+        "files": [
+          "**/vexflow!(*tests*|*.html)"
+        ]
+      },
+      {
+        "basePath": "lib",
+        "files": [
+          "vexflow*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "jrumble",
   "filename": "jquery.jrumble.min.js",
-  "version": "1.3.0",
   "description": "jRumble is a jQuery plugin that rumbles, vibrates, shakes, and rotates any element you choose. It's great to use as a hover effect or a way to direct attention to an element.",
   "repository": {
     "type": "git",

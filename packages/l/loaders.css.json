@@ -1,6 +1,5 @@
 {
   "name": "loaders.css",
-  "version": "0.1.2",
   "filename": "loaders.min.css",
   "description": "Loading animations in pure css",
   "repository": {
@@ -15,13 +14,16 @@
   ],
   "author": "Connor Atherton",
   "license": "MIT",
-  "npmName": "loaders.css",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "loaders*.+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "loaders.css",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "loaders*.+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

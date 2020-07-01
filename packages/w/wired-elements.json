@@ -21,14 +21,17 @@
     "type": "git",
     "url": "git+https://github.com/wiredjs/wired-elements.git"
   },
-  "npmName": "wired-elements",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "*.@(js|ts)"
-      ]
-    }
-  ],
-  "filename": "wired-elements-bundled-full.js"
+  "filename": "wired-elements-bundled-full.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "wired-elements",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

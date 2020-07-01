@@ -1,6 +1,5 @@
 {
   "name": "angular-resizable",
-  "version": "1.2.0",
   "description": "A directive for creating resizable containers in angular.",
   "keywords": [
     "angular",
@@ -20,19 +19,22 @@
   "author": "Reklino",
   "license": "MIT",
   "homepage": "http://codepen.io/Reklino/pen/raRaXq/",
-  "npmName": "angular-resizable",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "angular-resizable*"
-      ]
-    },
-    {
-      "basePath": "src",
-      "files": [
-        "angular-resizable*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-resizable",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "angular-resizable*"
+        ]
+      },
+      {
+        "basePath": "src",
+        "files": [
+          "angular-resizable*"
+        ]
+      }
+    ]
+  }
 }

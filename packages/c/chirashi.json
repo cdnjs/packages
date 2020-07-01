@@ -1,6 +1,5 @@
 {
   "name": "chirashi",
-  "version": "6.5.0",
   "description": "Minimalist DOM and events manager focused on performances",
   "filename": "chirashi.min.js",
   "homepage": "https://chirashijs.org",
@@ -15,14 +14,17 @@
     "DOM",
     "events"
   ],
-  "npmName": "chirashi",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/chirashi.!(*gz|*mjs)"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "chirashi",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/chirashi.!(*gz|*mjs)"
+        ]
+      }
+    ]
+  }
 }

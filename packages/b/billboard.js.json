@@ -2,7 +2,6 @@
   "name": "billboard.js",
   "description": "Re-usable easy interface JavaScript chart library, based on D3 v4+",
   "author": "NAVER Corp.",
-  "version": "1.12.6",
   "filename": "billboard.min.js",
   "homepage": "https://naver.github.io/billboard.js/",
   "repository": {
@@ -16,13 +15,16 @@
     "svg"
   ],
   "license": "MIT",
-  "npmName": "billboard.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "billboard.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

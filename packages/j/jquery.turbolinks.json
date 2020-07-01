@@ -1,6 +1,5 @@
 {
   "name": "jquery.turbolinks",
-  "version": "2.1.0",
   "filename": "jquery.turbolinks.min.js",
   "authors": [
     "Sasha Koss <kossnocorp@gmail.com>",

@@ -1,7 +1,6 @@
 {
   "name": "qunit",
   "filename": "qunit.min.js",
-  "version": "2.9.3",
   "description": "An easy-to-use JavaScript Unit Testing framework.",
   "homepage": "https://qunitjs.com/",
   "keywords": [
@@ -19,13 +18,16 @@
     "name": "jQuery Foundation and other contributors",
     "url": "https://github.com/jquery/qunit/blob/master/AUTHORS.txt"
   },
-  "npmName": "qunit",
-  "npmFileMap": [
-    {
-      "basePath": "qunit",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "qunit",
+    "fileMap": [
+      {
+        "basePath": "qunit",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

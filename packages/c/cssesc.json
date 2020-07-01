@@ -1,6 +1,5 @@
 {
   "name": "cssesc",
-  "version": "3.0.0",
   "filename": "cssesc.min.js",
   "description": "A JavaScript library for escaping CSS strings and identifiers while generating the shortest possible ASCII-only output.",
   "homepage": "https://mths.be/cssesc",
@@ -20,13 +19,16 @@
     "name": "Mathias Bynens",
     "url": "https://mathiasbynens.be/"
   },
-  "npmName": "cssesc",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "cssesc*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "cssesc",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "cssesc*"
+        ]
+      }
+    ]
+  }
 }

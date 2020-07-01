@@ -1,7 +1,6 @@
 {
   "name": "openlocationcode",
   "filename": "openlocationcode.min.js",
-  "version": "1.0.4",
   "description": "Library to convert between lat/lng and OLC codes",
   "repository": {
     "type": "git",

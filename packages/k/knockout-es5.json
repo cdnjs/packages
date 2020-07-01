@@ -1,6 +1,5 @@
 {
   "name": "knockout-es5",
-  "version": "0.4.6",
   "filename": "knockout-es5.min.js",
   "description": "Knockout.js meets ECMAScript 5 properties",
   "homepage": "http://blog.stevensanderson.com/2013/05/20/knockout-es5-a-plugin-to-simplify-your-syntax/",

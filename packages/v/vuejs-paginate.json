@@ -1,6 +1,5 @@
 {
   "name": "vuejs-paginate",
-  "version": "2.1.0",
   "filename": "index.js",
   "description": "A simple pagination component for Vue.js",
   "repository": {
@@ -14,13 +13,16 @@
   ],
   "author": "Cain Liu",
   "license": "MIT",
-  "npmName": "vuejs-paginate",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vuejs-paginate",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

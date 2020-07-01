@@ -1,6 +1,5 @@
 {
   "name": "jQuery.Gantt",
-  "version": "1.1.0",
   "description": "jQuery Gantt Chart is a simple chart that implements gantt functionality as a jQuery component.",
   "filename": "js/jquery.fn.gantt.min.js",
   "repository": {

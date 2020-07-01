@@ -19,14 +19,17 @@
     "type": "git",
     "url": "git+https://github.com/Johann-S/bs-custom-file-input.git"
   },
-  "npmName": "bs-custom-file-input",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "bs-custom-file-input.min.js"
+  "filename": "bs-custom-file-input.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bs-custom-file-input",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

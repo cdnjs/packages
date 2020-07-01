@@ -1,7 +1,6 @@
 {
   "name": "intl-messageformat",
   "filename": "intl-messageformat.min.js",
-  "version": "8.3.9",
   "description": "Formats ICU Message strings with number, date, plural, and select placeholders to create localized messages.",
   "keywords": [
     "i18n",
@@ -20,14 +19,17 @@
     "url": "git://github.com/yahoo/intl-messageformat.git"
   },
   "homepage": "https://formatjs.io/",
-  "npmName": "intl-messageformat",
-  "npmFileMap": [
-    {
-      "basePath": "dist/umd",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "autoupdate": {
+    "source": "npm",
+    "target": "intl-messageformat",
+    "fileMap": [
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

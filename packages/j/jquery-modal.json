@@ -1,6 +1,5 @@
 {
   "name": "jquery-modal",
-  "version": "0.9.2",
   "filename": "jquery.modal.min.js",
   "description": "The simplest possible modal for jQuery",
   "homepage": "http://jquerymodal.com/",
@@ -18,13 +17,16 @@
     "jquery",
     "modal"
   ],
-  "npmName": "jquery-modal",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jquery.modal*.+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-modal",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery.modal*.+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

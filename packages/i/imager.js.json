@@ -1,7 +1,6 @@
 {
   "name": "imager.js",
   "filename": "Imager.min.js",
-  "version": "0.5.1",
   "description": "Imager.js is an alternative solution to the issue of how to handle responsive image loading, created by developers at BBC News.",
   "repository": {
     "type": "git",
@@ -18,19 +17,22 @@
     "PictureFill"
   ],
   "license": "Apache-2.0",
-  "npmName": "imager.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "authors": [
     "Mark McDonnell",
     "Addy Osmani",
     "Tom Maslen",
     "Thomas Parisot"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "imager.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

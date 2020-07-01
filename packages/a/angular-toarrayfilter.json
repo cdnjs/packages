@@ -1,7 +1,6 @@
 {
   "name": "angular-toarrayfilter",
   "filename": "toArrayFilter.min.js",
-  "version": "1.0.3",
   "description": "An angular filter to convert objects to arrays for easy filtering and sorting",
   "repository": {
     "type": "git",
@@ -16,13 +15,16 @@
   ],
   "author": "Pete Bacon Darwin <pete@bacondarwin.com>",
   "license": "MIT",
-  "npmName": "angular-toarrayfilter",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*toArrayFilter*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-toarrayfilter",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*toArrayFilter*"
+        ]
+      }
+    ]
+  }
 }

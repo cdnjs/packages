@@ -23,13 +23,16 @@
     "type": "git",
     "url": "git+ssh://git@github.com/ealmansi/bchaddrjs.git"
   },
-  "npmName": "bchaddrjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "bchaddrjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

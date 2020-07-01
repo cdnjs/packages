@@ -1,6 +1,5 @@
 {
   "name": "satellite.js",
-  "version": "4.0.0",
   "description": "SGP4/SDP4 calculation library",
   "filename": "satellite.min.js",
   "repository": {
@@ -17,13 +16,16 @@
     "url": "https://github.com/shashwatak"
   },
   "license": "MIT",
-  "npmName": "satellite.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(satellite.es.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "satellite.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(satellite.es.js)"
+        ]
+      }
+    ]
+  }
 }

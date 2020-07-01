@@ -6,7 +6,6 @@
     "email": "info@prettydiff.com",
     "url": "http://prettydiff.com/"
   },
-  "version": "2.2.8",
   "description": "Language aware code comparison tool for several web based languages. It also beautifies, minifies, and a few other things.",
   "keywords": [
     "diff",

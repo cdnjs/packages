@@ -1,6 +1,5 @@
 {
   "name": "instagram-lite",
-  "version": "3.0.0",
   "filename": "instagramlite.min.js",
   "description": "A simple, lightweight jQuery plugin used to display a user's Instagram photos.",
   "keywords": [

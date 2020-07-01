@@ -13,13 +13,16 @@
     "type": "git",
     "url": "git+https://github.com/DataTables/Plugins.git"
   },
-  "npmName": "datatables.net-plugins",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*/**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-plugins",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*/**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "react-router-dom",
   "filename": "react-router-dom.min.js",
-  "version": "5.1.2",
   "description": "DOM bindings for React Router",
   "repository": {
     "type": "git",
@@ -21,13 +20,16 @@
     "link"
   ],
   "homepage": "https://reacttraining.com/react-router/",
-  "npmName": "react-router-dom",
-  "npmFileMap": [
-    {
-      "basePath": "umd",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-router-dom",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

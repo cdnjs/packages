@@ -1,7 +1,6 @@
 {
   "name": "list.fuzzysearch.js",
   "filename": "list.fuzzysearch.min.js",
-  "version": "0.1.0",
   "description": "A fuzzy search plugin for List.js",
   "keywords": [
     "fuzzy",

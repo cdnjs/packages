@@ -1,6 +1,5 @@
 {
   "name": "angular-resource",
-  "version": "1.7.9",
   "description": "AngularJS module for interacting with RESTful server-side data sources",
   "repository": {
     "type": "git",
@@ -16,14 +15,17 @@
   "author": "Angular Core Team <angular-core+npm@google.com>",
   "license": "MIT",
   "homepage": "http://angularjs.org",
-  "npmName": "angular-resource",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "angular-resource*"
-      ]
-    }
-  ],
-  "filename": "angular-resource.min.js"
+  "filename": "angular-resource.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-resource",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "angular-resource*"
+        ]
+      }
+    ]
+  }
 }

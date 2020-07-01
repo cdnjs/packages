@@ -1,21 +1,11 @@
 {
   "name": "parsley.js",
   "filename": "parsley.min.js",
-  "version": "2.9.2",
   "description": "Validate your forms, frontend, without writing a single line of javascript!",
   "homepage": "http://parsleyjs.org/",
   "keywords": [
     "form",
     "validation"
-  ],
-  "npmName": "parsleyjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -26,5 +16,17 @@
     "name": "Guillaume Potier",
     "email": "guillaume@wisembly.com",
     "url": "http://guillaumepotier.com/"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "parsleyjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
   }
 }

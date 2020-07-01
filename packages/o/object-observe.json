@@ -1,6 +1,5 @@
 {
   "name": "object-observe",
-  "version": "0.2.6",
   "description": "Object.observe polyfill based on ES7 spec",
   "repository": {
     "type": "git",

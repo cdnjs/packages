@@ -1,7 +1,6 @@
 {
   "name": "Swiper",
   "filename": "js/swiper.min.js",
-  "version": "5.3.8",
   "description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
   "repository": {
     "type": "git",
@@ -13,18 +12,21 @@
   ],
   "author": "Vladimir Kharlampidi",
   "homepage": "http://www.idangero.us/sliders/swiper",
-  "npmName": "swiper",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "js/swiper.*",
-        "css/swiper.*"
-      ]
-    }
-  ],
   "licenses": [
     "GPL",
     "MIT"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "swiper",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "js/swiper.*",
+          "css/swiper.*"
+        ]
+      }
+    ]
+  }
 }

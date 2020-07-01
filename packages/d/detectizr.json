@@ -1,7 +1,6 @@
 {
   "name": "detectizr",
   "filename": "detectizr.min.js",
-  "version": "2.2.0",
   "description": "Detectizr is a Modernizr extension to detect device, browser, operating system and screen.",
   "keywords": [
     "detect",

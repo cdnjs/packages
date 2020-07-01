@@ -1,6 +1,5 @@
 {
   "name": "weblas",
-  "version": "0.9.1",
   "description": "GPU accelerated BLAS for node and the browser",
   "filename": "weblas.js",
   "keywords": [
@@ -17,14 +16,17 @@
     "type": "git",
     "url": "https://github.com/waylonflinn/weblas"
   },
-  "npmName": "weblas",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.json)"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "weblas",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.json)"
+        ]
+      }
+    ]
+  }
 }

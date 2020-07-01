@@ -1,7 +1,6 @@
 {
   "name": "github-markdown-css",
   "filename": "github-markdown.min.css",
-  "version": "4.0.0",
   "description": "The minimal amount of CSS to replicate the GitHub Markdown style",
   "license": "MIT",
   "repository": {
@@ -23,13 +22,16 @@
     "style",
     "stylesheet"
   ],
-  "npmName": "github-markdown-css",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "github-markdown*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "github-markdown-css",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "github-markdown*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "cellx",
   "filename": "cellx.min.js",
-  "version": "1.10.2",
   "description": "Ultra-fast implementation of reactivity for javascript",
   "keywords": [
     "cellx",
@@ -13,13 +12,16 @@
   },
   "author": "Dmitry Vibe",
   "license": "MIT",
-  "npmName": "cellx",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "cellx",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.ts)"
+        ]
+      }
+    ]
+  }
 }

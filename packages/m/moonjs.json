@@ -1,6 +1,5 @@
 {
   "name": "moonjs",
-  "version": "0.11.0",
   "filename": "moon.min.js",
   "description": "A minimal, blazing fast UI library.",
   "homepage": "http://moonjs.ga/",
@@ -19,13 +18,16 @@
     "name": "Kabir Shah",
     "url": "https://kabir.ml/"
   },
-  "npmName": "moonjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*common*|*.gz)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "moonjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*common*|*.gz)"
+        ]
+      }
+    ]
+  }
 }

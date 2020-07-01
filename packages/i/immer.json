@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/immerjs/immer.git"
   },
-  "npmName": "immer",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|ts|map)"
-      ]
-    }
-  ],
-  "filename": "immer.umd.production.min.js"
+  "filename": "immer.umd.production.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "immer",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|ts|map)"
+        ]
+      }
+    ]
+  }
 }

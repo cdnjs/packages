@@ -1,7 +1,6 @@
 {
   "name": "topojson",
   "filename": "topojson.min.js",
-  "version": "3.0.2",
   "description": "An extension to GeoJSON that encodes topology.",
   "keywords": [
     "geojson",
@@ -15,14 +14,17 @@
     "type": "git",
     "url": "https://github.com/mbostock/topojson.git"
   },
-  "npmName": "topojson",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.node.js)"
-      ]
-    }
-  ],
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "autoupdate": {
+    "source": "npm",
+    "target": "topojson",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.node.js)"
+        ]
+      }
+    ]
+  }
 }

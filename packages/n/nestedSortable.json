@@ -1,6 +1,5 @@
 {
   "name": "nestedSortable",
-  "version": "2.0.0",
   "author": "Manuele J Sarfatti <manuele@mjsarfatti.com>",
   "description": "NestedSortable is a jQuery plugin that extends jQuery Sortable UI functionalities to nested lists.",
   "filename": "jquery.mjs.nestedSortable.min.js",

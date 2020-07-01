@@ -1,16 +1,6 @@
 {
   "name": "ami.js",
-  "npmName": "ami.js",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/!(*.gz)"
-      ]
-    }
-  ],
   "filename": "ami.min.js",
-  "version": "0.32.0",
   "description": "AMI Medical Imaging (AMI) JS ToolKit for THREEJS",
   "keywords": [
     "ami",
@@ -37,5 +27,17 @@
   "author": {
     "name": "Nicolas Rannou",
     "url": "https://github.com/NicolasRannou"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "ami.js",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/!(*.gz)"
+        ]
+      }
+    ]
   }
 }

@@ -1,7 +1,6 @@
 {
   "name": "cash",
   "filename": "cash.min.js",
-  "version": "7.0.1",
   "description": "An absurdly small jQuery alternative for modern browsers.",
   "keywords": [
     "Cash",
@@ -17,13 +16,16 @@
     "email": "ken_wheeler@me.com"
   },
   "license": "MIT",
-  "npmName": "cash-dom",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "!(cash.esm.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "cash-dom",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "!(cash.esm.js)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "jquery.scrollex",
   "filename": "jquery.scrollex.min.js",
-  "version": "0.2.1",
   "description": "Nifty scroll events for jQuery.",
   "keywords": [
     "jquery",

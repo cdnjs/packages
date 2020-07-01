@@ -1,7 +1,6 @@
 {
   "name": "clmtrackr",
   "filename": "clmtrackr.min.js",
-  "version": "1.0.2",
   "description": "clmtrackr is a javascript library for fitting facial models to faces in videos or images.",
   "keywords": [
     "track",

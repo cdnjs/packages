@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/benkeen/country-region-dropdowns.git"
   },
-  "npmName": "country-region-selector",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "crs.min.js"
+  "filename": "crs.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "country-region-selector",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

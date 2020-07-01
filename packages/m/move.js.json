@@ -2,7 +2,6 @@
   "name": "move.js",
   "filename": "move.min.js",
   "description": "CSS3 backed JavaScript animation framework",
-  "version": "0.5.0",
   "keywords": [
     "animation",
     "css3",

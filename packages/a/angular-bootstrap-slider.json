@@ -1,7 +1,6 @@
 {
   "name": "angular-bootstrap-slider",
   "filename": "slider.min.js",
-  "version": "0.1.28",
   "description": "An angular directive for seiyria-bootstrap-slider",
   "repository": {
     "type": "git",

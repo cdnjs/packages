@@ -1,7 +1,6 @@
 {
   "name": "maphilight",
   "filename": "jquery.maphilight.min.js",
-  "version": "1.4.0",
   "title": "maphilight",
   "author": {
     "name": "David Lynch",
@@ -23,13 +22,16 @@
     "ecosystem:jquery"
   ],
   "homepage": "http://davidlynch.org/js/maphilight/docs/",
-  "npmName": "maphilight",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jquery.maphilight*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "maphilight",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery.maphilight*"
+        ]
+      }
+    ]
+  }
 }

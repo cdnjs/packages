@@ -2,7 +2,6 @@
   "name": "tween.js",
   "filename": "tween.umd.js",
   "description": "Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations.",
-  "version": "18.5.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/tweenjs/tween.js.git"
@@ -13,13 +12,16 @@
     "interpolation"
   ],
   "author": "tween.js contributors (https://github.com/tweenjs/tween.js/graphs/contributors)",
-  "npmName": "@tweenjs/tween.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "tween.*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@tweenjs/tween.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "tween.*"
+        ]
+      }
+    ]
+  }
 }

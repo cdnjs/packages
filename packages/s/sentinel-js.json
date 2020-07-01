@@ -1,7 +1,6 @@
 {
   "name": "sentinel-js",
   "filename": "sentinel.min.js",
-  "version": "0.0.5",
   "license": "MIT",
   "description": "JS library that detects new DOM nodes using CSS selectors",
   "repository": {
@@ -18,13 +17,16 @@
     "detect",
     "watch"
   ],
-  "npmName": "sentinel-js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "sentinel-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

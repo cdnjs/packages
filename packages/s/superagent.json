@@ -1,7 +1,6 @@
 {
   "name": "superagent",
   "filename": "superagent.min.js",
-  "version": "4.1.0",
   "description": "elegant & feature rich browser / node HTTP with a fluent API",
   "homepage": "http://visionmedia.github.io/superagent/",
   "keywords": [
@@ -16,13 +15,16 @@
     "url": "git://github.com/visionmedia/superagent.git"
   },
   "license": "MIT",
-  "npmName": "superagent",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "superagent*.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "superagent",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "superagent*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

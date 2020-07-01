@@ -1,6 +1,5 @@
 {
   "name": "babelfish",
-  "version": "1.1.2",
   "filename": "babelfish.min.js",
   "description": "i18n with human friendly syntax",
   "keywords": [
@@ -13,13 +12,16 @@
     "type": "git",
     "url": "https://github.com/nodeca/babelfish.git"
   },
-  "npmName": "babelfish",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "babelfish",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

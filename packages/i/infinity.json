@@ -1,7 +1,6 @@
 {
   "name": "infinity",
   "filename": "infinity.min.js",
-  "version": "0.2.2",
   "description": "A UITableView for the web.",
   "keywords": [
     "infinite",

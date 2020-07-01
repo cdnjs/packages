@@ -1,7 +1,6 @@
 {
   "name": "backbone.projections",
   "filename": "backbone.projections.min.js",
-  "version": "1.0.0",
   "description": "Various projections for Backbone.Collection",
   "repository": {
     "type": "git",

@@ -1,7 +1,6 @@
 {
   "name": "dplayer",
   "filename": "DPlayer.min.js",
-  "version": "1.25.1",
   "description": "Wow, such a lovely HTML5 danmaku video player",
   "repository": {
     "type": "git",
@@ -21,13 +20,16 @@
   "author": "DIYgod",
   "homepage": "https://dplayer.js.org/#/",
   "license": "MIT",
-  "npmName": "dplayer",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "dplayer",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

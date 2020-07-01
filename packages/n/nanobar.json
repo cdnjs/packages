@@ -1,7 +1,6 @@
 {
   "name": "nanobar",
   "filename": "nanobar.min.js",
-  "version": "0.4.2",
   "description": "Very lightweight js progress bars (for browsers)",
   "author": "Jacobo Tabernero",
   "homepage": "http://nanobar.micronube.com",
@@ -16,15 +15,18 @@
     "type": "git",
     "url": "https://github.com/jacoborus/nanobar.git"
   },
-  "npmName": "nanobar",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "nanobar.js",
-        "nanobar.min.js"
-      ]
-    }
-  ],
-  "namespace": "Nanobar"
+  "namespace": "Nanobar",
+  "autoupdate": {
+    "source": "npm",
+    "target": "nanobar",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "nanobar.js",
+          "nanobar.min.js"
+        ]
+      }
+    ]
+  }
 }

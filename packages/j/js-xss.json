@@ -1,7 +1,6 @@
 {
   "name": "js-xss",
   "filename": "xss.min.js",
-  "version": "0.3.3",
   "description": "Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist",
   "author": "Zongmin Lei <leizongmin@gmail.com> (http://ucdok.com)",
   "repository": {
@@ -25,13 +24,16 @@
     "injection",
     "whitelist"
   ],
-  "npmName": "xss",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*.!(html)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "xss",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*.!(html)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "jquery-tokeninput",
   "filename": "jquery.tokeninput.min.js",
-  "version": "1.7.0",
   "description": "A jQuery Tokenizing Autocomplete Text Entry",
   "repository": {
     "type": "git",

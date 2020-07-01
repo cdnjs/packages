@@ -1,6 +1,5 @@
 {
   "name": "leaflet-geocoder-mapzen",
-  "version": "1.9.4",
   "description": "Leaflet plugin to search (geocode) using Mapzen Search or your own hosted version of the Pelias Geocoder API.",
   "repository": {
     "type": "git",
@@ -15,18 +14,21 @@
     "mapzen"
   ],
   "license": "MIT",
-  "npmName": "leaflet-geocoder-mapzen",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "filename": "leaflet-geocoder-mapzen.min.js",
   "authors": [
     "Harish Krishna",
     "Lou Huang <lou@mapzen.com>"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "leaflet-geocoder-mapzen",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

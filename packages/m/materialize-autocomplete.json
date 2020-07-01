@@ -1,6 +1,5 @@
 {
   "name": "materialize-autocomplete",
-  "version": "1.0.7",
   "description": "Materialize-css styled autocomplete",
   "repository": {
     "type": "git",
@@ -18,13 +17,16 @@
   "license": "MIT",
   "homepage": "https://icefox0801.github.io/materialize-autocomplete/",
   "filename": "jquery.materialize-autocomplete.min.js",
-  "npmName": "materialize-autocomplete",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jquery.materialize-autocomplete*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "materialize-autocomplete",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery.materialize-autocomplete*"
+        ]
+      }
+    ]
+  }
 }

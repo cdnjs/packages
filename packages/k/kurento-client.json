@@ -1,7 +1,6 @@
 {
   "name": "kurento-client",
   "description": "Media API for the Kurento Web SDK",
-  "version": "6.10.0",
   "license": "Apache-2.0",
   "filename": "js/kurento-client.min.js",
   "keywords": [

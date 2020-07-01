@@ -1,6 +1,10 @@
 {
   "filename": "ui-cropper.js",
-  "keywords": ["image", "crop", "cropper"],
+  "keywords": [
+    "image",
+    "crop",
+    "cropper"
+  ],
   "author": {
     "name": "Alex Kaul",
     "email": "alexkaul@googlemail.com"
@@ -13,13 +17,16 @@
     "type": "git",
     "url": "https://github.com/CrackerakiUA/ui-cropper/"
   },
-  "npmName": "ui-cropper",
-  "npmFileMap": [
-    {
-      "basePath": "compile/minified",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ui-cropper",
+    "fileMap": [
+      {
+        "basePath": "compile/minified",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

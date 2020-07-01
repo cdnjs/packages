@@ -1,7 +1,6 @@
 {
   "name": "poshytip",
   "filename": "jquery.poshytip.min.js",
-  "version": "1.2",
   "description": "jQuery Plugin for Stylish Tooltips",
   "homepage": "http://vadikom.com/tools/poshy-tip-jquery-plugin-for-stylish-tooltips/",
   "repository": {

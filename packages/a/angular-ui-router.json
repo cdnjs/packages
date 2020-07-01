@@ -1,7 +1,6 @@
 {
   "name": "angular-ui-router",
   "description": "State-based routing for AngularJS",
-  "version": "1.0.26",
   "filename": "angular-ui-router.min.js",
   "homepage": "https://angular-ui.github.com/",
   "author": {
@@ -12,15 +11,6 @@
     "type": "git",
     "url": "https://github.com/angular-ui/ui-router.git"
   },
-  "npmName": "@uirouter/angularjs",
-  "npmFileMap": [
-    {
-      "basePath": "release",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "keywords": [
     "angular",
     "ui",
@@ -30,5 +20,17 @@
     "state-machine",
     "state-tree"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@uirouter/angularjs",
+    "fileMap": [
+      {
+        "basePath": "release",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

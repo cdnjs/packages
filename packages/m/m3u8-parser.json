@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+ssh://git@github.com/videojs/m3u8-parser.git"
   },
-  "npmName": "m3u8-parser",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "m3u8-parser.min.js"
+  "filename": "m3u8-parser.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "m3u8-parser",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

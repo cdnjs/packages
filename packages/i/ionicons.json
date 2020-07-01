@@ -2,19 +2,9 @@
   "name": "ionicons",
   "filename": "css/ionicons.min.css",
   "description": "The premium icon font for Ionic Framework",
-  "version": "5.0.1",
   "keywords": [
     "font",
     "icon"
-  ],
-  "npmName": "ionicons",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.json|*.scss|*.ts|*.svj)"
-      ]
-    }
   ],
   "license": "MIT",
   "repository": {
@@ -25,5 +15,17 @@
     "Ben Sperry <ben@drifty.com>",
     "Adam Bradley <adam@drifty.com>",
     "Max Lynch <max@drifty.com>"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "ionicons",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.json|*.scss|*.ts|*.svj)"
+        ]
+      }
+    ]
+  }
 }

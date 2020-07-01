@@ -1,6 +1,5 @@
 {
   "name": "okayNav",
-  "version": "2.0.4",
   "filename": "js/jquery.okayNav-min.js",
   "description": "Progressively responsive jQuery navigation",
   "repository": {

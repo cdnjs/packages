@@ -1,7 +1,6 @@
 {
   "name": "scrollama",
   "description": "Lightweight scrollytelling library using IntersectionObserver",
-  "version": "2.2.1",
   "filename": "scrollama.min.js",
   "repository": {
     "type": "git",
@@ -20,13 +19,16 @@
   "author": "Russell Goldenberg (@russellgoldenberg)",
   "license": "MIT",
   "homepage": "https://russellgoldenberg.github.io/scrollama/basic",
-  "npmName": "scrollama",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "scrollama",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

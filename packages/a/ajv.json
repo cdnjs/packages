@@ -1,6 +1,5 @@
 {
   "name": "ajv",
-  "version": "6.12.2",
   "description": "Another JSON Schema Validator",
   "repository": {
     "type": "git",
@@ -13,14 +12,17 @@
   ],
   "author": "Evgeny Poberezkin",
   "license": "MIT",
-  "npmName": "ajv",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*"
-      ]
-    }
-  ],
-  "filename": "ajv.min.js"
+  "filename": "ajv.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ajv",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  }
 }

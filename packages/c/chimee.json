@@ -1,6 +1,5 @@
 {
   "name": "chimee",
-  "version": "0.11.0",
   "description": "a video-player aims to bring wonderful experience on browser",
   "filename": "index.min.js",
   "repository": {
@@ -19,13 +18,16 @@
   "author": "toxic-johann",
   "license": "MIT",
   "homepage": "https://chimee.org/",
-  "npmName": "chimee",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "+(index.browser|index.min)*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "chimee",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "+(index.browser|index.min)*"
+        ]
+      }
+    ]
+  }
 }

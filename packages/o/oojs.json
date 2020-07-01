@@ -1,6 +1,5 @@
 {
   "name": "oojs",
-  "version": "5.0.0",
   "description": "Power for object oriented JavaScript libraries.",
   "author": {
     "name": "OOjs Team and other contributors",
@@ -20,13 +19,16 @@
   },
   "license": "MIT",
   "filename": "oojs.min.js",
-  "npmName": "oojs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.txt|*.md|LICENSE-MIT)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "oojs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.txt|*.md|LICENSE-MIT)"
+        ]
+      }
+    ]
+  }
 }

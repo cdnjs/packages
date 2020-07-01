@@ -1,17 +1,6 @@
 {
   "name": "mocha",
-  "version": "7.2.0",
   "description": "simple, flexible, fun test framework",
-  "npmName": "mocha",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "mocha.js",
-        "mocha.css"
-      ]
-    }
-  ],
   "keywords": [
     "mocha",
     "test",
@@ -25,5 +14,18 @@
     "url": "git://github.com/mochajs/mocha.git"
   },
   "filename": "mocha.min.js",
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mocha",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "mocha.js",
+          "mocha.css"
+        ]
+      }
+    ]
+  }
 }

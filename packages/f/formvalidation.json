@@ -24,14 +24,17 @@
     "type": "git",
     "url": "git+https://github.com/formvalidation/formvalidation.git"
   },
-  "npmName": "formvalidation",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "js/formValidation.min.js"
+  "filename": "js/formValidation.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "formvalidation",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

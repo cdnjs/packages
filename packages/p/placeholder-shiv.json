@@ -2,7 +2,6 @@
   "name": "placeholder-shiv",
   "filename": "placeholder-shiv.min.js",
   "description": "Tiny polyfill for the placeholder form element attribute. Requires Prototype.js or jQuery.",
-  "version": "0.2",
   "keywords": [
     "html5",
     "polyfill"

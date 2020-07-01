@@ -1,7 +1,6 @@
 {
   "name": "angular-ui-validate",
   "filename": "validate.min.js",
-  "version": "1.2.3",
   "description": "General-purpose validator for ngModel.",
   "author": "https://github.com/angular-ui/ui-validate/graphs/contributors",
   "license": "MIT",
@@ -15,13 +14,16 @@
     "validation",
     "validate"
   ],
-  "npmName": "angular-ui-validate",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-ui-validate",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

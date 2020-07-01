@@ -1,21 +1,11 @@
 {
   "name": "floatthead",
-  "version": "2.1.4",
   "description": "fixed table header plugin that works",
   "filename": "jquery.floatThead.min.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/mkoryak/floatThead.git"
   },
-  "npmName": "floatthead",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "keywords": [
     "locked header",
     "floating header",
@@ -27,5 +17,17 @@
     "scrolling table"
   ],
   "author": "Misha Koryak",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "autoupdate": {
+    "source": "npm",
+    "target": "floatthead",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -24,20 +24,23 @@
     "type": "git",
     "url": "git+https://github.com/fengyuanchen/datepicker.git"
   },
-  "npmName": "@chenfengyuan/datepicker",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css)"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "i18n/*.js"
-      ]
-    }
-  ],
-  "filename": "datepicker.min.js"
+  "filename": "datepicker.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@chenfengyuan/datepicker",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "i18n/*.js"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "modestmaps",
-  "version": "3.3.5",
   "filename": "modestmaps.min.js",
   "description": "A display and interaction library for tile-based maps.",
   "homepage": "http://modestmaps.com/",
@@ -19,13 +18,16 @@
     "email": "tom@tom-carden.co.uk",
     "url": "http://www.tom-carden.co.uk/"
   },
-  "npmName": "modestmaps",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "modestmaps*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "modestmaps",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "modestmaps*"
+        ]
+      }
+    ]
+  }
 }

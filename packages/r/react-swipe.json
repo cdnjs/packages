@@ -1,7 +1,6 @@
 {
   "name": "react-swipe",
   "filename": "react-swipe.min.js",
-  "version": "6.0.4",
   "description": "Brad Birdsall's Swipe.js, as a React component",
   "keywords": [
     "react",
@@ -19,13 +18,16 @@
     "url": "git://github.com/voronianski/react-swipe.git"
   },
   "license": "MIT",
-  "npmName": "react-swipe",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-swipe",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

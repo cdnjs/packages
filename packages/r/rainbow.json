@@ -1,7 +1,6 @@
 {
   "name": "rainbow",
   "filename": "js/rainbow.min.js",
-  "version": "1.2.0",
   "description": "Simple library for code syntax highlighting",
   "homepage": "http://craig.is/making/rainbows/",
   "keywords": [

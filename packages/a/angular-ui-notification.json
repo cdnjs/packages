@@ -1,7 +1,6 @@
 {
   "name": "angular-ui-notification",
   "filename": "angular-ui-notification.min.js",
-  "version": "0.3.6",
   "description": "Angular.js service providing simple notifications using Bootstrap 3 styles with css transitions for animating",
   "repository": {
     "type": "git",
@@ -15,13 +14,16 @@
   ],
   "author": "Alex_Crack",
   "license": "MIT",
-  "npmName": "angular-ui-notification",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-ui-notification",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

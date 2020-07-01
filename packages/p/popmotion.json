@@ -1,6 +1,5 @@
 {
   "name": "popmotion",
-  "version": "8.7.1",
   "filename": "popmotion.global.min.js",
   "description": "The JavaScript motion engine. Handles animation, physics, and input tracking.",
   "author": "Matt Perry <sirhound@popmotion.io>",
@@ -30,13 +29,16 @@
     "svg"
   ],
   "license": "MIT",
-  "npmName": "popmotion",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "popmotion*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "popmotion",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "popmotion*.js"
+        ]
+      }
+    ]
+  }
 }

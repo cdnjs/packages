@@ -16,20 +16,23 @@
     "type": "git",
     "url": "git+https://github.com/i18next/i18next-localStorage-cache.git"
   },
-  "npmName": "i18next-localstorage-cache",
-  "npmFileMap": [
-    {
-      "basePath": "dist/umd",
-      "files": [
-        "*.js"
-      ]
-    },
-    {
-      "basePath": "dist",
-      "files": [
-        "@(commonjs|es)/*.js"
-      ]
-    }
-  ],
-  "filename": "i18nextLocalStorageCache.min.js"
+  "filename": "i18nextLocalStorageCache.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "i18next-localstorage-cache",
+    "fileMap": [
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "*.js"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "@(commonjs|es)/*.js"
+        ]
+      }
+    ]
+  }
 }

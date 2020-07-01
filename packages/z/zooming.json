@@ -1,7 +1,6 @@
 {
   "name": "zooming",
   "filename": "zooming.min.js",
-  "version": "2.1.1",
   "description": "Image zoom that makes sense.",
   "repository": {
     "type": "git",
@@ -16,13 +15,16 @@
   "homepage": "http://desmonding.me/zooming/",
   "author": "Desmond Ding <kingdido999@gmail.com>",
   "license": "MIT",
-  "npmName": "zooming",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/!(zooming.module.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "zooming",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/!(zooming.module.js)"
+        ]
+      }
+    ]
+  }
 }

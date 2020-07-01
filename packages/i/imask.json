@@ -1,7 +1,6 @@
 {
   "name": "imask",
   "filename": "imask.min.js",
-  "version": "6.0.5",
   "description": "vanilla javascript input mask",
   "repository": {
     "type": "git",
@@ -16,13 +15,16 @@
   "author": "Alexey Kryazhev",
   "license": "MIT",
   "homepage": "https://unmanner.github.io/imaskjs/",
-  "npmName": "imask",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "imask",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

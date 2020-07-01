@@ -1,6 +1,5 @@
 {
   "name": "aplayer",
-  "version": "1.10.1",
   "filename": "APlayer.min.js",
   "description": "Wow, such a beautiful html5 music player",
   "repository": {
@@ -14,13 +13,16 @@
   ],
   "author": "DIYgod",
   "license": "MIT",
-  "npmName": "aplayer",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "aplayer",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

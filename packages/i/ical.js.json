@@ -1,7 +1,6 @@
 {
   "name": "ical.js",
   "filename": "ical.min.js",
-  "version": "1.4.0",
   "author": "Philipp Kewisch",
   "description": "Javascript parser for ics (rfc5545) and vcard (rfc6350) data",
   "repository": {
@@ -18,13 +17,16 @@
   ],
   "homepage": "https://mozilla-comm.github.io/ical.js/",
   "license": "MPL-2.0",
-  "npmName": "ical.js",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ical.js",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

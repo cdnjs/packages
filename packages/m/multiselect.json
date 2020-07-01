@@ -1,6 +1,5 @@
 {
   "name": "multiselect",
-  "version": "2.2.9",
   "filename": "js/multiselect.min.js",
   "description": "jQuery multiselect plugin with two sides",
   "repository": {

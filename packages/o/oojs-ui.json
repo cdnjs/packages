@@ -1,6 +1,5 @@
 {
   "name": "oojs-ui",
-  "version": "0.38.0",
   "description": "User interface classes built on the OOjs framework.",
   "author": {
     "name": "OOjs UI Team and other contributors",
@@ -17,13 +16,16 @@
   },
   "license": "MIT",
   "filename": "oojs-ui.min.js",
-  "npmName": "oojs-ui",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.!(txt|md|less)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "oojs-ui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.!(txt|md|less)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "exif-js",
-  "version": "2.3.0",
   "filename": "exif.min.js",
   "description": "JavaScript library for reading EXIF image metadata",
   "repository": {
@@ -14,13 +13,16 @@
   ],
   "author": "Jacob Seidelin",
   "license": "MIT",
-  "npmName": "exif-js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "exif*.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "exif-js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "exif*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

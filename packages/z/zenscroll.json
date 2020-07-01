@@ -1,7 +1,6 @@
 {
   "name": "zenscroll",
   "filename": "zenscroll-min.js",
-  "version": "4.0.2",
   "description": "A module to smooth-scroll web pages and containers (DIVs)",
   "homepage": "https://zengabor.github.io/zenscroll/",
   "keywords": [
@@ -16,13 +15,16 @@
     "type": "git",
     "url": "https://github.com/zengabor/zenscroll.git"
   },
-  "npmName": "zenscroll",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "zenscroll*.+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "zenscroll",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "zenscroll*.+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

@@ -2,7 +2,6 @@
   "name": "validate-js",
   "filename": "validate.min.js",
   "description": "Lightweight JavaScript form validation library inspired by CodeIgniter.",
-  "version": "2.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/rickharrison/validate.js"
@@ -17,13 +16,16 @@
   "author": "Rick Harrison",
   "license": "MIT",
   "homepage": "https://rickharrison.github.io/validate.js/",
-  "npmName": "validate-js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "validate*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "validate-js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "validate*"
+        ]
+      }
+    ]
+  }
 }

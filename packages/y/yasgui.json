@@ -1,7 +1,6 @@
 {
   "name": "yasgui",
   "description": "Yet Another SPARQL GUI",
-  "version": "2.7.29",
   "author": "Laurens Rietveld",
   "homepage": "http://yasgui.org",
   "keywords": [
@@ -16,17 +15,20 @@
     "url": "https://github.com/YASGUI/YASGUI.git"
   },
   "filename": "yasgui.min.js",
-  "npmName": "yasgui",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.min.js",
-        "*.min.js.map",
-        "*.min.css",
-        "*.min.css.map"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "yasgui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.min.js",
+          "*.min.js.map",
+          "*.min.css",
+          "*.min.css.map"
+        ]
+      }
+    ]
+  }
 }

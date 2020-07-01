@@ -17,19 +17,22 @@
     "type": "git",
     "url": "git://github.com/developit/unistore.git"
   },
-  "npmName": "unistore",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "!(*.es.*)"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "full/+(preact|react).+(js*|umd.js*)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "unistore",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "!(*.es.*)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "full/+(preact|react).+(js*|umd.js*)"
+        ]
+      }
+    ]
+  }
 }

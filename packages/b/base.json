@@ -19,14 +19,17 @@
     "type": "git",
     "url": "git+https://github.com/getbase/base.git"
   },
-  "npmName": "@getbase/base",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "**/*.@(css|scss)"
-      ]
-    }
-  ],
-  "filename": "index.css"
+  "filename": "index.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@getbase/base",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.@(css|scss)"
+        ]
+      }
+    ]
+  }
 }

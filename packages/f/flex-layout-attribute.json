@@ -2,7 +2,6 @@
   "name": "flex-layout-attribute",
   "filename": "css/flex-layout-attribute.min.css",
   "description": "HTML layout helper based on CSS flexbox specification.",
-  "version": "1.0.3",
   "author": {
     "name": "Stefan Kovac",
     "email": "stef@progressivered.com",
@@ -21,13 +20,16 @@
     "css",
     "fla"
   ],
-  "npmName": "flex-layout-attribute",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "css/**/*flex-layout-attribute*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "flex-layout-attribute",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/**/*flex-layout-attribute*"
+        ]
+      }
+    ]
+  }
 }

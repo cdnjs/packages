@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/antosarho/textAngularJs.git"
   },
-  "npmName": "textangularjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "textAngular.min.js"
+  "filename": "textAngular.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "textangularjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

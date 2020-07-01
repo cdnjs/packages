@@ -9,14 +9,17 @@
     "type": "git",
     "url": "git+https://github.com/jeremyckahn/shifty.git"
   },
-  "npmName": "shifty",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "shifty.js"
+  "filename": "shifty.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "shifty",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

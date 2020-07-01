@@ -1,6 +1,5 @@
 {
   "name": "angular-formly-material",
-  "version": "0.14.3",
   "description": "Material design templates for angular-formly",
   "filename": "formly-material.min.js",
   "repository": {
@@ -17,13 +16,16 @@
   ],
   "author": "Kamil Kisiela <mys.sterowiec@gmail.com>",
   "license": "MIT",
-  "npmName": "angular-formly-material",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-formly-material",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

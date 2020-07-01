@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/LPology/Simple-Ajax-Uploader.git"
   },
-  "npmName": "simple-ajax-uploader",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "SimpleAjaxUploader.min.js"
+  "filename": "SimpleAjaxUploader.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "simple-ajax-uploader",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "redux-persist",
-  "version": "6.0.0",
   "description": "persist and rehydrate redux stores",
   "repository": {
     "type": "git",
@@ -16,14 +15,17 @@
   ],
   "author": "rt2zz <zack@root-two.com>",
   "license": "MIT",
-  "npmName": "redux-persist",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "redux-persist.min.js"
+  "filename": "redux-persist.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "redux-persist",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

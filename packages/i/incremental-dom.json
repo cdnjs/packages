@@ -1,6 +1,5 @@
 {
   "name": "incremental-dom",
-  "version": "0.6.0",
   "filename": "incremental-dom-min.js",
   "description": "An in-place virtual DOM library",
   "author": {
@@ -15,13 +14,16 @@
     "incremental",
     "dom"
   ],
-  "npmName": "incremental-dom",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "!(incremental-dom-cjs*)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "incremental-dom",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "!(incremental-dom-cjs*)"
+        ]
+      }
+    ]
+  }
 }

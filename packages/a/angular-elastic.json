@@ -1,6 +1,5 @@
 {
   "name": "angular-elastic",
-  "version": "2.5.1",
   "filename": "elastic.min.js",
   "description": "Elastic (autosize) textareas for AngularJS, without jQuery dependency.",
   "keywords": [

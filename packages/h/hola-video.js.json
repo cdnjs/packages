@@ -1,7 +1,6 @@
 {
   "name": "hola-video.js",
   "description": "An HTML5 and Flash video player with a common API and skin for both. This is modified version to support HolaCDN.",
-  "version": "5.10.2-27",
   "license": "Apache-2.0",
   "keywords": [
     "flash",
@@ -16,15 +15,18 @@
     "type": "git",
     "url": "https://github.com/hola/video.js.git"
   },
-  "npmName": "@hola.org/video.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "!(examples)/*",
-        "!(examples)"
-      ]
-    }
-  ],
-  "filename": "video.min.js"
+  "filename": "video.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@hola.org/video.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "!(examples)/*",
+          "!(examples)"
+        ]
+      }
+    ]
+  }
 }

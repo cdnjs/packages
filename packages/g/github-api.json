@@ -1,7 +1,6 @@
 {
   "name": "github-api",
   "filename": "GitHub.min.js",
-  "version": "3.3.0",
   "license": "BSD-3-Clause-Clear",
   "description": "A higher-level wrapper around the Github API.",
   "repository": {
@@ -16,13 +15,16 @@
     "name": "Michael Aufreiter",
     "url": "https://github.com/michael"
   },
-  "npmName": "github-api",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "github-api",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

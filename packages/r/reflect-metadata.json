@@ -1,6 +1,5 @@
 {
   "name": "reflect-metadata",
-  "version": "0.1.13",
   "description": "Polyfill for Metadata Reflection API",
   "filename": "Reflect.min.js",
   "repository": {
@@ -20,13 +19,16 @@
   },
   "license": "Apache-2.0",
   "homepage": "http://rbuckton.github.io/ReflectDecorators",
-  "npmName": "reflect-metadata",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "Reflect*.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "reflect-metadata",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "Reflect*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

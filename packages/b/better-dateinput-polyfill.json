@@ -1,7 +1,6 @@
 {
   "name": "better-dateinput-polyfill",
   "description": "input[type=date] polyfill for better-dom",
-  "version": "3.3.0",
   "author": "Maksim Chemerisuk",
   "homepage": "https://chemerisuk.github.io/better-dateinput-polyfill/",
   "license": "MIT",
@@ -13,14 +12,17 @@
     "ecosystem:better-dom",
     "web-components"
   ],
-  "npmName": "better-dateinput-polyfill",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "better-dateinput-polyfill.min.js"
+  "filename": "better-dateinput-polyfill.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "better-dateinput-polyfill",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

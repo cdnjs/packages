@@ -1,8 +1,6 @@
 {
   "name": "validator",
-  "npmName": "validator",
   "filename": "validator.min.js",
-  "version": "13.0.0",
   "description": "String validation and sanitization",
   "keywords": [
     "validator",
@@ -14,18 +12,22 @@
     "sanitise",
     "assert"
   ],
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "validator*"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/chriso/validator.js.git"
   },
   "license": "MIT",
-  "author": "Chris O'Hara <cohara87@gmail.com>"
+  "author": "Chris O'Hara <cohara87@gmail.com>",
+  "autoupdate": {
+    "source": "npm",
+    "target": "validator",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "validator*"
+        ]
+      }
+    ]
+  }
 }

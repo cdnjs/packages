@@ -2,7 +2,6 @@
   "name": "nlp_compromise",
   "filename": "nlp_compromise.min.js",
   "description": "natural language processing in the browser",
-  "version": "6.5.5",
   "keywords": [
     "natural",
     "language",
@@ -15,13 +14,16 @@
   },
   "author": "Spencer Kelly <spencermountain@gmail.com> (http://spencermounta.in)",
   "license": "MIT",
-  "npmName": "nlp_compromise",
-  "npmFileMap": [
-    {
-      "basePath": "builds",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "nlp_compromise",
+    "fileMap": [
+      {
+        "basePath": "builds",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

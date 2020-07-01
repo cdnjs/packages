@@ -1,26 +1,28 @@
 {
   "name": "idbwrapper",
   "filename": "idbstore.min.js",
-  "version": "1.7.2",
   "description": "A cross-browser wrapper for IndexedDB",
   "keywords": [
     "IndexedDB",
     "storage",
     "offline"
   ],
-  "npmName": "idb-wrapper",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "idbstore.min.js"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/jensarps/IDBWrapper"
   },
   "license": "MIT",
-  "author": "jensarps <mail@jensarps.de> (http://jensarps.de/)"
+  "author": "jensarps <mail@jensarps.de> (http://jensarps.de/)",
+  "autoupdate": {
+    "source": "npm",
+    "target": "idb-wrapper",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "idbstore.min.js"
+        ]
+      }
+    ]
+  }
 }

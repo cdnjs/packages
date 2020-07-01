@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git+https://github.com/stefangabos/Zebra_Dialog.git"
   },
-  "npmName": "zebra_dialog",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "zebra_dialog.min.js"
+  "filename": "zebra_dialog.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "zebra_dialog",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

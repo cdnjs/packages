@@ -8,22 +8,25 @@
     "javascript",
     "charts"
   ],
-  "license":{
+  "license": {
     "name": "Free and commercial",
     "url": "https://github.com/amcharts/amcharts4/blob/master/dist/script/LICENSE"
   },
-  "name":"amcharts4",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "{,lang/,plugins/,themes/,.internal/**/}*.@(js|ts|map)"
-      ]
-    }
-  ],
-  "npmName": "@amcharts/amcharts4",
+  "name": "amcharts4",
   "repository": {
     "type": "git",
     "url": "https://github.com/amcharts/amcharts4.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@amcharts/amcharts4",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "{,lang/,plugins/,themes/,.internal/**/}*.@(js|ts|map)"
+        ]
+      }
+    ]
   }
 }

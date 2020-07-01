@@ -1,7 +1,6 @@
 {
   "name": "blob-util",
   "filename": "blob-util.min.js",
-  "version": "2.0.1",
   "description": "Utilities for working with Blob objects in the browser",
   "repository": {
     "type": "git",
@@ -17,13 +16,16 @@
   "homepage": "https://nolanlawson.github.io/blob-util/",
   "author": "Nolan Lawson <nolan.lawson@gmail.com>",
   "license": "Apache-2.0",
-  "npmName": "blob-util",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.cjs.js|*.ts|*.es.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "blob-util",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.cjs.js|*.ts|*.es.js)"
+        ]
+      }
+    ]
+  }
 }

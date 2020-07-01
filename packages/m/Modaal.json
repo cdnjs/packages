@@ -1,7 +1,6 @@
 {
   "name": "Modaal",
   "description": "An accessible dialog window library for all humans.",
-  "version": "0.4.4",
   "filename": "js/modaal.min.js",
   "repository": {
     "type": "git",

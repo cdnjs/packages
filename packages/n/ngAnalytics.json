@@ -1,6 +1,5 @@
 {
   "name": "ngAnalytics",
-  "version": "1.1.4",
   "filename": "ng-analytics.min.js",
   "description": "Angular directive for Google Analytics Embed API",
   "author": "Bnegt Weiße <bengtler@gmail.com>",

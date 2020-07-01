@@ -1,7 +1,6 @@
 {
   "name": "angular-input-masks",
   "filename": "angular-input-masks.min.js",
-  "version": "4.4.1",
   "description": "Personalized input masks for AngularJS",
   "repository": {
     "type": "git",
@@ -14,13 +13,16 @@
   ],
   "author": "igor.rafael@gmail.com",
   "license": "MIT",
-  "npmName": "angular-input-masks",
-  "npmFileMap": [
-    {
-      "basePath": "releases",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-input-masks",
+    "fileMap": [
+      {
+        "basePath": "releases",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

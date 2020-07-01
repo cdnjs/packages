@@ -1,6 +1,5 @@
 {
   "name": "embedly-jquery",
-  "version": "3.1.2",
   "filename": "jquery.embedly.min.js",
   "description": "This library allows you to easily embed objects on any page.",
   "keywords": [

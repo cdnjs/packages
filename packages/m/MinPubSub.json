@@ -2,7 +2,6 @@
   "name": "MinPubSub",
   "description": "198 byte publish/subscribe messaging micro-framework",
   "filename": "minpubsub.js",
-  "version": "0.0.2",
   "keywords": [
     "publish",
     "subscribe",
@@ -18,13 +17,16 @@
     "url": "git://github.com/daniellmb/minpubsub.git"
   },
   "license": "MIT",
-  "npmName": "minpubsub",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "minpubsub*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "minpubsub",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "minpubsub*"
+        ]
+      }
+    ]
+  }
 }

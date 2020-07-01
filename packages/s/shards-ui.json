@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/DesignRevision/shards-ui.git"
   },
-  "npmName": "shards-ui",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/shards?(-extras)?(.min).@(css|js)?(.map)"
-      ]
-    }
-  ],
-  "filename": "js/shards.min.js"
+  "filename": "js/shards.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "shards-ui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/shards?(-extras)?(.min).@(css|js)?(.map)"
+        ]
+      }
+    ]
+  }
 }

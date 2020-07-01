@@ -1,6 +1,5 @@
 {
   "name": "axios",
-  "version": "0.19.2",
   "description": "Promise based HTTP client for the browser and node.js",
   "repository": {
     "type": "git",

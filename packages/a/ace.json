@@ -1,7 +1,6 @@
 {
   "name": "ace",
   "filename": "ace.js",
-  "version": "1.4.11",
   "description": "Ace (Ajax.org Cloud9 Editor)",
   "homepage": "http://ace.ajax.org/",
   "keywords": [

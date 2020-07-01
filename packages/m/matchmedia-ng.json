@@ -1,6 +1,5 @@
 {
   "name": "matchmedia-ng",
-  "version": "1.0.8",
   "description": "matchmedia wrapper for AngularJS",
   "filename": "matchmedia-ng.min.js",
   "repository": {
@@ -14,13 +13,16 @@
     "AngularJS",
     "helper-functions"
   ],
-  "npmName": "matchmedia-ng",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "matchmedia-ng*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "matchmedia-ng",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "matchmedia-ng*.js"
+        ]
+      }
+    ]
+  }
 }

@@ -2,7 +2,6 @@
   "name": "blanket.js",
   "filename": "blanket.min.js",
   "description": "seamless js code coverage",
-  "version": "1.1.4",
   "author": {
     "name": "Alex-Seville",
     "email": "hi@alexanderseville.com",

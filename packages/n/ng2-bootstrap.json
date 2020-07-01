@@ -1,6 +1,5 @@
 {
   "name": "ng2-bootstrap",
-  "version": "1.6.2",
   "description": "angular2 native bootstrap components",
   "filename": "ng2-bootstrap.umd.min.js",
   "keywords": [
@@ -18,13 +17,16 @@
     "type": "git",
     "url": "git+ssh://git@github.com/valor-software/ng2-bootstrap.git"
   },
-  "npmName": "ng2-bootstrap",
-  "npmFileMap": [
-    {
-      "basePath": "bundles",
-      "files": [
-        "**/ng2-bootstrap*.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ng2-bootstrap",
+    "fileMap": [
+      {
+        "basePath": "bundles",
+        "files": [
+          "**/ng2-bootstrap*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

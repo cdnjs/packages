@@ -1,7 +1,6 @@
 {
   "name": "css-doodle",
   "filename": "css-doodle.min.js",
-  "version": "0.8.5",
   "description": "A web component for drawing patterns with css.",
   "repository": {
     "type": "git",
@@ -13,14 +12,17 @@
   ],
   "author": "yuanchuan",
   "license": "MIT",
-  "npmName": "css-doodle",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "css-doodle*"
-      ]
-    }
-  ],
-  "homepage": "http://yuanchuan.name/css-doodle/"
+  "homepage": "http://yuanchuan.name/css-doodle/",
+  "autoupdate": {
+    "source": "npm",
+    "target": "css-doodle",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css-doodle*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "jexcel",
   "filename": "jexcel.min.js",
-  "version": "4.2.0",
   "description": "jQuery plugin for embed a excel-like spreadsheet in your apps or website.",
   "homepage": "http://bossanova.uk/jexcel",
   "repository": {
@@ -26,13 +25,16 @@
     "data-spreadsheet"
   ],
   "license": "MIT",
-  "npmName": "jexcel",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(excel-formula|jquery.csv)*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jexcel",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(excel-formula|jquery.csv)*"
+        ]
+      }
+    ]
+  }
 }

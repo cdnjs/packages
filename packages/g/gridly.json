@@ -1,6 +1,5 @@
 {
   "name": "gridly",
-  "version": "1.4.13",
   "description": "The minimal (~157 bytes) grid system for modern browsers.",
   "repository": {
     "type": "git",
@@ -15,14 +14,17 @@
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "MIT",
-  "npmName": "gridly",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "gridly-col-widths.min.css"
+  "filename": "gridly-col-widths.min.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "gridly",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

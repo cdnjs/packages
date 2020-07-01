@@ -1,7 +1,6 @@
 {
   "filename": "css.min.js",
   "name": "require-css",
-  "version": "0.1.10",
   "description": "A RequireJS CSS loader plugin to allow CSS requires and optimization",
   "keywords": [
     "require-css",

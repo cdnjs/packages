@@ -1,6 +1,5 @@
 {
   "name": "minifill",
-  "version": "0.0.4",
   "description": "A minimal polyfill with most essential stuff",
   "filename": "minifill.min.js",
   "repository": {

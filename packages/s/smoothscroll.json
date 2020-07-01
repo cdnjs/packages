@@ -1,6 +1,5 @@
 {
   "name": "smoothscroll",
-  "version": "1.4.10",
   "filename": "SmoothScroll.min.js",
   "description": "Smooth scrolling experience for websites. This is the standalone version of SmoothScroll for individual websites and themes. Mouse wheel, keyboard and touchpad scrolling all supported.",
   "repository": {
@@ -19,13 +18,16 @@
   ],
   "author": "Balazs Galambosi (https://www.smoothscroll.net)",
   "license": "MIT",
-  "npmName": "smoothscroll-for-websites",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "SmoothScroll*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "smoothscroll-for-websites",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "SmoothScroll*.js"
+        ]
+      }
+    ]
+  }
 }

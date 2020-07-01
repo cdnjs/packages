@@ -1,7 +1,6 @@
 {
   "name": "flubber",
   "filename": "flubber.min.js",
-  "version": "0.4.2",
   "description": "Best-guess methods for smoothly interpolating and animating between shapes.",
   "repository": {
     "type": "git",
@@ -17,13 +16,16 @@
   ],
   "author": "Noah Veltman (@veltman)",
   "license": "MIT",
-  "npmName": "flubber",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "flubber",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

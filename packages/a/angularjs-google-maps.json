@@ -12,14 +12,17 @@
     "type": "git",
     "url": "git+https://github.com/allenhwkim/angularjs-google-maps.git"
   },
-  "npmName": "ngmap",
-  "npmFileMap": [
-    {
-      "basePath": "build/scripts",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "ng-map.min.js"
+  "filename": "ng-map.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ngmap",
+    "fileMap": [
+      {
+        "basePath": "build/scripts",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

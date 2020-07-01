@@ -1,7 +1,6 @@
 {
   "name": "instafetch.js",
   "filename": "instafetch.min.js",
-  "version": "1.5.0",
   "description": "A 6KB JavaScript plugin for the Instagram API (without jQuery).",
   "repository": {
     "type": "git",
@@ -14,13 +13,16 @@
   ],
   "author": "Thomas Vaeth <thomas.vaeth@gmail.com> (http://thomasvaeth.com/)",
   "license": "MIT",
-  "npmName": "instafetch.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "instafetch.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

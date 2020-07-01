@@ -1,7 +1,6 @@
 {
   "name": "react-select",
   "filename": "react-select.min.js",
-  "version": "3.1.0",
   "description": "A Select control built with and for ReactJS",
   "author": "Jed Watson",
   "license": "MIT",
@@ -20,13 +19,16 @@
     "ui"
   ],
   "homepage": "https://jedwatson.github.io/react-select/",
-  "npmName": "react-select",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(react-select.es.js|*.flow|*.esm.js|chunk*)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-select",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(react-select.es.js|*.flow|*.esm.js|chunk*)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "jquery.gray",
   "filename": "js/jquery.gray.min.js",
-  "version": "1.6.0",
   "description": "Make an image gray in all browsers",
   "license": "MIT",
   "author": "Karl Horky <karl.horky@gmail.com>",

@@ -2,7 +2,6 @@
   "name": "asmCrypto",
   "filename": "asmcrypto.all.es5.min.js",
   "description": "Asm.js implementation of WebCrypto API",
-  "version": "2.3.2",
   "license": "MIT",
   "author": {
     "name": "Artem S Vybornov",
@@ -35,13 +34,16 @@
     "pss",
     "pkcs"
   ],
-  "npmName": "asmcrypto.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "asmcrypto*.+(js|js.map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "asmcrypto.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "asmcrypto*.+(js|js.map)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "backbone.obscura",
   "filename": "backbone.obscura.min.js",
-  "version": "0.1.6",
   "description": "A read-only proxy of a Backbone.Collection that can easily be filtered, sorted, and paginated.",
   "license": "MIT",
   "author": {

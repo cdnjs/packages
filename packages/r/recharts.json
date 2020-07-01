@@ -1,7 +1,6 @@
 {
   "name": "recharts",
   "filename": "Recharts.min.js",
-  "version": "1.8.5",
   "description": "React charts",
   "keywords": [
     "react",
@@ -18,19 +17,22 @@
   "author": "recharts group",
   "license": "MIT",
   "homepage": "http://recharts.org/",
-  "npmName": "recharts",
-  "npmFileMap": [
-    {
-      "basePath": "umd",
-      "files": [
-        "**/*"
-      ]
-    },
-    {
-      "basePath": "lib",
-      "files": [
-        "recharts*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "recharts",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "lib",
+        "files": [
+          "recharts*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "layzr.js",
-  "version": "2.2.2",
   "description": "A small, fast, modern, and dependency-free library for lazy loading.",
   "homepage": "http://callmecavs.github.io/layzr.js/",
   "author": "Michael Cavalea",
@@ -15,14 +14,17 @@
     "load",
     "scroll"
   ],
-  "npmName": "layzr.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "layzr.min.js"
+  "filename": "layzr.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "layzr.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

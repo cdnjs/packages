@@ -21,14 +21,17 @@
     "type": "git",
     "url": "git+https://github.com/voerro/vue-tagsinput.git"
   },
-  "npmName": "@voerro/vue-tagsinput",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css|map)"
-      ]
-    }
-  ],
-  "filename": "voerro-vue-tagsinput.js"
+  "filename": "voerro-vue-tagsinput.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@voerro/vue-tagsinput",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

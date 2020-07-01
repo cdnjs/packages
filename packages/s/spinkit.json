@@ -15,13 +15,16 @@
   },
   "author": "Tobias Ahlin",
   "license": "MIT",
-  "npmName": "spinkit",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "spinkit*.css"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "spinkit",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "spinkit*.css"
+        ]
+      }
+    ]
+  }
 }

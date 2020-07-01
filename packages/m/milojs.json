@@ -1,7 +1,6 @@
 {
   "name": "milojs",
   "filename": "milo.min.js",
-  "version": "1.6.1",
   "description": "Browser/nodejs reactive programming and data driven DOM manipulation with modular components.",
   "keywords": [
     "framework",
@@ -24,19 +23,22 @@
   "author": "MailOnline",
   "license": "BSD-2-Clause",
   "homepage": "https://milojs.github.io/milo/",
-  "npmName": "milojs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "milo*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "milojs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "milo*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "jquery.spritely",
   "filename": "jquery.spritely.min.js",
-  "version": "0.6.8",
   "description": "Create dynamic characters and background animations.",
   "homepage": "http://www.spritely.net",
   "keywords": [

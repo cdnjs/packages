@@ -1,6 +1,5 @@
 {
   "name": "t7",
-  "version": "0.4.0",
   "filename": "t7.min.js",
   "description": "t7 is a small, lightweight JavaScript template library that compiles ES2015 template strings into virtual DOM objects.",
   "repository": {
@@ -14,13 +13,16 @@
   ],
   "author": "Dominic Gannaway",
   "license": "ISC",
-  "npmName": "t7",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "t7*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "t7",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "t7*"
+        ]
+      }
+    ]
+  }
 }

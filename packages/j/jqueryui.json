@@ -1,7 +1,6 @@
 {
   "name": "jqueryui",
   "filename": "jquery-ui.min.js",
-  "version": "1.12.1",
   "description": "A curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.",
   "homepage": "http://jqueryui.com/",
   "keywords": [

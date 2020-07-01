@@ -1,7 +1,6 @@
 {
   "name": "gemma",
   "filename": "gemma.min.css",
-  "version": "1.1.0",
   "description": "A lightweight CSS library",
   "repository": {
     "type": "git",
@@ -17,13 +16,16 @@
   ],
   "author": "Cole Peters",
   "license": "MIT",
-  "npmName": "gemma",
-  "npmFileMap": [
-    {
-      "basePath": "public",
-      "files": [
-        "gemma*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "gemma",
+    "fileMap": [
+      {
+        "basePath": "public",
+        "files": [
+          "gemma*"
+        ]
+      }
+    ]
+  }
 }

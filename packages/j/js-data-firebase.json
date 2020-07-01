@@ -1,7 +1,6 @@
 {
   "name": "js-data-firebase",
   "description": "Firebase adapter for js-data.",
-  "version": "3.2.1",
   "homepage": "http://www.js-data.io/docs/dsfirebaseadapter",
   "repository": {
     "type": "git",
@@ -20,15 +19,18 @@
     "adapter",
     "firebase"
   ],
-  "npmName": "js-data-firebase",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*"
-      ]
-    }
-  ],
   "filename": "js-data-firebase.min.js",
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "js-data-firebase",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  }
 }

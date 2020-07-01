@@ -1,6 +1,5 @@
 {
   "name": "remarkable",
-  "version": "2.0.0",
   "description": "Markdown parser, done right. 100% Commonmark support, extensions, syntax plugins, high speed - all in one.",
   "repository": {
     "type": "git",
@@ -19,13 +18,16 @@
     "renderer",
     "commonmark"
   ],
-  "npmName": "remarkable",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/remarkable*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "remarkable",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/remarkable*"
+        ]
+      }
+    ]
+  }
 }

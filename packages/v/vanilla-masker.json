@@ -1,7 +1,6 @@
 {
   "name": "vanilla-masker",
   "filename": "vanilla-masker.min.js",
-  "version": "1.2.0",
   "description": "VanillaMasker is a pure javascript input mask.",
   "repository": {
     "type": "git",
@@ -20,13 +19,16 @@
   ],
   "license": "MIT",
   "homepage": "http://bankfacil.github.io/vanilla-masker",
-  "npmName": "vanilla-masker",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "vanilla-masker.min.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vanilla-masker",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "vanilla-masker.min.js"
+        ]
+      }
+    ]
+  }
 }

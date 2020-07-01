@@ -1,6 +1,5 @@
 {
   "name": "angular-simple-logger",
-  "version": "0.1.7",
   "description": "Basic logger with level logging which can also be independent.",
   "homepage": "https://nmccready.github.io/angular-simple-logger/",
   "filename": "angular-simple-logger.min.js",

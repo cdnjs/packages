@@ -1,6 +1,5 @@
 {
   "name": "fancyInput",
-  "version": "1.2.0",
   "description": "Makes typing in input fields fun with CSS3 effects",
   "filename": "fancyInput.min.js",
   "repository": {

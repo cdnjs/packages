@@ -1,7 +1,6 @@
 {
   "name": "jquery.lazyload",
   "filename": "jquery.lazyload.min.js",
-  "version": "1.9.1",
   "description": "Lazyload images with jQuery",
   "homepage": "http://www.appelsiini.net/projects/lazyload",
   "author": {

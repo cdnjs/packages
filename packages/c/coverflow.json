@@ -1,7 +1,6 @@
 {
   "name": "coverflow",
   "filename": "coverflow.min.js",
-  "version": "3.0.2",
   "description": "A jQuery UI powered coverflow component that takes advantage of CSS3 features",
   "homepage": "https://coverflowjs.github.io/coverflow/",
   "repository": {

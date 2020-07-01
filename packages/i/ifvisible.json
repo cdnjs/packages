@@ -1,7 +1,6 @@
 {
   "name": "ifvisible",
   "filename": "ifvisible.min.js",
-  "version": "1.0.6",
   "description": "Crossbrowser & lightweight way to check if user is looking at the page or interacting with it. (wrapper around HTML5 visibility api)",
   "keywords": [
     "visibility",
@@ -24,13 +23,16 @@
     "type": "git",
     "url": "https://github.com/serkanyersen/ifvisible.js.git"
   },
-  "npmName": "ifvisible.js",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "ifvisible*.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ifvisible.js",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "ifvisible*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

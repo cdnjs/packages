@@ -1,6 +1,5 @@
 {
   "name": "rxdb",
-  "version": "8.9.0",
   "filename": "rxdb.browserify.min.js",
   "description": "A realtime Database for the Web",
   "author": "pubkey",
@@ -27,13 +26,16 @@
     "realtime"
   ],
   "license": "Apache-2.0",
-  "npmName": "rxdb",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "!(es|lib|typings){,**/*}"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "rxdb",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "!(es|lib|typings){,**/*}"
+        ]
+      }
+    ]
+  }
 }

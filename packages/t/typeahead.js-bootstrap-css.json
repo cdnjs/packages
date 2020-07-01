@@ -2,7 +2,6 @@
   "name": "typeahead.js-bootstrap-css",
   "filename": "typeaheadjs.min.css",
   "description": "Bootstrap3 style for typeahead.js using Bootstrap 3 mixins and variables",
-  "version": "1.2.1",
   "keywords": [
     "less",
     "bootstrap",

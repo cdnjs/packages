@@ -1,7 +1,6 @@
 {
   "name": "pnp-pnpjs",
   "filename": "pnpjs.es5.umd.min.js",
-  "version": "2.0.4",
   "description": "pnp - rollup library of core functionality (mimics sp-pnp-js)",
   "keywords": [
     "patterns and practices",
@@ -11,19 +10,22 @@
     "spfx",
     "sharepoint framework"
   ],
-  "npmName": "@pnp/pnpjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.ts)"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/pnp/pnp"
   },
   "license": "MIT",
-  "author": "Microsoft and other contributors"
+  "author": "Microsoft and other contributors",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@pnp/pnpjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.ts)"
+        ]
+      }
+    ]
+  }
 }

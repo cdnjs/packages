@@ -15,20 +15,23 @@
     "type": "git",
     "url": "https://github.com/dailymotion/vast-client-js"
   },
-  "npmName": "vast-client",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "vast-client*"
-      ]
-    },
-    {
-      "basePath": "dist",
-      "files": [
-        "*/vast-client*"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "vast-client",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "vast-client*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "*/vast-client*"
+        ]
+      }
+    ]
+  }
 }

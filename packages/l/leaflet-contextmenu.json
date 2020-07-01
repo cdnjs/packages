@@ -1,7 +1,6 @@
 {
   "name": "leaflet-contextmenu",
   "filename": "leaflet.contextmenu.min.js",
-  "version": "1.4.0",
   "description": "A context menu for Leaflet",
   "repository": {
     "type": "git",
@@ -16,13 +15,16 @@
   ],
   "author": "Adam Ratcliffe",
   "license": "MIT",
-  "npmName": "leaflet-contextmenu",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "leaflet-contextmenu",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

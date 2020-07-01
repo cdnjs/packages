@@ -1,7 +1,6 @@
 {
   "name": "taggle",
   "filename": "taggle.min.js",
-  "version": "1.15.0",
   "description": "Taggle is a dependency-less tagging library",
   "author": "Sean Coker <sean@seancoker.com>",
   "repository": {
@@ -17,19 +16,22 @@
     "library"
   ],
   "license": "MIT",
-  "npmName": "taggle",
-  "npmFileMap": [
-    {
-      "basePath": "example/js",
-      "files": [
-        "taggle*"
-      ]
-    },
-    {
-      "basePath": "src",
-      "files": [
-        "taggle.*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "taggle",
+    "fileMap": [
+      {
+        "basePath": "example/js",
+        "files": [
+          "taggle*"
+        ]
+      },
+      {
+        "basePath": "src",
+        "files": [
+          "taggle.*"
+        ]
+      }
+    ]
+  }
 }

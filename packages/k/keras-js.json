@@ -1,6 +1,5 @@
 {
   "name": "keras-js",
-  "version": "0.3.0",
   "filename": "keras.js",
   "description": "Run Keras models (tensorflow backend) in the browser, with GPU support.",
   "homepage": "https://transcranial.github.io/keras-js/",

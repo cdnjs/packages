@@ -2,7 +2,6 @@
   "name": "graingert-wow",
   "filename": "wow.min.js",
   "title": "WOW",
-  "version": "1.2.2",
   "description": "Reveal CSS animation as you scroll down a page.",
   "keywords": [
     "scroll",
@@ -27,13 +26,16 @@
       "url": "https://graingert.co.uk/"
     }
   ],
-  "npmName": "wow.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.gz)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "wow.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.gz)"
+        ]
+      }
+    ]
+  }
 }

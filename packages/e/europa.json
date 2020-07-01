@@ -1,6 +1,5 @@
 {
   "name": "europa",
-  "version": "4.0.0",
   "description": "Library for converting HTML into valid Markdown",
   "author": {
     "name": "Alasdair Mercer",
@@ -19,13 +18,16 @@
     "url": "https://github.com/NotNinja/europa.git"
   },
   "filename": "europa.min.js",
-  "npmName": "europa",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "europa",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

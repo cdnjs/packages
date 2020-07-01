@@ -3,7 +3,6 @@
   "filename": "react-virtualized.min.js",
   "description": "React components for efficiently rendering large, scrollable lists and tabular data",
   "author": "Brian Vaughn <brian.david.vaughn@gmail.com>",
-  "version": "9.21.2",
   "homepage": "https://bvaughn.github.io/react-virtualized",
   "license": "MIT",
   "repository": {
@@ -27,13 +26,16 @@
     "grid",
     "spreadsheet"
   ],
-  "npmName": "react-virtualized",
-  "npmFileMap": [
-    {
-      "basePath": "dist/umd",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-virtualized",
+    "fileMap": [
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

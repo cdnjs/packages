@@ -1,6 +1,5 @@
 {
   "name": "draggable",
-  "version": "1.0.0-beta.9",
   "filename": "draggable.min.js",
   "license": "MIT",
   "description": "The JavaScript Drag & Drop library your grandparents warned you about.",
@@ -16,13 +15,16 @@
     "drag-and-drop",
     "es6"
   ],
-  "npmName": "@shopify/draggable",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "!(utils).js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@shopify/draggable",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "!(utils).js"
+        ]
+      }
+    ]
+  }
 }

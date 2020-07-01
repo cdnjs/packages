@@ -1,6 +1,5 @@
 {
   "name": "jquery-sidebar",
-  "version": "3.3.2",
   "description": "A stupid simple sidebar jQuery plugin.",
   "repository": {
     "type": "git",
@@ -13,14 +12,17 @@
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net/)",
   "license": "MIT",
-  "npmName": "jquery-sidebar",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "*"
-      ]
-    }
-  ],
-  "filename": "jquery.sidebar.min.js"
+  "filename": "jquery.sidebar.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-sidebar",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "babel-polyfill",
-  "version": "7.10.1",
   "filename": "polyfill.min.js",
   "description": "Provides polyfills necessary for a full ES2015+ environment",
   "author": {
@@ -22,13 +21,16 @@
     "es6",
     "es2015"
   ],
-  "npmName": "@babel/polyfill",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@babel/polyfill",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

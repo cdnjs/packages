@@ -5,20 +5,6 @@
     "type": "git",
     "url": "git://github.com/jqwidgets/jQWidgets"
   },
-  "npmName": "jqwidgets-scripts",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jqwidgets/**/*.*",
-        "jqwidgets-ng/**/*.*",
-        "jqwidgets-react/*.*",
-        "jqwidgets-react-tsx/*/*.*",
-        "jqwidgets-ts/*.*",
-        "jqwidgets-vue/*.*"
-      ]
-    }
-  ],
   "keywords": [
     "JavaScript",
     "jQuery",
@@ -132,5 +118,22 @@
   },
   "license": "http://www.jqwidgets.com/license/",
   "homepage": "http://www.jqwidgets.com/",
-  "filename": "jqwidgets/jqx-all.js"
+  "filename": "jqwidgets/jqx-all.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jqwidgets-scripts",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jqwidgets/**/*.*",
+          "jqwidgets-ng/**/*.*",
+          "jqwidgets-react/*.*",
+          "jqwidgets-react-tsx/*/*.*",
+          "jqwidgets-ts/*.*",
+          "jqwidgets-vue/*.*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "queue-async",
-  "version": "1.0.7",
   "description": "A little helper for asynchronous JavaScript.",
   "filename": "queue.min.js",
   "keywords": [
@@ -16,15 +15,18 @@
     "type": "git",
     "url": "https://github.com/mbostock/queue.git"
   },
-  "npmName": "queue-async",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "queue.min.js",
-        "queue.js"
-      ]
-    }
-  ],
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "autoupdate": {
+    "source": "npm",
+    "target": "queue-async",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "queue.min.js",
+          "queue.js"
+        ]
+      }
+    ]
+  }
 }

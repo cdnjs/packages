@@ -2,7 +2,6 @@
   "name": "js-polyfills",
   "filename": "polyfill.min.js",
   "author": "Joshua Bell <inexorabletash@gmail.com>",
-  "version": "0.1.42",
   "description": "Collection of Web polyfills.",
   "repository": {
     "type": "git",
@@ -13,13 +12,16 @@
     "standards"
   ],
   "license": "Unlicense",
-  "npmName": "js-polyfills",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "polyfill*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "js-polyfills",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "polyfill*"
+        ]
+      }
+    ]
+  }
 }

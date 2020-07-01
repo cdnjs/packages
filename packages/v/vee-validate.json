@@ -1,7 +1,6 @@
 {
   "name": "vee-validate",
   "filename": "vee-validate.min.js",
-  "version": "3.2.5",
   "description": "Simple VueJS input validation plugin",
   "homepage": "http://vee-validate.logaretm.com",
   "repository": {
@@ -18,13 +17,16 @@
   ],
   "author": "Abdelrahman Awad <logaretm1@gmail.com>",
   "license": "MIT",
-  "npmName": "vee-validate",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.md|*.esm.js|*.es2015.js|*.ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vee-validate",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.md|*.esm.js|*.es2015.js|*.ts)"
+        ]
+      }
+    ]
+  }
 }

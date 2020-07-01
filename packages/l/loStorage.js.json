@@ -1,6 +1,5 @@
 {
   "name": "loStorage.js",
-  "version": "1.1.0",
   "license": "MIT",
   "filename": "loStorage.min.js",
   "description": "Client-side storage the way it should be – using the HTML5 localStorage API.",

@@ -1,7 +1,6 @@
 {
   "name": "paper.js",
   "filename": "paper-full.min.js",
-  "version": "0.12.2",
   "description": "The Swiss Army Knife of Vector Graphics Scripting",
   "homepage": "http://paperjs.org/",
   "keywords": [

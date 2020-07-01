@@ -1,6 +1,5 @@
 {
   "name": "rest.js",
-  "version": "15.2.6",
   "filename": "octokit-rest.min.js",
   "homepage": "https://octokit.github.io/rest.js/",
   "description": "GitHub REST API client for Node.js",

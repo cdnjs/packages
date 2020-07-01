@@ -1,7 +1,6 @@
 {
   "name": "roll",
   "filename": "roll.min.js",
-  "version": "0.1.2",
   "description": "A simple library to track scroll movements.",
   "author": "William Ngan",
   "repository": {
@@ -14,13 +13,16 @@
     "ui"
   ],
   "license": "Apache-2.0",
-  "npmName": "rolljs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "rolljs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

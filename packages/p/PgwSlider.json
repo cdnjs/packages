@@ -1,7 +1,6 @@
 {
   "name": "PgwSlider",
   "filename": "pgwslider.min.js",
-  "version": "2.3.1",
   "description": "Responsive and lightweight Slider plugin for jQuery / Zepto",
   "repository": {
     "type": "git",

@@ -1,6 +1,5 @@
 {
   "name": "valid.js",
-  "version": "1.2.5",
   "filename": "validate.js",
   "description": "A simple library for data validation",
   "repository": {
@@ -19,13 +18,16 @@
     "url": "github.com/dleitee"
   },
   "license": "MIT",
-  "npmName": "valid.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "valid.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

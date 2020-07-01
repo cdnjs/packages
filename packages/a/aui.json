@@ -1,7 +1,6 @@
 {
   "name": "aui",
   "filename": "aui/js/aui.min.js",
-  "version": "7.6.0",
   "description": "Atlassian User Interface Framework",
   "homepage": "https://docs.atlassian.com/aui/",
   "keywords": [
@@ -14,11 +13,14 @@
     "url": "https://bitbucket.org/atlassian/aui"
   },
   "license": "Apache-2.0",
-  "npmName": "@atlassian/aui",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": []
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@atlassian/aui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": []
+      }
+    ]
+  }
 }

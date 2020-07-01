@@ -20,14 +20,17 @@
     "type": "git",
     "url": "git+https://github.com/Simonwep/selection.git"
   },
-  "npmName": "@simonwep/selection-js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "selection.min.js"
+  "filename": "selection.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@simonwep/selection-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

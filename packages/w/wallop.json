@@ -1,7 +1,6 @@
 {
   "name": "wallop",
   "filename": "js/Wallop.min.js",
-  "version": "2.4.1",
   "description": "wallop is a minimal 4kb library for showing & hiding things",
   "repository": {
     "type": "git",
@@ -18,13 +17,16 @@
   "author": "Pedro Duarte <contact@peduarte.com> (http://pedroduarte.me)",
   "license": "MIT",
   "homepage": "http://pedroduarte.me/wallop",
-  "npmName": "wallop",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "+(js|css)/+(Wallop|wallop)*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "wallop",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "+(js|css)/+(Wallop|wallop)*"
+        ]
+      }
+    ]
+  }
 }

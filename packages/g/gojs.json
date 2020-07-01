@@ -1,7 +1,6 @@
 {
   "name": "gojs",
   "filename": "go.js",
-  "version": "2.1.15",
   "description": "Interactive diagrams, charts, and graphs, such as trees, flowcharts, orgcharts, UML, BPMN, or business diagrams",
   "keywords": [
     "diagram",
@@ -121,13 +120,16 @@
     "type": "git",
     "url": "git+https://github.com/NorthwoodsSoftware/GoJS.git"
   },
-  "npmName": "gojs",
-  "npmFileMap": [
-    {
-      "basePath": "release",
-      "files": [
-        "**/*.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "gojs",
+    "fileMap": [
+      {
+        "basePath": "release",
+        "files": [
+          "**/*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "notifxi",
-  "version": "0.2.2",
   "description": "A queued notification class for javascript that utilizes Bootstrap and jQuery.",
   "keywords": [
     "notification",

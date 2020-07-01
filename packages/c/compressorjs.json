@@ -22,14 +22,17 @@
     "type": "git",
     "url": "git+https://github.com/fengyuanchen/compressorjs.git"
   },
-  "npmName": "compressorjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "compressor.min.js"
+  "filename": "compressor.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "compressorjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "polyglot",
   "filename": "js/jquery.polyglot.language.switcher.min.js",
-  "version": "2.2.0",
   "description": "Allows you to easily switch between the languages supported by your website.",
   "author": "tavyy <octavr@gmail.com>",
   "repository": {

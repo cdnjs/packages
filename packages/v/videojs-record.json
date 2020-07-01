@@ -1,6 +1,5 @@
 {
   "name": "videojs-record",
-  "version": "4.0.0",
   "filename": "videojs.record.min.js",
   "description": "A video.js plugin for recording audio/video/image files.",
   "author": "Collab",
@@ -28,13 +27,16 @@
     "mp3",
     "opus"
   ],
-  "npmName": "videojs-record",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "videojs-record",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

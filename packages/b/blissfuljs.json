@@ -1,7 +1,6 @@
 {
   "name": "blissfuljs",
   "filename": "bliss.min.js",
-  "version": "1.0.6",
   "description": "Lightweight helper library for modern browsers.",
   "repository": {
     "type": "git",
@@ -18,13 +17,16 @@
   "author": "Lea Verou",
   "license": "MIT",
   "homepage": "https://blissfuljs.com",
-  "npmName": "blissfuljs",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "bliss!(._.)*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "blissfuljs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "bliss!(._.)*"
+        ]
+      }
+    ]
+  }
 }

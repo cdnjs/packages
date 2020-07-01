@@ -1,7 +1,6 @@
 {
   "name": "valine",
   "filename": "Valine.min.js",
-  "version": "1.4.14",
   "description": "A fast, simple & powerful comment system.",
   "keywords": [
     "comment-system",
@@ -19,13 +18,16 @@
     "url": "git+https://github.com/xCss/Valine.git"
   },
   "homepage": "https://valine.js.org",
-  "npmName": "valine",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "!(plugins){,**/*}"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "valine",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "!(plugins){,**/*}"
+        ]
+      }
+    ]
+  }
 }

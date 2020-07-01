@@ -1,7 +1,6 @@
 {
   "name": "popper.js",
   "filename": "umd/popper.min.js",
-  "version": "2.4.0",
   "description": "A kickass library to manage your poppers",
   "repository": {
     "type": "git",
@@ -16,13 +15,16 @@
   "author": "Federico Zivolo <federico.zivolo@gmail.com>",
   "license": "MIT",
   "homepage": "https://popper.js.org/",
-  "npmName": "@popperjs/core",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.gz|*.br|*.flow)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@popperjs/core",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.gz|*.br|*.flow)"
+        ]
+      }
+    ]
+  }
 }

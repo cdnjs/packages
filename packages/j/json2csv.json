@@ -1,7 +1,6 @@
 {
   "name": "json2csv",
   "description": "Convert JSON to CSV",
-  "version": "5.0.1",
   "filename": "json2csv.umd.min.js",
   "keywords": [
     "json",
@@ -22,13 +21,16 @@
     "type": "git",
     "url": "https://github.com/zemirco/json2csv.git"
   },
-  "npmName": "json2csv",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.esm.*|*.cjs.*)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "json2csv",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.esm.*|*.cjs.*)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "sisyphus.js",
   "filename": "sisyphus.min.js",
-  "version": "1.1.3",
   "description": "Gmail-like client-side drafts and bit more. Plugin developed to save html forms data to LocalStorage to restore them after browser crashes, tabs closings and other disasters.",
   "repository": {
     "type": "git",
@@ -15,13 +14,16 @@
   "author": "Alexander Kaupanin",
   "license": "MIT",
   "homepage": "https://sisyphus-js.herokuapp.com/",
-  "npmName": "sisyphus.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "sisyphus*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "sisyphus.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "sisyphus*"
+        ]
+      }
+    ]
+  }
 }

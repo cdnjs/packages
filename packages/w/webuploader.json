@@ -1,7 +1,6 @@
 {
   "name": "webuploader",
   "filename": "webuploader.min.js",
-  "version": "0.1.1",
   "description": "It's a new file uploader solution, with two runtimes(html5 & flash).",
   "homepage": "http://gmuteam.github.io/webuploader",
   "keywords": [

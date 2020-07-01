@@ -1,7 +1,6 @@
 {
   "name": "ol3",
   "filename": "ol.js",
-  "version": "4.6.5",
   "description": "Build tools and sources for developing OpenLayers based mapping applications",
   "homepage": "http://openlayers.org/",
   "license": "BSD-2-Clause",
@@ -10,17 +9,20 @@
     "openlayers",
     "maps"
   ],
-  "npmName": "openlayers",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/openlayers/ol3"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "openlayers",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

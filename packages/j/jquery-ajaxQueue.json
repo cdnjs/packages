@@ -3,7 +3,6 @@
   "filename": "jquery.ajaxQueue.min.js",
   "title": "jQuery Ajax Queue",
   "description": "A simple queue for ajax requests",
-  "version": "0.1.1",
   "author": {
     "name": "Corey Frang",
     "email": "gnarf37@gmail.com",

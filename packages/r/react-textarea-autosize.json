@@ -1,7 +1,6 @@
 {
   "name": "react-textarea-autosize",
   "description": "textarea component for React which grows with content",
-  "version": "7.1.2",
   "filename": "react-textarea-autosize.min.js",
   "keywords": [
     "autosize",
@@ -20,13 +19,16 @@
     "email": "8mayday@gmail.com"
   },
   "homepage": "https://andreypopp.github.io/react-textarea-autosize/",
-  "npmName": "react-textarea-autosize",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.es.*js|*.cjs.*js|*.esm.*js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-textarea-autosize",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.es.*js|*.cjs.*js|*.esm.*js)"
+        ]
+      }
+    ]
+  }
 }

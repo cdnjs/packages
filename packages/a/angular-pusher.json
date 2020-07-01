@@ -2,7 +2,6 @@
   "name": "angular-pusher",
   "author": "Brian Woodward",
   "filename": "angular-pusher.min.js",
-  "version": "0.0.14",
   "description": "AngularJS provider and service for Pusher",
   "homepage": "http://angular-pusher-example.herokuapp.com/",
   "repository": {

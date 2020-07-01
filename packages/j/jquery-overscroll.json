@@ -1,6 +1,5 @@
 {
   "name": "jquery-overscroll",
-  "version": "1.7.7",
   "filename": "jquery.overscroll.min.js",
   "description": "Overscroll is a jQuery Plugin and polyfill for mobile safari's overflow-scrolling style. It is intended for use on desktop browsers, with the latest version of jQuery.",
   "homepage": "http://azoff.github.io/overscroll/",

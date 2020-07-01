@@ -1,6 +1,5 @@
 {
   "name": "jed",
-  "version": "1.1.1",
   "author": {
     "name": "Alex Sexton",
     "email": "alexsexton@gmail.com"
@@ -19,13 +18,16 @@
   ],
   "license": "WTFPL",
   "homepage": "http://slexaxton.github.io/Jed/",
-  "npmName": "jed",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jed*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jed",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jed*"
+        ]
+      }
+    ]
+  }
 }

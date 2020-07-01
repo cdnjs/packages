@@ -1,6 +1,5 @@
 {
   "name": "slick-lightbox",
-  "version": "0.2.12",
   "filename": "slick-lightbox.min.js",
   "homepage": "https://mreq.github.io/slick-lightbox/",
   "description": "A lightbox wrapper for Ken's amazing slick carousel",

@@ -1,7 +1,6 @@
 {
   "name": "angular-google-chart",
   "filename": "ng-google-chart.min.js",
-  "version": "0.1.0",
   "description": "Google Chart Tools AngularJS Directive Module",
   "repository": {
     "type": "git",

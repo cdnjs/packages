@@ -1,6 +1,5 @@
 {
   "name": "styled-components",
-  "version": "5.1.1",
   "filename": "styled-components.min.js",
   "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress",
   "homepage": "https://styled-components.com/",
@@ -16,13 +15,16 @@
   },
   "license": "MIT",
   "author": "Glen Maddern <@geelen>",
-  "npmName": "styled-components",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.es.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "styled-components",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.es.js)"
+        ]
+      }
+    ]
+  }
 }

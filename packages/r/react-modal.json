@@ -1,6 +1,5 @@
 {
   "name": "react-modal",
-  "version": "3.11.2",
   "description": "Accessible modal dialog component for React.JS",
   "repository": {
     "type": "git",
@@ -13,15 +12,18 @@
     "modal",
     "dialog"
   ],
-  "npmName": "react-modal",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "filename": "react-modal.min.js",
-  "author": "Ryan Florence"
+  "author": "Ryan Florence",
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-modal",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

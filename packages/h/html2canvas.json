@@ -1,7 +1,6 @@
 {
   "name": "html2canvas",
   "filename": "html2canvas.min.js",
-  "version": "0.4.1",
   "description": "Screenshots with JavaScript",
   "homepage": "http://html2canvas.hertzen.com/",
   "keywords": [

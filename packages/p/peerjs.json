@@ -1,26 +1,28 @@
 {
   "name": "peerjs",
   "filename": "peerjs.min.js",
-  "version": "1.2.0",
   "description": "PeerJS client",
   "homepage": "http://peerjs.com/",
   "keywords": [
     "js",
     "WebRTC"
   ],
-  "npmName": "peerjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "peer*"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/peers/peerjs"
   },
   "license": "MIT",
-  "author": "Michelle Bu, Eric Zhang"
+  "author": "Michelle Bu, Eric Zhang",
+  "autoupdate": {
+    "source": "npm",
+    "target": "peerjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "peer*"
+        ]
+      }
+    ]
+  }
 }

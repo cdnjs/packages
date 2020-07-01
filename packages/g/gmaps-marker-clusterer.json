@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git+ssh://git@github.com/gmaps-marker-clusterer/gmaps-marker-clusterer.git"
   },
-  "npmName": "gmaps-marker-clusterer",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "markerclusterer.js"
+  "filename": "markerclusterer.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "gmaps-marker-clusterer",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

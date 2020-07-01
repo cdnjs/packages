@@ -1,7 +1,6 @@
 {
   "name": "react-sortable-hoc",
   "filename": "react-sortable-hoc.min.js",
-  "version": "0.9.0",
   "description": "Set of higher-order components to turn any list into a sortable, touch-friendly, animated list",
   "author": {
     "name": "Clauderic Demers",
@@ -34,13 +33,16 @@
     "higher-order-component"
   ],
   "homepage": "https://clauderic.github.io/react-sortable-hoc/",
-  "npmName": "react-sortable-hoc",
-  "npmFileMap": [
-    {
-      "basePath": "dist/umd",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-sortable-hoc",
+    "fileMap": [
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -2,7 +2,6 @@
   "name": "san",
   "filename": "san.min.js",
   "description": "A Flexible JavaScript Component Framework",
-  "version": "3.8.5",
   "homepage": "https://baidu.github.io/san/",
   "repository": {
     "type": "git",
@@ -17,14 +16,17 @@
     "mvvm",
     "san"
   ],
-  "npmName": "san",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.md|*.gz)"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "san",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.md|*.gz)"
+        ]
+      }
+    ]
+  }
 }

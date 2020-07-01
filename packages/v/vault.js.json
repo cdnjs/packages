@@ -1,7 +1,6 @@
 {
   "name": "vault.js",
   "filename": "vault.min.js",
-  "version": "1.0.3",
   "description": "Key-Value Storage of true data types for the browser and node",
   "homepage": "http://jimmybyrum.github.io/vault.js/",
   "author": "Jimmy Byrum (https://github.com/jimmybyrum)",
@@ -18,13 +17,16 @@
     "type": "git",
     "url": "https://github.com/jimmybyrum/vault.js.git"
   },
-  "npmName": "vault.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vault.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

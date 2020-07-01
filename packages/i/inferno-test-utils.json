@@ -1,6 +1,5 @@
 {
   "name": "inferno-test-utils",
-  "version": "7.4.2",
   "filename": "inferno-test-utils.min.js",
   "license": "MIT",
   "description": "Suite of utilities for testing Inferno applications",
@@ -22,13 +21,16 @@
     "type": "git",
     "url": "git+https://github.com/infernojs/inferno.git"
   },
-  "npmName": "inferno-test-utils",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/inferno-test-utils!(*.node)*.!(*ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "inferno-test-utils",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/inferno-test-utils!(*.node)*.!(*ts)"
+        ]
+      }
+    ]
+  }
 }

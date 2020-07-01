@@ -1,6 +1,5 @@
 {
   "name": "jquery-visibility",
-  "version": "1.0.11",
   "description": "Page visibility shim for jQuery.",
   "keywords": [
     "page",
@@ -17,13 +16,16 @@
   },
   "author": "Mathias Bynens @mathias (https://mathiasbynens.be)",
   "license": "MIT",
-  "npmName": "jquery-visibility",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jquery-visibility*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-visibility",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery-visibility*.js"
+        ]
+      }
+    ]
+  }
 }

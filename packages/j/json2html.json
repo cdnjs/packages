@@ -7,7 +7,6 @@
     "url": "http://json2html.com"
   },
   "description": "json2html - HTML Templating using JSON2HTML",
-  "version": "1.4.1",
   "homepage": "http://json2html.com",
   "repository": {
     "type": "git",

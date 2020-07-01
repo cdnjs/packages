@@ -1,7 +1,6 @@
 {
   "name": "angular-filter",
   "description": "Bunch of useful filters for angularJS(with no external dependencies!)",
-  "version": "0.5.17",
   "filename": "angular-filter.min.js",
   "author": "Ariel Mashraki <ariel@mashraki.co.il>",
   "repository": {

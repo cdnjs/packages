@@ -1,6 +1,5 @@
 {
   "name": "jwerty",
-  "version": "0.3.2",
   "filename": "jwerty.min.js",
   "description": "Awesome handling of keyboard events",
   "homepage": "http://keithamus.github.com/jwerty",

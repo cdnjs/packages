@@ -2,7 +2,6 @@
   "name": "fork-awesome",
   "description": "A fork of the iconic font and CSS framework",
   "filename": "css/fork-awesome.min.css",
-  "version": "1.1.7",
   "keywords": [
     "font",
     "awesome",
@@ -20,13 +19,16 @@
     "OFL-1.1",
     "MIT"
   ],
-  "npmName": "fork-awesome",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "+(css|fonts)/**/fork?(-)awesome*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "fork-awesome",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "+(css|fonts)/**/fork?(-)awesome*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "seajs",
   "filename": "sea.js",
-  "version": "3.0.3",
   "description": "A Module Loader for the Web",
   "homepage": "http://seajs.org/",
   "keywords": [
@@ -15,14 +14,17 @@
     "type": "git",
     "url": "git://github.com/seajs/seajs.git"
   },
-  "npmName": "seajs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "seajs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  }
 }

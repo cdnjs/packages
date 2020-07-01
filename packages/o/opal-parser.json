@@ -1,7 +1,6 @@
 {
   "name": "opal-parser",
   "filename": "opal-parser.min.js",
-  "version": "0.3.43",
   "description": "Ruby runtime and core library for javascript.",
   "keywords": [
     "opal",

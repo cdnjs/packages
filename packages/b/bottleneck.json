@@ -1,7 +1,6 @@
 {
   "name": "bottleneck",
   "filename": "bottleneck.min.js",
-  "version": "2.12.2",
   "description": "Async rate limiter",
   "repository": {
     "type": "git",

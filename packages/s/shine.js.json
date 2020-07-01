@@ -1,7 +1,6 @@
 {
   "name": "shine.js",
   "filename": "shine.min.js",
-  "version": "0.2.7",
   "description": "A library for pretty shadows.",
   "author": "Benjamin Bojko",
   "repository": {

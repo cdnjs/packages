@@ -1,7 +1,6 @@
 {
   "name": "ui-leaflet",
   "description": "ui-leaflet - An AngularJS directive to easily interact with Leaflet maps",
-  "version": "2.0.0",
   "filename": "ui-leaflet.min.js",
   "author": "https://github.com/angular-ui/ui-leaflet/graphs/contributors",
   "homepage": "https://angular-ui.github.io/ui-leaflet/",

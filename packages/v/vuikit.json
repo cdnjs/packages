@@ -1,6 +1,5 @@
 {
   "name": "vuikit",
-  "version": "0.8.10",
   "description": "UIkit with all the power of Vue",
   "author": {
     "name": "ZOOlanders",
@@ -19,14 +18,17 @@
     "url": "git+https://github.com/vuikit/vuikit.git"
   },
   "homepage": "https://vuikit.github.io/vuikit",
-  "npmName": "vuikit",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.esm.js|*.cjs.js)"
-      ]
-    }
-  ],
-  "filename": "vuikit.min.js"
+  "filename": "vuikit.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "vuikit",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.esm.js|*.cjs.js)"
+        ]
+      }
+    ]
+  }
 }

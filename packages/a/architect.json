@@ -1,7 +1,6 @@
 {
   "name": "architect",
   "filename": "architect.min.js",
-  "version": "0.0.6",
   "description": "Architect is a JavaScript library built on top of Web Workers. He will manage and polyfill them workers so you don’t have to.",
   "homepage": "http://architectjs.org",
   "keywords": [

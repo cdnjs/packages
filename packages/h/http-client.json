@@ -1,7 +1,6 @@
 {
   "name": "http-client",
   "filename": "http-client.min.js",
-  "version": "4.3.1",
   "description": "Compose HTTP clients using JavaScript's fetch API",
   "keywords": [
     "http-client",
@@ -14,13 +13,16 @@
     "type": "git",
     "url": "git+https://github.com/mjackson/http-client.git"
   },
-  "npmName": "http-client",
-  "npmFileMap": [
-    {
-      "basePath": "umd",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "http-client",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

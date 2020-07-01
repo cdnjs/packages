@@ -1,6 +1,5 @@
 {
   "name": "Darkmode.js",
-  "version": "1.5.5",
   "filename": "darkmode-js.min.js",
   "description": "🌓 Add darkmode / nightmode to your website in a few seconds",
   "repository": {
@@ -23,13 +22,16 @@
   "author": "Sandoche Adittane",
   "license": "MIT",
   "homepage": "https://github.com/sandoche/darkmode",
-  "npmName": "darkmode-js",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "darkmode-js",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

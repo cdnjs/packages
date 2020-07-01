@@ -1,7 +1,6 @@
 {
   "name": "yadcf",
   "filename": "jquery.dataTables.yadcf.min.js",
-  "version": "0.9.4",
   "description": "This jQuery plug-in allows the user to easily add filter components to table columns, the plug-in works on top of the DataTables jQuery plug-in.",
   "author": {
     "name": "Daniel Reznick",
@@ -21,13 +20,16 @@
     "plugin",
     "column"
   ],
-  "npmName": "yadcf",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jquery.dataTables.yadcf*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "yadcf",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery.dataTables.yadcf*"
+        ]
+      }
+    ]
+  }
 }

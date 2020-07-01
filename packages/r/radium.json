@@ -1,6 +1,5 @@
 {
   "name": "radium",
-  "version": "0.26.0",
   "description": "A set of tools to manage inline styles on React elements",
   "filename": "radium.min.js",
   "repository": {
@@ -18,13 +17,16 @@
     "Alex Lande",
     "Ian Obermiller"
   ],
-  "npmName": "radium",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "radium",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

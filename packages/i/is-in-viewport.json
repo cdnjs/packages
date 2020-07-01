@@ -1,7 +1,6 @@
 {
   "name": "is-in-viewport",
   "filename": "isInViewport.min.js",
-  "version": "3.0.4",
   "description": "An ultra-light jQuery plugin that tells you if an element is in the viewport but with a twist.",
   "repository": {
     "type": "git",
@@ -14,13 +13,16 @@
   ],
   "author": "Mudit Ameta",
   "license": "MIT",
-  "npmName": "is-in-viewport",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "isInViewport*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "is-in-viewport",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "isInViewport*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,22 +1,12 @@
 {
   "name": "canvas-nest.js",
   "filename": "canvas-nest.js",
-  "version": "2.0.4",
   "description": "A nest backgroud of website draw on canvas use javascript, do not depend on jQuery. Less then 2kb.",
   "homepage": "https://atool.vip/",
   "keywords": [
     "canvas",
     "html5",
     "nest"
-  ],
-  "npmName": "canvas-nest.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "canvas-nest*.js"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -26,5 +16,17 @@
   "author": {
     "name": "atool",
     "url": "https://atool.vip/"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "canvas-nest.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "canvas-nest*.js"
+        ]
+      }
+    ]
   }
 }

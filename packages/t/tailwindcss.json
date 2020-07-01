@@ -1,7 +1,6 @@
 {
   "name": "tailwindcss",
   "filename": "tailwind.min.css",
-  "version": "1.4.2",
   "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
   "license": "MIT",
   "keywords": [
@@ -23,13 +22,16 @@
     "url": "https://github.com/tailwindcss/tailwindcss"
   },
   "homepage": "https://tailwindcss.com",
-  "npmName": "tailwindcss",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "tailwindcss",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

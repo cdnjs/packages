@@ -1,7 +1,6 @@
 {
   "name": "font-awesome",
   "filename": "css/all.min.css",
-  "version": "5.13.0",
   "description": "The iconic SVG, font, and CSS toolkit",
   "homepage": "https://fontawesome.com/",
   "keywords": [
@@ -12,15 +11,6 @@
     "webfont",
     "svg-icons",
     "svg-sprites"
-  ],
-  "npmName": "@fortawesome/fontawesome-free",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "+(css|js|webfonts|sprites|svgs)/*"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -35,5 +25,17 @@
     "name": "Dave Gandy",
     "email": "dave@fontawesome.io",
     "web": "https://twitter.com/davegandy"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@fortawesome/fontawesome-free",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "+(css|js|webfonts|sprites|svgs)/*"
+        ]
+      }
+    ]
   }
 }

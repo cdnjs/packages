@@ -1,7 +1,6 @@
 {
   "name": "angular-storage",
   "filename": "angular-storage.min.js",
-  "version": "0.0.15",
   "description": "A Storage done right for AngularJS",
   "keywords": [
     "storage",
@@ -19,13 +18,16 @@
     "url": "https://github.com/auth0/angular-storage.git"
   },
   "license": "MIT",
-  "npmName": "angular-storage",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-storage",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

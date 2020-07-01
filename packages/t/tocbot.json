@@ -1,6 +1,5 @@
 {
   "name": "tocbot",
-  "version": "4.11.1",
   "description": "Generate a table of contents based on the heading structure of a html document.",
   "filename": "tocbot.min.js",
   "repository": {
@@ -20,13 +19,16 @@
   ],
   "author": "Tim Scanlin",
   "license": "MIT",
-  "npmName": "tocbot",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*tocbot*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "tocbot",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*tocbot*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "backbone-tastypie",
   "filename": "backbone-tastypie.min.js",
-  "version": "0.2",
   "description": "A small compatibility layer to make backbone.js and django-tastypie work together happily.",
   "keywords": [
     "tastypie",

@@ -1,7 +1,6 @@
 {
   "name": "darkroomjs",
   "description": "Extensible image editing tool via HTML canvas",
-  "version": "2.0.1",
   "filename": "darkroom.js",
   "license": "MIT",
   "homepage": "https://mattketmo.github.io/darkroomjs",

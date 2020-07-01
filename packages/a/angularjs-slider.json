@@ -1,6 +1,5 @@
 {
   "name": "angularjs-slider",
-  "version": "7.0.0",
   "description": "AngularJS slider directive with no external dependencies. Mobile friendly!.",
   "filename": "rzslider.min.js",
   "repository": {
@@ -16,13 +15,16 @@
     "email": "rzajac@gmail.com"
   },
   "license": "MIT",
-  "npmName": "angularjs-slider",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.scss)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angularjs-slider",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.scss)"
+        ]
+      }
+    ]
+  }
 }

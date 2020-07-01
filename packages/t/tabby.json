@@ -1,7 +1,6 @@
 {
   "name": "tabby",
   "filename": "js/tabby.min.js",
-  "version": "12.0.3",
   "description": "Simple, mobile-first toggle tabs.",
   "author": {
     "name": "Chris Ferdinandi",

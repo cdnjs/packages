@@ -1,7 +1,6 @@
 {
   "name": "ng-jsoneditor",
   "filename": "ng-jsoneditor.min.js",
-  "version": "1.51",
   "description": "Angular version of the insanely cool jsoneditor",
   "keywords": [
     "jsoneditor",

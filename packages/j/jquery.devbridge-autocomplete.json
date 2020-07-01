@@ -1,7 +1,6 @@
 {
   "name": "jquery.devbridge-autocomplete",
   "filename": "jquery.autocomplete.min.js",
-  "version": "1.4.11",
   "description": "Autocomplete provides suggestions while you type into the text field.",
   "homepage": "http://www.devbridge.com/projects/autocomplete/jquery/",
   "keywords": [

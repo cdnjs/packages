@@ -17,14 +17,17 @@
     "type": "git",
     "url": "https://github.com/ant-design/ant-design-icons/tree/master/packages/icons-react"
   },
-  "npmName": "@ant-design/icons",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "index.umd.min.js"
+  "filename": "index.umd.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@ant-design/icons",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

@@ -2,7 +2,6 @@
   "name": "angular-ui-utils",
   "filename": "angular-ui-utils.min.js",
   "description": "AngularUI is the companion suite to the AngularJS framework.",
-  "version": "0.1.1",
   "homepage": "http://angular-ui.github.com",
   "keywords": [
     "framework",

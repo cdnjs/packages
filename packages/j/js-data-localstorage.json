@@ -1,7 +1,6 @@
 {
   "name": "js-data-localstorage",
   "description": "localStorage adapter for js-data.",
-  "version": "2.3.2",
   "homepage": "http://www.js-data.io/docs/dslocalstorageadapter",
   "repository": {
     "type": "git",
@@ -19,15 +18,18 @@
     "adapter",
     "localstorage"
   ],
-  "npmName": "js-data-localstorage",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.+(js|map)"
-      ]
-    }
-  ],
   "filename": "js-data-localstorage.min.js",
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "js-data-localstorage",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

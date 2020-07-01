@@ -1,7 +1,6 @@
 {
   "name": "meny",
   "filename": "meny.min.js",
-  "version": "1.4.0",
   "description": "A three dimensional and space effecient menu",
   "homepage": "http://lab.hakim.se/meny/",
   "author": {

@@ -1,7 +1,6 @@
 {
   "name": "Vue2Leaflet",
   "filename": "vue2-leaflet.min.js",
-  "version": "1.0.2",
   "description": "Vue2 leaflet library",
   "author": "Mickael Bouchaud",
   "license": "MIT",

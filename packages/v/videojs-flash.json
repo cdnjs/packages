@@ -1,6 +1,5 @@
 {
   "name": "videojs-flash",
-  "version": "2.2.1",
   "filename": "videojs-flash.min.js",
   "description": "The official Flash tech package for Video.js.",
   "keywords": [
@@ -14,13 +13,16 @@
     "type": "git",
     "url": "git+https://github.com/videojs/videojs-flash.git"
   },
-  "npmName": "videojs-flash",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.cjs.*|*.es.*)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "videojs-flash",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.cjs.*|*.es.*)"
+        ]
+      }
+    ]
+  }
 }

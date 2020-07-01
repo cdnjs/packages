@@ -1,7 +1,6 @@
 {
   "name": "photoset-grid",
   "filename": "jquery.photoset-grid.min.js",
-  "version": "1.0.1",
   "description": "jQuery plugin to arrange images into a flexible grid",
   "author": "Jonathan Moore - Style Hatch",
   "keywords": [

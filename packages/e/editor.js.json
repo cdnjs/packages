@@ -1,7 +1,6 @@
 {
   "name": "editor.js",
   "filename": "editor.js",
-  "version": "2.17.0",
   "description": "Editor.js — Native JS, based on API and Open Source",
   "keywords": [
     "codex editor",
@@ -16,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/codex-team/editor.js.git"
   },
-  "npmName": "@editorjs/editorjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "editor.js"
-      ]
-    }
-  ],
-  "homepage": "https://editorjs.io"
+  "homepage": "https://editorjs.io",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@editorjs/editorjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "editor.js"
+        ]
+      }
+    ]
+  }
 }

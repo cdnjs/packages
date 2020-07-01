@@ -2,7 +2,6 @@
   "name": "pell",
   "description": "pell - the simplest and smallest WYSIWYG text editor for web, with no dependencies",
   "author": "Jared Reich",
-  "version": "1.0.6",
   "filename": "pell.min.js",
   "repository": {
     "type": "git",
@@ -17,13 +16,16 @@
   ],
   "license": "MIT",
   "homepage": "https://jaredreich.com/pell",
-  "npmName": "pell",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "pell",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

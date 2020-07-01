@@ -19,14 +19,17 @@
     "type": "git",
     "url": "git://github.com/ricmoo/scrypt-js.git"
   },
-  "npmName": "scrypt-js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "**/*.js"
-      ]
-    }
-  ],
-  "filename": "scrypt.js"
+  "filename": "scrypt.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "scrypt-js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.js"
+        ]
+      }
+    ]
+  }
 }

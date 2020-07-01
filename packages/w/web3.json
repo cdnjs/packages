@@ -13,15 +13,6 @@
     "JavaScript",
     "API"
   ],
-  "npmName": "web3",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "authors": [
     {
       "name": "Fabian Vogelsteller",
@@ -47,5 +38,17 @@
       "email": "jeffrey.wilcke@ethereum.org",
       "url": "https://github.com/obscuren"
     }
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "web3",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

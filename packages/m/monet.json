@@ -11,14 +11,17 @@
     "type": "git",
     "url": "git+ssh://git@github.com/monet/monet.js.git"
   },
-  "npmName": "monet",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|ts|map)"
-      ]
-    }
-  ],
-  "filename": "monet.min.js"
+  "filename": "monet.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "monet",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|ts|map)"
+        ]
+      }
+    ]
+  }
 }

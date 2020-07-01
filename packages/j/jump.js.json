@@ -1,7 +1,6 @@
 {
   "name": "jump.js",
   "filename": "jump.min.js",
-  "version": "1.0.2",
   "description": "A small, modern, dependency-free smooth scrolling library.",
   "author": "Michael Cavalea",
   "license": "MIT",
@@ -13,19 +12,22 @@
     "scroll"
   ],
   "homepage": "http://callmecavs.com/jump.js/",
-  "npmName": "jump.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.!(html)"
-      ]
-    },
-    {
-      "basePath": "src",
-      "files": [
-        "jump*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jump.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.!(html)"
+        ]
+      },
+      {
+        "basePath": "src",
+        "files": [
+          "jump*"
+        ]
+      }
+    ]
+  }
 }

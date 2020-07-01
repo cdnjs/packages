@@ -1,6 +1,5 @@
 {
   "name": "lodash-compat",
-  "version": "3.10.2",
   "filename": "lodash.min.js",
   "description": "The compatibility build of lodash.js",
   "homepage": "http://lodash.com/",

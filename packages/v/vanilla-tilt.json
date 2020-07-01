@@ -1,6 +1,5 @@
 {
   "name": "vanilla-tilt",
-  "version": "1.7.0",
   "filename": "vanilla-tilt.min.js",
   "homepage": "https://micku7zu.github.io/vanilla-tilt.js/",
   "description": "A smooth 3D tilt javascript library forked from Tilt.js",
@@ -19,13 +18,16 @@
   ],
   "author": "Sergiu Șandor <micku7zu@gmail.com>",
   "license": "MIT",
-  "npmName": "vanilla-tilt",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vanilla-tilt",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

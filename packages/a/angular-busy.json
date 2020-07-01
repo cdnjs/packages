@@ -2,7 +2,6 @@
   "name": "angular-busy",
   "filename": "angular-busy.min.js",
   "description": "Show busy/loading indicators on any $http or $resource request, or on any promise",
-  "version": "4.1.4",
   "author": {
     "name": "Chris Gross",
     "email": "schtoo@schtoo.com"

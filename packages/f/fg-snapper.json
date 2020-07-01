@@ -1,7 +1,6 @@
 {
   "name": "fg-snapper",
   "filename": "snapper.min.js",
-  "version": "3.4.0",
   "description": "A CSS Snap-Points based carousel (and lightweight polyfill)",
   "author": {
     "name": "Scott Jehl, Filament Group, Inc.",
@@ -18,13 +17,16 @@
     "carousel"
   ],
   "license": "MIT",
-  "npmName": "fg-snapper",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "fg-snapper",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

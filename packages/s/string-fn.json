@@ -2,7 +2,6 @@
   "name": "string-fn",
   "filename": "webVersion.js",
   "homepage": "https://selfrefactor.github.io/string-fn/",
-  "version": "2.10.2",
   "description": "String manipulation library",
   "repository": {
     "type": "git",
@@ -17,13 +16,16 @@
   ],
   "author": "self_refactor",
   "license": "ISC",
-  "npmName": "string-fn",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "webVersion.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "string-fn",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "webVersion.js"
+        ]
+      }
+    ]
+  }
 }

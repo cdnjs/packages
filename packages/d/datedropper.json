@@ -1,7 +1,6 @@
 {
   "name": "datedropper",
   "filename": "datedropper.min.js",
-  "version": "2.0",
   "description": "datedropper is a jQuery datepicker plugin",
   "repository": {
     "type": "git",

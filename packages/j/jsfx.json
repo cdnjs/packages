@@ -1,7 +1,6 @@
 {
   "name": "jsfx",
   "filename": "jsfx.min.js",
-  "version": "1.2.0",
   "description": "Package for sound effect generation.",
   "repository": {
     "type": "git",
@@ -18,13 +17,16 @@
   "author": "loov",
   "license": "MIT",
   "homepage": "http://loov.io/jsfx",
-  "npmName": "loov-jsfx",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jsfx*.+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "loov-jsfx",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jsfx*.+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

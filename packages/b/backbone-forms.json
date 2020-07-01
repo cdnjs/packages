@@ -1,20 +1,10 @@
 {
   "name": "backbone-forms",
   "filename": "backbone-forms.min.js",
-  "version": "0.14.1",
   "description": "A flexible, customisable form framework for Backbone.JS applications.",
   "keywords": [
     "forms",
     "backbone"
-  ],
-  "npmName": "backbone-forms",
-  "npmFileMap": [
-    {
-      "basePath": "distribution",
-      "files": [
-        "**/*"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -23,5 +13,17 @@
   "license": "MIT",
   "author": {
     "name": "Charles Davison"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "backbone-forms",
+    "fileMap": [
+      {
+        "basePath": "distribution",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

@@ -1,6 +1,5 @@
 {
   "name": "angular-touch",
-  "version": "1.7.9",
   "filename": "angular-touch.min.js",
   "description": "AngularJS module for touch events and helpers for touch-enabled devices",
   "repository": {
@@ -20,13 +19,16 @@
   },
   "license": "MIT",
   "homepage": "http://angularjs.org",
-  "npmName": "angular-touch",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "angular-touch*.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-touch",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "angular-touch*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

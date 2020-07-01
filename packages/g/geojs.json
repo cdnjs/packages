@@ -1,6 +1,5 @@
 {
   "name": "geojs",
-  "version": "0.19.8",
   "description": "JavaScript Geo visualization and Analysis Library",
   "license": "BSD-3-Clause",
   "repository": {
@@ -13,14 +12,17 @@
     "webgl",
     "svg"
   ],
-  "npmName": "geojs",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "geo*.js"
-      ]
-    }
-  ],
-  "filename": "geo.min.js"
+  "filename": "geo.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "geojs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "geo*.js"
+        ]
+      }
+    ]
+  }
 }

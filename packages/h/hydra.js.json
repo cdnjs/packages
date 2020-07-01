@@ -1,7 +1,6 @@
 {
   "name": "hydra.js",
   "filename": "hydra.min.js",
-  "version": "3.11.0",
   "description": "Framework that gives you the tools to write your application using modules or widgets and make easy to work with them.",
   "homepage": "http://tcorral.github.com/Hydra.js/",
   "keywords": [
@@ -11,20 +10,23 @@
     "modules",
     "scalable"
   ],
-  "npmName": "hydra.js",
-  "npmFileMap": [
-    {
-      "basePath": "versions",
-      "files": [
-        "hydra.js",
-        "hydra.min.js"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/tcorral/Hydra.js.git"
   },
   "license": "MIT",
-  "author": "Tomas Corral"
+  "author": "Tomas Corral",
+  "autoupdate": {
+    "source": "npm",
+    "target": "hydra.js",
+    "fileMap": [
+      {
+        "basePath": "versions",
+        "files": [
+          "hydra.js",
+          "hydra.min.js"
+        ]
+      }
+    ]
+  }
 }

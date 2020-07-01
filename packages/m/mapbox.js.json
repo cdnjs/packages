@@ -11,14 +11,17 @@
     "type": "git",
     "url": "git://github.com/mapbox/mapbox.js.git"
   },
-  "npmName": "mapbox.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|css|map|png|svg)"
-      ]
-    }
-  ],
-  "filename": "mapbox.js"
+  "filename": "mapbox.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mapbox.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css|map|png|svg)"
+        ]
+      }
+    ]
+  }
 }

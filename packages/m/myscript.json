@@ -1,6 +1,5 @@
 {
   "name": "myscript",
-  "version": "4.3.0",
   "filename": "myscript.min.js",
   "description": "The JavaScript library for the MyScript Cloud recognition service",
   "keywords": [

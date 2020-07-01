@@ -1,7 +1,6 @@
 {
   "name": "react-slick",
   "filename": "react-slick.min.js",
-  "version": "0.25.2",
   "description": " React port of slick carousel",
   "author": "Kiran Abburi",
   "license": "MIT",
@@ -17,13 +16,16 @@
     "slider",
     "react-component"
   ],
-  "npmName": "react-slick",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-slick",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

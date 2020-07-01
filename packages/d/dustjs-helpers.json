@@ -1,7 +1,6 @@
 {
   "name": "dustjs-helpers",
   "filename": "dust-helpers.min.js",
-  "version": "1.7.4",
   "description": "Helpers for dustjs-linkedin",
   "keywords": [
     "template",
@@ -9,15 +8,6 @@
     "dust",
     "linkedin",
     "asynchronous"
-  ],
-  "npmName": "dustjs-helpers",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -27,5 +17,17 @@
   "author": {
     "name": "Aleksander Williams",
     "url": "http://akdubya.github.com/dustjs"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "dustjs-helpers",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
   }
 }

@@ -1,17 +1,6 @@
 {
   "name": "custom-elements-builder",
   "description": "custom-element-builder is just a set of builders, natively scalable and designed for FRP.",
-  "version": "0.3.4",
-  "npmName": "ceb",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js",
-        "*.map"
-      ]
-    }
-  ],
   "filename": "ceb.min.js",
   "homepage": "https://tmorin.github.io/ceb",
   "author": {
@@ -33,5 +22,18 @@
     "builder",
     "tools"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ceb",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*.map"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "jquery-endless-scroll",
   "filename": "js/jquery.endless-scroll.min.js",
-  "version": "1.8.0",
   "description": "Endless/infinite scrolling/pagination.",
   "keywords": [
     "jquery",

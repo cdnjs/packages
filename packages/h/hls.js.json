@@ -1,6 +1,5 @@
 {
   "name": "hls.js",
-  "version": "0.13.2",
   "filename": "hls.min.js",
   "description": "JavaScript HLS client using MediaSourceExtension",
   "license": "Apache-2.0",
@@ -17,13 +16,16 @@
   ],
   "author": "Guillaume du Pontavice <g.du.pontavice@gmail.com>",
   "homepage": "https://hls-js.netlify.com/demo/",
-  "npmName": "hls.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*-demo.*)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "hls.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*-demo.*)"
+        ]
+      }
+    ]
+  }
 }

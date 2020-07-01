@@ -1,7 +1,6 @@
 {
   "name": "docxtemplater",
   "filename": "docxtemplater.min.js",
-  "version": "3.17.6",
   "author": "Edgar Hipp",
   "homepage": "https://docxtemplater.com/",
   "description": ".docx generator working with templates and data (like Mustache)",
@@ -19,13 +18,16 @@
     "MIT",
     "GPL-3.0"
   ],
-  "npmName": "docxtemplater",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "docxtemplater*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "docxtemplater",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "docxtemplater*"
+        ]
+      }
+    ]
+  }
 }

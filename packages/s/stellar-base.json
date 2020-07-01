@@ -1,6 +1,5 @@
 {
   "name": "stellar-base",
-  "version": "3.0.0",
   "filename": "stellar-base.min.js",
   "description": "Low level stellar support library",
   "repository": {
@@ -15,13 +14,16 @@
   ],
   "author": "Scott Fleckenstein <scott@stellar.org>",
   "license": "Apache-2.0",
-  "npmName": "stellar-base",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "stellar-base",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

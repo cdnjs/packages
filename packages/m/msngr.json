@@ -2,7 +2,6 @@
   "name": "msngr",
   "filename": "msngr.min.js",
   "description": "An asynchronous messaging library, written in JavaScript, for node and browser use",
-  "version": "7.0.0",
   "keywords": [
     "message",
     "messaging",

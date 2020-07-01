@@ -17,14 +17,17 @@
     "type": "git",
     "url": "git+https://github.com/benjeffery/react-plotlyjs.git"
   },
-  "npmName": "react-plotlyjs",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "PlotlyComponent.js"
+  "filename": "PlotlyComponent.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-plotlyjs",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

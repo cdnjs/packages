@@ -2,7 +2,6 @@
   "name": "msl-client-browser",
   "filename": "mockapi-browser.min.js",
   "description": "Browser Client for MSL (Mock Service Layer)",
-  "version": "1.1.0",
   "homepage": "http://finraos.github.io/MSL",
   "keywords": [],
   "autoupdate": {

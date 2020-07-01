@@ -2,7 +2,6 @@
   "name": "HTML5Notification",
   "filename": "Notification.min.js",
   "description": "Notification polyfill",
-  "version": "3.0.0",
   "author": {
     "name": "Tsvetan Tsvetkov",
     "email": "tsekach@gmail.com"

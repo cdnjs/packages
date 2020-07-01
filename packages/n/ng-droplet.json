@@ -1,7 +1,6 @@
 {
   "name": "ng-droplet",
   "filename": "ng-droplet.min.js",
-  "version": "0.7.1",
   "description": "Angular.js HTML5 file uploading with drag & drop and image/file preview.",
   "repository": {
     "type": "git",
@@ -16,13 +15,16 @@
   ],
   "author": "Adam Timberlake <adam.timberlake@gmail.com>",
   "license": "MIT",
-  "npmName": "ng-droplet",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ng-droplet",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

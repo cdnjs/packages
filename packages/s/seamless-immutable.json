@@ -1,7 +1,6 @@
 {
   "name": "seamless-immutable",
   "filename": "seamless-immutable.production.min.js",
-  "version": "7.1.4",
   "description": "Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.",
   "repository": {
     "type": "git",
@@ -12,13 +11,16 @@
   ],
   "author": "Richard Feldman",
   "license": "BSD-3-Clause",
-  "npmName": "seamless-immutable",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "seamless-immutable*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "seamless-immutable",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "seamless-immutable*"
+        ]
+      }
+    ]
+  }
 }

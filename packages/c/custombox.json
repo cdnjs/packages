@@ -2,7 +2,6 @@
   "name": "custombox",
   "filename": "custombox.min.js",
   "description": "Modal dialog effects with transitions CSS3",
-  "version": "4.0.3",
   "author": {
     "name": "Julio de la Calle",
     "email": "juliodlcp@gmail.com",

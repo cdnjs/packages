@@ -1,7 +1,6 @@
 {
   "name": "jquery-dateFormat",
   "filename": "jquery.dateFormat.min.js",
-  "version": "1.0",
   "description": "It's a jQuery Plugin to format Date outputs using JavaScript.",
   "homepage": "http://archive.plugins.jquery.com/project/jquery-dateFormat",
   "keywords": [

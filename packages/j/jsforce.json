@@ -1,7 +1,6 @@
 {
   "name": "jsforce",
   "filename": "jsforce.min.js",
-  "version": "1.9.3",
   "license": "MIT",
   "description": "Salesforce API Library for JavaScript",
   "homepage": "http://jsforce.github.io",
@@ -16,14 +15,17 @@
     "type": "git",
     "url": "https://github.com/jsforce/jsforce.git"
   },
-  "npmName": "jsforce",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "*"
-      ]
-    }
-  ],
-  "author": "Shinichi Tomita <shinichi.tomita@gmail.com>"
+  "author": "Shinichi Tomita <shinichi.tomita@gmail.com>",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jsforce",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  }
 }

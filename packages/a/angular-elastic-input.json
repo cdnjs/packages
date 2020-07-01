@@ -1,7 +1,6 @@
 {
   "name": "angular-elastic-input",
   "filename": "angular-elastic-input.min.js",
-  "version": "2.4.0",
   "description": "A directive for AngularJS which automatically resizes the width of input field according to the content, while typing.",
   "keywords": [
     "elastic input",

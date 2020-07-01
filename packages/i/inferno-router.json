@@ -1,6 +1,5 @@
 {
   "name": "inferno-router",
-  "version": "7.4.2",
   "filename": "inferno-router.min.js",
   "license": "MIT",
   "description": "Provides routing functionality for Inferno",
@@ -22,13 +21,16 @@
     "type": "git",
     "url": "git+https://github.com/infernojs/inferno.git"
   },
-  "npmName": "inferno-router",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/inferno-router!(*.node)*.!(*ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "inferno-router",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/inferno-router!(*.node)*.!(*ts)"
+        ]
+      }
+    ]
+  }
 }

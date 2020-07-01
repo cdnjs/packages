@@ -1,6 +1,5 @@
 {
   "name": "oclazyload",
-  "version": "1.1.0",
   "description": "Load modules on demand (lazy load) with angularJS",
   "filename": "ocLazyLoad.min.js",
   "author": {
@@ -21,13 +20,16 @@
     "angular",
     "angularJS"
   ],
-  "npmName": "oclazyload",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "oclazyload",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

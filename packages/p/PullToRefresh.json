@@ -3,7 +3,6 @@
   "filename": "ptr.min.js",
   "title": "PullToRefresh",
   "description": "a JavaScript implementation of PullToRefresh without jQuery or other Frameworks under MIT-License",
-  "version": "0.1.1",
   "author": {
     "name": "Simon Waldherr",
     "email": "contact@simonwaldherr.de",

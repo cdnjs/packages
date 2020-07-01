@@ -1,6 +1,5 @@
 {
   "name": "angular-imgcache.js",
-  "version": "0.1.0",
   "description": "Simple imgcache.js wrapper for AngularJS, can be used with Ionic/Cordova/Phonegap.",
   "filename": "angular-imgcache.min.js",
   "repository": {

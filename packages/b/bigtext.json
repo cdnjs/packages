@@ -12,14 +12,17 @@
     "type": "git",
     "url": "git://github.com/zachleat/bigtext.git"
   },
-  "npmName": "bigtext",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "bigtext.js"
+  "filename": "bigtext.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bigtext",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

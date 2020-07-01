@@ -2,7 +2,6 @@
   "name": "pannellum",
   "filename": "pannellum.js",
   "description": "Pannellum is a lightweight, free, and open source panorama viewer for the web.",
-  "version": "2.5.6",
   "author": {
     "name": "Matthew Petroff",
     "url": "https://mpetroff.net/"
@@ -17,13 +16,16 @@
     "panorama",
     "viewer"
   ],
-  "npmName": "pannellum",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*.!(htm)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "pannellum",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*.!(htm)"
+        ]
+      }
+    ]
+  }
 }

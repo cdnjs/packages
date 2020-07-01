@@ -2,7 +2,6 @@
   "name": "taffydb",
   "filename": "taffy-min.js",
   "description": "TaffyDB is an opensouce library that brings database features into your JavaScript applications.",
-  "version": "2.7.3",
   "homepage": "http://taffydb.com/",
   "keywords": [
     "taffydb",
@@ -16,14 +15,17 @@
     "name": "Ian Smith"
   },
   "license": "BSD",
-  "npmName": "taffydb",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "taffy.js",
-        "taffy-min.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "taffydb",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "taffy.js",
+          "taffy-min.js"
+        ]
+      }
+    ]
+  }
 }

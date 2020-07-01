@@ -1,6 +1,5 @@
 {
   "name": "flexboxgrid",
-  "version": "6.3.1",
   "description": "Grid based off of CSS3 flexbox specification",
   "filename": "flexboxgrid.min.css",
   "repository": {
@@ -16,13 +15,16 @@
   "author": "@dam",
   "license": "Apache-2.0",
   "homepage": "http://flexboxgrid.com",
-  "npmName": "flexboxgrid",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "flexboxgrid",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

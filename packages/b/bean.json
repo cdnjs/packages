@@ -2,7 +2,6 @@
   "name": "bean",
   "filename": "bean.min.js",
   "description": "A small, fast, framework-agnostic event manager",
-  "version": "1.0.15",
   "authors": [
     "Jacob Thornton <@fat>",
     "Rod Vagg <@rvagg>",
@@ -19,14 +18,17 @@
     "event",
     "dom"
   ],
-  "npmName": "bean",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "bean.js",
-        "bean.min.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "bean",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "bean.js",
+          "bean.min.js"
+        ]
+      }
+    ]
+  }
 }

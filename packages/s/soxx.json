@@ -1,7 +1,6 @@
 {
   "name": "soxx",
   "filename": "soxx.min.js",
-  "version": "2.0.3",
   "description": "The missing microlib for websocket communication in the browser",
   "repository": {
     "type": "git",
@@ -19,13 +18,16 @@
   ],
   "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
   "license": "ISC",
-  "npmName": "soxx",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "soxx",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

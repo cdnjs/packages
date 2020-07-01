@@ -1,6 +1,5 @@
 {
   "name": "intense-images",
-  "version": "1.0.7",
   "filename": "intense.min.js",
   "description": "A simple library to view large images up close using simple mouse interaction, and the full screen.",
   "homepage": "http://tholman.com/intense-images/",
@@ -16,13 +15,16 @@
   },
   "license": "MIT",
   "author": "Tim Holman <timothy.w.holman@gmail.com>",
-  "npmName": "@tholman/intense-images",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "intense*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@tholman/intense-images",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "intense*"
+        ]
+      }
+    ]
+  }
 }

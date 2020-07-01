@@ -1,7 +1,6 @@
 {
   "name": "psl",
   "filename": "psl.min.js",
-  "version": "1.8.0",
   "description": "Domain name parser based on the Public Suffix List",
   "repository": {
     "type": "git",
@@ -13,13 +12,16 @@
   ],
   "author": "Lupo Montero",
   "license": "MIT",
-  "npmName": "psl",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "psl",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

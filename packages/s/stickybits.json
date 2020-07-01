@@ -1,7 +1,6 @@
 {
   "name": "stickybits",
   "filename": "stickybits.min.js",
-  "version": "3.7.7",
   "description": "Stickybits is a lightweight alternative to `position: sticky` polyfills",
   "repository": {
     "type": "git",
@@ -27,13 +26,16 @@
   "author": "Jeff Wainwright <jjwainwright2@gmail.com> (https://jeffry.in)",
   "license": "MIT",
   "homepage": "https://dollarshaveclub.github.io/stickybits/",
-  "npmName": "stickybits",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.es.*)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "stickybits",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.es.*)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "restful.js",
   "filename": "restful.min.js",
-  "version": "0.9.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/marmelab/restful.js"
@@ -15,14 +14,17 @@
     "restful",
     "api"
   ],
-  "npmName": "restful.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "!(es5)/*",
-        "restful*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "restful.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "!(es5)/*",
+          "restful*"
+        ]
+      }
+    ]
+  }
 }

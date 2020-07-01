@@ -1,7 +1,6 @@
 {
   "name": "domready",
   "filename": "ready.min.js",
-  "version": "1.0.8",
   "description": "modern domready",
   "keywords": [
     "ender",

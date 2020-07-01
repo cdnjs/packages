@@ -1,6 +1,5 @@
 {
   "name": "angular-websocket",
-  "version": "2.0.1",
   "filename": "angular-websocket.min.js",
   "description": "An Angular WebSocket service for connecting client applications to servers.",
   "keywords": [
@@ -30,13 +29,16 @@
     "url": "git+ssh://git@github.com/AngularClass/angular-websocket.git"
   },
   "license": "Apache-2.0",
-  "npmName": "angular-websocket",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "!(angular-websocket-mock.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-websocket",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "!(angular-websocket-mock.js)"
+        ]
+      }
+    ]
+  }
 }

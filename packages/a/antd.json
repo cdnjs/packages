@@ -1,7 +1,6 @@
 {
   "name": "antd",
   "filename": "antd.min.js",
-  "version": "4.1.4",
   "description": "An UI design language",
   "homepage": "http://ant.design/",
   "author": {
@@ -24,13 +23,16 @@
     "url": "https://github.com/ant-design/ant-design"
   },
   "license": "MIT",
-  "npmName": "antd",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.!(less)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "antd",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.!(less)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "cheval",
   "filename": "cheval.min.js",
-  "version": "1.4.0",
   "description": "Copy to the clipboard using JavaScript without writing JS.",
   "repository": {
     "type": "git",

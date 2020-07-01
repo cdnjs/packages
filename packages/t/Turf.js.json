@@ -1,6 +1,5 @@
 {
   "name": "Turf.js",
-  "version": "5.1.5",
   "description": "a node.js library for performing geospatial operations with geojson",
   "filename": "turf.min.js",
   "repository": {
@@ -36,13 +35,16 @@
   ],
   "author": "morganherlocker",
   "license": "MIT",
-  "npmName": "@turf/turf",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "turf.+(js|min.js)?(.map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@turf/turf",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "turf.+(js|min.js)?(.map)"
+        ]
+      }
+    ]
+  }
 }

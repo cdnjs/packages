@@ -1,6 +1,5 @@
 {
   "name": "simplelightbox",
-  "version": "2.2.1",
   "description": "Touch-friendly image lightbox for mobile and desktop with jQuery",
   "filename": "simple-lightbox.min.js",
   "repository": {
@@ -24,13 +23,16 @@
   },
   "license": "MIT",
   "homepage": "http://andreknieriem.de/simple-lightbox",
-  "npmName": "simplelightbox",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.scss)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "simplelightbox",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.scss)"
+        ]
+      }
+    ]
+  }
 }

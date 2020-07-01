@@ -1,28 +1,31 @@
 {
-   "name": "serializr",
-   "description": "Serialize and deserialize complex object graphs to JSON",
-   "keywords": [
-     "serialize",
-     "deserialize",
-     "graph",
-     "json",
-     "mobx"
-   ],
-   "author": "Michel Weststrate",
-   "license": "MIT",
-   "homepage": "",
-   "repository": {
-     "type": "git",
-     "url": "https://github.com/mobxjs/serializr.git"
-   },
-   "npmName": "serializr",
-   "npmFileMap": [
-     {
-       "basePath": "lib",
-       "files": [
-         "**/*.@(js|ts)"
-       ]
-     }
-   ],
-   "filename": "serializr.min.js"
+  "name": "serializr",
+  "description": "Serialize and deserialize complex object graphs to JSON",
+  "keywords": [
+    "serialize",
+    "deserialize",
+    "graph",
+    "json",
+    "mobx"
+  ],
+  "author": "Michel Weststrate",
+  "license": "MIT",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobxjs/serializr.git"
+  },
+  "filename": "serializr.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "serializr",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

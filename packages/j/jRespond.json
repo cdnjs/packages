@@ -1,6 +1,5 @@
 {
   "name": "jRespond",
-  "version": "1.0.0",
   "filename": "js/jRespond.min.js",
   "description": "jRespond is a simple way to globally manage javascript on responsive websites.",
   "repository": {

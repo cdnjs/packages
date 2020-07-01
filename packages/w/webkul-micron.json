@@ -1,6 +1,5 @@
 {
   "name": "webkul-micron",
-  "version": "1.1.6",
   "homepage": "https://webkul.github.io/micron/",
   "description": "a microInteraction library built with CSS Animations and driven by JavaScript Power",
   "keywords": [
@@ -23,13 +22,16 @@
     "type": "git",
     "url": "git+https://github.com/webkul/micron.git"
   },
-  "npmName": "webkul-micron",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "webkul-micron",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "pretty-checkbox",
-  "version": "3.0.0",
   "filename": "pretty-checkbox.min.css",
   "description": "A pure CSS library to beautify checkbox and radio buttons",
   "repository": {
@@ -26,13 +25,16 @@
   "author": "Lokesh Rajendran",
   "license": "MIT",
   "homepage": "https://lokesh-coder.github.io/pretty-checkbox",
-  "npmName": "pretty-checkbox",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "pretty-checkbox",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

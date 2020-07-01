@@ -23,14 +23,17 @@
     "type": "git",
     "url": "git+https://github.com/manzinello/mailgo.git"
   },
-  "npmName": "mailgo",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "mailgo.min.js"
+  "filename": "mailgo.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mailgo",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

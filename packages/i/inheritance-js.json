@@ -1,7 +1,6 @@
 {
   "name": "inheritance-js",
   "filename": "inheritance.min.js",
-  "version": "0.4.12",
   "description": "Simple, lightweight extensions and helpers that make inheritance in JS a breeze, all with pure JavaScript, no extra libraries needed",
   "license": "CPOL-1.02",
   "repository": {
@@ -27,13 +26,16 @@
     "name": "Brandon Sara (bsara)",
     "url": "https://bsara.github.io/"
   },
-  "npmName": "inheritance-js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "inheritance-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

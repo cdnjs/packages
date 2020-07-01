@@ -1,7 +1,6 @@
 {
   "name": "jquery.qrcode",
   "filename": "jquery.qrcode.min.js",
-  "version": "1.0",
   "description": "A jquery plugin for a pure browser qrcode generation.",
   "homepage": "http://jeromeetienne.github.com/jquery-qrcode/",
   "keywords": [

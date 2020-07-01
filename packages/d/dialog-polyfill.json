@@ -1,7 +1,6 @@
 {
   "name": "dialog-polyfill",
   "filename": "dialog-polyfill.min.js",
-  "version": "0.5.1",
   "description": "Polyfill for the dialog element",
   "keywords": [
     "html5",

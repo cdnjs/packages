@@ -1,6 +1,5 @@
 {
   "name": "thorax",
-  "version": "2.2.1",
   "filename": "thorax.min.js",
   "description": "Handlebars + Backbone",
   "homepage": "http://thoraxjs.org/",

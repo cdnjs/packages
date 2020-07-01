@@ -2,7 +2,6 @@
   "name": "morpheus",
   "filename": "morpheus.min.js",
   "description": "A Brilliant Animator",
-  "version": "0.7.2",
   "author": "Dustin Diaz <polvero@gmail.com> (http://dustindiaz.com)",
   "keywords": [
     "ender",
@@ -23,13 +22,16 @@
     "url": "https://github.com/ded/morpheus.git"
   },
   "license": "MIT",
-  "npmName": "morpheus",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "morpheus*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "morpheus",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "morpheus*"
+        ]
+      }
+    ]
+  }
 }

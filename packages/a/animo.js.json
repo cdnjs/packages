@@ -1,6 +1,5 @@
 {
   "name": "animo.js",
-  "version": "1.0.3",
   "filename": "animo.min.js",
   "description": "A powerful little tool for managing CSS animations",
   "author": "Daniel Raftery",

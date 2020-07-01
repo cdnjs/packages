@@ -1,6 +1,5 @@
 {
   "name": "uswds",
-  "version": "2.7.0",
   "filename": "js/uswds.min.js",
   "description": "Open source UI components and visual style guide for U.S. government websites",
   "repository": {
@@ -9,16 +8,19 @@
   },
   "author": "18F",
   "license": "SEE LICENSE in LICENSE.md",
-  "npmName": "uswds",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.md|*.scss)"
-      ]
-    }
-  ],
   "keywords": [
     "uswds"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "uswds",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.md|*.scss)"
+        ]
+      }
+    ]
+  }
 }

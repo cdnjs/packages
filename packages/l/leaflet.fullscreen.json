@@ -1,7 +1,6 @@
 {
   "name": "leaflet.fullscreen",
   "filename": "Control.FullScreen.min.js",
-  "version": "1.6.0",
   "description": "Simple plugin for Leaflet that adds fullscreen button to your maps.",
   "license": "MIT",
   "repository": {
@@ -9,20 +8,23 @@
     "url": "https://github.com/brunob/leaflet.fullscreen"
   },
   "author": "b_b",
-  "npmName": "leaflet.fullscreen",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "Control.FullScreen*.+(css|js|map)",
-        "icon-fullscreen*.png"
-      ]
-    }
-  ],
   "keywords": [
     "leaflet",
     "plugins",
     "maps",
     "fullscreen"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "leaflet.fullscreen",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "Control.FullScreen*.+(css|js|map)",
+          "icon-fullscreen*.png"
+        ]
+      }
+    ]
+  }
 }

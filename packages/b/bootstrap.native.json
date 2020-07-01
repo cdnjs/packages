@@ -1,6 +1,5 @@
 {
   "name": "bootstrap.native",
-  "version": "2.0.27",
   "description": "Native Javascript for Bootstrap 3, the sweetest Javascript library without jQuery.",
   "filename": "bootstrap-native.min.js",
   "repository": {
@@ -17,13 +16,16 @@
   "author": "dnp_theme",
   "license": "MIT",
   "homepage": "http://thednp.github.io/bootstrap.native/",
-  "npmName": "bootstrap.native",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap.native",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

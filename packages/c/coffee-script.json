@@ -1,7 +1,6 @@
 {
   "name": "coffee-script",
   "filename": "coffeescript.js",
-  "version": "2.5.1",
   "description": "Unfancy JavaScript",
   "homepage": "http://jashkenas.github.com/coffee-script/",
   "keywords": [
@@ -12,19 +11,22 @@
     "script",
     "popular"
   ],
-  "npmName": "coffeescript",
-  "npmFileMap": [
-    {
-      "basePath": "lib/coffeescript-browser-compiler-modern",
-      "files": [
-        "coffeescript.js"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/jashkenas/coffeescript.git"
   },
   "license": "MIT",
-  "author": "Jeremy Ashkenas"
+  "author": "Jeremy Ashkenas",
+  "autoupdate": {
+    "source": "npm",
+    "target": "coffeescript",
+    "fileMap": [
+      {
+        "basePath": "lib/coffeescript-browser-compiler-modern",
+        "files": [
+          "coffeescript.js"
+        ]
+      }
+    ]
+  }
 }

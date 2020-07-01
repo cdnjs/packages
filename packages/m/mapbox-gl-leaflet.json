@@ -15,14 +15,17 @@
     "type": "git",
     "url": "git+https://github.com/mapbox/mapbox-gl-leaflet.git"
   },
-  "npmName": "mapbox-gl-leaflet",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "leaflet-mapbox-gl.js"
+  "filename": "leaflet-mapbox-gl.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mapbox-gl-leaflet",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

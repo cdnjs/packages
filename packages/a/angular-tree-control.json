@@ -1,7 +1,6 @@
 {
   "name": "angular-tree-control",
   "filename": "angular-tree-control.min.js",
-  "version": "0.2.30",
   "description": "Angular Tree Control",
   "homepage": "https://wix.github.io/angular-tree-control",
   "repository": {
@@ -15,15 +14,18 @@
   ],
   "author": "Yoav Abrahami",
   "license": "MIT",
-  "npmName": "angular-tree-control",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "angular-tree-control*",
-        "css/tree-control*",
-        "images/!(sample).png"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-tree-control",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "angular-tree-control*",
+          "css/tree-control*",
+          "images/!(sample).png"
+        ]
+      }
+    ]
+  }
 }

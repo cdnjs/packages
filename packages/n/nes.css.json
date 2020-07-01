@@ -1,6 +1,5 @@
 {
   "name": "nes.css",
-  "version": "2.3.0",
   "filename": "css/nes.min.css",
   "description": "NES.css is NES-style CSS Framework.",
   "author": "BcRikko (https://github.com/Bcrikko)",
@@ -16,13 +15,16 @@
     "nes",
     "framework"
   ],
-  "npmName": "nes.css",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "css/nes*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "nes.css",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/nes*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "bricklayer",
   "filename": "bricklayer.min.js",
-  "version": "0.4.3",
   "description": "Lightweight cascading grid layout library",
   "homepage": "http://ademilter.github.io/bricklayer/",
   "keywords": [
@@ -11,19 +10,22 @@
     "grid",
     "responsive"
   ],
-  "npmName": "bricklayer",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*node*)"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ademilter/bricklayer"
   },
   "license": "MIT",
-  "author": "Adem İlter <ademilter@gmail.com>, Fatih Kadir Akın <fatihkadirakin@gmail.com>"
+  "author": "Adem İlter <ademilter@gmail.com>, Fatih Kadir Akın <fatihkadirakin@gmail.com>",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bricklayer",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*node*)"
+        ]
+      }
+    ]
+  }
 }

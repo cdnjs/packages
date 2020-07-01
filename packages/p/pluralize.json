@@ -1,7 +1,6 @@
 {
   "name": "pluralize",
   "filename": "pluralize.min.js",
-  "version": "8.0.0",
   "description": "Pluralize and singularize any word",
   "repository": {
     "type": "git",
@@ -21,13 +20,16 @@
     "url": "http://blakeembrey.me"
   },
   "license": "MIT",
-  "npmName": "pluralize",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "pluralize*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "pluralize",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "pluralize*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "squire-rte",
   "filename": "squire.js",
-  "version": "1.10.1",
   "description": "Squire is an HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.",
   "repository": {
     "type": "git",
@@ -17,13 +16,16 @@
   "author": "Neil Jenkins",
   "license": "MIT",
   "homepage": "https://neilj.github.io/Squire/",
-  "npmName": "squire-rte",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/!(*.html)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "squire-rte",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/!(*.html)"
+        ]
+      }
+    ]
+  }
 }

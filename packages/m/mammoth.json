@@ -1,7 +1,6 @@
 {
   "name": "mammoth",
   "filename": "mammoth.browser.min.js",
-  "version": "1.4.9",
   "author": "Michael Williamson <mike@zwobble.org>",
   "description": "Convert Word documents from docx to simple HTML and Markdown",
   "keywords": [
@@ -18,13 +17,16 @@
   },
   "homepage": "https://mike.zwobble.org/projects/mammoth/",
   "license": "BSD-2-Clause",
-  "npmName": "mammoth",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "mammoth.browser*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "mammoth",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "mammoth.browser*"
+        ]
+      }
+    ]
+  }
 }

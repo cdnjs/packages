@@ -1,7 +1,6 @@
 {
   "name": "wavedrom",
   "filename": "wavedrom.min.js",
-  "version": "2.3.2",
   "description": "Digital timing diagram in your browser",
   "homepage": "http://wavedrom.com",
   "author": {
@@ -18,15 +17,18 @@
     "verilog",
     "RTL"
   ],
-  "npmName": "wavedrom",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "wavedrom!(.unpkg).js",
-        "WaveDrom*.js",
-        "skins/*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "wavedrom",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "wavedrom!(.unpkg).js",
+          "WaveDrom*.js",
+          "skins/*.js"
+        ]
+      }
+    ]
+  }
 }

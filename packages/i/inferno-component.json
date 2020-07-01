@@ -1,6 +1,5 @@
 {
   "name": "inferno-component",
-  "version": "7.4.2",
   "filename": "inferno-component.min.js",
   "license": "MIT",
   "description": "Provides ES2015 stateful components (with lifecycle events) to Inferno",
@@ -27,13 +26,16 @@
     "browser",
     "rollup"
   ],
-  "npmName": "inferno-component",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/inferno-component!(*.node)*.!(*ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "inferno-component",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/inferno-component!(*.node)*.!(*ts)"
+        ]
+      }
+    ]
+  }
 }

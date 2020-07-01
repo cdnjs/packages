@@ -1,7 +1,6 @@
 {
   "name": "techan.js",
   "filename": "techan.min.js",
-  "version": "0.8.0",
   "description": "A visual, technical analysis and charting library built on D3. Build interactive financial charts for modern and mobile browsers.",
   "keywords": [
     "charts",

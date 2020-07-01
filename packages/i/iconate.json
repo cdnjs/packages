@@ -2,7 +2,6 @@
   "name": "iconate",
   "title": "iconate.js",
   "description": "A light-weight library to animate your font-awesome like icons",
-  "version": "0.3.1",
   "homepage": "https://bitshadow.github.io/iconate/",
   "author": {
     "name": "Jignesh Kakadiya",
@@ -22,14 +21,17 @@
     "transition",
     "library"
   ],
-  "npmName": "iconate",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "iconate.min.js"
+  "filename": "iconate.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "iconate",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

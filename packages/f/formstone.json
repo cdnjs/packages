@@ -1,7 +1,6 @@
 {
   "name": "formstone",
   "filename": "js/core.js",
-  "version": "1.4.16",
   "description": "Library of modular front end components.",
   "repository": {
     "type": "git",

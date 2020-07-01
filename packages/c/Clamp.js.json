@@ -1,7 +1,6 @@
 {
   "name": "Clamp.js",
   "filename": "clamp.min.js",
-  "version": "0.5.1",
   "description": "Clamps an HTML element by adding ellipsis to it if the content inside is too long.",
   "homepage": "http://joe.sh/clamp-js",
   "keywords": [

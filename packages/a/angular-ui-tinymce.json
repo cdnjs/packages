@@ -1,7 +1,6 @@
 {
   "name": "angular-ui-tinymce",
   "filename": "tinymce.min.js",
-  "version": "0.0.19",
   "description": "This directive allows you to add a tinymce to your form elements.",
   "author": "https://github.com/angular-ui/ui-tinymce/graphs/contributors",
   "license": "MIT",

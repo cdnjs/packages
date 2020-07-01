@@ -1,7 +1,6 @@
 {
   "name": "jquery-countdown",
   "filename": "js/jquery.countdown.min.js",
-  "version": "2.1.0",
   "description": "Countdown for jQuery.",
   "homepage": "http://keith-wood.name/countdown.html",
   "keywords": [

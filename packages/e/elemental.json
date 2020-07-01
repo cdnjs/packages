@@ -2,7 +2,6 @@
   "name": "elemental",
   "filename": "elemental.min.js",
   "description": "React UI Framework",
-  "version": "0.5.3",
   "homepage": "http://elemental-ui.com",
   "author": "Jed Watson",
   "keywords": [

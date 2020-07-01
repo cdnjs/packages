@@ -1,7 +1,6 @@
 {
   "name": "jquery.isotope",
   "filename": "isotope.pkgd.min.js",
-  "version": "3.0.6",
   "description": "Filter and sort magical layouts",
   "homepage": "http://isotope.metafizzy.co",
   "keywords": [
@@ -11,19 +10,22 @@
     "masonry",
     "layout"
   ],
-  "npmName": "isotope-layout",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/metafizzy/isotope"
   },
   "license": "GPL-3.0",
-  "author": "Metafizzy"
+  "author": "Metafizzy",
+  "autoupdate": {
+    "source": "npm",
+    "target": "isotope-layout",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  }
 }

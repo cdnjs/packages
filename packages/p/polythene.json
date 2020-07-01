@@ -1,7 +1,6 @@
 {
   "name": "polythene",
   "filename": "polythene-standalone.js",
-  "version": "0.3.0",
   "description": "Modular implementation of Material Design for Mithril.",
   "license": "MIT",
   "keywords": [
@@ -14,13 +13,16 @@
   },
   "author": "Arthur Clemens",
   "homepage": "https://polythene.js.org/#/polythene",
-  "npmName": "polythene",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "polythene-standalone*js*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "polythene",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "polythene-standalone*js*"
+        ]
+      }
+    ]
+  }
 }

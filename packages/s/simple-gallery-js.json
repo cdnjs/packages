@@ -1,7 +1,6 @@
 {
   "name": "simple-gallery-js",
   "filename": "simple-gallery.min.js",
-  "version": "1.0.3",
   "description": "Easy gallery upload. Native. Just 2kb gzipped.",
   "keywords": [
     "gallery",
@@ -16,13 +15,16 @@
     "url": "https://github.com/fccoelho7/simpleGallery.js"
   },
   "homepage": "https://fccoelho7.github.io/simpleGallery.js/",
-  "npmName": "simpleGallery.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "simpleGallery.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

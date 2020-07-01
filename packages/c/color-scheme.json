@@ -1,7 +1,6 @@
 {
   "name": "color-scheme",
   "filename": "color-scheme.min.js",
-  "version": "1.0.1",
   "description": "Generate pleasant color schemes",
   "author": "Brian Hann",
   "license": "MIT",
@@ -18,13 +17,16 @@
     "picker",
     "web"
   ],
-  "npmName": "color-scheme",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "color-scheme*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "color-scheme",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "color-scheme*"
+        ]
+      }
+    ]
+  }
 }

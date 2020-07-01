@@ -2,7 +2,6 @@
   "name": "side-comments",
   "filename": "side-comments.min.js",
   "description": "An interface component to give your site/app Medium.com style commenting.",
-  "version": "0.0.1",
   "homepage": "http://aroc.github.io/side-comments-demo",
   "author": {
     "name": "Eric Anderson",

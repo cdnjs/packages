@@ -1,7 +1,6 @@
 {
   "name": "angular-sortable-view",
   "filename": "angular-sortable-view.min.js",
-  "version": "0.0.17",
   "description": "Fully declarative (multi)sortable for AngularJS",
   "keywords": [
     "angularjs",
@@ -22,13 +21,16 @@
     "type": "git",
     "url": "https://github.com/kamilkp/angular-sortable-view.git"
   },
-  "npmName": "angular-sortable-view",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "angular-sortable-view*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-sortable-view",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "angular-sortable-view*"
+        ]
+      }
+    ]
+  }
 }

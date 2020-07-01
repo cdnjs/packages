@@ -9,14 +9,17 @@
     "type": "git",
     "url": "git://github.com/lightswitch05/table-to-json.git"
   },
-  "npmName": "table-to-json",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "jquery.tabletojson.min.js"
+  "filename": "jquery.tabletojson.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "table-to-json",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

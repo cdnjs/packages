@@ -1,7 +1,6 @@
 {
   "name": "qrcode-generator",
   "filename": "qrcode.min.js",
-  "version": "1.4.4",
   "description": "QR Code Generator implementation in JavaScript.",
   "author": "Kazuhiko Arase",
   "homepage": "https://kazuhikoarase.github.io/qrcode-generator/",
@@ -15,13 +14,16 @@
     "generator"
   ],
   "license": "MIT",
-  "npmName": "qrcode-generator",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "qrcode!(_SJIS|_UTF8).+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "qrcode-generator",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "qrcode!(_SJIS|_UTF8).+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

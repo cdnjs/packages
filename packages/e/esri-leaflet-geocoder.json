@@ -2,7 +2,6 @@
   "name": "esri-leaflet-geocoder",
   "filename": "esri-leaflet-geocoder.js",
   "description": "Esri Geocoding utility and search plugin for Leaflet.",
-  "version": "2.3.2",
   "author": "Patrick Arlt <parlt@esri.com> (http://patrickarlt.com)",
   "license": "Apache-2.0",
   "repository": {
@@ -15,13 +14,16 @@
     "Leaflet"
   ],
   "homepage": "https://esri.github.io/esri-leaflet/examples/geocoding-control.html",
-  "npmName": "esri-leaflet-geocoder",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "esri-leaflet-geocoder",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

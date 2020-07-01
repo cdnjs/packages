@@ -1,6 +1,5 @@
 {
   "name": "ng-tasty",
-  "version": "0.6.1",
   "description": "A lightweight, flexible, and tasty collection of reusable UI components for AngularJS.",
   "filename": "ng-tasty-tpls.min.js",
   "repository": {
@@ -12,17 +11,20 @@
     "url": "https://github.com/Zizzamia"
   },
   "license": "MIT",
-  "npmName": "ng-tasty",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "ng-tasty*"
-      ]
-    }
-  ],
   "keywords": [
     "ng",
     "tasty"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "ng-tasty",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "ng-tasty*"
+        ]
+      }
+    ]
+  }
 }

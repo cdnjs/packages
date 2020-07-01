@@ -1,6 +1,5 @@
 {
   "name": "mogl",
-  "version": "0.3.0",
   "filename": "mogl.min.js",
   "description": "MOGL is a lightweight & high performance MObile webGL library.",
   "keywords": [

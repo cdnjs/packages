@@ -1,6 +1,5 @@
 {
   "name": "griddle-react",
-  "version": "0.8.2",
   "filename": "Griddle.min.js",
   "keywords": [
     "react-component",
@@ -20,13 +19,16 @@
   },
   "homepage": "https://griddlegriddle.github.io/Griddle/",
   "license": "MIT",
-  "npmName": "griddle-react",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "griddle-react",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

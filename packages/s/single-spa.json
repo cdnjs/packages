@@ -1,6 +1,5 @@
 {
   "name": "single-spa",
-  "version": "5.5.1",
   "description": "Multiple applications, one page",
   "homepage": "https://single-spa.js.org",
   "repository": {
@@ -19,13 +18,16 @@
   "author": "Joel Denning",
   "license": "MIT",
   "filename": "umd/single-spa.min.js",
-  "npmName": "single-spa",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "single-spa",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

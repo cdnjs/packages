@@ -1,6 +1,5 @@
 {
   "name": "d3-transform",
-  "version": "1.0.4",
   "description": "addon to d3.js that wraps SVG transforms into an API",
   "filename": "d3-transform.min.js",
   "repository": {

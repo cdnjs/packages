@@ -1,7 +1,6 @@
 {
   "name": "ckan",
   "filename": "ckan.min.js",
-  "version": "0.2.3",
   "description": "A Javascript client library for CKAN designed for both the browser and NodeJS.",
   "keywords": [
     "Javascript",
@@ -14,13 +13,16 @@
     "url": "git://github.com/okfn/ckan.js"
   },
   "license": "MIT",
-  "npmName": "ckan",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "ckan*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ckan",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "ckan*"
+        ]
+      }
+    ]
+  }
 }

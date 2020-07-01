@@ -1,7 +1,6 @@
 {
   "name": "gmail-js",
   "filename": "gmail.min.js",
-  "version": "1.0.0",
   "description": "JavaScript API for Gmail (useful for chrome extensions)",
   "repository": {
     "type": "git",
@@ -16,13 +15,16 @@
   ],
   "author": "Kartik Talwar",
   "license": "MIT",
-  "npmName": "gmail-js",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "gmail*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "gmail-js",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "gmail*"
+        ]
+      }
+    ]
+  }
 }

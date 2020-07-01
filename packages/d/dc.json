@@ -21,20 +21,23 @@
     "url": "https://github.com/dc-js/dc.js.git"
   },
   "license": "Apache-2.0",
-  "npmName": "dc",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "dc*.@(js|css|map)"
-      ]
-    },
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|css|map)"
-      ]
-    }
-  ],
-  "filename": "dc.min.js"
+  "filename": "dc.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "dc",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "dc*.@(js|css|map)"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

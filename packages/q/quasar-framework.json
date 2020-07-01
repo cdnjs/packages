@@ -1,7 +1,6 @@
 {
   "name": "quasar-framework",
   "filename": "quasar.mat.umd.min.js",
-  "version": "0.17.20",
   "description": "Simultaneously build desktop/mobile SPA websites & phone/tablet apps with VueJS",
   "repository": {
     "type": "git",
@@ -36,13 +35,16 @@
   },
   "license": "MIT",
   "homepage": "https://quasar-framework.org",
-  "npmName": "quasar-framework",
-  "npmFileMap": [
-    {
-      "basePath": "dist/umd",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "quasar-framework",
+    "fileMap": [
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "formatter.js",
-  "version": "0.1.5",
   "filename": "formatter.min.js",
   "description": "Format user input to match a specified pattern",
   "author": "Jarid Margolin <jarid@firstopinion.com>",

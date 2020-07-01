@@ -1,7 +1,6 @@
 {
   "name": "jquery.swipebox",
   "filename": "js/jquery.swipebox.min.js",
-  "version": "1.4.4",
   "description": "A touchable jQuery lightbox.",
   "homepage": "https://brutaldesign.github.io/swipebox/",
   "keywords": [

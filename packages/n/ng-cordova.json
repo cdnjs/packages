@@ -1,6 +1,5 @@
 {
   "name": "ng-cordova",
-  "version": "0.1.27-alpha",
   "filename": "ng-cordova.min.js",
   "description": "Cordova with AngularJS Goodness",
   "repository": {

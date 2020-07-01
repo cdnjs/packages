@@ -1,6 +1,5 @@
 {
   "name": "soundplayer-widget",
-  "version": "0.4.2",
   "description": "Lightweight embedded SoundCloud player widgets",
   "keywords": [
     "soundcloud",
@@ -18,14 +17,17 @@
     "type": "git",
     "url": "git://github.com/soundblogs/soundplayer-widget.git"
   },
-  "npmName": "soundplayer-widget",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "soundplayer-widget.min.js"
+  "filename": "soundplayer-widget.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "soundplayer-widget",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

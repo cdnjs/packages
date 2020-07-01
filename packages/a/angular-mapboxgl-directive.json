@@ -1,7 +1,6 @@
 {
   "name": "angular-mapboxgl-directive",
   "filename": "angular-mapboxgl-directive.min.js",
-  "version": "0.46.0",
   "description": "An AngularJS directive for Mapbox GL",
   "repository": {
     "type": "git",
@@ -18,13 +17,16 @@
   "author": "https://github.com/Naimikan/angular-mapboxgl-directive/graphs/contributors",
   "license": "MIT",
   "homepage": "https://naimikan.github.io/angular-mapboxgl-directive/",
-  "npmName": "angular-mapboxgl-directive",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-mapboxgl-directive",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -27,14 +27,17 @@
     "type": "git",
     "url": "git+https://github.com/sachinchoolur/lightgallery.js.git"
   },
-  "npmName": "lightgallery.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "js/lightgallery.min.js"
+  "filename": "js/lightgallery.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "lightgallery.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

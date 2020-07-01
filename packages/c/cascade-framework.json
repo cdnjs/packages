@@ -1,7 +1,6 @@
 {
   "name": "cascade-framework",
   "filename": "css/build-full.min.css",
-  "version": "1.5.0",
   "description": "CSS framework that puts back the C in CSS",
   "homepage": "http://cascade-framework.com/",
   "keywords": [

@@ -1,7 +1,6 @@
 {
   "name": "jquery-nearest",
   "description": "Find the elements in a page that are closest to a particular point or element, based on pixel dimensions",
-  "version": "1.4.0",
   "filename": "jquery.nearest.min.js",
   "keywords": [
     "distance",

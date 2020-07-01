@@ -1,7 +1,6 @@
 {
   "name": "viz.js",
   "filename": "viz.js",
-  "version": "2.1.2",
   "description": "A hack to put Graphviz on the web.",
   "author": {
     "name": "Mike Daines",
@@ -16,14 +15,17 @@
     "GraphViz",
     "viz"
   ],
-  "npmName": "viz.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "viz*.+(js|css|map)",
-        "*.render.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "viz.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "viz*.+(js|css|map)",
+          "*.render.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

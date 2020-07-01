@@ -1,22 +1,11 @@
 {
   "name": "bespoke.js",
   "filename": "bespoke.min.js",
-  "version": "1.1.0",
   "description": "DIY Presentation Micro-Framework",
   "keywords": [
     "bespoke",
     "presentation",
     "micro-framework"
-  ],
-  "npmName": "bespoke",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "bespoke.js",
-        "bespoke.min.js"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -26,5 +15,18 @@
   "author": {
     "name": "Mark Dalgleish",
     "url": "http://markdalgleish.com"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "bespoke",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "bespoke.js",
+          "bespoke.min.js"
+        ]
+      }
+    ]
   }
 }

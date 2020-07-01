@@ -1,7 +1,6 @@
 {
   "name": "leaflet.AnimatedMarker",
   "filename": "AnimatedMarker.min.js",
-  "version": "1.0.0",
   "description": "This is a Leaflet plugin for animating a marker along a polyline.",
   "keywords": [
     "leaflet",

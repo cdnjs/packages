@@ -1,7 +1,6 @@
 {
   "name": "csshake",
   "filename": "csshake.min.css",
-  "version": "1.5.3",
   "description": "Some CSS classes to move your DOM!",
   "repository": {
     "type": "git",
@@ -14,13 +13,16 @@
   ],
   "author": "@elrumordelaluz",
   "license": "MIT",
-  "npmName": "csshake",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.css"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "csshake",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  }
 }

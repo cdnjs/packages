@@ -1,6 +1,5 @@
 {
   "name": "recorderjs",
-  "version": "0.1.0",
   "description": "A plugin for recording/exporting the output of Web Audio API nodes",
   "filename": "recorder.min.js",
   "repository": {

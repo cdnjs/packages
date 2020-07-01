@@ -1,7 +1,6 @@
 {
   "name": "baseguide",
   "description": "Lightweight and robust CSS framework for prototyping and production code.",
-  "version": "4.0.0",
   "keywords": [
     "css",
     "sass",

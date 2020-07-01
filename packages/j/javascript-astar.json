@@ -1,7 +1,6 @@
 {
   "name": "javascript-astar",
   "filename": "astar.min.js",
-  "version": "0.4.1",
   "description": "astar search algorithm in JavaScript",
   "repository": {
     "type": "git",

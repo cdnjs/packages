@@ -13,15 +13,17 @@
     "linkify"
   ],
   "homepage": "https://soapbox.github.io/linkifyjs/",
-  "version": "2.1.9",
   "license": "MIT",
-  "npmName": "linkifyjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.zip)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "linkifyjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.zip)"
+        ]
+      }
+    ]
+  }
 }

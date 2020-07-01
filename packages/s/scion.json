@@ -1,6 +1,5 @@
 {
   "name": "scion",
-  "version": "5.0.4",
   "description": "An implementation of SCXML in JavaScript.",
   "keywords": [
     "scxml",
@@ -15,13 +14,16 @@
     "url": "https://gitlab.com/scion-scxml/scion.git"
   },
   "filename": "scxml.min.js",
-  "npmName": "scion",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "scion",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

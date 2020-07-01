@@ -1,7 +1,6 @@
 {
   "name": "webkit.js",
   "filename": "webkit.js",
-  "version": "0.1.0",
   "title": "Pure JavaScript Port of WebKit",
   "author": {
     "name": "Trevor Linton",

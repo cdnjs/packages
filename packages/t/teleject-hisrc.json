@@ -1,7 +1,6 @@
 {
   "name": "teleject-hisrc",
   "filename": "hisrc.min.js",
-  "version": "2.0.0",
   "title": "HiSRC",
   "author": {
     "name": "Christopher Schmitt",
@@ -21,13 +20,16 @@
     "type": "git",
     "url": "git@github.com:teleject/hisrc.git"
   },
-  "npmName": "hisrc",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "hisrc*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "hisrc",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "hisrc*"
+        ]
+      }
+    ]
+  }
 }

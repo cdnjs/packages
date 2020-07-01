@@ -1,7 +1,6 @@
 {
   "name": "grommet",
   "filename": "grommet.min.js",
-  "version": "2.13.0",
   "description": "The most advanced UX framework for enterprise applications.",
   "authors": [
     "Alan Souza",
@@ -20,13 +19,16 @@
     "type": "git",
     "url": "https://github.com/grommet/grommet.git"
   },
-  "npmName": "grommet",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*grommet*.min.*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "grommet",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*grommet*.min.*"
+        ]
+      }
+    ]
+  }
 }

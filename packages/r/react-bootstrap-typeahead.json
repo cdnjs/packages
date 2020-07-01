@@ -1,6 +1,5 @@
 {
   "name": "react-bootstrap-typeahead",
-  "version": "4.2.3",
   "filename": "react-bootstrap-typeahead.min.js",
   "description": "React-based typeahead using the Bootstrap theme",
   "keywords": [
@@ -20,13 +19,16 @@
     "type": "git",
     "url": "https://github.com/ericgio/react-bootstrap-typeahead.git"
   },
-  "npmName": "react-bootstrap-typeahead",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-bootstrap-typeahead",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

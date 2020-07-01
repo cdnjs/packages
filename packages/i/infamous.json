@@ -1,6 +1,5 @@
 {
   "name": "infamous",
-  "version": "5.0.0",
   "filename": "global.js",
   "description": "A famo.us UI library.",
   "license": "MPL",
@@ -43,13 +42,16 @@
     "web-development",
     "webdev"
   ],
-  "npmName": "infamous",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "global.*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "infamous",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "global.*"
+        ]
+      }
+    ]
+  }
 }

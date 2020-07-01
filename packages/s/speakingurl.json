@@ -1,6 +1,5 @@
 {
   "name": "speakingurl",
-  "version": "14.0.1",
   "description": "Generate a slug – transliteration with a lot of options",
   "homepage": "http://pid.github.io/speakingurl/",
   "repository": {
@@ -24,14 +23,17 @@
     "url": "https://twitter.com/SaschaDroste"
   },
   "filename": "speakingurl.min.js",
-  "npmName": "speakingurl",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "speakingurl.min.js"
-      ]
-    }
-  ],
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "autoupdate": {
+    "source": "npm",
+    "target": "speakingurl",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "speakingurl.min.js"
+        ]
+      }
+    ]
+  }
 }

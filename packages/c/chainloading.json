@@ -1,6 +1,5 @@
 {
   "name": "chainloading",
-  "version": "1.1.1",
   "description": "Simplifies deferred or function dependencies via chaining",
   "repository": {
     "type": "git",
@@ -14,14 +13,17 @@
   ],
   "author": "James Hartig <fastest963@gmail.com>",
   "license": "BSD",
-  "npmName": "chainloading",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "chainloading.min.js"
-      ]
-    }
-  ],
-  "filename": "chainloading.min.js"
+  "filename": "chainloading.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "chainloading",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "chainloading.min.js"
+        ]
+      }
+    ]
+  }
 }

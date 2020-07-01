@@ -2,7 +2,6 @@
   "name": "jss",
   "filename": "jss.min.js",
   "description": "Composable and reusable style sheets.",
-  "version": "10.1.1",
   "author": {
     "name": "Oleg Slobodskoi",
     "email": "oleg008@gmail.com"
@@ -21,13 +20,16 @@
     "type": "git",
     "url": "https://github.com/jsstyles/jss.git"
   },
-  "npmName": "jss",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.bundle.js|*.cjs.js|*.esm.js|*.flow)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jss",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.bundle.js|*.cjs.js|*.esm.js|*.flow)"
+        ]
+      }
+    ]
+  }
 }

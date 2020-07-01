@@ -1,7 +1,6 @@
 {
   "name": "fullcalendar-scheduler",
   "filename": "scheduler.min.js",
-  "version": "1.10.0",
   "description": "A premium add-on to FullCalendar for displaying events and resources",
   "author": {
     "name": "Adam Shaw",

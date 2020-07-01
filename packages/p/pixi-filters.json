@@ -1,6 +1,5 @@
 {
   "name": "pixi-filters",
-  "version": "1.0.8",
   "description": "Optional display filters to work with Pixi.js",
   "author": "Mat Groves",
   "filename": "filters.min.js",
@@ -25,13 +24,16 @@
     "TiltShiftFilter",
     "TwistFilter"
   ],
-  "npmName": "pixi-filters",
-  "npmFileMap": [
-    {
-      "basePath": "bin",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "pixi-filters",
+    "fileMap": [
+      {
+        "basePath": "bin",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

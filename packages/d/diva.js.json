@@ -1,7 +1,6 @@
 {
   "name": "diva.js",
   "filename": "js/diva.min.js",
-  "version": "5.1.3",
   "description": "Diva.js is a JavaScript document image viewer designed to present multi-page documents at high resolutions.",
   "autoupdate": {
     "source": "git",

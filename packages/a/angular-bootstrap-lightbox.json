@@ -1,6 +1,5 @@
 {
   "name": "angular-bootstrap-lightbox",
-  "version": "0.12.0",
   "filename": "angular-bootstrap-lightbox.min.js",
   "description": "An AngularJS lightbox built using UI Bootstrap Modal.",
   "keywords": [
@@ -19,13 +18,16 @@
     "name": "Chris Lui",
     "url": "https://github.com/compact"
   },
-  "npmName": "angular-bootstrap-lightbox",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-bootstrap-lightbox",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

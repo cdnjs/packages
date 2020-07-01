@@ -1,7 +1,6 @@
 {
   "name": "sticky-table-headers",
   "filename": "js/jquery.stickytableheaders.min.js",
-  "version": "0.1.24",
   "description": "jQuery sticky table headers plugin",
   "keywords": [
     "jquery",
@@ -15,13 +14,16 @@
   },
   "author": "Jonas Mosbech <https://github.com/jmosbech>",
   "license": "MIT",
-  "npmName": "sticky-table-headers",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "js/jquery.stickytableheaders.*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "sticky-table-headers",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "js/jquery.stickytableheaders.*"
+        ]
+      }
+    ]
+  }
 }

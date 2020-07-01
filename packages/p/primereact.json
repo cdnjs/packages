@@ -26,13 +26,16 @@
     "type": "git",
     "url": "git+https://github.com/primefaces/primereact.git"
   },
-  "npmName": "primereact",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "**/*.@(js|ts|css)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "primereact",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.@(js|ts|css)"
+        ]
+      }
+    ]
+  }
 }

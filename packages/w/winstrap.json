@@ -2,7 +2,6 @@
   "name": "winstrap",
   "filename": "css/winstrap.min.css",
   "description": "Winstrap is the official Bootstrap theme for Microsoft design language.",
-  "version": "0.5.12",
   "licenses": [
     "MIT",
     "OFL-1.1"

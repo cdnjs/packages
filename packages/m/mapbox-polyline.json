@@ -9,14 +9,17 @@
     "type": "git",
     "url": "git://github.com/mapbox/polyline.git"
   },
-  "npmName": "@mapbox/polyline",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "polyline.js"
+  "filename": "polyline.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@mapbox/polyline",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

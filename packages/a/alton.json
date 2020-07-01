@@ -1,6 +1,5 @@
 {
   "name": "alton",
-  "version": "1.2.1",
   "description": "Alton is a jQuery-powered scrolling plugin, with a twist.",
   "filename": "jquery.alton.min.js",
   "repository": {

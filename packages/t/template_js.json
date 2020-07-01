@@ -2,7 +2,6 @@
   "name": "template_js",
   "description": "template.js simple and easy to use javascript template.",
   "filename": "template.min.js",
-  "version": "0.8.0",
   "author": {
     "name": "yanhaijing",
     "email": "yanhaijing@yeah.net",
@@ -18,13 +17,16 @@
     "template.js",
     "js"
   ],
-  "npmName": "template_js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "template*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "template_js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "template*"
+        ]
+      }
+    ]
+  }
 }

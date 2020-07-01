@@ -1,7 +1,6 @@
 {
   "name": "jquery-xmlrpc",
   "filename": "jquery.xmlrpc.min.js",
-  "version": "0.4.3",
   "description": "Interact with remote XML-RPC services using AJAX",
   "keywords": [
     "xmlrpc",

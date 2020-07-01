@@ -1,6 +1,5 @@
 {
   "name": "jScrollPane",
-  "version": "2.2.2",
   "filename": "script/jquery.jscrollpane.min.js",
   "description": "jScrollPane - cross browser styleable scrollbars with jQuery and CSS",
   "homepage": "http://jscrollpane.kelvinluck.com",

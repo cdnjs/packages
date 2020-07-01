@@ -1,7 +1,6 @@
 {
   "name": "lockr",
   "filename": "lockr.min.js",
-  "version": "0.8.5",
   "description": "Lockr is an extremely lightweight library (<2kb when minified), designed to facilitate how you interact with localStorage.",
   "author": {
     "name": "Dimitris Tsironis",
@@ -17,13 +16,16 @@
     "localstorage",
     "redis"
   ],
-  "npmName": "lockr",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "lockr*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "lockr",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "lockr*"
+        ]
+      }
+    ]
+  }
 }

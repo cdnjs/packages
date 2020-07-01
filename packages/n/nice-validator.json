@@ -1,7 +1,6 @@
 {
   "name": "nice-validator",
   "description": "Simple, smart and pleasant verification solution.",
-  "version": "1.1.5",
   "filename": "jquery.validator.min.js",
   "keywords": [
     "jquery-plugin",
@@ -22,13 +21,16 @@
     "type": "git",
     "url": "git+https://github.com/niceue/nice-validator.git"
   },
-  "npmName": "nice-validator",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "nice-validator",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

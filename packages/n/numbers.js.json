@@ -1,7 +1,6 @@
 {
   "name": "numbers.js",
   "filename": "numbers.min.js",
-  "version": "0.7.0",
   "description": "Advanced Mathematics Library for JavaScript",
   "license": "Apache-2.0",
   "author": "Steve Kaliski <sjkaliski@gmail.com> (https://github.com/sjkaliski)",
@@ -15,19 +14,22 @@
     "numbers",
     "statistics"
   ],
-  "npmName": "numbers",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "**/numbers*"
-      ]
-    },
-    {
-      "basePath": "public",
-      "files": [
-        "numbers*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "numbers",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "**/numbers*"
+        ]
+      },
+      {
+        "basePath": "public",
+        "files": [
+          "numbers*"
+        ]
+      }
+    ]
+  }
 }

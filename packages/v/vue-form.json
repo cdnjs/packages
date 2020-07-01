@@ -1,6 +1,5 @@
 {
   "name": "vue-form",
-  "version": "0.3.1",
   "description": "Form validation for Vue.js",
   "filename": "vue-form.min.js",
   "author": "Fergal Doyle",
@@ -14,13 +13,16 @@
     "v-model",
     "tinymce"
   ],
-  "npmName": "vue-form",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "vue-form*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-form",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "vue-form*"
+        ]
+      }
+    ]
+  }
 }

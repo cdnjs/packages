@@ -1,7 +1,6 @@
 {
   "name": "react-leaflet",
   "filename": "react-leaflet.min.js",
-  "version": "2.6.3",
   "description": "React components for Leaflet maps",
   "repository": {
     "type": "git",
@@ -15,13 +14,16 @@
   ],
   "author": "Paul Le Cam <paul@ulem.net>",
   "license": "MIT",
-  "npmName": "react-leaflet",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-leaflet",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

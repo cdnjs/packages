@@ -1,7 +1,6 @@
 {
   "filename": "domReady.min.js",
   "name": "require-domReady",
-  "version": "2.0.1",
   "description": "An AMD loader plugin for detecting DOM ready",
   "keywords": [
     "requirejs",

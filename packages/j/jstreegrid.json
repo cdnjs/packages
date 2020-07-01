@@ -2,7 +2,6 @@
   "name": "jstreegrid",
   "filename": "jstreegrid.min.js",
   "description": "grid plugin for jstree",
-  "version": "3.10.1",
   "author": {
     "name": "Avi Deitcher",
     "url": "https://github.com/deitch"
@@ -18,13 +17,16 @@
     "url": "http://github.com/deitch/jstree-grid.git"
   },
   "license": "MIT",
-  "npmName": "jstreegrid",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jstreegrid*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jstreegrid",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jstreegrid*"
+        ]
+      }
+    ]
+  }
 }

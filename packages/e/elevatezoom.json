@@ -1,6 +1,5 @@
 {
   "name": "elevatezoom",
-  "version": "3.0.8",
   "filename": "jquery.elevatezoom.min.js",
   "description": "A jQuery image zoom plugin, with tints, easing and gallery integration.",
   "author": {

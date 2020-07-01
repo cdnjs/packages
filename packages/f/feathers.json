@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git://github.com/feathersjs/feathers.git"
   },
-  "npmName": "@feathersjs/feathers",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "**/*.js"
-      ]
-    }
-  ],
-  "filename": "index.js"
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@feathersjs/feathers",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*.js"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "angular-hal",
-  "version": "2.3.0",
   "filename": "angular-hal.min.js",
   "description": "Hal client for angularjs",
   "homepage": "http://angular-hal.io",
@@ -9,17 +8,20 @@
     "type": "git",
     "url": "https://github.com/LuvDaSun/angular-hal.git"
   },
-  "npmName": "angular-hal",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "keywords": [
     "angular",
     "hal"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-hal",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

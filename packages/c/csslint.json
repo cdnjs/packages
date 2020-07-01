@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/CSSLint/csslint.git"
   },
-  "npmName": "csslint",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "csslint.js"
+  "filename": "csslint.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "csslint",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

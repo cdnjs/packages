@@ -2,7 +2,6 @@
   "name": "hrjs",
   "filename": "hr.min.js",
   "description": "Tiny JavaScript plugin for gighlighting and replacing text in the dom",
-  "version": "1.0.2",
   "author": "Mehmet Burak Erman",
   "license": "MIT",
   "repository": {
@@ -16,13 +15,16 @@
     "hr-js"
   ],
   "homepage": "https://mburakerman.github.io/hrjs/",
-  "npmName": "hrjs",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "**/hr*.+(css|js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "hrjs",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "**/hr*.+(css|js|map)"
+        ]
+      }
+    ]
+  }
 }

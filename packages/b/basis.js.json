@@ -1,7 +1,6 @@
 {
   "name": "basis.js",
   "filename": "basis.min.js",
-  "version": "1.11.1",
   "description": "JavaScript framework to build single-page applications",
   "homepage": "http://basisjs.com/",
   "keywords": [
@@ -10,18 +9,21 @@
     "framework",
     "spa"
   ],
-  "npmName": "basis-library",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/basisjs/basisjs"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "basis-library",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

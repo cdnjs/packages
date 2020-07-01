@@ -1,7 +1,6 @@
 {
   "name": "i18next-locize-backend",
   "filename": "i18nextLocizeBackend.min.js",
-  "version": "3.1.3",
   "description": "This is a simple i18next backend to be used for locize service. It will load resources from locize server using xhr.",
   "keywords": [
     "i18next",
@@ -18,13 +17,16 @@
     "url": "https://github.com/jamuhl"
   },
   "license": "MIT",
-  "npmName": "i18next-locize-backend",
-  "npmFileMap": [
-    {
-      "basePath": "dist/umd",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "i18next-locize-backend",
+    "fileMap": [
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

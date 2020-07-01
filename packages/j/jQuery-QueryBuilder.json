@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git://github.com/mistic100/jQuery-QueryBuilder.git"
   },
-  "npmName": "jQuery-QueryBuilder",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "js/query-builder.min.js"
+  "filename": "js/query-builder.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jQuery-QueryBuilder",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

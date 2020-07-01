@@ -2,7 +2,6 @@
   "name": "zepto",
   "filename": "zepto.min.js",
   "description": "Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API",
-  "version": "1.2.0",
   "homepage": "http://zeptojs.com",
   "keywords": [
     "mobile",
@@ -13,19 +12,22 @@
     "url": "https://github.com/madrobby/zepto.git"
   },
   "license": "MIT",
-  "npmName": "zepto",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "src/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "zepto",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "src/*"
+        ]
+      }
+    ]
+  }
 }

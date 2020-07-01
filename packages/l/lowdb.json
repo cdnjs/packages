@@ -1,6 +1,5 @@
 {
   "name": "lowdb",
-  "version": "1.0.0",
   "filename": "low.min.js",
   "description": "JSON database for Node and the browser powered by lodash API",
   "keywords": [
@@ -23,13 +22,16 @@
   },
   "author": "Typicode <typicode@gmail.com>",
   "license": "MIT",
-  "npmName": "lowdb",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "lowdb",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

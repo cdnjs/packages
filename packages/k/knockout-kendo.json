@@ -1,7 +1,6 @@
 {
   "name": "knockout-kendo",
   "filename": "knockout-kendo.min.js",
-  "version": "0.10.0",
   "homepage": "http://kendo-labs.github.com/knockout-kendo/",
   "author": "Ryan Niemeyer",
   "repository": {
@@ -15,13 +14,16 @@
     "Kendo UI",
     "widgets"
   ],
-  "npmName": "knockout-kendo",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "knockout-kendo",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

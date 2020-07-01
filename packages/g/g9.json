@@ -1,6 +1,5 @@
 {
   "name": "g9",
-  "version": "1.0.16",
   "description": "automatically interactive graphics",
   "author": "bijection",
   "keywords": [
@@ -12,14 +11,17 @@
     "type": "git",
     "url": "https://github.com/bijection/g9"
   },
-  "npmName": "g9",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "g9.js"
+  "filename": "g9.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "g9",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

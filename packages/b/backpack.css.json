@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git@github.com:chris-pearce/backpack.css.git"
   },
-  "npmName": "backpack.css",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.css"
-      ]
-    }
-  ],
-  "filename": "backpack.css"
+  "filename": "backpack.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "backpack.css",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  }
 }

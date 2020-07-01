@@ -1,7 +1,6 @@
 {
   "name": "Primer",
   "filename": "primer.css",
-  "version": "12.0.0",
   "description": "Primer is the CSS framework that powers GitHub.",
   "homepage": "https://primer.style/css",
   "author": "GitHub, Inc.",
@@ -20,14 +19,17 @@
     "ui-components",
     "framework"
   ],
-  "npmName": "@primer/css",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.css",
-        "*.map"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@primer/css",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.css",
+          "*.map"
+        ]
+      }
+    ]
+  }
 }

@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/taylorhakes/promise-polyfill.git"
   },
-  "npmName": "promise-polyfill",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "polyfill.min.js"
+  "filename": "polyfill.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "promise-polyfill",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

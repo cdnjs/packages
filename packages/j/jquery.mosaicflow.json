@@ -1,7 +1,6 @@
 {
   "name": "jquery.mosaicflow",
   "filename": "jquery.mosaicflow.min.js",
-  "version": "0.2.5",
   "description": "Pinterest like responsive image or HTML grid for jQuery that doesn’t suck",
   "homepage": "https://sapegin.github.io/jquery.mosaicflow/",
   "repository": {

@@ -1,7 +1,6 @@
 {
   "name": "material-colors",
   "filename": "colors.min.js",
-  "version": "1.2.6",
   "description": "Colors of Google's Material Design made available to coders",
   "keywords": [
     "colors",
@@ -23,13 +22,16 @@
     "email": "shuhei.kagawa@gmail.com"
   },
   "license": "ISC",
-  "npmName": "material-colors",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "material-colors",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

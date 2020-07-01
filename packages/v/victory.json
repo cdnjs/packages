@@ -1,7 +1,6 @@
 {
   "name": "victory",
   "filename": "victory.min.js",
-  "version": "34.1.3",
   "description": "Data viz for React",
   "keywords": [
     "data visualization",
@@ -16,13 +15,16 @@
   "author": "Formidable",
   "license": "MIT",
   "homepage": "https://formidable.com/open-source/victory/",
-  "npmName": "victory",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "victory",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

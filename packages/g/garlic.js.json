@@ -1,7 +1,6 @@
 {
   "name": "garlic.js",
   "filename": "garlic.min.js",
-  "version": "1.4.2",
   "description": "Automatically persist your forms' text and select field values locally, until the form is submitted.",
   "homepage": "http://garlicjs.org/",
   "keywords": [

@@ -13,14 +13,17 @@
     "type": "git",
     "url": "git+https://github.com/laravel/echo.git"
   },
-  "npmName": "laravel-echo",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|ts)"
-      ]
-    }
-  ],
-  "filename": "echo.js"
+  "filename": "echo.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "laravel-echo",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

@@ -2,7 +2,6 @@
   "name": "vtt.js",
   "filename": "vtt.min.js",
   "description": "A JavaScript implementation of the WebVTT specification.",
-  "version": "0.13.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/mozilla/vtt.js.git"

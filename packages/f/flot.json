@@ -1,7 +1,6 @@
 {
   "name": "flot",
   "filename": "jquery.flot.min.js",
-  "version": "0.8.3",
   "description": "Attractive Javascript plotting for jQuery",
   "homepage": "http://flotcharts.org/",
   "keywords": [

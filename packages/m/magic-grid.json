@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/e-oj/Magic-Grid.git"
   },
-  "npmName": "magic-grid",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "magic-grid.min.js"
+  "filename": "magic-grid.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "magic-grid",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

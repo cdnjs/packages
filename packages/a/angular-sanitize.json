@@ -1,6 +1,5 @@
 {
   "name": "angular-sanitize",
-  "version": "1.7.9",
   "description": "AngularJS module for sanitizing HTML",
   "filename": "angular-sanitize.min.js",
   "repository": {
@@ -20,13 +19,16 @@
   },
   "license": "MIT",
   "homepage": "http://angularjs.org",
-  "npmName": "angular-sanitize",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "angular-sanitize*.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-sanitize",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "angular-sanitize*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

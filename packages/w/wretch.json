@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/elbywan/wretch.git"
   },
-  "npmName": "wretch",
-  "npmFileMap": [
-    {
-      "basePath": "dist/bundle",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "wretch.js"
+  "filename": "wretch.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "wretch",
+    "fileMap": [
+      {
+        "basePath": "dist/bundle",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

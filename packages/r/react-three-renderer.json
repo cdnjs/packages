@@ -12,14 +12,17 @@
     "type": "git",
     "url": "git+https://github.com/toxicFork/react-three-renderer.git"
   },
-  "npmName": "react-three-renderer",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "**/*.js"
-      ]
-    }
-  ],
-  "filename": "React3Renderer.js"
+  "filename": "React3Renderer.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-three-renderer",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*.js"
+        ]
+      }
+    ]
+  }
 }

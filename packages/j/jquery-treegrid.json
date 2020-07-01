@@ -1,7 +1,6 @@
 {
   "name": "jquery-treegrid",
   "filename": "js/jquery.treegrid.min.js",
-  "version": "0.2.0",
   "description": "jQuery TreeGrid plugin",
   "homepage": "http://maxazan.github.io/jquery-treegrid/",
   "keywords": [

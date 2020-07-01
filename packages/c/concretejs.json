@@ -1,7 +1,6 @@
 {
   "name": "concretejs",
   "filename": "concrete.min.js",
-  "version": "3.0.5",
   "description": "Concrete is a lightweight Html5 Canvas framework that enables hit detection, layer support, pixel ratio management, exports, and downloads.",
   "repository": {
     "type": "git",

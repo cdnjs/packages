@@ -1,7 +1,6 @@
 {
   "name": "color-js",
   "filename": "color.min.js",
-  "version": "1.0.1",
   "description": "A color management API for JavaScript",
   "repository": {
     "type": "git",

@@ -12,14 +12,17 @@
     "type": "git",
     "url": "https://github.com/videojs/videojs-contrib-media-sources.git"
   },
-  "npmName": "videojs-contrib-media-sources",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "videojs-contrib-media-sources.min.js"
+  "filename": "videojs-contrib-media-sources.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "videojs-contrib-media-sources",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

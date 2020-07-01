@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/SeverinDK/moment-timer.git"
   },
-  "npmName": "moment-timer",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "moment-timer.js"
+  "filename": "moment-timer.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "moment-timer",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

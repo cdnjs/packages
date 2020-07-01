@@ -1,7 +1,6 @@
 {
   "name": "ngCart",
   "filename": "ngCart.min.js",
-  "version": "1.0.0",
   "description": "Really simple shopping cart for AngularJS",
   "license": "MIT",
   "repository": {
@@ -21,13 +20,16 @@
     "email": "dan@snapjay.com",
     "url": "http://www.snapjay.com/"
   },
-  "npmName": "ngCart",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ngCart",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

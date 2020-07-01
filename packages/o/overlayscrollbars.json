@@ -1,7 +1,6 @@
 {
   "name": "overlayscrollbars",
   "filename": "js/OverlayScrollbars.min.js",
-  "version": "1.12.0",
   "license": "MIT",
   "description": "A javascript scrollbar plugin which hides the native scrollbars and provides custom styleable overlay scrollbars, but keeps the native functionality and feeling.",
   "homepage": "https://kingsora.github.io/OverlayScrollbars",
@@ -20,13 +19,16 @@
     "scroll",
     "frontend"
   ],
-  "npmName": "overlayscrollbars",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "+(css|js)/+(*o|O)verlayScrollbars*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "overlayscrollbars",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "+(css|js)/+(*o|O)verlayScrollbars*"
+        ]
+      }
+    ]
+  }
 }

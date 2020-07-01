@@ -1,7 +1,6 @@
 {
   "name": "vue-clickaway",
   "description": "Reusable clickaway directive for reusable Vue.js components",
-  "version": "2.2.1",
   "filename": "vue-clickaway.min.js",
   "author": "Denis Karabaza <denis.karabaza@gmail.com>",
   "keywords": [

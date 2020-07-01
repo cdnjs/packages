@@ -1,6 +1,5 @@
 {
   "name": "signalr.js",
-  "version": "2.4.1",
   "filename": "jquery.signalR.min.js",
   "description": "Incredibly simple real-time web for .NET http://signalr.net",
   "license": "Apache-2.0",
@@ -13,13 +12,16 @@
     "type": "git",
     "url": "git+https://github.com/SignalR/SignalR.git"
   },
-  "npmName": "signalr",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*signalR*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "signalr",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*signalR*"
+        ]
+      }
+    ]
+  }
 }

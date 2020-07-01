@@ -2,7 +2,6 @@
   "name": "pica",
   "description": "High quality image resize in browser.",
   "filename": "pica.min.js",
-  "version": "5.1.0",
   "keywords": [
     "resize",
     "scale",
@@ -15,13 +14,16 @@
     "type": "git",
     "url": "https://github.com/nodeca/pica"
   },
-  "npmName": "pica",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "pica",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

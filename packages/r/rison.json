@@ -9,14 +9,17 @@
     "type": "git",
     "url": "https://github.com/jonasfj/rison.git"
   },
-  "npmName": "rison",
-  "npmFileMap": [
-    {
-      "basePath": "js",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "rison.js"
+  "filename": "rison.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "rison",
+    "fileMap": [
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

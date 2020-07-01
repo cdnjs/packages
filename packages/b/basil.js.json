@@ -1,6 +1,5 @@
 {
   "name": "basil.js",
-  "version": "0.4.10",
   "filename": "basil.min.js",
   "author": "Mathieu Ghaleb <mathieu@wisembly.com>",
   "description": "The missing Javascript smart persistant layer",

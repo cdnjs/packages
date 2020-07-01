@@ -1,6 +1,5 @@
 {
   "name": "preact-compat",
-  "version": "3.19.0",
   "filename": "preact-compat.min.js",
   "description": "A React compatibility layer for Preact",
   "repository": {
@@ -13,14 +12,17 @@
     "react",
     "compatibility"
   ],
-  "npmName": "preact-compat",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "preact-compat",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

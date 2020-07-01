@@ -1,7 +1,6 @@
 {
   "name": "script.js",
   "filename": "script.min.js",
-  "version": "2.5.9",
   "description": "Asyncronous JavaScript loader and dependency manager",
   "homepage": "http://www.dustindiaz.com/scriptjs/",
   "keywords": [
@@ -14,19 +13,22 @@
     "ajax",
     "jsonp"
   ],
-  "npmName": "scriptjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "script.min.js"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ded/script.js.git"
   },
   "author": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "scriptjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "script.min.js"
+        ]
+      }
+    ]
+  }
 }

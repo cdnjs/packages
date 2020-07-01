@@ -2,7 +2,6 @@
   "filename": "ba-hooker.min.js",
   "name": "javascript-hooker",
   "description": "Monkey-patch (hook) functions for debugging and stuff.",
-  "version": "0.2.3",
   "homepage": "http://github.com/cowboy/javascript-hooker",
   "author": {
     "name": "\"Cowboy\" Ben Alman",
@@ -20,13 +19,16 @@
     "debug",
     "aop"
   ],
-  "npmName": "hooker",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "hooker",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "enjoyhint",
   "filename": "enjoyhint.min.js",
-  "version": "3.1.0",
   "description": "Web-tool that provides the simplest way to create interactive tutorials and hints.",
   "repository": {
     "type": "git",

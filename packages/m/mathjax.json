@@ -1,7 +1,6 @@
 {
   "name": "mathjax",
   "filename": "es5/startup.js",
-  "version": "3.0.5",
   "description": "MathJax is an open source JavaScript display engine for mathematics that works in all browsers.",
   "homepage": "http://www.mathjax.org/",
   "keywords": [

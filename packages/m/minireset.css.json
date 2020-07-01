@@ -1,6 +1,5 @@
 {
   "name": "minireset.css",
-  "version": "0.0.2",
   "description": "A tiny modern CSS reset",
   "homepage": "http://jgthms.com/minireset.css/",
   "repository": {
@@ -15,14 +14,17 @@
   ],
   "author": "Jeremy Thomas <bbxdesign@gmail.com> (http://jgthms.com)",
   "license": "MIT",
-  "npmName": "minireset.css",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "minireset*+!(.sass)"
-      ]
-    }
-  ],
-  "filename": "minireset.min.css"
+  "filename": "minireset.min.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "minireset.css",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "minireset*+!(.sass)"
+        ]
+      }
+    ]
+  }
 }

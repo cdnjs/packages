@@ -2,7 +2,6 @@
   "name": "ngreact",
   "filename": "ngReact.min.js",
   "author": "David Chang",
-  "version": "0.5.2",
   "description": "Use React Components in Angular",
   "homepage": "https://ngReact.github.io/ngReact",
   "repository": {
@@ -16,13 +15,16 @@
     "react",
     "ngReact"
   ],
-  "npmName": "ngreact",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "ngReact*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ngreact",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "ngReact*"
+        ]
+      }
+    ]
+  }
 }

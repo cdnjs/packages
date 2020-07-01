@@ -19,14 +19,17 @@
     "type": "git",
     "url": "https://github.com/nosir/obelisk.js.git"
   },
-  "npmName": "obelisk.js",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "obelisk.min.js"
+  "filename": "obelisk.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "obelisk.js",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

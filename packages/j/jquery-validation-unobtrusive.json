@@ -1,6 +1,5 @@
 {
   "name": "jquery-validation-unobtrusive",
-  "version": "3.2.11",
   "description": "Add-on to jQuery Validation to enable unobtrusive validation options in data-* attributes.",
   "filename": "jquery.validate.unobtrusive.min.js",
   "repository": {
@@ -16,13 +15,16 @@
   ],
   "author": "Microsoft",
   "license": "Apache-2.0",
-  "npmName": "jquery-validation-unobtrusive",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-validation-unobtrusive",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

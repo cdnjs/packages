@@ -1,7 +1,6 @@
 {
   "name": "angular-elevatezoom-plus",
   "filename": "js/angular-ezplus.min.js",
-  "version": "1.2.2",
   "description": "Angular directive for ElevateZoom Plus.",
   "keywords": [
     "zoom",

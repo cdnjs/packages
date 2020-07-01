@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/naman34/react-timeago.git"
   },
-  "npmName": "react-timeago",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "**/*.js"
-      ]
-    }
-  ],
-  "filename": "index.js"
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-timeago",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*.js"
+        ]
+      }
+    ]
+  }
 }

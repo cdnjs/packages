@@ -1,7 +1,6 @@
 {
   "name": "zui",
   "title": "ZUI",
-  "version": "1.9.1",
   "filename": "js/zui.min.js",
   "description": "An open source front-end implementation that help you quickly construct modern multi-screen applications",
   "keywords": [
@@ -21,13 +20,16 @@
   "author": "cnezsoft.com",
   "license": "MIT",
   "homepage": "http://zui.sexy",
-  "npmName": "zui",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "zui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

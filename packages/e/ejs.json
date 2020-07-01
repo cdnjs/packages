@@ -13,14 +13,17 @@
     "type": "git",
     "url": "git://github.com/mde/ejs.git"
   },
-  "npmName": "ejs",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "ejs?(.min).js"
-      ]
-    }
-  ],
-  "filename": "ejs.min.js"
+  "filename": "ejs.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ejs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "ejs?(.min).js"
+        ]
+      }
+    ]
+  }
 }

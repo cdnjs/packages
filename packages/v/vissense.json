@@ -1,6 +1,5 @@
 {
   "name": "vissense",
-  "version": "0.10.0",
   "filename": "vissense.min.js",
   "description": "A utility library for observing visibility changes of DOM elements.",
   "homepage": "https://vissense.github.io/vissense",

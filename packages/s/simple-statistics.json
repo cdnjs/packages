@@ -1,6 +1,5 @@
 {
   "name": "simple-statistics",
-  "version": "1.0.1",
   "description": "Simple Statistics",
   "author": "Tom MacWright <tom@macwright.org> (http://macwright.org/)",
   "repository": {
@@ -18,15 +17,18 @@
   ],
   "namespace": "ss",
   "filename": "simple_statistics.min.js",
-  "npmName": "simple-statistics",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "simple_statistics.min.js",
-        "simple_statistics.js"
-      ]
-    }
-  ],
-  "license": "ISC"
+  "license": "ISC",
+  "autoupdate": {
+    "source": "npm",
+    "target": "simple-statistics",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "simple_statistics.min.js",
+          "simple_statistics.js"
+        ]
+      }
+    ]
+  }
 }

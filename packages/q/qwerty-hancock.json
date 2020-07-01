@@ -1,7 +1,6 @@
 {
   "name": "qwerty-hancock",
   "filename": "qwerty-hancock.min.js",
-  "version": "0.6.0",
   "description": "An interactive HTML plugin-free keyboard for your web audio project.",
   "author": {
     "name": "Stuart Memo",
@@ -22,13 +21,16 @@
   },
   "homepage": "http://stuartmemo.com/qwerty-hancock/",
   "license": "MIT",
-  "npmName": "qwerty-hancock",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "qwerty-hancock",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

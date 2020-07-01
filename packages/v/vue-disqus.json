@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/ktquez/vue-disqus.git"
   },
-  "npmName": "vue-disqus",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "vue-disqus.js"
+  "filename": "vue-disqus.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-disqus",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

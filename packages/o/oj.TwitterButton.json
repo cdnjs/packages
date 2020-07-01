@@ -1,6 +1,5 @@
 {
   "name": "oj.TwitterButton",
-  "version": "0.0.4",
   "description": "Twitter button plugin for OJ",
   "homepage": "http://ojjs.org/docs#TwitterButton",
   "keywords": [

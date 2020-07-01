@@ -20,14 +20,16 @@
     "type": "git",
     "url": "https://github.com/d3/d3-polygon.git"
   },
-  "npmName": "d3-polygon",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "version": "1.0.3"
+  "autoupdate": {
+    "source": "npm",
+    "target": "d3-polygon",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "proteic",
   "filename": "proteic.js",
-  "version": "0.0.30",
   "description": "Streaming and static data visualization for the modern web",
   "homepage": "https://proteic.js.org/",
   "keywords": [

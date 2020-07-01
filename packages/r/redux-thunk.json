@@ -1,6 +1,5 @@
 {
   "name": "redux-thunk",
-  "version": "2.3.0",
   "description": "Thunk middleware for Redux.",
   "filename": "redux-thunk.min.js",
   "repository": {
@@ -19,13 +18,16 @@
     "email": "dan.abramov@me.com"
   },
   "license": "MIT",
-  "npmName": "redux-thunk",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "redux-thunk",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

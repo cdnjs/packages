@@ -12,14 +12,17 @@
     "type": "git",
     "url": "git+https://github.com/urin/jquery.balloon.js.git"
   },
-  "npmName": "jquery-balloon-js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "jquery.balloon.min.js"
+  "filename": "jquery.balloon.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-balloon-js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

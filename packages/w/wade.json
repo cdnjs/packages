@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/KingPixil/wade.git"
   },
-  "npmName": "wade",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "wade.min.js"
+  "filename": "wade.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "wade",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

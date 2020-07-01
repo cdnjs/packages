@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git+https://github.com/ntkme/github-buttons.git"
   },
-  "npmName": "github-buttons",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|ts)"
-      ]
-    }
-  ],
-  "filename": "buttons.min.js"
+  "filename": "buttons.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "github-buttons",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

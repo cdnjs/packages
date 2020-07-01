@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/rikschennink/fitty.git"
   },
-  "npmName": "fitty",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "fitty.min.js"
+  "filename": "fitty.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "fitty",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

@@ -11,16 +11,19 @@
     "type": "git",
     "url": "git+https://github.com/betsol/lato-font.git"
   },
-  "npmName": "lato-font",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "css/*.css",
-        "fonts/**/*",
-        "scss/**/*.scss"
-      ]
-    }
-  ],
-  "filename": "css/lato-font.min.css"
+  "filename": "css/lato-font.min.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "lato-font",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/*.css",
+          "fonts/**/*",
+          "scss/**/*.scss"
+        ]
+      }
+    ]
+  }
 }

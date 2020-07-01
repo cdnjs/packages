@@ -1,7 +1,6 @@
 {
   "name": "react-dropzone",
   "filename": "index.js",
-  "version": "11.0.1",
   "description": "Simple HTML5 drag-drop zone with React.js",
   "keywords": [
     "react-component",
@@ -20,13 +19,16 @@
   "author": "Param Aggarwal",
   "license": "MIT",
   "homepage": "https://react-dropzone.js.org/",
-  "npmName": "react-dropzone",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "!(es){,/**}"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-dropzone",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "!(es){,/**}"
+        ]
+      }
+    ]
+  }
 }

@@ -15,15 +15,18 @@
     "bootstrap"
   ],
   "homepage": "https://dattabase.com/",
-  "npmName": "gd-sprest-bs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|ts)"
-      ]
-    }
-  ],
   "license": "MIT",
-  "author": "Gunjan Datta <github@dattabase.com>"
+  "author": "Gunjan Datta <github@dattabase.com>",
+  "autoupdate": {
+    "source": "npm",
+    "target": "gd-sprest-bs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

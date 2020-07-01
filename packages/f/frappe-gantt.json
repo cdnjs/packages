@@ -1,6 +1,5 @@
 {
   "name": "frappe-gantt",
-  "version": "0.3.0",
   "filename": "frappe-gantt.min.js",
   "description": "A simple, modern, interactive gantt library for the web",
   "homepage": "https://frappe.github.io/gantt/",
@@ -22,13 +21,16 @@
   ],
   "author": "Faris Ansari",
   "license": "MIT",
-  "npmName": "frappe-gantt",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "frappe-gantt",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

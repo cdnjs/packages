@@ -2,7 +2,6 @@
   "name": "gmaps4rails",
   "filename": "gmaps4rails.min.js",
   "description": "Enables easy Google map + overlays creation",
-  "version": "2.1.2",
   "homepage": "http://apneadiving.github.io/",
   "keywords": [
     "google",

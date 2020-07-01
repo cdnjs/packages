@@ -2,7 +2,6 @@
   "name": "react-instantsearch-theme-algolia",
   "description": "Algolia theme for React InstantSearch",
   "filename": "style.min.css",
-  "version": "4.5.2",
   "homepage": "https://community.algolia.com/instantsearch.js/react/",
   "repository": {
     "type": "git",
@@ -22,13 +21,16 @@
     "react-native"
   ],
   "license": "MIT",
-  "npmName": "react-instantsearch-theme-algolia",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.+(css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-instantsearch-theme-algolia",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.+(css|map)"
+        ]
+      }
+    ]
+  }
 }

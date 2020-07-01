@@ -1,7 +1,6 @@
 {
   "name": "videojs-ga",
   "filename": "videojs.ga.min.js",
-  "version": "0.4.2",
   "license": "MIT",
   "author": {
     "name": "Michael Bensoussan",

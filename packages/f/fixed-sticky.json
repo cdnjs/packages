@@ -1,7 +1,6 @@
 {
   "name": "fixed-sticky",
   "filename": "fixedsticky.min.js",
-  "version": "0.1.7",
   "description": "A position: sticky polyfill that works with filamentgroup/fixed-fixed for a safer position:fixed fallback.",
   "repository": {
     "type": "git",
@@ -12,13 +11,16 @@
   ],
   "author": "Zach Leatherman",
   "license": "MIT",
-  "npmName": "fixed-sticky",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "fixedsticky*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "fixed-sticky",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "fixedsticky*"
+        ]
+      }
+    ]
+  }
 }

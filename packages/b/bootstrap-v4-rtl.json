@@ -21,20 +21,23 @@
     "type": "git",
     "url": "git+https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl.git"
   },
-  "npmName": "bootstrap-v4-rtl",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|css|map)"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "scss/**/*.scss"
-      ]
-    }
-  ],
-  "filename": "js/bootstrap.min.js"
+  "filename": "js/bootstrap.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-v4-rtl",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css|map)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "scss/**/*.scss"
+        ]
+      }
+    ]
+  }
 }

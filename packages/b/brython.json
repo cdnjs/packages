@@ -1,7 +1,6 @@
 {
   "name": "brython",
   "filename": "brython.min.js",
-  "version": "3.8.8",
   "description": "Python 3 in the browser",
   "repository": {
     "type": "git",
@@ -16,13 +15,16 @@
   "homepage": "https://www.brython.info",
   "author": "Pierre Quentel",
   "license": "BSD-3-Clause",
-  "npmName": "brython",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "brython*.+(js|map|css)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "brython",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "brython*.+(js|map|css)"
+        ]
+      }
+    ]
+  }
 }

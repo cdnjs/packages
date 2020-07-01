@@ -1,7 +1,6 @@
 {
   "name": "jquery-tiny-pubsub",
   "filename": "ba-tiny-pubsub.min.js",
-  "version": "0.7.0",
   "description": "A really, really, REALLY tiny pub/sub implementation for jQuery.",
   "author": {
     "name": "\"Cowboy\" Ben Alman",

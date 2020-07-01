@@ -1,7 +1,6 @@
 {
   "name": "es6-tween",
   "description": "ES6 implementation of amazing tween.js",
-  "version": "5.5.11",
   "filename": "Tween.min.js",
   "keywords": [
     "tween",
@@ -18,13 +17,16 @@
   },
   "author": "tween.js contributors",
   "license": "MIT",
-  "npmName": "es6-tween",
-  "npmFileMap": [
-    {
-      "basePath": "bundled",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "es6-tween",
+    "fileMap": [
+      {
+        "basePath": "bundled",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

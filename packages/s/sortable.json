@@ -1,7 +1,6 @@
 {
   "filename": "js/sortable.min.js",
   "name": "sortable",
-  "version": "0.8.0",
   "description": "The simplest, most elegant way to sort a table.",
   "keywords": [
     "sortable"

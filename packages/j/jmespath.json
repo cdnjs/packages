@@ -1,6 +1,5 @@
 {
   "name": "jmespath",
-  "version": "0.15.0",
   "filename": "jmespath.min.js",
   "description": "JMESPath implementation in JavaScript",
   "homepage": "http://jmespath.org/",
@@ -18,13 +17,16 @@
     "email": "js@jamesls.com",
     "url": "http://jamesls.com/"
   },
-  "npmName": "jmespath",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jmespath*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jmespath",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jmespath*"
+        ]
+      }
+    ]
+  }
 }

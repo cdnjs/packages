@@ -1,7 +1,6 @@
 {
   "name": "validatorjs",
   "filename": "validator.min.js",
-  "version": "2.0.0",
   "description": "A laravel-styled JavaScript Object/Form/JSON validation library.",
   "repository": {
     "type": "git",

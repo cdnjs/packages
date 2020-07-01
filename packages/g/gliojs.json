@@ -1,7 +1,6 @@
 {
   "name": "gliojs",
   "filename": "glio.min.js",
-  "version": "0.0.7",
   "description": "Detects if the mouse of a user leaves the viewport / document borders of your website — and when this happens, trigger your callback",
   "repository": {
     "type": "git",
@@ -17,13 +16,16 @@
   "homepage": "http://luisvinicius167.github.io/gliojs",
   "author": "Luis Vinícius",
   "license": "MIT",
-  "npmName": "gliojs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "gliojs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

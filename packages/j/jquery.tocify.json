@@ -1,7 +1,6 @@
 {
   "name": "jquery.tocify",
   "filename": "javascripts/jquery.tocify.min.js",
-  "version": "1.9.0",
   "description": "A jQuery plugin that creates a dynamic table of contents",
   "homepage": "http://gregfranko.com/jquery.tocify.js/",
   "keywords": [

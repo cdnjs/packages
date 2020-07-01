@@ -1,7 +1,6 @@
 {
   "name": "wnumb",
   "filename": "wNumb.min.js",
-  "version": "1.2.0",
   "description": "wNumb - JavaScript Number & Money formatting",
   "keywords": [
     "wNumb",
@@ -20,13 +19,16 @@
   "author": "leongersen",
   "license": "WTFPL",
   "homepage": "http://refreshless.com/wnumb/",
-  "npmName": "wnumb",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "wNumb*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "wnumb",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "wNumb*"
+        ]
+      }
+    ]
+  }
 }

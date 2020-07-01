@@ -7,7 +7,6 @@
     "DOM",
     "javascript"
   ],
-  "version": "1.0.9",
   "author": {
     "name": "Wilson Page",
     "email": "wilsonpage@me.com"
@@ -17,14 +16,17 @@
     "url": "git://github.com/wilsonpage/fastdom.git"
   },
   "license": "MIT",
-  "npmName": "fastdom",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "fastdom*",
-        "extensions/fastdom*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "fastdom",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "fastdom*",
+          "extensions/fastdom*"
+        ]
+      }
+    ]
+  }
 }

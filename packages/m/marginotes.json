@@ -1,7 +1,6 @@
 {
   "name": "marginotes",
   "filename": "marginotes.min.js",
-  "version": "0.1.0",
   "description": "Quick, cool margin notes with jQuery",
   "repository": {
     "type": "git",

@@ -1,7 +1,6 @@
 {
   "name": "zeroclipboard",
   "title": "ZeroClipboard",
-  "version": "2.3.0",
   "description": "The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.",
   "keywords": [
     "flash",
@@ -19,15 +18,6 @@
     "url": "https://github.com/zeroclipboard/zeroclipboard.git"
   },
   "filename": "ZeroClipboard.min.js",
-  "npmName": "zeroclipboard",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "ZeroClipboard.*"
-      ]
-    }
-  ],
   "license": "MIT",
   "authors": [
     {
@@ -39,5 +29,17 @@
       "email": "james.m.greene@gmail.com",
       "url": "http://greene.io/"
     }
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "zeroclipboard",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "ZeroClipboard.*"
+        ]
+      }
+    ]
+  }
 }

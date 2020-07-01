@@ -1,7 +1,6 @@
 {
   "name": "angular-chosen-localytics",
   "filename": "angular-chosen.min.js",
-  "version": "1.9.3",
   "description": "Angular Chosen directive is an AngularJS Directive that brings the Chosen jQuery in a Angular way",
   "homepage": "http://github.com/leocaseiro/angular-chosen",
   "repository": {
@@ -19,13 +18,16 @@
   ],
   "license": "MIT",
   "author": "jr314159",
-  "npmName": "angular-chosen-localytics",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-chosen-localytics",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

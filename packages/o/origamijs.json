@@ -1,7 +1,6 @@
 {
   "name": "origamijs",
   "filename": "origami.min.js",
-  "version": "0.5.1",
   "description": "HTML5 Canvas for Humans",
   "keywords": [
     "origamijs",
@@ -15,13 +14,16 @@
   "author": "Raphael Amorim",
   "license": "GPL-3.0",
   "homepage": "http://origamijs.com/",
-  "npmName": "origamijs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "origamijs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

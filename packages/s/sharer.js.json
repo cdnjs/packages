@@ -1,7 +1,6 @@
 {
   "name": "sharer.js",
   "filename": "sharer.min.js",
-  "version": "0.4.0",
   "description": "Create custom social share DOM elements. No dependencies.",
   "repository": {
     "type": "git",
@@ -29,13 +28,16 @@
     "email": "ellisonleao@gmail.com"
   },
   "license": "MIT",
-  "npmName": "sharer.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "sharer*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "sharer.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "sharer*.js"
+        ]
+      }
+    ]
+  }
 }

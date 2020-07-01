@@ -1,7 +1,6 @@
 {
   "name": "flot.tooltip",
   "filename": "jquery.flot.tooltip.min.js",
-  "version": "0.9.0",
   "description": "easy-to-use tooltips for Flot charts",
   "keywords": [
     "flot",

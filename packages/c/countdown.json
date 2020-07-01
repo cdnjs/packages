@@ -2,7 +2,6 @@
   "name": "countdown",
   "filename": "countdown.min.js",
   "description": "A simple JavaScript API for producing an accurate, intuitive description of the timespan between two Date instances.",
-  "version": "2.6.0",
   "homepage": "http://countdownjs.org",
   "author": "Stephen McKamey (http://mck.me)",
   "keywords": [

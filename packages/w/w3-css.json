@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git+https://github.com/vitorlans/w3-css.git"
   },
-  "npmName": "w3-css",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "**/*.css"
-      ]
-    }
-  ],
-  "filename": "w3.css"
+  "filename": "w3.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "w3-css",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.css"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "jquery-visible",
-  "version": "1.2.0",
   "filename": "jquery.visible.min.js",
   "description": "Quickly check if an element is within the browsers visible viewport, regardless of scroll position. If a user can see this element, the function will return true.",
   "license": "MIT",

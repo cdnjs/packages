@@ -1,6 +1,5 @@
 {
   "name": "angular-confirm",
-  "version": "1.2.6",
   "description": "Angular Confirm Modal",
   "filename": "angular-confirm.min.js",
   "repository": {
@@ -16,13 +15,16 @@
   "author": "James Kleeh",
   "license": "Apache-2.0",
   "homepage": "http://schlogen.github.io/angular-confirm/",
-  "npmName": "angular-confirm",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "angular-confirm*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-confirm",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "angular-confirm*.js"
+        ]
+      }
+    ]
+  }
 }

@@ -1,1 +1,32 @@
-{"author":{"email":"pmb@heise.de","name":"Philipp Busse"},"description":"Embetty displays remote content like tweets or videos without compromising your privacy.","filename":"embetty.js","homepage":"https://heiseonline.github.io/embetty/","keywords":["tweets","video","embed"],"license":"MIT","name":"Embetty","npmFileMap":[{"basePath":"dist","files":["*.js"]}],"npmName":"@heise/embetty","repository":{"type":"git","url":"https://github.com/heiseonline/embetty"},"version":"4.0.0-beta.5"}
+{
+  "author": {
+    "email": "pmb@heise.de",
+    "name": "Philipp Busse"
+  },
+  "description": "Embetty displays remote content like tweets or videos without compromising your privacy.",
+  "filename": "embetty.js",
+  "homepage": "https://heiseonline.github.io/embetty/",
+  "keywords": [
+    "tweets",
+    "video",
+    "embed"
+  ],
+  "license": "MIT",
+  "name": "Embetty",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heiseonline/embetty"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@heise/embetty",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
+}

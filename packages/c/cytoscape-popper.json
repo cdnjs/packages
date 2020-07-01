@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/cytoscape/cytoscape.js-popper.git"
   },
-  "npmName": "cytoscape-popper",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "cytoscape-popper.js"
-      ]
-    }
-  ],
-  "filename": "cytoscape-popper.js"
+  "filename": "cytoscape-popper.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "cytoscape-popper",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "cytoscape-popper.js"
+        ]
+      }
+    ]
+  }
 }

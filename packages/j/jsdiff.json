@@ -1,6 +1,5 @@
 {
   "name": "jsdiff",
-  "version": "4.0.2",
   "filename": "diff.min.js",
   "description": "A javascript text diff implementation.",
   "keywords": [
@@ -12,13 +11,16 @@
     "type": "git",
     "url": "git://github.com/kpdecker/jsdiff.git"
   },
-  "npmName": "diff",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "diff",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

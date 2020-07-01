@@ -1,7 +1,6 @@
 {
   "name": "jQRangeSlider",
   "filename": "jQRangeSlider.min.js",
-  "version": "5.7.2",
   "homepage": "http://ghusse.github.com/jQRangeSlider/",
   "description": "A javascript slider selector that supports dates",
   "keywords": [

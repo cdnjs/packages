@@ -14,15 +14,17 @@
     "machine",
     "state"
   ],
-  "version": "2.0.0",
   "license": "MIT",
-  "npmName": "stately.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "Stately*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "stately.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "Stately*"
+        ]
+      }
+    ]
+  }
 }

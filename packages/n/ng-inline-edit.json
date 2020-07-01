@@ -2,7 +2,6 @@
   "name": "ng-inline-edit",
   "filename": "ng-inline-edit.min.js",
   "description": "Simple inline editing for HTML elements",
-  "version": "0.7.0",
   "keywords": [
     "angular",
     "component",

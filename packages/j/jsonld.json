@@ -1,6 +1,5 @@
 {
   "name": "jsonld",
-  "version": "3.1.1",
   "filename": "jsonld.min.js",
   "description": "A JSON-LD Processor and API implementation in JavaScript.",
   "author": {
@@ -20,16 +19,19 @@
     "Semantic Web",
     "jsonld"
   ],
-  "npmName": "jsonld",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "jsonld.js",
-        "jsonld.min.js",
-        "jsonld.min.js.map"
-      ]
-    }
-  ],
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jsonld",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "jsonld.js",
+          "jsonld.min.js",
+          "jsonld.min.js.map"
+        ]
+      }
+    ]
+  }
 }

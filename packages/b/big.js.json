@@ -2,7 +2,6 @@
   "name": "big.js",
   "filename": "big.min.js",
   "description": "A small, fast, easy-to-use library for arbitrary-precision decimal arithmetic",
-  "version": "5.2.2",
   "keywords": [
     "arbitrary",
     "precision",
@@ -27,13 +26,16 @@
     "email": "M8ch88l@gmail.com"
   },
   "license": "MIT",
-  "npmName": "big.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "big*.!(mjs)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "big.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "big*.!(mjs)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "rot.js",
-  "version": "0.6.0",
   "filename": "rot.min.js",
   "description": "A roguelike toolkit in JavaScript",
   "keywords": [

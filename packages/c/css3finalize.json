@@ -1,7 +1,6 @@
 {
   "name": "css3finalize",
   "filename": "jquery.css3finalize.min.js",
-  "version": "4.1.0",
   "description": "Automatically add vendor prefixes",
   "keywords": [
     "css",

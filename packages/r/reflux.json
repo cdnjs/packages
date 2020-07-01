@@ -1,6 +1,5 @@
 {
   "name": "reflux",
-  "version": "6.4.1",
   "description": "A simple library for uni-directional dataflow application architecture inspired by ReactJS Flux",
   "author": "Mikael Brassman",
   "license": "BSD-3-Clause",
@@ -18,14 +17,17 @@
     "event",
     "data"
   ],
-  "npmName": "reflux",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "reflux.min.js"
+  "filename": "reflux.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "reflux",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

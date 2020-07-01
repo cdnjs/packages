@@ -1,7 +1,6 @@
 {
   "name": "playlyfe-js-sdk",
   "filename": "playlyfe-js-sdk.min.js",
-  "version": "1.0.1",
   "description": "Playlyfe Javascript SDK for browser-based apps",
   "author": {
     "name": "Johny Jose",

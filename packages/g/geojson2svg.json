@@ -1,6 +1,5 @@
 {
   "name": "geojson2svg",
-  "version": "1.2.3",
   "description": "Converts geojson to svg/path string given svg viewport size and maps extent.",
   "keywords": [
     "maps",
@@ -12,14 +11,17 @@
     "url": "https://github.com/gagan-bansal/geojson2svg"
   },
   "license": "MIT",
-  "npmName": "geojson2svg",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*"
-      ]
-    }
-  ],
-  "filename": "geojson2svg.min.js"
+  "filename": "geojson2svg.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "geojson2svg",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  }
 }

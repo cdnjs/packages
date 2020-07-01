@@ -2,7 +2,6 @@
   "name": "superplaceholder",
   "filename": "superplaceholder.min.js",
   "description": "Super charge your input placeholders",
-  "version": "1.0.0",
   "homepage": "https://kushagragour.in/lab/superplaceholderjs/",
   "author": {
     "name": "Kushagra Gour",
@@ -21,14 +20,17 @@
     "javascript",
     "library"
   ],
-  "npmName": "superplaceholder",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "license": "CC-BY-ND-4.0"
+  "license": "CC-BY-ND-4.0",
+  "autoupdate": {
+    "source": "npm",
+    "target": "superplaceholder",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

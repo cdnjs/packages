@@ -1,6 +1,5 @@
 {
   "name": "choices.js",
-  "version": "3.0.4",
   "description": "A vanilla JS customisable text input/select box plugin",
   "filename": "choices.min.js",
   "repository": {
@@ -18,20 +17,23 @@
   ],
   "license": "MIT",
   "homepage": "https://joshuajohnson.co.uk/Choices/",
-  "npmName": "choices.js",
-  "npmFileMap": [
-    {
-      "basePath": "assets/scripts/dist",
-      "files": [
-        "**/*"
-      ]
-    },
-    {
-      "basePath": "assets",
-      "files": [
-        "styles/css/+(base|choices)*.css",
-        "icons/*.+(svg|png)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "choices.js",
+    "fileMap": [
+      {
+        "basePath": "assets/scripts/dist",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "assets",
+        "files": [
+          "styles/css/+(base|choices)*.css",
+          "icons/*.+(svg|png)"
+        ]
+      }
+    ]
+  }
 }

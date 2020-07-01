@@ -1,7 +1,6 @@
 {
   "name": "izimodal",
   "filename": "js/iziModal.min.js",
-  "version": "1.5.1",
   "description": "Elegant, responsive, flexible and lightweight modal plugin with jQuery.",
   "repository": {
     "type": "git",
@@ -24,13 +23,16 @@
   },
   "license": "Apache-2.0",
   "homepage": "http://izimodal.marcelodolce.com",
-  "npmName": "izimodal",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "+(js|css)/iziModal*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "izimodal",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "+(js|css)/iziModal*"
+        ]
+      }
+    ]
+  }
 }

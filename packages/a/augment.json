@@ -2,7 +2,6 @@
   "name": "augment",
   "filename": "augment.min.js",
   "description": "The world's smallest and fastest classical JavaScript inheritance pattern.",
-  "version": "4.3.1",
   "keywords": [
     "augment",
     "augments",
@@ -31,13 +30,16 @@
     "type": "git",
     "url": "https://github.com/javascript/augment.git"
   },
-  "npmName": "augment",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "augment*.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "augment",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "augment*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

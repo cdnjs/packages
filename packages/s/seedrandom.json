@@ -1,17 +1,5 @@
 {
   "name": "seedrandom",
-  "npmName": "seedrandom",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "seedrandom.js",
-        "seedrandom.min.js",
-        "lib/*"
-      ]
-    }
-  ],
-  "version": "3.0.5",
   "filename": "seedrandom.min.js",
   "keywords": [
     "random number",
@@ -23,5 +11,19 @@
     "url": "git://github.com/davidbau/seedrandom.git"
   },
   "author": "David Bau",
-  "license": "BSD"
+  "license": "BSD",
+  "autoupdate": {
+    "source": "npm",
+    "target": "seedrandom",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "seedrandom.js",
+          "seedrandom.min.js",
+          "lib/*"
+        ]
+      }
+    ]
+  }
 }

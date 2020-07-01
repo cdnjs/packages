@@ -1,6 +1,5 @@
 {
   "name": "vue-smart-table",
-  "version": "2.5.0",
   "filename": "vue-smart-table.min.js",
   "description": "A table with dynamic components for vue.js",
   "author": "Andrea Passaglia <gurghet@gmail.com>",
@@ -17,13 +16,16 @@
     "grid",
     "smart"
   ],
-  "npmName": "vue-smart-table",
-  "npmFileMap": [
-    {
-      "basePath": "dist/static",
-      "files": [
-        "**/*vue*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-smart-table",
+    "fileMap": [
+      {
+        "basePath": "dist/static",
+        "files": [
+          "**/*vue*"
+        ]
+      }
+    ]
+  }
 }

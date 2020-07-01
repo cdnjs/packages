@@ -1,7 +1,6 @@
 {
   "name": "reframe.js",
   "filename": "reframe.min.js",
-  "version": "2.2.8",
   "description": "Reframe.js: responsive iframes for embedded content",
   "repository": {
     "type": "git",
@@ -20,14 +19,17 @@
   ],
   "author": "Jeff Wainwright <jjwainwright2@gmail.com> (https://jeffry.in)",
   "homepage": "https://dollarshaveclub.github.io/reframe.js/",
-  "npmName": "reframe.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.scss|*.es.js)"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "reframe.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.scss|*.es.js)"
+        ]
+      }
+    ]
+  }
 }

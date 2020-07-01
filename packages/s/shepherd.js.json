@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/shipshapecode/shepherd.git"
   },
-  "npmName": "shepherd.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|css|map)"
-      ]
-    }
-  ],
-  "filename": "js/shepherd.min.js"
+  "filename": "js/shepherd.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "shepherd.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

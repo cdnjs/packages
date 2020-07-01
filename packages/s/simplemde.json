@@ -1,6 +1,5 @@
 {
   "name": "simplemde",
-  "version": "1.11.2",
   "description": "A simple, beautiful, and embeddable JavaScript Markdown editor. Features autosaving and spell checking.",
   "keywords": [
     "embeddable",
@@ -19,13 +18,16 @@
     "type": "git",
     "url": "git+https://github.com/NextStepWebs/simplemde-markdown-editor.git"
   },
-  "npmName": "simplemde",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "simplemde",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

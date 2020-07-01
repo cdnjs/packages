@@ -1,7 +1,6 @@
 {
   "name": "jquery-color",
   "filename": "jquery.color.min.js",
-  "version": "2.1.2",
   "description": "jQuery plugin for color manipulation and animation support.",
   "keywords": [
     "jquery",

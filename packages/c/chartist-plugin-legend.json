@@ -1,7 +1,6 @@
 {
   "name": "chartist-plugin-legend",
   "filename": "chartist-plugin-legend.min.js",
-  "version": "0.6.2",
   "author": "Kees Kluskens <kees@codeyellow.nl>",
   "description": "Legend plugin for Chartist.js.",
   "license": "ISC",
@@ -14,13 +13,16 @@
     "Chartist.js",
     "legend"
   ],
-  "npmName": "chartist-plugin-legend",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "chartist-plugin-legend*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "chartist-plugin-legend",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "chartist-plugin-legend*"
+        ]
+      }
+    ]
+  }
 }

@@ -2,7 +2,6 @@
   "name": "prism",
   "title": "Prism",
   "filename": "prism.min.js",
-  "version": "1.20.0",
   "description": "Lightweight, robust, elegant syntax highlighting. A spin-off project from Dabblet.",
   "homepage": "http://prismjs.com/",
   "keywords": [
@@ -20,14 +19,17 @@
     "type": "git",
     "url": "https://github.com/PrismJS/prism.git"
   },
-  "npmName": "prismjs",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "+(components|plugins|themes)/**/prism*.+(js|css|map)",
-        "prism*.+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "prismjs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "+(components|plugins|themes)/**/prism*.+(js|css|map)",
+          "prism*.+(js|map)"
+        ]
+      }
+    ]
+  }
 }

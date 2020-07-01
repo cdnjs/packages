@@ -1,6 +1,5 @@
 {
   "name": "oj.GitHubButton",
-  "version": "0.0.2",
   "description": "GitHub buttons plugin for OJ",
   "homepage": "http://ojjs.org/docs#GitHubButton",
   "keywords": [

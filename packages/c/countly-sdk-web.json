@@ -1,6 +1,5 @@
 {
   "name": "countly-sdk-web",
-  "version": "20.4.0",
   "description": "Countly Web SDK",
   "repository": {
     "type": "git",
@@ -13,14 +12,17 @@
   ],
   "author": "Countly <hello@count.ly> (https://count.ly/)",
   "license": "MIT",
-  "npmName": "countly-sdk-web",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "countly.min.js"
-      ]
-    }
-  ],
-  "filename": "countly.min.js"
+  "filename": "countly.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "countly-sdk-web",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "countly.min.js"
+        ]
+      }
+    ]
+  }
 }

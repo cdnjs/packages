@@ -2,7 +2,6 @@
   "name": "adobe-sign-sdk",
   "description": "SDK for Adobe Sign REST API",
   "filename": "adobe-sign-sdk.min.js",
-  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/adobe-sign/AdobeSignJsSdk.git"
@@ -13,15 +12,6 @@
     "name": "Adobe Sign",
     "email": "adobesignsdk@adobe.com"
   },
-  "npmName": "adobe-sign-sdk",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "keywords": [
     "api",
     "sdk",
@@ -37,5 +27,17 @@
     "adobe sdk",
     "adobe sign sdk",
     "sign sdk"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "adobe-sign-sdk",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

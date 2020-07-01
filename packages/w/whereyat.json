@@ -1,16 +1,6 @@
 {
   "name": "whereyat",
-  "npmName": "whereyat",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
   "filename": "jquery.whereyat.min.js",
-  "version": "0.1.2",
   "homepage": "http://www.wherey.at/",
   "repository": {
     "type": "git",
@@ -23,5 +13,17 @@
     "location"
   ],
   "license": "MIT",
-  "description": "Where y'at adds classes to your HTML based on where your users are."
+  "description": "Where y'at adds classes to your HTML based on where your users are.",
+  "autoupdate": {
+    "source": "npm",
+    "target": "whereyat",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "folktale",
   "filename": "folktale.min.js",
-  "version": "2.0.1",
   "description": "A suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs and more reuse.",
   "repository": {
     "type": "git",
@@ -18,13 +17,16 @@
   "author": "Quildreen Motta",
   "license": "MIT",
   "homepage": "http://folktale.origamitower.com/",
-  "npmName": "folktale",
-  "npmFileMap": [
-    {
-      "basePath": "dist/umd",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "folktale",
+    "fileMap": [
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

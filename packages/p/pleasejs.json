@@ -1,7 +1,6 @@
 {
   "name": "pleasejs",
   "filename": "Please.min.js",
-  "version": "0.4.2",
   "description": "JS library to generate random pleasing colors/color schemes",
   "repository": {
     "type": "git",

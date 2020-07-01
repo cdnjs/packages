@@ -1,6 +1,5 @@
 {
   "name": "most",
-  "version": "1.8.1",
   "filename": "most.min.js",
   "description": "Monadic streams for Ultra-high performance reactive programming",
   "repository": {
@@ -27,13 +26,16 @@
   ],
   "author": "brian@hovercraftstudios.com",
   "license": "MIT",
-  "npmName": "most",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "most",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

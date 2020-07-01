@@ -1,6 +1,5 @@
 {
   "name": "what-input",
-  "version": "5.2.9",
   "filename": "what-input.min.js",
   "description": "A global utility for tracking the current input method (mouse, keyboard or touch).",
   "repository": {
@@ -15,13 +14,16 @@
   ],
   "author": "Jeremy Fields <jeremy.fields@viget.com>",
   "license": "MIT",
-  "npmName": "what-input",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/what-input*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "what-input",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/what-input*"
+        ]
+      }
+    ]
+  }
 }

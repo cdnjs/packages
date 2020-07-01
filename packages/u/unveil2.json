@@ -1,6 +1,5 @@
 {
   "name": "unveil2",
-  "version": "2.0.8",
   "filename": "jquery.unveil2.min.js",
   "description": "A very lightweight jQuery plugin to lazy load images",
   "homepage": "https://nabble.github.io/unveil2/",

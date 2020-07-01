@@ -1,7 +1,6 @@
 {
   "name": "t3js",
   "description": "T3 Javascript Framework",
-  "version": "2.7.0",
   "filename": "t3.min.js",
   "author": "Box (https://www.box.com/)",
   "homepage": "http://t3js.org",

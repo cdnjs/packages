@@ -2,7 +2,6 @@
   "name": "jquery-compat",
   "filename": "jquery.min.js",
   "description": "JavaScript library for DOM operations",
-  "version": "3.0.0-alpha1",
   "homepage": "http://jquery.com",
   "author": {
     "name": "jQuery Foundation and other contributors",
@@ -19,13 +18,16 @@
     "library"
   ],
   "license": "MIT",
-  "npmName": "jquery-compat",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-compat",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

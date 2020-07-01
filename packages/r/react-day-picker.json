@@ -20,14 +20,17 @@
     "type": "git",
     "url": "git+https://github.com/gpbl/react-day-picker.git"
   },
-  "npmName": "react-day-picker",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "*.@(js|css|map)"
-      ]
-    }
-  ],
-  "filename": "react-day-picker.min.js"
+  "filename": "react-day-picker.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-day-picker",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.@(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

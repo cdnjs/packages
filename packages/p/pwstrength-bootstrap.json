@@ -1,7 +1,6 @@
 {
   "name": "pwstrength-bootstrap",
   "filename": "pwstrength-bootstrap.min.js",
-  "version": "3.0.6",
   "description": "jQuery plugin for Twitter Bootstrap that provides rulesets for visualy displaying the quality of a users typed in password.",
   "author": "Alejandro Blanco <alejandro.b.e@gmail.com>",
   "keywords": [
@@ -20,13 +19,16 @@
     "GPL-3.0",
     "MIT"
   ],
-  "npmName": "pwstrength-bootstrap",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "pwstrength-bootstrap",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

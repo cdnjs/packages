@@ -37,15 +37,18 @@
     "type": "git",
     "url": "git+https://github.com/jarek-foksa/xel.git"
   },
-  "npmName": "xel",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.js",
-        "themes/*.css"
-      ]
-    }
-  ],
-  "filename": "xel.min.js"
+  "filename": "xel.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "xel",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js",
+          "themes/*.css"
+        ]
+      }
+    ]
+  }
 }

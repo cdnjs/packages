@@ -1,20 +1,10 @@
 {
   "name": "backbone.wreqr",
   "filename": "backbone.wreqr.min.js",
-  "version": "1.4.0",
   "description": "A Simple Service Bus For Backbone and Backbone.Marionette",
   "keywords": [
     "events",
     "popular"
-  ],
-  "npmName": "backbone.wreqr",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "**/*"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -25,5 +15,17 @@
     "name": "Derick Bailey",
     "email": "marionettejs@gmail.com",
     "web": "http://derickbailey.lostechies.com"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "backbone.wreqr",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
   }
 }

@@ -1,7 +1,6 @@
 {
   "name": "rimg",
   "filename": "rimg.min.js",
-  "version": "2.1.0",
   "description": "Rimg supports responsive websites to provide a way to optimize images (like CMS-content) in a simple and performant way. Pure Javascript, no server-side code and 2 lines of code (library + definition).",
   "keywords": [
     "responsive",

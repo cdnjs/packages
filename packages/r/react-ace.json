@@ -1,6 +1,5 @@
 {
   "name": "react-ace",
-  "version": "8.1.0",
   "filename": "react-ace.min.js",
   "description": "A react component for Ace Editor",
   "author": "James Hrisho",
@@ -16,13 +15,16 @@
     "type": "git",
     "url": "http://github.com/securingsincity/react-ace.git"
   },
-  "npmName": "react-ace",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-ace",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

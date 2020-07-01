@@ -9,14 +9,17 @@
     "type": "git",
     "url": "git+ssh://git@github.com/connec/yaml-js.git"
   },
-  "npmName": "yaml-js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "yaml?(.min).js"
-      ]
-    }
-  ],
-  "filename": "yaml.min.js"
+  "filename": "yaml.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "yaml-js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "yaml?(.min).js"
+        ]
+      }
+    ]
+  }
 }

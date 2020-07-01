@@ -1,6 +1,5 @@
 {
   "name": "history",
-  "version": "4.10.1",
   "description": "A minimal, functional history implementation for JavaScript",
   "repository": {
     "type": "git",
@@ -12,14 +11,17 @@
     "location"
   ],
   "filename": "history.min.js",
-  "npmName": "history",
-  "npmFileMap": [
-    {
-      "basePath": "umd",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "author": "Michael Jackson"
+  "author": "Michael Jackson",
+  "autoupdate": {
+    "source": "npm",
+    "target": "history",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

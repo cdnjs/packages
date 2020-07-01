@@ -1,20 +1,9 @@
 {
   "name": "condition",
   "filename": "condition.min.js",
-  "version": "1.2.0",
   "description": "Advanced condition library",
   "keywords": [
     "conditions"
-  ],
-  "npmName": "condition",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "condition.js",
-        "condition.min.js"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -25,5 +14,18 @@
     "name": "Nathaniel Higgins",
     "email": "nat@nath.is",
     "url": "http://nath.is"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "condition",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "condition.js",
+          "condition.min.js"
+        ]
+      }
+    ]
   }
 }

@@ -1,7 +1,6 @@
 {
   "name": "js-sha512",
   "filename": "sha512.min.js",
-  "version": "0.8.0",
   "description": "This is a simple SHA-512, SHA-384, SHA-512/224, SHA-512/256 hash functions for JavaScript supports UTF-8 encoding.",
   "repository": {
     "type": "git",
@@ -21,19 +20,22 @@
   ],
   "license": "MIT",
   "author": "emn178 <emn178@gmail.com>",
-  "npmName": "js-sha512",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "sha512*"
-      ]
-    },
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "js-sha512",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "sha512*"
+        ]
+      },
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

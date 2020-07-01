@@ -1,7 +1,6 @@
 {
   "name": "axe-core",
   "description": "Accessibility engine for automated Web UI testing",
-  "version": "3.5.3",
   "license": "MPL-2.0",
   "repository": {
     "type": "git",
@@ -17,13 +16,16 @@
     "aXe"
   ],
   "filename": "axe.min.js",
-  "npmName": "axe-core",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "axe*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "axe-core",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "axe*"
+        ]
+      }
+    ]
+  }
 }

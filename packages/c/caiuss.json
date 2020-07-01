@@ -1,6 +1,5 @@
 {
   "name": "caiuss",
-  "version": "1.4.13",
   "description": "A Minimalist and Civilized CSS framework.",
   "repository": {
     "type": "git",
@@ -14,14 +13,17 @@
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com>",
   "license": "MIT",
-  "npmName": "caiuss",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*"
-      ]
-    }
-  ],
-  "filename": "caiuss.min.css"
+  "filename": "caiuss.min.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "caiuss",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  }
 }

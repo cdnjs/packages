@@ -1,6 +1,5 @@
 {
   "name": "geopattern",
-  "version": "1.2.3",
   "filename": "js/geopattern.min.js",
   "description": "Generate beautiful SVG patterns",
   "keywords": [

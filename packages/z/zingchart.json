@@ -1,7 +1,6 @@
 {
   "name": "zingchart",
   "filename": "zingchart.min.js",
-  "version": "2.8.6",
   "description": "A npm package for easy downloading of ZingChart.",
   "repository": {
     "type": "git",
@@ -22,13 +21,16 @@
     "name": "ZingChart Branded License",
     "url": "https://www.zingchart.com/buy/details/branded-license/"
   },
-  "npmName": "zingchart",
-  "npmFileMap": [
-    {
-      "basePath": "client",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "zingchart",
+    "fileMap": [
+      {
+        "basePath": "client",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

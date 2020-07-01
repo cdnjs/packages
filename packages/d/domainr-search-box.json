@@ -1,6 +1,5 @@
 {
   "name": "domainr-search-box",
-  "version": "0.0.27",
   "description": "Domainr instant search box for your site",
   "repository": {
     "type": "git",
@@ -17,14 +16,17 @@
     "tld"
   ],
   "filename": "domainr-search-box.min.js",
-  "npmName": "domainr-search-box",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "domainr-search-box",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

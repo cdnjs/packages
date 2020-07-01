@@ -1,7 +1,6 @@
 {
   "name": "jqgrid",
   "filename": "js/jquery.jqGrid.min.js",
-  "version": "5.4.0",
   "description": "jqGrid is an Ajax-enabled JavaScript control that provides solutions for representing and manipulating tabular data on the web.",
   "homepage": "http://www.guriddo.net",
   "keywords": [

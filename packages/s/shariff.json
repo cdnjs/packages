@@ -1,7 +1,6 @@
 {
   "name": "shariff",
   "filename": "shariff.min.js",
-  "version": "1.26.2",
   "homepage": "http://ct.de/-2467514",
   "authors": [
     "Ines Pauer <ipa@heise.de>",
@@ -17,17 +16,20 @@
     "shariff"
   ],
   "license": "MIT",
-  "npmName": "shariff",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "shariff*.+(js|css)"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/heiseonline/shariff"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "shariff",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "shariff*.+(js|css)"
+        ]
+      }
+    ]
   }
 }

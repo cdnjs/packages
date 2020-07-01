@@ -1,7 +1,6 @@
 {
   "name": "es6-promise",
   "namespace": "es6-promise",
-  "version": "4.1.1",
   "description": "A lightweight library that provides tools for organizing asynchronous code",
   "filename": "es6-promise.min.js",
   "repository": {

@@ -2,7 +2,6 @@
   "name": "angular-ui",
   "filename": "angular-ui.min.js",
   "description": "AngularUI - The companion suite for AngularJS",
-  "version": "0.4.0",
   "homepage": "http://angular-ui.github.com",
   "keywords": [
     "framework",

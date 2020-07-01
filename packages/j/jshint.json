@@ -1,6 +1,5 @@
 {
   "name": "jshint",
-  "version": "2.11.1",
   "homepage": "http://jshint.com/",
   "description": "Static analysis tool for JavaScript",
   "author": {
@@ -17,14 +16,17 @@
     "url": "https://github.com/jshint/jshint.git"
   },
   "filename": "jshint.min.js",
-  "npmName": "jshint",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "jshint.js"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jshint",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "jshint.js"
+        ]
+      }
+    ]
+  }
 }

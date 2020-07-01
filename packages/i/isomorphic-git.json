@@ -1,6 +1,5 @@
 {
   "name": "isomorphic-git",
-  "version": "0.78.5",
   "filename": "bundle.umd.min.js",
   "description": "A pure JavaScript implementation of git for node and browsers!",
   "repository": {
@@ -14,13 +13,16 @@
   "author": "William Hilton <wmhilton@gmail.com>",
   "license": "MIT",
   "homepage": "https://isomorphic-git.github.io/",
-  "npmName": "isomorphic-git",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.umd.*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "isomorphic-git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.umd.*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "motion.js",
   "description": "MotionJs is an easy to use, cross-browser CSS3 library for creating animations in web.",
-  "version": "0.3.0",
   "filename": "motion.min.js",
   "author": {
     "name": "Afshin Mehrabani",

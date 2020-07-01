@@ -1,6 +1,5 @@
 {
   "name": "instantsearch.js",
-  "version": "4.4.0",
   "filename": "instantsearch.production.min.js",
   "description": "instantsearch.js is a library of widgets to build high performance instant search experiences using Algolia",
   "author": "Algolia <support@algolia.com>",
@@ -9,16 +8,19 @@
     "url": "https://github.com/algolia/instantsearch.js"
   },
   "license": "MIT",
-  "npmName": "instantsearch.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.gz)"
-      ]
-    }
-  ],
   "keywords": [
     "instantsearch.js"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "instantsearch.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.gz)"
+        ]
+      }
+    ]
+  }
 }

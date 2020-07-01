@@ -22,14 +22,17 @@
     "type": "git",
     "url": "git+https://github.com/dtjohnson/xlsx-populate.git"
   },
-  "npmName": "xlsx-populate",
-  "npmFileMap": [
-    {
-      "basePath": "browser",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "xlsx-populate.min.js"
+  "filename": "xlsx-populate.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "xlsx-populate",
+    "fileMap": [
+      {
+        "basePath": "browser",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "brand-colors",
   "filename": "css/brand-colors.latest.min.css",
-  "version": "2.1.1",
   "description": "A collection of branding colors of all the major companies.",
   "homepage": "http://brand-colors.com",
   "repository": {
@@ -15,13 +14,16 @@
   ],
   "author": "Piérre Reimertz",
   "license": "MIT",
-  "npmName": "brand-colors",
-  "npmFileMap": [
-    {
-      "basePath": "dist/latest",
-      "files": [
-        "!(less|sass|scss|stylus)/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "brand-colors",
+    "fileMap": [
+      {
+        "basePath": "dist/latest",
+        "files": [
+          "!(less|sass|scss|stylus)/*"
+        ]
+      }
+    ]
+  }
 }

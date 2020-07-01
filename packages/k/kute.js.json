@@ -1,6 +1,5 @@
 {
   "name": "kute.js",
-  "version": "1.6.2",
   "filename": "kute.min.js",
   "description": "A minimal Native Javascript animation engine.",
   "repository": {
@@ -16,13 +15,16 @@
   "author": "thednp",
   "license": "MIT",
   "homepage": "http://thednp.github.io/kute.js",
-  "npmName": "kute.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "kute.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

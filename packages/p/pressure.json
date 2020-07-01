@@ -1,6 +1,5 @@
 {
   "name": "pressure",
-  "version": "2.1.2",
   "filename": "pressure.min.js",
   "description": "Pressure is a lightweight JavaScript library for both Force Touch and 3D Touch through a single API.",
   "homepage": "https://pressurejs.com",
@@ -24,13 +23,16 @@
   ],
   "author": "Stuart Yamartino",
   "license": "MIT",
-  "npmName": "pressure",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "pressure",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

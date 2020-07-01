@@ -1,6 +1,5 @@
 {
   "name": "simple-module",
-  "version": "3.0.3",
   "filename": "simple-module.min.js",
   "description": "A base class for javascript modules.",
   "repository": {
@@ -14,13 +13,16 @@
     "extendable",
     "jQuery"
   ],
-  "npmName": "simple-module",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "simple-module",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

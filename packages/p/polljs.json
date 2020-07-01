@@ -1,7 +1,6 @@
 {
   "name": "polljs",
   "filename": "poll.min.js",
-  "version": "0.3.0",
   "description": "PollJS is a lightweight wrapper for the JavaScript Interval and Timer methods.",
   "repository": {
     "type": "git",

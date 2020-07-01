@@ -1,7 +1,6 @@
 {
   "name": "godlike.css",
   "filename": "godlike.min.css",
-  "version": "3.7.2",
   "description": "CSS for layout standardization and usability of web applications",
   "author": "1000.tech <info@1000.tech>",
   "repository": {
@@ -19,13 +18,16 @@
     "SCSS",
     "1000.tech"
   ],
-  "npmName": "godlike.css",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "godlike*.+(css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "godlike.css",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "godlike*.+(css|map)"
+        ]
+      }
+    ]
+  }
 }

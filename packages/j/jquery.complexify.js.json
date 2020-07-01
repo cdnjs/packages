@@ -1,7 +1,6 @@
 {
   "name": "jquery.complexify.js",
   "filename": "jquery.complexify.min.js",
-  "version": "0.5.1",
   "description": "JavaScript library for inform users of password strength",
   "homepage": "http://danpalmer.me/jquery-complexify",
   "keywords": [

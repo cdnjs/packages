@@ -1,7 +1,6 @@
 {
   "name": "jcarousel",
   "filename": "jquery.jcarousel.min.js",
-  "version": "0.3.9",
   "description": "Riding carousels with jQuery",
   "homepage": "http://sorgalla.com/jcarousel/",
   "keywords": [

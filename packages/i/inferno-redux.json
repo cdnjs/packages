@@ -1,6 +1,5 @@
 {
   "name": "inferno-redux",
-  "version": "7.4.2",
   "filename": "inferno-redux.min.js",
   "license": "MIT",
   "description": "Official Inferno bindings for Redux",
@@ -22,13 +21,16 @@
     "type": "git",
     "url": "git+https://github.com/infernojs/inferno.git"
   },
-  "npmName": "inferno-redux",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/inferno-redux!(*.node)*.!(*ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "inferno-redux",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/inferno-redux!(*.node)*.!(*ts)"
+        ]
+      }
+    ]
+  }
 }

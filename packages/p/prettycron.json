@@ -1,7 +1,6 @@
 {
   "name": "prettycron",
   "filename": "prettycron.min.js",
-  "version": "0.11.0",
   "description": "Display cron runspecs in human-readable format",
   "keywords": [
     "JavaScript",

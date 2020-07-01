@@ -1,7 +1,6 @@
 {
   "name": "lozad.js",
   "description": "A light-weight JS library to lazy load any HTML element such as images, ads, videos etc.",
-  "version": "1.15.0",
   "filename": "lozad.min.js",
   "homepage": "https://apoorv.pro/lozad.js/",
   "author": {
@@ -25,13 +24,16 @@
     "iframe",
     "ads"
   ],
-  "npmName": "lozad",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.es.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "lozad",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.es.js)"
+        ]
+      }
+    ]
+  }
 }

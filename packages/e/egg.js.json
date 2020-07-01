@@ -1,6 +1,5 @@
 {
   "name": "egg.js",
-  "version": "1.0",
   "filename": "egg.min.js",
   "description": "A simple javascript library to add easter eggs to web pages.",
   "repository": {

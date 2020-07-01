@@ -20,14 +20,17 @@
     "type": "git",
     "url": "git://github.com/xpepermint/angular-ui-switch.git"
   },
-  "npmName": "angular-ui-switch",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "angular-ui-switch.min.js"
+  "filename": "angular-ui-switch.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-ui-switch",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

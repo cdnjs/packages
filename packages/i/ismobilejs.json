@@ -1,6 +1,5 @@
 {
   "name": "ismobilejs",
-  "version": "0.4.1",
   "description": "A simple JS library that detects mobile devices.",
   "keywords": [
     "ismobile",
@@ -18,13 +17,16 @@
     "url": "git+https://github.com/kaimallea/isMobile.git"
   },
   "filename": "isMobile.min.js",
-  "npmName": "ismobilejs",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "isMobile*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ismobilejs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "isMobile*"
+        ]
+      }
+    ]
+  }
 }

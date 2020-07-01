@@ -17,14 +17,17 @@
     "type": "git",
     "url": "git+https://github.com/faulknercs/knockstrap.git"
   },
-  "npmName": "knockstrap",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "knockstrap.min.js"
+  "filename": "knockstrap.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "knockstrap",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

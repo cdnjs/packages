@@ -1,7 +1,6 @@
 {
   "name": "react-router",
   "filename": "react-router.min.js",
-  "version": "5.1.2",
   "description": "A complete routing library for React.js",
   "keywords": [
     "react",
@@ -9,15 +8,6 @@
     "router",
     "routes",
     "routing"
-  ],
-  "npmName": "react-router",
-  "npmFileMap": [
-    {
-      "basePath": "umd",
-      "files": [
-        "*.js"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -27,5 +17,17 @@
   "authors": [
     "Ryan Florence",
     "Michael Jackson"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-router",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

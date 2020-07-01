@@ -2,7 +2,6 @@
   "name": "angular-file-upload",
   "filename": "angular-file-upload.min.js",
   "description": "Angular File Upload is a module for the AngularJS framework",
-  "version": "2.5.0",
   "author": {
     "name": "Alex",
     "email": "nervgh@gmail.com",

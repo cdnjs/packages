@@ -3,7 +3,6 @@
   "name": "gas",
   "filename": "gas.min.js",
   "description": "Google Analytics on Steroids",
-  "version": "1.11.0",
   "keywords": [
     "Google Analytics",
     "Web Analytics"

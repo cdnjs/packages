@@ -1,6 +1,5 @@
 {
   "name": "linkurious.js",
-  "version": "1.5.1",
   "description": "A Javascript toolkit to speed up the development of graph visualization and interaction applications.",
   "repository": {
     "type": "git",

@@ -2,7 +2,6 @@
   "name": "ilyabirman-likely",
   "filename": "likely.js",
   "description": "The social sharing buttons that aren’t shabby",
-  "version": "2.4.0",
   "homepage": "http://ilyabirman.ru/projects/likely",
   "repository": {
     "type": "git",
@@ -17,13 +16,16 @@
     "social",
     "buttons"
   ],
-  "npmName": "ilyabirman-likely",
-  "npmFileMap": [
-    {
-      "basePath": "release",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ilyabirman-likely",
+    "fileMap": [
+      {
+        "basePath": "release",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,5 @@
 {
   "name": "freezer-js",
-  "version": "0.14.1",
   "filename": "freezer.min.js",
   "description": "A tree data structure that is always updated from the root, making easier to think in a reactive way.",
   "repository": {
@@ -19,13 +18,16 @@
   ],
   "author": "arqex",
   "license": "MIT",
-  "npmName": "freezer-js",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*freezer*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "freezer-js",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*freezer*"
+        ]
+      }
+    ]
+  }
 }

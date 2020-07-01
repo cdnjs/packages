@@ -1,6 +1,5 @@
 {
   "name": "peppermint",
-  "version": "1.4.0",
   "license": "MIT",
   "filename": "peppermint.min.js",
   "description": "Responsive touch-enabled slider. Tiny, supports mouse and all sorts of touch, library agnostic.",

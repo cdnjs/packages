@@ -1,7 +1,6 @@
 {
   "name": "roundabout",
   "filename": "jquery.roundabout.min.js",
-  "version": "2.4.2",
   "description": "Easily convert unordered lists & other nested HTML structures into entertaining, interactive, turntable-like areas.",
   "keywords": [
     "roundabout",

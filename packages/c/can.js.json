@@ -18,14 +18,16 @@
     "email": "contact@bitovi.com",
     "web": "http://bitovi.com/"
   },
-  "npmName": "can",
-  "npmFileMap": [
-    {
-      "basePath": "dist/global",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "version": "6.4.0"
+  "autoupdate": {
+    "source": "npm",
+    "target": "can",
+    "fileMap": [
+      {
+        "basePath": "dist/global",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

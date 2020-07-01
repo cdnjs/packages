@@ -1,6 +1,5 @@
 {
   "name": "grd",
-  "version": "1.2.3",
   "filename": "grd.css",
   "description": "A CSS grid framework using Flexbox.",
   "keywords": [
@@ -19,13 +18,16 @@
     "url": "https://github.com/1000ch"
   },
   "license": "MIT",
-  "npmName": "grd",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "grd",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

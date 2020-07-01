@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git+https://github.com/abouolia/sticky-sidebar.git"
   },
-  "npmName": "sticky-sidebar",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*"
-      ]
-    }
-  ],
-  "filename": "sticky-sidebar.min.js"
+  "filename": "sticky-sidebar.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "sticky-sidebar",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  }
 }

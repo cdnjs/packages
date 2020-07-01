@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git+https://github.com/dveldhoen/easyinvoice.git"
   },
-  "npmName": "easyinvoice",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "easyinvoice.min.js"
+  "filename": "easyinvoice.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "easyinvoice",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

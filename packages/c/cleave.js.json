@@ -10,7 +10,6 @@
     "form",
     "input"
   ],
-  "version": "1.6.0",
   "author": {
     "name": "Max Huang",
     "url": "http://github.com/nosir",
@@ -21,13 +20,16 @@
     "type": "git",
     "url": "https://github.com/nosir/cleave.js.git"
   },
-  "npmName": "cleave.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "cleave.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

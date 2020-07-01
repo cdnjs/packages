@@ -42,14 +42,17 @@
     "type": "git",
     "url": "git+https://jhildenbiddle@github.com/jhildenbiddle/css-vars-ponyfill.git"
   },
-  "npmName": "css-vars-ponyfill",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|ts|map)"
-      ]
-    }
-  ],
-  "filename": "css-vars-ponyfill.min.js"
+  "filename": "css-vars-ponyfill.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "css-vars-ponyfill",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|ts|map)"
+        ]
+      }
+    ]
+  }
 }

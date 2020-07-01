@@ -1,6 +1,5 @@
 {
   "name": "kronos.js",
-  "version": "0.7.2",
   "description": "JavaScript client for Kronos",
   "repository": {
     "type": "git",

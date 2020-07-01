@@ -1,7 +1,6 @@
 {
   "name": "nviewjs",
   "filename": "nview.min.js",
-  "version": "1.0.3",
   "description": "View template engine.",
   "author": "anyjser",
   "license": "MIT",
@@ -18,19 +17,22 @@
     "url": "https://github.com/any-js/nviewjs/"
   },
   "homepage": "https://any-js.github.io/",
-  "npmName": "nviewjs",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "nview*"
-      ]
-    },
-    {
-      "basePath": "bin",
-      "files": [
-        "nview*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "nviewjs",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "nview*"
+        ]
+      },
+      {
+        "basePath": "bin",
+        "files": [
+          "nview*"
+        ]
+      }
+    ]
+  }
 }

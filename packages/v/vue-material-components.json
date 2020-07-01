@@ -1,6 +1,5 @@
 {
   "name": "vue-material-components",
-  "version": "0.3.4",
   "filename": "vue-material-components.min.js",
   "description": "Web components of Vue.js and materializecss",
   "repository": {
@@ -21,13 +20,16 @@
   },
   "license": "MIT",
   "homepage": "http://appcomponents.org/material-components",
-  "npmName": "vue-material-components",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-material-components",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

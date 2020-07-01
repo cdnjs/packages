@@ -1,22 +1,10 @@
 {
   "name": "dancer.js",
   "filename": "dancer.min.js",
-  "version": "0.4.0",
   "description": "dancer.js is a high-level audio API, usable with the Web Audio API, Mozilla's Audio Data API and flash fallback, designed to make sweet visualizations.",
   "homepage": "http://jsantell.github.com/dancer.js",
   "keywords": [
     "audio"
-  ],
-  "npmName": "dancer",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "dancer.js",
-        "dancer.min.js",
-        "plugins/*.js"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -26,5 +14,19 @@
   "author": {
     "name": "Jordan Santell",
     "url": "http://jsantell.com"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "dancer",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "dancer.js",
+          "dancer.min.js",
+          "plugins/*.js"
+        ]
+      }
+    ]
   }
 }

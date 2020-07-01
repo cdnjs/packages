@@ -1,7 +1,6 @@
 {
   "name": "backbone.marionette",
   "filename": "backbone.marionette.min.js",
-  "version": "4.1.2",
   "description": "Make your Backbone.js apps dance!",
   "keywords": [
     "collections",
@@ -9,15 +8,6 @@
     "controllers",
     "events",
     "popular"
-  ],
-  "npmName": "backbone.marionette",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "**/!(backbone.marionette.esm.js*)"
-      ]
-    }
   ],
   "repository": {
     "type": "git",
@@ -28,5 +18,17 @@
     "name": "Derick Bailey",
     "email": "derickbailey@gmail.com",
     "url": "http://derickbailey.lostechies.com"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "backbone.marionette",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/!(backbone.marionette.esm.js*)"
+        ]
+      }
+    ]
   }
 }

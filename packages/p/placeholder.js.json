@@ -1,7 +1,6 @@
 {
   "name": "placeholder.js",
   "filename": "placeholder.min.js",
-  "version": "3.1.0",
   "description": "Image placeholder uses CANVAS to render image placeholders entirely in browser.",
   "homepage": "http://placeholder.cn/",
   "keywords": [
@@ -13,18 +12,21 @@
     "development",
     "html5"
   ],
-  "npmName": "placeholder.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/hustcc/placeholder.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "placeholder.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

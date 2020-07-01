@@ -2,7 +2,6 @@
   "name": "jInvertScroll",
   "filename": "js/jquery.jInvertScroll.min.js",
   "description": "jQuery plugin horizontal parallax scrolling.",
-  "version": "0.8.3",
   "keywords": [
     "color",
     "animation"

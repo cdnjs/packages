@@ -1,7 +1,6 @@
 {
   "name": "knockout-bootstrap",
   "filename": "knockout-bootstrap.min.js",
-  "version": "0.2.1",
   "description": "Knockout Bindings for Bootstrap Widgets",
   "repository": {
     "type": "git",

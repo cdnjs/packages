@@ -9,20 +9,22 @@
     "framework",
     "lightweight"
   ],
-  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/hay/stapes.git"
   },
-  "npmName": "stapes",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "stapes.js",
-        "stapes.min.js"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "stapes",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "stapes.js",
+          "stapes.min.js"
+        ]
+      }
+    ]
+  }
 }

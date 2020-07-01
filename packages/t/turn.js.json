@@ -1,6 +1,5 @@
 {
   "name": "turn.js",
-  "version": "3",
   "description": "The page flip effect for HTML5",
   "filename": "turn.min.js",
   "repository": {

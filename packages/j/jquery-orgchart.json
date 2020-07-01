@@ -1,7 +1,6 @@
 {
   "name": "jquery-orgchart",
   "filename": "jquery.orgchart.min.js",
-  "version": "1.0.0",
   "description": "A small jQuery plugin that generates a hierarchical organisational chart from a regular HTML nested unordered list.",
   "repository": {
     "type": "git",

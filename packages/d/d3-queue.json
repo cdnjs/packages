@@ -1,6 +1,5 @@
 {
   "name": "d3-queue",
-  "version": "3.0.7",
   "filename": "d3-queue.min.js",
   "description": "Evaluate asynchronous tasks with configurable concurrency.",
   "keywords": [
@@ -20,13 +19,16 @@
     "type": "git",
     "url": "https://github.com/d3/d3-queue.git"
   },
-  "npmName": "d3-queue",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "d3-queue",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

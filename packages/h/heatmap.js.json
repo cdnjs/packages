@@ -1,7 +1,6 @@
 {
   "name": "heatmap.js",
   "filename": "heatmap.min.js",
-  "version": "2.0.2",
   "description": "Dynamic JavaScript Heatmaps for the Web",
   "repository": {
     "type": "git",
@@ -18,13 +17,16 @@
     "MIT",
     "Beerware"
   ],
-  "npmName": "heatmap.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "heatmap*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "heatmap.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "heatmap*"
+        ]
+      }
+    ]
+  }
 }

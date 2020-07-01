@@ -1,6 +1,5 @@
 {
   "name": "react-instantsearch",
-  "version": "6.4.0",
   "filename": "Core.min.js",
   "author": {
     "name": "Algolia, Inc.",
@@ -22,13 +21,16 @@
     "url": "https://github.com/algolia/react-instantsearch/"
   },
   "license": "MIT",
-  "npmName": "react-instantsearch",
-  "npmFileMap": [
-    {
-      "basePath": "umd",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-instantsearch",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

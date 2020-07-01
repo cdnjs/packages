@@ -2,7 +2,6 @@
   "name": "jquery.pin",
   "filename": "jquery.pin.min.js",
   "description": "Pin any element within a container",
-  "version": "1.0.1",
   "keywords": [
     "jquery-pin",
     "jquery.pin",

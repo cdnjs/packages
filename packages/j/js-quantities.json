@@ -1,7 +1,6 @@
 {
   "name": "js-quantities",
   "description": "JavaScript library for quantity calculation and unit conversion",
-  "version": "1.7.5",
   "homepage": "https://gentooboontoo.github.io/js-quantities/",
   "repository": {
     "type": "git",
@@ -26,13 +25,16 @@
   "author": "Julien Sanchez <julien.sanchez@gmail.com>",
   "license": "MIT",
   "filename": "quantities.min.js",
-  "npmName": "js-quantities",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/!(*.esm.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "js-quantities",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/!(*.esm.js)"
+        ]
+      }
+    ]
+  }
 }

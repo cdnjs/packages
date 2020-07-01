@@ -1,6 +1,5 @@
 {
   "name": "github-calendar",
-  "version": "2.1.1",
   "filename": "github-calendar.min.js",
   "description": "Embed your GitHub contributions calendar anywhere.",
   "repository": {
@@ -14,13 +13,16 @@
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "MIT",
-  "npmName": "github-calendar",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "github-calendar",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

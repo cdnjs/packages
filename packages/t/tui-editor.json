@@ -1,6 +1,5 @@
 {
   "name": "tui-editor",
-  "version": "1.4.10",
   "filename": "tui-editor-Editor.min.js",
   "description": "GFM  Markdown Wysiwyg Editor - Productive and Extensible",
   "keywords": [
@@ -21,13 +20,16 @@
     "url": "https://github.com/nhnent/tui.editor.git"
   },
   "license": "MIT",
-  "npmName": "tui-editor",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "tui-editor",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

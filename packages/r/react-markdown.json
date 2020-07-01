@@ -1,6 +1,5 @@
 {
   "name": "react-markdown",
-  "version": "4.3.1",
   "filename": "react-markdown.js",
   "description": "Renders Markdown as React components",
   "homepage": "https://rexxars.github.io/react-markdown/",
@@ -16,13 +15,16 @@
     "react",
     "react-component"
   ],
-  "npmName": "react-markdown",
-  "npmFileMap": [
-    {
-      "basePath": "umd",
-      "files": [
-        "react-markdown*.!(jsnap)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-markdown",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "react-markdown*.!(jsnap)"
+        ]
+      }
+    ]
+  }
 }

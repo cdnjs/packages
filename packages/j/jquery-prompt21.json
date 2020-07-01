@@ -1,6 +1,5 @@
 {
   "name": "jquery-prompt21",
-  "version": "1.1.1",
   "description": "A minimalist jQuery prompt plugin for the 21st Century.",
   "repository": {
     "type": "git",
@@ -12,14 +11,17 @@
   ],
   "author": "jillix <contact@jillix.com>",
   "license": "MIT",
-  "npmName": "jquery-prompt21",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "*"
-      ]
-    }
-  ],
-  "filename": "jquery-prompt21.min.js"
+  "filename": "jquery-prompt21.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-prompt21",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  }
 }

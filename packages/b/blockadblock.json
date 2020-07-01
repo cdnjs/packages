@@ -1,6 +1,5 @@
 {
   "name": "blockadblock",
-  "version": "3.2.1",
   "filename": "blockadblock.min.js",
   "description": "Detects ad blockers (AdBlock, ...)",
   "author": {
@@ -23,13 +22,16 @@
     "type": "git",
     "url": "git://github.com/sitexw/BlockAdBlock.git"
   },
-  "npmName": "blockadblock",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "blockadblock*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "blockadblock",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "blockadblock*.js"
+        ]
+      }
+    ]
+  }
 }

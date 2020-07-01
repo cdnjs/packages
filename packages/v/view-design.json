@@ -20,14 +20,17 @@
     "type": "git",
     "url": "git+https://github.com/view-design/ViewUI.git"
   },
-  "npmName": "view-design",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "iview.min.js"
+  "filename": "iview.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "view-design",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

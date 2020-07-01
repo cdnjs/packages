@@ -2,7 +2,6 @@
   "name": "jquery.selectbox",
   "filename": "jquery.selectBox.min.js",
   "description": "A styleable replacement for SELECT elements.",
-  "version": "1.2.0",
   "keywords": [
     "select",
     "jQuery select",

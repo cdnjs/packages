@@ -1,7 +1,6 @@
 {
   "name": "pickout",
   "filename": "pickout.min.js",
-  "version": "2.0.1",
   "description": "Cool efect for field select on form",
   "repository": {
     "type": "git",
@@ -20,13 +19,16 @@
     "url": "http://ktquez.com"
   },
   "license": "MIT",
-  "npmName": "pickout",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "pickout",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

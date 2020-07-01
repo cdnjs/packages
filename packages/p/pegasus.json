@@ -1,7 +1,6 @@
 {
   "name": "pegasus",
   "filename": "pegasus.min.js",
-  "version": "0.3.5",
   "description": "Load data while still loading other scripts, works with jQuery, Backbone, Angular...",
   "repository": {
     "type": "git",
@@ -26,13 +25,16 @@
   ],
   "author": "Typicode <typicode@gmail.com>",
   "license": "MIT",
-  "npmName": "@typicode/pegasus",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@typicode/pegasus",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

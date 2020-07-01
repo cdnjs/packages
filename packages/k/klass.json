@@ -1,7 +1,6 @@
 {
   "name": "klass",
   "filename": "klass.min.js",
-  "version": "1.4.1",
   "description": "Class provider with classical inheritance interface",
   "homepage": "http://dustindiaz.com/klass",
   "keywords": [
@@ -11,16 +10,19 @@
     "type": "git",
     "url": "https://github.com/ded/klass.git"
   },
-  "npmName": "klass",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "klass.js",
-        "klass.min.js"
-      ]
-    }
-  ],
   "author": "Dustin Diaz <polvero@gmail.com> (http://dustindiaz.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "klass",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "klass.js",
+          "klass.min.js"
+        ]
+      }
+    ]
+  }
 }

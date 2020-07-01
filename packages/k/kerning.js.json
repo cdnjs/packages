@@ -1,7 +1,6 @@
 {
   "name": "kerning.js",
   "filename": "kerning.min.js",
-  "version": "0.2",
   "description": "Take control of your web typography.",
   "homepage": "http://kerningjs.com/",
   "keywords": [

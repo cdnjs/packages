@@ -1,7 +1,6 @@
 {
   "name": "allow-me",
   "filename": "allowMe.min.js",
-  "version": "0.1.1",
   "description": "Visual aid for your users in giving you browser's permission such as cam or mic",
   "repository": {
     "type": "git",
@@ -12,14 +11,17 @@
   ],
   "author": "Steve Ng",
   "license": "MIT",
-  "npmName": "allow-me",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js",
-        "*.css"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "allow-me",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*.css"
+        ]
+      }
+    ]
+  }
 }

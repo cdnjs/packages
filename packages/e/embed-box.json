@@ -1,6 +1,5 @@
 {
   "name": "embed-box",
-  "version": "2.0.3",
   "filename": "embed-box.min.js",
   "license": "MIT",
   "author": "Eager",
@@ -10,19 +9,22 @@
     "type": "git",
     "url": "git://github.com/EagerIO/EmbedBox.git"
   },
-  "npmName": "embed-box",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "keywords": [
     "UI",
     "embed",
     "CMD",
     "plugin"
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "embed-box",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

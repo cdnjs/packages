@@ -1,7 +1,6 @@
 {
   "filename": "snap.svg-min.js",
   "name": "snap.svg",
-  "version": "0.5.1",
   "description": "JavaScript Vector Library",
   "keywords": [
     "vector",

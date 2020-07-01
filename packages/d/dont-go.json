@@ -1,7 +1,6 @@
 {
   "name": "dont-go",
   "filename": "dont-go.umd.js",
-  "version": "1.1.1",
   "description": "Client-side library to change the title and/or favicon of the page when it is inactive",
   "author": "Tiaan <tiaanduplessis@hotmail.com>",
   "license": "MIT",
@@ -19,13 +18,16 @@
     "type": "git",
     "url": "https://github.com/mightyCrow/dont-go.git"
   },
-  "npmName": "dont-go",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "dont-go*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "dont-go",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "dont-go*"
+        ]
+      }
+    ]
+  }
 }

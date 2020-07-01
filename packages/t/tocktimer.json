@@ -1,7 +1,6 @@
 {
   "name": "tocktimer",
   "filename": "tock.min.js",
-  "version": "1.0.12",
   "description": "timer object/class. kickass!",
   "repository": {
     "type": "git",
@@ -14,13 +13,16 @@
   ],
   "author": "Mr Chimp <chimpytk@gmail.com>",
   "license": "MIT",
-  "npmName": "tocktimer",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "tock*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "tocktimer",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "tock*"
+        ]
+      }
+    ]
+  }
 }

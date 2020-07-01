@@ -1,7 +1,6 @@
 {
   "name": "json-formatter",
   "filename": "json-formatter.min.js",
-  "version": "0.7.0",
   "description": "Angular Publishable Directive Boilerplate",
   "author": "Mohsen Azimi",
   "license": "Apache-2.0",
@@ -14,13 +13,16 @@
     "angular",
     "directive"
   ],
-  "npmName": "jsonformatter",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jsonformatter",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

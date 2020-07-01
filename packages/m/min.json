@@ -1,7 +1,6 @@
 {
   "name": "min",
   "filename": "entireframework.min.css",
-  "version": "1.5.0",
   "authors": [
     "Owen Versteeg <me@owenversteeg.com>",
     "Scott O'Hara"

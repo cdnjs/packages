@@ -2,7 +2,6 @@
   "name": "ng-bs-daterangepicker",
   "filename": "ng-bs-daterangepicker.min.js",
   "description": "AngularJS directive for bootstrap-daterangepicker",
-  "version": "0.0.6",
   "author": {
     "name": "Luis Farzati",
     "email": "lfarzati@gmail.com",

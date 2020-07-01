@@ -1,6 +1,5 @@
 {
   "name": "vue-bootstrap-datetimepicker",
-  "version": "5.0.1",
   "filename": "vue-bootstrap-datetimepicker.min.js",
   "description": "Vue.js component for bootstrap-datetimepicker",
   "repository": {
@@ -17,13 +16,16 @@
   ],
   "author": "ankurk91",
   "license": "MIT",
-  "npmName": "vue-bootstrap-datetimepicker",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-bootstrap-datetimepicker",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

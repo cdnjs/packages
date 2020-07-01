@@ -2,7 +2,6 @@
   "name": "evil.js",
   "title": "evil.js",
   "filename": "evil.min.js",
-  "version": "42",
   "description": "A JavaScript library for thwarting hotlinkers.",
   "homepage": "http://kitcambridge.be/evil.js/",
   "keywords": [

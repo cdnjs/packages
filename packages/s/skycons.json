@@ -1,7 +1,6 @@
 {
   "name": "skycons",
   "filename": "skycons.min.js",
-  "version": "1396634940",
   "description": "A public domain library of animated weather icons rendered using javascript",
   "keywords": [
     "weather",

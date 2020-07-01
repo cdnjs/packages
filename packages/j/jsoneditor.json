@@ -1,7 +1,6 @@
 {
   "name": "jsoneditor",
   "filename": "jsoneditor.min.js",
-  "version": "9.0.0",
   "description": "A web-based tool to view, edit, format, and validate JSON",
   "homepage": "http://jsoneditoronline.org",
   "keywords": [
@@ -20,14 +19,17 @@
     "type": "git",
     "url": "git://github.com/josdejong/jsoneditor.git"
   },
-  "npmName": "jsoneditor",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.!(md)"
-      ]
-    }
-  ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jsoneditor",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.!(md)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "ngmodeloptions",
   "filename": "ngModelOptions.min.js",
-  "version": "1.0.1",
   "description": "ngModelOptions for AngularJS 1.2",
   "repository": {
     "type": "git",
@@ -15,13 +14,16 @@
   ],
   "author": "Fergal Doyle",
   "license": "MIT",
-  "npmName": "ngmodeloptions",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "ngModelOptions*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ngmodeloptions",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "ngModelOptions*"
+        ]
+      }
+    ]
+  }
 }

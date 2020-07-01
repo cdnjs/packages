@@ -1,6 +1,5 @@
 {
   "name": "react-highcharts",
-  "version": "16.1.0",
   "description": "React wrapper for highcharts",
   "author": {
     "name": "Kirill Cherkashin"
@@ -17,13 +16,16 @@
     "highcharts",
     "graph"
   ],
-  "npmName": "react-highcharts",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-highcharts",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

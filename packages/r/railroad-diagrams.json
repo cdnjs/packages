@@ -15,14 +15,17 @@
     "type": "git",
     "url": "https://github.com/tabatkins/railroad-diagrams.git"
   },
-  "npmName": "railroad-diagrams",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "railroad-diagrams.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "railroad-diagrams.js"
+  "filename": "railroad-diagrams.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "railroad-diagrams",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "railroad-diagrams.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

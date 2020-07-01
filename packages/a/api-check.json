@@ -1,6 +1,5 @@
 {
   "name": "api-check",
-  "version": "7.5.5",
   "description": "Validate the api to your functions to help people use them correctly. This is pretty much React's propTypes without React.",
   "repository": {
     "type": "git",
@@ -14,14 +13,17 @@
   ],
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kent.doddsfamily.us)",
   "license": "MIT",
-  "npmName": "api-check",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*"
-      ]
-    }
-  ],
-  "filename": "api-check.min.js"
+  "filename": "api-check.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "api-check",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  }
 }

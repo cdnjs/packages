@@ -1,6 +1,5 @@
 {
   "name": "zoomove",
-  "version": "1.3.0",
   "description": "Enlarges the image with the mouse hover and move",
   "title": "ZooMove",
   "filename": "zoomove.min.js",
@@ -25,13 +24,16 @@
     "img",
     "imagem"
   ],
-  "npmName": "zoomove",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "zoomove",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

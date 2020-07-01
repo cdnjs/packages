@@ -1,7 +1,6 @@
 {
   "name": "ant-design-pro",
   "filename": "ant-design-pro.min.js",
-  "version": "2.3.2",
   "description": "An enterprise-class UI design language and React-based implementation",
   "license": "MIT",
   "author": "afc163 <afc163@gmail.com>",
@@ -22,13 +21,16 @@
     "admin-dashboard"
   ],
   "homepage": "https://pro.ant.design",
-  "npmName": "ant-design-pro",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.less)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ant-design-pro",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.less)"
+        ]
+      }
+    ]
+  }
 }

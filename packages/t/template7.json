@@ -1,7 +1,6 @@
 {
   "name": "template7",
   "filename": "template7.min.js",
-  "version": "1.4.1",
   "description": "Mobile-first HTML template engine",
   "repository": {
     "type": "git",

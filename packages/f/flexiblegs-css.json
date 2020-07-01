@@ -1,6 +1,5 @@
 {
   "name": "flexiblegs-css",
-  "version": "5.6.0",
   "filename": "flexiblegs-css.min.css",
   "homepage": "http://flexible.gs",
   "description": "Flexible Grid System CSS",
@@ -19,13 +18,16 @@
     "type": "git",
     "url": "git+https://github.com/flexiblegs/flexiblegs-css.git"
   },
-  "npmName": "flexiblegs-css",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "flexiblegs*.+(css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "flexiblegs-css",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "flexiblegs*.+(css|map)"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "zingtouch",
   "filename": "zingtouch.min.js",
-  "version": "1.0.6",
   "description": "A modern JavaScript touch gesture library",
   "repository": {
     "type": "git",
@@ -15,13 +14,16 @@
   "author": "ZingChart",
   "license": "MIT",
   "homepage": "https://zingchart.github.io/zingtouch/",
-  "npmName": "zingtouch",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "zingtouch",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

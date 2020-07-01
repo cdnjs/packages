@@ -18,14 +18,17 @@
     "type": "git",
     "url": "git+ssh://git@github.com/krasimir/navigo.git"
   },
-  "npmName": "navigo",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "navigo.min.js"
+  "filename": "navigo.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "navigo",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

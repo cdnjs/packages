@@ -1,6 +1,5 @@
 {
   "name": "suncalc",
-  "version": "1.8.0",
   "description": "A tiny JavaScript library for calculating sun/moon positions and phases.",
   "keywords": [
     "sun",
@@ -20,13 +19,16 @@
   },
   "filename": "suncalc.min.js",
   "license": "BSD-2-Clause",
-  "npmName": "suncalc",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "suncalc*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "suncalc",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "suncalc*.js"
+        ]
+      }
+    ]
+  }
 }

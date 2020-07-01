@@ -1,7 +1,6 @@
 {
   "name": "gumby",
   "filename": "css/gumby.min.css",
-  "version": "2.6.4",
   "description": "A Flexible, Responsive CSS Framework.",
   "homepage": "http://gumbyframework.com/",
   "keywords": [

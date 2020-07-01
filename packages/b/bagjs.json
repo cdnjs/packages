@@ -1,7 +1,6 @@
 {
   "name": "bagjs",
   "filename": "bag.min.js",
-  "version": "3.0.0",
   "description": "JS / CSS / resources loader with cache in IndexedDB/Websql/localStorage + key/value storage",
   "keywords": [
     "loader",
@@ -17,13 +16,16 @@
     "url": "git://github.com/nodeca/bag.js.git"
   },
   "license": "MIT",
-  "npmName": "bagjs",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "bag*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "bagjs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "bag*"
+        ]
+      }
+    ]
+  }
 }

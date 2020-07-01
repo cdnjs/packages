@@ -1,7 +1,6 @@
 {
   "name": "schedulejs",
   "filename": "schedule.min.js",
-  "version": "0.6.3",
   "description": "Schedule tasks, meetings, appointments, etc",
   "keywords": [
     "schedule",
@@ -17,13 +16,16 @@
   },
   "license": "MIT",
   "homepage": "https://bunkat.github.io/schedule/",
-  "npmName": "schedulejs",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "schedule*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "schedulejs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "schedule*"
+        ]
+      }
+    ]
+  }
 }

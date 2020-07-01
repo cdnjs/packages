@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/ai/nanoid.git"
   },
-  "npmName": "nanoid",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "{,async/,non-secure/}*.@(js|ts)"
-      ]
-    }
-  ],
-  "filename": "index.browser.js"
+  "filename": "index.browser.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "nanoid",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "{,async/,non-secure/}*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

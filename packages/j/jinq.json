@@ -1,7 +1,6 @@
 {
   "name": "jinq",
   "filename": "jinqjs.min.js",
-  "version": "1.6.1",
   "author": {
     "name": "Thomas Ford",
     "email": "tomspostoffice@yahoo.com"
@@ -21,13 +20,16 @@
     "type": "git",
     "url": "git+https://github.com/fordth/jinqJs.git"
   },
-  "npmName": "jinq",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jinqjs*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jinq",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jinqjs*.js"
+        ]
+      }
+    ]
+  }
 }

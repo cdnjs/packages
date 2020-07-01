@@ -25,15 +25,6 @@
     "require",
     "basket"
   ],
-  "npmName": "qoopido.demand",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/dlueth/qoopido.demand"
@@ -42,5 +33,16 @@
     "MIT",
     "deprecated_GPL-3.0+"
   ],
-  "version": "6.0.2"
+  "autoupdate": {
+    "source": "npm",
+    "target": "qoopido.demand",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

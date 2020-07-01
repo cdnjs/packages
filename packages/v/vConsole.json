@@ -1,6 +1,5 @@
 {
   "name": "vConsole",
-  "version": "3.3.4",
   "filename": "vconsole.min.js",
   "description": "A lightweight, extendable front-end developer tool for mobile web page.",
   "keywords": [
@@ -16,13 +15,16 @@
   },
   "author": "Tencent",
   "license": "MIT",
-  "npmName": "vconsole",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vconsole",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

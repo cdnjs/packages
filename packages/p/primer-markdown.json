@@ -18,14 +18,16 @@
     "stylesheets",
     "md"
   ],
-  "npmName": "primer-markdown",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "version": "3.7.3"
+  "autoupdate": {
+    "source": "npm",
+    "target": "primer-markdown",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

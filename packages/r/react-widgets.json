@@ -1,7 +1,6 @@
 {
   "name": "react-widgets",
   "description": "An à la carte set of polished, extensible, and accessible inputs built for React",
-  "version": "4.5.0",
   "filename": "react-widgets.js",
   "author": {
     "name": "Jason",
@@ -31,13 +30,16 @@
     "type": "git",
     "url": "https://github.com/jquense/react-widgets"
   },
-  "npmName": "react-widgets",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-widgets",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "slippry",
   "filename": "slippry.min.js",
-  "version": "1.4.0",
   "description": "Responsive slider plugin for jQuery. Intrinsic trick to enable responsive resizing without js.",
   "keywords": [
     "jQuery",

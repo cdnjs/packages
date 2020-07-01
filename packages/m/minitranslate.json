@@ -1,7 +1,6 @@
 {
   "name": "minitranslate",
   "filename": "minitranslate.min.js",
-  "version": "1.2.0",
   "description": "A lightweight way to change words into other words.",
   "homepage": "http://bryce.io/minitranslate",
   "repository": {
@@ -14,14 +13,17 @@
     "translator",
     "minitranslate"
   ],
-  "npmName": "minitranslate",
-  "npmFileMap": [
-    {
-      "basePath": "js",
-      "files": [
-        "/minitranslate.js",
-        "/minitranslate.min.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "minitranslate",
+    "fileMap": [
+      {
+        "basePath": "js",
+        "files": [
+          "/minitranslate.js",
+          "/minitranslate.min.js"
+        ]
+      }
+    ]
+  }
 }

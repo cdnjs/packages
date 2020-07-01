@@ -1,7 +1,6 @@
 {
   "name": "geolocator",
   "filename": "geolocator.min.js",
-  "version": "2.1.5",
   "description": "A utility for getting geo-location information via HTML5 and IP look-ups, geocoding, address look-ups, distance and durations, timezone information and more...",
   "repository": {
     "type": "git",
@@ -37,13 +36,16 @@
     "name": "Onur Yıldırım",
     "email": "onur@cutepilot.com"
   },
-  "npmName": "geolocator",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "geolocator",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "visibly.js",
   "filename": "visibly.min.js",
-  "version": "0.1.1",
   "description": "A cross-browser Page Visibility API shim",
   "repository": {
     "type": "git",
@@ -18,13 +17,16 @@
     "url": "addyosmani.com"
   },
   "license": "MIT",
-  "npmName": "visibly.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "visibly*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "visibly.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "visibly*"
+        ]
+      }
+    ]
+  }
 }

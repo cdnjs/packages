@@ -1,7 +1,6 @@
 {
   "name": "heatcanvas",
   "filename": "heatcanvas.min.js",
-  "version": "1.2.3",
   "description": "Simple heatmap api based on HTML5 canvas.",
   "author": "Ning Sun",
   "license": "MIT",

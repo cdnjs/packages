@@ -1,6 +1,5 @@
 {
   "name": "simditor",
-  "version": "2.3.28",
   "filename": "lib/simditor.min.js",
   "description": "A simple online editor",
   "keywords": [
@@ -15,13 +14,16 @@
   "author": "farthinker <farthinker@gmail.com>",
   "license": "MIT",
   "homepage": "http://simditor.tower.im",
-  "npmName": "simditor",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "+(lib|styles)/simditor*.+(css|js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "simditor",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "+(lib|styles)/simditor*.+(css|js|map)"
+        ]
+      }
+    ]
+  }
 }

@@ -21,18 +21,20 @@
     "script",
     "lightweight"
   ],
-  "npmName": "qoopido.nucleus",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/dlueth/qoopido.nucleus"
   },
-  "version": "3.2.4"
+  "autoupdate": {
+    "source": "npm",
+    "target": "qoopido.nucleus",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

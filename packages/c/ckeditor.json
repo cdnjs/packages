@@ -13,14 +13,17 @@
   },
   "license": "MPL-1.1",
   "author": "CKSource (http://cksource.com/)",
-  "npmName": "ckeditor4",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "+(adapters|skins|plugins|lang)/**/*.+(js|css|png|gif|map|jpg)",
-        "+(build-config|ckeditor|config|contents|styles).+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ckeditor4",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "+(adapters|skins|plugins|lang)/**/*.+(js|css|png|gif|map|jpg)",
+          "+(build-config|ckeditor|config|contents|styles).+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

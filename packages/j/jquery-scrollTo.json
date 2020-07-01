@@ -1,7 +1,6 @@
 {
   "name": "jquery-scrollTo",
   "filename": "jquery.scrollTo.min.js",
-  "version": "2.1.2",
   "description": "Lightweight, cross-browser and highly customizable animated scrolling with jQuery",
   "keywords": [
     "browser",

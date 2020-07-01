@@ -1,7 +1,6 @@
 {
   "name": "Colors.js",
   "filename": "colors.min.js",
-  "version": "1.2.4",
   "description": "A simple color manipulation javascript library.",
   "homepage": "http://matthewbjordan.me/Colors/",
   "keywords": [
@@ -11,17 +10,20 @@
   ],
   "author": "Matt Jordan",
   "license": "MIT",
-  "npmName": "colors.js",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "*.min.js"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/mbjordan/Colors"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "colors.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.min.js"
+        ]
+      }
+    ]
   }
 }

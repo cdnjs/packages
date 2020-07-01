@@ -1,7 +1,6 @@
 {
   "name": "please-wait",
   "filename": "please-wait.min.js",
-  "version": "0.0.5",
   "author": {
     "name": "Pathgather",
     "email": "tech@pathgather.com"
@@ -21,13 +20,16 @@
     "url": "git://github.com/Pathgather/please-wait.git"
   },
   "license": "MIT",
-  "npmName": "please-wait",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "please-wait",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -24,14 +24,17 @@
     "type": "git",
     "url": "git+https://github.com/Tencent/omi.git"
   },
-  "npmName": "omi",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|ts|map)"
-      ]
-    }
-  ],
-  "filename": "omi.min.js"
+  "filename": "omi.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "omi",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|ts|map)"
+        ]
+      }
+    ]
+  }
 }

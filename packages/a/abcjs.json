@@ -1,7 +1,6 @@
 {
   "name": "abcjs",
   "filename": "abcjs_basic-min.js",
-  "version": "3.1.1",
   "description": "javascript for rendering abc music notation",
   "repository": {
     "type": "git",

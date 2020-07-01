@@ -17,14 +17,17 @@
     "type": "git",
     "url": "git+https://github.com/iFgR/vue-shortkey.git"
   },
-  "npmName": "vue-shortkey",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "index.js"
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-shortkey",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

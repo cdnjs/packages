@@ -1,6 +1,5 @@
 {
   "name": "eventproxy",
-  "version": "1.0.0",
   "filename": "eventproxy.min.js",
   "description": "An implementation of task/event based asynchronous pattern.",
   "keywords": [
@@ -17,14 +16,17 @@
     "type": "git",
     "url": "git://github.com/JacksonTian/eventproxy.git"
   },
-  "npmName": "eventproxy",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "eventproxy*"
-      ]
-    }
-  ],
-  "license": "MIT"
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "eventproxy",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "eventproxy*"
+        ]
+      }
+    ]
+  }
 }

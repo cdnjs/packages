@@ -1,7 +1,6 @@
 {
   "name": "console.js",
   "filename": "console.min.js",
-  "version": "0.0.2",
   "description": "A sane way to interface with your browser console and use the latest features.",
   "repository": {
     "type": "git",

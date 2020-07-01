@@ -1,7 +1,6 @@
 {
   "name": "headroom",
   "filename": "headroom.min.js",
-  "version": "0.11.0",
   "description": "Give your page some headroom. Hide your header until you need it",
   "repository": {
     "type": "git",
@@ -16,13 +15,16 @@
   "author": "Nick Williams",
   "homepage": "http://wicky.nillia.ms/headroom.js",
   "license": "MIT",
-  "npmName": "headroom.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "headroom.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

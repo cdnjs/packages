@@ -17,14 +17,17 @@
     "type": "git",
     "url": "git+https://github.com/tgomilar/paroller.js.git"
   },
-  "npmName": "paroller.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "jquery.paroller.min.js"
+  "filename": "jquery.paroller.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "paroller.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

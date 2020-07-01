@@ -1,7 +1,6 @@
 {
   "name": "x18n",
   "filename": "x18n.min.js",
-  "version": "2.0.3",
   "description": "A JavaScript internationalisation library",
   "license": "MIT",
   "repository": {
@@ -14,13 +13,16 @@
     "pluralisation",
     "translate"
   ],
-  "npmName": "x18n",
-  "npmFileMap": [
-    {
-      "basePath": "lib",
-      "files": [
-        "x18n*.!(coffee)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "x18n",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "x18n*.!(coffee)"
+        ]
+      }
+    ]
+  }
 }

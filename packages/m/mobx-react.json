@@ -1,7 +1,6 @@
 {
   "name": "mobx-react",
   "filename": "index.min.js",
-  "version": "5.4.4",
   "description": "React bindings for MobX. Create fully reactive components.",
   "repository": {
     "type": "git",
@@ -18,13 +17,16 @@
     "reactjs",
     "reactive"
   ],
-  "npmName": "mobx-react",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "+(index|custom|native).+(js|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "mobx-react",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "+(index|custom|native).+(js|map)"
+        ]
+      }
+    ]
+  }
 }

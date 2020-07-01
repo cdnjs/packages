@@ -1,7 +1,6 @@
 {
   "name": "stackblur-canvas",
   "filename": "stackblur.min.js",
-  "version": "2.3.0",
   "description": "Fast and almost Gaussian blur by Mario Klingemann",
   "repository": {
     "type": "git",
@@ -15,13 +14,16 @@
   ],
   "author": "Mario Klingemann",
   "license": "MIT",
-  "npmName": "stackblur-canvas",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "stackblur-canvas",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

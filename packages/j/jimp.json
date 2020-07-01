@@ -20,19 +20,22 @@
     "type": "git",
     "url": "https://github.com/oliver-moran/jimp.git"
   },
-  "npmName": "jimp",
-  "npmFileMap": [
-    {
-      "basePath": "browser/lib",
-      "files": [
-        "**/*"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "jimp.+(js|min|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jimp",
+    "fileMap": [
+      {
+        "basePath": "browser/lib",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "jimp.+(js|min|map)"
+        ]
+      }
+    ]
+  }
 }

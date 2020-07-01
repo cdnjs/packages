@@ -1,7 +1,6 @@
 {
   "name": "videojs-vast-vpaid",
   "filename": "videojs_5.vast.vpaid.min.js",
-  "version": "2.0.2",
   "description": "VAST plugin to use with video.js",
   "repository": {
     "type": "git",
@@ -19,16 +18,19 @@
     "iab"
   ],
   "license": "MIT",
-  "npmName": "videojs-vast-vpaid",
-  "npmFileMap": [
-    {
-      "basePath": "bin",
-      "files": [
-        "videojs*",
-        "*.swf",
-        "ie8fix*"
-      ]
-    }
-  ],
-  "author": "Carlos Serrano <carlos.pastor@mailonline.co.uk>"
+  "author": "Carlos Serrano <carlos.pastor@mailonline.co.uk>",
+  "autoupdate": {
+    "source": "npm",
+    "target": "videojs-vast-vpaid",
+    "fileMap": [
+      {
+        "basePath": "bin",
+        "files": [
+          "videojs*",
+          "*.swf",
+          "ie8fix*"
+        ]
+      }
+    ]
+  }
 }

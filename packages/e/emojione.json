@@ -2,7 +2,6 @@
   "name": "emojione",
   "title": "emojione",
   "filename": "js/emojione.min.js",
-  "version": "2.2.7",
   "description": "Emoji One is a complete set of emojis designed for the web. It includes libraries to easily convert unicode characters to shortnames (:smile:) and shortnames to our custom emoji images. PNG and SVG formats provided for the emoji images.",
   "homepage": "https://www.emojione.com",
   "keywords": [

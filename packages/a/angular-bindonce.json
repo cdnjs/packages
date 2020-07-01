@@ -1,7 +1,6 @@
 {
   "name": "angular-bindonce",
   "filename": "bindonce.min.js",
-  "version": "0.3.3",
   "description": "Zero watchers binding directives for AngularJS",
   "author": "Pasquale Vazzana <pasqualevazzana@gmail.com>",
   "repository": {

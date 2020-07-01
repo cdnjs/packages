@@ -1,7 +1,6 @@
 {
   "name": "jquery.ime",
   "filename": "jquery.ime.min.js",
-  "version": "0.2.0",
   "description": "jQuery based internationalization library",
   "keywords": [
     "internationalization",

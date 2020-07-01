@@ -1,7 +1,6 @@
 {
   "name": "aurora.js",
   "description": "Audio decoding framework",
-  "version": "0.4.2",
   "filename": "aurora.min.js",
   "author": {
     "name": "Audiocogs",

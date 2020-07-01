@@ -1,6 +1,5 @@
 {
   "name": "burger",
-  "version": "2.0.2",
   "filename": "scripts/burger.min.js",
   "description": "Burger is a minimal hamburger menu with fullscreen navigation.",
   "author": "Matthew Blode",

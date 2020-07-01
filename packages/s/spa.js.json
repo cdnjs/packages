@@ -1,7 +1,6 @@
 {
   "name": "spa.js",
   "title": "SPA",
-  "version": "2.0.6",
   "description": "A webapp framework for routing control and view transitions",
   "repository": {
     "type": "git",
@@ -14,15 +13,6 @@
     "framework"
   ],
   "license": "MIT",
-  "npmName": "spa.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "filename": "spa.min.js",
   "authors": [
     {
@@ -35,5 +25,17 @@
       "email": "lin-chao@foxmail.com",
       "url": "http://linchao.info"
     }
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "spa.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

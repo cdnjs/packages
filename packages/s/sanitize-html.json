@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/apostrophecms/sanitize-html.git"
   },
-  "npmName": "sanitize-html",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "sanitize-html.min.js"
+  "filename": "sanitize-html.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "sanitize-html",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

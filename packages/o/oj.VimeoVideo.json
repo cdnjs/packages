@@ -1,6 +1,5 @@
 {
   "name": "oj.VimeoVideo",
-  "version": "0.0.6",
   "description": "Vimeo Video plugin for OJ",
   "homepage": "http://ojjs.org/docs#VimeoVideo",
   "keywords": [

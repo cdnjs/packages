@@ -21,7 +21,6 @@
   },
   "license": "MIT",
   "filename": "backbone.epoxy.min.js",
-  "version": "1.3.1",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/gmac/backbone.epoxy.git",

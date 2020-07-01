@@ -1,7 +1,6 @@
 {
   "name": "zensh-ui-autocomplete",
   "filename": "autocomplete.min.js",
-  "version": "0.6.1",
   "description": "AngularJS Autocomplete, wrapper for the jQuery UI Autocomplete Widget!",
   "keywords": [
     "AngularJS",

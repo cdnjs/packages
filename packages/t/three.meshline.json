@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/spite/THREE.MeshLine.git"
   },
-  "npmName": "three.meshline",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "THREE.MeshLine.js"
+  "filename": "THREE.MeshLine.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "three.meshline",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

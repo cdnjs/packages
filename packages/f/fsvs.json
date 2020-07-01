@@ -1,6 +1,5 @@
 {
   "name": "fsvs",
-  "version": "1.2.2",
   "description": "Full Screen Vertical Scroll",
   "filename": "js/bundle.min.js",
   "repository": {

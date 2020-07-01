@@ -16,19 +16,22 @@
     "type": "git",
     "url": "https://github.com/matthojo/videojs-Background.git"
   },
-  "npmName": "videojs-background",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "lib/**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "videojs-background",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "lib/**/*"
+        ]
+      }
+    ]
+  }
 }

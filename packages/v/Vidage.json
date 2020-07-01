@@ -1,6 +1,5 @@
 {
   "name": "Vidage",
-  "version": "0.5.1",
   "filename": "vidage.js",
   "description": "Your solution to full-screen background video and image combined.",
   "repository": {
@@ -17,13 +16,16 @@
   ],
   "author": "dvL-den",
   "license": "MIT",
-  "npmName": "vidage",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vidage",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

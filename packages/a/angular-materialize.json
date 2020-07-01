@@ -2,7 +2,6 @@
   "name": "angular-materialize",
   "description": "Angularjs directives for Materialize CSS Framework",
   "author": "@krescruz",
-  "version": "0.2.2",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -14,15 +13,18 @@
     "material",
     "framework"
   ],
-  "npmName": "angular-materialize",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "angular-materialize.js",
-        "angular-materialize.min.js"
-      ]
-    }
-  ],
-  "filename": "angular-materialize.min.js"
+  "filename": "angular-materialize.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-materialize",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "angular-materialize.js",
+          "angular-materialize.min.js"
+        ]
+      }
+    ]
+  }
 }

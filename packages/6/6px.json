@@ -1,7 +1,6 @@
 {
   "name": "6px",
   "filename": "6px.min.js",
-  "version": "1.0.3",
   "description": "Javascript client for 6px",
   "repository": {
     "type": "git",

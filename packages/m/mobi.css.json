@@ -1,7 +1,6 @@
 {
   "name": "mobi.css",
   "filename": "mobi.min.css",
-  "version": "3.1.1",
   "description": "A lightweight, flexible css framework that focus on mobile.",
   "repository": {
     "type": "git",
@@ -15,13 +14,16 @@
   "author": "xcatliu <xcatliu@gmail.com>",
   "license": "MIT",
   "homepage": "https://getmobicss.com",
-  "npmName": "mobi.css",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "mobi.css",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

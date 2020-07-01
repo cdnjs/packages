@@ -1,7 +1,6 @@
 {
   "name": "approvejs",
   "filename": "approve.min.js",
-  "version": "3.1.2",
   "description": "A simple JavaScript validation library that doesn't interfere.",
   "repository": {
     "type": "git",

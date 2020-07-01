@@ -1,7 +1,6 @@
 {
   "name": "jsencrypt",
   "filename": "jsencrypt.min.js",
-  "version": "2.3.1",
   "description": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
   "author": {
     "name": "Travis Tidwell",
@@ -19,13 +18,16 @@
     "type": "git",
     "url": "git://github.com/travist/jsencrypt.git"
   },
-  "npmName": "jsencrypt",
-  "npmFileMap": [
-    {
-      "basePath": "bin",
-      "files": [
-        "jsencrypt*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jsencrypt",
+    "fileMap": [
+      {
+        "basePath": "bin",
+        "files": [
+          "jsencrypt*.js"
+        ]
+      }
+    ]
+  }
 }

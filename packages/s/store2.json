@@ -1,6 +1,5 @@
 {
   "name": "store2",
-  "version": "2.11.2",
   "filename": "store2.min.js",
   "description": "Better localStorage",
   "keywords": [
@@ -20,13 +19,16 @@
     "url": "http://github.com/nbubna/store.git"
   },
   "license": "MIT",
-  "npmName": "store2",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(app.js)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "store2",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(app.js)"
+        ]
+      }
+    ]
+  }
 }

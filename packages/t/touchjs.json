@@ -1,6 +1,5 @@
 {
   "name": "touchjs",
-  "version": "0.2.14",
   "description": "clouda event and gesture lib touch.js",
   "filename": "touch.min.js",
   "repository": {

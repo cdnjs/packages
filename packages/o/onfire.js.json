@@ -1,7 +1,6 @@
 {
   "name": "onfire.js",
   "filename": "onfire.min.js",
-  "version": "1.0.6",
   "description": "onfire.js is a simple events dispatcher subscribe / publish library. aysnc, simple and usefull.",
   "author": {
     "name": "hustcc",
@@ -22,13 +21,16 @@
     "type": "git",
     "url": "git+https://github.com/hustcc/onfire.js.git"
   },
-  "npmName": "onfire.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "onfire.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

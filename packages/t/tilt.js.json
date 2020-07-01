@@ -1,6 +1,5 @@
 {
   "name": "tilt.js",
-  "version": "1.2.1",
   "description": "A tiny requestAnimationFrame powered 60+fps lightweight parallax tilt effect for jQuery.",
   "filename": "tilt.jquery.min.js",
   "repository": {
@@ -15,13 +14,16 @@
     "jQuery",
     "tilt"
   ],
-  "npmName": "tilt.js",
-  "npmFileMap": [
-    {
-      "basePath": "dest",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "tilt.js",
+    "fileMap": [
+      {
+        "basePath": "dest",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

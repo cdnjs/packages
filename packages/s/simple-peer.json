@@ -1,7 +1,6 @@
 {
   "name": "simple-peer",
   "description": "Simple one-to-one WebRTC video/voice and data channels",
-  "version": "9.7.0",
   "author": {
     "name": "Feross Aboukhadijeh",
     "email": "feross@feross.org",
@@ -27,13 +26,16 @@
     "type": "git",
     "url": "git://github.com/feross/simple-peer.git"
   },
-  "npmName": "simple-peer",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "simplepeer*.js"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "simple-peer",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "simplepeer*.js"
+        ]
+      }
+    ]
+  }
 }

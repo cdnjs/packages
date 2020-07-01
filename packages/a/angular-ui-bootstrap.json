@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/angular-ui/bootstrap.git"
   },
-  "npmName": "angular-ui-bootstrap",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "ui-bootstrap.js"
+  "filename": "ui-bootstrap.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "angular-ui-bootstrap",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

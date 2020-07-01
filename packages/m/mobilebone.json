@@ -1,6 +1,5 @@
 {
   "name": "mobilebone",
-  "version": "2.7.4",
   "filename": "mobilebone.min.js",
   "description": "Bone main for mobile web APP with a sigle page mode.",
   "repository": {
@@ -14,19 +13,22 @@
   ],
   "author": "zhangxinxu",
   "license": "MIT",
-  "npmName": "mobilebone",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "**/*mobilebone*"
-      ]
-    },
-    {
-      "basePath": "",
-      "files": [
-        "plugins/**/*.+(css|js|map|png|jpg|gif)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "mobilebone",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "**/*mobilebone*"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "plugins/**/*.+(css|js|map|png|jpg|gif)"
+        ]
+      }
+    ]
+  }
 }

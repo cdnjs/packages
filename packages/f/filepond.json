@@ -22,14 +22,17 @@
     "type": "git",
     "url": "git+https://github.com/pqina/filepond.git"
   },
-  "npmName": "filepond",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "filepond.min.js"
+  "filename": "filepond.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "filepond",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

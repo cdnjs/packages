@@ -1,6 +1,5 @@
 {
   "name": "inferno-hyperscript",
-  "version": "7.4.2",
   "filename": "inferno-hyperscript.min.js",
   "license": "MIT",
   "description": "Bridging hyperscript to InfernoJS",
@@ -18,13 +17,16 @@
     "type": "git",
     "url": "git+https://github.com/infernojs/inferno.git"
   },
-  "npmName": "inferno-hyperscript",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/inferno-hyperscript!(*.node)*.!(*ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "inferno-hyperscript",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/inferno-hyperscript!(*.node)*.!(*ts)"
+        ]
+      }
+    ]
+  }
 }

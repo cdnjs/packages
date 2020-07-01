@@ -1,7 +1,6 @@
 {
   "name": "react-nvd3",
   "description": "React nvd3 reusable graph components.",
-  "version": "0.5.7",
   "keywords": [
     "React",
     "D3",
@@ -21,13 +20,16 @@
   },
   "license": "MIT",
   "filename": "react-nvd3.min.js",
-  "npmName": "react-nvd3",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-nvd3",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "pnp-sp-addinhelpers",
   "filename": "sp-addinhelpers.es5.umd.min.js",
-  "version": "1.3.11",
   "description": "pnp - provides functionality for working within SharePoint add-ins",
   "keywords": [
     "patterns and practices",
@@ -11,19 +10,22 @@
     "spfx",
     "sharepoint framework"
   ],
-  "npmName": "@pnp/sp-addinhelpers",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.ts)"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/pnp/pnp"
   },
   "license": "MIT",
-  "author": "Microsoft and other contributors"
+  "author": "Microsoft and other contributors",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@pnp/sp-addinhelpers",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.ts)"
+        ]
+      }
+    ]
+  }
 }

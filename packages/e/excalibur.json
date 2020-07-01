@@ -16,14 +16,17 @@
     "type": "git",
     "url": "git://github.com/excaliburjs/Excalibur.git"
   },
-  "npmName": "excalibur",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*.@(js|css|ts|map)"
-      ]
-    }
-  ],
-  "filename": "excalibur.min.js"
+  "filename": "excalibur.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "excalibur",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css|ts|map)"
+        ]
+      }
+    ]
+  }
 }

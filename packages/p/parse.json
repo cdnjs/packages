@@ -1,7 +1,6 @@
 {
   "name": "parse",
   "filename": "parse.min.js",
-  "version": "2.13.0",
   "description": "The Parse JavaScript SDK",
   "homepage": "https://www.parse.com",
   "keywords": [
@@ -14,13 +13,16 @@
     "type": "git",
     "url": "https://github.com/ParsePlatform/Parse-SDK-JS"
   },
-  "npmName": "parse",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "parse",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

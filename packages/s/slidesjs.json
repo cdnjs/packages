@@ -1,7 +1,6 @@
 {
   "name": "slidesjs",
   "filename": "jquery.slides.min.js",
-  "version": "3.0",
   "description": "SlidesJS is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions.",
   "keywords": [
     "slides",

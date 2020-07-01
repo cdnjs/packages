@@ -13,14 +13,17 @@
     "type": "git",
     "url": "git://github.com/JMPerez/spotify-web-api-js.git"
   },
-  "npmName": "spotify-web-api-js",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "**/*.@(js|ts)"
-      ]
-    }
-  ],
-  "filename": "spotify-web-api.js"
+  "filename": "spotify-web-api.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "spotify-web-api-js",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "**/*.@(js|ts)"
+        ]
+      }
+    ]
+  }
 }

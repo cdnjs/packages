@@ -1,7 +1,6 @@
 {
   "name": "nod",
   "filename": "nod.min.js",
-  "version": "2.0.12",
   "description": "Frontend input validation",
   "repository": {
     "type": "git",
@@ -14,13 +13,16 @@
     "nod-validate"
   ],
   "homepage": "https://casperin.github.io/nod/",
-  "npmName": "nod-validate",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "nod*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "nod-validate",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "nod*"
+        ]
+      }
+    ]
+  }
 }

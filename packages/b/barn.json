@@ -1,7 +1,6 @@
 {
   "name": "barn",
   "filename": "barn.min.js",
-  "version": "0.2.3",
   "description": "Fast, atomic persistent storage layer on top of localstorage",
   "keywords": [
     "persistence",

@@ -1,7 +1,6 @@
 {
   "name": "jqvmap",
   "filename": "jquery.vmap.min.js",
-  "version": "1.5.1",
   "description": "jQuery Vector Map Library",
   "homepage": "http://jqvmap.com",
   "author": {
@@ -24,13 +23,16 @@
     "type": "git",
     "url": "git+https://github.com/manifestinteractive/jqvmap.git"
   },
-  "npmName": "jqvmap",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "jqvmap",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

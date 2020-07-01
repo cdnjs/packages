@@ -1,6 +1,5 @@
 {
   "name": "mindb",
-  "version": "0.2.2",
   "description": "Database on JavaScript",
   "filename": "min.js",
   "repository": {
@@ -16,13 +15,16 @@
   ],
   "author": "iwillwen",
   "license": "MIT",
-  "npmName": "min",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "min",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

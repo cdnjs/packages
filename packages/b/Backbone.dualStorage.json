@@ -1,6 +1,5 @@
 {
   "name": "Backbone.dualStorage",
-  "version": "1.4.1",
   "filename": "backbone.dualstorage.min.js",
   "authors": [
     "Edward Anderson <nilbus@nilbus.com>",

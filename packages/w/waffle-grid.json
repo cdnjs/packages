@@ -13,14 +13,17 @@
     "type": "git",
     "url": "git+https://github.com/lucasgruwez/waffle-grid.git"
   },
-  "npmName": "waffle-grid",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.css"
-      ]
-    }
-  ],
-  "filename": "waffle-grid.min.css"
+  "filename": "waffle-grid.min.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "waffle-grid",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  }
 }

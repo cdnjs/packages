@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/synapse-wireless-labs/jasmine-marbles.git"
   },
-  "npmName": "jasmine-marbles",
-  "npmFileMap": [
-    {
-      "basePath": "bundles",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "jasmine-marbles.umd.js"
+  "filename": "jasmine-marbles.umd.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jasmine-marbles",
+    "fileMap": [
+      {
+        "basePath": "bundles",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

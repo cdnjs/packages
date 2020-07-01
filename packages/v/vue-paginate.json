@@ -1,7 +1,6 @@
 {
   "name": "vue-paginate",
   "filename": "vue-paginate.min.js",
-  "version": "3.6.0",
   "description": "A simple vue.js plugin to paginate data",
   "repository": {
     "type": "git",
@@ -18,13 +17,16 @@
   ],
   "author": "Taha Shashtari",
   "license": "MIT",
-  "npmName": "vue-paginate",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/!(*.gz)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-paginate",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/!(*.gz)"
+        ]
+      }
+    ]
+  }
 }

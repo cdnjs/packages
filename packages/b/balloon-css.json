@@ -1,6 +1,5 @@
 {
   "name": "balloon-css",
-  "version": "1.0.4",
   "filename": "balloon.min.css",
   "description": "Simple tooltips made of pure CSS",
   "author": "Claudio Holanda",
@@ -14,13 +13,16 @@
     "type": "git",
     "url": "https://github.com/kazzkiq/balloon.css.git"
   },
-  "npmName": "balloon-css",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "balloon*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "balloon-css",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "balloon*"
+        ]
+      }
+    ]
+  }
 }

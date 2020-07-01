@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git://github.com/qiniu/js-sdk.git"
   },
-  "npmName": "qiniu-js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|map)"
-      ]
-    }
-  ],
-  "filename": "qiniu.min.js"
+  "filename": "qiniu.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "qiniu-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  }
 }

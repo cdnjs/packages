@@ -1,6 +1,5 @@
 {
   "name": "qartjs",
-  "version": "1.2.0",
   "description": "qart.js merge picture and QR code.",
   "keywords": [
     "qart",
@@ -14,14 +13,17 @@
   },
   "author": "Lee Sun-Hyoup <kciter@naver.com>",
   "license": "GPL-3.0",
-  "npmName": "qartjs",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
-  "filename": "qart.min.js"
+  "filename": "qart.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "qartjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

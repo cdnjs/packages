@@ -1,7 +1,6 @@
 {
   "name": "clappr-chromecast-plugin",
   "filename": "clappr-chromecast-plugin.min.js",
-  "version": "0.1.1",
   "description": "Chromecast support for Clappr",
   "repository": {
     "type": "git",
@@ -13,13 +12,16 @@
   ],
   "author": "Globo.com",
   "license": "BSD-3-Clause",
-  "npmName": "clappr-chromecast-plugin",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "clappr-chromecast-plugin",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

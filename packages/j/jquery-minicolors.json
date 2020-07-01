@@ -1,7 +1,6 @@
 {
   "name": "jquery-minicolors",
   "filename": "jquery.minicolors.min.js",
-  "version": "2.3.4",
   "homepage": "http://labs.abeautifulsite.net/jquery-minicolors/",
   "author": "Cory LaViska",
   "description": "jQuery MiniColors Plugin",
@@ -14,13 +13,16 @@
     "type": "git",
     "url": "https://github.com/claviska/jquery-minicolors.git"
   },
-  "npmName": "@claviska/jquery-minicolors",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jquery.minicolors*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "@claviska/jquery-minicolors",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery.minicolors*"
+        ]
+      }
+    ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "less.js",
   "filename": "less.min.js",
-  "version": "3.11.1",
   "homepage": "http://lesscss.org/",
   "description": "Leaner CSS",
   "keywords": [
@@ -13,15 +12,6 @@
     "pre-processor",
     "popular"
   ],
-  "npmName": "less",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "less.!(cjs.)js"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/less/less.js"
@@ -30,5 +20,17 @@
   "author": {
     "name": "Alexis Sellier",
     "email": "self@cloudhead.net"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "less",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "less.!(cjs.)js"
+        ]
+      }
+    ]
   }
 }

@@ -14,14 +14,17 @@
     "type": "git",
     "url": "git+https://github.com/AceMetrix/jquery-deparam.git"
   },
-  "npmName": "jquery-deparam",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "jquery-deparam.js"
-      ]
-    }
-  ],
-  "filename": "jquery-deparam.js"
+  "filename": "jquery-deparam.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-deparam",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery-deparam.js"
+        ]
+      }
+    ]
+  }
 }

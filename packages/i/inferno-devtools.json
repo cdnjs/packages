@@ -1,6 +1,5 @@
 {
   "name": "inferno-devtools",
-  "version": "7.4.2",
   "filename": "inferno-devtools.min.js",
   "license": "MIT",
   "description": "Provides support for React's Dev Tools for Inferno",
@@ -21,13 +20,16 @@
     "type": "git",
     "url": "git+https://github.com/infernojs/inferno.git"
   },
-  "npmName": "inferno-devtools",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/inferno-devtools!(*.node)*.!(*ts)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "inferno-devtools",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/inferno-devtools!(*.node)*.!(*ts)"
+        ]
+      }
+    ]
+  }
 }

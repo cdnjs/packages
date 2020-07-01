@@ -1,6 +1,5 @@
 {
   "name": "ngn-chassis-components",
-  "version": "1.0.5",
   "description": "NGN Chassis Web Components",
   "filename": "chassis-cycle.min.js",
   "repository": {
@@ -20,13 +19,16 @@
   },
   "license": "MIT",
   "homepage": "http://ngn.js.org",
-  "npmName": "ngn-chassis-components",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "**/chassis*.+(js|css|map)"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "ngn-chassis-components",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/chassis*.+(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

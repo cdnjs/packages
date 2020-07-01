@@ -1,6 +1,5 @@
 {
   "name": "flux",
-  "version": "3.1.3",
   "description": "An application architecture based on a unidirectional data flow",
   "filename": "Flux.min.js",
   "keywords": [
@@ -16,13 +15,16 @@
   },
   "author": "Facebook",
   "license": "BSD-3-Clause",
-  "npmName": "flux",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "flux",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

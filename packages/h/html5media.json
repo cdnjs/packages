@@ -1,7 +1,6 @@
 {
   "name": "html5media",
   "filename": "html5media.min.js",
-  "version": "1.1.8",
   "description": "html5media enables <video> and <audio> tags in all major browsers",
   "homepage": "http://html5media.info/",
   "keywords": [
@@ -16,19 +15,22 @@
     "webm"
   ],
   "author": "Dave Hall",
-  "npmName": "html5media",
-  "npmFileMap": [
-    {
-      "basePath": "dist/api",
-      "files": [
-        "*.js",
-        "*.swf"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/etianen/html5media.git"
   },
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "autoupdate": {
+    "source": "npm",
+    "target": "html5media",
+    "fileMap": [
+      {
+        "basePath": "dist/api",
+        "files": [
+          "*.js",
+          "*.swf"
+        ]
+      }
+    ]
+  }
 }

@@ -24,14 +24,17 @@
     "type": "git",
     "url": "git+https://github.com/mithunsatheesh/node-rules.git"
   },
-  "npmName": "node-rules",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "node-rules.min.js"
+  "filename": "node-rules.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "node-rules",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

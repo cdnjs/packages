@@ -1,6 +1,5 @@
 {
   "name": "rellax",
-  "version": "1.12.1",
   "filename": "rellax.min.js",
   "description": "Lightweight, vanilla javascript parallax library",
   "repository": {
@@ -14,13 +13,16 @@
   ],
   "author": "Moe Amaya <moe@dixonandmoe.com> (https://dixonandmoe.com)",
   "license": "MIT",
-  "npmName": "rellax",
-  "npmFileMap": [
-    {
-      "basePath": "",
-      "files": [
-        "rellax*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "rellax",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "rellax*"
+        ]
+      }
+    ]
+  }
 }

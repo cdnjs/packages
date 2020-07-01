@@ -1,7 +1,6 @@
 {
   "name": "mobile-angular-ui",
   "filename": "js/mobile-angular-ui.min.js",
-  "version": "1.3.4",
   "description": "Mobile Angular UI",
   "repository": {
     "type": "git",
@@ -18,13 +17,16 @@
     "boostrap3-mobile"
   ],
   "homepage": "http://mobileangularui.com/",
-  "npmName": "mobile-angular-ui",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "mobile-angular-ui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

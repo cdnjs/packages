@@ -11,14 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/osano/cookieconsent.git"
   },
-  "npmName": "cookieconsent",
-  "npmFileMap": [
-    {
-      "basePath": "build",
-      "files": [
-        "*.@(js|css)"
-      ]
-    }
-  ],
-  "filename": "cookieconsent.min.js"
+  "filename": "cookieconsent.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "cookieconsent",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  }
 }

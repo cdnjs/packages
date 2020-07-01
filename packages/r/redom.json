@@ -7,7 +7,6 @@
     "url": "git://github.com/pakastin/redom"
   },
   "author": "Juha Lindstedt",
-  "version": "3.26.0",
   "license": "MIT",
   "keywords": [
     "redom",
@@ -21,13 +20,16 @@
     "dom"
   ],
   "filename": "redom.min.js",
-  "npmName": "redom",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "redom*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "redom",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "redom*"
+        ]
+      }
+    ]
+  }
 }

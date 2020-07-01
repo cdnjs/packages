@@ -1,6 +1,5 @@
 {
   "name": "react-contextmenu",
-  "version": "2.13.0",
   "filename": "react-contextmenu.js",
   "description": "Context Menu implemented in React",
   "homepage": "http://vkbansal.me/react-contextmenu/#/",
@@ -17,13 +16,16 @@
     "type": "git",
     "url": "https://github.com/vkbansal/react-contextmenu.git"
   },
-  "npmName": "react-contextmenu",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-contextmenu",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

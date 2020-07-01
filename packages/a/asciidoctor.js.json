@@ -1,6 +1,5 @@
 {
   "name": "asciidoctor.js",
-  "version": "1.5.9",
   "description": "A JavaScript AsciiDoc processor, cross-compiled from the Ruby-based AsciiDoc implementation, Asciidoctor, using Opal",
   "repository": {
     "type": "git",
@@ -21,15 +20,18 @@
   "license": "MIT",
   "homepage": "http://asciidoctor.org/",
   "filename": "asciidoctor.min.js",
-  "npmName": "asciidoctor.js",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "asciidoctor.*",
-        "css/asciidoctor.*",
-        "nashorn/asciidoctor.*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "asciidoctor.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "asciidoctor.*",
+          "css/asciidoctor.*",
+          "nashorn/asciidoctor.*"
+        ]
+      }
+    ]
+  }
 }

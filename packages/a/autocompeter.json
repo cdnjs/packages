@@ -1,7 +1,6 @@
 {
   "name": "autocompeter",
   "filename": "autocompeter.min.js",
-  "version": "1.2.3",
   "description": "A really fast AJAX autocomplete service and widget",
   "keywords": [
     "autocomplete",

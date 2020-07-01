@@ -13,7 +13,6 @@
     "form",
     "jquery-form"
   ],
-  "version": "4.2.2",
   "homepage": "https://jquery-form.github.io/form/",
   "repository": {
     "type": "git",

@@ -1,7 +1,6 @@
 {
   "name": "lie",
   "filename": "lie.min.js",
-  "version": "3.3.0",
   "description": "A basic but performant promise implementation",
   "license": "MIT",
   "repository": {
@@ -14,13 +13,16 @@
     "async",
     "aplus"
   ],
-  "npmName": "lie",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "lie",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

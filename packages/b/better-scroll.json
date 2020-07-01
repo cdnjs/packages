@@ -17,14 +17,17 @@
     "type": "git",
     "url": "git+ssh://git@github.com/ustbhuangyi/better-scroll.git"
   },
-  "npmName": "better-scroll",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.js"
-      ]
-    }
-  ],
-  "filename": "bscroll.min.js"
+  "filename": "bscroll.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "better-scroll",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }

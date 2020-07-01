@@ -21,14 +21,17 @@
     "type": "git",
     "url": "git+https://github.com/transloadit/uppy.git"
   },
-  "npmName": "uppy",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "*.@(js|css|map)"
-      ]
-    }
-  ],
-  "filename": "uppy.min.js"
+  "filename": "uppy.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "uppy",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css|map)"
+        ]
+      }
+    ]
+  }
 }

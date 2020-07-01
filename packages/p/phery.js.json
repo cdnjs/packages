@@ -1,7 +1,6 @@
 {
   "name": "phery.js",
   "filename": "phery.min.js",
-  "version": "2.7.4",
   "description": "The bridge from jQuery to PHP, and vice-versa through AJAX.",
   "license": "MIT",
   "keywords": [

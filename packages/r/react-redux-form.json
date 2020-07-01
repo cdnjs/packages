@@ -1,6 +1,5 @@
 {
   "name": "react-redux-form",
-  "version": "1.16.14",
   "description": "Create Forms Easily with React and Redux",
   "repository": {
     "type": "git",
@@ -22,13 +21,16 @@
   "license": "MIT",
   "homepage": "https://davidkpiano.github.io/react-redux-form/",
   "filename": "ReactReduxForm.min.js",
-  "npmName": "react-redux-form",
-  "npmFileMap": [
-    {
-      "basePath": "umd",
-      "files": [
-        "ReactReduxForm*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-redux-form",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "ReactReduxForm*"
+        ]
+      }
+    ]
+  }
 }

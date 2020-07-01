@@ -1,6 +1,5 @@
 {
   "name": "excel-builder",
-  "version": "2.0.3",
   "filename": "excel-builder.dist.min.js",
   "description": "An easy way of building Excel files with javascript",
   "repository": {
@@ -16,13 +15,16 @@
   "author": "Stephen Liberty",
   "license": "GPLv3",
   "homepage": "http://excelbuilderjs.com/",
-  "npmName": "excel-builder",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "source": "npm",
+    "target": "excel-builder",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }

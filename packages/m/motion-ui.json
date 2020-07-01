@@ -1,6 +1,5 @@
 {
   "name": "motion-ui",
-  "version": "2.0.3",
   "description": "Sass library for creating transitions and animations.",
   "filename": "motion-ui.min.js",
   "repository": {

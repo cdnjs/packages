@@ -1,7 +1,6 @@
 {
   "name": "zclip",
   "filename": "jquery.zclip.min.js",
-  "version": "1.1.2",
   "license": "MIT",
   "description": "A lightweight jQuery \"copy to clipboard\" plugin",
   "keywords": [
