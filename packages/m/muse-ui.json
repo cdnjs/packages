@@ -1,0 +1,40 @@
+{
+  "name": "muse-ui",
+  "description": "material design ui for vue2",
+  "keywords": [
+    "muse-ui",
+    "material",
+    "vuejs2",
+    "vue2",
+    "vue"
+  ],
+  "author": {
+    "name": "myronliu347",
+    "email": "myronliu347@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/museui/muse-ui#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/museui/muse-ui.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "muse-ui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "types/*.ts"
+        ]
+      }
+    ]
+  },
+  "filename": "muse-ui.common.js"
+}
