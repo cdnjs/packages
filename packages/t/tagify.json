@@ -1,0 +1,39 @@
+{
+  "name": "tagify",
+  "description": "lightweight, efficient Tags input component in Vanilla JS / React / Angular [super customizable, tiny size & top performance]",
+  "keywords": [
+    "tagging",
+    "html",
+    "input",
+    "tags",
+    "tagify",
+    "javascript",
+    "react",
+    "reactjs",
+    "react-component",
+    "angular-component"
+  ],
+  "author": {
+    "name": "Yair Even-Or",
+    "email": "vsync.design@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/yairEO/tagify",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yairEO/tagify.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@yaireo/tagify",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "tagify.min.js"
+}
