@@ -1,0 +1,18 @@
+{
+  "name": "cookie-consent.js",
+  "filename": "cookie-consent.js",
+  "description": "A tiny script to add a cookie consent popup to your website.",
+  "keywords": [
+    "cookies",
+    "cookie",
+    "consent",
+    "cookie-consent"
+  ],
+  "homepage": "https://github.com/edazpotato/cookie-consent",
+  "author": "edazpotato",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edazpotato/cookie-consent.git"
+  },
+  "license": "MIT"
+}
