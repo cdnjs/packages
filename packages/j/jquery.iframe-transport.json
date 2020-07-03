@@ -16,7 +16,7 @@
   "homepage": "https://cmlenz.github.io/jquery-iframe-transport/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com//cmlenz/jquery-iframe-transport.git",
+    "target": "git://github.com/cmlenz/jquery-iframe-transport.git",
     "fileMap": [
       {
         "basePath": "",
