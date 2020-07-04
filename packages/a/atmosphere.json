@@ -12,11 +12,11 @@
     "longpolling"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/Atmosphere/atmosphere-javascript.git",
+    "source": "npm",
+    "target": "atmosphere.js",
     "fileMap": [
       {
-        "basePath": "modules/javascript/src/main/webapp/javascript",
+        "basePath": "lib",
         "files": [
           "atmosphere.js"
         ]
