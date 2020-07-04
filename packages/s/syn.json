@@ -17,8 +17,8 @@
     "event"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/bitovi/syn.git",
+    "source": "npm",
+    "target": "syn",
     "fileMap": [
       {
         "basePath": "dist",
