@@ -16,13 +16,13 @@
     "analysis"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/Tom-Alexander/regression-js.git",
+    "source": "npm",
+    "target": "regression",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "regression*.js"
+          "**/*"
         ]
       }
     ]
