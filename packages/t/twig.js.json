@@ -13,8 +13,8 @@
     "twig"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/justjohn/twig.js.git",
+    "source": "npm",
+    "target": "twig",
     "fileMap": [
       {
         "basePath": "",
