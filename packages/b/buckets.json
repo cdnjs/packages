@@ -28,9 +28,9 @@
     "target": "git://github.com/mauriciosantos/Buckets-JS.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "buckets*.js"
+          "buckets?(.min).js?(.map)"
         ]
       }
     ]
