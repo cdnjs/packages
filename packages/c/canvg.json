@@ -17,13 +17,13 @@
   "license": "MIT",
   "homepage": "https://canvg.github.io/canvg/examples/index.htm",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/canvg/canvg.git",
+    "source": "npm",
+    "target": "canvg",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "lib",
         "files": [
-          "+(canvg|rgbcolor)*.+(js|map|css)"
+          "umd.+(js|js.map)"
         ]
       }
     ]
