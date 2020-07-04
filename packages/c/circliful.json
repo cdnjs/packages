@@ -7,14 +7,13 @@
   },
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/pguso/jquery-plugin-circliful.git",
+    "source": "npm",
+    "target": "js-plugin-circliful",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "js/jquery.circliful*.js",
-          "css/jquery.circliful*.css"
+          "**/*"
         ]
       }
     ]
