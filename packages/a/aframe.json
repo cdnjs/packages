@@ -17,8 +17,8 @@
     "elements"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/aframevr/aframe.git",
+    "source": "npm",
+    "target": "aframe",
     "fileMap": [
       {
         "basePath": "dist",
