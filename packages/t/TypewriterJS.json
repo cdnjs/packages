@@ -15,13 +15,13 @@
   "license": "MIT",
   "author": "Tameem Safi <@tameemsafi> (https://safi.me.uk/)",
   "autoupdate": {
-    "source": "git",
-    "target": "https://github.com/tameemsafi/typewriterjs.git",
+    "source": "npm",
+    "target": "typewriter-effect",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "typewriter*"
+          "**/*"
         ]
       }
     ]
