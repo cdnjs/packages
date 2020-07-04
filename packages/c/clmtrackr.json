@@ -14,11 +14,11 @@
     "url": "https://github.com/auduno/clmtrackr.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/auduno/clmtrackr.git",
+    "source": "npm",
+    "target": "clmtrackr",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "build",
         "files": [
           "clmtrackr*"
         ]
