@@ -15,17 +15,5 @@
   "author": "Airbrake",
   "license": "MIT",
   "homepage": "https://airbrake.io",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/airbrake/airbrake-js.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "client.*"
-        ]
-      }
-    ]
-  },
   "filename": "client.min.js"
 }
