@@ -1,0 +1,33 @@
+{
+  "name": "tui-code-snippet",
+  "description": "TOAST UI Utility: CodeSnippet",
+  "keywords": [
+    "nhn",
+    "tui",
+    "utility",
+    "code-snippet"
+  ],
+  "author": {
+    "name": "NHN. FE Development Lab",
+    "email": "dl_javascript@nhn.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/nhn/tui.code-snippet#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhn/tui.code-snippet.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "tui-code-snippet",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "tui-code-snippet.js"
+}
