@@ -7,9 +7,7 @@
     "airbrake",
     "notifier"
   ],
-  "author": {
-    "name": "Airbrake"
-  },
+  "author": "Airbrake",
   "license": "MIT",
   "homepage": "https://github.com/airbrake/airbrake-js/tree/master/packages/browser",
   "repository": {
@@ -25,12 +23,6 @@
         "basePath": "umd",
         "files": [
           "*.js?(.map)"
-        ]
-      },
-      {
-        "basePath": "",
-        "files": [
-          "@(dist|esm)/**/*.@(js|ts|map)"
         ]
       }
     ]
