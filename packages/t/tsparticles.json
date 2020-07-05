@@ -1,6 +1,6 @@
 {
   "author": "Matteo Bruni",
-  "description": "Porting of Vincent Garreau's particles.js, converted in TypeScript.",
+  "description": "Particles.js rewritten in TypeScript (100% compatible), dependency free, improved with many new features and various bugs fixed. Browser ready and with official React/Vue/Angular/jQuery/Preact components.
   "filename": "tsparticles.min.js",
   "homepage": "https://github.com/matteobruni/tsparticles",
   "keywords": [
@@ -26,7 +26,10 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "tsparticles.slim.js",
+          "tsparticles.slim.min.js",
+          "tsparticles.js",
+          "tsparticles.min.js"
         ]
       }
     ]
