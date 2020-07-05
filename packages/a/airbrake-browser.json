@@ -1,0 +1,31 @@
+{
+  "name": "airbrake-browser",
+  "description": "Official Airbrake notifier for browsers",
+  "keywords": [
+    "exception",
+    "error",
+    "airbrake",
+    "notifier"
+  ],
+  "author": "Airbrake",
+  "license": "MIT",
+  "homepage": "https://github.com/airbrake/airbrake-js/tree/master/packages/browser",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/airbrake/airbrake-js.git",
+    "directory": "packages/browser"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@airbrake/browser",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "airbrake.min.js"
+}
