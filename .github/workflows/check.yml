@@ -1,0 +1,71 @@
+name: Scheduled package check
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  check-packages:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          path: packages
+
+      - name: checkout glob
+        uses: actions/checkout@v2
+        with:
+          repository: cdnjs/glob
+          path: glob
+
+      - name: npm install glob
+        run: npm install
+        working-directory: ./glob
+
+      - name: download checker
+        run: |
+          curl -sLO https://github.com/cdnjs/tools/releases/latest/download/checker
+          chmod +x checker
+
+      - name: run checker
+        run: |
+          function check() {
+            PACKAGE="${0}"
+            BASE="$(basename "${PACKAGE}" .json)"
+            if jq -e .autoupdate "${PACKAGE}"; then
+              echo "skipping ${BASE}, autoupdate not set"
+            fi
+            LOG="$(mktemp)"
+            if BOT_BASE_PATH="${GITHUB_WORKSPACE}" ./checker show-files ${PACKAGE} &> "${LOG}"; then
+              mv "${LOG}" "logs/succeed/${BASE}.log"
+            else
+              mv "${LOG}" "logs/failed/${BASE}.log"
+            fi
+          }
+          export -f check
+          mkdir -p logs/{failed,succeed}
+          find ./packages/packages/ -name '*.json' | xargs -n 1 -P 10 bash -c "check"
+
+      - name: uploads logs
+        uses: actions/upload-artifact@v2
+        with:
+          name: checker-logs
+          path: logs/
+
+      - name: download cli
+        run: |
+          curl -sL 'https://github.com/cli/cli/releases/download/v0.10.1/gh_0.10.1_linux_amd64.tar.gz' | tar --strip-components=2 -xzf - gh_0.10.1_linux_amd64/bin/
+
+      - name: create issues
+        run: |
+          ISSUES="$(gh -R "${GITHUB_REPOSITORY}" issue list --limit 10000 | awk -F $'\t' '{print $2}')"
+          for LOGFILE in logs/failed/*; do
+            BASE="$(basename "${LOGFILE}" .log)"
+            if ! grep -q -E "(^| )${BASE}($| )" <<< "${ISSUES}"; then
+              TITLE="Broken package: ${BASE}"
+              BODY="$(echo -e '```\n'"$(<"${LOGFILE}")"'\n```')"
+              gh -R "${GITHUB_REPOSITORY}" issue create --title "${TITLE}" --body "${BODY}"
+            fi
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
