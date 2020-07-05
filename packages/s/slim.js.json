@@ -16,12 +16,12 @@
   ],
   "autoupdate": {
     "source": "npm",
-    "target": "slim.js",
+    "target": "slim-js",
     "fileMap": [
       {
         "basePath": "",
         "files": [
-          "slim.js"
+          "{,directives/}*.@(js|ts)"
         ]
       }
     ]
