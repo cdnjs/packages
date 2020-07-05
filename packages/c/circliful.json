@@ -1,19 +1,19 @@
 {
   "name": "circliful",
-  "filename": "js/jquery.circliful.min.js",
+  "filename": "circliful.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pguso/jquery-plugin-circliful.git"
+    "url": "https://github.com/pguso/js-plugin-circliful.git"
   },
   "license": "MIT",
   "autoupdate": {
-    "source": "npm",
-    "target": "js-plugin-circliful",
+    "source": "git",
+    "target": "git://github.com/pguso/js-plugin-circliful.git",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|css)"
         ]
       }
     ]
