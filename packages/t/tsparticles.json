@@ -1,6 +1,6 @@
 {
   "author": "Matteo Bruni",
-  "description": "Particles.js rewritten in TypeScript (100% compatible), dependency free, improved with many new features and various bugs fixed. Browser ready and with official React/Vue/Angular/jQuery/Preact components."
+  "description": "Particles.js rewritten in TypeScript (100% compatible), dependency free, improved with many new features and various bugs fixed. Browser ready and with official React/Vue/Angular/jQuery/Preact components.",
   "filename": "tsparticles.min.js",
   "homepage": "https://github.com/matteobruni/tsparticles",
   "keywords": [
