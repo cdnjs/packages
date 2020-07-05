@@ -1,7 +1,7 @@
 {
   "name": "canvg",
   "description": "Javascript SVG parser and renderer on Canvas",
-  "filename": "canvg.min.js",
+  "filename": "umd.js",
   "keywords": [
     "javascript",
     "client",
@@ -23,7 +23,7 @@
       {
         "basePath": "lib",
         "files": [
-          "umd.+(js|js.map)"
+          "umd.js?(.map)"
         ]
       }
     ]
