@@ -14,17 +14,5 @@
     "teapao"
   ],
   "author": "Billgo",
-  "homepage": "https://www.teasim.com/",
-  "autoupdate": {
-    "source": "npm",
-    "target": "teadao",
-    "fileMap": [
-      {
-        "basePath": "library",
-        "files": [
-          "teadao*"
-        ]
-      }
-    ]
-  }
+  "homepage": "https://www.teasim.com/"
 }
