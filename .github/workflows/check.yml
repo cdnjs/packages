@@ -61,7 +61,9 @@ jobs:
           ISSUES="$(gh -R "${GITHUB_REPOSITORY}" issue list --limit 10000 | awk -F $'\t' '{print $2}')"
           for LOGFILE in logs/failed/*; do
             BASE="$(basename "${LOGFILE}" .log)"
-            if ! grep -q -E "(^| )${BASE}($| )" <<< "${ISSUES}"; then
+            if grep -m 1 -q "^${BASE}$" "packages/.github/workflows/ignored-packages.txt"; then
+              echo "package ${BASE} is ignored"
+            elif ! grep -m 1 -q -E "(^| )${BASE}($| )" <<< "${ISSUES}"; then
               TITLE="Broken package: ${BASE}"
               BODY="$(echo -e '```\n'"$(<"${LOGFILE}")"'\n```')"
               gh -R "${GITHUB_REPOSITORY}" issue create --title "${TITLE}" --body "${BODY}"
