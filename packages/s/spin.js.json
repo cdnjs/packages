@@ -19,8 +19,7 @@
       {
         "basePath": "",
         "files": [
-          "spin.js",
-          "spin.css"
+          "*.@(js|css|ts)"
         ]
       }
     ]
