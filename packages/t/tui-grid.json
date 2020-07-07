@@ -1,0 +1,33 @@
+{
+  "name": "tui-grid",
+  "description": "TOAST UI Grid : Powerful data grid control supported by TOAST UI",
+  "keywords": [
+    "nhn",
+    "tui",
+    "application",
+    "grid",
+    "tui-grid"
+  ],
+  "author": {
+    "name": "NHN. FE Development Lab"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/nhn/tui.grid#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhn/tui.grid.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "tui-grid",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "tui-grid.min.js"
+}
