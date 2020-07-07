@@ -15,13 +15,13 @@
     "binding"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/eavichay/slim.js.git",
+    "source": "npm",
+    "target": "slim-js",
     "fileMap": [
       {
         "basePath": "",
         "files": [
-          "Slim*"
+          "{,directives/}*.@(js|ts)"
         ]
       }
     ]
