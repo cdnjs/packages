@@ -1,0 +1,36 @@
+{
+  "name": "tui-date-picker",
+  "description": "TOAST UI Components: DatePicker",
+  "keywords": [
+    "nhn",
+    "tui",
+    "component",
+    "calendar",
+    "date-picker",
+    "date-range-picker",
+    "tui-date-picker"
+  ],
+  "author": {
+    "name": "NHN. FE Development Lab",
+    "email": "dl_javascript@nhn.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/nhn/tui.date-picker#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhn/tui.date-picker.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "tui-date-picker",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "tui-date-picker.min.js"
+}
