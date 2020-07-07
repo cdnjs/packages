@@ -40,10 +40,7 @@
       {
         "basePath": "dist",
         "files": [
-          "tsparticles.slim.js",
-          "tsparticles.slim.min.js",
-          "tsparticles.js",
-          "tsparticles.min.js"
+          "tsparticles*.js"
         ]
       }
     ]
