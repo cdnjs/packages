@@ -1,0 +1,34 @@
+{
+  "name": "tui-chart",
+  "description": "TOAST UI Application: Chart",
+  "keywords": [
+    "nhn",
+    "tui",
+    "application",
+    "chart",
+    "tui-chart"
+  ],
+  "author": {
+    "name": "NHN. FE Development Lab",
+    "email": "dl_javascript@nhn.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/nhn/tui.chart#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhn/tui.chart.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "tui-chart",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "tui-chart.min.js"
+}
