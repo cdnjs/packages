@@ -20,7 +20,7 @@
     "target": "git://github.com/Tom-Alexander/regression-js.git",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
           "regression*.js"
         ]
