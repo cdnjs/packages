@@ -1,0 +1,38 @@
+{
+  "name": "tui-image-editor",
+  "description": "TOAST UI Component: ImageEditor",
+  "keywords": [
+    "nhn",
+    "nhnent",
+    "tui",
+    "component",
+    "image",
+    "editor",
+    "canvas",
+    "fabric"
+  ],
+  "author": {
+    "name": "NHN FE Development Lab",
+    "email": "dl_javascript@nhn.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/nhn/tui.image-editor#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhn/tui.image-editor.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "tui-image-editor",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)?(.map)",
+          "svg/*.svg"
+        ]
+      }
+    ]
+  },
+  "filename": "tui-image-editor.min.js"
+}
