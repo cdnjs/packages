@@ -10,7 +10,7 @@
     "fileMap": [
       {
         "basePath": "bundles",
-        "files": ["*.js?(.map)"]
+        "files": ["*"]
       }
     ]
   },
