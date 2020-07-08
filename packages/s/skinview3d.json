@@ -14,7 +14,6 @@
       }
     ]
   },
-  "namespace": "skinview3d",
   "repository": {
     "type": "git",
     "url": "https://github.com/bs-community/skinview3d.git"
