@@ -3,19 +3,14 @@
   "filename": "skinview3d.bundle.js",
   "description": "Three.js powered Minecraft skin viewer",
   "homepage": "https://skinview3d.com/",
-  "keywords": [
-    "minecraft",
-    "skins"
-  ],
+  "keywords": ["minecraft", "skins"],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/bs-community/skinview3d.git",
     "fileMap": [
       {
         "basePath": "bundles",
-        "files": [
-          "*"
-        ]
+        "files": ["*.js?(.map)"]
       }
     ]
   },
