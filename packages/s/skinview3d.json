@@ -1,0 +1,29 @@
+{
+  "name": "skinview3d",
+  "filename": "skinview3d.bundle.js",
+  "description": "Three.js powered Minecraft skin viewer",
+  "homepage": "https://skinview3d.com/",
+  "keywords": [
+    "minecraft",
+    "skins"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/bs-community/skinview3d.git",
+    "fileMap": [
+      {
+        "basePath": "bundles",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "namespace": "skinview3d",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bs-community/skinview3d.git"
+  },
+  "license": "MIT",
+  "author": "yushijinhun"
+}
