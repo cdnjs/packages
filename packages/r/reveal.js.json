@@ -1,8 +1,8 @@
 {
   "name": "reveal.js",
-  "filename": "js/reveal.min.js",
+  "filename": "dist/reveal.js",
   "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js/",
+  "homepage": "https://revealjs.com/",
   "keywords": [
     "reveal.js",
     "reveal",
@@ -16,14 +16,8 @@
       {
         "basePath": "",
         "files": [
-          "css/**/*.css",
-          "js/*.js",
-          "lib/**/*.js",
-          "lib/**/*.css",
-          "lib/**/*.eot",
-          "lib/**/*.ttf",
-          "lib/**/*.woff",
-          "plugin/**/*.js"
+          "dist/**",
+          "plugin/**"
         ]
       }
     ]
