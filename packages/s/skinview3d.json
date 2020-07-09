@@ -5,8 +5,8 @@
   "homepage": "https://skinview3d.com/",
   "keywords": ["minecraft", "skins"],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/bs-community/skinview3d.git",
+    "source": "npm",
+    "target": "skinview3d",
     "fileMap": [
       {
         "basePath": "bundles",
