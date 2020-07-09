@@ -15,13 +15,13 @@
   },
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/Alex-D/Trumbowyg.git",
+    "source": "npm",
+    "target": "trumbowyg",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/!(*.scss)"
+          "**/*.@(js|css|svg)"
         ]
       }
     ]
