@@ -1,7 +1,7 @@
 {
   "name": "Trumbowyg",
   "title": "Trumbowyg",
-  "description": "A lightweight WYSIWYG editor",
+  "description": "A lightweight WYSIWYG editor - trigger",
   "filename": "trumbowyg.min.js",
   "homepage": "https://alex-d.github.io/Trumbowyg",
   "author": {
