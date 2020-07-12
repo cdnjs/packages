@@ -1,0 +1,31 @@
+{
+  "name": "monio",
+  "description": "async-capable IO Monad (including \"do\" style) for JS",
+  "filename": "umd/bundle.js",
+  "keywords": [
+    "fp",
+    "monad",
+    "async",
+    "io",
+    "promise"
+  ],
+  "author": "Kyle Simpson <getify@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/getify/monio.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/getify/monio",
+  "autoupdate": {
+    "source": "npm",
+    "target": "monio",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
+}
