@@ -16,8 +16,8 @@
       {
         "basePath": "",
         "files": [
-          "dist/**",
-          "plugin/**"
+          "dist/**/*.@(js|css|eot|ttf|woff)",
+          "plugin/**/*.@(js|css)"
         ]
       }
     ]
