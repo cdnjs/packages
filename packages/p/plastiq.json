@@ -18,13 +18,12 @@
   },
   "autoupdate": {
     "source": "npm",
-    "target": "angular-moment",
+    "target": "plastiq",
     "fileMap": [
       {
         "basePath": "",
         "files": [
-          "plastiq.js",
-          "plastiq.min.js"
+          "plastiq?(.min).js"
         ]
       }
     ]
