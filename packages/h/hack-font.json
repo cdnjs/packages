@@ -25,8 +25,8 @@
   ],
   "homepage": "https://sourcefoundry.org/hack/",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/source-foundry/Hack.git",
+    "source": "npm",
+    "target": "hack-font",
     "fileMap": [
       {
         "basePath": "build",
