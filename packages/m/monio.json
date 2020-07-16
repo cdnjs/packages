@@ -23,7 +23,8 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "umd/*.?(js|json|map)",
+          "esm/*.?(js|mjs|json|map)"
         ]
       }
     ]
