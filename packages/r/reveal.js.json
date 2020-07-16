@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/hakimel/reveal.js.git",
+    "target": "https://github.com/hakimel/reveal.js.git",
     "fileMap": [
       {
         "basePath": "dist",
