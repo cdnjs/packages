@@ -14,9 +14,14 @@
     "target": "git://github.com/hakimel/reveal.js.git",
     "fileMap": [
       {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css|eot|ttf|woff)"
+        ]
+      },
+      {
         "basePath": "",
         "files": [
-          "dist/**/*.@(js|css|eot|ttf|woff)",
           "plugin/**/*.@(js|css)"
         ]
       }
