@@ -1,8 +1,11 @@
 {
   "name": "livereload-js",
   "description": "LiveReload JS client - auto reload browser on changes",
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "javascript",
+    "livereload"
+  ],
+  "author": "Andrey Tarantsov <andrey@tarantsov.com> & David Kelso <david@kelso.id.au>",
   "license": "MIT",
   "homepage": "https://github.com/livereload/livereload-js",
   "repository": {
