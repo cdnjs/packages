@@ -2,7 +2,14 @@
   "name": "a-happy-tyler",
   "description": "Tyler is happy. Be like Tyler.",
   "keywords": [],
-  "author": "Tyler Caslin <tylercaslin47@gmail.com>",
+  "author": {
+    "name": "Tyler Caslin",
+    "email": "tylercaslin47@gmail.com"
+  },
+  "keywords": [
+    "tyler",
+    "happy"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
