@@ -1,0 +1,24 @@
+{
+  "name": "a-happy-tyler",
+  "description": "Tyler is happy. Be like Tyler.",
+  "keywords": [],
+  "author": "Tyler Caslin <tylercaslin47@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tc80/a-happy-tyler.git"
+  },
+  "filename": "happy.js",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/tc80/a-happy-tyler.git",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
