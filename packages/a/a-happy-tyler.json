@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tc80/a-happy-tyler.git"
+    "url": "git://github.com/tc80/a-happy-tyler.git"
   },
   "filename": "happy.js",
   "autoupdate": {
