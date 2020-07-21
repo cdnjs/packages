@@ -1,0 +1,25 @@
+{
+  "name": "livereload-js",
+  "description": "LiveReload JS client - auto reload browser on changes",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/livereload/livereload-js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/livereload/livereload-js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "livereload-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "livereload.min.js"
+}
