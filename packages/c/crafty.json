@@ -7,13 +7,7 @@
     "name": "Louis Stowasser",
     "url": "http://craftyjs.com/"
   },
-  "licenses": [
-    "MIT",
-    {
-      "type": "GPL",
-      "url": "http://www.opensource.org/licenses/gpl-license.php"
-    }
-  ],
+  "license": "(MIT OR GPL)",
   "description": "Crafty is a modern component and event based framework for javascript games that targets DOM and canvas.",
   "keywords": [
     "framework",
