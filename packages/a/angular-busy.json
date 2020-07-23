@@ -30,7 +30,5 @@
       }
     ]
   },
-  "license": {
-    "url": "https://github.com/cgross/angular-busy/blob/master/LICENSE"
-  }
+  "license": "MIT"
 }
