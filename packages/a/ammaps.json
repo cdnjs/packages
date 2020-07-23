@@ -9,7 +9,7 @@
   ],
   "author": "amCharts <contact@amcharts.com>",
   "homepage": "https://www.amcharts.com/",
-  "licenses": "(Custom OR Commercial License)",
+  "license": "(Custom OR Commercial License)",
   "repository": {
     "type": "git",
     "url": "https://github.com/amcharts/ammap3.git"
