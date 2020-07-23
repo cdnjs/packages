@@ -7,8 +7,5 @@
     "fatcow"
   ],
   "homepage": "http://www.fatcow.com/free-icons",
-  "license": {
-    "name": "Creative Commons Attribution 3.0",
-    "url": "http://creativecommons.org/licenses/by/3.0/us/"
-  }
+  "license": "Creative Commons Attribution 3.0"
 }

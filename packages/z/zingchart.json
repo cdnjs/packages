@@ -17,10 +17,7 @@
   "author": {
     "name": "ZingChart"
   },
-  "license": {
-    "name": "ZingChart Branded License",
-    "url": "https://www.zingchart.com/buy/details/branded-license/"
-  },
+  "license": "ZingChart Branded License",
   "autoupdate": {
     "source": "npm",
     "target": "zingchart",
