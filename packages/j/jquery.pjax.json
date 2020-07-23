@@ -22,9 +22,7 @@
       }
     ]
   },
-  "license": {
-    "url": "https://github.com/defunkt/jquery-pjax/blob/master/LICENSE"
-  },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/defunkt/jquery-pjax"
