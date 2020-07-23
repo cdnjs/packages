@@ -7,10 +7,7 @@
     "css",
     "minimal"
   ],
-  "license": {
-    "type": "do as thou wilt",
-    "url": "https://github.com/Heydon/fukol-grids/blob/master/LICENSE.txt"
-  },
+  "license": "do as thou wilt",
   "author": "Heydon Pickering <heydon@heydonworks.com>",
   "autoupdate": {
     "source": "git",

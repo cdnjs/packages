@@ -8,9 +8,7 @@
     "evil",
     "evil.js"
   ],
-  "license": {
-    "type": "Public Domain"
-  },
+  "license": "Public Domain",
   "repository": {
     "type": "git",
     "url": "https://github.com/kitcambridge/evil.js.git"

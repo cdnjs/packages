@@ -14,10 +14,7 @@
     "html5",
     "trending design"
   ],
-  "license": {
-    "type": "Custom license",
-    "url": "https://github.com/froala/design-blocks/blob/master/LICENSE"
-  },
+  "license": "Custom license",
   "repository": {
     "type": "git",
     "url": "git://github.com/froala/design-blocks.git"
