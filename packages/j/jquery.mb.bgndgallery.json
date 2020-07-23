@@ -12,10 +12,6 @@
     "HTML5"
   ],
   "author": "Pupunzi <matteo@open-lab.com> (Matteo Bicocchi)",
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "homepage": "https://pupunzi.open-lab.com/mb-jquery-components/jquery-mb-bgndgallery/",
   "repository": {
     "type": "git",
@@ -32,5 +28,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-2.0)"
 }

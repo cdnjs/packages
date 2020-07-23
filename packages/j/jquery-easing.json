@@ -16,10 +16,6 @@
     "email": "george@gsgd.co.uk",
     "url": "http://gsgd.co.uk/"
   },
-  "licenses": [
-    "MIT",
-    "BSD-3-Clause"
-  ],
   "autoupdate": {
     "source": "npm",
     "target": "jquery.easing",
@@ -31,5 +27,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR BSD-3-Clause)"
 }

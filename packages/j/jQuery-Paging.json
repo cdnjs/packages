@@ -16,10 +16,6 @@
     "name": "Robert Eisele",
     "url": "https://www.xarg.org/"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "homepage": "https://www.xarg.org/2011/09/jquery-pagination-revised/",
   "autoupdate": {
     "source": "git",
@@ -32,5 +28,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-2.0)"
 }

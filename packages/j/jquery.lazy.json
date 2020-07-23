@@ -31,10 +31,6 @@
     "retina",
     "placeholder"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/eisbehr-/jquery.lazy.git",
@@ -47,5 +43,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-2.0)"
 }

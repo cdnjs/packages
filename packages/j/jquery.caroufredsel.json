@@ -12,12 +12,9 @@
     "responsive",
     "jquery"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/gilbitron/carouFredSel.git"
-  }
+  },
+  "license": "(MIT OR GPL-2.0)"
 }

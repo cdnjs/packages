@@ -11,10 +11,6 @@
     "name": "Steven Bower",
     "url": "https://github.com/BluSyn"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "homepage": "http://jreject.turnwheel.com",
   "repository": {
     "type": "git",
@@ -34,5 +30,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-2.0)"
 }

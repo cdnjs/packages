@@ -32,8 +32,5 @@
     ]
   },
   "namespace": "JXG",
-  "licenses": [
-    "MIT",
-    "LGPL-3.0"
-  ]
+  "license": "(MIT OR LGPL-3.0)"
 }

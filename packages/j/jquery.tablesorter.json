@@ -16,10 +16,6 @@
     "alphanumeric",
     "natural"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "homepage": "http://mottie.github.com/tablesorter/",
   "repository": {
     "type": "git",
@@ -36,5 +32,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-2.0)"
 }

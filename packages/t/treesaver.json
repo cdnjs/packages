@@ -10,8 +10,5 @@
     "type": "git",
     "url": "https://github.com/Treesaver/treesaver"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ]
+  "license": "(MIT OR GPL-2.0)"
 }

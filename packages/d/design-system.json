@@ -3,10 +3,6 @@
   "filename": "styles/salesforce-lightning-design-system.min.css",
   "description": "Salesforce Lightning Design System",
   "author": "Salesforce",
-  "licenses": [
-    "BSD-3-Clause",
-    "CC-BY-ND-4.0"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/salesforce-ux/design-system.git"
@@ -27,5 +23,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(BSD-3-Clause OR CC-BY-ND-4.0)"
 }

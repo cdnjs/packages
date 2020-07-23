@@ -6,13 +6,10 @@
     "tiptip",
     "tooltip"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-3.0"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/drewwilson/TipTip"
   },
-  "filename": "jquery.tipTip.minified.js"
+  "filename": "jquery.tipTip.minified.js",
+  "license": "(MIT OR GPL-3.0)"
 }

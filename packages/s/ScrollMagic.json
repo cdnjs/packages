@@ -6,10 +6,6 @@
     "name": "Jan Paepke",
     "url": "http://www.janpaepke.de"
   },
-  "licenses": [
-    "MIT",
-    "GPL-3.0+"
-  ],
   "homepage": "http://janpaepke.github.io/ScrollMagic/",
   "keywords": [
     "scroll",
@@ -49,5 +45,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-3.0+)"
 }

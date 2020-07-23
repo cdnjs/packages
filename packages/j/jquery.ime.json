@@ -41,8 +41,5 @@
       }
     ]
   },
-  "licenses": [
-    "GPL-2.0",
-    "MIT"
-  ]
+  "license": "(GPL-2.0 OR MIT)"
 }

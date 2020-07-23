@@ -11,10 +11,6 @@
     "library",
     "icons"
   ],
-  "licenses": [
-    "MIT",
-    "CC-BY-4.0"
-  ],
   "author": {
     "name": "richardba",
     "email": "richard at gmail dot com",
@@ -41,5 +37,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR CC-BY-4.0)"
 }

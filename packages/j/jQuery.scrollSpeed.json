@@ -13,8 +13,5 @@
     "scrolling",
     "easing"
   ],
-  "licenses": [
-    "MIT",
-    "CC0-1.0"
-  ]
+  "license": "(MIT OR CC0-1.0)"
 }

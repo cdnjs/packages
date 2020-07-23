@@ -13,9 +13,6 @@
     "type": "git",
     "url": "https://github.com/phstc/jquery-dateFormat.git"
   },
-  "licenses": [
-    "MIT",
-    "GPL"
-  ],
-  "author": "Pablo Cantero <pablo@pablocantero.com>"
+  "author": "Pablo Cantero <pablo@pablocantero.com>",
+  "license": "(MIT OR GPL)"
 }

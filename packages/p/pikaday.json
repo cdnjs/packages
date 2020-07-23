@@ -8,10 +8,6 @@
     "date"
   ],
   "homepage": "http://dbushell.github.io/Pikaday/",
-  "licenses": [
-    "BSD",
-    "MIT"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/dbushell/Pikaday.git"
@@ -28,5 +24,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(BSD OR MIT)"
 }

@@ -14,10 +14,6 @@
     "type": "git",
     "url": "https://github.com/open-xml-templating/docxtemplater"
   },
-  "licenses": [
-    "MIT",
-    "GPL-3.0"
-  ],
   "autoupdate": {
     "source": "npm",
     "target": "docxtemplater",
@@ -29,5 +25,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-3.0)"
 }

@@ -31,8 +31,5 @@
     "email": "rendro87@gmail.com",
     "url": "http://robert-fleischmann.de"
   },
-  "licenses": [
-    "MIT",
-    "GPL-3.0"
-  ]
+  "license": "(MIT OR GPL-3.0)"
 }

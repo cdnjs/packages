@@ -12,10 +12,6 @@
     "jquerymobile-router",
     "jQM"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/azicchetti/jquerymobile-router.git",
@@ -27,5 +23,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-2.0)"
 }

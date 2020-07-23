@@ -25,9 +25,5 @@
     "type": "git",
     "url": "git://github.com/vendocrat/PaymentFont.git"
   },
-  "licenses": [
-    "OFL-1.1",
-    "MIT",
-    "CC-BY-3.0"
-  ]
+  "license": "(OFL-1.1 OR MIT OR CC-BY-3.0)"
 }

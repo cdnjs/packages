@@ -11,12 +11,9 @@
     "css3",
     "pie"
   ],
-  "licenses": [
-    "Apache-2.0",
-    "GPL-2.0"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/lojjic/PIE"
-  }
+  },
+  "license": "(Apache-2.0 OR GPL-2.0)"
 }

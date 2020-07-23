@@ -24,10 +24,6 @@
       }
     ]
   },
-  "licenses": [
-    "MIT",
-    "GPL"
-  ],
   "keywords": [
     "timepicker",
     "time",
@@ -36,5 +32,6 @@
     "dropdown",
     "input",
     "form"
-  ]
+  ],
+  "license": "(MIT OR GPL)"
 }
