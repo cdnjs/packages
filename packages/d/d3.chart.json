@@ -13,7 +13,7 @@
   ],
   "author": {
     "name": "The Miso Project team",
-    "uri": "https://github.com/misoproject/d3.chart/blob/master/AUTHORS.txt"
+    "url": "https://github.com/misoproject/d3.chart/blob/master/AUTHORS.txt"
   },
   "license": "MIT",
   "autoupdate": {
