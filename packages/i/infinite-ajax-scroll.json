@@ -2,7 +2,7 @@
   "author": {
     "company": "Webcreate",
     "name": "Jeroen Fiege",
-    "web": "https://webcreate.nl"
+    "url": "https://webcreate.nl"
   },
   "description": "Turn your existing pagination into infinite scrolling pages with ease",
   "filename": "infinite-ajax-scroll.min.js",

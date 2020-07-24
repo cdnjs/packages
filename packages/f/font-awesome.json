@@ -24,7 +24,7 @@
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.io",
-    "web": "https://twitter.com/davegandy"
+    "url": "https://twitter.com/davegandy"
   },
   "autoupdate": {
     "source": "npm",

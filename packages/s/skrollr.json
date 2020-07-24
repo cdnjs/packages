@@ -13,7 +13,7 @@
   "author": {
     "name": "Alexander Prinzhorn",
     "email": "alexander@prinzhorn.it",
-    "web": "http://www.prinzhorn.it/"
+    "url": "http://www.prinzhorn.it/"
   },
   "autoupdate": {
     "source": "git",
