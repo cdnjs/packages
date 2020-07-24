@@ -3,7 +3,7 @@
   "filename": "jquery.highlighttextarea.min.js",
   "author": {
     "name": "Gary Sieling",
-    "homepage": "https://www.garysieling.com/blog"
+    "url": "https://www.garysieling.com/blog"
   },
   "description": "Allows highlighting words and sentences in textareas",
   "keywords": [

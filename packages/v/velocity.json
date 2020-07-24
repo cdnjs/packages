@@ -3,7 +3,7 @@
   "homepage": "http://velocityjs.org",
   "author": {
     "name": "Julian Shapiro",
-    "homepage": "http://julian.com/"
+    "url": "http://julian.com/"
   },
   "autoupdate": {
     "source": "git",

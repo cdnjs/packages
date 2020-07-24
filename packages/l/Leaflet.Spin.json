@@ -4,7 +4,7 @@
   "homepage": "https://makinacorpus.github.io/Leaflet.Spin/",
   "author": {
     "name": "Makina Corpus",
-    "homepage": "http://makina-corpus.com/"
+    "url": "http://makina-corpus.com/"
   },
   "description": "Show a spinner on a Leaflet map using Spin.js",
   "keywords": [

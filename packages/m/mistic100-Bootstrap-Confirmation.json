@@ -5,8 +5,7 @@
   "description": "Bootstrap plugin for on-place confirm boxes using Popover",
   "author": {
     "name": "Damien Sorel",
-    "url": "https://github.com/mistic100",
-    "homepage": "http://www.strangeplanet.fr"
+    "url": "http://www.strangeplanet.fr"
   },
   "keywords": [
     "confirmation",
