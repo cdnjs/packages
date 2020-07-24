@@ -13,9 +13,6 @@
     "url": "https://github.com/rstacruz/nprogress.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Rico Sta. Cruz <hi@ricostacruz.com>"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "nprogress",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rico Sta. Cruz <hi@ricostacruz.com>"
+    }
+  ]
 }

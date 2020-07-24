@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/eavichay/slim.js.git"
   },
-  "author": {
-    "name": "Avichay Eyal <eavichay@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "http://slimjs.com",
   "keywords": [
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Avichay Eyal <eavichay@gmail.com>"
+    }
+  ]
 }

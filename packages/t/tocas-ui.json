@@ -25,7 +25,9 @@
     "url": "https://github.com/TeaMeow/TocasUI"
   },
   "license": "MIT",
-  "author": {
-    "name": "Yami Odymel <yamiodymel@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Yami Odymel <yamiodymel@gmail.com>"
+    }
+  ]
 }

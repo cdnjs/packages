@@ -1,8 +1,5 @@
 {
   "name": "angular-formly-templates-bootstrap",
-  "author": {
-    "name": "Astrism <astrisms@gmail.com>"
-  },
   "homepage": "http://formly-js.github.io/angular-formly-templates-bootstrap/",
   "repository": {
     "type": "git",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Astrism <astrisms@gmail.com>"
+    }
+  ]
 }

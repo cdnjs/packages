@@ -11,11 +11,6 @@
     "jsx",
     "cssx"
   ],
-  "author": {
-    "name": "Krasimir Tsonev",
-    "email": "info@krasimirtsonev.com",
-    "url": "http://krasimirtsonev.com"
-  },
   "license": "MIT",
   "homepage": "https://krasimir.github.io/cssx/",
   "autoupdate": {
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Krasimir Tsonev",
+      "email": "info@krasimirtsonev.com",
+      "url": "http://krasimirtsonev.com"
+    }
+  ]
 }

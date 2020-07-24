@@ -1,9 +1,6 @@
 {
   "name": "cyclejs-dom",
   "filename": "cycle-dom.min.js",
-  "author": {
-    "name": "Andre Staltz"
-  },
   "description": "The standard DOM Driver for Cycle.js, based on virtual-dom, and other helpers",
   "license": "MIT",
   "repository": {
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andre Staltz"
+    }
+  ]
 }

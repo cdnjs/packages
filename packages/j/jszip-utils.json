@@ -1,9 +1,6 @@
 {
   "name": "jszip-utils",
   "filename": "jszip-utils.min.js",
-  "author": {
-    "name": "Stuart Knightley <stuart@stuartk.com>"
-  },
   "description": "A collection of cross-browser utilities to go along with JSZip.",
   "repository": {
     "type": "git",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stuart Knightley <stuart@stuartk.com>"
+    }
+  ]
 }

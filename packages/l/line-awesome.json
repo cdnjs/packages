@@ -9,9 +9,6 @@
     "line-awesome",
     "font-awesome"
   ],
-  "author": {
-    "name": "Icons8"
-  },
   "license": "MIT",
   "homepage": "https://github.com/icons8/line-awesome#readme",
   "repository": {
@@ -36,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Icons8"
+    }
+  ]
 }

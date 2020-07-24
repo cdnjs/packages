@@ -1,10 +1,6 @@
 {
   "name": "6to5",
   "description": "Turn ES6 code into readable vanilla ES5 with source maps",
-  "author": {
-    "name": "Sebastian McKenzie",
-    "email": "sebmck@gmail.com"
-  },
   "filename": "browser.js",
   "homepage": "https://6to5.org/",
   "repository": {
@@ -36,5 +32,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sebastian McKenzie",
+      "email": "sebmck@gmail.com"
+    }
+  ]
 }

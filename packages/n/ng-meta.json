@@ -16,9 +16,6 @@
     "description",
     "spa"
   ],
-  "author": {
-    "name": "Vinay Gopinath"
-  },
   "license": "MIT",
   "homepage": "https://vinaygopinath.github.io/ngMeta",
   "autoupdate": {
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vinay Gopinath"
+    }
+  ]
 }

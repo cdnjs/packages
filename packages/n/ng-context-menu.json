@@ -9,12 +9,14 @@
     "angularjs",
     "angular"
   ],
-  "author": {
-    "name": "Ian Kennington Walter (http://ianvonwalter.com)"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/ianwalter/ng-context-menu.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Ian Kennington Walter (http://ianvonwalter.com)"
+    }
+  ]
 }

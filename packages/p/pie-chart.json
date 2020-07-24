@@ -2,9 +2,6 @@
   "name": "pie-chart",
   "license": "MIT",
   "filename": "pie-chart.min.js",
-  "author": {
-    "name": "lorem--ipsum <vaporzub@gmail.com>"
-  },
   "description": "Awesome pie charts for AngularJS",
   "keywords": [
     "charts",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "lorem--ipsum <vaporzub@gmail.com>"
+    }
+  ]
 }

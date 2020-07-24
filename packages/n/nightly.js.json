@@ -13,9 +13,6 @@
     "frontend",
     "darkmode"
   ],
-  "author": {
-    "name": "Fortas Abdeldjalil"
-  },
   "license": "GPL-3.0",
   "autoupdate": {
     "source": "git",
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Fortas Abdeldjalil"
+    }
+  ]
 }

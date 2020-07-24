@@ -3,11 +3,6 @@
   "filename": "jquery.vmap.min.js",
   "description": "jQuery Vector Map Library",
   "homepage": "http://jqvmap.com",
-  "author": {
-    "email": "me@peterschmalfeldt.com",
-    "name": "JQVMap",
-    "url": "http://jqvmap.com"
-  },
   "licenses": [
     "MIT",
     "GPL-3.0"
@@ -34,5 +29,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "me@peterschmalfeldt.com",
+      "name": "JQVMap",
+      "url": "http://jqvmap.com"
+    }
+  ]
 }

@@ -14,9 +14,6 @@
     "dropbox",
     "webcam"
   ],
-  "author": {
-    "name": ""
-  },
   "license": "MIT",
   "homepage": "https://uppy.io",
   "repository": {
@@ -35,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": ""
+    }
+  ]
 }

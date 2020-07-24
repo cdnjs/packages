@@ -2,9 +2,6 @@
   "name": "nanobar",
   "filename": "nanobar.min.js",
   "description": "Very lightweight js progress bars (for browsers)",
-  "author": {
-    "name": "Jacobo Tabernero"
-  },
   "homepage": "http://nanobar.micronube.com",
   "keywords": [
     "progressbar",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jacobo Tabernero"
+    }
+  ]
 }

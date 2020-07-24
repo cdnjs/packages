@@ -18,9 +18,6 @@
     "svg",
     "charts"
   ],
-  "author": {
-    "name": "Christian Maurer"
-  },
   "license": "Apache License, v2.0",
   "autoupdate": {
     "source": "git",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Christian Maurer"
+    }
+  ]
 }

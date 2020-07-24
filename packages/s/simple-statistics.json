@@ -1,9 +1,6 @@
 {
   "name": "simple-statistics",
   "description": "Simple Statistics",
-  "author": {
-    "name": "Tom MacWright <tom@macwright.org> (http://macwright.org/)"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/simple-statistics/simple-statistics.git"
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tom MacWright <tom@macwright.org> (http://macwright.org/)"
+    }
+  ]
 }

@@ -6,9 +6,6 @@
   "keywords": [
     "phone"
   ],
-  "author": {
-    "name": "Stripe (https://www.stripe.com)"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/stripe/jquery.mobilePhoneNumber.git"
@@ -24,5 +21,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stripe (https://www.stripe.com)"
+    }
+  ]
 }

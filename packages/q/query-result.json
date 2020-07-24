@@ -14,10 +14,6 @@
     "utility",
     "DOM"
   ],
-  "author": {
-    "name": "Andrea Giammarchi",
-    "url": "http://webreflection.blogspot.com/"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/WebReflection/query-result.git"
@@ -37,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrea Giammarchi",
+      "url": "http://webreflection.blogspot.com/"
+    }
+  ]
 }

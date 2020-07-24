@@ -28,7 +28,9 @@
     "url": "https://github.com/joeldbirch/superfish"
   },
   "license": "MIT",
-  "author": {
-    "name": "Joel Birch"
-  }
+  "authors": [
+    {
+      "name": "Joel Birch"
+    }
+  ]
 }

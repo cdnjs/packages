@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git://github.com/esri/terraformer.git"
   },
-  "author": {
-    "name": "Patrick Arlt <parlt@esri.com> (http://patrickarlt.com)"
-  },
   "license": "MIT",
   "keywords": [
     "terraformer"
@@ -24,5 +21,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Patrick Arlt <parlt@esri.com> (http://patrickarlt.com)"
+    }
+  ]
 }

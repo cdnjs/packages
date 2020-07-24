@@ -10,9 +10,6 @@
     "pagespeed"
   ],
   "homepage": "http://thejunkland.com/blog/fixing-last-point-on-google-pagespeed-insights.html",
-  "author": {
-    "name": "Jesse Luoto"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jesse Luoto"
+    }
+  ]
 }

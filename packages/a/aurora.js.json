@@ -2,10 +2,6 @@
   "name": "aurora.js",
   "description": "Audio decoding framework",
   "filename": "aurora.min.js",
-  "author": {
-    "name": "Audiocogs",
-    "url": "http://audiocogs.org/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/audiocogs/aurora.js.git"
@@ -15,5 +11,11 @@
     "framework",
     "decoder",
     "audio"
+  ],
+  "authors": [
+    {
+      "name": "Audiocogs",
+      "url": "http://audiocogs.org/"
+    }
   ]
 }

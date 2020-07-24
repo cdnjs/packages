@@ -3,9 +3,6 @@
   "filename": "particles.min.js",
   "description": "A lightweight JavaScript library for creating particles",
   "homepage": "http://vincentgarreau.com/particles.js",
-  "author": {
-    "name": "Vincent Garreau"
-  },
   "keywords": [
     "particles",
     "particle",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vincent Garreau"
+    }
+  ]
 }

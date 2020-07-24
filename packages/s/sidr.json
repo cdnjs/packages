@@ -30,7 +30,9 @@
     "url": "https://github.com/artberri/sidr.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "artberri"
-  }
+  "authors": [
+    {
+      "name": "artberri"
+    }
+  ]
 }

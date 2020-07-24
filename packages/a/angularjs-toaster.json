@@ -25,7 +25,9 @@
     "url": "https://github.com/jirikavi/AngularJS-Toaster"
   },
   "license": "MIT",
-  "author": {
-    "name": "Jiri Kavulak"
-  }
+  "authors": [
+    {
+      "name": "Jiri Kavulak"
+    }
+  ]
 }

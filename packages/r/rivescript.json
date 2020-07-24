@@ -16,10 +16,6 @@
     "url": "git+https://github.com/aichaos/rivescript-js.git"
   },
   "homepage": "https://www.rivescript.com/",
-  "author": {
-    "name": "kirsle",
-    "url": "https://github.com/kirsle"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "kirsle",
+      "url": "https://github.com/kirsle"
+    }
+  ]
 }

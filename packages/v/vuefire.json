@@ -12,9 +12,6 @@
     "firebase",
     "realtime"
   ],
-  "author": {
-    "name": "Evan You"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Evan You"
+    }
+  ]
 }

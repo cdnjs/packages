@@ -10,9 +10,6 @@
     "ie8",
     "polyfill"
   ],
-  "author": {
-    "name": "Cory Simmons"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Cory Simmons"
+    }
+  ]
 }

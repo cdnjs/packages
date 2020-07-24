@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/chmln/flatpickr.git"
   },
-  "author": {
-    "name": "Gregory"
-  },
   "license": "MIT",
   "homepage": "https://chmln.github.io/flatpickr",
   "keywords": [
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Gregory"
+    }
+  ]
 }

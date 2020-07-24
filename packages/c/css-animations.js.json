@@ -24,8 +24,10 @@
       }
     ]
   },
-  "author": {
-    "name": "James Long"
-  },
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "authors": [
+    {
+      "name": "James Long"
+    }
+  ]
 }

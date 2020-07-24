@@ -26,9 +26,11 @@
     "url": "git://github.com/dperini/nwmatcher.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Diego Perini",
-    "email": "diego.perini@gmail.com",
-    "url": "http://www.iport.it/"
-  }
+  "authors": [
+    {
+      "name": "Diego Perini",
+      "email": "diego.perini@gmail.com",
+      "url": "http://www.iport.it/"
+    }
+  ]
 }

@@ -13,9 +13,6 @@
     "html",
     "squire"
   ],
-  "author": {
-    "name": "Neil Jenkins"
-  },
   "license": "MIT",
   "homepage": "https://neilj.github.io/Squire/",
   "autoupdate": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Neil Jenkins"
+    }
+  ]
 }

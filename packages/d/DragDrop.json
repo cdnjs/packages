@@ -10,9 +10,6 @@
     "MIT",
     "GPL-3.0"
   ],
-  "author": {
-    "name": "James Brumond"
-  },
   "homepage": "https://kbjr.github.io/DragDrop/index.html",
   "keywords": [
     "drag",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "James Brumond"
+    }
+  ]
 }

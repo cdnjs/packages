@@ -1,9 +1,6 @@
 {
   "name": "svg4everybody",
   "description": "Use external SVG spritemaps in any browser",
-  "author": {
-    "name": "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com)"
-  },
   "license": "CC0-1.0",
   "keywords": [
     "svgs",
@@ -36,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com)"
+    }
+  ]
 }

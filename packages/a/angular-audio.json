@@ -3,9 +3,6 @@
   "filename": "angular.audio.min.js",
   "description": "Total awesomeness for playing sounds in AngularJS",
   "license": "MIT",
-  "author": {
-    "name": "danielstern"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/danielstern/ngAudio.git"
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "danielstern"
+    }
+  ]
 }

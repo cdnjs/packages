@@ -2,9 +2,6 @@
   "name": "bootstrap-markdown-editor",
   "filename": "js/bootstrap-markdown-editor.js",
   "description": "Markdown editor for Bootstrap with preview, image upload support, shortcuts and other features.",
-  "author": {
-    "name": "Ignacio de Tomás <nacho@inacho.es>"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/inacho/bootstrap-markdown-editor.git"
@@ -27,5 +24,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ignacio de Tomás <nacho@inacho.es>"
+    }
+  ]
 }

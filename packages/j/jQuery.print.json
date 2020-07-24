@@ -25,7 +25,9 @@
       }
     ]
   },
-  "author": {
-    "name": "Sathvik P <sathvik@doersguild.com>"
-  }
+  "authors": [
+    {
+      "name": "Sathvik P <sathvik@doersguild.com>"
+    }
+  ]
 }

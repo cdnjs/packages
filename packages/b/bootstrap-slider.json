@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git://github.com/seiyria/bootstrap-slider.git"
   },
-  "author": {
-    "name": "Kyle J. Kemp"
-  },
   "license": "BSD",
   "keywords": [
     "slider",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kyle J. Kemp"
+    }
+  ]
 }

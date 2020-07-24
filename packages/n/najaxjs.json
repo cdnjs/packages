@@ -2,9 +2,6 @@
   "name": "najaxjs",
   "filename": "najax.min.js",
   "description": "Ajax simple library. You can use ajax easily and customize request & response behaviors.",
-  "author": {
-    "name": "anyjser"
-  },
   "license": "MIT",
   "keywords": [
     "any",
@@ -39,5 +36,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "anyjser"
+    }
+  ]
 }

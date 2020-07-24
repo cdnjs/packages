@@ -27,7 +27,9 @@
     "url": "https://github.com/jasmine/jasmine.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "slackersoft <gregg@slackersoft.net>"
-  }
+  "authors": [
+    {
+      "name": "slackersoft <gregg@slackersoft.net>"
+    }
+  ]
 }

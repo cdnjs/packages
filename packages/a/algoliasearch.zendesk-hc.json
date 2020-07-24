@@ -2,9 +2,6 @@
   "name": "algoliasearch.zendesk-hc",
   "filename": "algoliasearch.zendesk-hc.min.js",
   "description": "Algolia Search for Zendesk's Help Center",
-  "author": {
-    "name": "Algolia <support@algolia.com>"
-  },
   "keywords": [
     "algolia",
     "search",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Algolia <support@algolia.com>"
+    }
+  ]
 }

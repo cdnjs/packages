@@ -12,9 +12,6 @@
     "accessibility"
   ],
   "homepage": "https://khan.github.io/tota11y/",
-  "author": {
-    "name": "Jordan Scales <scalesjordan@gmail.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jordan Scales <scalesjordan@gmail.com>"
+    }
+  ]
 }

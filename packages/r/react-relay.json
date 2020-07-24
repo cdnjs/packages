@@ -13,9 +13,6 @@
     "type": "git",
     "url": "https://github.com/facebook/relay.git"
   },
-  "author": {
-    "name": "Facebook Inc"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "react-relay",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Facebook Inc"
+    }
+  ]
 }

@@ -12,7 +12,9 @@
     "url": "https://github.com/OscarGodson/EpicEditor"
   },
   "license": "MIT",
-  "author": {
-    "name": "Oscar Godson <oscargodson@gmail.com> (http://oscargodson.com)"
-  }
+  "authors": [
+    {
+      "name": "Oscar Godson <oscargodson@gmail.com> (http://oscargodson.com)"
+    }
+  ]
 }

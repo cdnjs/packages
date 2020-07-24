@@ -9,9 +9,6 @@
     "organization chart",
     "tree-like"
   ],
-  "author": {
-    "name": "dabeng <dabeng413@gmail.com>"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dabeng/OrgChart-Webcomponents.git"
@@ -28,5 +25,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dabeng <dabeng413@gmail.com>"
+    }
+  ]
 }

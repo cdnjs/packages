@@ -10,11 +10,6 @@
     "client-side",
     "canvas"
   ],
-  "author": {
-    "name": "Erik Koopmans",
-    "email": "erik@erik-koopmans.com",
-    "url": "https://www.erik-koopmans.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -31,5 +26,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/eKoopmans/html2pdf.js.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Erik Koopmans",
+      "email": "erik@erik-koopmans.com",
+      "url": "https://www.erik-koopmans.com"
+    }
+  ]
 }

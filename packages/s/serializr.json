@@ -8,9 +8,6 @@
     "json",
     "mobx"
   ],
-  "author": {
-    "name": "Michel Weststrate"
-  },
   "license": "MIT",
   "homepage": "",
   "repository": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Michel Weststrate"
+    }
+  ]
 }

@@ -15,9 +15,6 @@
     "encryption",
     "password"
   ],
-  "author": {
-    "name": "Dave T. Johnson <dave@dtjohnson.net>"
-  },
   "license": "MIT",
   "homepage": "https://github.com/dtjohnson/xlsx-populate#readme",
   "repository": {
@@ -36,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dave T. Johnson <dave@dtjohnson.net>"
+    }
+  ]
 }

@@ -10,9 +10,6 @@
     "caching",
     "asset"
   ],
-  "author": {
-    "name": "Vitaly Puzrin <vitaly@rcdesign.ru>"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/nodeca/bag.js.git"
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vitaly Puzrin <vitaly@rcdesign.ru>"
+    }
+  ]
 }

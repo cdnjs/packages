@@ -25,7 +25,9 @@
     "url": "https://github.com/troolee/gridstack.js.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Pavel Reznikov <pashka.reznikov@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Pavel Reznikov <pashka.reznikov@gmail.com>"
+    }
+  ]
 }

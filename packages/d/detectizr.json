@@ -15,10 +15,6 @@
     "javascript",
     "js"
   ],
-  "author": {
-    "name": "Baris Aydinoglu",
-    "url": "http://baris.aydinoglu.info/"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -35,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Baris Aydinoglu",
+      "url": "http://baris.aydinoglu.info/"
+    }
+  ]
 }

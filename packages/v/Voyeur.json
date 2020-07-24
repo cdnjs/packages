@@ -7,10 +7,6 @@
     "traverse",
     "DOM"
   ],
-  "author": {
-    "name": "Adrian Cooney",
-    "email": "cooney.adrian@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/adriancooney/voyeur.js.git"
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Adrian Cooney",
+      "email": "cooney.adrian@gmail.com"
+    }
+  ]
 }

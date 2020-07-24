@@ -8,9 +8,6 @@
     "sass",
     "less"
   ],
-  "author": {
-    "name": "nzbin"
-  },
   "license": "MIT",
   "homepage": "https://nzbin.github.io/three-dots/",
   "repository": {
@@ -35,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "nzbin"
+    }
+  ]
 }

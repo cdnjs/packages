@@ -2,9 +2,6 @@
   "name": "titatoggle",
   "filename": "titatoggle-dist-min.css",
   "description": "Default bootstrap checkbox toggle buttons. Just default Bootstrap, add a class to use these awesome toggle buttons. Browser support: Internet Explorer 9, FireFox, Safari, Chrome, Safari Ios, Stock Android browser 4.2, Chrome Android",
-  "author": {
-    "name": "Jan Enning"
-  },
   "homepage": "https://kleinejan.github.io/titatoggle/",
   "repository": {
     "type": "git",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jan Enning"
+    }
+  ]
 }

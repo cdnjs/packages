@@ -11,9 +11,6 @@
     "console.log",
     "cross-browser"
   ],
-  "author": {
-    "name": "Ben Alman"
-  },
   "licenses": [
     "MIT",
     "GPL-2.0"
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ben Alman"
+    }
+  ]
 }

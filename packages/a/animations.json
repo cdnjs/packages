@@ -10,8 +10,10 @@
     "type": "git",
     "url": "https://github.com/joemottershaw/animations.git"
   },
-  "author": {
-    "name": "Joe Mottershaw",
-    "url": "https://github.com/joemottershaw/"
-  }
+  "authors": [
+    {
+      "name": "Joe Mottershaw",
+      "url": "https://github.com/joemottershaw/"
+    }
+  ]
 }

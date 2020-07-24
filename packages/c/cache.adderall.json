@@ -14,9 +14,6 @@
     "service workers",
     "serviceworker"
   ],
-  "author": {
-    "name": "Tal Ater <tal@talater.com> (https://www.talater.com/)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -30,5 +27,10 @@
       }
     ]
   },
-  "filename": "cache.adderall.js"
+  "filename": "cache.adderall.js",
+  "authors": [
+    {
+      "name": "Tal Ater <tal@talater.com> (https://www.talater.com/)"
+    }
+  ]
 }

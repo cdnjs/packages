@@ -14,10 +14,6 @@
     "img",
     "thumbnails"
   ],
-  "author": {
-    "name": "Alejandro Emparan",
-    "url": "https://github.com/karacas"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/karacas/imgLiquid.git"
@@ -34,5 +30,11 @@
       }
     ]
   },
-  "filename": "js/imgLiquid-min.js"
+  "filename": "js/imgLiquid-min.js",
+  "authors": [
+    {
+      "name": "Alejandro Emparan",
+      "url": "https://github.com/karacas"
+    }
+  ]
 }

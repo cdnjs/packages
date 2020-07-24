@@ -9,14 +9,16 @@
     "wrapper",
     "webkit"
   ],
-  "author": {
-    "name": "Mikhail Davydov",
-    "email": "azazel.private@gmail.com",
-    "url": "http://azproduction.ru/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/azproduction/jquery.notification"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mikhail Davydov",
+      "email": "azazel.private@gmail.com",
+      "url": "http://azproduction.ru/"
+    }
+  ]
 }

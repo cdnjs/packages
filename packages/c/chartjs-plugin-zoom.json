@@ -2,9 +2,6 @@
   "name": "chartjs-plugin-zoom",
   "description": "Simple HTML5 charts using the canvas element.",
   "filename": "chartjs-plugin-zoom.min.js",
-  "author": {
-    "name": "Evert Timberg <evert.timberg@gmail.com>"
-  },
   "keywords": [
     "chartjs",
     "plugin",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Evert Timberg <evert.timberg@gmail.com>"
+    }
+  ]
 }

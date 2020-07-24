@@ -25,11 +25,6 @@
     "type": "git",
     "url": "https://github.com/ressio/lazy-load-xt.git"
   },
-  "author": {
-    "name": "RESS.io",
-    "email": "hello@ress.io",
-    "url": "http://ress.io/"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "lazyloadxt",
@@ -41,5 +36,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "RESS.io",
+      "email": "hello@ress.io",
+      "url": "http://ress.io/"
+    }
+  ]
 }

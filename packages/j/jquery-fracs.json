@@ -3,9 +3,6 @@
   "filename": "jquery.fracs.min.js",
   "description": "determine the visible fractions of an HTML element",
   "homepage": "http://larsjung.de/jquery-fracs/",
-  "author": {
-    "name": "Lars Jung <lrsjng@gmail.com> (http://larsjung.de)"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -26,5 +23,10 @@
   "keywords": [
     "jquery",
     "fracs"
+  ],
+  "authors": [
+    {
+      "name": "Lars Jung <lrsjng@gmail.com> (http://larsjung.de)"
+    }
   ]
 }

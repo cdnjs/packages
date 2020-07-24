@@ -11,11 +11,6 @@
     "type": "git",
     "url": "https://github.com/gdsmith/jquery.easing"
   },
-  "author": {
-    "name": "George McGinley Smith",
-    "email": "george@gsgd.co.uk",
-    "url": "http://gsgd.co.uk/"
-  },
   "licenses": [
     "MIT",
     "BSD-3-Clause"
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "George McGinley Smith",
+      "email": "george@gsgd.co.uk",
+      "url": "http://gsgd.co.uk/"
+    }
+  ]
 }

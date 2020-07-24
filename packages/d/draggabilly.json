@@ -25,7 +25,9 @@
     "url": "https://github.com/desandro/draggabilly"
   },
   "license": "MIT",
-  "author": {
-    "name": "David DeSandro"
-  }
+  "authors": [
+    {
+      "name": "David DeSandro"
+    }
+  ]
 }

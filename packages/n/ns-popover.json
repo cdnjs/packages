@@ -1,9 +1,6 @@
 {
   "name": "ns-popover",
   "filename": "nsPopover.min.js",
-  "author": {
-    "name": "Neylor Ohmaly"
-  },
   "description": "A popover directive for angularJs",
   "homepage": "http://nohros.com/nsPopover",
   "keywords": [
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Neylor Ohmaly"
+    }
+  ]
 }

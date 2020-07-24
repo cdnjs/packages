@@ -29,8 +29,10 @@
     "url": "https://github.com/flesler/jquery.scrollTo"
   },
   "license": "MIT",
-  "author": {
-    "name": "Ariel Flesler",
-    "url": "http://flesler.blogspot.com/"
-  }
+  "authors": [
+    {
+      "name": "Ariel Flesler",
+      "url": "http://flesler.blogspot.com/"
+    }
+  ]
 }

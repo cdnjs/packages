@@ -15,7 +15,9 @@
     "type": "git",
     "url": "https://github.com/vladakilov/imagine"
   },
-  "author": {
-    "name": "Vlad Akilov <vlad.akilov@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Vlad Akilov <vlad.akilov@gmail.com>"
+    }
+  ]
 }

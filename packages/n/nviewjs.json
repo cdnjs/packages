@@ -2,9 +2,6 @@
   "name": "nviewjs",
   "filename": "nview.min.js",
   "description": "View template engine.",
-  "author": {
-    "name": "anyjser"
-  },
   "license": "MIT",
   "keywords": [
     "any",
@@ -36,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "anyjser"
+    }
+  ]
 }

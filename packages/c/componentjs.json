@@ -4,11 +4,6 @@
   "homepage": "http://componentjs.com/",
   "description": "Powerful run-time Component System for structuring HTML5-based Rich Clients",
   "license": "MPL-2.0",
-  "author": {
-    "name": "Ralf S. Engelschall",
-    "email": "rse@engelschall.com",
-    "url": "http://engelschall.com"
-  },
   "keywords": [
     "component system",
     "rich client",
@@ -38,5 +33,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ralf S. Engelschall",
+      "email": "rse@engelschall.com",
+      "url": "http://engelschall.com"
+    }
+  ]
 }

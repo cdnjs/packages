@@ -3,10 +3,6 @@
   "filename": "jquery.collapsible.min.js",
   "description": "This plugin enables site owners to control multiple collapsible panels by auto opening any defaults specified, and keeping those opened/closed by users as they left them while browsing your site.",
   "homepage": "http://www.snyderplace.com/demos/collapsible.html",
-  "author": {
-    "name": "John Snyder",
-    "url": "http://www.snyderplace.com"
-  },
   "keywords": [
     "jquery",
     "collapsable",
@@ -16,5 +12,11 @@
   "repository": {
     "type": "git",
     "url": "git://github.juven14/Collapsible.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "John Snyder",
+      "url": "http://www.snyderplace.com"
+    }
+  ]
 }

@@ -13,9 +13,6 @@
     "javascript framework",
     "pretty dialogs"
   ],
-  "author": {
-    "name": "Mohammad Younes <Mohammad@alertifyjs.com> (http://alertifyjs.com)"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:MohammadYounes/AlertifyJS.git"
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mohammad Younes <Mohammad@alertifyjs.com> (http://alertifyjs.com)"
+    }
+  ]
 }

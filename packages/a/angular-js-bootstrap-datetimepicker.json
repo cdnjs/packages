@@ -2,9 +2,6 @@
   "name": "angular-js-bootstrap-datetimepicker",
   "filename": "datetimepicker.min.js",
   "description": "Date-time picker AngularJS Bootstrap plugin",
-  "author": {
-    "name": "Vitalii Fedorenko"
-  },
   "keywords": [
     "date",
     "time",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vitalii Fedorenko"
+    }
+  ]
 }

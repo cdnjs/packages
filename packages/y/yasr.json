@@ -1,9 +1,6 @@
 {
   "name": "yasr",
   "description": "Yet Another SPARQL Resultset Visualizer",
-  "author": {
-    "name": "Laurens Rietveld"
-  },
   "homepage": "http://yasr.yasgui.org",
   "keywords": [
     "JavaScript",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Laurens Rietveld"
+    }
+  ]
 }

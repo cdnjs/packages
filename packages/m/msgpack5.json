@@ -12,9 +12,6 @@
     "v5",
     "ext"
   ],
-  "author": {
-    "name": "Matteo collina <hello@matteocollina.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Matteo collina <hello@matteocollina.com>"
+    }
+  ]
 }

@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Aaron Mazade <ulinaaron@gmail.com>"
-  },
   "description": "A CSS survival kit.",
   "filename": "tent.min.css",
   "homepage": "https://css.sitetent.com",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Aaron Mazade <ulinaaron@gmail.com>"
+    }
+  ]
 }

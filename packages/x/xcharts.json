@@ -14,9 +14,6 @@
     "svg",
     "tenXer"
   ],
-  "author": {
-    "name": "tenXer"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "tenXer"
+    }
+  ]
 }

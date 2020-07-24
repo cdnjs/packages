@@ -23,7 +23,9 @@
     "type": "git",
     "url": "https://github.com/emn178/jquery-lazyload-any"
   },
-  "author": {
-    "name": "emn178 <emn178@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "emn178 <emn178@gmail.com>"
+    }
+  ]
 }

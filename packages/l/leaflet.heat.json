@@ -10,9 +10,6 @@
     "leaflet",
     "plugin"
   ],
-  "author": {
-    "name": "Vladimir Agafonkin"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/Leaflet/Leaflet.heat.git"
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vladimir Agafonkin"
+    }
+  ]
 }

@@ -8,9 +8,6 @@
     "animation",
     "time"
   ],
-  "author": {
-    "name": "Isaac Sukin (http://www.isaacsukin.com/)"
-  },
   "license": "MIT",
   "homepage": "https://github.com/IceCreamYou/MainLoop.js",
   "repository": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Isaac Sukin (http://www.isaacsukin.com/)"
+    }
+  ]
 }

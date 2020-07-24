@@ -8,9 +8,6 @@
     "mockJSON",
     "mockAjax"
   ],
-  "author": {
-    "name": "nuysoft@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/nuysoft/Mock.git"
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "nuysoft@gmail.com"
+    }
+  ]
 }

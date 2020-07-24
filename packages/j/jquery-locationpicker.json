@@ -11,9 +11,6 @@
     "radius"
   ],
   "license": "MIT",
-  "author": {
-    "name": "corvis"
-  },
   "homepage": "https://logicify.github.io/jquery-locationpicker-plugin/",
   "repository": {
     "type": "git",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "corvis"
+    }
+  ]
 }

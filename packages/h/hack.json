@@ -2,9 +2,6 @@
   "name": "hack",
   "filename": "hack.css",
   "description": "Dead simple CSS framework.",
-  "author": {
-    "name": "EGOIST <0x142857@gmail.com>"
-  },
   "license": "MIT",
   "keywords": [
     "hack",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "EGOIST <0x142857@gmail.com>"
+    }
+  ]
 }

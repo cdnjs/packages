@@ -9,11 +9,6 @@
     "javascript",
     "typescript"
   ],
-  "author": {
-    "name": "OnSIP",
-    "email": "developer@onsip.com",
-    "url": "https://sipjs.com/aboutus/"
-  },
   "license": "MIT",
   "homepage": "https://sipjs.com",
   "repository": {
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "OnSIP",
+      "email": "developer@onsip.com",
+      "url": "https://sipjs.com/aboutus/"
+    }
+  ]
 }

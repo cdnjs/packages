@@ -13,8 +13,10 @@
     "aurora",
     "decode"
   ],
-  "author": {
-    "name": "Devon Govett <devongovett@gmail.com>"
-  },
-  "license": "GPL"
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Devon Govett <devongovett@gmail.com>"
+    }
+  ]
 }

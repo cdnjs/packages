@@ -17,9 +17,6 @@
     "reads",
     "interactive"
   ],
-  "author": {
-    "name": "Dan Vanderkam"
-  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",
@@ -39,5 +36,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dan Vanderkam"
+    }
+  ]
 }

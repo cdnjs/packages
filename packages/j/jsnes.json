@@ -1,9 +1,6 @@
 {
   "name": "jsnes",
   "description": "A JavaScript NES emulator",
-  "author": {
-    "name": "Ben Firshman <ben@firshman.co.uk> (https://fir.sh)"
-  },
   "homepage": "https://jsnes.fir.sh",
   "filename": "jsnes.min.js",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ben Firshman <ben@firshman.co.uk> (https://fir.sh)"
+    }
+  ]
 }

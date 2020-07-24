@@ -2,9 +2,6 @@
   "name": "quill",
   "filename": "quill.min.js",
   "description": "Cross browser rich text editor",
-  "author": {
-    "name": "Jason Chen <jhchen7@gmail.com>"
-  },
   "homepage": "http://quilljs.com",
   "license": "BSD-3-Clause",
   "repository": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Chen <jhchen7@gmail.com>"
+    }
+  ]
 }

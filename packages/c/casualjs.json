@@ -9,8 +9,10 @@
     "html5canvas",
     "ActionScript"
   ],
-  "author": {
-    "name": "Alex Li"
-  },
-  "license": "Apache License 2.0"
+  "license": "Apache License 2.0",
+  "authors": [
+    {
+      "name": "Alex Li"
+    }
+  ]
 }

@@ -1,8 +1,5 @@
 {
   "name": "medium-editor",
-  "author": {
-    "name": "Davi Ferreira <hi@daviferreira.com>"
-  },
   "description": "Medium.com WYSIWYG editor clone.",
   "repository": {
     "type": "git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Davi Ferreira <hi@daviferreira.com>"
+    }
+  ]
 }

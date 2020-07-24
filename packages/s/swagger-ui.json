@@ -28,7 +28,9 @@
     "url": "https://github.com/swagger-api/swagger-ui.git"
   },
   "license": "Apache-2.0",
-  "author": {
-    "name": "Tony Tam <fehguy@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Tony Tam <fehguy@gmail.com>"
+    }
+  ]
 }

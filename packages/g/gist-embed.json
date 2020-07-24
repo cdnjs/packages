@@ -27,7 +27,9 @@
     "url": "https://github.com/blairvanderhoof/gist-embed"
   },
   "license": "BSD-2-Clause",
-  "author": {
-    "name": "Blair Vanderhoof"
-  }
+  "authors": [
+    {
+      "name": "Blair Vanderhoof"
+    }
+  ]
 }

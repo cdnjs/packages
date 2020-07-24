@@ -2,9 +2,6 @@
   "name": "taggle",
   "filename": "taggle.min.js",
   "description": "Taggle is a dependency-less tagging library",
-  "author": {
-    "name": "Sean Coker <sean@seancoker.com>"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:okcoker/taggle.js.git"
@@ -35,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sean Coker <sean@seancoker.com>"
+    }
+  ]
 }

@@ -6,9 +6,6 @@
     "type": "git",
     "url": "https://github.com/clappr/clappr.git"
   },
-  "author": {
-    "name": "Globo.com"
-  },
   "license": "BSD",
   "autoupdate": {
     "source": "git",
@@ -24,5 +21,10 @@
   },
   "keywords": [
     "clappr"
+  ],
+  "authors": [
+    {
+      "name": "Globo.com"
+    }
   ]
 }

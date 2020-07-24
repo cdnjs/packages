@@ -1,9 +1,6 @@
 {
   "name": "gitgraph.js",
   "filename": "gitgraph.min.js",
-  "author": {
-    "name": "Nicolas Carlo <nicolascarlo.espeon@gmail.com>"
-  },
   "description": "A JavaScript library to draw pretty git graphs in the browser",
   "repository": {
     "type": "git",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nicolas Carlo <nicolascarlo.espeon@gmail.com>"
+    }
+  ]
 }

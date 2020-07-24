@@ -10,9 +10,6 @@
     "editor",
     "jQuery"
   ],
-  "author": {
-    "name": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net/)"
-  },
   "license": "MIT",
   "filename": "jquery-json-editor.min.js",
   "autoupdate": {
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net/)"
+    }
+  ]
 }

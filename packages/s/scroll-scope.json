@@ -11,9 +11,6 @@
     "type": "git",
     "url": "https://github.com/Eiskis/scroll-scope.git"
   },
-  "author": {
-    "name": "Jerry Jäppinen <eiskis@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "http://eiskis.net/scroll-scope",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jerry Jäppinen <eiskis@gmail.com>"
+    }
+  ]
 }

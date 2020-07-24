@@ -4,10 +4,6 @@
   "description": "The Unite Gallery is multipurpose javascript gallery based on jquery library. It's built with a modular technique with a lot of accent of ease of use and customization",
   "license": "MIT",
   "homepage": "http://unitegallery.net/",
-  "author": {
-    "name": "Max Valiano",
-    "url": "https://github.com/vvvmax"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/vvvmax/unitegallery/"
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Max Valiano",
+      "url": "https://github.com/vvvmax"
+    }
+  ]
 }

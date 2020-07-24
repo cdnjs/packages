@@ -11,9 +11,6 @@
     "url": "git://github.com/jsoma/tabletop.git"
   },
   "license": "BSD",
-  "author": {
-    "name": "\"\""
-  },
   "autoupdate": {
     "source": "npm",
     "target": "tabletop",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "\"\""
+    }
+  ]
 }

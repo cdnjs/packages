@@ -1,9 +1,6 @@
 {
   "name": "angular-google-analytics",
   "description": "Angular Google Analytics - Easy tracking for your AngularJS application",
-  "author": {
-    "name": "Julien Bouquillon <julien@revolunet.com> (https://github.com/revolunet)"
-  },
   "filename": "angular-google-analytics.min.js",
   "repository": {
     "type": "git",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Julien Bouquillon <julien@revolunet.com> (https://github.com/revolunet)"
+    }
+  ]
 }

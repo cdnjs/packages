@@ -14,9 +14,6 @@
     "css3",
     "animation"
   ],
-  "author": {
-    "name": "aamirafridi@gmail.com"
-  },
   "license": "ISC",
   "homepage": "http://aamirafridi.com/jquery/jquery-marquee-plugin",
   "autoupdate": {
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "aamirafridi@gmail.com"
+    }
+  ]
 }

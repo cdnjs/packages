@@ -14,9 +14,6 @@
     "responsive",
     "wallop"
   ],
-  "author": {
-    "name": "Pedro Duarte <contact@peduarte.com> (http://pedroduarte.me)"
-  },
   "license": "MIT",
   "homepage": "http://pedroduarte.me/wallop",
   "autoupdate": {
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Pedro Duarte <contact@peduarte.com> (http://pedroduarte.me)"
+    }
+  ]
 }

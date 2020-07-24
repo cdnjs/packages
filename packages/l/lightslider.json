@@ -19,11 +19,6 @@
     "swipe",
     "thumbnail"
   ],
-  "author": {
-    "name": "Sachin N",
-    "email": "sachi77n@gmail.com",
-    "url": "https://github.com/sachinchoolur"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/sachinchoolur/lightslider.git"
@@ -40,5 +35,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sachin N",
+      "email": "sachi77n@gmail.com",
+      "url": "https://github.com/sachinchoolur"
+    }
+  ]
 }

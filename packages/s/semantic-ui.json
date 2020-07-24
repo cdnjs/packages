@@ -24,7 +24,9 @@
     "url": "https://github.com/Semantic-Org/Semantic-UI"
   },
   "license": "MIT",
-  "author": {
-    "name": "Jack Lukic <jack@semantic-ui.com>"
-  }
+  "authors": [
+    {
+      "name": "Jack Lukic <jack@semantic-ui.com>"
+    }
+  ]
 }

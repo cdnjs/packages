@@ -12,9 +12,6 @@
     "url": "https://github.com/joequery/Stupid-Table-Plugin"
   },
   "license": "MIT",
-  "author": {
-    "name": "Joseph McCullough"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/joequery/Stupid-Table-Plugin.git",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Joseph McCullough"
+    }
+  ]
 }

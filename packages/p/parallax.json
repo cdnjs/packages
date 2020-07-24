@@ -4,9 +4,6 @@
   "description": "Parallax Engine that reacts to the orientation of a smart device.",
   "license": "MIT",
   "homepage": "http://matthew.wagerfield.com/parallax/",
-  "author": {
-    "name": "Matthew Wagerfield <matthew@wagerfield.com>"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/wagerfield/parallax.git"
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Matthew Wagerfield <matthew@wagerfield.com>"
+    }
+  ]
 }

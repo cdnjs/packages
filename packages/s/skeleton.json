@@ -26,7 +26,9 @@
     "url": "https://github.com/dhg/Skeleton.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Dave Gamache <hello@davegamache.com> (http://davegamache.com/)"
-  }
+  "authors": [
+    {
+      "name": "Dave Gamache <hello@davegamache.com> (http://davegamache.com/)"
+    }
+  ]
 }

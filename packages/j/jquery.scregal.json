@@ -13,9 +13,6 @@
     "slides",
     "images"
   ],
-  "author": {
-    "name": "Bartłomiej Semańczyk kunass2 bartekss2@gmail.com"
-  },
   "license": "MIT",
   "homepage": "http://scregal.blue-world.pl",
   "autoupdate": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Bartłomiej Semańczyk kunass2 bartekss2@gmail.com"
+    }
+  ]
 }

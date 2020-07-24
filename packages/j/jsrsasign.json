@@ -43,9 +43,6 @@
     "JOSE",
     "JWA"
   ],
-  "author": {
-    "name": "Kenji Urushima"
-  },
   "license": "MIT",
   "homepage": "https://kjur.github.io/jsrsasign/",
   "autoupdate": {
@@ -61,5 +58,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kenji Urushima"
+    }
+  ]
 }

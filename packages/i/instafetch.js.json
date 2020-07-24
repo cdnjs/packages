@@ -11,9 +11,6 @@
     "fetch",
     "instagram"
   ],
-  "author": {
-    "name": "Thomas Vaeth <thomas.vaeth@gmail.com> (http://thomasvaeth.com/)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Thomas Vaeth <thomas.vaeth@gmail.com> (http://thomasvaeth.com/)"
+    }
+  ]
 }

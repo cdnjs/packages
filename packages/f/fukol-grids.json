@@ -11,9 +11,6 @@
     "type": "do as thou wilt",
     "url": "https://github.com/Heydon/fukol-grids/blob/master/LICENSE.txt"
   },
-  "author": {
-    "name": "Heydon Pickering <heydon@heydonworks.com>"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/Heydon/fukol-grids.git",
@@ -29,5 +26,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Heydon/fukol-grids.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Heydon Pickering <heydon@heydonworks.com>"
+    }
+  ]
 }

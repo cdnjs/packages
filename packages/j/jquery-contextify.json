@@ -11,9 +11,6 @@
     "context",
     "menu"
   ],
-  "author": {
-    "name": "Adam Bouqdib (http://abemedia.co.uk)"
-  },
   "license": "GPL-2.0",
   "homepage": "http://contextify.js.org",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Adam Bouqdib (http://abemedia.co.uk)"
+    }
+  ]
 }

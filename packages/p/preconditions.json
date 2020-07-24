@@ -24,7 +24,9 @@
     "url": "https://github.com/anshulverma/conditional/"
   },
   "license": "MIT",
-  "author": {
-    "name": "Anshul Verma <anshul.verma86@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Anshul Verma <anshul.verma86@gmail.com>"
+    }
+  ]
 }

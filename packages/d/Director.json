@@ -19,9 +19,6 @@
     "type": "git",
     "url": "git://github.com/flatiron/director.git"
   },
-  "author": {
-    "name": "Charlie Robbins <charlie.robbins@gmail.com>"
-  },
   "license": "MIT",
   "keywords": [
     "URL",
@@ -31,5 +28,10 @@
     "flatiron",
     "client side",
     "ender"
+  ],
+  "authors": [
+    {
+      "name": "Charlie Robbins <charlie.robbins@gmail.com>"
+    }
   ]
 }

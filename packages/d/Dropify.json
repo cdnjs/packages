@@ -13,9 +13,6 @@
     "type": "git",
     "url": "https://github.com/JeremyFagis/dropify.git"
   },
-  "author": {
-    "name": "Jeremy FAGIS"
-  },
   "homepage": "https://jeremyfagis.github.io/dropify/",
   "license": "MIT",
   "autoupdate": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeremy FAGIS"
+    }
+  ]
 }

@@ -14,9 +14,6 @@
     "theme",
     "google"
   ],
-  "author": {
-    "name": "Tim O'Donnell"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/todc/todc-bootstrap.git"
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tim O'Donnell"
+    }
+  ]
 }

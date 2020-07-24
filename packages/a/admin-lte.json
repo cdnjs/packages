@@ -7,9 +7,6 @@
   },
   "license": "MIT",
   "homepage": "http://almsaeedstudio.com",
-  "author": {
-    "name": "Abdullah Almsaeed <support@almsaeedstudio.com>"
-  },
   "description": "Admin dashboard and control panel template",
   "keywords": [
     "css",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Abdullah Almsaeed <support@almsaeedstudio.com>"
+    }
+  ]
 }

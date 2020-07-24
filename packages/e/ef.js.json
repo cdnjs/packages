@@ -12,9 +12,6 @@
     "ef",
     "ef.js"
   ],
-  "author": {
-    "name": "ClassicOldSong"
-  },
   "license": "MIT",
   "homepage": "https://ef.js.org",
   "autoupdate": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "ClassicOldSong"
+    }
+  ]
 }

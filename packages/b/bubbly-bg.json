@@ -2,9 +2,6 @@
   "name": "bubbly-bg",
   "filename": "bubbly-bg.js",
   "description": "Lightweight and beautiful bubbly backgrounds",
-  "author": {
-    "name": "David Åse"
-  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David Åse"
+    }
+  ]
 }

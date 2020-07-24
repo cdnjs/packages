@@ -1,8 +1,5 @@
 {
   "name": "apng-canvas",
-  "author": {
-    "name": "David Mzareulyan"
-  },
   "filename": "apng-canvas.min.js",
   "description": "Library for displaing animated PNG files in browsers with canvas support",
   "keywords": [
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David Mzareulyan"
+    }
+  ]
 }

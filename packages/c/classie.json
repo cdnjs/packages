@@ -9,9 +9,6 @@
   "keywords": [
     "class"
   ],
-  "author": {
-    "name": "David DeSandro"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -24,5 +21,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David DeSandro"
+    }
+  ]
 }

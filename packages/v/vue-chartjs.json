@@ -2,9 +2,6 @@
   "name": "vue-chartjs",
   "filename": "vue-chartjs.min.js",
   "description": "vue.js wrapper for chart.js",
-  "author": {
-    "name": "Jakub Juszczak <jakub@posteo.de>"
-  },
   "homepage": "http://vue-chartjs.org",
   "license": "MIT",
   "repository": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jakub Juszczak <jakub@posteo.de>"
+    }
+  ]
 }

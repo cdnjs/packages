@@ -3,9 +3,6 @@
   "filename": "prop-types.min.js",
   "description": "Runtime type checking for React props and similar objects.",
   "homepage": "https://facebook.github.io/react/docs/typechecking-with-proptypes.html",
-  "author": {
-    "name": "Facebook"
-  },
   "keywords": [
     "react",
     "props",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Facebook"
+    }
+  ]
 }

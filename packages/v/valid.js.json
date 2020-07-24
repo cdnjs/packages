@@ -12,11 +12,6 @@
     "library",
     "validate"
   ],
-  "author": {
-    "name": "Daniel Leite de Oliveira",
-    "email": "dleitee@gmail.com",
-    "url": "github.com/dleitee"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Daniel Leite de Oliveira",
+      "email": "dleitee@gmail.com",
+      "url": "github.com/dleitee"
+    }
+  ]
 }

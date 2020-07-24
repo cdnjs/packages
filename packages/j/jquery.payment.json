@@ -23,7 +23,9 @@
     "url": "https://github.com/stripe/jquery.payment"
   },
   "license": "MIT",
-  "author": {
-    "name": "Stripe (https://www.stripe.com)"
-  }
+  "authors": [
+    {
+      "name": "Stripe (https://www.stripe.com)"
+    }
+  ]
 }

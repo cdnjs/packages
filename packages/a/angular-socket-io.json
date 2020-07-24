@@ -10,9 +10,6 @@
     "type": "git",
     "url": "https://github.com/btford/angular-socket-io.git"
   },
-  "author": {
-    "name": "Brian Ford"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Brian Ford"
+    }
+  ]
 }

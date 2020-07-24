@@ -16,11 +16,6 @@
     "popup",
     "dialog"
   ],
-  "author": {
-    "name": "Andre Rinas",
-    "email": "info@andreknieriem.de",
-    "url": "http://www.andreknieriem.de"
-  },
   "license": "MIT",
   "homepage": "http://andreknieriem.de/simple-lightbox",
   "autoupdate": {
@@ -34,5 +29,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andre Rinas",
+      "email": "info@andreknieriem.de",
+      "url": "http://www.andreknieriem.de"
+    }
+  ]
 }

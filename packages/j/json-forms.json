@@ -13,9 +13,6 @@
     "schema",
     "json-schema"
   ],
-  "author": {
-    "name": "Ignacio del Valle Alles <idelvall@brutusin.org> (http://brutusin.org)"
-  },
   "license": "Apache-2.0",
   "homepage": "http://brutusin.org/json-forms/",
   "autoupdate": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ignacio del Valle Alles <idelvall@brutusin.org> (http://brutusin.org)"
+    }
+  ]
 }

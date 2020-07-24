@@ -1,12 +1,6 @@
 {
   "name": "localStorage",
   "filename": "localStorage.min.js",
-  "author": {
-    "name": "Morten Houmøller Nygaard",
-    "email": "mortzdk@gmail.com",
-    "url": "http://www.mortz.dk",
-    "phone": "+4528492377"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mortzdk/localStorage.git",
@@ -27,5 +21,13 @@
   "keywords": [
     "localStorage"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Morten Houmøller Nygaard",
+      "email": "mortzdk@gmail.com",
+      "url": "http://www.mortz.dk",
+      "phone": "+4528492377"
+    }
+  ]
 }

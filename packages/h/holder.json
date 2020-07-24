@@ -29,8 +29,10 @@
     "url": "git://github.com/imsky/holder.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Ivan Malopinsky",
-    "url": "http://imsky.co"
-  }
+  "authors": [
+    {
+      "name": "Ivan Malopinsky",
+      "url": "http://imsky.co"
+    }
+  ]
 }

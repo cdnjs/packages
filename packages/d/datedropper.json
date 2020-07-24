@@ -11,9 +11,6 @@
     "datedropper",
     "datepicker"
   ],
-  "author": {
-    "name": "Felice Gattuso"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Felice Gattuso"
+    }
+  ]
 }

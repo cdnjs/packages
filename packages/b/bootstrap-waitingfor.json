@@ -14,10 +14,6 @@
     "boostrap"
   ],
   "homepage": "http://bootsnipp.com/snippets/featured/quotwaiting-forquot-modal-dialog",
-  "author": {
-    "name": "Eugene Maslovich",
-    "url": "https://github.com/ehpc"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Eugene Maslovich",
+      "url": "https://github.com/ehpc"
+    }
+  ]
 }

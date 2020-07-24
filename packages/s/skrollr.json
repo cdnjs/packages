@@ -10,11 +10,6 @@
     "parallax",
     "mobile"
   ],
-  "author": {
-    "name": "Alexander Prinzhorn",
-    "email": "alexander@prinzhorn.it",
-    "url": "http://www.prinzhorn.it/"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/Prinzhorn/skrollr.git",
@@ -31,5 +26,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Prinzhorn/skrollr.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Alexander Prinzhorn",
+      "email": "alexander@prinzhorn.it",
+      "url": "http://www.prinzhorn.it/"
+    }
+  ]
 }

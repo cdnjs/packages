@@ -13,9 +13,6 @@
     "styles",
     "quirks"
   ],
-  "author": {
-    "name": "Stephen M. McKamey (http://mck.me)"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stephen M. McKamey (http://mck.me)"
+    }
+  ]
 }

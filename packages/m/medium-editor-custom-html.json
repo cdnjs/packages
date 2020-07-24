@@ -11,9 +11,6 @@
     "custom",
     "html"
   ],
-  "author": {
-    "name": "jillix <contact@jillix.com>"
-  },
   "license": "MIT",
   "filename": "custom-html.min.js",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "jillix <contact@jillix.com>"
+    }
+  ]
 }

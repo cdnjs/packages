@@ -31,9 +31,11 @@
     "type": "customized",
     "url": "http://bootstrapvalidator.com/license/"
   },
-  "author": {
-    "name": "Nguyen Huu Phuoc",
-    "email": "phuoc@huuphuoc.me",
-    "url": "https://twitter.com/nghuuphuoc"
-  }
+  "authors": [
+    {
+      "name": "Nguyen Huu Phuoc",
+      "email": "phuoc@huuphuoc.me",
+      "url": "https://twitter.com/nghuuphuoc"
+    }
+  ]
 }

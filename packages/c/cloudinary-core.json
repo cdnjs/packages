@@ -5,11 +5,6 @@
     "type": "git",
     "url": "https://github.com/cloudinary/pkg-cloudinary-core.git"
   },
-  "author": {
-    "name": "Cloudinary",
-    "email": "info@cloudinary.com",
-    "url": "http://cloudinary.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/cloudinary/cloudinary_js",
   "keywords": [
@@ -60,5 +55,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Cloudinary",
+      "email": "info@cloudinary.com",
+      "url": "http://cloudinary.com"
+    }
+  ]
 }

@@ -12,9 +12,6 @@
     "url": "https://github.com/asyraf9/bootstrap-sidebar.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Asyraf <asyraf9@gmail.com>"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/asyraf9/bootstrap-sidebar.git",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Asyraf <asyraf9@gmail.com>"
+    }
+  ]
 }

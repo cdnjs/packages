@@ -11,10 +11,6 @@
     "nesta"
   ],
   "homepage": "https://dbushell.github.io/Nestable/",
-  "author": {
-    "name": "David Bushell",
-    "url": "http://dbushell.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/blueimp/JavaScript-Load-Image.git"
@@ -22,5 +18,11 @@
   "licenses": [
     "MIT",
     "BSD"
+  ],
+  "authors": [
+    {
+      "name": "David Bushell",
+      "url": "http://dbushell.com"
+    }
   ]
 }

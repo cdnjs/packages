@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Matt Zabriskie"
-  },
   "description": "React TinyMCE component",
   "filename": "react-tinymce.min.js",
   "homepage": "https://github.com/instructure-react/react-tinymce",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Matt Zabriskie"
+    }
+  ]
 }

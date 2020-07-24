@@ -9,10 +9,6 @@
     "matches",
     "DOM4"
   ],
-  "author": {
-    "name": "Andrea Giammarchi",
-    "url": "http://webreflection.blogspot.com/"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/WebReflection/dom4.git"
@@ -31,5 +27,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrea Giammarchi",
+      "url": "http://webreflection.blogspot.com/"
+    }
+  ]
 }

@@ -29,7 +29,9 @@
     "GPL",
     "MIT"
   ],
-  "author": {
-    "name": "Nathan Smith"
-  }
+  "authors": [
+    {
+      "name": "Nathan Smith"
+    }
+  ]
 }

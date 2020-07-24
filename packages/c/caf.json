@@ -8,9 +8,6 @@
     "generators",
     "cancelation"
   ],
-  "author": {
-    "name": "Kyle Simpson <getify@gmail.com>"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/getify/caf.git"
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kyle Simpson <getify@gmail.com>"
+    }
+  ]
 }

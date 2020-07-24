@@ -5,12 +5,14 @@
   "keywords": [
     "loading"
   ],
-  "author": {
-    "name": "christo"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/chriso/load.js.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "christo"
+    }
+  ]
 }

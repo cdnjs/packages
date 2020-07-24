@@ -11,9 +11,6 @@
     "knob",
     "dial"
   ],
-  "author": {
-    "name": "Anthony Terrien"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Anthony Terrien"
+    }
+  ]
 }

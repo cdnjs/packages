@@ -27,9 +27,11 @@
     "type": "git",
     "url": "https://github.com/mroderick/PubSubJS"
   },
-  "author": {
-    "name": "Morgan Roderick",
-    "email": "morgan@roderick.dk",
-    "url": "http://roderick.dk"
-  }
+  "authors": [
+    {
+      "name": "Morgan Roderick",
+      "email": "morgan@roderick.dk",
+      "url": "http://roderick.dk"
+    }
+  ]
 }

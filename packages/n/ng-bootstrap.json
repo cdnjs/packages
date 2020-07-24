@@ -23,9 +23,6 @@
     "tooltip",
     "typeahead"
   ],
-  "author": {
-    "name": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>"
-  },
   "homepage": "https://ng-bootstrap.github.io",
   "repository": {
     "type": "git",
@@ -43,5 +40,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>"
+    }
+  ]
 }

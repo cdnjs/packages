@@ -11,9 +11,6 @@
     "tree",
     "Javascript"
   ],
-  "author": {
-    "name": "Fran Peručić"
-  },
   "license": "MIT",
   "homepage": "https://fperucic.github.io/treant-js/",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Fran Peručić"
+    }
+  ]
 }

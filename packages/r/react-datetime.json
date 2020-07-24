@@ -14,9 +14,6 @@
     "datetimepicker",
     "datetime"
   ],
-  "author": {
-    "name": "Javier Marquez"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -35,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Javier Marquez"
+    }
+  ]
 }

@@ -15,9 +15,6 @@
     "LGPL-2.1",
     "OFL-1.1"
   ],
-  "author": {
-    "name": "Red Hat Brand Team <@RedHatBrand> (https://brand.redhat.com/)"
-  },
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/RedHatBrand/Overpass.git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Red Hat Brand Team <@RedHatBrand> (https://brand.redhat.com/)"
+    }
+  ]
 }

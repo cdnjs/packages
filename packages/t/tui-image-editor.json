@@ -11,10 +11,6 @@
     "canvas",
     "fabric"
   ],
-  "author": {
-    "name": "NHN FE Development Lab",
-    "email": "dl_javascript@nhn.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/nhn/tui.image-editor#readme",
   "repository": {
@@ -34,5 +30,11 @@
       }
     ]
   },
-  "filename": "tui-image-editor.min.js"
+  "filename": "tui-image-editor.min.js",
+  "authors": [
+    {
+      "name": "NHN FE Development Lab",
+      "email": "dl_javascript@nhn.com"
+    }
+  ]
 }

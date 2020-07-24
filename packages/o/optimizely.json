@@ -4,9 +4,6 @@
   "keywords": [
     "optimizely"
   ],
-  "author": {
-    "name": "Optimizely"
-  },
   "license": "Apache-2.0",
   "homepage": "https://github.com/optimizely/javascript-sdk#readme",
   "repository": {
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Optimizely"
+    }
+  ]
 }

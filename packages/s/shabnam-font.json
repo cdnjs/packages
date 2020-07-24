@@ -6,9 +6,6 @@
     "farsi",
     "persian"
   ],
-  "author": {
-    "name": "Saber Rastikerdar"
-  },
   "license": "OFL",
   "homepage": "https://github.com/rastikerdar/shabnam-font#readme",
   "repository": {
@@ -27,5 +24,10 @@
       }
     ]
   },
-  "filename": "font-face.css"
+  "filename": "font-face.css",
+  "authors": [
+    {
+      "name": "Saber Rastikerdar"
+    }
+  ]
 }

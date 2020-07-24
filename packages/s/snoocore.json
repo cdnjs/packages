@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/trevorsenior/snoocore.git"
   },
-  "author": {
-    "name": "Trevor Senior"
-  },
   "homepage": "https://snoocore.readme.io/",
   "keywords": [
     "reddit",
@@ -29,5 +26,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Trevor Senior"
+    }
+  ]
 }

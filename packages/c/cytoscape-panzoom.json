@@ -11,9 +11,6 @@
     "cyext"
   ],
   "license": "deprecated_LGPL-3.0+",
-  "author": {
-    "name": "Max Franz"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "cytoscape-panzoom",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Max Franz"
+    }
+  ]
 }

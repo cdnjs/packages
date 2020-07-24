@@ -2,9 +2,6 @@
   "name": "dinqyjs",
   "filename": "dinqyjs.min.js",
   "description": "A tiny but powerful Javascript library for working with collections. No bells and whistles and unwanted bloat, just the things you really need.",
-  "author": {
-    "name": "Garry Passarella"
-  },
   "homepage": "http://dinqyjs.com",
   "keywords": [
     "LINQ",
@@ -19,5 +16,10 @@
   "licenses": [
     "MIT",
     "Apache-2.0"
+  ],
+  "authors": [
+    {
+      "name": "Garry Passarella"
+    }
   ]
 }

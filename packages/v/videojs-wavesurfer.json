@@ -15,9 +15,6 @@
     "videojs-plugin",
     "player"
   ],
-  "author": {
-    "name": "Collab"
-  },
   "license": "MIT",
   "homepage": "https://collab-project.github.io/videojs-wavesurfer/",
   "autoupdate": {
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Collab"
+    }
+  ]
 }

@@ -17,9 +17,6 @@
     "typeof",
     "type of"
   ],
-  "author": {
-    "name": "salihsagdilek"
-  },
   "license": "MIT",
   "homepage": "https://typeis.github.io",
   "autoupdate": {
@@ -39,5 +36,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "salihsagdilek"
+    }
+  ]
 }

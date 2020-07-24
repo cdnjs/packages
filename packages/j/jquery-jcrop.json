@@ -24,7 +24,9 @@
       }
     ]
   },
-  "author": {
-    "name": "Tapmodo <khallman@tapmodo.com>"
-  }
+  "authors": [
+    {
+      "name": "Tapmodo <khallman@tapmodo.com>"
+    }
+  ]
 }

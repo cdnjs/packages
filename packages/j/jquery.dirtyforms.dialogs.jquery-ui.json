@@ -1,9 +1,6 @@
 {
   "name": "jquery.dirtyforms.dialogs.jquery-ui",
   "filename": "jquery.dirtyforms.dialogs.jquery-ui.min.js",
-  "author": {
-    "name": "Shad Storhaug <shad@shadstorhaug.com>"
-  },
   "description": "Dirty Forms is a jQuery plugin to help prevent users from losing data when editing forms.",
   "keywords": [
     "ui",
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Shad Storhaug <shad@shadstorhaug.com>"
+    }
+  ]
 }

@@ -3,9 +3,6 @@
   "filename": "orb.min.js",
   "license": "MIT",
   "description": "Pivot table javascript library",
-  "author": {
-    "name": "Najmeddine Nouri <devnajm@gmail.com>"
-  },
   "homepage": "http://nnajm.github.io/orb/",
   "repository": {
     "type": "git",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Najmeddine Nouri <devnajm@gmail.com>"
+    }
+  ]
 }

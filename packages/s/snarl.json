@@ -1,9 +1,6 @@
 {
   "name": "snarl",
   "description": "Web Notifications based on Growl",
-  "author": {
-    "name": "Liam Gray <hoxxep@gmail.com>"
-  },
   "filename": "snarl.min.js",
   "repository": {
     "type": "git",
@@ -26,5 +23,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Liam Gray <hoxxep@gmail.com>"
+    }
+  ]
 }

@@ -18,10 +18,6 @@
     "mixin",
     "trait"
   ],
-  "author": {
-    "name": "Andrea Giammarchi",
-    "url": "http://webreflection.blogspot.com/"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/WebReflection/es-class.git"
@@ -41,5 +37,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrea Giammarchi",
+      "url": "http://webreflection.blogspot.com/"
+    }
+  ]
 }

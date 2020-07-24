@@ -1,10 +1,6 @@
 {
   "name": "datatable",
   "filename": "js/datatable.min.js",
-  "author": {
-    "name": "Mikaël Capelle (Holt59)",
-    "email": "capelle.mikael@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Holt59/datatable"
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mikaël Capelle (Holt59)",
+      "email": "capelle.mikael@gmail.com"
+    }
+  ]
 }

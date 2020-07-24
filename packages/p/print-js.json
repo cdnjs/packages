@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Rodrigo Vieira <rodrigo@crabbly.com>"
-  },
   "description": "A tiny javascript library to help printing from the web.",
   "filename": "print.js",
   "homepage": "http://printjs.crabbly.com",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rodrigo Vieira <rodrigo@crabbly.com>"
+    }
+  ]
 }

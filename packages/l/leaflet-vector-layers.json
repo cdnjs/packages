@@ -6,9 +6,6 @@
     "url": "git://github.com/JasonSanford/leaflet-vector-layers.git"
   },
   "description": "Allows to easily create vector layers from a number of geo web services, such as ArcGIS Server, Arc2Earth, GeoIQ, CartoDB and GIS Cloud. ",
-  "author": {
-    "name": " JasonSanford"
-  },
   "license": "BSD-2-Clause-FreeBSD",
   "keywords": [
     "leaflet",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": " JasonSanford"
+    }
+  ]
 }

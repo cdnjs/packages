@@ -16,11 +16,6 @@
     "url": "https://github.com/720kb/angular-socialshare.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Filippo Oretti",
-    "email": "filippo.oretti@gmail.com",
-    "url": "https://github.com/45kb"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "angular-socialshare",
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Filippo Oretti",
+      "email": "filippo.oretti@gmail.com",
+      "url": "https://github.com/45kb"
+    }
+  ]
 }

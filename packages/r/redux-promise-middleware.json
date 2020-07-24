@@ -17,9 +17,6 @@
     "async",
     "example"
   ],
-  "author": {
-    "name": "Patrick Burtchaell <patrick@pburtchaell.com> (pburtchaell.com)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Patrick Burtchaell <patrick@pburtchaell.com> (pburtchaell.com)"
+    }
+  ]
 }

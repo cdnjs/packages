@@ -6,9 +6,6 @@
     "type": "git",
     "url": "https://github.com/padolsey/findAndReplaceDOMText.git"
   },
-  "author": {
-    "name": "James Padolsey"
-  },
   "keywords": [
     "DOM",
     "find",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "James Padolsey"
+    }
+  ]
 }

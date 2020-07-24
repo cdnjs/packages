@@ -8,9 +8,6 @@
     "framework",
     "ui"
   ],
-  "author": {
-    "name": "hammy2899"
-  },
   "homepage": "https://fomantic-ui.com",
   "license": "MIT",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "hammy2899"
+    }
+  ]
 }

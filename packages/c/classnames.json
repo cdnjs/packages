@@ -30,7 +30,9 @@
     "type": "git",
     "url": "https://github.com/JedWatson/classnames"
   },
-  "author": {
-    "name": "Jed Watson"
-  }
+  "authors": [
+    {
+      "name": "Jed Watson"
+    }
+  ]
 }

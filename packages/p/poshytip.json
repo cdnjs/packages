@@ -12,9 +12,6 @@
     "css",
     "tooltip"
   ],
-  "author": {
-    "name": "Vasil Dinkov"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/vadikom/poshytip.git",
@@ -31,5 +28,10 @@
   "licenses": [
     "MIT",
     "GPL-2.0"
+  ],
+  "authors": [
+    {
+      "name": "Vasil Dinkov"
+    }
   ]
 }

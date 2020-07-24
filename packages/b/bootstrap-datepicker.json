@@ -24,7 +24,9 @@
     "url": "https://github.com/uxsolutions/bootstrap-datepicker.git"
   },
   "license": "Apache-2.0",
-  "author": {
-    "name": "Andrew Rowls <eternicode@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Andrew Rowls <eternicode@gmail.com>"
+    }
+  ]
 }

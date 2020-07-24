@@ -11,7 +11,9 @@
     "type": "git",
     "url": "https://github.com/PaulUithol/backbone-tastypie"
   },
-  "author": {
-    "name": "Paul Uithol <https://github.com/PaulUithol>"
-  }
+  "authors": [
+    {
+      "name": "Paul Uithol <https://github.com/PaulUithol>"
+    }
+  ]
 }

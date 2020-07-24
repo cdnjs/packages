@@ -14,10 +14,6 @@
     "url": "https://github.com/summernote/summernote.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "hackerwins",
-    "email": "susukang98@gmail.com"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "summernote",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "hackerwins",
+      "email": "susukang98@gmail.com"
+    }
+  ]
 }

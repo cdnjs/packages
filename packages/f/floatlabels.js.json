@@ -7,12 +7,14 @@
     "label"
   ],
   "homepage": "http://clubdesign.github.io/floatlabels.js",
-  "author": {
-    "name": "Marcus Pohorely http://www.clubdesign.at"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/clubdesign/floatlabels.js.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marcus Pohorely http://www.clubdesign.at"
+    }
+  ]
 }

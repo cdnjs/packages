@@ -2,9 +2,6 @@
   "name": "chroma-js",
   "filename": "chroma.min.js",
   "description": "JavaScript library for color conversions",
-  "author": {
-    "name": "Gregor Aisch"
-  },
   "keywords": [
     "color"
   ],
@@ -24,5 +21,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Gregor Aisch"
+    }
+  ]
 }

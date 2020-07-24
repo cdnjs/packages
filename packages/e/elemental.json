@@ -3,9 +3,6 @@
   "filename": "elemental.min.js",
   "description": "React UI Framework",
   "homepage": "http://elemental-ui.com",
-  "author": {
-    "name": "Jed Watson"
-  },
   "keywords": [
     "react",
     "react-component",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jed Watson"
+    }
+  ]
 }

@@ -6,9 +6,6 @@
     "transformation"
   ],
   "filename": "ot-min.js",
-  "author": {
-    "name": "Tim Baumann <tim@timbaumann.info> (http://timbaumann.info)"
-  },
   "homepage": "http://operational-transformation.github.com",
   "repository": {
     "type": "git",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tim Baumann <tim@timbaumann.info> (http://timbaumann.info)"
+    }
+  ]
 }

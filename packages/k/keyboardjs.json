@@ -8,9 +8,6 @@
     "key-combos",
     "shortcut"
   ],
-  "author": {
-    "name": "Robert Hurst <robertwhurst@gmail.com>"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/RobertWHurst/KeyboardJS.git"
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Robert Hurst <robertwhurst@gmail.com>"
+    }
+  ]
 }

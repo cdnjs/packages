@@ -9,9 +9,6 @@
     "angularjs",
     "angularjs-service"
   ],
-  "author": {
-    "name": "Gabriel Delépine <yappli@github.com>"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/GabrielDelepine/angular-css-injector"
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Gabriel Delépine <yappli@github.com>"
+    }
+  ]
 }

@@ -24,7 +24,9 @@
     "url": "https://github.com/imakewebthings/waypoints"
   },
   "license": "MIT",
-  "author": {
-    "name": "Caleb Troughton <caleb@imakewebthings.com> (http://imakewebthings.com)"
-  }
+  "authors": [
+    {
+      "name": "Caleb Troughton <caleb@imakewebthings.com> (http://imakewebthings.com)"
+    }
+  ]
 }

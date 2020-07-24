@@ -27,9 +27,6 @@
     "shape",
     "numpy"
   ],
-  "author": {
-    "name": "Nicolas Panel"
-  },
   "license": "MIT",
   "homepage": "https://nicolaspanel.github.io/numjs/",
   "autoupdate": {
@@ -43,5 +40,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nicolas Panel"
+    }
+  ]
 }

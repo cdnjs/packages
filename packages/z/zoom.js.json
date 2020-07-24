@@ -11,9 +11,6 @@
     "jquery",
     "image"
   ],
-  "author": {
-    "name": "fat <jacobthornton@gmail.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "fat <jacobthornton@gmail.com>"
+    }
+  ]
 }

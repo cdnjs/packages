@@ -13,9 +13,6 @@
     "url": "git://github.com/maxkueng/victor.git"
   },
   "homepage": "http://victorjs.org/",
-  "author": {
-    "name": "Max Kueng <me@maxkueng.com> (https://maxkueng.com/)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Max Kueng <me@maxkueng.com> (https://maxkueng.com/)"
+    }
+  ]
 }

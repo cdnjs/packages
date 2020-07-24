@@ -3,9 +3,6 @@
   "filename": "js/lightcase.min.js",
   "description": "The smart and flexible Lightbox Plugin.",
   "homepage": "http://cornel.bopp-art.com/lightcase/",
-  "author": {
-    "name": "Cornel Boppart (https://github.com/cbopp-art)"
-  },
   "license": "GPL-2.0",
   "keywords": [
     "jquery-plugin",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Cornel Boppart (https://github.com/cbopp-art)"
+    }
+  ]
 }

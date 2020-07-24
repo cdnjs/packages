@@ -13,9 +13,6 @@
     "reorder",
     "drag"
   ],
-  "author": {
-    "name": "Konstantin Lebedev <ibnRubaXa@gmail.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Konstantin Lebedev <ibnRubaXa@gmail.com>"
+    }
+  ]
 }

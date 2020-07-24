@@ -15,9 +15,6 @@
     "type": "git",
     "url": "git://github.com/remy/min.js.git"
   },
-  "author": {
-    "name": "Remy Sharp"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/remy/min.js.git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Remy Sharp"
+    }
+  ]
 }

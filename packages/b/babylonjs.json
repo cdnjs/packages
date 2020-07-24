@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "David CATUHE"
-  },
   "name": "babylonjs",
   "filename": "babylon.js",
   "description": "Babylon.js is a JavaScript 3D engine based on webgl.",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David CATUHE"
+    }
+  ]
 }

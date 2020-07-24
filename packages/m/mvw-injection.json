@@ -12,9 +12,6 @@
     "dependency",
     "injection"
   ],
-  "author": {
-    "name": "Xavier Boubert <xavier@boubert.fr>"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/XavierBoubert/mvw-injection.git"
@@ -38,5 +35,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Xavier Boubert <xavier@boubert.fr>"
+    }
+  ]
 }

@@ -2,9 +2,6 @@
   "name": "yaml-js",
   "description": "Pure Javascript YAML loader and dumper, ported from PyYAML",
   "keywords": [],
-  "author": {
-    "name": "Chris Connelly"
-  },
   "license": "WTFPL",
   "homepage": "https://github.com/connec/yaml-js#readme",
   "repository": {
@@ -23,5 +20,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris Connelly"
+    }
+  ]
 }

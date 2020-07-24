@@ -7,9 +7,6 @@
     "videojs-plugin",
     "videojs-tech"
   ],
-  "author": {
-    "name": "Brightcove, Inc."
-  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Brightcove, Inc."
+    }
+  ]
 }

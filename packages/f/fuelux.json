@@ -18,11 +18,6 @@
     "user interface",
     "web"
   ],
-  "author": {
-    "email": "kparkerson@exacttarget.com",
-    "name": "ExactTarget",
-    "url": "http://code.exacttarget.com"
-  },
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
@@ -43,5 +38,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "kparkerson@exacttarget.com",
+      "name": "ExactTarget",
+      "url": "http://code.exacttarget.com"
+    }
+  ]
 }

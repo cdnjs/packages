@@ -8,9 +8,6 @@
     "jquery",
     "scroll"
   ],
-  "author": {
-    "name": "Will Kelly (logicbox)"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/logicbox/jquery-simplyscroll.git"
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Will Kelly (logicbox)"
+    }
+  ]
 }

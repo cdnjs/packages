@@ -11,9 +11,6 @@
     "dry",
     "initialisation"
   ],
-  "author": {
-    "name": "Benjamin Reid <benjaminreid.nouveller@gmail.com> (http://nouveller.com)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Benjamin Reid <benjaminreid.nouveller@gmail.com> (http://nouveller.com)"
+    }
+  ]
 }

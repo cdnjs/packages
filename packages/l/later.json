@@ -8,9 +8,6 @@
     "recur",
     "cron"
   ],
-  "author": {
-    "name": "BunKat <bill@levelstory.com>"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/bunkat/later.git"
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "BunKat <bill@levelstory.com>"
+    }
+  ]
 }

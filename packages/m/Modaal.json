@@ -6,9 +6,6 @@
     "type": "git",
     "url": "https://github.com/humaan/Modaal"
   },
-  "author": {
-    "name": "Humaan - contact@humaan.com.au"
-  },
   "license": "MIT",
   "homepage": "https://humaan.com/modaal/",
   "keywords": [
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Humaan - contact@humaan.com.au"
+    }
+  ]
 }

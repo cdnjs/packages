@@ -7,9 +7,6 @@
     "BDD-style",
     "should.js"
   ],
-  "author": {
-    "name": "Guillermo Rauch <guillermo@learnboost.com> (https://zeit.co)"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Automattic/expect.js"
@@ -26,5 +23,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Guillermo Rauch <guillermo@learnboost.com> (https://zeit.co)"
+    }
+  ]
 }

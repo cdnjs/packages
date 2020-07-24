@@ -2,9 +2,6 @@
   "name": "usertiming",
   "description": "W3C UserTiming polyfill",
   "filename": "usertiming.min.js",
-  "author": {
-    "name": "Nic Jansma"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/nicjansma/usertiming.js.git"
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nic Jansma"
+    }
+  ]
 }

@@ -10,9 +10,6 @@
     "Analytics",
     "Web"
   ],
-  "author": {
-    "name": "Countly <hello@count.ly> (https://count.ly/)"
-  },
   "license": "MIT",
   "filename": "countly.min.js",
   "autoupdate": {
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Countly <hello@count.ly> (https://count.ly/)"
+    }
+  ]
 }

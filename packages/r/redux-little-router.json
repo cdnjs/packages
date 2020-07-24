@@ -11,9 +11,6 @@
     "router",
     "middleware"
   ],
-  "author": {
-    "name": "Tyler Thompson"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tyler Thompson"
+    }
+  ]
 }

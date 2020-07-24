@@ -13,9 +13,6 @@
     "browser",
     "browserify"
   ],
-  "author": {
-    "name": "Rick Harrison"
-  },
   "license": "MIT",
   "homepage": "https://rickharrison.github.io/validate.js/",
   "autoupdate": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rick Harrison"
+    }
+  ]
 }

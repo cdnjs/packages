@@ -11,9 +11,6 @@
     "mobilebone.js",
     "javascript"
   ],
-  "author": {
-    "name": "zhangxinxu"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "zhangxinxu"
+    }
+  ]
 }

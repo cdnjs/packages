@@ -2,9 +2,6 @@
   "name": "transformation-matrix-js",
   "filename": "matrix.min.js",
   "description": "2D affine matrix power tools for JavaScript",
-  "author": {
-    "name": "Ken Nilsen <github@epistemex.com> (http://epistemex.com/)"
-  },
   "keywords": [
     "transformation",
     "matrix",
@@ -21,5 +18,10 @@
     "type": "git",
     "url": "https://gitlab.com/epistemex/transformation-matrix-js.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ken Nilsen <github@epistemex.com> (http://epistemex.com/)"
+    }
+  ]
 }

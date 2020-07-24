@@ -19,9 +19,6 @@
     "load",
     "ddos"
   ],
-  "author": {
-    "name": "Simon Grondin"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Simon Grondin"
+    }
+  ]
 }

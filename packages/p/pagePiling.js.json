@@ -26,7 +26,9 @@
       }
     ]
   },
-  "author": {
-    "name": "Alvaro Trigo https://github.com/alvarotrigo"
-  }
+  "authors": [
+    {
+      "name": "Alvaro Trigo https://github.com/alvarotrigo"
+    }
+  ]
 }

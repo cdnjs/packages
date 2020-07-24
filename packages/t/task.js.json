@@ -5,11 +5,6 @@
     "type": "git",
     "url": "https://github.com/icodeforlove/task.js.git"
   },
-  "author": {
-    "name": "Chad Scira",
-    "email": "work@chad.so",
-    "url": "http://chad.so"
-  },
   "license": "ISC",
   "keywords": [
     "task.js",
@@ -27,5 +22,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chad Scira",
+      "email": "work@chad.so",
+      "url": "http://chad.so"
+    }
+  ]
 }

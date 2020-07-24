@@ -10,11 +10,6 @@
     "jQuery",
     "plugin"
   ],
-  "author": {
-    "name": "Craig Michael Thompson",
-    "email": "craig@craigsworks.com",
-    "url": "http://craigsworks.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/qTip2/qTip2.git"
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Craig Michael Thompson",
+      "email": "craig@craigsworks.com",
+      "url": "http://craigsworks.com"
+    }
+  ]
 }

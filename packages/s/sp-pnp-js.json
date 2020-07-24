@@ -14,9 +14,6 @@
     "url": "https://github.com/SharePoint/PnP-JS-Core.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Microsoft and other contributors"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "sp-pnp-js",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Microsoft and other contributors"
+    }
+  ]
 }

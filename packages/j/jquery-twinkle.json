@@ -3,9 +3,6 @@
   "filename": "jquery.twinkle.min.js",
   "description": "get the visitor's attention",
   "homepage": "http://larsjung.de/jquery-twinkle/",
-  "author": {
-    "name": "Lars Jung <lrsjng@gmail.com> (http://larsjung.de)"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -26,5 +23,10 @@
   "keywords": [
     "jquery",
     "twinkle"
+  ],
+  "authors": [
+    {
+      "name": "Lars Jung <lrsjng@gmail.com> (http://larsjung.de)"
+    }
   ]
 }

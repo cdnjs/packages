@@ -2,11 +2,6 @@
   "name": "reel.js",
   "filename": "jquery.reel-min.js",
   "description": "`img` tag enhancement for 360° object movies, vistas and panoramas",
-  "author": {
-    "name": "Petr Vostřel",
-    "email": "petr@vostrel.cz",
-    "url": "http://petr.vostrel.cz"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/pisi/Reel"
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Petr Vostřel",
+      "email": "petr@vostrel.cz",
+      "url": "http://petr.vostrel.cz"
+    }
+  ]
 }

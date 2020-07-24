@@ -24,7 +24,9 @@
     "url": "https://github.com/davidmerfield/randomColor"
   },
   "license": "MIT",
-  "author": {
-    "name": "David Merfield"
-  }
+  "authors": [
+    {
+      "name": "David Merfield"
+    }
+  ]
 }

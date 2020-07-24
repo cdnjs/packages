@@ -13,10 +13,6 @@
     "react-component",
     "angular-component"
   ],
-  "author": {
-    "name": "Yair Even-Or",
-    "email": "vsync.design@gmail.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/yairEO/tagify",
   "repository": {
@@ -35,5 +31,11 @@
       }
     ]
   },
-  "filename": "tagify.min.js"
+  "filename": "tagify.min.js",
+  "authors": [
+    {
+      "name": "Yair Even-Or",
+      "email": "vsync.design@gmail.com"
+    }
+  ]
 }

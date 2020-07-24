@@ -12,9 +12,6 @@
     "url": "https://github.com/schteppe/cannon.js"
   },
   "license": "MIT",
-  "author": {
-    "name": "Stefan Hedman <schteppe@gmail.com> (http://steffe.se)"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "cannon",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stefan Hedman <schteppe@gmail.com> (http://steffe.se)"
+    }
+  ]
 }

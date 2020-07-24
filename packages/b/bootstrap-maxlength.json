@@ -16,9 +16,6 @@
     "jquery-plugin",
     "jquery"
   ],
-  "author": {
-    "name": "Maurizio Napoleoni @mimonap"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mimo84/bootstrap-maxlength.git",
@@ -31,5 +28,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Maurizio Napoleoni @mimonap"
+    }
+  ]
 }

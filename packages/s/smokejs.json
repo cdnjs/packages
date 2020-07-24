@@ -3,9 +3,6 @@
   "description": "Smoke form validation and components for Bootstrap",
   "filename": "js/smoke.min.js",
   "license": "LGPL",
-  "author": {
-    "name": "Alfredo Barron"
-  },
   "keywords": [
     "html",
     "css",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alfredo Barron"
+    }
+  ]
 }

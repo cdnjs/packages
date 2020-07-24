@@ -12,9 +12,6 @@
     "chooser",
     "calendar"
   ],
-  "author": {
-    "name": "Chris Davies <ferociousturtle@gmail.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris Davies <ferociousturtle@gmail.com>"
+    }
+  ]
 }

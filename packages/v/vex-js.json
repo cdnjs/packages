@@ -1,9 +1,6 @@
 {
   "name": "vex-js",
   "description": "Beautiful, functional, dialogs in Javascript",
-  "author": {
-    "name": "Adam Schwartz <aschwartz@hubspot.com>"
-  },
   "license": "MIT",
   "filename": "js/vex.min.js",
   "repository": {
@@ -32,5 +29,10 @@
     "alert",
     "confirm",
     "prompt"
+  ],
+  "authors": [
+    {
+      "name": "Adam Schwartz <aschwartz@hubspot.com>"
+    }
   ]
 }

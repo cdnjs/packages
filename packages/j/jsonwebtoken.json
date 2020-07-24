@@ -4,9 +4,6 @@
   "keywords": [
     "jwt"
   ],
-  "author": {
-    "name": "auth0"
-  },
   "license": "MIT",
   "homepage": "https://github.com/auth0/node-jsonwebtoken#readme",
   "repository": {
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "auth0"
+    }
+  ]
 }

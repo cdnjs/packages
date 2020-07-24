@@ -13,11 +13,6 @@
     "url": "https://github.com/HubSpot/humanize.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "HubSpotDev",
-    "email": "devteam@hubspot.com",
-    "url": "dev.hubspot.com"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "humanize-plus",
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "HubSpotDev",
+      "email": "devteam@hubspot.com",
+      "url": "dev.hubspot.com"
+    }
+  ]
 }

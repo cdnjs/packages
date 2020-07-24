@@ -3,9 +3,6 @@
   "filename": "react-redux.min.js",
   "description": "Official React bindings for Redux",
   "homepage": "http://redux.js.org/docs/basics/UsageWithReact.html",
-  "author": {
-    "name": "Dan Abramov <dan.abramov@me.com> (https://github.com/gaearon)"
-  },
   "keywords": [
     "react",
     "reactjs",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dan Abramov <dan.abramov@me.com> (https://github.com/gaearon)"
+    }
+  ]
 }

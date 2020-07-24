@@ -29,9 +29,11 @@
     "type": "git",
     "url": "https://github.com/markgoodyear/headhesive.js"
   },
-  "author": {
-    "name": "Mark Goodyear",
-    "url": "http://markgoodyear.com",
-    "twitter": "@markgdyr"
-  }
+  "authors": [
+    {
+      "name": "Mark Goodyear",
+      "url": "http://markgoodyear.com",
+      "twitter": "@markgdyr"
+    }
+  ]
 }

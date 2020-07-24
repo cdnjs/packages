@@ -17,9 +17,6 @@
     "url": "https://github.com/garris/TremulaJS"
   },
   "license": "GPL-3.0",
-  "author": {
-    "name": "Garris <@garris> (https://expanded.me/)"
-  },
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/garris/TremulaJS.git",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Garris <@garris> (https://expanded.me/)"
+    }
+  ]
 }

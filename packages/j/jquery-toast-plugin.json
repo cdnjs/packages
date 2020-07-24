@@ -13,9 +13,6 @@
     "url": "git://github.com/kamranahmedse/jquery-toast-plugin.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Kamran Ahmed"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/kamranahmedse/jquery-toast-plugin.git",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kamran Ahmed"
+    }
+  ]
 }

@@ -9,10 +9,6 @@
     "HUSL",
     "HSL"
   ],
-  "author": {
-    "name": "Alexei Boronine",
-    "email": "alexei@boronine.com"
-  },
   "license": "MIT",
   "filename": "husl.min.js",
   "repository": {
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alexei Boronine",
+      "email": "alexei@boronine.com"
+    }
+  ]
 }

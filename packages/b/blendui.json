@@ -1,9 +1,6 @@
 {
   "name": "blendui",
   "filename": "BlendHybridUI.min.js",
-  "author": {
-    "name": "Clouda+ team"
-  },
   "description": "A Hybrid Javascript Framework For Mobile WebApp",
   "homepage": "http://clouda.baidu.com/blendui/introduction/introduction",
   "license": "MIT",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Clouda+ team"
+    }
+  ]
 }

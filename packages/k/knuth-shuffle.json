@@ -1,10 +1,5 @@
 {
   "name": "knuth-shuffle",
-  "author": {
-    "email": "coolaj86@gmail.com",
-    "name": "AJ ONeal",
-    "url": "http://coolaj86.info/"
-  },
   "description": "The Fisher-Yates (aka Knuth) shuffle for Browser and Node.js",
   "keywords": [
     "ronald",
@@ -37,5 +32,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "coolaj86@gmail.com",
+      "name": "AJ ONeal",
+      "url": "http://coolaj86.info/"
+    }
+  ]
 }

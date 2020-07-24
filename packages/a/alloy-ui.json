@@ -12,10 +12,12 @@
     "url": "https://github.com/liferay/alloy-ui"
   },
   "license": "BSD",
-  "author": {
-    "name": "Eduardo Lundgren",
-    "email": "eduardo.lundgren@liferay.com",
-    "twitter": "eduardolundgren",
-    "url": "http://www.eduardolundgren.com"
-  }
+  "authors": [
+    {
+      "name": "Eduardo Lundgren",
+      "email": "eduardo.lundgren@liferay.com",
+      "twitter": "eduardolundgren",
+      "url": "http://www.eduardolundgren.com"
+    }
+  ]
 }

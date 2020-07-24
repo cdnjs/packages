@@ -2,9 +2,6 @@
   "name": "jQueryFormStyler",
   "description": "Jquery plugin for styling HTML form elements",
   "filename": "jquery.formstyler.min.js",
-  "author": {
-    "name": "Dimox (http://dimox.name/)"
-  },
   "keywords": [
     "jquery",
     "form",
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dimox (http://dimox.name/)"
+    }
+  ]
 }

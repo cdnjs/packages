@@ -7,9 +7,6 @@
     "jasmine",
     "unit-testing"
   ],
-  "author": {
-    "name": "Synapse Wireless Labs"
-  },
   "license": "MIT",
   "homepage": "https://github.com/synapse-wireless-labs/jasmine-marbles#readme",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Synapse Wireless Labs"
+    }
+  ]
 }

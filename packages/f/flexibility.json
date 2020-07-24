@@ -32,9 +32,6 @@
     "explorer",
     "layout"
   ],
-  "author": {
-    "name": "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com)"
-  },
   "license": "MIT",
   "homepage": "https://jonathantneal.github.io/flexibility/",
   "repository": {
@@ -52,5 +49,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com)"
+    }
+  ]
 }

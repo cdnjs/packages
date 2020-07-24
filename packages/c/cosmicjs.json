@@ -12,9 +12,6 @@
     "content",
     "api"
   ],
-  "author": {
-    "name": "Tony Spiro <tspiro@tonyspiro.com> (http://tonyspiro.com/)"
-  },
   "license": "ISC",
   "homepage": "https://cosmicjs.com/",
   "autoupdate": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tony Spiro <tspiro@tonyspiro.com> (http://tonyspiro.com/)"
+    }
+  ]
 }

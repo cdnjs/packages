@@ -14,10 +14,6 @@
     "web",
     "development"
   ],
-  "author": {
-    "name": "Fengyuan Chen",
-    "url": "https://github.com/fengyuanchen"
-  },
   "homepage": "https://fengyuanchen.github.io/submitter",
   "repository": {
     "type": "git",
@@ -35,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Fengyuan Chen",
+      "url": "https://github.com/fengyuanchen"
+    }
+  ]
 }

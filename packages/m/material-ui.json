@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Material-UI Team"
-  },
   "description": "React components that implement Google's Material Design.",
   "filename": "index.js",
   "homepage": "https://material-ui.com/",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Material-UI Team"
+    }
+  ]
 }

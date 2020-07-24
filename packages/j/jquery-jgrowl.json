@@ -9,11 +9,6 @@
     "notification",
     "growl"
   ],
-  "author": {
-    "name": "Stan Lemon",
-    "email": "stosh1985@gmail.com",
-    "url": "http://stanlemon.net"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/stanlemon/jGrowl.git"
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stan Lemon",
+      "email": "stosh1985@gmail.com",
+      "url": "http://stanlemon.net"
+    }
+  ]
 }

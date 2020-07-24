@@ -10,9 +10,6 @@
     "bootstrap",
     "dialog"
   ],
-  "author": {
-    "name": "nakupanda"
-  },
   "license": "WTFPL",
   "homepage": "http://nakupanda.github.io/bootstrap3-dialog",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "nakupanda"
+    }
+  ]
 }

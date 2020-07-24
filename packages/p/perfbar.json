@@ -3,9 +3,6 @@
   "filename": "perfbar.min.js",
   "homepage": "http://lafikl.github.io/perfBar",
   "description": "Tracking performance metrics never been easier",
-  "author": {
-    "name": "Khalid Lafi"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Khalid Lafi"
+    }
+  ]
 }

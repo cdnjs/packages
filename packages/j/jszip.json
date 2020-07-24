@@ -29,7 +29,9 @@
     "MIT",
     "GPL-3.0"
   ],
-  "author": {
-    "name": "Stuart Knightley <stuart@stuartk.com>"
-  }
+  "authors": [
+    {
+      "name": "Stuart Knightley <stuart@stuartk.com>"
+    }
+  ]
 }

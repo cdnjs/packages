@@ -3,10 +3,6 @@
   "filename": "inferno-create-class.min.js",
   "license": "MIT",
   "description": "Provides a helper to create Inferno Components without needing ES2015",
-  "author": {
-    "name": "Dominic Gannaway",
-    "email": "dg@domgan.com"
-  },
   "homepage": "https://infernojs.org/",
   "keywords": [
     "babel",
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dominic Gannaway",
+      "email": "dg@domgan.com"
+    }
+  ]
 }

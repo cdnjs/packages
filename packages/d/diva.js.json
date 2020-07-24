@@ -29,7 +29,9 @@
     "url": "git://github.com/DDMAL/diva.js.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Andrew Hankinson"
-  }
+  "authors": [
+    {
+      "name": "Andrew Hankinson"
+    }
+  ]
 }

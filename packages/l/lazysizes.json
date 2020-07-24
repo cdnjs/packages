@@ -1,9 +1,6 @@
 {
   "name": "lazysizes",
   "filename": "lazysizes.min.js",
-  "author": {
-    "name": "Alexander Farkas <info@corrupt-system.de>"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/aFarkas/lazysizes.git"
@@ -37,5 +34,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alexander Farkas <info@corrupt-system.de>"
+    }
+  ]
 }

@@ -11,11 +11,6 @@
     "client",
     "browser"
   ],
-  "author": {
-    "name": "Derick Bailey",
-    "email": "marionettejs@gmail.com",
-    "url": "http://derickbailey.lostechies.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/marionettejs/backbone.babysitter.git"
@@ -33,5 +28,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Derick Bailey",
+      "email": "marionettejs@gmail.com",
+      "url": "http://derickbailey.lostechies.com"
+    }
+  ]
 }

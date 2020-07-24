@@ -7,9 +7,6 @@
     "type": "git",
     "url": "git://github.com/chirashijs/chirashi.git"
   },
-  "author": {
-    "name": "Alex Toudic @AlexToudic"
-  },
   "keywords": [
     "DOM",
     "events"
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alex Toudic @AlexToudic"
+    }
+  ]
 }

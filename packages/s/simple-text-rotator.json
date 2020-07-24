@@ -10,11 +10,13 @@
     "text",
     "rotator"
   ],
-  "author": {
-    "name": "alvaropinot "
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/alvaropinot/simple-text-rotator.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "alvaropinot "
+    }
+  ]
 }

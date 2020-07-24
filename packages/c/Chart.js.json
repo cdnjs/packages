@@ -6,9 +6,6 @@
     "charts"
   ],
   "homepage": "http://www.chartjs.org",
-  "author": {
-    "name": "nnnick"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/chartjs/Chart.js.git"
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "nnnick"
+    }
+  ]
 }

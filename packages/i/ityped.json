@@ -1,8 +1,5 @@
 {
   "name": "ityped",
-  "author": {
-    "name": "Luis Vinicius <luisviniciusbarreto@gmail.com>"
-  },
   "description": "Dead simple animated typing, with no dependencies.",
   "filename": "index.min.js",
   "homepage": "https://ityped.surge.sh/",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Luis Vinicius <luisviniciusbarreto@gmail.com>"
+    }
+  ]
 }

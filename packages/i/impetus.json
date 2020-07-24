@@ -5,9 +5,6 @@
     "momentum",
     "touch"
   ],
-  "author": {
-    "name": "Chris Bateman"
-  },
   "license": "MIT",
   "homepage": "http://chrisbateman.github.io/impetus/",
   "repository": {
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris Bateman"
+    }
+  ]
 }

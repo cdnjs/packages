@@ -8,9 +8,6 @@
     "gdpr",
     "cookie"
   ],
-  "author": {
-    "name": "AIC Agency SAS"
-  },
   "license": "MIT",
   "homepage": "https://github.com/AmauriC/tarteaucitron.js#readme",
   "repository": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "AIC Agency SAS"
+    }
+  ]
 }

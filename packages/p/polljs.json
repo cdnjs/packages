@@ -7,12 +7,14 @@
     "url": "https://github.com/mtrpcic/polljs.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "mtrpcic"
-  },
   "keywords": [
     "timer",
     "lightweight",
     "JavaScript"
+  ],
+  "authors": [
+    {
+      "name": "mtrpcic"
+    }
   ]
 }

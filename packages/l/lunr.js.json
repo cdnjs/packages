@@ -11,9 +11,6 @@
     "url": "https://github.com/olivernn/lunr.js"
   },
   "license": "MIT",
-  "author": {
-    "name": "Oliver Nightingale"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "lunr",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Oliver Nightingale"
+    }
+  ]
 }

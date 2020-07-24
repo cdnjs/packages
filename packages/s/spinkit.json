@@ -13,9 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/tobiasahlin/SpinKit.git"
   },
-  "author": {
-    "name": "Tobias Ahlin"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tobias Ahlin"
+    }
+  ]
 }

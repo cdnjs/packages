@@ -11,9 +11,6 @@
     "multiselect"
   ],
   "license": "MIT",
-  "author": {
-    "name": "Federico Zivolo <info@mywebexpression.com>"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/FezVrasta/dropdown.js.git"
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Federico Zivolo <info@mywebexpression.com>"
+    }
+  ]
 }

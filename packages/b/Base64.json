@@ -2,9 +2,6 @@
   "name": "Base64",
   "filename": "base64.min.js",
   "description": "Base64 encoding and decoding",
-  "author": {
-    "name": "David Chambers <dc@davidchambers.me>"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/davidchambers/Base64.js.git"
@@ -24,5 +21,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David Chambers <dc@davidchambers.me>"
+    }
+  ]
 }

@@ -12,11 +12,6 @@
     "type": "git",
     "url": "https://github.com/tonytomov/jqGrid"
   },
-  "author": {
-    "name": "Tony Tomov",
-    "url": "https://www.guriddo.net",
-    "email": "tony@trirand.com"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/tonytomov/jqGrid.git",
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tony Tomov",
+      "url": "https://www.guriddo.net",
+      "email": "tony@trirand.com"
+    }
+  ]
 }

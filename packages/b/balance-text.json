@@ -23,7 +23,9 @@
     "balance",
     "text-wrap"
   ],
-  "author": {
-    "name": "Adobe Systems, Inc. <https://github.com/adobe-webplatform>"
-  }
+  "authors": [
+    {
+      "name": "Adobe Systems, Inc. <https://github.com/adobe-webplatform>"
+    }
+  ]
 }

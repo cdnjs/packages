@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git://github.com/pakastin/frzr"
   },
-  "author": {
-    "name": "Juha Lindstedt"
-  },
   "license": "ISC",
   "keywords": [
     "frzr",
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Juha Lindstedt"
+    }
+  ]
 }

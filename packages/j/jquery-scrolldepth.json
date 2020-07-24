@@ -27,7 +27,9 @@
       }
     ]
   },
-  "author": {
-    "name": "Rob Flaherty"
-  }
+  "authors": [
+    {
+      "name": "Rob Flaherty"
+    }
+  ]
 }

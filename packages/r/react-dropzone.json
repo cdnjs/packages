@@ -16,9 +16,6 @@
     "type": "git",
     "url": "git+https://github.com/react-dropzone/react-dropzone.git"
   },
-  "author": {
-    "name": "Param Aggarwal"
-  },
   "license": "MIT",
   "homepage": "https://react-dropzone.js.org/",
   "autoupdate": {
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Param Aggarwal"
+    }
+  ]
 }

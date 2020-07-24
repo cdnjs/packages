@@ -11,9 +11,6 @@
     "memoization",
     "cache"
   ],
-  "author": {
-    "name": "Addy Osmani <addyosmani@gmail.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Addy Osmani <addyosmani@gmail.com>"
+    }
+  ]
 }

@@ -14,9 +14,6 @@
     "javascript"
   ],
   "homepage": "http://JSLite.io",
-  "author": {
-    "name": "kenny wang <398188662@qq.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "kenny wang <398188662@qq.com>"
+    }
+  ]
 }

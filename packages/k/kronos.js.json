@@ -11,9 +11,6 @@
     "logging",
     "metrics"
   ],
-  "author": {
-    "name": "GoDaddy <devs@locu.com>"
-  },
   "homepage": "https://chronology.github.io",
   "filename": "kronos.min.js",
   "autoupdate": {
@@ -29,5 +26,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "GoDaddy <devs@locu.com>"
+    }
+  ]
 }

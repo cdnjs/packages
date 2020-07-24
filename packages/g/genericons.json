@@ -11,9 +11,6 @@
     "font",
     "blog"
   ],
-  "author": {
-    "name": "George Stephanis <georgestephanis@automattic.com>"
-  },
   "license": "GPL-2.0",
   "homepage": "http://genericons.com",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "George Stephanis <georgestephanis@automattic.com>"
+    }
+  ]
 }

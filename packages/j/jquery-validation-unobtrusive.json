@@ -13,9 +13,6 @@
     "validation",
     "unobtrusive"
   ],
-  "author": {
-    "name": "Microsoft"
-  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Microsoft"
+    }
+  ]
 }

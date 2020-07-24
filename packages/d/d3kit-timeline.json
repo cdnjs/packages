@@ -12,10 +12,6 @@
   },
   "homepage": "https://kristw.github.io/d3kit-timeline/",
   "license": "Apache-2.0",
-  "author": {
-    "name": "kristw",
-    "url": "https://github.com/kristw"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "d3kit-timeline",
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "kristw",
+      "url": "https://github.com/kristw"
+    }
+  ]
 }

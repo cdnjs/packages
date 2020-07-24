@@ -10,11 +10,6 @@
     "binding",
     "data"
   ],
-  "author": {
-    "name": "Greg MacWilliam",
-    "email": "greg.macwilliam@threespot.com",
-    "url": "https://github.com/gmac"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/gmac/backbone.epoxy.git"
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Greg MacWilliam",
+      "email": "greg.macwilliam@threespot.com",
+      "url": "https://github.com/gmac"
+    }
+  ]
 }

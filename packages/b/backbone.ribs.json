@@ -12,7 +12,9 @@
     "url": "https://github.com/ZaValera/backbone.ribs.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Valeriy Zaitsev <ZaValera@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Valeriy Zaitsev <ZaValera@gmail.com>"
+    }
+  ]
 }

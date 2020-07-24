@@ -1,9 +1,6 @@
 {
   "name": "pixi-filters",
   "description": "Optional display filters to work with Pixi.js",
-  "author": {
-    "name": "Mat Groves"
-  },
   "filename": "filters.min.js",
   "homepage": "https://pixijs.github.io/pixi-filters/docs/",
   "license": "MIT",
@@ -37,5 +34,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mat Groves"
+    }
+  ]
 }

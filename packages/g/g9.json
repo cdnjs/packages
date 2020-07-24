@@ -1,9 +1,6 @@
 {
   "name": "g9",
   "description": "automatically interactive graphics",
-  "author": {
-    "name": "bijection"
-  },
   "keywords": [
     "interactive",
     "graphics"
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "bijection"
+    }
+  ]
 }

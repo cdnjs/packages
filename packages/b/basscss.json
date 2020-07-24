@@ -2,9 +2,6 @@
   "name": "basscss",
   "filename": "css/basscss.min.css",
   "description": "Low-level CSS toolkit",
-  "author": {
-    "name": "Brent Jackson"
-  },
   "license": "MIT",
   "keywords": [
     "atomic css",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Brent Jackson"
+    }
+  ]
 }

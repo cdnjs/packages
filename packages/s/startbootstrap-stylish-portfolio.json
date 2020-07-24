@@ -24,7 +24,9 @@
     "type": "git",
     "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio"
   },
-  "author": {
-    "name": "David Miller"
-  }
+  "authors": [
+    {
+      "name": "David Miller"
+    }
+  ]
 }

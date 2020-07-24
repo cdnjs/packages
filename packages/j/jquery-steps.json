@@ -3,11 +3,6 @@
   "filename": "jquery.steps.min.js",
   "description": "A powerful jQuery wizard plugin that supports accessibility and HTML5",
   "homepage": "http://www.jquery-steps.com",
-  "author": {
-    "name": "Rafael Staib",
-    "email": "me@rafaelstaib.com",
-    "url": "http://www.rafaelstaib.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/rstaib/jquery-steps.git"
@@ -31,5 +26,12 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rafael Staib",
+      "email": "me@rafaelstaib.com",
+      "url": "http://www.rafaelstaib.com"
+    }
+  ]
 }

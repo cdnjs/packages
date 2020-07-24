@@ -14,9 +14,6 @@
     "url": "https://github.com/rstacruz/jquery.transit"
   },
   "license": "MIT",
-  "author": {
-    "name": "Rico Sta. Cruz <hi@ricostacruz.com>"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "jquery.transit",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rico Sta. Cruz <hi@ricostacruz.com>"
+    }
+  ]
 }

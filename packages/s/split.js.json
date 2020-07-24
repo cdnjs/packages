@@ -13,9 +13,6 @@
     "tiny",
     "split-layout"
   ],
-  "author": {
-    "name": "Nathan Cahill <nathan@nathancahill.com>"
-  },
   "license": "MIT",
   "homepage": "https://split.js.org/",
   "autoupdate": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nathan Cahill <nathan@nathancahill.com>"
+    }
+  ]
 }

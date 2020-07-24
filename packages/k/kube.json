@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git://github.com/imperavi/kube.git"
   },
-  "author": {
-    "name": "imperavi"
-  },
   "license": "MIT",
   "keywords": [
     "kube",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "imperavi"
+    }
+  ]
 }

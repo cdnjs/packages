@@ -12,9 +12,6 @@
     "chart",
     "graph"
   ],
-  "author": {
-    "name": "Masayuki Tanaka"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Masayuki Tanaka"
+    }
+  ]
 }

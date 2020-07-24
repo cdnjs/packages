@@ -25,7 +25,9 @@
       }
     ]
   },
-  "author": {
-    "name": "malsup <malsup@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "malsup <malsup@gmail.com>"
+    }
+  ]
 }

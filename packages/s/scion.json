@@ -7,9 +7,6 @@
     "w3c",
     "javascript"
   ],
-  "author": {
-    "name": "Jacob Beard <jake@jacobeanrnd.com>"
-  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jacob Beard <jake@jacobeanrnd.com>"
+    }
+  ]
 }

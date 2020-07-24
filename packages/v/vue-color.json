@@ -10,10 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/xiaokaike/vue-color.git"
   },
-  "author": {
-    "name": "xiaokai",
-    "email": "kexiaokai@gmail.com"
-  },
   "license": "MIT",
   "homepage": "https://xiaokaike.github.io/vue-color/",
   "autoupdate": {
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "xiaokai",
+      "email": "kexiaokai@gmail.com"
+    }
+  ]
 }

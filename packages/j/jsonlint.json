@@ -26,7 +26,9 @@
     "type": "git",
     "url": "https://github.com/zaach/jsonlint"
   },
-  "author": {
-    "name": "Zach Carter <zach@carter.name> (http://zaa.ch)"
-  }
+  "authors": [
+    {
+      "name": "Zach Carter <zach@carter.name> (http://zaa.ch)"
+    }
+  ]
 }

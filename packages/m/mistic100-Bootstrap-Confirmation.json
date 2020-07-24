@@ -3,10 +3,6 @@
   "filename": "bootstrap-confirmation.min.js",
   "homepage": "https://mistic100.github.io/Bootstrap-Confirmation",
   "description": "Bootstrap plugin for on-place confirm boxes using Popover",
-  "author": {
-    "name": "Damien Sorel",
-    "url": "http://www.strangeplanet.fr"
-  },
   "keywords": [
     "confirmation",
     "popup"
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Damien Sorel",
+      "url": "http://www.strangeplanet.fr"
+    }
+  ]
 }

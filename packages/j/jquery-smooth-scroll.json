@@ -13,11 +13,6 @@
     "animation"
   ],
   "license": "MIT",
-  "author": {
-    "name": "Karl Swedberg",
-    "email": "kswedberg@gmail.com",
-    "url": "http://www.learningjquery.com/"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "jquery-smooth-scroll",
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Karl Swedberg",
+      "email": "kswedberg@gmail.com",
+      "url": "http://www.learningjquery.com/"
+    }
+  ]
 }

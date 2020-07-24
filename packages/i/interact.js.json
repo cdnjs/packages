@@ -26,11 +26,6 @@
     "interact"
   ],
   "license": "MIT",
-  "author": {
-    "name": "Taye Adeyemi",
-    "email": "dev@taye.me",
-    "url": "http://taye.me"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "interactjs",
@@ -42,5 +37,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Taye Adeyemi",
+      "email": "dev@taye.me",
+      "url": "http://taye.me"
+    }
+  ]
 }

@@ -13,9 +13,6 @@
     "vue-component",
     "bootstrap"
   ],
-  "author": {
-    "name": "yuche"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "yuche"
+    }
+  ]
 }

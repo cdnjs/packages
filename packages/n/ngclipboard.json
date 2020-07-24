@@ -10,11 +10,6 @@
     "angularjs"
   ],
   "homepage": "https://sachinchoolur.github.io/ngclipboard/",
-  "author": {
-    "name": "Sachin",
-    "email": "sachi77n@gmail.com",
-    "url": "https://github.com/sachinchoolur"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:sachinchoolur/ngclipboard.git"
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sachin",
+      "email": "sachi77n@gmail.com",
+      "url": "https://github.com/sachinchoolur"
+    }
+  ]
 }

@@ -2,11 +2,6 @@
   "name": "jstat",
   "description": "Statistical Library for JavaScript",
   "filename": "jstat.min.js",
-  "author": {
-    "name": "Trevor Norris",
-    "email": "trev.norris@gmail.com",
-    "url": "http://trevorjnorris.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jstat/jstat.git"
@@ -26,5 +21,12 @@
   "license": "MIT",
   "keywords": [
     "jstat"
+  ],
+  "authors": [
+    {
+      "name": "Trevor Norris",
+      "email": "trev.norris@gmail.com",
+      "url": "http://trevorjnorris.com"
+    }
   ]
 }

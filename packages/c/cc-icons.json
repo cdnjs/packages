@@ -15,11 +15,6 @@
     "MIT",
     "CC-BY-4.0"
   ],
-  "author": {
-    "name": "richardba",
-    "email": "richard at gmail dot com",
-    "url": "http://twitter.com/richardba"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/cc-icons/cc-icons.git"
@@ -41,5 +36,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "richardba",
+      "email": "richard at gmail dot com",
+      "url": "http://twitter.com/richardba"
+    }
+  ]
 }

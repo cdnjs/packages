@@ -12,9 +12,6 @@
     "type": "git",
     "url": "git://github.com/carlsednaoui/ouibounce.git"
   },
-  "author": {
-    "name": "Carl Sednaoui"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Carl Sednaoui"
+    }
+  ]
 }

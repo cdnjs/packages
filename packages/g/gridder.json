@@ -9,9 +9,6 @@
     "expanding",
     "grid"
   ],
-  "author": {
-    "name": "Orion Gunning <orion.gunning@gmail.com>"
-  },
   "homepage": "http://oriongunning.github.io/gridder/",
   "repository": {
     "type": "git",
@@ -29,5 +26,10 @@
       }
     ]
   },
-  "license": "CC-BY-3.0"
+  "license": "CC-BY-3.0",
+  "authors": [
+    {
+      "name": "Orion Gunning <orion.gunning@gmail.com>"
+    }
+  ]
 }

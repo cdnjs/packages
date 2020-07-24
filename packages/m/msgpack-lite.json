@@ -2,9 +2,6 @@
   "name": "msgpack-lite",
   "description": "Fast Pure JavaScript MessagePack Encoder and Decoder",
   "filename": "msgpack.min.js",
-  "author": {
-    "name": "@kawanet"
-  },
   "keywords": [
     "buffer",
     "fluentd",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "@kawanet"
+    }
+  ]
 }

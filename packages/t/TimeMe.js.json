@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git://github.com/jasonzissman/TimeMe.js.git"
   },
-  "author": {
-    "name": "Jason Zissman"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Zissman"
+    }
+  ]
 }

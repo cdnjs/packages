@@ -13,9 +13,6 @@
     "element",
     "style"
   ],
-  "author": {
-    "name": "psd2html"
-  },
   "license": "MIT",
   "homepage": "https://www.psd2html.com/js-custom-forms/",
   "autoupdate": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "psd2html"
+    }
+  ]
 }

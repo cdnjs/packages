@@ -12,9 +12,6 @@
     "color swatches",
     "CSS"
   ],
-  "author": {
-    "name": "Jeong Heeyeun <hyd5012@gmail.com>"
-  },
   "homepage": "https://yeun.github.io/open-color/",
   "autoupdate": {
     "source": "git",
@@ -28,5 +25,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jeong Heeyeun <hyd5012@gmail.com>"
+    }
+  ]
 }

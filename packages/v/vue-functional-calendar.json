@@ -28,9 +28,6 @@
   ],
   "homepage": "https://github.com/ManukMinasyan/vue-functional-calendar",
   "license": "MIT",
-  "author": {
-    "name": "Manuk Minasyan <manuk.minasyan1@gmail.com> (https://github.com/ManukMinasyan)"
-  },
   "filename": "FunctionalCalendar.umd.min.js",
   "repository": {
     "type": "git",
@@ -47,5 +44,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Manuk Minasyan <manuk.minasyan1@gmail.com> (https://github.com/ManukMinasyan)"
+    }
+  ]
 }

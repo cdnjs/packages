@@ -12,9 +12,6 @@
     "poppers",
     "customizable"
   ],
-  "author": {
-    "name": "Federico Zivolo <federico.zivolo@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "https://popper.js.org/",
   "autoupdate": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Federico Zivolo <federico.zivolo@gmail.com>"
+    }
+  ]
 }

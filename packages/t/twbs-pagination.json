@@ -26,7 +26,9 @@
       }
     ]
   },
-  "author": {
-    "name": "Eugene Simakin <eugenesimakin@mail.ru>"
-  }
+  "authors": [
+    {
+      "name": "Eugene Simakin <eugenesimakin@mail.ru>"
+    }
+  ]
 }

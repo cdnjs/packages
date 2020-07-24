@@ -12,9 +12,11 @@
     "type": "git",
     "url": "https://github.com/oppia/oppia/"
   },
-  "author": {
-    "name": "Sean Lip"
-  },
   "license": "Apache-2.0",
-  "homepage": "https://oppia.github.io/#/EmbeddingAnExploration"
+  "homepage": "https://oppia.github.io/#/EmbeddingAnExploration",
+  "authors": [
+    {
+      "name": "Sean Lip"
+    }
+  ]
 }

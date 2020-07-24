@@ -8,9 +8,6 @@
   "keywords": [
     "json"
   ],
-  "author": {
-    "name": "Meck <yesmeck@gmail.com>"
-  },
   "license": "MIT",
   "filename": "jquery.jsonview.min.js",
   "autoupdate": {
@@ -24,5 +21,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Meck <yesmeck@gmail.com>"
+    }
+  ]
 }

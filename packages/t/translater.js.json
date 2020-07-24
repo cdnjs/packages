@@ -12,9 +12,6 @@
     "type": "git",
     "url": "https://github.com/jaywcjlove/translater.js"
   },
-  "author": {
-    "name": "kenny wang"
-  },
   "license": "MIT",
   "homepage": "https://jaywcjlove.github.io/translater.js/",
   "autoupdate": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "kenny wang"
+    }
+  ]
 }

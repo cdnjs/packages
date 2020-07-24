@@ -12,9 +12,6 @@
     "url": "https://github.com/Caged/d3-tip"
   },
   "license": "MIT",
-  "author": {
-    "name": "Justin Palmer"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "d3-tip",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Justin Palmer"
+    }
+  ]
 }

@@ -12,9 +12,6 @@
     "plugin",
     "responsive"
   ],
-  "author": {
-    "name": "Nicolas Turlais"
-  },
   "homepage": "http://chocolat.insipi.de",
   "autoupdate": {
     "source": "git",
@@ -28,5 +25,10 @@
       }
     ]
   },
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Nicolas Turlais"
+    }
+  ]
 }

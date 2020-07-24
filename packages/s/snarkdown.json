@@ -2,9 +2,6 @@
   "name": "snarkdown",
   "filename": "snarkdown.js",
   "description": "Transform Markdown into HTML.",
-  "author": {
-    "name": "Jason Miller <jason@developit.ca>"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/developit/snarkdown"
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Miller <jason@developit.ca>"
+    }
+  ]
 }

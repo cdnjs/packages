@@ -1,10 +1,6 @@
 {
   "name": "picomodal",
   "filename": "picoModal.min.js",
-  "author": {
-    "name": "James Frasca",
-    "email": "james@roundeights.com"
-  },
   "description": "A small, self-contained JavaScript modal library",
   "license": "MIT",
   "repository": {
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "James Frasca",
+      "email": "james@roundeights.com"
+    }
+  ]
 }

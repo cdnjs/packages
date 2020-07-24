@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/tmpvar/weld.git"
   },
-  "author": {
-    "name": "hij1nx <hij1nx@gmail.com>"
-  },
   "license": "MIT",
   "keywords": [
     "templates",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "hij1nx <hij1nx@gmail.com>"
+    }
+  ]
 }

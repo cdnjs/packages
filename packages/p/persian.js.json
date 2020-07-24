@@ -2,9 +2,6 @@
   "name": "persian.js",
   "filename": "persian.min.js",
   "description": "Persian language localization.",
-  "author": {
-    "name": "Afshin Mehrabani <afshin.meh@gmail.com> (http://afshinm.name/)"
-  },
   "keywords": [
     "persian",
     "farsi",
@@ -32,5 +29,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Afshin Mehrabani <afshin.meh@gmail.com> (http://afshinm.name/)"
+    }
+  ]
 }

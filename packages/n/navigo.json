@@ -7,11 +7,6 @@
     "hash",
     "history"
   ],
-  "author": {
-    "name": "Krasimir Tsonev",
-    "email": "info@krasimirtsonev.com",
-    "url": "http://krasimirtsonev.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/krasimir/navigo#readme",
   "repository": {
@@ -30,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Krasimir Tsonev",
+      "email": "info@krasimirtsonev.com",
+      "url": "http://krasimirtsonev.com"
+    }
+  ]
 }

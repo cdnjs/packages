@@ -23,7 +23,9 @@
     "url": "https://github.com/twbs/ratchet"
   },
   "license": "MIT",
-  "author": {
-    "name": "Connor Sears"
-  }
+  "authors": [
+    {
+      "name": "Connor Sears"
+    }
+  ]
 }

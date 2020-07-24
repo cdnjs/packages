@@ -3,11 +3,6 @@
   "filename": "js/jquery.paver.min.js",
   "description": "A minimal panorama/image viewer replicating the effect seen in Facebook Pages app.",
   "homepage": "https://terrymun.github.io/paver/",
-  "author": {
-    "name": "Terry Mun",
-    "email": "hello@terrymun.com",
-    "url": "http://terrymun.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/terrymun/paver/"
@@ -35,5 +30,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Terry Mun",
+      "email": "hello@terrymun.com",
+      "url": "http://terrymun.com"
+    }
+  ]
 }

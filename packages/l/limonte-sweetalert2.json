@@ -6,9 +6,6 @@
     "type": "git",
     "url": "https://github.com/sweetalert2/sweetalert2.git"
   },
-  "author": {
-    "name": "t4t5 & limonte"
-  },
   "license": "MIT",
   "homepage": "https://sweetalert2.github.io/",
   "keywords": [
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "t4t5 & limonte"
+    }
+  ]
 }

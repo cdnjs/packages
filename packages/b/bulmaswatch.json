@@ -1,9 +1,6 @@
 {
   "name": "bulmaswatch",
   "description": "Themes for Bulma",
-  "author": {
-    "name": "Jenil Gogari <i@jgog.in>"
-  },
   "homepage": "https://jenil.github.io/bulmaswatch",
   "filename": "default/bulmaswatch.min.css",
   "repository": {
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jenil Gogari <i@jgog.in>"
+    }
+  ]
 }

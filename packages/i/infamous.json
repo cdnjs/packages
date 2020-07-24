@@ -8,9 +8,6 @@
     "type": "git",
     "url": "git@github.com:infamous/infamous.git"
   },
-  "author": {
-    "name": "Joseph Orbegoso Pea <joe@trusktr.io>"
-  },
   "keywords": [
     "gui",
     "graphical-user-interface",
@@ -55,5 +52,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Joseph Orbegoso Pea <joe@trusktr.io>"
+    }
+  ]
 }

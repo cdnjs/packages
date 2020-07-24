@@ -17,7 +17,9 @@
     "MIT",
     "GPL"
   ],
-  "author": {
-    "name": "Pablo Cantero <pablo@pablocantero.com>"
-  }
+  "authors": [
+    {
+      "name": "Pablo Cantero <pablo@pablocantero.com>"
+    }
+  ]
 }

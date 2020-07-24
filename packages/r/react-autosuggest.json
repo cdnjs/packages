@@ -6,10 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/moroshko/react-autosuggest.git"
   },
-  "author": {
-    "name": "Misha Moroshko",
-    "email": "michael.moroshko@gmail.com"
-  },
   "keywords": [
     "autosuggest",
     "autocomplete",
@@ -42,5 +38,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Misha Moroshko",
+      "email": "michael.moroshko@gmail.com"
+    }
+  ]
 }

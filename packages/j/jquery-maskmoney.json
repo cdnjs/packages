@@ -6,11 +6,6 @@
     "type": "git",
     "url": "https://github.com/plentz/jquery-maskmoney.git"
   },
-  "author": {
-    "name": "Diego Plentz",
-    "email": "diego@plentz.org",
-    "url": "http://plentz.org"
-  },
   "keywords": [
     "form",
     "money",
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Diego Plentz",
+      "email": "diego@plentz.org",
+      "url": "http://plentz.org"
+    }
+  ]
 }

@@ -7,12 +7,6 @@
     "readability",
     "space"
   ],
-  "author": {
-    "name": "Filament Group",
-    "email": "hello@filamentgroup.com",
-    "twitter": "filamentgroup",
-    "url": "http://filamentgroup.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/filamentgroup/politespace.git"
@@ -29,5 +23,13 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Filament Group",
+      "email": "hello@filamentgroup.com",
+      "twitter": "filamentgroup",
+      "url": "http://filamentgroup.com"
+    }
+  ]
 }

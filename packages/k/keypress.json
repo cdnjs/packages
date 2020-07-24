@@ -22,7 +22,9 @@
     "url": "https://github.com/dmauro/Keypress"
   },
   "license": "Apache-2.0",
-  "author": {
-    "name": "David Mauro <email@dmauro.com>"
-  }
+  "authors": [
+    {
+      "name": "David Mauro <email@dmauro.com>"
+    }
+  ]
 }

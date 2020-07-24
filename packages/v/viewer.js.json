@@ -2,9 +2,6 @@
   "name": "viewer.js",
   "description": "A viewer for documents converted with the Box View API",
   "filename": "crocodoc.viewer.min.js",
-  "author": {
-    "name": "Cameron Lakenen <lakenen@box.com>"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/box/viewer.js.git"
@@ -29,5 +26,10 @@
       }
     ]
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Cameron Lakenen <lakenen@box.com>"
+    }
+  ]
 }

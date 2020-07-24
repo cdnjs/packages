@@ -7,9 +7,6 @@
     "Fira",
     "FiraMono"
   ],
-  "author": {
-    "name": "Nikita Prokopov <niki@tonsky.me>"
-  },
   "license": "OFL-1.1",
   "homepage": "https://github.com/tonsky/FiraCode#readme",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nikita Prokopov <niki@tonsky.me>"
+    }
+  ]
 }

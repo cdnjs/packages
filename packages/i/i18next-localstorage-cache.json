@@ -5,11 +5,6 @@
     "i18next",
     "i18next-cache"
   ],
-  "author": {
-    "name": "Jan Mühlemann",
-    "email": "jan.muehlemann@gmail.com",
-    "url": "https://github.com/jamuhl"
-  },
   "license": "MIT",
   "homepage": "https://github.com/i18next/i18next-localStorage-cache",
   "repository": {
@@ -34,5 +29,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jan Mühlemann",
+      "email": "jan.muehlemann@gmail.com",
+      "url": "https://github.com/jamuhl"
+    }
+  ]
 }

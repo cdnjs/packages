@@ -13,9 +13,6 @@
     "url": "https://github.com/ccampbell/mousetrap.git"
   },
   "license": "Apache-2.0",
-  "author": {
-    "name": "Craig Campbell"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/ccampbell/mousetrap.git",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Craig Campbell"
+    }
+  ]
 }

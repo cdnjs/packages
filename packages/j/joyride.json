@@ -6,12 +6,14 @@
     "type": "git",
     "url": "https://github.com/zurb/joyride"
   },
-  "author": {
-    "name": "ZURB"
-  },
   "homepage": "http://zurb.com/playground/jquery-joyride-feature-tour-plugin",
   "license": "MIT",
   "keywords": [
     "joyride"
+  ],
+  "authors": [
+    {
+      "name": "ZURB"
+    }
   ]
 }

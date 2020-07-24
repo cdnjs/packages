@@ -35,8 +35,10 @@
     "url": "git://github.com/victor-valencia/bootstrap-iconpicker.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Victor Valencia Rico",
-    "email": "valencia_vik@hotmail.com"
-  }
+  "authors": [
+    {
+      "name": "Victor Valencia Rico",
+      "email": "valencia_vik@hotmail.com"
+    }
+  ]
 }

@@ -10,9 +10,6 @@
     "library",
     "templates"
   ],
-  "author": {
-    "name": "Artem Stepanyuk"
-  },
   "license": "MIT",
   "homepage": "http://faulknercs.github.io/Knockstrap/",
   "repository": {
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Artem Stepanyuk"
+    }
+  ]
 }

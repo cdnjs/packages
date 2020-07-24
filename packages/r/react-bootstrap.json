@@ -14,9 +14,6 @@
     "type": "git",
     "url": "https://github.com/react-bootstrap/react-bootstrap"
   },
-  "author": {
-    "name": "Stephen J. Collings <stevoland@gmail.com>"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "react-bootstrap",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stephen J. Collings <stevoland@gmail.com>"
+    }
+  ]
 }

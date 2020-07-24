@@ -1,9 +1,6 @@
 {
   "name": "reflux",
   "description": "A simple library for uni-directional dataflow application architecture inspired by ReactJS Flux",
-  "author": {
-    "name": "Mikael Brassman"
-  },
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mikael Brassman"
+    }
+  ]
 }

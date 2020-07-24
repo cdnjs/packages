@@ -12,9 +12,6 @@
     "art",
     "2.5D"
   ],
-  "author": {
-    "name": "Max Huang <risonhuang@gmail.com> (http://github.com/nosir)"
-  },
   "license": "MIT",
   "homepage": "https://github.com/nosir/obelisk.js",
   "repository": {
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Max Huang <risonhuang@gmail.com> (http://github.com/nosir)"
+    }
+  ]
 }

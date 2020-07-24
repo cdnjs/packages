@@ -11,9 +11,6 @@
     "pipesjs",
     "utils"
   ],
-  "author": {
-    "name": "Diwank Singh <diwank.singh@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "http://pipes.js.org/core",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Diwank Singh <diwank.singh@gmail.com>"
+    }
+  ]
 }

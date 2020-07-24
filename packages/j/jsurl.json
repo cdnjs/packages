@@ -6,9 +6,6 @@
     "url",
     "querystring"
   ],
-  "author": {
-    "name": "Mykhailo Stadnyk <mikhus@gmail.com>"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mykhailo Stadnyk <mikhus@gmail.com>"
+    }
+  ]
 }

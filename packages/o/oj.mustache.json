@@ -6,13 +6,15 @@
     "oj",
     "mustache"
   ],
-  "author": {
-    "name": "Evan Moran <evan@evanmoran.com>"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/ojjs/oj.mustache.git"
   },
   "filename": "oj.mustache.min.js",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Evan Moran <evan@evanmoran.com>"
+    }
+  ]
 }

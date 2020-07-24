@@ -24,9 +24,6 @@
     "uglify"
   ],
   "homepage": "https://kangax.github.io/html-minifier/",
-  "author": {
-    "name": "Juriy Zaytsev"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -43,5 +40,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Juriy Zaytsev"
+    }
+  ]
 }

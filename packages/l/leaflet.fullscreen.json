@@ -7,9 +7,6 @@
     "type": "git",
     "url": "https://github.com/brunob/leaflet.fullscreen"
   },
-  "author": {
-    "name": "b_b"
-  },
   "keywords": [
     "leaflet",
     "plugins",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "b_b"
+    }
+  ]
 }

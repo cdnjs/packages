@@ -6,9 +6,6 @@
     "type": "git",
     "url": "https://github.com/lytics/ember-data-model-fragments.git"
   },
-  "author": {
-    "name": "Steven Lindberg <steven@lytics.io>"
-  },
   "license": "MIT",
   "keywords": [
     "ember-addon",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Steven Lindberg <steven@lytics.io>"
+    }
+  ]
 }

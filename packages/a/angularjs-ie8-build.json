@@ -2,9 +2,6 @@
   "name": "angularjs-ie8-build",
   "filename": "angular.min.js",
   "description": "A build of AngularJS 1.3 with polyfils and some changes to bring back IE8 compatibilty",
-  "author": {
-    "name": "Fergal Doyle"
-  },
   "keywords": [
     "angular",
     "angular 1.3",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Fergal Doyle"
+    }
+  ]
 }

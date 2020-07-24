@@ -23,9 +23,6 @@
     },
     "GPL-3.0"
   ],
-  "author": {
-    "name": "Jānis Skarnelis"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/fancyapps/fancybox.git",
@@ -37,5 +34,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jānis Skarnelis"
+    }
+  ]
 }

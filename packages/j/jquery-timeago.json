@@ -27,9 +27,11 @@
     "url": "https://github.com/rmm5t/jquery-timeago"
   },
   "license": "MIT",
-  "author": {
-    "name": "Ryan McGeary",
-    "email": "ryan@mcgeary.org",
-    "url": "http://ryan.mcgeary.org/"
-  }
+  "authors": [
+    {
+      "name": "Ryan McGeary",
+      "email": "ryan@mcgeary.org",
+      "url": "http://ryan.mcgeary.org/"
+    }
+  ]
 }

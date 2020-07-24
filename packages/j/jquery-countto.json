@@ -13,9 +13,6 @@
     "increment",
     "decrement"
   ],
-  "author": {
-    "name": "Matt Huggins <matt.huggins@gmail.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Matt Huggins <matt.huggins@gmail.com>"
+    }
+  ]
 }

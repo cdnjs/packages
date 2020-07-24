@@ -11,9 +11,6 @@
     "kit",
     "css"
   ],
-  "author": {
-    "name": "Arun Michael Dsouza <amdsouza92@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "https://arunmichaeldsouza.github.io/CSS-Mint/",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Arun Michael Dsouza <amdsouza92@gmail.com>"
+    }
+  ]
 }

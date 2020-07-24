@@ -21,11 +21,6 @@
     "MIT",
     "CC-BY-4.0"
   ],
-  "author": {
-    "name": "Dave Gandy",
-    "email": "dave@fontawesome.io",
-    "url": "https://twitter.com/davegandy"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "@fortawesome/fontawesome-free",
@@ -37,5 +32,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dave Gandy",
+      "email": "dave@fontawesome.io",
+      "url": "https://twitter.com/davegandy"
+    }
+  ]
 }

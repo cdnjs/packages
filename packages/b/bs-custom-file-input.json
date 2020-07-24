@@ -9,10 +9,6 @@
     "react",
     "angular"
   ],
-  "author": {
-    "name": "Johann-S",
-    "email": "johann.servoire@gmail.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/Johann-S/bs-custom-file-input",
   "repository": {
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Johann-S",
+      "email": "johann.servoire@gmail.com"
+    }
+  ]
 }

@@ -13,9 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/Tencent/vConsole.git"
   },
-  "author": {
-    "name": "Tencent"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tencent"
+    }
+  ]
 }

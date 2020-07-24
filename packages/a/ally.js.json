@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Rodney Rehm <rodney.rehm@medialize.de> (http://rodneyrehm.de/en/)"
-  },
   "description": "JavaScript library to help web applications with accessibility concerns",
   "filename": "ally.min.js",
   "homepage": "http://allyjs.io/",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rodney Rehm <rodney.rehm@medialize.de> (http://rodneyrehm.de/en/)"
+    }
+  ]
 }

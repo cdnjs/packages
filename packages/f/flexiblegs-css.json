@@ -12,9 +12,6 @@
     "flexbox",
     "flex"
   ],
-  "author": {
-    "name": "@dnomak"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "@dnomak"
+    }
+  ]
 }

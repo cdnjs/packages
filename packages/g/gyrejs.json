@@ -13,9 +13,6 @@
     "state",
     "predictable"
   ],
-  "author": {
-    "name": "Wilbert van de Ridder"
-  },
   "license": "MIT",
   "homepage": "http://gyre.js.org",
   "autoupdate": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Wilbert van de Ridder"
+    }
+  ]
 }

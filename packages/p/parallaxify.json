@@ -11,9 +11,11 @@
     "parallaxify",
     "jquery"
   ],
-  "author": {
-    "name": "Felix Pflaum"
-  },
   "license": "MIT",
-  "homepage": "https://hwthorn.github.io/parallaxify/"
+  "homepage": "https://hwthorn.github.io/parallaxify/",
+  "authors": [
+    {
+      "name": "Felix Pflaum"
+    }
+  ]
 }

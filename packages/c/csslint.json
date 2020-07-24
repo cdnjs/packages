@@ -7,9 +7,6 @@
     "lint",
     "linting"
   ],
-  "author": {
-    "name": "Nicole Sullivan"
-  },
   "license": "MIT",
   "homepage": "http://csslint.net/",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nicole Sullivan"
+    }
+  ]
 }

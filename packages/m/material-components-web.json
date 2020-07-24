@@ -12,9 +12,6 @@
     "url": "https://github.com/material-components/material-components-web.git"
   },
   "license": "Apache-2.0",
-  "author": {
-    "name": "The Material Design Team"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "material-components-web",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "The Material Design Team"
+    }
+  ]
 }

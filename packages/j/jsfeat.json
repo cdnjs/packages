@@ -3,9 +3,6 @@
   "filename": "jsfeat-min.js",
   "description": "JavaScript Computer Vision library",
   "homepage": "http://inspirit.github.io/jsfeat/",
-  "author": {
-    "name": "Eugene Zatepyakin (http://www.inspirit.ru/)"
-  },
   "keywords": [
     "Computer Vision",
     "image processing",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Eugene Zatepyakin (http://www.inspirit.ru/)"
+    }
+  ]
 }

@@ -32,7 +32,9 @@
     "url": "https://github.com/utatti/perfect-scrollbar"
   },
   "license": "MIT",
-  "author": {
-    "name": "Hyunje Alex Jun <me@noraesae.net>"
-  }
+  "authors": [
+    {
+      "name": "Hyunje Alex Jun <me@noraesae.net>"
+    }
+  ]
 }

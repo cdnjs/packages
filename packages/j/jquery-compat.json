@@ -3,10 +3,6 @@
   "filename": "jquery.min.js",
   "description": "JavaScript library for DOM operations",
   "homepage": "http://jquery.com",
-  "author": {
-    "name": "jQuery Foundation and other contributors",
-    "url": "https://github.com/jquery/jquery/blob/compat/AUTHORS.txt"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jquery/jquery.git"
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "jQuery Foundation and other contributors",
+      "url": "https://github.com/jquery/jquery/blob/compat/AUTHORS.txt"
+    }
+  ]
 }

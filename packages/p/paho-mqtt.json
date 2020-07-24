@@ -1,8 +1,5 @@
 {
   "name": "paho-mqtt",
-  "author": {
-    "name": "Eclipse Paho"
-  },
   "filename": "paho-mqtt.min.js",
   "description": "The Eclipse Paho JavaScript Library for Web-browsers, using WebSockets.",
   "repository": {
@@ -25,5 +22,10 @@
       }
     ]
   },
-  "license": "EPL-1.0"
+  "license": "EPL-1.0",
+  "authors": [
+    {
+      "name": "Eclipse Paho"
+    }
+  ]
 }

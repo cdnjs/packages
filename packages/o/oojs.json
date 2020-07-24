@@ -1,10 +1,6 @@
 {
   "name": "oojs",
   "description": "Power for object oriented JavaScript libraries.",
-  "author": {
-    "name": "OOjs Team and other contributors",
-    "url": "https://phabricator.wikimedia.org/diffusion/GOJS/browse/master/AUTHORS.txt"
-  },
   "keywords": [
     "oo",
     "oop",
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "OOjs Team and other contributors",
+      "url": "https://phabricator.wikimedia.org/diffusion/GOJS/browse/master/AUTHORS.txt"
+    }
+  ]
 }

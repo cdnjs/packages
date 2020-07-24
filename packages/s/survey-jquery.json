@@ -1,8 +1,4 @@
 {
-  "author": {
-    "email": "andrew.telnov@gmail.com",
-    "name": "andrewtelnov"
-  },
   "description": "survey.js is a JavaScript Survey Library. It is a modern way to add a survey to your website. It uses JSON for survey metadata and results.",
   "filename": "survey.jquery.min.js",
   "homepage": "https://surveyjs.org/",
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "andrew.telnov@gmail.com",
+      "name": "andrewtelnov"
+    }
+  ]
 }

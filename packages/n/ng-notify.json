@@ -15,9 +15,6 @@
     "alert",
     "notice"
   ],
-  "author": {
-    "name": "Mat Owens <mat@peglegg.net>"
-  },
   "license": "MIT",
   "homepage": "https://matowens.github.io/ng-notify/",
   "autoupdate": {
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mat Owens <mat@peglegg.net>"
+    }
+  ]
 }

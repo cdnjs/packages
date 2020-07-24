@@ -3,10 +3,6 @@
   "filename": "jquery.superscrollorama.min.js",
   "description": "The jQuery plugin for supercool scroll animation",
   "homepage": "http://johnpolacek.github.com/superscrollorama/",
-  "author": {
-    "name": "John Polacek",
-    "url": "http://johnpolacek.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/johnpolacek/superscrollorama.git"
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "John Polacek",
+      "url": "http://johnpolacek.com"
+    }
+  ]
 }

@@ -2,9 +2,6 @@
   "name": "simplex-noise",
   "filename": "simplex-noise.min.js",
   "description": "simplex-noise is a fast simplex noise implementation in Javascript. Works in node and in the browser.",
-  "author": {
-    "name": "Jonas Wagner <jonas@29a.ch> (http://29a.ch/)"
-  },
   "keywords": [
     "noise",
     "random",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jonas Wagner <jonas@29a.ch> (http://29a.ch/)"
+    }
+  ]
 }

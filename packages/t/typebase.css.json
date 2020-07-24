@@ -15,9 +15,6 @@
     "web"
   ],
   "homepage": "https://devinhunt.github.io/typebase.css/",
-  "author": {
-    "name": "Devin Hunt <devinhunt@gmail.com>"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/devinhunt/typebase.css.git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Devin Hunt <devinhunt@gmail.com>"
+    }
+  ]
 }

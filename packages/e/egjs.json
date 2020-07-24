@@ -7,9 +7,6 @@
     "type": "git",
     "url": "https://github.com/naver/egjs"
   },
-  "author": {
-    "name": "NAVER corp"
-  },
   "license": "MIT",
   "keywords": [
     "egjs",
@@ -36,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "NAVER corp"
+    }
+  ]
 }

@@ -5,9 +5,6 @@
   "keywords": [
     "math"
   ],
-  "author": {
-    "name": "toji"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/toji/gl-matrix.git"
@@ -24,5 +21,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "toji"
+    }
+  ]
 }

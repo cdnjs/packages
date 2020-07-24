@@ -15,9 +15,6 @@
     "angular",
     "vue"
   ],
-  "author": {
-    "name": "Joel Denning"
-  },
   "license": "MIT",
   "filename": "umd/single-spa.min.js",
   "autoupdate": {
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Joel Denning"
+    }
+  ]
 }

@@ -8,9 +8,6 @@
     "unobtrusive"
   ],
   "license": "MIT",
-  "author": {
-    "name": "Arnout Kazemier <opensource@3rd-Eden.com>"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/flatiron/plates.git"
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Arnout Kazemier <opensource@3rd-Eden.com>"
+    }
+  ]
 }

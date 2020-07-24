@@ -13,9 +13,6 @@
     "translate",
     "rotate"
   ],
-  "author": {
-    "name": "Erik Cunningham <djtrinary@gmail.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Erik Cunningham <djtrinary@gmail.com>"
+    }
+  ]
 }

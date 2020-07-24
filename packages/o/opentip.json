@@ -11,9 +11,6 @@
     "type": "git",
     "url": "https://github.com/enyo/opentip.git"
   },
-  "author": {
-    "name": "Matias Meno"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/enyo/opentip.git",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Matias Meno"
+    }
+  ]
 }

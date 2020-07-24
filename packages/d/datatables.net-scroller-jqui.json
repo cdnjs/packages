@@ -8,10 +8,6 @@
     "table",
     "jQuery UI"
   ],
-  "author": {
-    "name": "SpryMedia Ltd",
-    "url": "http://datatables.net"
-  },
   "license": "MIT",
   "homepage": "https://datatables.net",
   "repository": {
@@ -36,5 +32,11 @@
       }
     ]
   },
-  "filename": "scroller.jqueryui.min.js"
+  "filename": "scroller.jqueryui.min.js",
+  "authors": [
+    {
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
+    }
+  ]
 }

@@ -7,9 +7,6 @@
     "tutorial",
     "shepherd"
   ],
-  "author": {
-    "name": "Robert Wagner <rwwagner90@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "https://shepherdjs.dev",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Robert Wagner <rwwagner90@gmail.com>"
+    }
+  ]
 }

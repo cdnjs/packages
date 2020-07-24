@@ -19,11 +19,6 @@
     "gdi2290",
     "PatrickJS"
   ],
-  "author": {
-    "name": "Patrick Stapleton",
-    "email": "github@gdi2290.com",
-    "url": "www.gdi2290.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/AngularClass/angular-websocket.git"
@@ -40,5 +35,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Patrick Stapleton",
+      "email": "github@gdi2290.com",
+      "url": "www.gdi2290.com"
+    }
+  ]
 }

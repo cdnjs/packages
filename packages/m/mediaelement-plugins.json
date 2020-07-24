@@ -10,9 +10,6 @@
     "mediaelement",
     "plugins"
   ],
-  "author": {
-    "name": "John Dyer"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mediaelement/mediaelement-plugins.git",
@@ -25,5 +22,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "John Dyer"
+    }
+  ]
 }

@@ -7,9 +7,6 @@
     "velocity",
     "animation"
   ],
-  "author": {
-    "name": "Maksim Surguy"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -26,5 +23,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/msurguy/background-blur"
-  }
+  },
+  "authors": [
+    {
+      "name": "Maksim Surguy"
+    }
+  ]
 }

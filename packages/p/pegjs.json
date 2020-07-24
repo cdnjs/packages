@@ -13,7 +13,9 @@
     "url": "https://github.com/pegjs/pegjs"
   },
   "license": "MIT",
-  "author": {
-    "name": "David Majda <david@majda.cz> (http://majda.cz/)"
-  }
+  "authors": [
+    {
+      "name": "David Majda <david@majda.cz> (http://majda.cz/)"
+    }
+  ]
 }

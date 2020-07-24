@@ -15,9 +15,6 @@
   "homepage": "https://facebook.github.io/react/",
   "namespace": "React",
   "license": "MIT",
-  "author": {
-    "name": "Facebook"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "react",
@@ -35,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Facebook"
+    }
+  ]
 }

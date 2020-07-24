@@ -15,10 +15,6 @@
     "bitstring",
     "bitwise"
   ],
-  "author": {
-    "name": "Robert Eisele <robert@xarg.org>",
-    "url": "http://www.xarg.org/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/infusion/bitset.js.git"
@@ -38,5 +34,11 @@
   "licenses": [
     "MIT",
     "GPL-2.0"
+  ],
+  "authors": [
+    {
+      "name": "Robert Eisele <robert@xarg.org>",
+      "url": "http://www.xarg.org/"
+    }
   ]
 }

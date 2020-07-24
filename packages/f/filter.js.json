@@ -8,10 +8,6 @@
     "json",
     "jquery"
   ],
-  "author": {
-    "name": "Jiren Patel",
-    "email": "jirenpatel@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/jiren/filter.js"
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jiren Patel",
+      "email": "jirenpatel@gmail.com"
+    }
+  ]
 }

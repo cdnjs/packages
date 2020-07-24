@@ -11,11 +11,6 @@
     "page-visibility",
     "shim"
   ],
-  "author": {
-    "name": "Addy Osmani",
-    "email": "addyosmani@gmail.com",
-    "url": "addyosmani.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Addy Osmani",
+      "email": "addyosmani@gmail.com",
+      "url": "addyosmani.com"
+    }
+  ]
 }

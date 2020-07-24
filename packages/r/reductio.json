@@ -9,9 +9,6 @@
   "keywords": [
     "crossfilter"
   ],
-  "author": {
-    "name": "Ethan Jewett"
-  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +21,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ethan Jewett"
+    }
+  ]
 }

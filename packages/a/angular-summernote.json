@@ -25,9 +25,11 @@
       }
     ]
   },
-  "author": {
-    "name": "\"Outsider\" Jeonghoon Byun",
-    "email": "outsideris@gmail.com",
-    "url": "http://blog.outsider.ne.kr/"
-  }
+  "authors": [
+    {
+      "name": "\"Outsider\" Jeonghoon Byun",
+      "email": "outsideris@gmail.com",
+      "url": "http://blog.outsider.ne.kr/"
+    }
+  ]
 }

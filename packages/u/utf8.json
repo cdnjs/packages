@@ -1,8 +1,4 @@
 {
-  "author": {
-    "name": "Mathias Bynens",
-    "url": "https://mathiasbynens.be/"
-  },
   "description": "A well-tested UTF-8 encoder/decoder written in JavaScript.",
   "homepage": "https://mths.be/utf8js",
   "keywords": [
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mathias Bynens",
+      "url": "https://mathiasbynens.be/"
+    }
+  ]
 }

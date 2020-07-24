@@ -1,9 +1,6 @@
 {
   "name": "Detect.js",
   "filename": "detect.min.js",
-  "author": {
-    "name": "Darcy Clarke"
-  },
   "licenses": [
     "MIT",
     "GPL"
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Darcy Clarke"
+    }
+  ]
 }

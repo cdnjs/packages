@@ -1,9 +1,6 @@
 {
   "name": "myforce-angularjs-dropdown-multiselect",
   "filename": "angularjs-dropdown-multiselect.min.js",
-  "author": {
-    "name": "pkempenaers@myforce.be"
-  },
   "description": "This directive gives you a Bootstrap Dropdown with the power of AngularJS directives.",
   "homepage": "http://myforce.github.io/angularjs-dropdown-multiselect/#/",
   "repository": {
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "pkempenaers@myforce.be"
+    }
+  ]
 }

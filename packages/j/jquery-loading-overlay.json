@@ -1,10 +1,5 @@
 {
   "name": "jquery-loading-overlay",
-  "author": {
-    "name": "Gaspare Sganga",
-    "email": "contact@gasparesganga.com",
-    "url": "https://gasparesganga.com"
-  },
   "description": "A flexible loading overlay jQuery Plugin",
   "homepage": "https://gasparesganga.com/labs/jquery-loading-overlay/",
   "keywords": [
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Gaspare Sganga",
+      "email": "contact@gasparesganga.com",
+      "url": "https://gasparesganga.com"
+    }
+  ]
 }

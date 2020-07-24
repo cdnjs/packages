@@ -3,9 +3,6 @@
   "description": "Remy Sharp's jQuery plugin adds a bindable 'inview' event for detecting when an element is scrolled into view.",
   "filename": "jquery.inview.min.js",
   "homepage": "http://remysharp.com/2009/01/26/element-in-view-event-plugin/",
-  "author": {
-    "name": "Remy Sharp <remy@leftlogic.com>"
-  },
   "keywords": [
     "jquery",
     "event",
@@ -16,5 +13,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/zuk/jquery.inview.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Remy Sharp <remy@leftlogic.com>"
+    }
+  ]
 }

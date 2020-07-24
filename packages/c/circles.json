@@ -12,9 +12,6 @@
     "javascript",
     "svg"
   ],
-  "author": {
-    "name": "lugolabs"
-  },
   "license": "MIT",
   "homepage": "http://lugolabs.com/circles",
   "autoupdate": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "lugolabs"
+    }
+  ]
 }

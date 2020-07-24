@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "pi0 <pooya@pi0.ir>"
-  },
   "description": "Quickly integrate Bootstrap 4 components with Vue.js",
   "filename": "bootstrap-vue.min.js",
   "homepage": "https://bootstrap-vue.js.org/",
@@ -76,5 +73,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "pi0 <pooya@pi0.ir>"
+    }
+  ]
 }

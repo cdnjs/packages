@@ -3,9 +3,6 @@
   "filename": "backbone.modal-bundled-min.js",
   "description": "A plugin for Backbone.js that simplifies creating modals for your application.",
   "homepage": "http://awkward.github.io/backbone.modal/",
-  "author": {
-    "name": "Awkward"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/awkward/backbone.modal.git"
@@ -28,5 +25,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Awkward"
+    }
+  ]
 }

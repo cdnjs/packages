@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/isocra/TableDnD.git"
   },
-  "author": {
-    "name": "Denis Howlett"
-  },
   "license": "MIT",
   "keywords": [
     "TableDnD",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Denis Howlett"
+    }
+  ]
 }

@@ -13,9 +13,6 @@
     "ui components",
     "spa"
   ],
-  "author": {
-    "name": "wangdahoo <157195705@qq.com>"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/wangdahoo/vonic/"
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "wangdahoo <157195705@qq.com>"
+    }
+  ]
 }

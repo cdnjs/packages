@@ -13,9 +13,6 @@
     "jquery",
     "hideseek"
   ],
-  "author": {
-    "name": "Dimitris Krestos <dkrestos@gmail.com>"
-  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dimitris Krestos <dkrestos@gmail.com>"
+    }
+  ]
 }

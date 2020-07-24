@@ -1,8 +1,5 @@
 {
   "name": "textillate",
-  "author": {
-    "name": "Jordan Schroter <jordan.schroter@gmail.com>"
-  },
   "description": "A simple plugin for CSS3 text animations",
   "filename": "jquery.textillate.min.js",
   "keywords": [
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jordan Schroter <jordan.schroter@gmail.com>"
+    }
+  ]
 }

@@ -16,9 +16,6 @@
     "url": "https://github.com/metafizzy/flickity"
   },
   "license": "GPL-3.0",
-  "author": {
-    "name": "Metafizzy"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "flickity",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Metafizzy"
+    }
+  ]
 }

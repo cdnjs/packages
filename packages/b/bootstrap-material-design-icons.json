@@ -10,9 +10,6 @@
     "web-font",
     "bootstrap"
   ],
-  "author": {
-    "name": "mervick"
-  },
   "license": "(MIT AND CC-BY-4.0)",
   "homepage": "http://github.com/mervick/material-design-icons",
   "repository": {
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "mervick"
+    }
+  ]
 }

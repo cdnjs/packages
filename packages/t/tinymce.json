@@ -12,9 +12,6 @@
     "type": "git",
     "url": "https://github.com/tinymce/tinymce.git"
   },
-  "author": {
-    "name": "Johan Sörlin <spocke@moxiecode.com>"
-  },
   "license": "LGPL-2.0",
   "autoupdate": {
     "source": "npm",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Johan Sörlin <spocke@moxiecode.com>"
+    }
+  ]
 }

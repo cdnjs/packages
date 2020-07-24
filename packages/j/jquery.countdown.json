@@ -2,9 +2,6 @@
   "name": "jquery.countdown",
   "filename": "jquery.countdown.min.js",
   "description": "The Final Countdown for jQuery",
-  "author": {
-    "name": "Edson Hilios"
-  },
   "homepage": "http://hilios.github.io/jQuery.countdown/",
   "repository": {
     "type": "git",
@@ -30,5 +27,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Edson Hilios"
+    }
+  ]
 }

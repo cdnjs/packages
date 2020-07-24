@@ -6,9 +6,6 @@
     "tonal",
     "theory"
   ],
-  "author": {
-    "name": "danigb"
-  },
   "license": "MIT",
   "homepage": "https://github.com/danigb/tonal#readme",
   "repository": {
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "danigb"
+    }
+  ]
 }

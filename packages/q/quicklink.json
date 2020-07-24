@@ -2,9 +2,6 @@
   "name": "quicklink",
   "filename": "quicklink.js",
   "description": "Faster subsequent page-loads by prefetching in-viewport links during idle time",
-  "author": {
-    "name": "addyosmani <addyosmani@gmail.com>"
-  },
   "license": "Apache-2.0",
   "keywords": [
     "prefetch",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "addyosmani <addyosmani@gmail.com>"
+    }
+  ]
 }

@@ -30,7 +30,9 @@
     "url": "https://github.com/sapo/Ink"
   },
   "license": "MIT",
-  "author": {
-    "name": "SAPO"
-  }
+  "authors": [
+    {
+      "name": "SAPO"
+    }
+  ]
 }

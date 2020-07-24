@@ -2,9 +2,6 @@
   "name": "colresizable",
   "filename": "colResizable.min.js",
   "description": "jQuery plugin to resize table columns",
-  "author": {
-    "name": "Alvaro Prieto Lauroba"
-  },
   "homepage": "http://bacubacu.com/colresizable/",
   "repository": {
     "type": "git",
@@ -39,5 +36,10 @@
   "licenses": [
     "MIT",
     "GPL-2.0"
+  ],
+  "authors": [
+    {
+      "name": "Alvaro Prieto Lauroba"
+    }
   ]
 }

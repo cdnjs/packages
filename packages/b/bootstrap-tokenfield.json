@@ -19,10 +19,6 @@
     "url": "git://github.com/sliptree/bootstrap-tokenfield.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "ragulka",
-    "url": "https://github.com/ragulka"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "bootstrap-tokenfield",
@@ -35,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "ragulka",
+      "url": "https://github.com/ragulka"
+    }
+  ]
 }

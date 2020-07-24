@@ -11,9 +11,6 @@
     "manipulate",
     "browser"
   ],
-  "author": {
-    "name": "jillix <contact@jillix.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "jillix <contact@jillix.com>"
+    }
+  ]
 }

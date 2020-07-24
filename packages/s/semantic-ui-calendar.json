@@ -1,9 +1,6 @@
 {
   "name": "semantic-ui-calendar",
   "description": "Calendar module for Semantic UI",
-  "author": {
-    "name": "Michael de Hoog (https://github.com/mdehoog/)"
-  },
   "filename": "calendar.min.css",
   "repository": {
     "type": "git",
@@ -27,5 +24,10 @@
     "semantic",
     "datepicker",
     "timepicker"
+  ],
+  "authors": [
+    {
+      "name": "Michael de Hoog (https://github.com/mdehoog/)"
+    }
   ]
 }

@@ -8,9 +8,6 @@
     "stream",
     "search"
   ],
-  "author": {
-    "name": "Sacheendra Talluri"
-  },
   "license": "ISC",
   "homepage": "http://docs.appbase.io/scalr/javascript/nodejs-intro.html",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sacheendra Talluri"
+    }
+  ]
 }

@@ -2,9 +2,6 @@
   "name": "monaco-editor",
   "description": "A browser based code editor",
   "filename": "min/vs/editor/editor.main.js",
-  "author": {
-    "name": "Microsoft Corporation"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Microsoft Corporation"
+    }
+  ]
 }

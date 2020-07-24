@@ -3,9 +3,6 @@
   "filename": "js/jquery.gray.min.js",
   "description": "Make an image gray in all browsers",
   "license": "MIT",
-  "author": {
-    "name": "Karl Horky <karl.horky@gmail.com>"
-  },
   "keywords": [
     "gray",
     "grey",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Karl Horky <karl.horky@gmail.com>"
+    }
+  ]
 }

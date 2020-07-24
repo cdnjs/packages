@@ -11,9 +11,6 @@
     "angularjs",
     "graph"
   ],
-  "author": {
-    "name": "Jettro Coenradie"
-  },
   "license": "MIT",
   "homepage": "https://jettro.github.io/c3-angular-directive/",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jettro Coenradie"
+    }
+  ]
 }

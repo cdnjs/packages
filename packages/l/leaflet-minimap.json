@@ -1,9 +1,6 @@
 {
   "name": "leaflet-minimap",
   "filename": "Control.MiniMap.min.js",
-  "author": {
-    "name": "Norkart AS"
-  },
   "description": "A plugin for Leaflet that provides a minimap in the corner of the map view.",
   "keywords": [
     "maps",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Norkart AS"
+    }
+  ]
 }

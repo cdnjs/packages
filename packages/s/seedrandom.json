@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git://github.com/davidbau/seedrandom.git"
   },
-  "author": {
-    "name": "David Bau"
-  },
   "license": "BSD",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David Bau"
+    }
+  ]
 }

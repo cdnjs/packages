@@ -3,10 +3,6 @@
   "title": "jQuery ajaxChimp for MailChimp",
   "description": "Ajaxify your mailchimp form.",
   "filename": "jquery.ajaxchimp.min.js",
-  "author": {
-    "name": "Siddharth Doshi",
-    "url": "http://doshi.me/"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/scdoshi/jquery-ajaxchimp.git"
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Siddharth Doshi",
+      "url": "http://doshi.me/"
+    }
+  ]
 }

@@ -1,10 +1,6 @@
 {
   "name": "stampit",
   "description": "Create objects from reusable, composable behaviors.",
-  "author": {
-    "name": "Eric Elliott",
-    "url": "https://ericelliottjs.com"
-  },
   "license": "MIT",
   "keywords": [
     "object",
@@ -34,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Eric Elliott",
+      "url": "https://ericelliottjs.com"
+    }
+  ]
 }

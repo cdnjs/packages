@@ -11,9 +11,6 @@
     "local-storage",
     "localstorage"
   ],
-  "author": {
-    "name": "Alexander Kaupanin"
-  },
   "license": "MIT",
   "homepage": "https://sisyphus-js.herokuapp.com/",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alexander Kaupanin"
+    }
+  ]
 }

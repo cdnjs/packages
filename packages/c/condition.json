@@ -10,11 +10,6 @@
     "url": "https://github.com/nathggns/condition.js"
   },
   "license": "MIT",
-  "author": {
-    "name": "Nathaniel Higgins",
-    "email": "nat@nath.is",
-    "url": "http://nath.is"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "condition",
@@ -27,5 +22,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nathaniel Higgins",
+      "email": "nat@nath.is",
+      "url": "http://nath.is"
+    }
+  ]
 }

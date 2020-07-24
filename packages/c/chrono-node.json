@@ -14,9 +14,6 @@
     "url": "https://github.com/wanasit/chrono.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Wanasit Tanakitrungruang"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "chrono-node",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Wanasit Tanakitrungruang"
+    }
+  ]
 }

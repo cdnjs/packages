@@ -11,9 +11,6 @@
     "visualization",
     "analysis"
   ],
-  "author": {
-    "name": "Max Franz <maxkfranz@gmail.com> (https://maxfranz.com/)"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/cytoscape/cytoscape.js.git"
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Max Franz <maxkfranz@gmail.com> (https://maxfranz.com/)"
+    }
+  ]
 }

@@ -11,9 +11,6 @@
     "table",
     "jspdf"
   ],
-  "author": {
-    "name": "Simon Bengtsson <simongbe@gmail.com> (simonbengtsson.com)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Simon Bengtsson <simongbe@gmail.com> (simonbengtsson.com)"
+    }
+  ]
 }

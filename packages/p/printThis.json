@@ -13,9 +13,6 @@
     "styling",
     "plugin"
   ],
-  "author": {
-    "name": "Jason Day"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Day"
+    }
+  ]
 }

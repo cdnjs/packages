@@ -9,9 +9,6 @@
     "type": "git",
     "url": "https://github.com/webcomponents/custom-elements.git"
   },
-  "author": {
-    "name": "Justin Fagnani"
-  },
   "license": "BSD-3-Clause",
   "homepage": "http://webcomponents.org",
   "autoupdate": {
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Justin Fagnani"
+    }
+  ]
 }

@@ -16,9 +16,6 @@
     "client",
     "angularjs"
   ],
-  "author": {
-    "name": "srfrnk"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "srfrnk"
+    }
+  ]
 }

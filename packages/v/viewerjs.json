@@ -8,10 +8,6 @@
     "url": "https://github.com/fengyuanchen/viewerjs.git"
   },
   "homepage": "https://fengyuanchen.github.io/viewerjs",
-  "author": {
-    "name": "Fengyuan Chen",
-    "url": "http://chenfengyuan.com"
-  },
   "keywords": [
     "image",
     "view",
@@ -37,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Fengyuan Chen",
+      "url": "http://chenfengyuan.com"
+    }
+  ]
 }

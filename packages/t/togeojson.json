@@ -19,9 +19,6 @@
     "maps"
   ],
   "homepage": "https://mapbox.github.io/togeojson/",
-  "author": {
-    "name": "Tom MacWright (http://macwright.org/)"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "togeojson",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tom MacWright (http://macwright.org/)"
+    }
+  ]
 }

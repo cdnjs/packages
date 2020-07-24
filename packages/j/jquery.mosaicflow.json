@@ -14,9 +14,6 @@
     "pinterest",
     "responsive"
   ],
-  "author": {
-    "name": "Artem Sapegin"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/sapegin/jquery.mosaicflow.git",
@@ -29,5 +26,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Artem Sapegin"
+    }
+  ]
 }

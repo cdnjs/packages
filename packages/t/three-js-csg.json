@@ -11,9 +11,6 @@
     "solid",
     "geometry"
   ],
-  "author": {
-    "name": "James Oldfield"
-  },
   "license": "MIT",
   "homepage": "https://github.com/james-oldfield/three-js-csg#readme",
   "repository": {
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "James Oldfield"
+    }
+  ]
 }

@@ -10,9 +10,6 @@
     "serializer",
     "jquery"
   ],
-  "author": {
-    "name": "jillix <contact@jillix.com>"
-  },
   "license": "MIT",
   "filename": "jQuery-form-serializer.min.js",
   "autoupdate": {
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "jillix <contact@jillix.com>"
+    }
+  ]
 }

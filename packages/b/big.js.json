@@ -21,10 +21,6 @@
     "type": "git",
     "url": "https://github.com/MikeMcl/big.js.git"
   },
-  "author": {
-    "name": "Michael Mclaughlin",
-    "email": "M8ch88l@gmail.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -37,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Michael Mclaughlin",
+      "email": "M8ch88l@gmail.com"
+    }
+  ]
 }

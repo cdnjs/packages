@@ -14,9 +14,6 @@
     "player",
     "music player"
   ],
-  "author": {
-    "name": "Parminder Klair"
-  },
   "license": "MIT",
   "homepage": "https://perminder-klair.github.io/angular-soundmanager2/",
   "autoupdate": {
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Parminder Klair"
+    }
+  ]
 }

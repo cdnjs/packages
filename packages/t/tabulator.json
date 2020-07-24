@@ -24,9 +24,6 @@
     "json",
     "widget"
   ],
-  "author": {
-    "name": "Oli Folkerd"
-  },
   "license": "MIT",
   "homepage": "http://tabulator.info/",
   "autoupdate": {
@@ -40,5 +37,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Oli Folkerd"
+    }
+  ]
 }

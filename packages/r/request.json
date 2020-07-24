@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Mikeal Rogers <mikeal.rogers@gmail.com>"
-  },
   "description": "Simplified HTTP request client.",
   "filename": "index.js",
   "homepage": "https://github.com/request/request#readme",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mikeal Rogers <mikeal.rogers@gmail.com>"
+    }
+  ]
 }

@@ -21,9 +21,6 @@
     "notifier",
     "bootstrap"
   ],
-  "author": {
-    "name": "Stefan Straesser <info@jspanel.de> (http://jspanel.de/)"
-  },
   "homepage": "http://jspanel.de",
   "license": "MIT",
   "autoupdate": {
@@ -38,5 +35,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stefan Straesser <info@jspanel.de> (http://jspanel.de/)"
+    }
+  ]
 }

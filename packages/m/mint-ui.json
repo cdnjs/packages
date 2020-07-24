@@ -15,9 +15,6 @@
     "url": "git+https://github.com/ElemeFE/mint-ui.git"
   },
   "homepage": "https://mint-ui.github.io",
-  "author": {
-    "name": "elemefe"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "elemefe"
+    }
+  ]
 }

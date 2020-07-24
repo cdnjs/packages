@@ -11,9 +11,6 @@
     "effects",
     "HTML5"
   ],
-  "author": {
-    "name": "Pupunzi <matteo@open-lab.com> (Matteo Bicocchi)"
-  },
   "licenses": [
     "MIT",
     "GPL-2.0"
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Pupunzi <matteo@open-lab.com> (Matteo Bicocchi)"
+    }
+  ]
 }

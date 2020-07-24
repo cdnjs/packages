@@ -30,7 +30,9 @@
     "type": "git",
     "url": "https://github.com/stephenhutchings/typicons.font.git"
   },
-  "author": {
-    "name": "Stephen Hutchings"
-  }
+  "authors": [
+    {
+      "name": "Stephen Hutchings"
+    }
+  ]
 }

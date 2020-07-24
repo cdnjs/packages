@@ -1,9 +1,4 @@
 {
-  "author": {
-    "name": "John Haugeland",
-    "email": "stonecypher@gmail.com",
-    "url": "http://fullof.bs/"
-  },
   "name": "flocks.js",
   "filename": "flocks.min.js",
   "description": "Simpler state management for React.js",
@@ -41,5 +36,12 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "John Haugeland",
+      "email": "stonecypher@gmail.com",
+      "url": "http://fullof.bs/"
+    }
+  ]
 }

@@ -2,9 +2,6 @@
   "name": "Sidy.js",
   "filename": "sidy.js",
   "license": "MIT",
-  "author": {
-    "name": "Dmitriy Bushin(reactivestudio)"
-  },
   "keywords": [
     "canvas",
     "panel",
@@ -26,5 +23,10 @@
       }
     ]
   },
-  "description": "jQuery plugin for Off-, On- canvas panels with CSS3 animations"
+  "description": "jQuery plugin for Off-, On- canvas panels with CSS3 animations",
+  "authors": [
+    {
+      "name": "Dmitriy Bushin(reactivestudio)"
+    }
+  ]
 }

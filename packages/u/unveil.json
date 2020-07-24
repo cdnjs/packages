@@ -3,9 +3,6 @@
   "filename": "jquery.unveil.min.js",
   "description": "A very lightweight jQuery plugin to lazy load images",
   "homepage": "http://luis-almeida.github.io/unveil/",
-  "author": {
-    "name": "Luís Almeida"
-  },
   "keywords": [
     "lazyload",
     "jquery",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Luís Almeida"
+    }
+  ]
 }

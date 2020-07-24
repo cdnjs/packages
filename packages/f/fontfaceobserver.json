@@ -15,11 +15,6 @@
     "font load",
     "font events"
   ],
-  "author": {
-    "name": "Bram Stein",
-    "email": "b.l.stein@gmail.com",
-    "url": "http://www.bramstein.com/"
-  },
   "license": "BSD-3-Clause",
   "homepage": "https://www.bramstein.com/working/#font-face-observer",
   "autoupdate": {
@@ -33,5 +28,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Bram Stein",
+      "email": "b.l.stein@gmail.com",
+      "url": "http://www.bramstein.com/"
+    }
+  ]
 }

@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/sindresorhus/modern-normalize.git"
   },
-  "author": {
-    "name": "Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)"
-  },
   "filename": "modern-normalize.min.css",
   "keywords": [
     "normalize",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)"
+    }
+  ]
 }

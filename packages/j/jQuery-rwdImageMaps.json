@@ -13,9 +13,6 @@
     "url": "https://github.com/stowball/jQuery-rwdImageMaps.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Matt Stow"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/stowball/jQuery-rwdImageMaps.git",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Matt Stow"
+    }
+  ]
 }

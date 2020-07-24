@@ -1,9 +1,6 @@
 {
   "name": "ng-wig",
   "filename": "ng-wig.min.js",
-  "author": {
-    "name": "Stepan Suvorov"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/stevermeister/ngWig"
@@ -27,5 +24,10 @@
     "wysiwyg",
     "editor"
   ],
-  "description": "Small AngularJS WYSIWYG editor component"
+  "description": "Small AngularJS WYSIWYG editor component",
+  "authors": [
+    {
+      "name": "Stepan Suvorov"
+    }
+  ]
 }

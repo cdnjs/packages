@@ -2,9 +2,6 @@
   "name": "react-chartjs-2",
   "description": "React wrapper for Chart.js",
   "filename": "react-chartjs-2.min.js",
-  "author": {
-    "name": "Goran Udosic"
-  },
   "homepage": "https://gor181.github.io/react-chartjs-2/",
   "repository": {
     "type": "git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Goran Udosic"
+    }
+  ]
 }

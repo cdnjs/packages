@@ -2,11 +2,6 @@
   "name": "angular-md5",
   "filename": "angular-md5.min.js",
   "description": "A md5 crypto component for Angular.js",
-  "author": {
-    "name": "Patrick Stapleton",
-    "email": "github@gdi2290.com",
-    "url": "www.gdi2290.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/gdi2290/angular-md5.git"
@@ -34,5 +29,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Patrick Stapleton",
+      "email": "github@gdi2290.com",
+      "url": "www.gdi2290.com"
+    }
+  ]
 }

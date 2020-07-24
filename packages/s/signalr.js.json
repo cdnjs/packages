@@ -7,9 +7,6 @@
     "signalr",
     "chat"
   ],
-  "author": {
-    "name": "SignalR"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SignalR/SignalR.git"
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "SignalR"
+    }
+  ]
 }

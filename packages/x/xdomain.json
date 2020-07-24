@@ -24,7 +24,9 @@
     "type": "git",
     "url": "https://github.com/jpillora/xdomain"
   },
-  "author": {
-    "name": "Jaime Pillora <dev@jpillora.com>"
-  }
+  "authors": [
+    {
+      "name": "Jaime Pillora <dev@jpillora.com>"
+    }
+  ]
 }

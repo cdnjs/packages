@@ -1,8 +1,5 @@
 {
   "name": "baguettebox.js",
-  "author": {
-    "name": "feimosi"
-  },
   "description": "Simple and easy to use lightbox script written in pure JavaScript",
   "license": "MIT",
   "homepage": "https://feimosi.github.io/baguetteBox.js/",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "feimosi"
+    }
+  ]
 }

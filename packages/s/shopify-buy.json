@@ -7,9 +7,6 @@
     "cart",
     "shopify"
   ],
-  "author": {
-    "name": "Shopify Inc."
-  },
   "homepage": "https://shopify.github.io/js-buy-sdk",
   "license": "MIT",
   "repository": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Shopify Inc."
+    }
+  ]
 }

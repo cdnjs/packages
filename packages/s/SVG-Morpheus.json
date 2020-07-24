@@ -6,10 +6,6 @@
     "type": "git",
     "url": "https://github.com/alexk111/SVG-Morpheus.git"
   },
-  "author": {
-    "name": "Alex Kaul",
-    "email": "alexkaul@googlemail.com"
-  },
   "license": "MIT",
   "keywords": [
     "svg",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alex Kaul",
+      "email": "alexkaul@googlemail.com"
+    }
+  ]
 }

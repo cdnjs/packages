@@ -3,9 +3,6 @@
   "filename": "lscache.min.js",
   "title": "lscache",
   "description": "A simple library that emulates memcache functions using HTML5 localStorage",
-  "author": {
-    "name": "Pamela Fox"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/pamelafox/lscache.git"
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Pamela Fox"
+    }
+  ]
 }

@@ -23,9 +23,6 @@
     "stickynavigation",
     "fixedheader"
   ],
-  "author": {
-    "name": "Jeff Wainwright <jjwainwright2@gmail.com> (https://jeffry.in)"
-  },
   "license": "MIT",
   "homepage": "https://dollarshaveclub.github.io/stickybits/",
   "autoupdate": {
@@ -39,5 +36,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeff Wainwright <jjwainwright2@gmail.com> (https://jeffry.in)"
+    }
+  ]
 }

@@ -28,7 +28,9 @@
     "MIT",
     "GPL"
   ],
-  "author": {
-    "name": "appendTo (http://appendto.com/)"
-  }
+  "authors": [
+    {
+      "name": "appendTo (http://appendto.com/)"
+    }
+  ]
 }

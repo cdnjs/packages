@@ -11,9 +11,6 @@
     "type": "git",
     "url": "git@github.com:clappr/dash-shaka-playback.git"
   },
-  "author": {
-    "name": "Clappr team"
-  },
   "license": "BSD-3-Clause",
   "autoupdate": {
     "source": "npm",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Clappr team"
+    }
+  ]
 }

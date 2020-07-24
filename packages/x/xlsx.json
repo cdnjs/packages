@@ -11,9 +11,6 @@
     "xlsb",
     "parser"
   ],
-  "author": {
-    "name": "SheetJS"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/SheetJS/js-xlsx.git"
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "SheetJS"
+    }
+  ]
 }

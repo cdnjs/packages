@@ -6,9 +6,6 @@
     "map",
     "leaflet"
   ],
-  "author": {
-    "name": "Stefano Cudini <stefano.cudini@gmail.com> (http://labs.easyblog.it/)"
-  },
   "license": "MIT",
   "homepage": "http://labs.easyblog.it/maps/leaflet-search/",
   "repository": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stefano Cudini <stefano.cudini@gmail.com> (http://labs.easyblog.it/)"
+    }
+  ]
 }

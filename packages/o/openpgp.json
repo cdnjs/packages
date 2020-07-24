@@ -26,7 +26,9 @@
       }
     ]
   },
-  "author": {
-    "name": "OpenPGP Development Team <list@openpgpjs.org> (https://github.com/openpgpjs/openpgpjs/graphs/contributors)"
-  }
+  "authors": [
+    {
+      "name": "OpenPGP Development Team <list@openpgpjs.org> (https://github.com/openpgpjs/openpgpjs/graphs/contributors)"
+    }
+  ]
 }

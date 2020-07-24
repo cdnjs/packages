@@ -52,9 +52,6 @@
     "type": "git",
     "url": "git://github.com/dalisoft/tez.git"
   },
-  "author": {
-    "name": "dalisoft"
-  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",
@@ -67,5 +64,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "dalisoft"
+    }
+  ]
 }

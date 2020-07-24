@@ -11,9 +11,6 @@
     "functional",
     "component"
   ],
-  "author": {
-    "name": "Dmitri Voronianski <dmitri.voronianski@gmail.com>"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dmitri Voronianski <dmitri.voronianski@gmail.com>"
+    }
+  ]
 }

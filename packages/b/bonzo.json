@@ -2,9 +2,6 @@
   "name": "bonzo",
   "filename": "bonzo.min.js",
   "description": "Library agnostic, extensible DOM utility",
-  "author": {
-    "name": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)"
-  },
   "license": "MIT",
   "keywords": [
     "ender",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)"
+    }
+  ]
 }

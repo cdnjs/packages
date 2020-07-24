@@ -8,10 +8,6 @@
     "snippets",
     "coding"
   ],
-  "author": {
-    "name": "Sergey Chikuyonok",
-    "email": "serge.che@gmail.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/emmetio/emmet#readme",
   "repository": {
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sergey Chikuyonok",
+      "email": "serge.che@gmail.com"
+    }
+  ]
 }

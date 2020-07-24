@@ -2,9 +2,6 @@
   "name": "spectre.css",
   "filename": "spectre.min.css",
   "homepage": "https://picturepan2.github.io/spectre",
-  "author": {
-    "name": "Yan Zhu <picturepan2@hotmail.com>"
-  },
   "description": "Spectre.css: a lightweight, responsive and modern CSS framework.",
   "repository": {
     "type": "git",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Yan Zhu <picturepan2@hotmail.com>"
+    }
+  ]
 }

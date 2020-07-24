@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "NFL <engineers@nfl.com>"
-  },
   "description": "A document head manager for React",
   "filename": "Helmet.js",
   "homepage": "https://github.com/nfl/react-helmet#readme",
@@ -42,5 +39,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "NFL <engineers@nfl.com>"
+    }
+  ]
 }

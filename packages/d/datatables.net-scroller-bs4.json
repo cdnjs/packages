@@ -8,10 +8,6 @@
     "table",
     "Bootstrap 4"
   ],
-  "author": {
-    "name": "SpryMedia Ltd",
-    "url": "http://datatables.net"
-  },
   "license": "MIT",
   "homepage": "https://datatables.net",
   "repository": {
@@ -36,5 +32,11 @@
       }
     ]
   },
-  "filename": "scroller.bootstrap4.min.js"
+  "filename": "scroller.bootstrap4.min.js",
+  "authors": [
+    {
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
+    }
+  ]
 }

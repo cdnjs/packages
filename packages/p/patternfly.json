@@ -1,8 +1,5 @@
 {
   "name": "patternfly",
-  "author": {
-    "name": "Red Hat"
-  },
   "license": "Apache-2.0",
   "filename": "js/patternfly.min.js",
   "keywords": [
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Red Hat"
+    }
+  ]
 }

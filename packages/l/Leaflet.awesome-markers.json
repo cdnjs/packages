@@ -23,7 +23,9 @@
     "type": "git",
     "url": "git://github.com/lvoogdt/Leaflet.awesome-markers.git"
   },
-  "author": {
-    "name": "Lennard Voogdt <lvoogdt@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Lennard Voogdt <lvoogdt@gmail.com>"
+    }
+  ]
 }

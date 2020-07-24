@@ -12,10 +12,6 @@
     "pager",
     "navigation"
   ],
-  "author": {
-    "name": "Robert Eisele",
-    "url": "https://www.xarg.org/"
-  },
   "licenses": [
     "MIT",
     "GPL-2.0"
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Robert Eisele",
+      "url": "https://www.xarg.org/"
+    }
+  ]
 }

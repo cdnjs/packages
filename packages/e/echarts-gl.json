@@ -1,9 +1,6 @@
 {
   "name": "echarts-gl",
   "description": "Extension pack of ECharts providing 3D plots and globe visualization",
-  "author": {
-    "name": "Yi Shen"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/ecomfe/echarts-gl.git",
@@ -19,5 +16,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ecomfe/echarts-gl"
-  }
+  },
+  "authors": [
+    {
+      "name": "Yi Shen"
+    }
+  ]
 }

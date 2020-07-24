@@ -1,9 +1,6 @@
 {
   "name": "backbone-super",
   "description": "A convenient super method for the popular JavaScript library, Backbone.js.",
-  "author": {
-    "name": "Lukas Olson <olson.lukas@gmail.com>"
-  },
   "keywords": [
     "backbone",
     "super"
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Lukas Olson <olson.lukas@gmail.com>"
+    }
+  ]
 }

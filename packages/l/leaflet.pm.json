@@ -18,11 +18,6 @@
     "type": "git",
     "url": "git+https://github.com/codeofsumit/leaflet.pm.git"
   },
-  "author": {
-    "name": "Sumit Kumar",
-    "email": "sk@outlook.com",
-    "url": "https://twitter.com/TweetsOfSumit"
-  },
   "license": "MIT",
   "homepage": "https://codeofsumit.github.io/leaflet.pm/",
   "autoupdate": {
@@ -36,5 +31,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sumit Kumar",
+      "email": "sk@outlook.com",
+      "url": "https://twitter.com/TweetsOfSumit"
+    }
+  ]
 }

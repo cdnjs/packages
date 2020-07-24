@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/auth0/angular-auth0.git"
   },
-  "author": {
-    "name": "Auth0"
-  },
   "license": "MIT",
   "keywords": [
     "angular",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Auth0"
+    }
+  ]
 }

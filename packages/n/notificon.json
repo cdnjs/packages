@@ -7,9 +7,6 @@
     "notificon"
   ],
   "license": "BSD-2-Clause",
-  "author": {
-    "name": "Matthew Williams <matt@makeable.co.uk>"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/makeable/Notificon.git"
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Matthew Williams <matt@makeable.co.uk>"
+    }
+  ]
 }

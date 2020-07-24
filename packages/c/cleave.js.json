@@ -10,11 +10,6 @@
     "form",
     "input"
   ],
-  "author": {
-    "name": "Max Huang",
-    "url": "http://github.com/nosir",
-    "email": "risonhuang@gmail.com"
-  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Max Huang",
+      "url": "http://github.com/nosir",
+      "email": "risonhuang@gmail.com"
+    }
+  ]
 }

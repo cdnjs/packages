@@ -23,7 +23,9 @@
     "type": "git",
     "url": "https://github.com/showdownjs/showdown"
   },
-  "author": {
-    "name": "Estevão Santos"
-  }
+  "authors": [
+    {
+      "name": "Estevão Santos"
+    }
+  ]
 }

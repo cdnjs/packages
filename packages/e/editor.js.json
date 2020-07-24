@@ -9,9 +9,6 @@
     "editor.js",
     "editorjs"
   ],
-  "author": {
-    "name": "CodeX"
-  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "CodeX"
+    }
+  ]
 }

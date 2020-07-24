@@ -12,11 +12,6 @@
     "url": "https://github.com/monkeecreate/jquery.simpleWeather"
   },
   "license": "MIT",
-  "author": {
-    "name": "James Fleeting",
-    "email": "hello@jamesfleeting.com",
-    "url": "https://github.com/fleeting"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "simpleweather",
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "James Fleeting",
+      "email": "hello@jamesfleeting.com",
+      "url": "https://github.com/fleeting"
+    }
+  ]
 }

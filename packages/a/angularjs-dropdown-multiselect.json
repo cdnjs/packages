@@ -3,9 +3,6 @@
   "filename": "angularjs-dropdown-multiselect.min.js",
   "description": "This directive gives you a Bootstrap Dropdown with the power of AngularJS directives.",
   "homepage": "https://dotansimha.github.io/angularjs-dropdown-multiselect/",
-  "author": {
-    "name": "Dotan Simha <dotansimha@gmail.com>"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/dotansimha/angularjs-dropdown-multiselect.git"
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dotan Simha <dotansimha@gmail.com>"
+    }
+  ]
 }

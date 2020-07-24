@@ -7,9 +7,6 @@
     "builder",
     "filter"
   ],
-  "author": {
-    "name": "Damien \"Mistic\" Sorel <contact@git.strangeplanet.fr> (https://www.strangeplanet.fr)"
-  },
   "license": "MIT",
   "homepage": "https://querybuilder.js.org",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Damien \"Mistic\" Sorel <contact@git.strangeplanet.fr> (https://www.strangeplanet.fr)"
+    }
+  ]
 }

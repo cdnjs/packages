@@ -3,9 +3,6 @@
   "description": "An lightweight, unobtrusive customizable JavaScript notification system.",
   "homepage": "https://alertifyjs.org/",
   "filename": "js/alertify.js",
-  "author": {
-    "name": "Fabien Doiron <fabien.doiron@gmail.com> (http://fabien-d.github.io/)"
-  },
   "keywords": [
     "alertify",
     "alertifyjs",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Fabien Doiron <fabien.doiron@gmail.com> (http://fabien-d.github.io/)"
+    }
+  ]
 }

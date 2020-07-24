@@ -1,9 +1,6 @@
 {
   "name": "ng-toast",
   "filename": "ngToast.min.js",
-  "author": {
-    "name": "Tamer Aydin (http://tamerayd.in)"
-  },
   "autoupdate": {
     "fileMap": [
       {
@@ -29,5 +26,10 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/tameraydin/ngToast.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Tamer Aydin (http://tamerayd.in)"
+    }
+  ]
 }

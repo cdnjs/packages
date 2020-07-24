@@ -12,9 +12,6 @@
     "animations",
     "native-javascript"
   ],
-  "author": {
-    "name": "thednp"
-  },
   "license": "MIT",
   "homepage": "http://thednp.github.io/kute.js",
   "autoupdate": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "thednp"
+    }
+  ]
 }

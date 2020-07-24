@@ -3,11 +3,6 @@
   "filename": "appendAround.min.js",
   "title": "AppendAround",
   "description": "A pattern for responsive markup ",
-  "author": {
-    "name": "Scott Jehl",
-    "email": "scott@filamentgroup.com",
-    "url": "http://filamentgroup.com/"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/filamentgroup/AppendAround.git"
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Scott Jehl",
+      "email": "scott@filamentgroup.com",
+      "url": "http://filamentgroup.com/"
+    }
+  ]
 }

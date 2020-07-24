@@ -3,10 +3,6 @@
   "filename": "inferno.min.js",
   "license": "MIT",
   "description": "An extremely fast, isomorphic JavaScript library for building modern user interfaces",
-  "author": {
-    "name": "Dominic Gannaway",
-    "email": "dg@domgan.com"
-  },
   "keywords": [
     "babel",
     "react",
@@ -37,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dominic Gannaway",
+      "email": "dg@domgan.com"
+    }
+  ]
 }

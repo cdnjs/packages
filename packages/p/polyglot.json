@@ -2,9 +2,6 @@
   "name": "polyglot",
   "filename": "js/jquery.polyglot.language.switcher.min.js",
   "description": "Allows you to easily switch between the languages supported by your website.",
-  "author": {
-    "name": "tavyy <octavr@gmail.com>"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:tavyy/Polyglot-Language-Switcher.git"
@@ -27,5 +24,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "tavyy <octavr@gmail.com>"
+    }
+  ]
 }

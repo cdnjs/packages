@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "CrossEye <scott@sauyet.com> (scott.sauyet.com)"
-  },
   "keywords": [
     "functional"
   ],
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "CrossEye <scott@sauyet.com> (scott.sauyet.com)"
+    }
+  ]
 }

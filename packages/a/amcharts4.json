@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "amCharts <contact@amcharts.com>"
-  },
   "description": "The most advanced amCharts charting library for JavaScript and TypeScript apps.",
   "filename": "core.min.js",
   "homepage": "https://www.amcharts.com/",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "amCharts <contact@amcharts.com>"
+    }
+  ]
 }

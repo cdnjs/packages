@@ -3,9 +3,6 @@
   "description": "Angular Carousel - Mobile friendly touch carousel for AngularJS",
   "filename": "angular-carousel.min.js",
   "homepage": "http://revolunet.github.com/angular-carousel",
-  "author": {
-    "name": "Julien Bouquillon <julien@revolunet.com>"
-  },
   "keywords": [
     "angularjs",
     "carousel",
@@ -27,5 +24,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julien Bouquillon <julien@revolunet.com>"
+    }
+  ]
 }

@@ -28,7 +28,9 @@
     ]
   },
   "license": "MIT",
-  "author": {
-    "name": "Tyler van der Hoeven <hi@tyvdh.com>"
-  }
+  "authors": [
+    {
+      "name": "Tyler van der Hoeven <hi@tyvdh.com>"
+    }
+  ]
 }

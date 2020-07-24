@@ -12,7 +12,9 @@
     "beeplay"
   ],
   "license": "MIT",
-  "author": {
-    "name": "Daijiro Wachi <daijiro.wachi@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Daijiro Wachi <daijiro.wachi@gmail.com>"
+    }
+  ]
 }

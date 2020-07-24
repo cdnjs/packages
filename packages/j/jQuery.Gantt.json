@@ -11,10 +11,6 @@
     "gantt",
     "chart"
   ],
-  "author": {
-    "name": "Marek Bielańczuk",
-    "url": "https://github.com/mbielanczuk"
-  },
   "licenses": [
     "MIT",
     "GPL-2.0"
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Marek Bielańczuk",
+      "url": "https://github.com/mbielanczuk"
+    }
+  ]
 }

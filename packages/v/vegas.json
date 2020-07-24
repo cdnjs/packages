@@ -29,7 +29,9 @@
     "type": "git",
     "url": "https://github.com/jaysalvat/vegas"
   },
-  "author": {
-    "name": "Jay Salvat"
-  }
+  "authors": [
+    {
+      "name": "Jay Salvat"
+    }
+  ]
 }

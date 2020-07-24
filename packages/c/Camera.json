@@ -11,9 +11,6 @@
     "customize",
     "canvas"
   ],
-  "author": {
-    "name": "Manuel Masia"
-  },
   "license": "MIT",
   "homepage": "http://www.pixedelic.com/plugins/camera/",
   "autoupdate": {
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Manuel Masia"
+    }
+  ]
 }

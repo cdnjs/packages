@@ -2,11 +2,6 @@
   "name": "jsencrypt",
   "filename": "jsencrypt.min.js",
   "description": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
-  "author": {
-    "name": "Travis Tidwell",
-    "email": "travist349@gmail.com",
-    "url": "https://github.com/travist"
-  },
   "keywords": [
     "OpenSSL",
     "RSA",
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Travis Tidwell",
+      "email": "travist349@gmail.com",
+      "url": "https://github.com/travist"
+    }
+  ]
 }

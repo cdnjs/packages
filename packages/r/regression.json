@@ -2,9 +2,6 @@
   "name": "regression",
   "filename": "regression.min.js",
   "description": "Javascript least squares data fitting methods",
-  "author": {
-    "name": "Tom Alexander <me@tomalexander.co.nz>"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tom Alexander <me@tomalexander.co.nz>"
+    }
+  ]
 }

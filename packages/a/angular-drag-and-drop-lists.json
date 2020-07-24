@@ -26,7 +26,9 @@
       }
     ]
   },
-  "author": {
-    "name": "Marcel Juenemann <mail@marcel-juenemann.de>"
-  }
+  "authors": [
+    {
+      "name": "Marcel Juenemann <mail@marcel-juenemann.de>"
+    }
+  ]
 }

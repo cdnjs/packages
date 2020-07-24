@@ -17,9 +17,6 @@
     "type": "git",
     "url": "git://github.com/amwmedia/infect.js.git"
   },
-  "author": {
-    "name": "Andrew Worcester <andrew@amwmedia.com>"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "infect",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrew Worcester <andrew@amwmedia.com>"
+    }
+  ]
 }

@@ -16,9 +16,6 @@
     "smooth",
     "tilt.js"
   ],
-  "author": {
-    "name": "Sergiu Șandor <micku7zu@gmail.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sergiu Șandor <micku7zu@gmail.com>"
+    }
+  ]
 }

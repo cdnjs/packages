@@ -11,10 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/kenwheeler/cash.git"
   },
-  "author": {
-    "name": "Ken Wheeler",
-    "email": "ken_wheeler@me.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ken Wheeler",
+      "email": "ken_wheeler@me.com"
+    }
+  ]
 }

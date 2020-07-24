@@ -15,9 +15,6 @@
     "url": "https://github.com/joaonuno/tree-model-js"
   },
   "license": "MIT",
-  "author": {
-    "name": "João Nuno Silva <jnss81@gmail.com> (http://jnuno.com)"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "tree-model",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "João Nuno Silva <jnss81@gmail.com> (http://jnuno.com)"
+    }
+  ]
 }

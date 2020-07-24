@@ -1,9 +1,6 @@
 {
   "name": "videojs-overlay",
   "description": "A plugin to display simple overlays during video playback.",
-  "author": {
-    "name": "Brightcove, Inc."
-  },
   "license": "Apache-2.0",
   "keywords": [
     "videojs",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Brightcove, Inc."
+    }
+  ]
 }

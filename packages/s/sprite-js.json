@@ -12,9 +12,6 @@
     "sprite",
     "html5"
   ],
-  "author": {
-    "name": "Nihey Luz Takizawa"
-  },
   "license": "MIT",
   "filename": "sprite.min.js",
   "autoupdate": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nihey Luz Takizawa"
+    }
+  ]
 }

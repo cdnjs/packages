@@ -24,7 +24,9 @@
     "type": "git",
     "url": "https://github.com/jsmreese/moment-duration-format"
   },
-  "author": {
-    "name": "John Madhavan-Reese <jsmreese@pureshare.com> (http://pureshare.com/)"
-  }
+  "authors": [
+    {
+      "name": "John Madhavan-Reese <jsmreese@pureshare.com> (http://pureshare.com/)"
+    }
+  ]
 }

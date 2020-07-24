@@ -10,9 +10,6 @@
     "clappr",
     "chromecast"
   ],
-  "author": {
-    "name": "Globo.com"
-  },
   "license": "BSD-3-Clause",
   "autoupdate": {
     "source": "npm",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Globo.com"
+    }
+  ]
 }

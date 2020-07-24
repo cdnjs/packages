@@ -19,9 +19,6 @@
   },
   "license": "MIT",
   "homepage": "https://cs.stanford.edu/people/karpathy/convnetjs/",
-  "author": {
-    "name": "Andrej Karpathy <andrej.karpathy@gmail.com>"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "convnetjs",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrej Karpathy <andrej.karpathy@gmail.com>"
+    }
+  ]
 }

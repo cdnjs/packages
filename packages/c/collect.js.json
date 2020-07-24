@@ -27,11 +27,6 @@
     "comparison",
     "collectable"
   ],
-  "author": {
-    "name": "Daniel Eckermann",
-    "email": "danieleckermann@gmail.com",
-    "url": "https://www.danieleckermann.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -44,5 +39,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Daniel Eckermann",
+      "email": "danieleckermann@gmail.com",
+      "url": "https://www.danieleckermann.com"
+    }
+  ]
 }

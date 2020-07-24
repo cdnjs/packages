@@ -2,9 +2,6 @@
   "name": "isomer",
   "filename": "isomer.min.js",
   "description": "A simple isometric graphics library for HTML5 canvas",
-  "author": {
-    "name": "Jordan Scales <scalesjordan@gmail.com>"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jordan Scales <scalesjordan@gmail.com>"
+    }
+  ]
 }

@@ -15,7 +15,9 @@
     "url": "https://github.com/simontabor/jquery-toggles"
   },
   "license": "MIT",
-  "author": {
-    "name": "Simon Tabor <me@simontabor.com> (http://simontabor.com/)"
-  }
+  "authors": [
+    {
+      "name": "Simon Tabor <me@simontabor.com> (http://simontabor.com/)"
+    }
+  ]
 }

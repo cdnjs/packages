@@ -15,9 +15,6 @@
     "url": "git://github.com/pnp/pnp"
   },
   "license": "MIT",
-  "author": {
-    "name": "Microsoft and other contributors"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "@pnp/sp-addinhelpers",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Microsoft and other contributors"
+    }
+  ]
 }

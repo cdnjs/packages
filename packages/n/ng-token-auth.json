@@ -26,7 +26,9 @@
     "url": "git://github.com/lynndylanhurley/ng-token-auth.git"
   },
   "description": "Token based authentication system for angular js. Includes support for oauth2 authentication using Facebook, Github, and Google.",
-  "author": {
-    "name": "Lynn Dylan Hurley <lynn.dylan.hurley@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Lynn Dylan Hurley <lynn.dylan.hurley@gmail.com>"
+    }
+  ]
 }

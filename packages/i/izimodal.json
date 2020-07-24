@@ -16,11 +16,6 @@
     "javascript",
     "js"
   ],
-  "author": {
-    "name": "Marcelo Dolce",
-    "email": "dolcemarcelo@gmail.com",
-    "url": "http://www.marcelodolce.com"
-  },
   "license": "Apache-2.0",
   "homepage": "http://izimodal.marcelodolce.com",
   "autoupdate": {
@@ -34,5 +29,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Marcelo Dolce",
+      "email": "dolcemarcelo@gmail.com",
+      "url": "http://www.marcelodolce.com"
+    }
+  ]
 }

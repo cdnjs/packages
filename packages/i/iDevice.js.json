@@ -13,9 +13,6 @@
     "ipad",
     "ipod"
   ],
-  "author": {
-    "name": "Alexandre Dieulot"
-  },
   "license": "MIT",
   "homepage": "https://dieulot.fr/idevice",
   "autoupdate": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alexandre Dieulot"
+    }
+  ]
 }

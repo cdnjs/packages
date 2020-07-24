@@ -14,10 +14,6 @@
     "url": "https://github.com/linkedin/dustjs-helpers"
   },
   "license": "MIT",
-  "author": {
-    "name": "Aleksander Williams",
-    "url": "http://akdubya.github.com/dustjs"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "dustjs-helpers",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Aleksander Williams",
+      "url": "http://akdubya.github.com/dustjs"
+    }
+  ]
 }

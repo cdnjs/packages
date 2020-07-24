@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Firebase <firebase-support@google.com> (https://firebase.google.com/)"
-  },
   "description": "Firebase JavaScript library for web and Node.js",
   "filename": "firebase.js",
   "homepage": "https://firebase.google.com/",
@@ -42,5 +39,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Firebase <firebase-support@google.com> (https://firebase.google.com/)"
+    }
+  ]
 }

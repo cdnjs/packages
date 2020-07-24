@@ -10,9 +10,6 @@
     "mobile",
     "lightweight"
   ],
-  "author": {
-    "name": "Bojan Petkovski (http://object505.com/)"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/object505/tipso.git"
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Bojan Petkovski (http://object505.com/)"
+    }
+  ]
 }

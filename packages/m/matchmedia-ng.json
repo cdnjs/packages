@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git://github.com/AnalogJ/matchmedia-ng.git"
   },
-  "author": {
-    "name": "Jason Kulatunga"
-  },
   "license": "MIT",
   "homepage": "http://analogj.github.io/matchmedia-ng/",
   "keywords": [
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Kulatunga"
+    }
+  ]
 }

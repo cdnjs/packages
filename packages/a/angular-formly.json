@@ -12,9 +12,6 @@
     "formly"
   ],
   "license": "MIT",
-  "author": {
-    "name": "Astrism <astrisms@gmail.com>"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "angular-formly",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Astrism <astrisms@gmail.com>"
+    }
+  ]
 }

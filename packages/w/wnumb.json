@@ -16,9 +16,6 @@
     "type": "git",
     "url": "git://github.com/leongersen/wnumb.git"
   },
-  "author": {
-    "name": "leongersen"
-  },
   "license": "WTFPL",
   "homepage": "http://refreshless.com/wnumb/",
   "autoupdate": {
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "leongersen"
+    }
+  ]
 }

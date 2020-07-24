@@ -13,9 +13,6 @@
     "url": "https://github.com/nix23/gridifier"
   },
   "license": "CC-BY-NC-SA-4.0",
-  "author": {
-    "name": "Eduard Pleh <@nix23>"
-  },
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/nix23/gridifier.git",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Eduard Pleh <@nix23>"
+    }
+  ]
 }

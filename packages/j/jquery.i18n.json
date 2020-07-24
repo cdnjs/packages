@@ -9,10 +9,6 @@
     "l10n",
     "localization"
   ],
-  "author": {
-    "name": "Santhosh Thottingal",
-    "email": "santhosh.thottingal@gmail.com"
-  },
   "homepage": "http://thottingal.in/projects/js/jquery.i18n/demo/",
   "repository": {
     "type": "git",
@@ -34,5 +30,11 @@
   "licenses": [
     "MIT",
     "GPL-2.0"
+  ],
+  "authors": [
+    {
+      "name": "Santhosh Thottingal",
+      "email": "santhosh.thottingal@gmail.com"
+    }
   ]
 }

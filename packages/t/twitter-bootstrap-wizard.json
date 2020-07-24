@@ -12,7 +12,9 @@
     "type": "git",
     "url": "https://github.com/VinceG/twitter-bootstrap-wizard"
   },
-  "author": {
-    "name": "Vincent Gabriel <vadimg88@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Vincent Gabriel <vadimg88@gmail.com>"
+    }
+  ]
 }

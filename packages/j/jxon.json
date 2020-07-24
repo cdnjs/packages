@@ -22,9 +22,6 @@
     "json2xml"
   ],
   "license": "GPL v3",
-  "author": {
-    "name": "MDN (https://developer.mozilla.org/en-US/docs/JXON)"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "jxon",
@@ -36,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "MDN (https://developer.mozilla.org/en-US/docs/JXON)"
+    }
+  ]
 }

@@ -10,9 +10,6 @@
     "git",
     "isomorphic"
   ],
-  "author": {
-    "name": "William Hilton <wmhilton@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "https://isomorphic-git.github.io/",
   "autoupdate": {
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "William Hilton <wmhilton@gmail.com>"
+    }
+  ]
 }

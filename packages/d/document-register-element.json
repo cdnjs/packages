@@ -13,10 +13,6 @@
     "polyfill",
     "alternative"
   ],
-  "author": {
-    "name": "Andrea Giammarchi",
-    "url": "http://webreflection.blogspot.com/"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/WebReflection/document-register-element.git"
@@ -34,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrea Giammarchi",
+      "url": "http://webreflection.blogspot.com/"
+    }
+  ]
 }

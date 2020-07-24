@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Jamie Peabody <jamie.peabody@gmail.com> (http://mergely.com)"
-  },
   "description": "A javascript UI for diff/merge",
   "filename": "mergely.js",
   "homepage": "https://github.com/wickedest/Mergely#readme",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jamie Peabody <jamie.peabody@gmail.com> (http://mergely.com)"
+    }
+  ]
 }

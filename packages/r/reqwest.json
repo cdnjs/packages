@@ -1,9 +1,6 @@
 {
   "name": "reqwest",
   "description": "A wrapper for asynchronous http requests",
-  "author": {
-    "name": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)"
-  },
   "filename": "reqwest.min.js",
   "keywords": [
     "ender",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)"
+    }
+  ]
 }

@@ -13,9 +13,6 @@
     "type": "git",
     "url": "https://github.com/pieroxy/lz-string.git"
   },
-  "author": {
-    "name": "pieroxy <pieroxy@pieroxy.net>"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/pieroxy/lz-string.git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "pieroxy <pieroxy@pieroxy.net>"
+    }
+  ]
 }

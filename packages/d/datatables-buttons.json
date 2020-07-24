@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "SpryMedia Ltd (http://datatables.net)"
-  },
   "description": "Buttons for DataTables ",
   "filename": "js/dataTables.buttons.min.js",
   "homepage": "https://datatables.net",
@@ -35,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "SpryMedia Ltd (http://datatables.net)"
+    }
+  ]
 }

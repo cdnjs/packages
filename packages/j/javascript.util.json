@@ -13,10 +13,6 @@
     "url": "git://github.com/bjornharrtell/javascript.util.git"
   },
   "homepage": "https://bjornharrtell.github.io/javascript.util/doc",
-  "author": {
-    "name": "Björn Harrtell",
-    "url": "https://github.com/bjornharrtell"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Björn Harrtell",
+      "url": "https://github.com/bjornharrtell"
+    }
+  ]
 }

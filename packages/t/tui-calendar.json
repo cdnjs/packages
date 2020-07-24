@@ -22,9 +22,6 @@
     "type": "git",
     "url": "https://github.com/nhnent/tui.calendar.git"
   },
-  "author": {
-    "name": "NHNEnt FE Development Lab <dl_javascript@nhnent.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -38,5 +35,10 @@
       }
     ]
   },
-  "homepage": "https://ui.toast.com/tui-calendar/"
+  "homepage": "https://ui.toast.com/tui-calendar/",
+  "authors": [
+    {
+      "name": "NHNEnt FE Development Lab <dl_javascript@nhnent.com>"
+    }
+  ]
 }

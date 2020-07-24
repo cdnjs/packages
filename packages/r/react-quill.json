@@ -2,9 +2,6 @@
   "name": "react-quill",
   "filename": "react-quill.min.js",
   "description": "The Quill rich-text editor as a React component.",
-  "author": {
-    "name": "zenoamaro <zenoamaro@gmail.com>"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "zenoamaro <zenoamaro@gmail.com>"
+    }
+  ]
 }

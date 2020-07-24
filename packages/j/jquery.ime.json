@@ -13,10 +13,6 @@
     "javascript",
     "intl"
   ],
-  "author": {
-    "name": "Santhosh Thottingal",
-    "email": "santhosh.thottingal@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/wikimedia/jquery.ime.git"
@@ -44,5 +40,11 @@
   "licenses": [
     "GPL-2.0",
     "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Santhosh Thottingal",
+      "email": "santhosh.thottingal@gmail.com"
+    }
   ]
 }

@@ -2,9 +2,6 @@
   "name": "videojs-hotkeys",
   "description": "Adds more hotkey support to video.js",
   "filename": "videojs.hotkeys.min.js",
-  "author": {
-    "name": "Chris Dougherty"
-  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris Dougherty"
+    }
+  ]
 }

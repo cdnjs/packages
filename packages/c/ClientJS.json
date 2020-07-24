@@ -15,9 +15,6 @@
     "pure",
     "javascript"
   ],
-  "author": {
-    "name": "Jack Spirou <jack@spirou.io> (https://twitter.com/jack_spirou)"
-  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",
@@ -36,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jack Spirou <jack@spirou.io> (https://twitter.com/jack_spirou)"
+    }
+  ]
 }

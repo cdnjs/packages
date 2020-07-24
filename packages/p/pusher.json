@@ -37,7 +37,9 @@
     "url": "https://github.com/pusher/pusher-js"
   },
   "license": "MIT",
-  "author": {
-    "name": "Pusher"
-  }
+  "authors": [
+    {
+      "name": "Pusher"
+    }
+  ]
 }

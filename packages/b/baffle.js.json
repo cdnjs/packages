@@ -15,9 +15,6 @@
     "DOM"
   ],
   "homepage": "https://camwiegert.github.io/baffle",
-  "author": {
-    "name": "Cam Wiegert <cam@camwiegert.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Cam Wiegert <cam@camwiegert.com>"
+    }
+  ]
 }

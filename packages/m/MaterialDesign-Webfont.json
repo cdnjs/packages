@@ -12,10 +12,6 @@
     "icons",
     "webfont"
   ],
-  "author": {
-    "name": "Austin Andrews",
-    "url": "http://twitter.com/templarian"
-  },
   "licenses": [
     "OFL-1.1",
     "MIT"
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Austin Andrews",
+      "url": "http://twitter.com/templarian"
+    }
+  ]
 }

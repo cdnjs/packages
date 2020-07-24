@@ -1,9 +1,6 @@
 {
   "filename": "mask.min.js",
   "name": "angular-ui-mask",
-  "author": {
-    "name": "https://github.com/angular-ui/ui-mask/graphs/contributors"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -26,5 +23,10 @@
       }
     ]
   },
-  "description": "Mask on an input field so the user can only type pre-determined pattern"
+  "description": "Mask on an input field so the user can only type pre-determined pattern",
+  "authors": [
+    {
+      "name": "https://github.com/angular-ui/ui-mask/graphs/contributors"
+    }
+  ]
 }

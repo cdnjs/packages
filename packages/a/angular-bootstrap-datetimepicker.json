@@ -11,9 +11,6 @@
     "time picker",
     "time"
   ],
-  "author": {
-    "name": "https://github.com/dalelotts/ng-bootstrap-datetimepicker/graphs/contributors"
-  },
   "license": "MIT",
   "homepage": "http://dalelotts.github.io/angular-bootstrap-datetimepicker",
   "filename": "js/datetimepicker.min.js",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "https://github.com/dalelotts/ng-bootstrap-datetimepicker/graphs/contributors"
+    }
+  ]
 }

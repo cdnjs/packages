@@ -10,9 +10,6 @@
     "grid system",
     "css"
   ],
-  "author": {
-    "name": "Vineeth G S <hello@gsvineeth.com>"
-  },
   "license": "WTFPL",
   "homepage": "http://www.rwdgrid.com/",
   "autoupdate": {
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vineeth G S <hello@gsvineeth.com>"
+    }
+  ]
 }

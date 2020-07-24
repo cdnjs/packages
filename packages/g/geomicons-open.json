@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Brent Jackson"
-  },
   "description": "Open Source Icons for the Web",
   "filename": "geomicons.min.js",
   "keywords": [
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Brent Jackson"
+    }
+  ]
 }

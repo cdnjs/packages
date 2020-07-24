@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/mattdiamond/Recorderjs.git"
   },
-  "author": {
-    "name": "Matt Diamond"
-  },
   "license": "MIT",
   "keywords": [
     "plugin",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Matt Diamond"
+    }
+  ]
 }

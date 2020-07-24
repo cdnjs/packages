@@ -23,7 +23,9 @@
     "type": "git",
     "url": "https://github.com/notifyjs/notifyjs"
   },
-  "author": {
-    "name": "Jaime Pillora <dev@jpillora.com>"
-  }
+  "authors": [
+    {
+      "name": "Jaime Pillora <dev@jpillora.com>"
+    }
+  ]
 }

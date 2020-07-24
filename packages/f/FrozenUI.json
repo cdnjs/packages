@@ -3,9 +3,6 @@
   "title": "FrozenUI",
   "filename": "css/frozen.css",
   "homepage": "https://frozenui.github.io/",
-  "author": {
-    "name": "fayching,laispace"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/frozenui/frozenui.git"
@@ -32,5 +29,10 @@
     "qq",
     "腾讯",
     "手Q"
+  ],
+  "authors": [
+    {
+      "name": "fayching,laispace"
+    }
   ]
 }

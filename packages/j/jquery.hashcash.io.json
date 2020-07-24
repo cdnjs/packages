@@ -11,9 +11,6 @@
     "security",
     "jquery"
   ],
-  "author": {
-    "name": "Pavel Karoukin <pavel@karoukin.us> (http://pavel.karoukin.us/)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Pavel Karoukin <pavel@karoukin.us> (http://pavel.karoukin.us/)"
+    }
+  ]
 }

@@ -4,9 +4,6 @@
   "keywords": [
     "gallery galleries photo lightbox image album"
   ],
-  "author": {
-    "name": "Christophe Brisbois <chr@brisbois.fr> (https://brisbois.fr)"
-  },
   "license": "GPL-3.0-only",
   "homepage": "https://nanogallery2.nanostudio.org",
   "repository": {
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Christophe Brisbois <chr@brisbois.fr> (https://brisbois.fr)"
+    }
+  ]
 }

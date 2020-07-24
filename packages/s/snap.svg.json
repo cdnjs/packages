@@ -24,7 +24,9 @@
     "url": "git://github.com/adobe-webplatform/Snap.svg.git"
   },
   "license": "Apache-2.0",
-  "author": {
-    "name": "Dmitry Baranovskiy"
-  }
+  "authors": [
+    {
+      "name": "Dmitry Baranovskiy"
+    }
+  ]
 }

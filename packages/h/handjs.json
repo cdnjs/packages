@@ -25,7 +25,9 @@
       }
     ]
   },
-  "author": {
-    "name": "David Catuhe"
-  }
+  "authors": [
+    {
+      "name": "David Catuhe"
+    }
+  ]
 }

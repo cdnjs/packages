@@ -36,7 +36,9 @@
       }
     ]
   },
-  "author": {
-    "name": "Kartik Visweswaran <kartikv2@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Kartik Visweswaran <kartikv2@gmail.com>"
+    }
+  ]
 }

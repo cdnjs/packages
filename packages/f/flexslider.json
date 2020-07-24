@@ -31,7 +31,9 @@
     "url": "https://github.com/woothemes/FlexSlider.git"
   },
   "license": "GPL-2.0",
-  "author": {
-    "name": "WooThemes <jeff@woothemes.com>"
-  }
+  "authors": [
+    {
+      "name": "WooThemes <jeff@woothemes.com>"
+    }
+  ]
 }

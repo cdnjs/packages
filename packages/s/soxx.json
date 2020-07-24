@@ -16,9 +16,6 @@
     "soxx",
     "socket.io"
   ],
-  "author": {
-    "name": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)"
-  },
   "license": "ISC",
   "autoupdate": {
     "source": "npm",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)"
+    }
+  ]
 }

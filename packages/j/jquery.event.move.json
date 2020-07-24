@@ -8,9 +8,6 @@
     "finger",
     "move"
   ],
-  "author": {
-    "name": "Stephen Band (http://stephband.info)"
-  },
   "license": "WTFPL",
   "homepage": "http://github.com/stephband/jquery.event.move",
   "repository": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stephen Band (http://stephband.info)"
+    }
+  ]
 }

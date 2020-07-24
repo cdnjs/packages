@@ -10,9 +10,6 @@
     "autocomplete",
     "table"
   ],
-  "author": {
-    "name": "Vedavyas"
-  },
   "homepage": "https://vyasrao.github.io/tAutocomplete",
   "license": "MIT",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vedavyas"
+    }
+  ]
 }

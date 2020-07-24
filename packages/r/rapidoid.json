@@ -11,9 +11,6 @@
     "web framework",
     "rapidoid"
   ],
-  "author": {
-    "name": "Nikolche Mihajlovski <nikolce.mihajlovski@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "http://www.rapidoid.org/",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nikolche Mihajlovski <nikolce.mihajlovski@gmail.com>"
+    }
+  ]
 }

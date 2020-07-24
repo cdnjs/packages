@@ -13,9 +13,6 @@
     "MeteorJS",
     "rx"
   ],
-  "author": {
-    "name": "Dean Radcliffe <deanmisc@yahoo.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dean Radcliffe <deanmisc@yahoo.com>"
+    }
+  ]
 }

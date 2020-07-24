@@ -10,9 +10,6 @@
     "schema",
     "validator"
   ],
-  "author": {
-    "name": "Evgeny Poberezkin"
-  },
   "license": "MIT",
   "filename": "ajv.min.js",
   "autoupdate": {
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Evgeny Poberezkin"
+    }
+  ]
 }

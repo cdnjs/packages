@@ -13,9 +13,6 @@
     "type": "git",
     "url": "https://github.com/pvorb/clone"
   },
-  "author": {
-    "name": "Paul Vorbach <paul@vorba.ch> (http://paul.vorba.ch/)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Paul Vorbach <paul@vorba.ch> (http://paul.vorba.ch/)"
+    }
+  ]
 }

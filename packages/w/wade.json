@@ -7,9 +7,6 @@
     "fast",
     "light"
   ],
-  "author": {
-    "name": "Kabir Shah"
-  },
   "license": "MIT",
   "homepage": "https://github.com/KingPixil/wade#readme",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kabir Shah"
+    }
+  ]
 }

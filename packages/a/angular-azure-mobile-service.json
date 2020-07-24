@@ -13,9 +13,6 @@
     "service",
     "cloud"
   ],
-  "author": {
-    "name": "Terry Moore II"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Terry Moore II"
+    }
+  ]
 }

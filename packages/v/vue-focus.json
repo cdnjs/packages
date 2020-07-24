@@ -2,9 +2,6 @@
   "name": "vue-focus",
   "filename": "vue-focus.min.js",
   "description": "A set of reusable focus directives for reusable Vue.js components",
-  "author": {
-    "name": "Denis Karabaza <denis.karabaza@gmail.com>"
-  },
   "keywords": [
     "focus",
     "reusable",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Denis Karabaza <denis.karabaza@gmail.com>"
+    }
+  ]
 }

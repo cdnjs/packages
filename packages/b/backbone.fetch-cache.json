@@ -1,9 +1,6 @@
 {
   "name": "backbone.fetch-cache",
   "filename": "backbone.fetch-cache.min.js",
-  "author": {
-    "name": "Andy Appleton"
-  },
   "description": "Caches calls to Backbone.[Model | Collection].fetch",
   "keywords": [
     "backbone",
@@ -14,5 +11,10 @@
     "type": "git",
     "url": "https://github.com/madglory/backbone-fetch-cache.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andy Appleton"
+    }
+  ]
 }

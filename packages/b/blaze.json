@@ -17,9 +17,6 @@
     "framework",
     "components"
   ],
-  "author": {
-    "name": "Gregory Pratt"
-  },
   "license": "MIT",
   "homepage": "http://blazecss.com",
   "autoupdate": {
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Gregory Pratt"
+    }
+  ]
 }

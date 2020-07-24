@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Alex MacArthur <alex@macarthur.me>"
-  },
   "description": "A lightweight, easy-to-implement jQuery animated typing plugin that types text for you.",
   "filename": "typeit.min.js",
   "keywords": [
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alex MacArthur <alex@macarthur.me>"
+    }
+  ]
 }

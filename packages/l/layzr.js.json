@@ -2,9 +2,6 @@
   "name": "layzr.js",
   "description": "A small, fast, modern, and dependency-free library for lazy loading.",
   "homepage": "http://callmecavs.github.io/layzr.js/",
-  "author": {
-    "name": "Michael Cavalea"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Michael Cavalea"
+    }
+  ]
 }

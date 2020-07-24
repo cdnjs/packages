@@ -29,7 +29,9 @@
     "url": "https://github.com/cubiq/iscroll"
   },
   "license": "MIT",
-  "author": {
-    "name": "Matteo Spinelli <matteo@cubiq.org> (http://cubiq.org)"
-  }
+  "authors": [
+    {
+      "name": "Matteo Spinelli <matteo@cubiq.org> (http://cubiq.org)"
+    }
+  ]
 }

@@ -16,9 +16,6 @@
     "url": "https://github.com/davatron5000/FitVids.js"
   },
   "license": "WTFPL",
-  "author": {
-    "name": "Dave Rupert <rupato@gmail.com>"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/davatron5000/FitVids.js.git",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dave Rupert <rupato@gmail.com>"
+    }
+  ]
 }

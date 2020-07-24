@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Sven Sauleau <sven@sauleau.com>"
-  },
   "autoupdate": {
     "fileMap": [
       {
@@ -22,5 +19,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xtuc/hi-sven.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Sven Sauleau <sven@sauleau.com>"
+    }
+  ]
 }

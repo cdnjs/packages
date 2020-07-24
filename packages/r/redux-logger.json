@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Eugene Rodionov (https://github.com/theaqua)"
-  },
   "description": "Logger for Redux",
   "filename": "redux-logger.js",
   "keywords": [
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Eugene Rodionov (https://github.com/theaqua)"
+    }
+  ]
 }

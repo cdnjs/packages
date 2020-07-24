@@ -13,9 +13,6 @@
     "url": "https://github.com/markdown-it/markdown-it-footnote"
   },
   "license": "MIT",
-  "author": {
-    "name": "Vitaly Puzrin"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "markdown-it-footnote",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vitaly Puzrin"
+    }
+  ]
 }

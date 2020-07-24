@@ -24,7 +24,9 @@
     "url": "https://github.com/bergie/hallo"
   },
   "license": "MIT",
-  "author": {
-    "name": "Henri Bergius <henri.bergius@iki.fi>"
-  }
+  "authors": [
+    {
+      "name": "Henri Bergius <henri.bergius@iki.fi>"
+    }
+  ]
 }

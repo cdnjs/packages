@@ -12,9 +12,6 @@
     "type": "git",
     "url": "https://github.com/formidablelabs/victory.git"
   },
-  "author": {
-    "name": "Formidable"
-  },
   "license": "MIT",
   "homepage": "https://formidable.com/open-source/victory/",
   "autoupdate": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Formidable"
+    }
+  ]
 }

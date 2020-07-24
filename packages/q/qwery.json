@@ -1,9 +1,6 @@
 {
   "name": "qwery",
   "description": "blazing fast CSS3 query selector engine",
-  "author": {
-    "name": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)"
-  },
   "filename": "qwery.min.js",
   "keywords": [
     "ender",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)"
+    }
+  ]
 }

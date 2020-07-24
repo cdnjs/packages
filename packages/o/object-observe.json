@@ -10,10 +10,6 @@
     "data-binding",
     "Object.observe"
   ],
-  "author": {
-    "name": "Massimo Artizzu",
-    "email": "maxart.x@gmail.com"
-  },
   "license": "MIT",
   "filename": "object-observe.min.js",
   "autoupdate": {
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Massimo Artizzu",
+      "email": "maxart.x@gmail.com"
+    }
+  ]
 }

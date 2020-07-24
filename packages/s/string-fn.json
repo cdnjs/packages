@@ -14,9 +14,6 @@
     "sentence",
     "manipulation"
   ],
-  "author": {
-    "name": "self_refactor"
-  },
   "license": "ISC",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "self_refactor"
+    }
+  ]
 }

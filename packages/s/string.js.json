@@ -22,9 +22,6 @@
     "escape",
     "unescape"
   ],
-  "author": {
-    "name": "JP Richardson <jprichardson@gmail.com>"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jprichardson/string.js"
@@ -41,5 +38,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "JP Richardson <jprichardson@gmail.com>"
+    }
+  ]
 }

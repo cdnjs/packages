@@ -5,9 +5,6 @@
     "react",
     "three.js"
   ],
-  "author": {
-    "name": "Firtina \"toxicFork\" Ozbalikci"
-  },
   "license": "MIT",
   "homepage": "https://github.com/toxicFork/react-three-renderer#readme",
   "repository": {
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Firtina \"toxicFork\" Ozbalikci"
+    }
+  ]
 }

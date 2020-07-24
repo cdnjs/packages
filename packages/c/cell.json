@@ -4,9 +4,6 @@
   "description": "A self-constructing web app framework powered by a self-driving DOM",
   "homepage": "https://www.celljs.org",
   "license": "MIT",
-  "author": {
-    "name": "gliechtenstein"
-  },
   "keywords": [
     "self-driving",
     "webapp",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "gliechtenstein"
+    }
+  ]
 }

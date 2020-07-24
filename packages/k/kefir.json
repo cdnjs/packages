@@ -17,9 +17,6 @@
     "RxJs",
     "Observable"
   ],
-  "author": {
-    "name": "Roman Pominov <rpominov@gmail.com>"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/rpominov/kefir.git"
@@ -36,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Roman Pominov <rpominov@gmail.com>"
+    }
+  ]
 }

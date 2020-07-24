@@ -14,9 +14,6 @@
     "browser",
     "javascript"
   ],
-  "author": {
-    "name": "Mike McNeil <@mikermcneil> (http://balderdash.co/)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mike McNeil <@mikermcneil> (http://balderdash.co/)"
+    }
+  ]
 }

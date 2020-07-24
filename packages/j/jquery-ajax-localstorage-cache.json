@@ -7,9 +7,6 @@
     "localstorage",
     "caching"
   ],
-  "author": {
-    "name": "SaneMethod"
-  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "SaneMethod"
+    }
+  ]
 }

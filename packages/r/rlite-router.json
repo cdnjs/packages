@@ -10,9 +10,6 @@
     "routing",
     "router"
   ],
-  "author": {
-    "name": "Chris Davies <ferociousturtle@gmail.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris Davies <ferociousturtle@gmail.com>"
+    }
+  ]
 }

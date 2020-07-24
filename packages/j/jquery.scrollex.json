@@ -11,9 +11,6 @@
     "type": "git",
     "url": "git://github.com/ajlkn/jquery.scrollex.git"
   },
-  "author": {
-    "name": "AJ"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/ajlkn/jquery.scrollex.git",
@@ -26,5 +23,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "AJ"
+    }
+  ]
 }

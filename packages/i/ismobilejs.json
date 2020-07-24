@@ -8,10 +8,6 @@
     "useragent"
   ],
   "license": "CC0-1.0",
-  "author": {
-    "name": "Kai Mallea",
-    "email": "kmallea@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kaimallea/isMobile.git"
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kai Mallea",
+      "email": "kmallea@gmail.com"
+    }
+  ]
 }

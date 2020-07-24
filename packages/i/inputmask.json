@@ -15,10 +15,6 @@
     "mask",
     "plugins"
   ],
-  "author": {
-    "name": "Robin Herbots",
-    "url": "https://github.com/RobinHerbots"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Robin Herbots",
+      "url": "https://github.com/RobinHerbots"
+    }
+  ]
 }

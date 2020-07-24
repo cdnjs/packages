@@ -1,8 +1,5 @@
 {
   "name": "rx-player",
-  "author": {
-    "name": "Canal+"
-  },
   "filename": "rx-player.min.js",
   "description": "Canal+ HTML5 Video Player",
   "keywords": [
@@ -36,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Canal+"
+    }
+  ]
 }

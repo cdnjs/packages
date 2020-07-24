@@ -25,7 +25,9 @@
     "type": "git",
     "url": "git://github.com/dropbox/zxcvbn.git"
   },
-  "author": {
-    "name": "Dan Wheeler"
-  }
+  "authors": [
+    {
+      "name": "Dan Wheeler"
+    }
+  ]
 }

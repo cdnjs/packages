@@ -8,10 +8,6 @@
     "cookie",
     "cookies"
   ],
-  "author": {
-    "name": "Andrea Giammarchi",
-    "url": "http://webreflection.blogspot.com/"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/WebReflection/cookies-monster.git"
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrea Giammarchi",
+      "url": "http://webreflection.blogspot.com/"
+    }
+  ]
 }

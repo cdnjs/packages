@@ -13,9 +13,6 @@
     "customizable",
     "powerful"
   ],
-  "author": {
-    "name": "t1m0n <t1m0n.tr@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "http://t1m0n.name/air-datepicker/docs/",
   "autoupdate": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "t1m0n <t1m0n.tr@gmail.com>"
+    }
+  ]
 }

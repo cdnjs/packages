@@ -27,7 +27,9 @@
     "url": "https://github.com/zurb/ink.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "ZURB"
-  }
+  "authors": [
+    {
+      "name": "ZURB"
+    }
+  ]
 }

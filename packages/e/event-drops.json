@@ -12,9 +12,6 @@
     "visualization",
     "interactive"
   ],
-  "author": {
-    "name": "Thiery Michel <thiery@marmelab.com>"
-  },
   "license": "MIT",
   "homepage": "https://marmelab.com/EventDrops/",
   "autoupdate": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Thiery Michel <thiery@marmelab.com>"
+    }
+  ]
 }

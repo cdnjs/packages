@@ -9,9 +9,6 @@
   "keywords": [
     "multiselect"
   ],
-  "author": {
-    "name": "Adrian Crisan <adrian.crisan88@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "https://crlcu.github.io/multiselect/",
   "autoupdate": {
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Adrian Crisan <adrian.crisan88@gmail.com>"
+    }
+  ]
 }

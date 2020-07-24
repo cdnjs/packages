@@ -8,9 +8,6 @@
     "typography",
     "typesetting"
   ],
-  "author": {
-    "name": "ethantw <ethantw@me.com>"
-  },
   "homepage": "http://css.hanzi.co/",
   "repository": {
     "type": "git",
@@ -35,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "ethantw <ethantw@me.com>"
+    }
+  ]
 }

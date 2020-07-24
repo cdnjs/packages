@@ -6,9 +6,6 @@
     "vimeo",
     "plugin"
   ],
-  "author": {
-    "name": "Benoit Tremblay <trembl.ben@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "https://github.com/videojs/videojs-vimeo#readme",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Benoit Tremblay <trembl.ben@gmail.com>"
+    }
+  ]
 }

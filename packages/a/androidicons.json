@@ -6,9 +6,6 @@
     "type": "git",
     "url": "https://github.com/opoloo/androidicons.git"
   },
-  "author": {
-    "name": "Jochen Greif"
-  },
   "homepage": "http://www.androidicons.com/",
   "keywords": [
     "android",
@@ -26,5 +23,10 @@
       }
     ]
   },
-  "license": "CC-BY-SA-4.0"
+  "license": "CC-BY-SA-4.0",
+  "authors": [
+    {
+      "name": "Jochen Greif"
+    }
+  ]
 }

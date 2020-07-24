@@ -11,9 +11,6 @@
     "url": "https://github.com/Polymer/polymer.git"
   },
   "license": "BSD-3-Clause",
-  "author": {
-    "name": "The Polymer Project Authors"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "@polymer/polymer",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "The Polymer Project Authors"
+    }
+  ]
 }

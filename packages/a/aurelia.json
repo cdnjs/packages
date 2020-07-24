@@ -11,9 +11,6 @@
     "url": "git://github.com/aurelia/aurelia"
   },
   "license": "MIT",
-  "author": {
-    "name": "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)"
-  },
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/aurelia/aurelia.git",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)"
+    }
+  ]
 }

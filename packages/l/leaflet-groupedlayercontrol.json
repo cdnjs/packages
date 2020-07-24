@@ -14,9 +14,6 @@
     "control",
     "plugin"
   ],
-  "author": {
-    "name": "Ishmael Smyrnow"
-  },
   "homepage": "https://ismyrnow.github.io/leaflet-groupedlayercontrol/",
   "license": "MIT",
   "autoupdate": {
@@ -36,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ishmael Smyrnow"
+    }
+  ]
 }

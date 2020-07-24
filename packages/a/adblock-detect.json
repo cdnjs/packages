@@ -8,10 +8,6 @@
   },
   "homepage": "https://dbrekalo.github.io/adblockdetect/",
   "license": "MIT",
-  "author": {
-    "email": "dbrekalo@gmail.com",
-    "name": "Damir Brekalo"
-  },
   "keywords": [
     "adblock",
     "adblocker",
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "dbrekalo@gmail.com",
+      "name": "Damir Brekalo"
+    }
+  ]
 }

@@ -1,10 +1,6 @@
 {
   "name": "ng2-formly",
   "filename": "ng2-formly.umd.min.js",
-  "author": {
-    "name": "Zama Khan Mohammed",
-    "email": "mohammedzamakhan@gmail.com"
-  },
   "keywords": [
     "angular",
     "forms",
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Zama Khan Mohammed",
+      "email": "mohammedzamakhan@gmail.com"
+    }
+  ]
 }

@@ -10,9 +10,6 @@
     "6k",
     "polyfill"
   ],
-  "author": {
-    "name": "dnp_theme"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "dnp_theme"
+    }
+  ]
 }

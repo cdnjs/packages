@@ -1,9 +1,6 @@
 {
   "name": "gibberish-aes",
   "filename": "gibberish-aes.min.js",
-  "author": {
-    "name": "Mark Percival <mark@mpercival.com>"
-  },
   "description": "A lightweight Javascript Libray for OpenSSL compatible AES CBC encryption.",
   "repository": {
     "type": "git",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mark Percival <mark@mpercival.com>"
+    }
+  ]
 }

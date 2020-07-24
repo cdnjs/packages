@@ -10,9 +10,6 @@
     "videojs"
   ],
   "homepage": "https://holacdn.com/player",
-  "author": {
-    "name": "Steve Heffernan"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/hola/video.js.git"
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Steve Heffernan"
+    }
+  ]
 }

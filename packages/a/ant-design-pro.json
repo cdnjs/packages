@@ -3,9 +3,6 @@
   "filename": "ant-design-pro.min.js",
   "description": "An enterprise-class UI design language and React-based implementation",
   "license": "MIT",
-  "author": {
-    "name": "afc163 <afc163@gmail.com>"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ant-design/ant-design-pro"
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "afc163 <afc163@gmail.com>"
+    }
+  ]
 }

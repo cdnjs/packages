@@ -2,10 +2,6 @@
   "name": "jquery-touch-events",
   "filename": "jquery.mobile-events.min.js",
   "description": "Polyfill to remove click delays on browsers with touch UIs.",
-  "author": {
-    "name": "Ben Major",
-    "email": "ben.major88@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/benmajor/jQuery-Touch-Events.git"
@@ -28,5 +24,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ben Major",
+      "email": "ben.major88@gmail.com"
+    }
+  ]
 }

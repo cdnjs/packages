@@ -10,10 +10,6 @@
     "user-interface",
     "ui-library"
   ],
-  "author": {
-    "name": "Simon Reinisch",
-    "email": "trash@reinisch.io"
-  },
   "license": "MIT",
   "homepage": "https://github.com/Simonwep/selection#readme",
   "repository": {
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Simon Reinisch",
+      "email": "trash@reinisch.io"
+    }
+  ]
 }

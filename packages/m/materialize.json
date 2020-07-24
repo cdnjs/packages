@@ -2,9 +2,6 @@
   "name": "materialize",
   "filename": "css/materialize.min.css",
   "description": "Builds Materialize distribution packages",
-  "author": {
-    "name": "Alvin Wang, Alan Chang"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -34,5 +31,10 @@
     "ux",
     "material",
     "design"
+  ],
+  "authors": [
+    {
+      "name": "Alvin Wang, Alan Chang"
+    }
   ]
 }

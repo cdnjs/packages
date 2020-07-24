@@ -6,10 +6,6 @@
     "Editor",
     "Bootstrap"
   ],
-  "author": {
-    "name": "SpryMedia Ltd",
-    "url": "http://datatables.net"
-  },
   "license": "SEE LICENSE IN License.md",
   "homepage": "https://datatables.net",
   "repository": {
@@ -34,5 +30,11 @@
       }
     ]
   },
-  "filename": "editor.bootstrap4.min.js"
+  "filename": "editor.bootstrap4.min.js",
+  "authors": [
+    {
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
+    }
+  ]
 }

@@ -18,9 +18,6 @@
     "appointment",
     "appointments"
   ],
-  "author": {
-    "name": "Timekit Inc."
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Timekit Inc."
+    }
+  ]
 }

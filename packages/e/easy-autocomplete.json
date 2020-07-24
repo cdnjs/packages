@@ -2,10 +2,6 @@
   "name": "easy-autocomplete",
   "title": "jQuery plugin for autocompletion",
   "description": "EasyAutocomplete is a jQuery autocomplete plugin. Easy to create autocomplete dropdown list for text input fields",
-  "author": {
-    "name": "Łukasz Pawełczak",
-    "url": "http://github.com/pawelczak"
-  },
   "keywords": [
     "jquery",
     "jquery-plugin",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Łukasz Pawełczak",
+      "url": "http://github.com/pawelczak"
+    }
+  ]
 }

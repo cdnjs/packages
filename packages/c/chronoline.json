@@ -13,9 +13,6 @@
     "history",
     "horizontal"
   ],
-  "author": {
-    "name": "Kevin Leung"
-  },
   "license": "MIT",
   "homepage": "https://stoicloofah.github.io/chronoline.js/",
   "autoupdate": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kevin Leung"
+    }
+  ]
 }

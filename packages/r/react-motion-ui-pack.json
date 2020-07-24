@@ -15,9 +15,6 @@
     "transition",
     "animation"
   ],
-  "author": {
-    "name": "Travis Arnold <travis@souporserious.com> (http://souporserious.com)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Travis Arnold <travis@souporserious.com> (http://souporserious.com)"
+    }
+  ]
 }

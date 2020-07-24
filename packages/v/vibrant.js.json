@@ -16,9 +16,6 @@
     "muted",
     "colour"
   ],
-  "author": {
-    "name": "Jari Zwarts"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -32,5 +29,10 @@
       }
     ]
   },
-  "filename": "Vibrant.min.js"
+  "filename": "Vibrant.min.js",
+  "authors": [
+    {
+      "name": "Jari Zwarts"
+    }
+  ]
 }

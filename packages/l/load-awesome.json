@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Daniel Cardoso"
-  },
   "description": "An awesome collection of — Pure CSS — Loaders and Spinners",
   "homepage": "http://github.danielcardoso.net/load-awesome/",
   "keywords": [
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Daniel Cardoso"
+    }
+  ]
 }

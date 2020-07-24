@@ -12,9 +12,6 @@
     "filter",
     "vue-filter"
   ],
-  "author": {
-    "name": "wy-ei"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "wy-ei"
+    }
+  ]
 }

@@ -27,7 +27,9 @@
     "url": "git://github.com/erikflowers/weather-icons.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Erik Flowers <erik@helloerik.com>"
-  }
+  "authors": [
+    {
+      "name": "Erik Flowers <erik@helloerik.com>"
+    }
+  ]
 }

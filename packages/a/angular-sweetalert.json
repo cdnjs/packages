@@ -13,9 +13,6 @@
     "sweet",
     "alert"
   ],
-  "author": {
-    "name": "pedro@oitozero.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "pedro@oitozero.com"
+    }
+  ]
 }

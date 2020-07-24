@@ -11,9 +11,6 @@
     "visualization",
     "javascript"
   ],
-  "author": {
-    "name": "Krist Wongsuphasawat <krist.wongz@gmail.com>"
-  },
   "license": "Apache-2.0",
   "homepage": "https://twitter.github.io/labella.js/",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Krist Wongsuphasawat <krist.wongz@gmail.com>"
+    }
+  ]
 }

@@ -2,9 +2,6 @@
   "name": "glamor",
   "filename": "index.min.js",
   "description": "inline css for component systems",
-  "author": {
-    "name": "Sunil Pai <threepointone@gmail.com>"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sunil Pai <threepointone@gmail.com>"
+    }
+  ]
 }

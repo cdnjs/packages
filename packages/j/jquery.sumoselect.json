@@ -23,9 +23,6 @@
     "selected",
     "placeholder"
   ],
-  "author": {
-    "name": "HemantNegi"
-  },
   "license": "MIT",
   "homepage": "https://hemantnegi.github.io/jquery.sumoselect/",
   "autoupdate": {
@@ -39,5 +36,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "HemantNegi"
+    }
+  ]
 }

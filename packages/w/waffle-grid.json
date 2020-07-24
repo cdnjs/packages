@@ -6,9 +6,6 @@
     "grid",
     "css"
   ],
-  "author": {
-    "name": "Lucas Gruwez <gruwez.lucas@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "https://github.com/lucasgruwez/waffle-grid#readme",
   "repository": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Lucas Gruwez <gruwez.lucas@gmail.com>"
+    }
+  ]
 }

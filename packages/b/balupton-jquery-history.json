@@ -11,9 +11,6 @@
     "track",
     "URL-Hashes"
   ],
-  "author": {
-    "name": "Benjamin Lupton"
-  },
   "license": "MIT",
   "homepage": "https://balupton.github.io/jquery-history/demo/",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Benjamin Lupton"
+    }
+  ]
 }

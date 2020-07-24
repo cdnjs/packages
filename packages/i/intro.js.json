@@ -17,9 +17,6 @@
     "type": "git",
     "url": "https://github.com/usablica/intro.js.git"
   },
-  "author": {
-    "name": "Afshin Mehrabani <afshin.meh@gmail.com>"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "intro.js",
@@ -39,5 +36,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Afshin Mehrabani <afshin.meh@gmail.com>"
+    }
+  ]
 }

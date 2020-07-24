@@ -26,7 +26,9 @@
     "type": "git",
     "url": "https://github.com/hpneo/gmaps"
   },
-  "author": {
-    "name": "Gustavo Leon"
-  }
+  "authors": [
+    {
+      "name": "Gustavo Leon"
+    }
+  ]
 }

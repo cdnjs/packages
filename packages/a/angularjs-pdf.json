@@ -1,9 +1,6 @@
 {
   "name": "angularjs-pdf",
   "filename": "angular-pdf.min.js",
-  "author": {
-    "name": "Sayanee <sayanee@gmail.com>"
-  },
   "description": "An Angularjs directive <ng-pdf> to display PDF in the browser with PDFJS.",
   "repository": {
     "type": "git",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sayanee <sayanee@gmail.com>"
+    }
+  ]
 }

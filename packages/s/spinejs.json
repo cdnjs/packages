@@ -17,7 +17,9 @@
     "url": "https://github.com/spine/spine"
   },
   "license": "MIT",
-  "author": {
-    "name": "maccman"
-  }
+  "authors": [
+    {
+      "name": "maccman"
+    }
+  ]
 }

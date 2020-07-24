@@ -9,9 +9,6 @@
     "prompt21",
     "jquery"
   ],
-  "author": {
-    "name": "jillix <contact@jillix.com>"
-  },
   "license": "MIT",
   "filename": "jquery-prompt21.min.js",
   "autoupdate": {
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "jillix <contact@jillix.com>"
+    }
+  ]
 }

@@ -17,9 +17,6 @@
     "regular expression",
     "regExp"
   ],
-  "author": {
-    "name": "Pavlo Voznenko"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Pavlo Voznenko"
+    }
+  ]
 }

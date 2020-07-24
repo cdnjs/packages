@@ -6,9 +6,6 @@
     "url": "https://github.com/marmelab/restful.js"
   },
   "description": "A pure JS client for interacting with server-side RESTful resources. Think Restangular without Angular.",
-  "author": {
-    "name": "Robin Bressan <robin@buddey.net>"
-  },
   "license": "MIT",
   "homepage": "https://marmelab.com/blog/2015/03/10/deal-easily-with-your-rest-api-using-restful-js.html",
   "keywords": [
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Robin Bressan <robin@buddey.net>"
+    }
+  ]
 }

@@ -14,9 +14,6 @@
     "tooltip",
     "tooltips"
   ],
-  "author": {
-    "name": "Elior Shalev Tabeka (eliooor@gmail.com)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Elior Shalev Tabeka (eliooor@gmail.com)"
+    }
+  ]
 }

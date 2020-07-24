@@ -3,9 +3,6 @@
   "filename": "knockout-sortable.min.js",
   "description": "A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality",
   "license": "MIT",
-  "author": {
-    "name": "The Knockout-sortable team"
-  },
   "keywords": [
     "mvvm",
     "ui",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "The Knockout-sortable team"
+    }
+  ]
 }

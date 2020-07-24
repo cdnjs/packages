@@ -1,9 +1,6 @@
 {
   "name": "angular-deckgrid",
   "description": "A lightweight masonry-like grid for AngularJS.",
-  "author": {
-    "name": "André König (andre.koenig@posteo.de)"
-  },
   "keywords": [
     "deckgrid",
     "angular",
@@ -27,5 +24,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/akoenig/angular-deckgrid"
-  }
+  },
+  "authors": [
+    {
+      "name": "André König (andre.koenig@posteo.de)"
+    }
+  ]
 }

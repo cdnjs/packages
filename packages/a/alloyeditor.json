@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Iliyan Peychev <iliyan.peychev@gmail.com>"
-  },
   "description": "AlloyEditor, a modern WYSIWYG editor, build on top of CKEditor",
   "filename": "alloy-editor-all-min.js",
   "homepage": "https://alloyeditor.com",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Iliyan Peychev <iliyan.peychev@gmail.com>"
+    }
+  ]
 }

@@ -8,11 +8,6 @@
     "javascript",
     "after load"
   ],
-  "author": {
-    "name": "Derek Brans",
-    "email": "dbrans@gmail.com",
-    "url": "https://github.com/dbrans"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/krux/postscribe.git"
@@ -30,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Derek Brans",
+      "email": "dbrans@gmail.com",
+      "url": "https://github.com/dbrans"
+    }
+  ]
 }

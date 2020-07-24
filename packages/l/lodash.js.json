@@ -13,9 +13,6 @@
     "server",
     "util"
   ],
-  "author": {
-    "name": "John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/)"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/lodash/lodash.git"
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/)"
+    }
+  ]
 }

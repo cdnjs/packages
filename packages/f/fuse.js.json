@@ -24,7 +24,9 @@
     "url": "https://github.com/krisk/Fuse"
   },
   "license": "Apache-2.0",
-  "author": {
-    "name": "Kirollos Risk"
-  }
+  "authors": [
+    {
+      "name": "Kirollos Risk"
+    }
+  ]
 }

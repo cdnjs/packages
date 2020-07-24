@@ -22,9 +22,6 @@
     "check",
     "colors"
   ],
-  "author": {
-    "name": "Lokesh Rajendran"
-  },
   "license": "MIT",
   "homepage": "https://lokesh-coder.github.io/pretty-checkbox",
   "autoupdate": {
@@ -38,5 +35,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Lokesh Rajendran"
+    }
+  ]
 }

@@ -2,11 +2,6 @@
   "name": "jshint",
   "homepage": "http://jshint.com/",
   "description": "Static analysis tool for JavaScript",
-  "author": {
-    "name": "Anton Kovalyov",
-    "email": "anton@kovalyov.net",
-    "url": "http://anton.kovalyov.net/"
-  },
   "keywords": [
     "detect",
     "code-analysis"
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Anton Kovalyov",
+      "email": "anton@kovalyov.net",
+      "url": "http://anton.kovalyov.net/"
+    }
+  ]
 }

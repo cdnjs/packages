@@ -2,9 +2,6 @@
   "name": "knockback-core-stack",
   "filename": "knockback-core-stack.min.js",
   "description": "Knockback.js provides Knockout.js magic for Backbone.js Models and Collections",
-  "author": {
-    "name": "Kevin Malakoff"
-  },
   "keywords": [
     "mvvm",
     "ui",
@@ -15,5 +12,10 @@
     "url": "https://github.com/kmalakoff/knockback.git"
   },
   "homepage": "https://kmalakoff.github.io/knockback/",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kevin Malakoff"
+    }
+  ]
 }

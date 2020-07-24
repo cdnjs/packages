@@ -10,9 +10,6 @@
     "type": "git",
     "url": "https://github.com/FaiblUG/setIframeHeight.git"
   },
-  "author": {
-    "name": "Jonas Fischer-Maeck"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jonas Fischer-Maeck"
+    }
+  ]
 }

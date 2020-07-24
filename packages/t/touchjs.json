@@ -13,10 +13,6 @@
     "touch.js",
     "gesture"
   ],
-  "author": {
-    "name": "clouda team",
-    "url": "https://github.com/Clouda-team"
-  },
   "license": "MIT",
   "homepage": "http://touch.code.baidu.com",
   "autoupdate": {
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "clouda team",
+      "url": "https://github.com/Clouda-team"
+    }
+  ]
 }

@@ -2,9 +2,6 @@
   "name": "egjs-persist",
   "filename": "persist.min.js",
   "description": "Provide cache interface to handle persisted data among history navigation.",
-  "author": {
-    "name": "NAVER Corp."
-  },
   "license": "MIT",
   "keywords": [
     "egjs",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "NAVER Corp."
+    }
+  ]
 }

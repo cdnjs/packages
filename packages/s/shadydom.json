@@ -16,9 +16,6 @@
     "type": "git",
     "url": "https://github.com/webcomponents/polyfills.git"
   },
-  "author": {
-    "name": "The Polymer Authors"
-  },
   "homepage": "https://webcomponents.org/polyfills",
   "autoupdate": {
     "source": "npm",
@@ -32,5 +29,10 @@
       }
     ]
   },
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "The Polymer Authors"
+    }
+  ]
 }

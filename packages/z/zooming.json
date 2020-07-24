@@ -13,9 +13,6 @@
     "javascript"
   ],
   "homepage": "http://desmonding.me/zooming/",
-  "author": {
-    "name": "Desmond Ding <kingdido999@gmail.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Desmond Ding <kingdido999@gmail.com>"
+    }
+  ]
 }

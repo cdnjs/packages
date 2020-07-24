@@ -2,9 +2,6 @@
   "name": "angular-spinner",
   "filename": "angular-spinner.min.js",
   "description": "Angular directive to show an animated spinner (using spin.js)",
-  "author": {
-    "name": "Uri Shaked"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/urish/angular-spinner.git"
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Uri Shaked"
+    }
+  ]
 }

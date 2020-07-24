@@ -11,9 +11,6 @@
     "generator",
     "delaunay"
   ],
-  "author": {
-    "name": "Maks Surguy"
-  },
   "license": "MIT",
   "homepage": "https://msurguy.github.io/triangles/",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Maks Surguy"
+    }
+  ]
 }

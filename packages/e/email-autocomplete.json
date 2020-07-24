@@ -17,9 +17,6 @@
     "url": "https://github.com/10w042/email-autocomplete/"
   },
   "license": "MIT",
-  "author": {
-    "name": "Low Yong Zhen <yz@stargate.io>"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/10w042/email-autocomplete.git",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Low Yong Zhen <yz@stargate.io>"
+    }
+  ]
 }

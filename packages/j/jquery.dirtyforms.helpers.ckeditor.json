@@ -1,9 +1,6 @@
 {
   "name": "jquery.dirtyforms.helpers.ckeditor",
   "filename": "jquery.dirtyforms.helpers.ckeditor.min.js",
-  "author": {
-    "name": "Mal Curtis <mal@mal.co.nz>"
-  },
   "description": "Dirty Forms is a jQuery plugin to help prevent users from losing data when editing forms.",
   "keywords": [
     "ckeditor",
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mal Curtis <mal@mal.co.nz>"
+    }
+  ]
 }

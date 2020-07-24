@@ -10,10 +10,6 @@
   ],
   "filename": "simplemde.min.js",
   "license": "MIT",
-  "author": {
-    "name": "Wes Cossick",
-    "url": "http://www.WesCossick.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NextStepWebs/simplemde-markdown-editor.git"
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Wes Cossick",
+      "url": "http://www.WesCossick.com"
+    }
+  ]
 }

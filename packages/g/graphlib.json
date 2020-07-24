@@ -5,9 +5,6 @@
     "graph",
     "algorithms"
   ],
-  "author": {
-    "name": "Chris Pettitt <cpettitt@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "https://github.com/dagrejs/graphlib",
   "repository": {
@@ -26,5 +23,10 @@
       }
     ]
   },
-  "filename": "graphlib.min.js"
+  "filename": "graphlib.min.js",
+  "authors": [
+    {
+      "name": "Chris Pettitt <cpettitt@gmail.com>"
+    }
+  ]
 }

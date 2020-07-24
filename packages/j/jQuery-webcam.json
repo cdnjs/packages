@@ -25,11 +25,13 @@
       }
     ]
   },
-  "author": {
-    "name": "Robert Eisele <robert@xarg.org>"
-  },
   "licenses": [
     "MIT",
     "GPL-2.0"
+  ],
+  "authors": [
+    {
+      "name": "Robert Eisele <robert@xarg.org>"
+    }
   ]
 }

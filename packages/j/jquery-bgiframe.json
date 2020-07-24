@@ -1,9 +1,5 @@
 {
   "name": "jquery-bgiframe",
-  "author": {
-    "name": "Brandon Aaron",
-    "url": "http://brandon.aaron.sh"
-  },
   "description": "A jQuery plugin that helps ease the pain when having to deal with IE z-index issues.",
   "repository": {
     "type": "git",
@@ -34,5 +30,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Brandon Aaron",
+      "url": "http://brandon.aaron.sh"
+    }
+  ]
 }

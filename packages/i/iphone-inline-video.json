@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Federico Brigante <github@bfred.it> (bfred.it)"
-  },
   "description": "Make videos playable inline on the iPhone (prevents automatic full screen)",
   "filename": "iphone-inline-video.min.js",
   "homepage": "https://bfred-it.github.io/iphone-inline-video/",
@@ -39,5 +36,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Federico Brigante <github@bfred.it> (bfred.it)"
+    }
+  ]
 }

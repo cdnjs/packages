@@ -2,9 +2,6 @@
   "name": "umbrella",
   "filename": "umbrella.min.js",
   "homepage": "http://umbrellajs.com/",
-  "author": {
-    "name": "Francisco Presencia <developerfrancisco@hotmail.com>"
-  },
   "description": "Lightweight and intuitive javascript library",
   "keywords": [
     "umbrella",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Francisco Presencia <developerfrancisco@hotmail.com>"
+    }
+  ]
 }

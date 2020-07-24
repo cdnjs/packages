@@ -7,9 +7,6 @@
     "browser",
     "node.js"
   ],
-  "author": {
-    "name": "Kelly Martin"
-  },
   "license": "MIT",
   "homepage": "http://github.com/kellym/smartquotesjs",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kelly Martin"
+    }
+  ]
 }

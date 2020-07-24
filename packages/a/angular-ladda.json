@@ -12,9 +12,6 @@
     "angular-ladda",
     "ng-ladda"
   ],
-  "author": {
-    "name": "Chungsub Kim <subicura@subicura.com> (http://subicura.com/)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chungsub Kim <subicura@subicura.com> (http://subicura.com/)"
+    }
+  ]
 }

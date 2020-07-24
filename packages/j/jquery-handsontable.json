@@ -14,7 +14,9 @@
     "type": "git",
     "url": "https://github.com/handsontable/handsontable"
   },
-  "author": {
-    "name": "Handsoncode <hello@handsontable.com>"
-  }
+  "authors": [
+    {
+      "name": "Handsoncode <hello@handsontable.com>"
+    }
+  ]
 }

@@ -23,9 +23,6 @@
     "preload",
     "preloader"
   ],
-  "author": {
-    "name": "Typicode <typicode@gmail.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -38,5 +35,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Typicode <typicode@gmail.com>"
+    }
+  ]
 }

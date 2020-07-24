@@ -1,9 +1,6 @@
 {
   "name": "basil.js",
   "filename": "basil.min.js",
-  "author": {
-    "name": "Mathieu Ghaleb <mathieu@wisembly.com>"
-  },
   "description": "The missing Javascript smart persistant layer",
   "keywords": [
     "localstorage",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mathieu Ghaleb <mathieu@wisembly.com>"
+    }
+  ]
 }

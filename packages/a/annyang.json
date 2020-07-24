@@ -16,9 +16,6 @@
     "speech",
     "recognition"
   ],
-  "author": {
-    "name": "Tal Ater <tal@talater.com> (https://www.talater.com/)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tal Ater <tal@talater.com> (https://www.talater.com/)"
+    }
+  ]
 }

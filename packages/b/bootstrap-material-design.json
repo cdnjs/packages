@@ -17,9 +17,6 @@
     "browser",
     "framework"
   ],
-  "author": {
-    "name": "Federico Zivolo"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Federico Zivolo"
+    }
+  ]
 }

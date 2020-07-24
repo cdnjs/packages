@@ -2,9 +2,6 @@
   "name": "qwest",
   "filename": "qwest.min.js",
   "description": "Ajax library with XHR2, promises and request limit",
-  "author": {
-    "name": "Aurélien Delogu <pyrsmk@dreamysource.fr> (http://dreamysource.fr)"
-  },
   "homepage": "http://dreamysource.io/project/qwest",
   "repository": {
     "type": "git",
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Aurélien Delogu <pyrsmk@dreamysource.fr> (http://dreamysource.fr)"
+    }
+  ]
 }

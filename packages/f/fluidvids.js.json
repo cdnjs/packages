@@ -2,9 +2,6 @@
   "name": "fluidvids.js",
   "filename": "fluidvids.min.js",
   "description": "Raw JavaScript fluid videos",
-  "author": {
-    "name": "@toddmotto"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -24,5 +21,10 @@
   },
   "keywords": [
     "fluidvids.js"
+  ],
+  "authors": [
+    {
+      "name": "@toddmotto"
+    }
   ]
 }

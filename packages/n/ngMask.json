@@ -10,9 +10,6 @@
   ],
   "name": "ngMask",
   "description": "Best ngMask",
-  "author": {
-    "name": "candreoliveira@gmail.com"
-  },
   "homepage": "https://github.com/candreoliveira/ngMask#ngmask",
   "license": "MIT",
   "autoupdate": {
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "candreoliveira@gmail.com"
+    }
+  ]
 }

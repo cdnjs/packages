@@ -11,9 +11,6 @@
     "plugins",
     "pluggable"
   ],
-  "author": {
-    "name": "HarryChen && ShuangYa"
-  },
   "license": "MIT",
   "homepage": "https://github.com/HarryChen0506/react-markdown-editor-lite#readme",
   "repository": {
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "HarryChen && ShuangYa"
+    }
+  ]
 }

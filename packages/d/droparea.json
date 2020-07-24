@@ -11,9 +11,6 @@
     "file",
     "upload"
   ],
-  "author": {
-    "name": "goker.cebeci"
-  },
   "license": "MIT",
   "homepage": "http://gokercebeci.com/dev/droparea",
   "autoupdate": {
@@ -31,5 +28,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/gokercebeci/droparea.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "goker.cebeci"
+    }
+  ]
 }

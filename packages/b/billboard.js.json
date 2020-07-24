@@ -1,9 +1,6 @@
 {
   "name": "billboard.js",
   "description": "Re-usable easy interface JavaScript chart library, based on D3 v4+",
-  "author": {
-    "name": "NAVER Corp."
-  },
   "filename": "billboard.min.js",
   "homepage": "https://naver.github.io/billboard.js/",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "NAVER Corp."
+    }
+  ]
 }

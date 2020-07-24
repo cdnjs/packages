@@ -11,9 +11,6 @@
     "HTML5",
     "Canvas"
   ],
-  "author": {
-    "name": "James Simpson"
-  },
   "license": "MIT",
   "homepage": "http://goldfirestudios.com/blog/108/CanvasInput-HTML5-Canvas-Text-Input",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "James Simpson"
+    }
+  ]
 }

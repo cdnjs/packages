@@ -7,10 +7,6 @@
     "shortcut",
     "shortkey"
   ],
-  "author": {
-    "name": "iFgR",
-    "email": "ifgr.fagner@gmail.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/iFgR/vue-shortkey/blob/master/README.md",
   "repository": {
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "iFgR",
+      "email": "ifgr.fagner@gmail.com"
+    }
+  ]
 }

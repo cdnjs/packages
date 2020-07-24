@@ -35,7 +35,9 @@
       }
     ]
   },
-  "author": {
-    "name": "Mauricio Santos <mauriciosantoss@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Mauricio Santos <mauriciosantoss@gmail.com>"
+    }
+  ]
 }

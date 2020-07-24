@@ -11,9 +11,6 @@
     "grid",
     "react-component"
   ],
-  "author": {
-    "name": "adazzle"
-  },
   "license": "MIT",
   "homepage": "https://adazzle.github.io/react-data-grid/",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "adazzle"
+    }
+  ]
 }

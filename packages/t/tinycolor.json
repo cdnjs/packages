@@ -6,10 +6,6 @@
   "keywords": [
     "color"
   ],
-  "author": {
-    "name": "Brian Grinstead",
-    "url": "http://www.briangrinstead.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/bgrins/TinyColor"
@@ -26,5 +22,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Brian Grinstead",
+      "url": "http://www.briangrinstead.com"
+    }
+  ]
 }

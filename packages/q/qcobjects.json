@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Jean Machuca <correojean@gmail.com>"
-  },
   "bugs": {
     "url": "https://github.com/QuickGroup/QCObjects/issues"
   },
@@ -62,5 +59,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jean Machuca <correojean@gmail.com>"
+    }
+  ]
 }

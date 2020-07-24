@@ -1,9 +1,6 @@
 {
   "name": "select-or-die",
   "filename": "selectordie.min.js",
-  "author": {
-    "name": "Per Vestman"
-  },
   "license": "MIT",
   "description": "Yet another jQuery plugin to style/replace select elements.",
   "keywords": [
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Per Vestman"
+    }
+  ]
 }

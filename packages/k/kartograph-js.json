@@ -1,9 +1,6 @@
 {
   "name": "kartograph-js",
   "description": "JavaScript library for SVG mapping",
-  "author": {
-    "name": "Gregor Aisch"
-  },
   "filename": "kartograph.min.js",
   "homepage": "http://kartograph.org",
   "keywords": [
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Gregor Aisch"
+    }
+  ]
 }

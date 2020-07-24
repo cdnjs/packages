@@ -2,9 +2,6 @@
   "name": "rxdb",
   "filename": "rxdb.browserify.min.js",
   "description": "A realtime Database for the Web",
-  "author": {
-    "name": "pubkey"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/pubkey/rxdb"
@@ -39,5 +36,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "pubkey"
+    }
+  ]
 }

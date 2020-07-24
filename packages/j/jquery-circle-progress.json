@@ -1,9 +1,6 @@
 {
   "name": "jquery-circle-progress",
   "filename": "circle-progress.min.js",
-  "author": {
-    "name": "Rostyslav Bryzgunov <kottenator@gmail.com>"
-  },
   "description": "Plugin to draw animated circular progress bars",
   "license": "MIT",
   "keywords": [
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rostyslav Bryzgunov <kottenator@gmail.com>"
+    }
+  ]
 }

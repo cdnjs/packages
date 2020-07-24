@@ -10,10 +10,6 @@
     "usa",
     "choropleth"
   ],
-  "author": {
-    "name": "Kirill Lebedev",
-    "email": "echo.bjornd@gmail.com"
-  },
   "licenses": [
     {
       "type": "AGPL",
@@ -40,5 +36,11 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/bjornd/jvectormap.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Kirill Lebedev",
+      "email": "echo.bjornd@gmail.com"
+    }
+  ]
 }

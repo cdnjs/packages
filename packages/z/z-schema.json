@@ -12,9 +12,6 @@
     "url": "git+https://github.com/zaggino/z-schema.git"
   },
   "filename": "ZSchema-browser-min.js",
-  "author": {
-    "name": "Martin Zagora <zaggino@gmail.com>"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "z-schema",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Martin Zagora <zaggino@gmail.com>"
+    }
+  ]
 }

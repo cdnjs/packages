@@ -11,10 +11,6 @@
     "type": "git",
     "url": "https://github.com/kim-company/videojs-chromecast.git"
   },
-  "author": {
-    "name": "KIM Keep In Mind GmbH, srl",
-    "email": "info@keepinmind.info"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "KIM Keep In Mind GmbH, srl",
+      "email": "info@keepinmind.info"
+    }
+  ]
 }

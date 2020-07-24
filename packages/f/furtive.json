@@ -27,7 +27,9 @@
     "type": "git",
     "url": "https://github.com/johnotander/furtive"
   },
-  "author": {
-    "name": "John Otander <johnotander@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "John Otander <johnotander@gmail.com>"
+    }
+  ]
 }

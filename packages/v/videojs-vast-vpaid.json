@@ -18,9 +18,6 @@
     "iab"
   ],
   "license": "MIT",
-  "author": {
-    "name": "Carlos Serrano <carlos.pastor@mailonline.co.uk>"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "videojs-vast-vpaid",
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Carlos Serrano <carlos.pastor@mailonline.co.uk>"
+    }
+  ]
 }

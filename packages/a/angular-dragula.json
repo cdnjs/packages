@@ -12,9 +12,6 @@
     "drag",
     "drop"
   ],
-  "author": {
-    "name": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)"
+    }
+  ]
 }

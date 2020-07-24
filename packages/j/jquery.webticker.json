@@ -23,11 +23,6 @@
     "type": "git",
     "url": "git+https://github.com/mazedigital/Web-Ticker.git"
   },
-  "author": {
-    "name": "Jonathan Mifsud",
-    "email": "jon@maze.digital",
-    "url": "https://maze.digital"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mazedigital/Web-Ticker.git",
@@ -46,6 +41,13 @@
     {
       "type": "Commercial License",
       "url": "https://maze.digital/webticker/license/#commercial"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Jonathan Mifsud",
+      "email": "jon@maze.digital",
+      "url": "https://maze.digital"
     }
   ]
 }

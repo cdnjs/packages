@@ -2,10 +2,6 @@
   "name": "emoji-picker",
   "filename": "js/emoji-picker.min.js",
   "description": "Add a slick emoji selector to input fields and textareas on your website.",
-  "author": {
-    "name": "Jason Pang @ OneSignal",
-    "url": "https://onesignal.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/OneSignal/emoji-picker"
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Pang @ OneSignal",
+      "url": "https://onesignal.com"
+    }
+  ]
 }

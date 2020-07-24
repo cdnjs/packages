@@ -8,10 +8,6 @@
     "d3"
   ],
   "homepage": "http://square.github.com/cubism/",
-  "author": {
-    "name": "Mike Bostock",
-    "url": "http://bost.ocks.org/mike"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/square/cubism.git"
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mike Bostock",
+      "url": "http://bost.ocks.org/mike"
+    }
+  ]
 }

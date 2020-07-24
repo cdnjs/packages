@@ -25,7 +25,9 @@
       }
     ]
   },
-  "author": {
-    "name": "Piwik.org <hello@piwik.org>"
-  }
+  "authors": [
+    {
+      "name": "Piwik.org <hello@piwik.org>"
+    }
+  ]
 }

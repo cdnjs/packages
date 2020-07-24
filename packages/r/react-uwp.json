@@ -18,9 +18,6 @@
     "type": "git",
     "url": "git://github.com/myxvisual/react-uwp.git"
   },
-  "author": {
-    "name": "myxvisual"
-  },
   "license": "MIT",
   "homepage": "https://www.react-uwp.com",
   "autoupdate": {
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "myxvisual"
+    }
+  ]
 }

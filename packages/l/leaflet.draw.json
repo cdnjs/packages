@@ -15,9 +15,6 @@
     "url": "https://github.com/Leaflet/Leaflet.draw"
   },
   "license": "MIT",
-  "author": {
-    "name": "Jacob Toye"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "leaflet-draw",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jacob Toye"
+    }
+  ]
 }

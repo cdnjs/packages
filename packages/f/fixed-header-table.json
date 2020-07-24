@@ -11,9 +11,11 @@
     "fixed",
     "table"
   ],
-  "author": {
-    "name": "Mark Malek"
-  },
   "homepage": "http://www.fixedheadertable.com/",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mark Malek"
+    }
+  ]
 }

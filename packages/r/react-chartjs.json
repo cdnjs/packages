@@ -14,9 +14,6 @@
     "graph",
     "chartjs"
   ],
-  "author": {
-    "name": "Joe Hudson"
-  },
   "license": "MIT",
   "homepage": "http://jhudson8.github.io/react-chartjs/",
   "autoupdate": {
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Joe Hudson"
+    }
+  ]
 }

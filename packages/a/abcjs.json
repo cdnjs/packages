@@ -6,14 +6,16 @@
     "type": "git",
     "url": "git+https://github.com/paulrosen/abcjs.git"
   },
-  "author": {
-    "name": "Paul Rosen"
-  },
   "license": "MIT",
   "keywords": [
     "javascript",
     "abc",
     "music"
   ],
-  "homepage": "https://abcjs.net"
+  "homepage": "https://abcjs.net",
+  "authors": [
+    {
+      "name": "Paul Rosen"
+    }
+  ]
 }

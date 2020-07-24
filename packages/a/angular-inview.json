@@ -6,11 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/thenikso/angular-inview.git"
   },
-  "author": {
-    "name": "Nicola Peduzzi",
-    "email": "thenikso@gmail.com",
-    "url": "http://nikso.net"
-  },
   "license": "MIT",
   "keywords": [
     "AngularJS",
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nicola Peduzzi",
+      "email": "thenikso@gmail.com",
+      "url": "http://nikso.net"
+    }
+  ]
 }

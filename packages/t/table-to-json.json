@@ -2,9 +2,6 @@
   "name": "table-to-json",
   "description": "jQuery plugin that reads an HTML table and returns a javascript object representing the values and columns of the table",
   "keywords": [],
-  "author": {
-    "name": "Daniel White"
-  },
   "license": "MIT",
   "homepage": "https://github.com/lightswitch05/table-to-json",
   "repository": {
@@ -23,5 +20,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Daniel White"
+    }
+  ]
 }

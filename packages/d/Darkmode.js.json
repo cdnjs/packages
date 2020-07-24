@@ -19,9 +19,6 @@
     "vanillajs",
     "widget"
   ],
-  "author": {
-    "name": "Sandoche Adittane"
-  },
   "license": "MIT",
   "homepage": "https://github.com/sandoche/darkmode",
   "autoupdate": {
@@ -35,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sandoche Adittane"
+    }
+  ]
 }

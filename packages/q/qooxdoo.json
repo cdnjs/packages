@@ -1,9 +1,6 @@
 {
   "name": "qooxdoo",
   "filename": "q.min.js",
-  "author": {
-    "name": "Martin Wittemann <martin.wittemann@1und1.de>"
-  },
   "homepage": "http://qooxdoo.org",
   "description": "Universal JavaScript Framework",
   "keywords": [
@@ -18,5 +15,10 @@
   "licenses": [
     "LGPL-2.1",
     "EPL-1.0"
+  ],
+  "authors": [
+    {
+      "name": "Martin Wittemann <martin.wittemann@1und1.de>"
+    }
   ]
 }

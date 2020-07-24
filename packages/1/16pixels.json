@@ -23,7 +23,9 @@
     "url": "https://github.com/englishextra/16pixels.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "englishextra"
-  }
+  "authors": [
+    {
+      "name": "englishextra"
+    }
+  ]
 }

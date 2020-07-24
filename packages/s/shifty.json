@@ -2,9 +2,6 @@
   "name": "shifty",
   "description": "A teeny tiny tweening engine in JavaScript.",
   "keywords": [],
-  "author": {
-    "name": "Jeremy Kahn <jeremyckahn@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "http://jeremyckahn.github.io/shifty/doc/",
   "repository": {
@@ -23,5 +20,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeremy Kahn <jeremyckahn@gmail.com>"
+    }
+  ]
 }

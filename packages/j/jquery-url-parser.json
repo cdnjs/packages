@@ -11,7 +11,9 @@
     "url": "https://github.com/allmarkedup/purl"
   },
   "license": "MIT",
-  "author": {
-    "name": "allmarkedup"
-  }
+  "authors": [
+    {
+      "name": "allmarkedup"
+    }
+  ]
 }

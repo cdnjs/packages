@@ -16,9 +16,6 @@
     "url": "https://github.com/souporserious/react-popper"
   },
   "license": "MIT",
-  "author": {
-    "name": "Travis Arnold <ftntravis@gmail.com> (http://travisrayarnold.com)"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "react-popper",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Travis Arnold <ftntravis@gmail.com> (http://travisrayarnold.com)"
+    }
+  ]
 }

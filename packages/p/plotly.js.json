@@ -7,9 +7,6 @@
     "type": "git",
     "url": "https://github.com/plotly/plotly.js.git"
   },
-  "author": {
-    "name": "Plotly, Inc."
-  },
   "homepage": "https://plot.ly/javascript/",
   "keywords": [
     "graphing",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Plotly, Inc."
+    }
+  ]
 }

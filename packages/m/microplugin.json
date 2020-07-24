@@ -9,9 +9,6 @@
     "dependencies"
   ],
   "description": "A lightweight plugin / dependency system for javascript libraries.",
-  "author": {
-    "name": "Brian Reavis <brian@thirdroute.com>"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/brianreavis/microplugin.js.git"
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Brian Reavis <brian@thirdroute.com>"
+    }
+  ]
 }

@@ -10,9 +10,6 @@
     "plugin"
   ],
   "homepage": "http://bootstrapformhelpers.com",
-  "author": {
-    "name": "Vincent Lamanna"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/winmarkltd/BootstrapFormHelpers.git"
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vincent Lamanna"
+    }
+  ]
 }

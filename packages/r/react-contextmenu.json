@@ -10,9 +10,6 @@
     "contextmenu",
     "rightclick"
   ],
-  "author": {
-    "name": "Vivek Kumar Bansal <contact@vkbansal.me>"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vivek Kumar Bansal <contact@vkbansal.me>"
+    }
+  ]
 }

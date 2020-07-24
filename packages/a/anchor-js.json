@@ -1,9 +1,6 @@
 {
   "name": "anchor-js",
   "filename": "anchor.min.js",
-  "author": {
-    "name": "bryanbraun (https://github.com/bryanbraun)"
-  },
   "description": "A Javscript utility for adding deep anchor links to online docs.",
   "homepage": "https://bryanbraun.github.io/anchorjs/",
   "keywords": [
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "bryanbraun (https://github.com/bryanbraun)"
+    }
+  ]
 }

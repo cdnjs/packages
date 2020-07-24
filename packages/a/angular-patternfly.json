@@ -1,8 +1,5 @@
 {
   "name": "angular-patternfly",
-  "author": {
-    "name": "Red Hat"
-  },
   "license": "Apache-2.0",
   "filename": "angular-patternfly.min.js",
   "keywords": [
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Red Hat"
+    }
+  ]
 }

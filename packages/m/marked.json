@@ -2,9 +2,6 @@
   "name": "marked",
   "filename": "marked.min.js",
   "description": "A markdown parser built for speed",
-  "author": {
-    "name": "Christopher Jeffrey"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/markedjs/marked.git"
@@ -26,5 +23,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Christopher Jeffrey"
+    }
+  ]
 }

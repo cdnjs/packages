@@ -24,7 +24,9 @@
     "type": "git",
     "url": "https://github.com/ded/domready"
   },
-  "author": {
-    "name": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)"
-  }
+  "authors": [
+    {
+      "name": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)"
+    }
+  ]
 }

@@ -14,9 +14,6 @@
     "url": "git://github.com/ryanve/response.js"
   },
   "license": "MIT",
-  "author": {
-    "name": "Ryan Van Etten"
-  },
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/ryanve/response.js.git",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ryan Van Etten"
+    }
+  ]
 }

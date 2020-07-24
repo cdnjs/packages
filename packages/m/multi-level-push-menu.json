@@ -1,9 +1,6 @@
 {
   "name": "multi-level-push-menu",
   "filename": "jquery.multilevelpushmenu.min.js",
-  "author": {
-    "name": "Momčilo Džunić <it@make.rs>"
-  },
   "license": "MIT",
   "homepage": "https://multi-level-push-menu.make.rs",
   "description": "Cross-browser compatible jQuery plug-in allowing endless nesting of navigation elements.",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Momčilo Džunić <it@make.rs>"
+    }
+  ]
 }

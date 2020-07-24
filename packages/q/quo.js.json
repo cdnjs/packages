@@ -12,10 +12,12 @@
     "url": "https://github.com/soyjavi/QuoJS"
   },
   "license": "MIT",
-  "author": {
-    "name": "Javi Jimenez Villar",
-    "email": "javi.jimenez.villar@gmail.com",
-    "twitter": "@soyjavi",
-    "url": "http://soyjavi.com"
-  }
+  "authors": [
+    {
+      "name": "Javi Jimenez Villar",
+      "email": "javi.jimenez.villar@gmail.com",
+      "twitter": "@soyjavi",
+      "url": "http://soyjavi.com"
+    }
+  ]
 }

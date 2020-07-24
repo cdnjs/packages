@@ -1,10 +1,6 @@
 {
   "name": "velocity",
   "homepage": "http://velocityjs.org",
-  "author": {
-    "name": "Julian Shapiro",
-    "url": "http://julian.com/"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/julianshapiro/velocity.git",
@@ -38,5 +34,11 @@
     "type": "git",
     "url": "https://github.com/julianshapiro/velocity.git"
   },
-  "namespace": "$.fn.velocity"
+  "namespace": "$.fn.velocity",
+  "authors": [
+    {
+      "name": "Julian Shapiro",
+      "url": "http://julian.com/"
+    }
+  ]
 }

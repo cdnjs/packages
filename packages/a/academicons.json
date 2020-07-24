@@ -31,9 +31,11 @@
     "OFL-1.1",
     "MIT"
   ],
-  "author": {
-    "name": "James Walsh",
-    "email": "james.walsh@northwestern.edu",
-    "url": "http://jpswalsh.com/"
-  }
+  "authors": [
+    {
+      "name": "James Walsh",
+      "email": "james.walsh@northwestern.edu",
+      "url": "http://jpswalsh.com/"
+    }
+  ]
 }

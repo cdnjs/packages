@@ -48,7 +48,9 @@
       }
     ]
   },
-  "author": {
-    "name": "Denis Pushkarev <zloirock@zloirock.ru> (http://zloirock.ru/)"
-  }
+  "authors": [
+    {
+      "name": "Denis Pushkarev <zloirock@zloirock.ru> (http://zloirock.ru/)"
+    }
+  ]
 }

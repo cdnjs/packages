@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git://github.com/logentries/le_js.git"
   },
-  "author": {
-    "name": "Logentries <hello@logentries.com>"
-  },
   "license": "MIT",
   "homepage": "https://logentries.com",
   "keywords": [
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Logentries <hello@logentries.com>"
+    }
+  ]
 }

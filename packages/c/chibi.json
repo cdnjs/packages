@@ -1,9 +1,6 @@
 {
   "name": "chibi",
   "filename": "chibi-min.js",
-  "author": {
-    "name": "Kyle Barrow"
-  },
   "description": "A tiny JavaScript micro-library",
   "repository": {
     "type": "git",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kyle Barrow"
+    }
+  ]
 }

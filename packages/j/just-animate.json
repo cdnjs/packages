@@ -1,9 +1,6 @@
 {
   "name": "just-animate",
   "filename": "just-animate.min.js",
-  "author": {
-    "name": "Christopher Wallis <christopher.j.wallis@gmail.com>"
-  },
   "description": "Web Animation library",
   "keywords": [
     "webanimation",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Christopher Wallis <christopher.j.wallis@gmail.com>"
+    }
+  ]
 }

@@ -29,8 +29,10 @@
     "url": "https://github.com/mathiasbynens/jquery-placeholder"
   },
   "license": "MIT",
-  "author": {
-    "name": "Mathias Bynens",
-    "url": "https://mathiasbynens.be/"
-  }
+  "authors": [
+    {
+      "name": "Mathias Bynens",
+      "url": "https://mathiasbynens.be/"
+    }
+  ]
 }

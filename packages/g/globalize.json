@@ -25,9 +25,6 @@
     "languages",
     "locales"
   ],
-  "author": {
-    "name": "The jQuery Project"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/jquery/globalize.git"
@@ -44,5 +41,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "The jQuery Project"
+    }
+  ]
 }

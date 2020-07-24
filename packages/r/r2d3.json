@@ -2,9 +2,6 @@
   "name": "r2d3",
   "filename": "r2d3.min.js",
   "description": "Raphael Rendered, Data Driven Documents",
-  "author": {
-    "name": "Mike Hemesath"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mhemesath/r2d3.git"
@@ -24,5 +21,10 @@
   "keywords": [
     "r2d3"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mike Hemesath"
+    }
+  ]
 }

@@ -13,9 +13,6 @@
     "restrict"
   ],
   "license": "GPL-2.0",
-  "author": {
-    "name": "Kevin Sheedy"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/KevinSheedy/jquery.alphanum"
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kevin Sheedy"
+    }
+  ]
 }

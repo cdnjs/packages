@@ -1,9 +1,5 @@
 {
   "name": "jed",
-  "author": {
-    "name": "Alex Sexton",
-    "email": "alexsexton@gmail.com"
-  },
   "description": "Gettext Style i18n for Modern JavaScript Apps",
   "repository": {
     "type": "git",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alex Sexton",
+      "email": "alexsexton@gmail.com"
+    }
+  ]
 }

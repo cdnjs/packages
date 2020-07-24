@@ -28,7 +28,9 @@
     "url": "git://github.com/BeSite/jQuery.mmenu.git"
   },
   "license": "CC-BY-NC-4.0",
-  "author": {
-    "name": "Fred Heusschen <info@frebsite.nl>"
-  }
+  "authors": [
+    {
+      "name": "Fred Heusschen <info@frebsite.nl>"
+    }
+  ]
 }

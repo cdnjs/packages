@@ -13,10 +13,6 @@
     "functional",
     "utility"
   ],
-  "author": {
-    "name": "self_refactor",
-    "url": "https://github.com/selfrefactor"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "self_refactor",
+      "url": "https://github.com/selfrefactor"
+    }
+  ]
 }

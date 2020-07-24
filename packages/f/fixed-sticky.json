@@ -9,9 +9,6 @@
   "keywords": [
     "sticky"
   ],
-  "author": {
-    "name": "Zach Leatherman"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +21,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Zach Leatherman"
+    }
+  ]
 }

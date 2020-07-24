@@ -13,11 +13,6 @@
     "react",
     "reactjs"
   ],
-  "author": {
-    "name": "David Khourshid",
-    "email": "davidkpiano@gmail.com",
-    "url": "http://github.com/davidkpiano"
-  },
   "license": "MIT",
   "homepage": "https://davidkpiano.github.io/react-redux-form/",
   "filename": "ReactReduxForm.min.js",
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David Khourshid",
+      "email": "davidkpiano@gmail.com",
+      "url": "http://github.com/davidkpiano"
+    }
+  ]
 }

@@ -24,9 +24,6 @@
     "urlencode",
     "urldecode"
   ],
-  "author": {
-    "name": "polygon planet <polygon.planet.aqua@gmail.com>"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -43,5 +40,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "polygon planet <polygon.planet.aqua@gmail.com>"
+    }
+  ]
 }

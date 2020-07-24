@@ -23,7 +23,9 @@
     ]
   },
   "license": "MIT",
-  "author": {
-    "name": "Martin Tschirsich (https://github.com/mtschirs)"
-  }
+  "authors": [
+    {
+      "name": "Martin Tschirsich (https://github.com/mtschirs)"
+    }
+  ]
 }

@@ -3,9 +3,6 @@
   "filename": "vault.min.js",
   "description": "Key-Value Storage of true data types for the browser and node",
   "homepage": "http://jimmybyrum.github.io/vault.js/",
-  "author": {
-    "name": "Jimmy Byrum (https://github.com/jimmybyrum)"
-  },
   "license": "MIT",
   "keywords": [
     "vault",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jimmy Byrum (https://github.com/jimmybyrum)"
+    }
+  ]
 }

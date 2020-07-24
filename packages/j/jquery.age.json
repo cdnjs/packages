@@ -6,11 +6,6 @@
     "time",
     "age"
   ],
-  "author": {
-    "name": "Kevin Sylvestre",
-    "email": "kevin@ksylvest.com",
-    "url": "http://ksylvest.com/"
-  },
   "homepage": "https://ksylvest.github.com/jquery-age",
   "autoupdate": {
     "source": "git",
@@ -29,5 +24,12 @@
     "type": "git",
     "url": "git://github.com/ksylvest/jquery-age.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kevin Sylvestre",
+      "email": "kevin@ksylvest.com",
+      "url": "http://ksylvest.com/"
+    }
+  ]
 }

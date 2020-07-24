@@ -10,9 +10,6 @@
     "dom",
     "element"
   ],
-  "author": {
-    "name": "Jeremias Menichelli"
-  },
   "license": "MIT",
   "homepage": "https://github.com/jeremenichelli/hunt#readme",
   "repository": {
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeremias Menichelli"
+    }
+  ]
 }

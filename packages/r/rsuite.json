@@ -9,9 +9,6 @@
     "component",
     "react-component"
   ],
-  "author": {
-    "name": "Simon Guo <simonguo.2009@gmail.com>"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Simon Guo <simonguo.2009@gmail.com>"
+    }
+  ]
 }

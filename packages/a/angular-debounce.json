@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git://github.com/shahata/angular-debounce.git"
   },
-  "author": {
-    "name": "Shahar Talmi"
-  },
   "license": "MIT",
   "keywords": [
     "angular",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Shahar Talmi"
+    }
+  ]
 }

@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/Daniel15/babel-standalone.git"
   },
-  "author": {
-    "name": "Daniel Lo Nigro <daniel@dan.cx> (http://dan.cx/)"
-  },
   "license": "MIT",
   "keywords": [
     "babel",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Daniel Lo Nigro <daniel@dan.cx> (http://dan.cx/)"
+    }
+  ]
 }

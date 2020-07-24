@@ -29,7 +29,9 @@
       }
     ]
   },
-  "author": {
-    "name": "Savio Dimatteo <darksmo@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Savio Dimatteo <darksmo@gmail.com>"
+    }
+  ]
 }

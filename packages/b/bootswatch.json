@@ -2,9 +2,6 @@
   "name": "bootswatch",
   "filename": "cerulean/bootstrap.min.css",
   "description": "Bootswatch is a collection of themes for Bootstrap.",
-  "author": {
-    "name": "Thomas Park"
-  },
   "homepage": "http://bootswatch.com/",
   "keywords": [
     "css"
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Thomas Park"
+    }
+  ]
 }

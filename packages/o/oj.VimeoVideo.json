@@ -8,9 +8,6 @@
     "vimeo",
     "video"
   ],
-  "author": {
-    "name": "Evan Moran <evan@evanmoran.com>"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/ojjs/oj.VimeoVideo.git"
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Evan Moran <evan@evanmoran.com>"
+    }
+  ]
 }

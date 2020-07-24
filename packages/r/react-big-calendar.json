@@ -9,10 +9,6 @@
     "events",
     "full calendar"
   ],
-  "author": {
-    "name": "Jason Quense",
-    "email": "monastic.panic@gmail.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/intljusticemission/react-big-calendar#readme",
   "repository": {
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Quense",
+      "email": "monastic.panic@gmail.com"
+    }
+  ]
 }

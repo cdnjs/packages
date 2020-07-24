@@ -13,9 +13,6 @@
     "localstorage",
     "store"
   ],
-  "author": {
-    "name": "iwillwen"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "iwillwen"
+    }
+  ]
 }

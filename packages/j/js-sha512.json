@@ -19,9 +19,6 @@
     "HMAC"
   ],
   "license": "MIT",
-  "author": {
-    "name": "emn178 <emn178@gmail.com>"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "js-sha512",
@@ -39,5 +36,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "emn178 <emn178@gmail.com>"
+    }
+  ]
 }

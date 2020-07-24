@@ -10,9 +10,11 @@
     "audio",
     "WebAudio"
   ],
-  "author": {
-    "name": "tfriedel6"
-  },
   "homepage": "https://github.com/tfriedel6",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "tfriedel6"
+    }
+  ]
 }

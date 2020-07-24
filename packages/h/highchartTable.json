@@ -2,9 +2,6 @@
   "name": "highchartTable",
   "filename": "jquery.highchartTable.min.js",
   "description": "This jQuery plugin provides a simple way to convert HTML data tables to Highcharts graphs.",
-  "author": {
-    "name": "agallou"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:highchartTable/jquery-highchartTable-plugin.git"
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "agallou"
+    }
+  ]
 }

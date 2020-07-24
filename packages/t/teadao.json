@@ -13,8 +13,10 @@
     "teapan",
     "teapao"
   ],
-  "author": {
-    "name": "Billgo"
-  },
-  "homepage": "https://www.teasim.com/"
+  "homepage": "https://www.teasim.com/",
+  "authors": [
+    {
+      "name": "Billgo"
+    }
+  ]
 }

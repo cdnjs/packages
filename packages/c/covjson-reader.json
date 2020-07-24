@@ -11,9 +11,6 @@
     "CoverageJSON",
     "reader"
   ],
-  "author": {
-    "name": "Maik Riechert"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "covjson-reader",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Maik Riechert"
+    }
+  ]
 }

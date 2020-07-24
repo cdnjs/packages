@@ -23,7 +23,9 @@
     "type": "git",
     "url": "https://github.com/ivpusic/angular-cookie"
   },
-  "author": {
-    "name": "ivpusic <pusic007@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "ivpusic <pusic007@gmail.com>"
+    }
+  ]
 }

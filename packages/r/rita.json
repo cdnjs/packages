@@ -1,8 +1,5 @@
 {
   "name": "rita",
-  "author": {
-    "name": "Daniel C. Howe <daniel@rednoise.org>"
-  },
   "description": "RiTa: A toolkit for natural language and computational literature",
   "homepage": "https://rednoise.org/rita",
   "repository": {
@@ -29,5 +26,10 @@
       }
     ]
   },
-  "filename": "rita.min.js"
+  "filename": "rita.min.js",
+  "authors": [
+    {
+      "name": "Daniel C. Howe <daniel@rednoise.org>"
+    }
+  ]
 }

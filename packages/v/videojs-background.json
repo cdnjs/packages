@@ -1,8 +1,5 @@
 {
   "name": "videojs-background",
-  "author": {
-    "name": "Matthew Harrison-Jones"
-  },
   "filename": "videojs-background.min.js",
   "description": "Full background video for video.js",
   "license": "MIT",
@@ -35,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Matthew Harrison-Jones"
+    }
+  ]
 }

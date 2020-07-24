@@ -20,13 +20,15 @@
       }
     ]
   },
-  "author": {
-    "name": "contact@flatlogic.com (http://flatlogic.com)"
-  },
   "keywords": [
     "bootstrap",
     "font-awesome",
     "scss",
     "less"
+  ],
+  "authors": [
+    {
+      "name": "contact@flatlogic.com (http://flatlogic.com)"
+    }
   ]
 }

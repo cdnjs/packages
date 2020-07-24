@@ -12,9 +12,6 @@
     "angular-ui",
     "$modal"
   ],
-  "author": {
-    "name": "James Kleeh"
-  },
   "license": "Apache-2.0",
   "homepage": "http://schlogen.github.io/angular-confirm/",
   "autoupdate": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "James Kleeh"
+    }
+  ]
 }

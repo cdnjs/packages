@@ -4,10 +4,6 @@
   "keywords": [
     "emoji"
   ],
-  "author": {
-    "name": "Cal Henderson",
-    "email": "cal@iamcal.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/iamcal/emoji-data",
   "repository": {
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Cal Henderson",
+      "email": "cal@iamcal.com"
+    }
+  ]
 }

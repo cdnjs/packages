@@ -18,11 +18,6 @@
     "url": "https://github.com/orthes/medium-editor-insert-plugin"
   },
   "license": "MIT",
-  "author": {
-    "name": "Pavel Linkesch",
-    "email": "pavel.linkesch@gmail.com",
-    "url": "http://linkesch.com"
-  },
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/orthes/medium-editor-insert-plugin.git",
@@ -34,5 +29,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Pavel Linkesch",
+      "email": "pavel.linkesch@gmail.com",
+      "url": "http://linkesch.com"
+    }
+  ]
 }

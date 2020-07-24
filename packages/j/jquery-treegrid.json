@@ -12,7 +12,9 @@
     "url": "https://github.com/maxazan/jquery-treegrid"
   },
   "license": "MIT",
-  "author": {
-    "name": "Maksym Pomazan"
-  }
+  "authors": [
+    {
+      "name": "Maksym Pomazan"
+    }
+  ]
 }

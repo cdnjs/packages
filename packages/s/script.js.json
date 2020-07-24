@@ -17,9 +17,6 @@
     "type": "git",
     "url": "https://github.com/ded/script.js.git"
   },
-  "author": {
-    "name": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)"
+    }
+  ]
 }

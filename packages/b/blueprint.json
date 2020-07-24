@@ -8,9 +8,6 @@
     "class",
     "object"
   ],
-  "author": {
-    "name": "Roi Avinoam <avinoamr@gmail.com>"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Roi Avinoam <avinoamr@gmail.com>"
+    }
+  ]
 }

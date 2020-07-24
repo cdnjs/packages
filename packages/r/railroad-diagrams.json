@@ -8,9 +8,6 @@
     "grammar",
     "svg"
   ],
-  "author": {
-    "name": "Tab Atkins Jr."
-  },
   "license": "CC0-1.0",
   "homepage": "https://github.com/tabatkins/railroad-diagrams",
   "repository": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tab Atkins Jr."
+    }
+  ]
 }

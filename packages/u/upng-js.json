@@ -2,9 +2,6 @@
   "name": "upng-js",
   "filename": "UPNG.min.js",
   "description": "Small, fast and advanced PNG / APNG encoder and decoder",
-  "author": {
-    "name": "photopea (https://github.com/photopea)"
-  },
   "license": "MIT",
   "homepage": "http://upng.photopea.com/",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "photopea (https://github.com/photopea)"
+    }
+  ]
 }

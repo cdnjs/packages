@@ -3,9 +3,6 @@
   "filename": "EQCSS.min.js",
   "description": "EQCSS is a polyfill that introduces Element Queries, Scoped CSS, selectors for parent, next, and previous elements to all browsers IE8 and up",
   "homepage": "http://elementqueries.com",
-  "author": {
-    "name": "Tommy Hodgins & Maxime Euzière"
-  },
   "license": "MIT",
   "keywords": [
     "EQCSS",
@@ -44,5 +41,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tommy Hodgins & Maxime Euzière"
+    }
+  ]
 }

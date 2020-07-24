@@ -3,9 +3,6 @@
   "name": "shell.js",
   "filename": "js/shell.min.js",
   "description": "A JavaScript and CSS library to create terminals",
-  "author": {
-    "name": "Davide Caruso  <davide.caruso93@gmail.com>"
-  },
   "license": "MIT",
   "keywords": [
     "shell",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Davide Caruso  <davide.caruso93@gmail.com>"
+    }
+  ]
 }

@@ -24,7 +24,9 @@
     "url": "https://github.com/wenzhixin/bootstrap-table"
   },
   "license": "MIT",
-  "author": {
-    "name": "wenzhixin <wenzhixin2010@gmail.com> (http://wenzhixin.net.cn/)"
-  }
+  "authors": [
+    {
+      "name": "wenzhixin <wenzhixin2010@gmail.com> (http://wenzhixin.net.cn/)"
+    }
+  ]
 }

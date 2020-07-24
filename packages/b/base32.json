@@ -2,9 +2,6 @@
   "name": "base32",
   "description": "Base32 encoding and decoding",
   "keywords": [],
-  "author": {
-    "name": "Isaac Wolkerstorfer <agnoster@gmail.com> (http://agnoster.net/)"
-  },
   "license": "MIT",
   "homepage": "https://github.com/agnoster/base32-js",
   "repository": {
@@ -23,5 +20,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Isaac Wolkerstorfer <agnoster@gmail.com> (http://agnoster.net/)"
+    }
+  ]
 }

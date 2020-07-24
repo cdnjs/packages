@@ -13,9 +13,6 @@
     "facebook",
     "snippet"
   ],
-  "author": {
-    "name": "Mark Serbol <markserbol@outlook.com>"
-  },
   "license": "MIT",
   "homepage": "https://markserbol.com/urlive/",
   "autoupdate": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mark Serbol <markserbol@outlook.com>"
+    }
+  ]
 }

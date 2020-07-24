@@ -17,7 +17,9 @@
     "type": "git",
     "url": "https://github.com/angular-ui/angular-ui-OLDREPO"
   },
-  "author": {
-    "name": "https://github.com/angular-ui/angular-ui/graphs/contributors"
-  }
+  "authors": [
+    {
+      "name": "https://github.com/angular-ui/angular-ui/graphs/contributors"
+    }
+  ]
 }

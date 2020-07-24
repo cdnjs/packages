@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "João Ribeiro <jonnybgod@gmail.com> (http://github.com/JonnyBGod)"
-  },
   "description": "Vendor-agnostic web analytics for Angular2 applications",
   "homepage": "https://angulartics.github.io/angulartics2/",
   "keywords": [
@@ -42,5 +39,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "João Ribeiro <jonnybgod@gmail.com> (http://github.com/JonnyBGod)"
+    }
+  ]
 }

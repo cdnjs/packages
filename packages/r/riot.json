@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git://github.com/riot/riot"
   },
-  "author": {
-    "name": "Muut, Inc. and other contributors"
-  },
   "license": "MIT",
   "keywords": [
     "custom tags",
@@ -50,5 +47,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Muut, Inc. and other contributors"
+    }
+  ]
 }

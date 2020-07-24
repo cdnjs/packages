@@ -14,10 +14,6 @@
     "web",
     "development"
   ],
-  "author": {
-    "name": "Fengyuan Chen",
-    "url": "https://github.com/fengyuanchen"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/fengyuanchen/cropper.git"
@@ -37,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Fengyuan Chen",
+      "url": "https://github.com/fengyuanchen"
+    }
+  ]
 }

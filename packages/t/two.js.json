@@ -31,8 +31,10 @@
     "url": "https://github.com/jonobr1/two.js.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "jonobr1",
-    "url": "http://jonobr1.com/"
-  }
+  "authors": [
+    {
+      "name": "jonobr1",
+      "url": "http://jonobr1.com/"
+    }
+  ]
 }

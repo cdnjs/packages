@@ -7,9 +7,6 @@
     "type": "git",
     "url": "git://github.com/ifandelse/machina.js.git"
   },
-  "author": {
-    "name": "Jim Cowart (http://freshbrewedcode.com/jimcowart)"
-  },
   "keywords": [
     "state machine",
     "finite state machine",
@@ -35,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jim Cowart (http://freshbrewedcode.com/jimcowart)"
+    }
+  ]
 }

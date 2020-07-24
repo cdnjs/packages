@@ -7,12 +7,14 @@
     "mustache",
     "template"
   ],
-  "author": {
-    "name": "Twitter Inc."
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/twitter/hogan.js.git"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Twitter Inc."
+    }
+  ]
 }

@@ -14,9 +14,6 @@
     "ui",
     "router"
   ],
-  "author": {
-    "name": "Mark Lagendijk <mark@lagendijk.info>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mark Lagendijk <mark@lagendijk.info>"
+    }
+  ]
 }

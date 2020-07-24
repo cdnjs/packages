@@ -16,9 +16,6 @@
     "lokijs",
     "in-memory"
   ],
-  "author": {
-    "name": "Joe Minichino <joe.minichino@gmail.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Joe Minichino <joe.minichino@gmail.com>"
+    }
+  ]
 }

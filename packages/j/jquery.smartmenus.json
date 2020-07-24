@@ -28,7 +28,9 @@
     "type": "git",
     "url": "https://github.com/vadikom/smartmenus"
   },
-  "author": {
-    "name": "Vasil Dinkov <vasko.dinkov@gmail.com>"
-  }
+  "authors": [
+    {
+      "name": "Vasil Dinkov <vasko.dinkov@gmail.com>"
+    }
+  ]
 }

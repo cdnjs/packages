@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Simple Icons Collaborators"
-  },
   "description": "SVG icons for popular brands https://simpleicons.org",
   "filename": "simpleicons.svg",
   "homepage": "https://simpleicons.org",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Simple Icons Collaborators"
+    }
+  ]
 }

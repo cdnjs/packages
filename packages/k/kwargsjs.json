@@ -15,9 +15,6 @@
     "helpers",
     "utility"
   ],
-  "author": {
-    "name": "Serkan Yersen <serkanyersen@gmail.com> (http://serkan.io/)"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Serkan Yersen <serkanyersen@gmail.com> (http://serkan.io/)"
+    }
+  ]
 }

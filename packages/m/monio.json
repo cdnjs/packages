@@ -9,9 +9,6 @@
     "io",
     "promise"
   ],
-  "author": {
-    "name": "Kyle Simpson <getify@gmail.com>"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/getify/monio.git"
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kyle Simpson <getify@gmail.com>"
+    }
+  ]
 }

@@ -27,7 +27,9 @@
     "MIT",
     "GPL-2.0"
   ],
-  "author": {
-    "name": "Brice Burgess"
-  }
+  "authors": [
+    {
+      "name": "Brice Burgess"
+    }
+  ]
 }

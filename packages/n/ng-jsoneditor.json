@@ -24,7 +24,9 @@
     ]
   },
   "license": "Artistic-2.0",
-  "author": {
-    "name": "angular-tools <dev@minutephp.com>"
-  }
+  "authors": [
+    {
+      "name": "angular-tools <dev@minutephp.com>"
+    }
+  ]
 }

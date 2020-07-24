@@ -2,9 +2,6 @@
   "name": "LoadGo",
   "filename": "loadgo.min.js",
   "description": "LoadGo is a JQuery plugin for using your logo as a progress bar",
-  "author": {
-    "name": "Fran Verona <franverona@gmail.com>"
-  },
   "homepage": "http://franverona.com/loadgo",
   "keywords": [
     "jquery",
@@ -30,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Fran Verona <franverona@gmail.com>"
+    }
+  ]
 }

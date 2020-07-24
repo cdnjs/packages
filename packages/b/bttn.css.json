@@ -14,9 +14,6 @@
     "Transition",
     "Animation"
   ],
-  "author": {
-    "name": "Ganapati V S <vsg.inbox@gmail.com>"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ganapati V S <vsg.inbox@gmail.com>"
+    }
+  ]
 }

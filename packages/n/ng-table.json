@@ -1,8 +1,5 @@
 {
   "name": "ng-table",
-  "author": {
-    "name": "Vitalii Savchuk <esvit666@gmail.com>"
-  },
   "license": "BSD",
   "filename": "ng-table.min.js",
   "homepage": "http://ng-table.com/",
@@ -27,5 +24,10 @@
       }
     ]
   },
-  "description": "Simple table with sorting and filtering on AngularJS"
+  "description": "Simple table with sorting and filtering on AngularJS",
+  "authors": [
+    {
+      "name": "Vitalii Savchuk <esvit666@gmail.com>"
+    }
+  ]
 }

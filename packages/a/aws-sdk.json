@@ -57,8 +57,10 @@
     "url": "git://github.com/aws/aws-sdk-js.git"
   },
   "license": "Apache-2.0",
-  "author": {
-    "name": "Amazon Web Services",
-    "url": "http://aws.amazon.com/"
-  }
+  "authors": [
+    {
+      "name": "Amazon Web Services",
+      "url": "http://aws.amazon.com/"
+    }
+  ]
 }

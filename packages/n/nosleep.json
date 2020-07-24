@@ -6,9 +6,6 @@
     "type": "git",
     "url": "https://github.com/richtr/NoSleep.js"
   },
-  "author": {
-    "name": "Rich Tibbett"
-  },
   "license": "MIT",
   "keywords": [
     "nosleep",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rich Tibbett"
+    }
+  ]
 }

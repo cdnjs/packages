@@ -11,9 +11,6 @@
     "browser",
     "database"
   ],
-  "author": {
-    "name": "David Fahlander"
-  },
   "license": "Apache-2.0",
   "homepage": "http://www.dexie.org",
   "autoupdate": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David Fahlander"
+    }
+  ]
 }

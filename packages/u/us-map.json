@@ -13,9 +13,6 @@
     "url": "https://github.com/NewSignature/us-map.git"
   },
   "license": "BSD-2-Clause",
-  "author": {
-    "name": "Seamus Leahy"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/NewSignature/us-map.git",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Seamus Leahy"
+    }
+  ]
 }

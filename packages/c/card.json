@@ -11,9 +11,6 @@
     "url": "https://github.com/jessepollak/card"
   },
   "license": "MIT",
-  "author": {
-    "name": "Jesse Pollak <jpollak92@gmail.com>"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "card",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jesse Pollak <jpollak92@gmail.com>"
+    }
+  ]
 }

@@ -17,9 +17,6 @@
     "url": "git://github.com/tameraydin/ng-inline-edit.git"
   },
   "homepage": "http://tamerayd.in/ng-inline-edit",
-  "author": {
-    "name": "Tamer Aydin (http://tamerayd.in)"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/tameraydin/ng-inline-edit.git",
@@ -32,5 +29,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tamer Aydin (http://tamerayd.in)"
+    }
+  ]
 }

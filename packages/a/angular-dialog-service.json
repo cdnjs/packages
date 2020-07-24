@@ -25,9 +25,11 @@
     "type": "git",
     "url": "https://github.com/m-e-conroy/angular-dialog-service"
   },
-  "author": {
-    "name": "Michael Conroy",
-    "email": "michael.e.conroy@gmail.com",
-    "url": "http://michaeleconroy.blogspot.com/"
-  }
+  "authors": [
+    {
+      "name": "Michael Conroy",
+      "email": "michael.e.conroy@gmail.com",
+      "url": "http://michaeleconroy.blogspot.com/"
+    }
+  ]
 }

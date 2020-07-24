@@ -12,9 +12,6 @@
     "url": "https://github.com/ckeditor/ckeditor-dev.git"
   },
   "license": "MPL-1.1",
-  "author": {
-    "name": "CKSource (http://cksource.com/)"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "ckeditor4",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "CKSource (http://cksource.com/)"
+    }
+  ]
 }

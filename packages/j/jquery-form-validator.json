@@ -8,11 +8,6 @@
     "validation",
     "validator"
   ],
-  "author": {
-    "name": "Victor Jonsson",
-    "url": "http://victorjonsson.se",
-    "email": "kontakt@victorjonsson.se"
-  },
   "homepage": "http://formvalidator.net",
   "repository": {
     "type": "git",
@@ -32,5 +27,12 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Victor Jonsson",
+      "url": "http://victorjonsson.se",
+      "email": "kontakt@victorjonsson.se"
+    }
+  ]
 }

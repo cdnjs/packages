@@ -1,9 +1,6 @@
 {
   "name": "unslider",
   "homepage": "http://unslider.com",
-  "author": {
-    "name": "Visual Idiot <iam@visualidiot.com>"
-  },
   "description": "The simplest little slider.",
   "filename": "js/unslider-min.js",
   "keywords": [
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Visual Idiot <iam@visualidiot.com>"
+    }
+  ]
 }

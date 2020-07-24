@@ -12,9 +12,6 @@
     "rest",
     "client-side"
   ],
-  "author": {
-    "name": "Angular Core Team <angular-core+npm@google.com>"
-  },
   "license": "MIT",
   "homepage": "http://angularjs.org",
   "filename": "angular-resource.min.js",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Angular Core Team <angular-core+npm@google.com>"
+    }
+  ]
 }

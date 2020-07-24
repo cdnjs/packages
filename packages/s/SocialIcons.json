@@ -2,10 +2,6 @@
   "name": "SocialIcons",
   "filename": "soc.min.js",
   "description": "An easier way to create social icons and buttons. Retina ready. No Images.",
-  "author": {
-    "name": "Ivan Sugerman",
-    "url": "https://ivansugerman.com"
-  },
   "keywords": [
     "social",
     "icons",
@@ -38,5 +34,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ivan Sugerman",
+      "url": "https://ivansugerman.com"
+    }
+  ]
 }

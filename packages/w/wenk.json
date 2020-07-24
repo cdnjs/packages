@@ -9,9 +9,6 @@
     "lightweight",
     "hint"
   ],
-  "author": {
-    "name": "Tiaan du Plessis @mightyCrow"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tiaan du Plessis @mightyCrow"
+    }
+  ]
 }

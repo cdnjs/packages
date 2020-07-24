@@ -31,7 +31,9 @@
     "type": "git",
     "url": "https://github.com/vividcortex/angular-recaptcha"
   },
-  "author": {
-    "name": "VividCortex"
-  }
+  "authors": [
+    {
+      "name": "VividCortex"
+    }
+  ]
 }

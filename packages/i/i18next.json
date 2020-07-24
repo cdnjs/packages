@@ -1,9 +1,6 @@
 {
   "name": "i18next",
   "filename": "i18next.min.js",
-  "author": {
-    "name": "jamuhl"
-  },
   "description": "i18next is a full-featured i18n javascript library for translating your web application.",
   "homepage": "http://i18next.com/",
   "keywords": [
@@ -29,5 +26,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "jamuhl"
+    }
+  ]
 }

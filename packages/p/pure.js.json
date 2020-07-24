@@ -9,9 +9,6 @@
     "engine",
     "think different"
   ],
-  "author": {
-    "name": "Mic Cvilic <mic@beebole.com>"
-  },
   "repository": {
     "type": "git",
     "url": "http://github.com/pure/pure.git"
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mic Cvilic <mic@beebole.com>"
+    }
+  ]
 }

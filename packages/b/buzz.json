@@ -3,9 +3,6 @@
   "filename": "buzz.min.js",
   "description": "Buzz, a Javascript HTML5 Audio library",
   "homepage": "http://buzz.jaysalvat.com",
-  "author": {
-    "name": "Jay Salvat"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jay Salvat"
+    }
+  ]
 }

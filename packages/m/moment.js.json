@@ -14,9 +14,6 @@
     "url": "https://github.com/moment/moment"
   },
   "license": "MIT",
-  "author": {
-    "name": "Iskren Ivov Chernev <iskren.chernev@gmail.com> (https://github.com/ichernev)"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "moment",
@@ -35,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Iskren Ivov Chernev <iskren.chernev@gmail.com> (https://github.com/ichernev)"
+    }
+  ]
 }

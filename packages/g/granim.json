@@ -10,9 +10,6 @@
     "gradient",
     "animation"
   ],
-  "author": {
-    "name": "Benjamin Blonde"
-  },
   "license": "MIT",
   "homepage": "https://sarcadass.github.io/granim.js/",
   "autoupdate": {
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Benjamin Blonde"
+    }
+  ]
 }

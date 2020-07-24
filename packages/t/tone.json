@@ -1,7 +1,4 @@
 {
-  "author": {
-    "name": "Yotam Mann <yotammann@gmail.com> (http://yotammann.info/)"
-  },
   "description": "A Web Audio framework for making interactive music in the browser.",
   "filename": "Tone.js",
   "homepage": "https://tonejs.github.io/",
@@ -33,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Yotam Mann <yotammann@gmail.com> (http://yotammann.info/)"
+    }
+  ]
 }

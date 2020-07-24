@@ -1,9 +1,6 @@
 {
   "name": "stomp.js",
   "filename": "stomp.min.js",
-  "author": {
-    "name": "Jeff Mesnil <jmesnil@gmail.com>"
-  },
   "description": "STOMP for JavaScript apps (Web browser & node.js)",
   "homepage": "http://jmesnil.net/stomp-websocket/doc/",
   "license": "Apache-2.0",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeff Mesnil <jmesnil@gmail.com>"
+    }
+  ]
 }

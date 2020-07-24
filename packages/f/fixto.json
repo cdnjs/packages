@@ -9,9 +9,6 @@
   "keywords": [
     "sticky"
   ],
-  "author": {
-    "name": "Burak Barakaci <barakaci@gmail.com>"
-  },
   "license": "MIT",
   "homepage": "https://bbarakaci.github.io/fixto/",
   "autoupdate": {
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Burak Barakaci <barakaci@gmail.com>"
+    }
+  ]
 }

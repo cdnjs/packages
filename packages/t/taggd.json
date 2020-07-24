@@ -6,11 +6,6 @@
     "type": "git",
     "url": "https://github.com/timseverien/taggd.git"
   },
-  "author": {
-    "name": "Tim Severien",
-    "email": "timseverien@gmail.com",
-    "url": "https://timseverien.com"
-  },
   "licenses": [
     "MIT",
     "WTFPL"
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tim Severien",
+      "email": "timseverien@gmail.com",
+      "url": "https://timseverien.com"
+    }
+  ]
 }

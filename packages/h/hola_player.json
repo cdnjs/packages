@@ -11,9 +11,6 @@
     "videojs"
   ],
   "homepage": "http://holacdn.com/player",
-  "author": {
-    "name": "Bahaa Aidi <bahaa.aidi@gmail.com>"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/hola/hola_player.git"
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Bahaa Aidi <bahaa.aidi@gmail.com>"
+    }
+  ]
 }

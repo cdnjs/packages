@@ -29,7 +29,9 @@
       }
     ]
   },
-  "author": {
-    "name": "Microsoft"
-  }
+  "authors": [
+    {
+      "name": "Microsoft"
+    }
+  ]
 }

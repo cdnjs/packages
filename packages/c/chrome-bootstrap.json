@@ -2,9 +2,6 @@
   "name": "chrome-bootstrap",
   "filename": "chrome-bootstrap.min.css",
   "description": "Reusable Chrome settings UI",
-  "author": {
-    "name": "Roy Kolak <roy.kolak@gmail.com>"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/better-history/chrome-bootstrap.git"
@@ -26,5 +23,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Roy Kolak <roy.kolak@gmail.com>"
+    }
+  ]
 }

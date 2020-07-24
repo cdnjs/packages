@@ -2,11 +2,6 @@
   "name": "qwerty-hancock",
   "filename": "qwerty-hancock.min.js",
   "description": "An interactive HTML plugin-free keyboard for your web audio project.",
-  "author": {
-    "name": "Stuart Memo",
-    "email": "stuartmemo@gmail.com",
-    "url": "http://stuartmemo.com"
-  },
   "keywords": [
     "web audio",
     "keyboard",
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stuart Memo",
+      "email": "stuartmemo@gmail.com",
+      "url": "http://stuartmemo.com"
+    }
+  ]
 }

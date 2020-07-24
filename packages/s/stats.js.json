@@ -24,7 +24,9 @@
     "url": "https://github.com/mrdoob/stats.js/"
   },
   "license": "MIT",
-  "author": {
-    "name": "Mr.doob <info@mrdoob.com>"
-  }
+  "authors": [
+    {
+      "name": "Mr.doob <info@mrdoob.com>"
+    }
+  ]
 }
