@@ -10,13 +10,7 @@
   ],
   "author": "Jonathan Sharp (http://jdsharp.com/)",
   "homepage": "http://code.appendto.com/plugins/jquery-mockjax/",
-  "licenses": [
-    "MIT",
-    {
-      "type": "GPLv2",
-      "url": "http://appendto.com/open-source-licenses"
-    }
-  ],
+  "license": "(MIT OR GPLv2)",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jakerella/jquery-mockjax.git",
