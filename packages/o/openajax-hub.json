@@ -14,8 +14,7 @@
   ],
   "repository": {
     "type": "svn",
-    "url": "https://openajaxallianc.svn.sourceforge.net/svnroot/openajaxallianc",
-    "path": "hub20/trunk/src/OpenAjax.js"
+    "url": "https://openajaxallianc.svn.sourceforge.net/svnroot/openajaxallianc"
   },
   "license": "Apache-2.0"
 }
