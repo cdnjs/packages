@@ -30,12 +30,5 @@
       }
     ]
   },
-  "licenses": [
-    "GPL-3.0",
-    "CC-BY-NC-ND-4.0",
-    {
-      "name": "Commercial License",
-      "url": "https://fullcalendar.io/scheduler/license/"
-    }
-  ]
+  "license": "(GPL-3.0 OR CC-BY-NC-ND-4.0 OR Commercial License)"
 }
