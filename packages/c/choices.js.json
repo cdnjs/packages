@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/jshjohnson/Choices.git"
   },
-  "author": "Josh Johnson",
+  "author": {
+    "name": "Josh Johnson"
+  },
   "keywords": [
     "customisable",
     "input",

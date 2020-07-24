@@ -17,7 +17,9 @@
     "structure",
     "vanilla"
   ],
-  "author": "Tim Scanlin",
+  "author": {
+    "name": "Tim Scanlin"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

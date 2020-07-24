@@ -12,7 +12,9 @@
     "xlsx",
     "spreadsheet"
   ],
-  "author": "Stephen Liberty",
+  "author": {
+    "name": "Stephen Liberty"
+  },
   "license": "GPLv3",
   "homepage": "http://excelbuilderjs.com/",
   "autoupdate": {

@@ -3,7 +3,9 @@
   "filename": "chance.min.js",
   "description": "Chance - Utility library to generate anything random",
   "homepage": "http://chancejs.com",
-  "author": "Victor Quinn <mail@victorquinn.com>",
+  "author": {
+    "name": "Victor Quinn <mail@victorquinn.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/victorquinn/chancejs.git"

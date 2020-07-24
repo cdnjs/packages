@@ -24,6 +24,8 @@
       }
     ]
   },
-  "author": "James Long",
+  "author": {
+    "name": "James Long"
+  },
   "license": "BSD-2-Clause"
 }

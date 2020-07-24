@@ -11,7 +11,9 @@
     "bacon",
     "frp"
   ],
-  "author": "Lauri Piispanen",
+  "author": {
+    "name": "Lauri Piispanen"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -12,7 +12,9 @@
     "scroll",
     "menu"
   ],
-  "author": "Nick Williams",
+  "author": {
+    "name": "Nick Williams"
+  },
   "homepage": "http://wicky.nillia.ms/headroom.js",
   "license": "MIT",
   "autoupdate": {

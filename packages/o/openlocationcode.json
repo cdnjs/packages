@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/google/open-location-code.git"
   },
-  "author": "The Open Location Code Library Authors",
+  "author": {
+    "name": "The Open Location Code Library Authors"
+  },
   "license": "Apache-2.0",
   "homepage": "http://openlocationcode.com/",
   "keywords": [

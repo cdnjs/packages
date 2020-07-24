@@ -12,7 +12,9 @@
     "type": "git",
     "url": "https://github.com/domoritz/leaflet-locatecontrol"
   },
-  "author": "Dominik Moritz",
+  "author": {
+    "name": "Dominik Moritz"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "leaflet.locatecontrol",

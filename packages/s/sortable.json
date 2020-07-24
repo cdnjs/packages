@@ -6,7 +6,9 @@
     "sortable"
   ],
   "homepage": "http://github.hubspot.com/sortable/",
-  "author": "Adam Schwartz <adam.flynn.schwartz@gmail.com>",
+  "author": {
+    "name": "Adam Schwartz <adam.flynn.schwartz@gmail.com>"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

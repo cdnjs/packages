@@ -16,7 +16,9 @@
     "url": "https://github.com/sinonjs/sinon"
   },
   "license": "BSD-3-Clause",
-  "author": "Christian Johansen",
+  "author": {
+    "name": "Christian Johansen"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "sinon",

@@ -5,7 +5,9 @@
     "angular",
     "markers"
   ],
-  "author": "allenhwkim",
+  "author": {
+    "name": "allenhwkim"
+  },
   "license": "MIT",
   "homepage": "https://github.com/allenhwkim/angularjs-google-maps#readme",
   "repository": {

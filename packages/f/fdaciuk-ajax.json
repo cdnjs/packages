@@ -11,7 +11,9 @@
     "xmlhttprequest",
     "xhr"
   ],
-  "author": "Fernando Daciuk",
+  "author": {
+    "name": "Fernando Daciuk"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

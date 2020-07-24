@@ -1,5 +1,7 @@
 {
-  "author": "antennaio",
+  "author": {
+    "name": "antennaio"
+  },
   "description": "Minimal, light-weight jQuery ratings.",
   "keywords": [
     "jquery",

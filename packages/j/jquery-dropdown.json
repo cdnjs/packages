@@ -10,7 +10,9 @@
     "jquery",
     "dropdown"
   ],
-  "author": "Cory LaViska",
+  "author": {
+    "name": "Cory LaViska"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

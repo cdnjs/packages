@@ -10,7 +10,9 @@
     "slickgrid",
     "grid"
   ],
-  "author": "Michael Leibman <michael.leibman@gmail.com>",
+  "author": {
+    "name": "Michael Leibman <michael.leibman@gmail.com>"
+  },
   "license": "MIT",
   "homepage": "https://wiki.github.com/6pac/SlickGrid",
   "autoupdate": {

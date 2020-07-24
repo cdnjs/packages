@@ -18,7 +18,9 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": "Mal Curtis <mal@mal.co.nz>",
+  "author": {
+    "name": "Mal Curtis <mal@mal.co.nz>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

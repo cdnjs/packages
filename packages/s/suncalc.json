@@ -12,7 +12,9 @@
     "moon",
     "illumination"
   ],
-  "author": "Vladimir Agafonkin",
+  "author": {
+    "name": "Vladimir Agafonkin"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/mourner/suncalc.git"

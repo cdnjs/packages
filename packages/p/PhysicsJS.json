@@ -1,7 +1,9 @@
 {
   "name": "PhysicsJS",
   "filename": "physicsjs.min.js",
-  "author": "Jasper Palfree <jasper@wellcaffeinated.net>",
+  "author": {
+    "name": "Jasper Palfree <jasper@wellcaffeinated.net>"
+  },
   "description": "A modular, extendable, and easy-to-use physics engine for javascript",
   "repository": {
     "type": "git",

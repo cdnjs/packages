@@ -7,7 +7,9 @@
     "javascript",
     "animation"
   ],
-  "author": "Jamie Perkins",
+  "author": {
+    "name": "Jamie Perkins"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/inorganik/countUp.js.git"

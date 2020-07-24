@@ -13,7 +13,9 @@
     "lazyload",
     "vue-directive"
   ],
-  "author": "Awe <hilongjw@gmail.com>",
+  "author": {
+    "name": "Awe <hilongjw@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

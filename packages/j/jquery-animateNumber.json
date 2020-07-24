@@ -14,7 +14,9 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": "Alexandr Borisov (aishek@gmail.com)",
+  "author": {
+    "name": "Alexandr Borisov (aishek@gmail.com)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

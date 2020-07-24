@@ -13,7 +13,9 @@
     "tilelayer",
     "geojson"
   ],
-  "author": "glenrobertson",
+  "author": {
+    "name": "glenrobertson"
+  },
   "license": "ISC",
   "autoupdate": {
     "source": "git",

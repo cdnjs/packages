@@ -6,7 +6,9 @@
   "keywords": [
     "autocomplete"
   ],
-  "author": "Tomas Kirda",
+  "author": {
+    "name": "Tomas Kirda"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/devbridge/jQuery-Autocomplete.git",

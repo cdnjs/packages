@@ -9,7 +9,9 @@
     "TimeAgo",
     "ender"
   ],
-  "author": "Naman Goel",
+  "author": {
+    "name": "Naman Goel"
+  },
   "license": "MIT",
   "homepage": "https://github.com/nmn/react-timeago",
   "repository": {

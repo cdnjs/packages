@@ -7,7 +7,9 @@
     "type": "git",
     "url": "git+ssh://git@github.com/sentsin/layui.git"
   },
-  "author": "sentsin <xu@sentsin.com>",
+  "author": {
+    "name": "sentsin <xu@sentsin.com>"
+  },
   "homepage": "https://www.layui.com",
   "keywords": [
     "layui",

@@ -7,7 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/vmware/clarity.git"
   },
-  "author": "clarity",
+  "author": {
+    "name": "clarity"
+  },
   "license": "MIT",
   "keywords": [
     "ux",

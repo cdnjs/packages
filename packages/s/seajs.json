@@ -9,7 +9,9 @@
     "CMD",
     "browser"
   ],
-  "author": "Frank Wang <lifesinger@gmail.com>",
+  "author": {
+    "name": "Frank Wang <lifesinger@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/seajs/seajs.git"

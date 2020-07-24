@@ -2,7 +2,9 @@
   "name": "scrollReveal.js",
   "filename": "scrollreveal.min.js",
   "description": "Easily reveal elements as they enter the viewport.",
-  "author": "Julian Lloyd",
+  "author": {
+    "name": "Julian Lloyd"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jlmakes/scrollReveal.js.git"

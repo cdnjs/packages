@@ -24,5 +24,7 @@
     "url": "https://github.com/piranha/keymage"
   },
   "license": "ISC",
-  "author": "Alexander Solovyov <alexander@solovyov.net>"
+  "author": {
+    "name": "Alexander Solovyov <alexander@solovyov.net>"
+  }
 }

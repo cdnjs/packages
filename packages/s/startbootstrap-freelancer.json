@@ -27,5 +27,7 @@
     "type": "git",
     "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer"
   },
-  "author": "David Miller"
+  "author": {
+    "name": "David Miller"
+  }
 }

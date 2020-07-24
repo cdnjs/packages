@@ -1,7 +1,9 @@
 {
   "name": "css-spinning-spinners",
   "description": "A collection of zero element loading spinners, animated by CSS only",
-  "author": "BillyNate",
+  "author": {
+    "name": "BillyNate"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/BillyNate/css-spinning-spinners.git"

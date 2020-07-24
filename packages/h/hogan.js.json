@@ -7,7 +7,9 @@
     "mustache",
     "template"
   ],
-  "author": "Twitter Inc.",
+  "author": {
+    "name": "Twitter Inc."
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/twitter/hogan.js.git"

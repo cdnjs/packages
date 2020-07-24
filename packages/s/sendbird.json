@@ -6,7 +6,9 @@
     "sendbird",
     "chat"
   ],
-  "author": "Sendbird, Inc.",
+  "author": {
+    "name": "Sendbird, Inc."
+  },
   "homepage": "https://sendbird.com/",
   "license": "MIT",
   "repository": {

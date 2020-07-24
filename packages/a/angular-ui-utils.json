@@ -17,5 +17,7 @@
     "type": "git",
     "url": "https://github.com/angular-ui/ui-utils.git"
   },
-  "author": "AngularUI Team"
+  "author": {
+    "name": "AngularUI Team"
+  }
 }

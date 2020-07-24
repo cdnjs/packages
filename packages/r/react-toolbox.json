@@ -8,7 +8,9 @@
     "react-component",
     "toolkit"
   ],
-  "author": "Javier Velasco Arjona <javier.velasco86@gmail.com> (http://javivelasco.com/)",
+  "author": {
+    "name": "Javier Velasco Arjona <javier.velasco86@gmail.com> (http://javivelasco.com/)"
+  },
   "license": "MIT",
   "homepage": "http://www.react-toolbox.io",
   "repository": {

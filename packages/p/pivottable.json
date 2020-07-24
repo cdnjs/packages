@@ -15,7 +15,9 @@
     "type": "git",
     "url": "git://github.com/nicolaskruchten/pivottable.git"
   },
-  "author": "Nicolas Kruchten",
+  "author": {
+    "name": "Nicolas Kruchten"
+  },
   "license": "MIT",
   "filename": "pivot.min.js",
   "autoupdate": {

@@ -14,7 +14,9 @@
     "loop",
     "bind"
   ],
-  "author": "Guy Peer <guypeer8@gmail.com>",
+  "author": {
+    "name": "Guy Peer <guypeer8@gmail.com>"
+  },
   "license": "ISC",
   "autoupdate": {
     "source": "npm",

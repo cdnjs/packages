@@ -16,7 +16,9 @@
     "url": "https://github.com/jashkenas/coffeescript.git"
   },
   "license": "MIT",
-  "author": "Jeremy Ashkenas",
+  "author": {
+    "name": "Jeremy Ashkenas"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "coffeescript",

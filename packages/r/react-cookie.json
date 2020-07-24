@@ -27,5 +27,7 @@
     "url": "git://github.com/eXon/react-cookie.git"
   },
   "license": "MIT",
-  "author": "Benoit Tremblay <trembl.ben@gmail.com>"
+  "author": {
+    "name": "Benoit Tremblay <trembl.ben@gmail.com>"
+  }
 }

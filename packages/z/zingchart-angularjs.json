@@ -15,7 +15,9 @@
     "url": "https://github.com/zingchart/ZingChart-AngularJS"
   },
   "homepage": "https://zingchart.github.io/ZingChart-AngularJS/",
-  "author": "ZingChart",
+  "author": {
+    "name": "ZingChart"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

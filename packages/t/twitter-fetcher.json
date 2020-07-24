@@ -10,7 +10,9 @@
     "widget"
   ],
   "description": "Fetch your twitter posts without using the new Twitter 1.1 API. Pure JavaScript!",
-  "author": "Jason Mayes",
+  "author": {
+    "name": "Jason Mayes"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jasonmayes/Twitter-Post-Fetcher.git"

@@ -3,7 +3,9 @@
   "filename": "angular-relative-date.min.js",
   "description": "AngularJS filter to provide relative, human-readable dates.",
   "license": "MIT",
-  "author": "Joseph Wynn <joseph@wildlyinaccurate.com> (https://wildlyinaccurate.com/)",
+  "author": {
+    "name": "Joseph Wynn <joseph@wildlyinaccurate.com> (https://wildlyinaccurate.com/)"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/wildlyinaccurate/angular-relative-date.git"

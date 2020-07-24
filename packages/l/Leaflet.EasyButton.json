@@ -15,7 +15,9 @@
     "control",
     "map"
   ],
-  "author": "rocks.in.the.cloud+easybutton@gmail.com",
+  "author": {
+    "name": "rocks.in.the.cloud+easybutton@gmail.com"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

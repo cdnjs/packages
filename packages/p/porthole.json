@@ -13,7 +13,9 @@
     "url": "https://ternarylabs.github.io/porthole/"
   },
   "license": "MIT",
-  "author": "Ternary Labs <@ternarylabs>",
+  "author": {
+    "name": "Ternary Labs <@ternarylabs>"
+  },
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/ternarylabs/porthole.git",

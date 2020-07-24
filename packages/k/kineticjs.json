@@ -12,7 +12,9 @@
     "url": "https://github.com/ericdrowell/KineticJS.git"
   },
   "license": "MIT",
-  "author": "Eric Rowell",
+  "author": {
+    "name": "Eric Rowell"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "kinetic",

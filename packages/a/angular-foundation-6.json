@@ -13,7 +13,9 @@
     "foundation",
     "6"
   ],
-  "author": "Rickert Mulder",
+  "author": {
+    "name": "Rickert Mulder"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "angular-foundation-6",

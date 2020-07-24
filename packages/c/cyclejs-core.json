@@ -1,7 +1,9 @@
 {
   "name": "cyclejs-core",
   "filename": "cycle.min.js",
-  "author": "Andre Staltz",
+  "author": {
+    "name": "Andre Staltz"
+  },
   "description": "A fully reactive JavaScript framework for Human-Computer Interaction",
   "license": "MIT",
   "homepage": "https://cyclejs.github.io",

@@ -1,5 +1,7 @@
 {
-  "author": "Edward Xiao",
+  "author": {
+    "name": "Edward Xiao"
+  },
   "description": "a react inputs validation component",
   "filename": "react-inputs-validation.min.js",
   "homepage": "https://edwardfhsiao.github.io/react-inputs-validation/",

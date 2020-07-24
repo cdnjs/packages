@@ -20,7 +20,9 @@
     "carbon-design-system",
     "react"
   ],
-  "author": "IBM",
+  "author": {
+    "name": "IBM"
+  },
   "license": "Apache-2.0",
   "homepage": "https://www.carbondesignsystem.com/",
   "repository": {

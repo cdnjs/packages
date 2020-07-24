@@ -1,5 +1,7 @@
 {
-  "author": "NFL <engineers@nfl.com>",
+  "author": {
+    "name": "NFL <engineers@nfl.com>"
+  },
   "description": "A document head manager for React",
   "filename": "Helmet.js",
   "homepage": "https://github.com/nfl/react-helmet#readme",

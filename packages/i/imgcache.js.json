@@ -17,7 +17,9 @@
     "phonegap",
     "imgcache"
   ],
-  "author": "Christophe BENOIT",
+  "author": {
+    "name": "Christophe BENOIT"
+  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",

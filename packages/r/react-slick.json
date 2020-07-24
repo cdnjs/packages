@@ -2,7 +2,9 @@
   "name": "react-slick",
   "filename": "react-slick.min.js",
   "description": " React port of slick carousel",
-  "author": "Kiran Abburi",
+  "author": {
+    "name": "Kiran Abburi"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -1,6 +1,8 @@
 {
   "name": "wuzzle",
-  "author": "ws1 team",
+  "author": {
+    "name": "ws1 team"
+  },
   "description": "Responsive, minimal and customizable grid system",
   "keywords": [
     "wuzzle",

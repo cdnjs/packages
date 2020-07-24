@@ -8,7 +8,9 @@
     "phone",
     "click-to-talk"
   ],
-  "author": "Twilio, Inc.",
+  "author": {
+    "name": "Twilio, Inc."
+  },
   "homepage": "https://www.twilio.com/docs/client/twilio-js",
   "license": "Property of Twilio, Inc."
 }

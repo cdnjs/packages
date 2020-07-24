@@ -14,7 +14,9 @@
     "progress",
     "progressbar"
   ],
-  "author": "Wes Cruver",
+  "author": {
+    "name": "Wes Cruver"
+  },
   "license": "MIT",
   "homepage": "https://chieffancypants.github.io/angular-loading-bar",
   "autoupdate": {

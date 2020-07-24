@@ -15,7 +15,9 @@
     "validation",
     "plugin"
   ],
-  "author": "Cina Saffary",
+  "author": {
+    "name": "Cina Saffary"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/1000hz/bootstrap-validator.git",

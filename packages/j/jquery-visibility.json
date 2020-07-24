@@ -14,7 +14,9 @@
     "type": "git",
     "url": "https://github.com/mathiasbynens/jquery-visibility.git"
   },
-  "author": "Mathias Bynens @mathias (https://mathiasbynens.be)",
+  "author": {
+    "name": "Mathias Bynens @mathias (https://mathiasbynens.be)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

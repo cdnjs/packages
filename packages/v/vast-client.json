@@ -10,7 +10,9 @@
     "in-stream",
     "video"
   ],
-  "author": "Olivier Poitrey <rs@dailymotion.com>",
+  "author": {
+    "name": "Olivier Poitrey <rs@dailymotion.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/dailymotion/vast-client-js"

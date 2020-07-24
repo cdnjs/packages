@@ -5,7 +5,9 @@
     "type": "git",
     "url": "https://github.com/tunnckoCore/gibon"
   },
-  "author": "Charlike Mike Reagent <@tunnckoCore> (https://i.am.charlike.online)",
+  "author": {
+    "name": "Charlike Mike Reagent <@tunnckoCore> (https://i.am.charlike.online)"
+  },
   "license": "MIT",
   "filename": "gibon.umd.js",
   "keywords": [

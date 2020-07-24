@@ -1,6 +1,8 @@
 {
   "name": "ng-table",
-  "author": "Vitalii Savchuk <esvit666@gmail.com>",
+  "author": {
+    "name": "Vitalii Savchuk <esvit666@gmail.com>"
+  },
   "license": "BSD",
   "filename": "ng-table.min.js",
   "homepage": "http://ng-table.com/",

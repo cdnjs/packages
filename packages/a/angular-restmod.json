@@ -2,7 +2,9 @@
   "name": "angular-restmod",
   "description": "API Bound Models for AngularJS",
   "license": "MIT",
-  "author": "Ignacio Baixas <ignacio@platan.us>",
+  "author": {
+    "name": "Ignacio Baixas <ignacio@platan.us>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/platanus/angular-restmod.git"

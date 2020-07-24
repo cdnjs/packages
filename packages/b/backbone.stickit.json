@@ -2,7 +2,9 @@
   "name": "backbone.stickit",
   "description": "Model binding in Backbone style.",
   "filename": "backbone.stickit.min.js",
-  "author": "Matthew DeLambo <delambo@gmail.com>",
+  "author": {
+    "name": "Matthew DeLambo <delambo@gmail.com>"
+  },
   "keywords": [
     "backbone",
     "data-binding",

@@ -10,7 +10,9 @@
     "GitHub-style",
     "identicon"
   ],
-  "author": "stewardlord",
+  "author": {
+    "name": "stewardlord"
+  },
   "license": "BSD-2-Clause",
   "autoupdate": {
     "source": "npm",

@@ -15,7 +15,9 @@
     "type": "git",
     "url": "git://github.com/tweenjs/es6-tween.git"
   },
-  "author": "tween.js contributors",
+  "author": {
+    "name": "tween.js contributors"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

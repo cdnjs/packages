@@ -12,7 +12,9 @@
     "xbs",
     "tutorials"
   ],
-  "author": "XB Software",
+  "author": {
+    "name": "XB Software"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

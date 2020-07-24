@@ -1,7 +1,9 @@
 {
   "name": "venobox",
   "filename": "venobox.min.js",
-  "author": "Nicola Franchini",
+  "author": {
+    "name": "Nicola Franchini"
+  },
   "description": "Responsive jQuery modal window plugin",
   "keywords": [
     "lightbox",

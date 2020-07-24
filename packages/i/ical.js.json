@@ -1,7 +1,9 @@
 {
   "name": "ical.js",
   "filename": "ical.min.js",
-  "author": "Philipp Kewisch",
+  "author": {
+    "name": "Philipp Kewisch"
+  },
   "description": "Javascript parser for ics (rfc5545) and vcard (rfc6350) data",
   "repository": {
     "type": "git",

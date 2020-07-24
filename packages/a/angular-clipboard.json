@@ -2,7 +2,9 @@
   "name": "angular-clipboard",
   "filename": "angular-clipboard.min.js",
   "description": "Copy to clipboard with AngularJS directive, without using Flash.",
-  "author": "Ole Michelsen",
+  "author": {
+    "name": "Ole Michelsen"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

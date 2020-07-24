@@ -13,7 +13,9 @@
     "Tree",
     "Intelligence"
   ],
-  "author": "Georg Tavonius",
+  "author": {
+    "name": "Georg Tavonius"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

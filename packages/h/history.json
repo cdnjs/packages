@@ -11,7 +11,9 @@
     "location"
   ],
   "filename": "history.min.js",
-  "author": "Michael Jackson",
+  "author": {
+    "name": "Michael Jackson"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "history",

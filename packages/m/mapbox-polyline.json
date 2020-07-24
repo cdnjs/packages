@@ -2,7 +2,9 @@
   "name": "mapbox-polyline",
   "description": "Polyline encoding and decoding",
   "keywords": [],
-  "author": "Mapbox",
+  "author": {
+    "name": "Mapbox"
+  },
   "license": "BSD-3-Clause",
   "homepage": "https://github.com/mapbox/polyline#readme",
   "repository": {

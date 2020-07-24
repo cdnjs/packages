@@ -4,7 +4,9 @@
   "keywords": [
     "react"
   ],
-  "author": "Facebook",
+  "author": {
+    "name": "Facebook"
+  },
   "license": "MIT",
   "homepage": "https://facebook.github.io/react/",
   "repository": {

@@ -17,7 +17,9 @@
     "HMAC"
   ],
   "license": "MIT",
-  "author": "Chen, Yi-Cyuan <emn178@gmail.com>",
+  "author": {
+    "name": "Chen, Yi-Cyuan <emn178@gmail.com>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "js-sha256",

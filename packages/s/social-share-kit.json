@@ -12,7 +12,9 @@
     "buttons",
     "social"
   ],
-  "author": "Kaspars Sprogis <darklow@gmail.com> (https://github.com/darklow)",
+  "author": {
+    "name": "Kaspars Sprogis <darklow@gmail.com> (https://github.com/darklow)"
+  },
   "license": "CC-BY-NC-3.0",
   "homepage": "http://socialsharekit.com/",
   "autoupdate": {

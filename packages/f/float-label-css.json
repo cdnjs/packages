@@ -9,7 +9,9 @@
     "float-label",
     "css-only"
   ],
-  "author": "Anton Staroverov (https://tonystar.me)",
+  "author": {
+    "name": "Anton Staroverov (https://tonystar.me)"
+  },
   "license": "MIT",
   "filename": "float-label.min.css",
   "autoupdate": {

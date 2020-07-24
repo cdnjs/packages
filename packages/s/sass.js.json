@@ -23,5 +23,7 @@
     "url": "https://github.com/medialize/sass.js"
   },
   "license": "MIT",
-  "author": "Rodney Rehm (mail+github@rodneyrehm.de) <http://rodneyrehm.de>"
+  "author": {
+    "name": "Rodney Rehm (mail+github@rodneyrehm.de) <http://rodneyrehm.de>"
+  }
 }

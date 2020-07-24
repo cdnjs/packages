@@ -18,7 +18,9 @@
     "type": "git",
     "url": "https://github.com/jquery-form/form.git"
   },
-  "author": "Kevin Morris",
+  "author": {
+    "name": "Kevin Morris"
+  },
   "licenses": [
     "MIT",
     "LGPL-2.1"

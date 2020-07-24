@@ -12,7 +12,9 @@
     "audio",
     "webaudio"
   ],
-  "author": "Alex Zhukov",
+  "author": {
+    "name": "Alex Zhukov"
+  },
   "license": "LGPL-3.0",
   "autoupdate": {
     "source": "npm",

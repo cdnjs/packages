@@ -1,7 +1,9 @@
 {
   "filename": "mask.min.js",
   "name": "angular-ui-mask",
-  "author": "https://github.com/angular-ui/ui-mask/graphs/contributors",
+  "author": {
+    "name": "https://github.com/angular-ui/ui-mask/graphs/contributors"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

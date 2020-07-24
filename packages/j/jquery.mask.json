@@ -26,5 +26,7 @@
     "url": "https://github.com/igorescobar/jQuery-Mask-Plugin"
   },
   "license": "MIT",
-  "author": "Igor Escobar <blog@igorescobar.com>"
+  "author": {
+    "name": "Igor Escobar <blog@igorescobar.com>"
+  }
 }

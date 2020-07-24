@@ -11,7 +11,9 @@
     "scroll",
     "twist"
   ],
-  "author": "Paper Leaf Design",
+  "author": {
+    "name": "Paper Leaf Design"
+  },
   "license": "GPL-3.0",
   "autoupdate": {
     "source": "git",

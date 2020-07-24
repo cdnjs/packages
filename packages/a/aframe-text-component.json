@@ -17,7 +17,9 @@
     "mozvr",
     "webvr"
   ],
-  "author": "Kevin Ngo <me@ngokevin.com>",
+  "author": {
+    "name": "Kevin Ngo <me@ngokevin.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

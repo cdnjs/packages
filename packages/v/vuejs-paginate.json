@@ -11,7 +11,9 @@
     "paginate",
     "pagination"
   ],
-  "author": "Cain Liu",
+  "author": {
+    "name": "Cain Liu"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

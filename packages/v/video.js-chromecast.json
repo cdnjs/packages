@@ -11,7 +11,9 @@
     "videojs",
     "videojs-plugin"
   ],
-  "author": "Benjipott, Inc.",
+  "author": {
+    "name": "Benjipott, Inc."
+  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",

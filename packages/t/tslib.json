@@ -1,6 +1,8 @@
 {
   "name": "tslib",
-  "author": "Microsoft Corp.",
+  "author": {
+    "name": "Microsoft Corp."
+  },
   "filename": "tslib.min.js",
   "homepage": "https://www.typescriptlang.org/",
   "license": "Apache-2.0",

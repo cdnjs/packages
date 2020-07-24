@@ -1,5 +1,7 @@
 {
-  "author": "Tim Evko",
+  "author": {
+    "name": "Tim Evko"
+  },
   "description": "A small javascript utility to make handling cookies simple",
   "filename": "simpleCookie.js",
   "homepage": "https://github.com/tevko/simpleCookie",

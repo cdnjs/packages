@@ -14,7 +14,9 @@
     "state container",
     "flux pattern"
   ],
-  "author": "Luis Vinícius <dev_luis@hotmail.com>",
+  "author": {
+    "name": "Luis Vinícius <dev_luis@hotmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

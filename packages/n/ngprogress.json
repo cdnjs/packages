@@ -1,5 +1,7 @@
 {
-  "author": "Victor Bjelkholm",
+  "author": {
+    "name": "Victor Bjelkholm"
+  },
   "description": "slim, site-wide progressbar for AngularJS",
   "keywords": [
     "angular",

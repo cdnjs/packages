@@ -2,7 +2,9 @@
   "name": "postgrest-client",
   "filename": "postgrest-client.min.js",
   "description": "Advanced client for the PostgREST API",
-  "author": "Caleb Meredith <calebmeredith8@gmail.com>",
+  "author": {
+    "name": "Caleb Meredith <calebmeredith8@gmail.com>"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

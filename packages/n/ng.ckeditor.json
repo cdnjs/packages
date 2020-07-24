@@ -15,7 +15,9 @@
     "type": "git",
     "url": "https://github.com/miamarti/ng.ckeditor"
   },
-  "author": "Miller Augusto",
+  "author": {
+    "name": "Miller Augusto"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/miamarti/ng.ckeditor.git",

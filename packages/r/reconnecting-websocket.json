@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git://github.com/joewalnes/reconnecting-websocket.git"
   },
-  "author": "Joe Walnes",
+  "author": {
+    "name": "Joe Walnes"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

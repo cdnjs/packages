@@ -2,7 +2,9 @@
   "name": "jschardet",
   "filename": "jschardet.min.js",
   "description": "Character encoding auto-detection in JavaScript (port of python's chardet)",
-  "author": "António Afonso",
+  "author": {
+    "name": "António Afonso"
+  },
   "license": "LGPL-2.1+",
   "keywords": [
     "encoding",

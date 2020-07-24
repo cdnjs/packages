@@ -12,7 +12,9 @@
     "url": "https://github.com/jensarps/IDBWrapper"
   },
   "license": "MIT",
-  "author": "jensarps <mail@jensarps.de> (http://jensarps.de/)",
+  "author": {
+    "name": "jensarps <mail@jensarps.de> (http://jensarps.de/)"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "idb-wrapper",

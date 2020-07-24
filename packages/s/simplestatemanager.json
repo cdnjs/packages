@@ -12,5 +12,7 @@
     "url": "https://github.com/SimpleStateManager/SimpleStateManager"
   },
   "license": "MIT",
-  "author": "Jonathan Fielding"
+  "author": {
+    "name": "Jonathan Fielding"
+  }
 }

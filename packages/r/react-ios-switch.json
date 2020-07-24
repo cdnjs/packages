@@ -2,7 +2,9 @@
   "name": "react-ios-switch",
   "filename": "bundle.js",
   "description": "React switch component",
-  "author": "Matthew King <mking@clari.com>",
+  "author": {
+    "name": "Matthew King <mking@clari.com>"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -13,7 +13,9 @@
     "drag'n'drop",
     "reorder"
   ],
-  "author": "Kornel <pornel@pornel.net>",
+  "author": {
+    "name": "Kornel <pornel@pornel.net>"
+  },
   "license": "BSD-2-Clause",
   "autoupdate": {
     "source": "git",

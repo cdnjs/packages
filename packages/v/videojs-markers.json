@@ -14,7 +14,9 @@
     "player"
   ],
   "homepage": "http://www.sampingchuang.com/videojs-markers",
-  "author": "spchuang (https://github.com/spchuang)",
+  "author": {
+    "name": "spchuang (https://github.com/spchuang)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

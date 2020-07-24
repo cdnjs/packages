@@ -11,7 +11,9 @@
     "dynamic",
     "responsive"
   ],
-  "author": "Christian Fei",
+  "author": {
+    "name": "Christian Fei"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

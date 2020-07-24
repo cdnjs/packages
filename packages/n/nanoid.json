@@ -7,7 +7,9 @@
     "id",
     "url"
   ],
-  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "author": {
+    "name": "Andrey Sitnik <andrey@sitnik.ru>"
+  },
   "license": "MIT",
   "homepage": "https://github.com/ai/nanoid#readme",
   "repository": {

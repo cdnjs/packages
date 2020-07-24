@@ -2,7 +2,9 @@
   "name": "dont-go",
   "filename": "dont-go.umd.js",
   "description": "Client-side library to change the title and/or favicon of the page when it is inactive",
-  "author": "Tiaan <tiaanduplessis@hotmail.com>",
+  "author": {
+    "name": "Tiaan <tiaanduplessis@hotmail.com>"
+  },
   "license": "MIT",
   "keywords": [
     "library",

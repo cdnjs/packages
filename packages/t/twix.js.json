@@ -3,7 +3,9 @@
   "filename": "twix.min.js",
   "description": "Twix.js allows you to work with date ranges",
   "homepage": "http://icambron.github.io/twix.js/",
-  "author": "Isaac Cambron",
+  "author": {
+    "name": "Isaac Cambron"
+  },
   "keywords": [
     "twix",
     "date",

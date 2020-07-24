@@ -14,7 +14,9 @@
     "url": "git+https://github.com/tholman/intense-images.git"
   },
   "license": "MIT",
-  "author": "Tim Holman <timothy.w.holman@gmail.com>",
+  "author": {
+    "name": "Tim Holman <timothy.w.holman@gmail.com>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "@tholman/intense-images",

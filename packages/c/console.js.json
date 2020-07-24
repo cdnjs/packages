@@ -7,7 +7,9 @@
     "url": "git://github.com/icodeforlove/console.js.git"
   },
   "homepage": "https://icodeforlove.github.io/Console.js/",
-  "author": "Chad Scira",
+  "author": {
+    "name": "Chad Scira"
+  },
   "license": "MIT",
   "keywords": [
     "console",

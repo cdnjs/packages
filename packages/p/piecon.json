@@ -26,5 +26,7 @@
     "url": "https://github.com/lipka/piecon"
   },
   "license": "MIT",
-  "author": "Lukas Lipka <lukaslipka@gmail.com> (http://lukaslipka.com)"
+  "author": {
+    "name": "Lukas Lipka <lukaslipka@gmail.com> (http://lukaslipka.com)"
+  }
 }

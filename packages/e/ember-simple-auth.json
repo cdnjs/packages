@@ -24,5 +24,7 @@
     "url": "https://github.com/simplabs/ember-simple-auth"
   },
   "license": "MIT",
-  "author": "simplabs GmbH"
+  "author": {
+    "name": "simplabs GmbH"
+  }
 }

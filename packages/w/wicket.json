@@ -10,7 +10,9 @@
     "geometry",
     "leaflet"
   ],
-  "author": "arthur-e",
+  "author": {
+    "name": "arthur-e"
+  },
   "homepage": "https://arthur-e.github.io/Wicket",
   "repository": {
     "type": "git",

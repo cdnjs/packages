@@ -13,5 +13,7 @@
     "url": "https://github.com/mootools/mootools-more.git"
   },
   "license": "MIT",
-  "author": "MooTools Team"
+  "author": {
+    "name": "MooTools Team"
+  }
 }

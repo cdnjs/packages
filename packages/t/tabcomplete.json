@@ -14,7 +14,9 @@
     "input",
     "textarea"
   ],
-  "author": "Mattias Erming",
+  "author": {
+    "name": "Mattias Erming"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

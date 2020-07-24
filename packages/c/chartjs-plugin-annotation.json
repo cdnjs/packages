@@ -8,7 +8,9 @@
     "line",
     "annonation"
   ],
-  "author": "Evert Timberg <evert.timberg@gmail.com>",
+  "author": {
+    "name": "Evert Timberg <evert.timberg@gmail.com>"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -5,7 +5,9 @@
     "videojs",
     "videojs-plugin"
   ],
-  "author": "yanwsh@gmail.com",
+  "author": {
+    "name": "yanwsh@gmail.com"
+  },
   "license": "Apache-2.0",
   "homepage": "https://github.com/yanwsh/videojs-panorama#readme",
   "repository": {

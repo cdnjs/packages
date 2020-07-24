@@ -13,7 +13,9 @@
     "dialog"
   ],
   "filename": "react-modal.min.js",
-  "author": "Ryan Florence",
+  "author": {
+    "name": "Ryan Florence"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "react-modal",

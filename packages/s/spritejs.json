@@ -1,5 +1,7 @@
 {
-  "author": "akira-cn",
+  "author": {
+    "name": "akira-cn"
+  },
   "description": "A cross platform high-performance graphics system.",
   "filename": "spritejs.min.js",
   "homepage": "http://spritejs.org",

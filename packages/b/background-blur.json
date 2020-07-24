@@ -7,7 +7,9 @@
     "velocity",
     "animation"
   ],
-  "author": "Maksim Surguy",
+  "author": {
+    "name": "Maksim Surguy"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

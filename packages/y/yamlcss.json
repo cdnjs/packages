@@ -1,7 +1,9 @@
 {
   "name": "yamlcss",
   "description": "A modular CSS framework for truly flexible, accessible and responsive websites",
-  "author": "Dirk Jesse <office@highresolution.info>",
+  "author": {
+    "name": "Dirk Jesse <office@highresolution.info>"
+  },
   "filename": "core/base.min.css",
   "keywords": [
     "yaml",

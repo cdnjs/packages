@@ -23,5 +23,7 @@
     "url": "https://github.com/firebase/emberfire"
   },
   "license": "MIT",
-  "author": "Firebase <support@firebase.com> (https://www.firebase.com/)"
+  "author": {
+    "name": "Firebase <support@firebase.com> (https://www.firebase.com/)"
+  }
 }

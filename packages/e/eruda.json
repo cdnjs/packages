@@ -11,7 +11,9 @@
     "mobile",
     "debug"
   ],
-  "author": "redhoodsu",
+  "author": {
+    "name": "redhoodsu"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

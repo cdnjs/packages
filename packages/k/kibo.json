@@ -7,7 +7,9 @@
     "handling"
   ],
   "license": "MIT",
-  "author": "marquete <marquete@gmail.com>",
+  "author": {
+    "name": "marquete <marquete@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/marquete/kibo.git"

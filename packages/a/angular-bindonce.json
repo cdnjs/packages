@@ -2,7 +2,9 @@
   "name": "angular-bindonce",
   "filename": "bindonce.min.js",
   "description": "Zero watchers binding directives for AngularJS",
-  "author": "Pasquale Vazzana <pasqualevazzana@gmail.com>",
+  "author": {
+    "name": "Pasquale Vazzana <pasqualevazzana@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Pasvaz/bindonce.git"

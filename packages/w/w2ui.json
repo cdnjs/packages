@@ -15,7 +15,9 @@
     "tree",
     "popup"
   ],
-  "author": "Vitali Malinouski <vitmalina@gmail.com> (http://w2ui.com)",
+  "author": {
+    "name": "Vitali Malinouski <vitmalina@gmail.com> (http://w2ui.com)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

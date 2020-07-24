@@ -3,7 +3,9 @@
   "filename": "excel-formula.min.js",
   "description": "Methods to beautify an excel formula and convert it to JavaScript or C#",
   "homepage": "http://excelformulabeautifier.com/",
-  "author": "Josh Bennett (http://joshbennett.me/)",
+  "author": {
+    "name": "Josh Bennett (http://joshbennett.me/)"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/joshatjben/excelFormulaUtilitiesJS.git"

@@ -13,7 +13,9 @@
     "metricsgraphics.js",
     "d3 charts"
   ],
-  "author": "Mozilla",
+  "author": {
+    "name": "Mozilla"
+  },
   "license": "MPL-2.0",
   "homepage": "http://metricsgraphicsjs.org",
   "autoupdate": {

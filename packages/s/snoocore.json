@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/trevorsenior/snoocore.git"
   },
-  "author": "Trevor Senior",
+  "author": {
+    "name": "Trevor Senior"
+  },
   "homepage": "https://snoocore.readme.io/",
   "keywords": [
     "reddit",

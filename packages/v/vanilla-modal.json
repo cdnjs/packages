@@ -13,7 +13,9 @@
     "es6",
     "es2015"
   ],
-  "author": "Ben Ceglowski <bceglowski@gmail.com>",
+  "author": {
+    "name": "Ben Ceglowski <bceglowski@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

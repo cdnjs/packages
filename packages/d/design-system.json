@@ -2,7 +2,9 @@
   "name": "design-system",
   "filename": "styles/salesforce-lightning-design-system.min.css",
   "description": "Salesforce Lightning Design System",
-  "author": "Salesforce",
+  "author": {
+    "name": "Salesforce"
+  },
   "licenses": [
     "BSD-3-Clause",
     "CC-BY-ND-4.0"

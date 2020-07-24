@@ -12,7 +12,9 @@
     "type": "git",
     "url": "https://github.com/Bilibili/flv.js"
   },
-  "author": "zheng qian <xqq@xqq.im>",
+  "author": {
+    "name": "zheng qian <xqq@xqq.im>"
+  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",

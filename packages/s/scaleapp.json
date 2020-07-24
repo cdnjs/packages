@@ -2,7 +2,9 @@
   "name": "scaleapp",
   "filename": "scaleapp.min.js",
   "description": "scaleApp is a JavaScript framework for scalable and maintainable One-Page-Applications",
-  "author": "Markus Kohlhase <mail@markus-kohlhase.de>",
+  "author": {
+    "name": "Markus Kohlhase <mail@markus-kohlhase.de>"
+  },
   "homepage": "http://www.scaleapp.org",
   "repository": {
     "type": "git",

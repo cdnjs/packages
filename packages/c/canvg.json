@@ -9,7 +9,9 @@
     "svg",
     "canvas"
   ],
-  "author": "Gabe Lerner <gabelerner@gmail.com>",
+  "author": {
+    "name": "Gabe Lerner <gabelerner@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/gabelerner/canvg.git"

@@ -16,7 +16,9 @@
     "magic",
     "mouse"
   ],
-  "author": "Daniel Li <dan@danyll.com>",
+  "author": {
+    "name": "Daniel Li <dan@danyll.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

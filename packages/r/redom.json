@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git://github.com/pakastin/redom"
   },
-  "author": "Juha Lindstedt",
+  "author": {
+    "name": "Juha Lindstedt"
+  },
   "license": "MIT",
   "keywords": [
     "redom",

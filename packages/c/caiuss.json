@@ -11,7 +11,9 @@
     "framework",
     "minimalist"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "author": {
+    "name": "Ionică Bizău <bizauionica@gmail.com>"
+  },
   "license": "MIT",
   "filename": "caiuss.min.css",
   "autoupdate": {

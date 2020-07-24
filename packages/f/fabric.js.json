@@ -27,5 +27,7 @@
     "type": "git",
     "url": "https://github.com/kangax/fabric.js"
   },
-  "author": "Juriy Zaytsev <kangax@gmail.com>"
+  "author": {
+    "name": "Juriy Zaytsev <kangax@gmail.com>"
+  }
 }

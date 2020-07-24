@@ -8,7 +8,9 @@
     "type": "git",
     "url": "https://github.com/thompsonemerson/zoomove"
   },
-  "author": "Emerson Thompson <thompson.emerson@gmail.com>",
+  "author": {
+    "name": "Emerson Thompson <thompson.emerson@gmail.com>"
+  },
   "license": "MIT",
   "keywords": [
     "zoomove",

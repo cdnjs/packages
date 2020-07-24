@@ -8,7 +8,9 @@
     "require",
     "components"
   ],
-  "author": "Xavier Boubert <xavier@boubert.fr>",
+  "author": {
+    "name": "Xavier Boubert <xavier@boubert.fr>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/CodeCorico/ractive-require.git"

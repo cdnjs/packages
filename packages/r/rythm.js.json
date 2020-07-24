@@ -15,7 +15,9 @@
     "type": "git",
     "url": "https://github.com/Okazari/Rythm.js.git"
   },
-  "author": "Benjamin Plouzennec <plouzennec.benjamin@gmail.com>",
+  "author": {
+    "name": "Benjamin Plouzennec <plouzennec.benjamin@gmail.com>"
+  },
   "license": "GPL-3.0",
   "homepage": "https://okazari.github.io/Rythm.js/",
   "autoupdate": {

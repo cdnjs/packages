@@ -12,7 +12,9 @@
     "animations",
     "anima"
   ],
-  "author": "Yehor Lvivski",
+  "author": {
+    "name": "Yehor Lvivski"
+  },
   "homepage": "http://lvivski.com",
   "license": "MIT",
   "autoupdate": {

@@ -11,7 +11,9 @@
     "tween",
     "interpolation"
   ],
-  "author": "tween.js contributors (https://github.com/tweenjs/tween.js/graphs/contributors)",
+  "author": {
+    "name": "tween.js contributors (https://github.com/tweenjs/tween.js/graphs/contributors)"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "@tweenjs/tween.js",

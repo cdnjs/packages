@@ -1,6 +1,8 @@
 {
   "name": "analytics.js",
-  "author": "Segment.io <friends@segment.io>",
+  "author": {
+    "name": "Segment.io <friends@segment.io>"
+  },
   "filename": "analytics.min.js",
   "description": "The hassle-free way to integrate analytics into any web application.",
   "homepage": "https://segment.io/docs/libraries/analytics.js/",

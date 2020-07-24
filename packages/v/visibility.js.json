@@ -12,5 +12,7 @@
     "type": "git",
     "url": "https://github.com/ai/visibilityjs"
   },
-  "author": "Andrey Sitnik <andrey@sitnik.ru>"
+  "author": {
+    "name": "Andrey Sitnik <andrey@sitnik.ru>"
+  }
 }

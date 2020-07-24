@@ -11,7 +11,9 @@
     "video",
     "gif"
   ],
-  "author": "Gregor Aisch",
+  "author": {
+    "name": "Gregor Aisch"
+  },
   "license": "ISC",
   "homepage": "https://gka.github.io/canvid/",
   "autoupdate": {

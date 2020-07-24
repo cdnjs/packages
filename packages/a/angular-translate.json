@@ -16,7 +16,9 @@
     "type": "git",
     "url": "https://github.com/angular-translate/bower-angular-translate"
   },
-  "author": "Pascal Precht",
+  "author": {
+    "name": "Pascal Precht"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "angular-translate",

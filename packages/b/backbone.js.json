@@ -16,7 +16,9 @@
     "url": "https://github.com/jashkenas/backbone.git"
   },
   "license": "MIT",
-  "author": "Jeremy Ashkenas",
+  "author": {
+    "name": "Jeremy Ashkenas"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "backbone",

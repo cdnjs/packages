@@ -12,7 +12,9 @@
     "vanilla",
     "browser tab"
   ],
-  "author": "nicolasbize <http://nicolasbize.com>",
+  "author": {
+    "name": "nicolasbize <http://nicolasbize.com>"
+  },
   "license": "MIT",
   "homepage": "http://nicolasbize.com/faviconx/",
   "autoupdate": {

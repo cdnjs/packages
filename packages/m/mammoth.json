@@ -1,7 +1,9 @@
 {
   "name": "mammoth",
   "filename": "mammoth.browser.min.js",
-  "author": "Michael Williamson <mike@zwobble.org>",
+  "author": {
+    "name": "Michael Williamson <mike@zwobble.org>"
+  },
   "description": "Convert Word documents from docx to simple HTML and Markdown",
   "keywords": [
     "docx",

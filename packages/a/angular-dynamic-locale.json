@@ -11,7 +11,9 @@
     "dynamic",
     "change locale"
   ],
-  "author": "Lucas Galfaso",
+  "author": {
+    "name": "Lucas Galfaso"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "angular-dynamic-locale",

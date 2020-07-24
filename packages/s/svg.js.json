@@ -14,7 +14,9 @@
     "url": "https://github.com/svgdotjs/svg.js/"
   },
   "license": "MIT",
-  "author": "Wout Fierens <wout@mick-wout.com>",
+  "author": {
+    "name": "Wout Fierens <wout@mick-wout.com>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "@svgdotjs/svg.js",

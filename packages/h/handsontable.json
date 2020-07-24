@@ -31,5 +31,7 @@
     "url": "https://github.com/handsontable/handsontable"
   },
   "license": "MIT",
-  "author": "Handsoncode <hello@handsontable.com>"
+  "author": {
+    "name": "Handsoncode <hello@handsontable.com>"
+  }
 }

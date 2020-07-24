@@ -11,7 +11,9 @@
     "slick",
     "responsive"
   ],
-  "author": "Ken Wheeler",
+  "author": {
+    "name": "Ken Wheeler"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

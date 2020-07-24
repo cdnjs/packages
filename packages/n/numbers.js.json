@@ -3,7 +3,9 @@
   "filename": "numbers.min.js",
   "description": "Advanced Mathematics Library for JavaScript",
   "license": "Apache-2.0",
-  "author": "Steve Kaliski <sjkaliski@gmail.com> (https://github.com/sjkaliski)",
+  "author": {
+    "name": "Steve Kaliski <sjkaliski@gmail.com> (https://github.com/sjkaliski)"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/numbers/numbers.js"

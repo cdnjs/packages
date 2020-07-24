@@ -20,7 +20,9 @@
     "type": "git",
     "url": "git://github.com/milojs/milo.git"
   },
-  "author": "MailOnline",
+  "author": {
+    "name": "MailOnline"
+  },
   "license": "BSD-2-Clause",
   "homepage": "https://milojs.github.io/milo/",
   "autoupdate": {

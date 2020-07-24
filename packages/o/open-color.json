@@ -12,7 +12,9 @@
     "color swatches",
     "CSS"
   ],
-  "author": "Jeong Heeyeun <hyd5012@gmail.com>",
+  "author": {
+    "name": "Jeong Heeyeun <hyd5012@gmail.com>"
+  },
   "homepage": "https://yeun.github.io/open-color/",
   "autoupdate": {
     "source": "git",

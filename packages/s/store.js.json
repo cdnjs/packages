@@ -5,7 +5,9 @@
     "storage"
   ],
   "description": "A localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood",
-  "author": "Marcus Westin <narcvs@gmail.com> (http://marcuswest.in)",
+  "author": {
+    "name": "Marcus Westin <narcvs@gmail.com> (http://marcuswest.in)"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/marcuswestin/store.js.git"

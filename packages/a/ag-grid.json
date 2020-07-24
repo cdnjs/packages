@@ -13,7 +13,9 @@
     "table",
     "angular"
   ],
-  "author": "Niall Crosby <info@angulargrid.com>",
+  "author": {
+    "name": "Niall Crosby <info@angulargrid.com>"
+  },
   "license": "MIT",
   "homepage": "http://www.ag-grid.com/",
   "autoupdate": {

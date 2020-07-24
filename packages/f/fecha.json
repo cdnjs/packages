@@ -5,7 +5,9 @@
     "type": "git",
     "url": "https://github.com/taylorhakes/fecha"
   },
-  "author": "Taylor Hakes <@taylorhakes> (https://taylorhakes.com/)",
+  "author": {
+    "name": "Taylor Hakes <@taylorhakes> (https://taylorhakes.com/)"
+  },
   "license": "MIT",
   "filename": "fecha.min.js",
   "keywords": [

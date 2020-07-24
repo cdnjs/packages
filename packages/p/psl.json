@@ -10,7 +10,9 @@
     "publicsuffix",
     "publicsuffixlist"
   ],
-  "author": "Lupo Montero",
+  "author": {
+    "name": "Lupo Montero"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

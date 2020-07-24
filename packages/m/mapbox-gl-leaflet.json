@@ -8,7 +8,9 @@
     "leafletjs",
     "maps"
   ],
-  "author": "Mapbox",
+  "author": {
+    "name": "Mapbox"
+  },
   "license": "ISC",
   "homepage": "https://github.com/mapbox/mapbox-gl-leaflet",
   "repository": {

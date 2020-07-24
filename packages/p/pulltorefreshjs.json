@@ -11,7 +11,9 @@
     "url": "git://github.com/BoxFactura/pulltorefresh.js.git"
   },
   "homepage": "https://www.boxfactura.com/pulltorefresh.js/",
-  "author": "Rafael Soto",
+  "author": {
+    "name": "Rafael Soto"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

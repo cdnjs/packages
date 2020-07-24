@@ -14,7 +14,9 @@
     "type": "git",
     "url": "git+https://github.com/recharts/recharts.git"
   },
-  "author": "recharts group",
+  "author": {
+    "name": "recharts group"
+  },
   "license": "MIT",
   "homepage": "http://recharts.org/",
   "autoupdate": {

@@ -2,7 +2,9 @@
   "name": "TinyNav.js",
   "filename": "tinynav.min.js",
   "description": "TinyNav.js is a tiny jQuery plugin (452 bytes minified and gzipped) that converts <ul> and <ol> navigations to a select boxes for small screen.",
-  "author": "Viljami Salminen",
+  "author": {
+    "name": "Viljami Salminen"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/FezVrasta/snackbarjs.git"
   },
-  "author": "FezVrasta",
+  "author": {
+    "name": "FezVrasta"
+  },
   "license": "ISC",
   "autoupdate": {
     "source": "git",

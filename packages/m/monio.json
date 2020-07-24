@@ -9,7 +9,9 @@
     "io",
     "promise"
   ],
-  "author": "Kyle Simpson <getify@gmail.com>",
+  "author": {
+    "name": "Kyle Simpson <getify@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/getify/monio.git"

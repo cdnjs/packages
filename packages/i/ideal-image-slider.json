@@ -7,7 +7,9 @@
     "image",
     "slider"
   ],
-  "author": "Gilbert Pellegrom",
+  "author": {
+    "name": "Gilbert Pellegrom"
+  },
   "license": "GPL-3.0",
   "repository": {
     "type": "git",

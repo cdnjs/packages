@@ -11,7 +11,9 @@
     "jquery",
     "chart"
   ],
-  "author": "Mark Lee",
+  "author": {
+    "name": "Mark Lee"
+  },
   "license": "CC-BY-SA-3.0",
   "homepage": "http://capricasoftware.co.uk/#/projects/orgchart",
   "autoupdate": {

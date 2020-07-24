@@ -11,7 +11,9 @@
     "url": "https://github.com/ajlkn/jquery.touch"
   },
   "license": "MIT",
-  "author": "aj <@ajlkn> (https://aj.lkn.io/)",
+  "author": {
+    "name": "aj <@ajlkn> (https://aj.lkn.io/)"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/ajlkn/jquery.touch.git",

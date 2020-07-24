@@ -11,7 +11,9 @@
     "select",
     "multi"
   ],
-  "author": "Ignatius Steven <isteven.github@gmail.com> (https://github.com/isteven)",
+  "author": {
+    "name": "Ignatius Steven <isteven.github@gmail.com> (https://github.com/isteven)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

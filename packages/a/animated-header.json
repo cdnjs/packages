@@ -11,7 +11,9 @@
     "animate",
     "scroll"
   ],
-  "author": "botelho <http://tympanus.net/codrops>",
+  "author": {
+    "name": "botelho <http://tympanus.net/codrops>"
+  },
   "license": "MIT",
   "homepage": "http://tympanus.net/codrops/2013/06/06/on-scroll-animated-header/"
 }

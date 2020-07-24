@@ -10,7 +10,9 @@
     "jquery",
     "plugin"
   ],
-  "author": "Tanja Gomilar <tanja.gomilar@gmail.com> (https://github.com/tgomilar)",
+  "author": {
+    "name": "Tanja Gomilar <tanja.gomilar@gmail.com> (https://github.com/tgomilar)"
+  },
   "license": "MIT",
   "homepage": "https://tgomilar.github.io/paroller.js/",
   "repository": {

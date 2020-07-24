@@ -11,7 +11,9 @@
     "scheme",
     "random"
   ],
-  "author": "Jordan Checkman",
+  "author": {
+    "name": "Jordan Checkman"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

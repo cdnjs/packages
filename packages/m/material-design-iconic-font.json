@@ -9,7 +9,9 @@
     "font",
     "icons"
   ],
-  "author": "Sergey Kupletsky <s.kupletsky@gmail.com> (https://github.com/zavoloklom)",
+  "author": {
+    "name": "Sergey Kupletsky <s.kupletsky@gmail.com> (https://github.com/zavoloklom)"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/zavoloklom/material-design-iconic-font.git",

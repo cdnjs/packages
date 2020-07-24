@@ -19,7 +19,9 @@
     "async",
     "flow control"
   ],
-  "author": "Zolmeister",
+  "author": {
+    "name": "Zolmeister"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

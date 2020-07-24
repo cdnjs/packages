@@ -6,7 +6,9 @@
     "requirejs",
     "amd"
   ],
-  "author": "Tim Branyen",
+  "author": {
+    "name": "Tim Branyen"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/tbranyen/use-amd.git",

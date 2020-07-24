@@ -7,7 +7,9 @@
     "http",
     "client"
   ],
-  "author": "Michael Jackson",
+  "author": {
+    "name": "Michael Jackson"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

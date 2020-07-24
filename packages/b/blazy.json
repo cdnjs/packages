@@ -14,7 +14,9 @@
     "responsive",
     "performance"
   ],
-  "author": "Bjørn Klinggaard (http://dinbror.dk/blazy)",
+  "author": {
+    "name": "Bjørn Klinggaard (http://dinbror.dk/blazy)"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/dinbror/blazy.git"

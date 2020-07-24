@@ -24,5 +24,7 @@
       }
     ]
   },
-  "author": "Arend van Beelen jr."
+  "author": {
+    "name": "Arend van Beelen jr."
+  }
 }

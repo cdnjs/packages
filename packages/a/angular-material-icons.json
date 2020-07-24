@@ -1,6 +1,8 @@
 {
   "name": "angular-material-icons",
-  "author": "Urmil Parikh",
+  "author": {
+    "name": "Urmil Parikh"
+  },
   "description": "AngularJS directive to use Material Design icons with custom fill color and size.",
   "keywords": [
     "angular",

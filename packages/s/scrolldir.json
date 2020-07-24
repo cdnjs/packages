@@ -15,7 +15,9 @@
     "javascript",
     "window"
   ],
-  "author": "Patrick Fisher <patrick@pwfisher.com>",
+  "author": {
+    "name": "Patrick Fisher <patrick@pwfisher.com>"
+  },
   "license": "MIT",
   "homepage": "https://dollarshaveclub.github.io/scrolldir/",
   "autoupdate": {

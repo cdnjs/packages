@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/casperin/nod.git"
   },
-  "author": "Gorm Casper",
+  "author": {
+    "name": "Gorm Casper"
+  },
   "license": "MIT",
   "keywords": [
     "nod",

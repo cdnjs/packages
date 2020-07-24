@@ -7,7 +7,9 @@
     "type": "git",
     "url": "https://github.com/silktide/cookieconsent2.git"
   },
-  "author": "Silktide Ltd.",
+  "author": {
+    "name": "Silktide Ltd."
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

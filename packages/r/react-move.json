@@ -22,7 +22,9 @@
     "url": "https://github.com/react-tools/react-move.git"
   },
   "license": "MIT",
-  "author": "Tanner Linsley <@tannerlinsley>",
+  "author": {
+    "name": "Tanner Linsley <@tannerlinsley>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "react-move",

@@ -11,7 +11,9 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": "Rick Strahl, West Wind Technologies",
+  "author": {
+    "name": "Rick Strahl, West Wind Technologies"
+  },
   "homepage": "https://samples.west-wind.com/jquery-watch/",
   "repository": {
     "type": "git",

@@ -3,7 +3,9 @@
   "filename": "tracing.min.js",
   "description": "Tracing.js is a library/utility to help you debug and trace javascript code.",
   "license": "MIT",
-  "author": "Francisco Soto <@ebobby>",
+  "author": {
+    "name": "Francisco Soto <@ebobby>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ebobby/tracing.js.git"

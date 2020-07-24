@@ -11,7 +11,9 @@
     "hover",
     "css"
   ],
-  "author": "Ciaran Walsh",
+  "author": {
+    "name": "Ciaran Walsh"
+  },
   "license": "MIT",
   "homepage": "https://www.imagehover.io/",
   "autoupdate": {

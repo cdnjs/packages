@@ -10,7 +10,9 @@
   "keywords": [
     "angularjs"
   ],
-  "author": "srfrnk",
+  "author": {
+    "name": "srfrnk"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

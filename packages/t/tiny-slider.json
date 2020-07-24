@@ -11,7 +11,9 @@
     "tiny slider",
     "slider"
   ],
-  "author": "ganlanyuan <ganlanyuan@gmail.com>",
+  "author": {
+    "name": "ganlanyuan <ganlanyuan@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

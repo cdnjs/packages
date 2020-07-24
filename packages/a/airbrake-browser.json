@@ -7,7 +7,9 @@
     "airbrake",
     "notifier"
   ],
-  "author": "Airbrake",
+  "author": {
+    "name": "Airbrake"
+  },
   "license": "MIT",
   "homepage": "https://github.com/airbrake/airbrake-js/tree/master/packages/browser",
   "repository": {

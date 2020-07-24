@@ -25,6 +25,8 @@
     "type": "git",
     "url": "https://github.com/jamesallardice/Placeholders.js"
   },
-  "author": "James Allardice <admin@jamesallardice.com>",
+  "author": {
+    "name": "James Allardice <admin@jamesallardice.com>"
+  },
   "license": "MIT"
 }

@@ -12,7 +12,9 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": "Vergil Penkov (http://vergilpenkov.com/)",
+  "author": {
+    "name": "Vergil Penkov (http://vergilpenkov.com/)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -15,7 +15,9 @@
     "GPL-2.0",
     "MIT"
   ],
-  "author": "Faisal Salman <fyzlman@gmail.com> (http://faisalman.com)",
+  "author": {
+    "name": "Faisal Salman <fyzlman@gmail.com> (http://faisalman.com)"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/faisalman/ua-parser-js.git"

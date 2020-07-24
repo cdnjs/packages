@@ -12,7 +12,9 @@
     "angular",
     "textarea"
   ],
-  "author": "Yuriy Khabarov",
+  "author": {
+    "name": "Yuriy Khabarov"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

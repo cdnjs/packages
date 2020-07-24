@@ -11,7 +11,9 @@
     "HTML5",
     "CSS3"
   ],
-  "author": "Emmanuel Garcia",
+  "author": {
+    "name": "Emmanuel Garcia"
+  },
   "license": "BSD",
   "homepage": "http://www.turnjs.com",
   "autoupdate": {

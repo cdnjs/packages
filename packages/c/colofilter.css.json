@@ -12,7 +12,9 @@
     "duotone",
     "css"
   ],
-  "author": "Lucas Bonomi",
+  "author": {
+    "name": "Lucas Bonomi"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

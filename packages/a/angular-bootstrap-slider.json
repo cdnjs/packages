@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/seiyria/angular-bootstrap-slider.git"
   },
-  "author": "Kyle Kemp <kyle@seiyria.com>",
+  "author": {
+    "name": "Kyle Kemp <kyle@seiyria.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -2,7 +2,9 @@
   "name": "whitestorm.js",
   "filename": "whs.min.js",
   "homepage": "https://whsjs.readme.io/docs",
-  "author": "Alexander Buzin",
+  "author": {
+    "name": "Alexander Buzin"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/WhitestormJS/whs.js"

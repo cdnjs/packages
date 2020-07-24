@@ -10,7 +10,9 @@
     "ux"
   ],
   "license": "Unlicense",
-  "author": "Gabor Lenard (http://www.gaborlenard.com)",
+  "author": {
+    "name": "Gabor Lenard (http://www.gaborlenard.com)"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/zengabor/zenscroll.git"

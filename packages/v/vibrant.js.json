@@ -16,7 +16,9 @@
     "muted",
     "colour"
   ],
-  "author": "Jari Zwarts",
+  "author": {
+    "name": "Jari Zwarts"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

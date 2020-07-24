@@ -1,6 +1,8 @@
 {
   "name": "humanize-duration",
-  "author": "Evan Hahn <me@evanhahn.com> (http://evanhahn.com)",
+  "author": {
+    "name": "Evan Hahn <me@evanhahn.com> (http://evanhahn.com)"
+  },
   "description": "Convert millisecond durations to English and many other languages.",
   "homepage": "https://evanhahn.github.io/HumanizeDuration.js/",
   "filename": "humanize-duration.min.js",

@@ -16,7 +16,9 @@
     "form",
     "decorator"
   ],
-  "author": "Erik Rasmussen <rasmussenerik@gmail.com> (http://github.com/erikras)",
+  "author": {
+    "name": "Erik Rasmussen <rasmussenerik@gmail.com> (http://github.com/erikras)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

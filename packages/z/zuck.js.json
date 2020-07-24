@@ -22,7 +22,9 @@
     "url": "https://github.com/ramon82/zuck.js"
   },
   "license": "MIT",
-  "author": "Ramon Souza <me@ramon.codes> (https://ramon.codes)",
+  "author": {
+    "name": "Ramon Souza <me@ramon.codes> (https://ramon.codes)"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "zuck.js",

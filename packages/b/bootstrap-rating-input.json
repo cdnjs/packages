@@ -2,7 +2,9 @@
   "name": "bootstrap-rating-input",
   "filename": "bootstrap-rating-input.min.js",
   "license": "MIT",
-  "author": "Javier Toledo <javier@theagilemonkeys.com>",
+  "author": {
+    "name": "Javier Toledo <javier@theagilemonkeys.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/javiertoledo/bootstrap-rating-input"

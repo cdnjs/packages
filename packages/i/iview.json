@@ -17,7 +17,9 @@
     "type": "git",
     "url": "https://github.com/iview/iview.git"
   },
-  "author": "Aresn",
+  "author": {
+    "name": "Aresn"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

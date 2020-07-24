@@ -1,6 +1,8 @@
 {
   "name": "angular-pusher",
-  "author": "Brian Woodward",
+  "author": {
+    "name": "Brian Woodward"
+  },
   "filename": "angular-pusher.min.js",
   "description": "AngularJS provider and service for Pusher",
   "homepage": "http://angular-pusher-example.herokuapp.com/",

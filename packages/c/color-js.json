@@ -10,7 +10,9 @@
     "color",
     "immutable"
   ],
-  "author": "Andrew Brehaut <andrew@brehaut.net> (https://brehaut.net/)",
+  "author": {
+    "name": "Andrew Brehaut <andrew@brehaut.net> (https://brehaut.net/)"
+  },
   "license": "BSD-2-Clause",
   "autoupdate": {
     "source": "git",

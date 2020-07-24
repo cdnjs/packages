@@ -1,5 +1,7 @@
 {
-  "author": "Mikola Lysenko",
+  "author": {
+    "name": "Mikola Lysenko"
+  },
   "description": "Multidimensional Arrays",
   "filename": "ndarray.js",
   "homepage": "https://github.com/mikolalysenko/ndarray#readme",

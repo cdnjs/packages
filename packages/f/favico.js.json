@@ -25,5 +25,7 @@
     "url": "https://github.com/ejci/favico.js"
   },
   "license": "MIT",
-  "author": "Miroslav Magda <magda.miroslav@gmail.com>"
+  "author": {
+    "name": "Miroslav Magda <magda.miroslav@gmail.com>"
+  }
 }

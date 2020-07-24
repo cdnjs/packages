@@ -14,7 +14,9 @@
     "url": "https://github.com/tabalinas/jssocials"
   },
   "license": "MIT",
-  "author": "Artem Tabalin <@tabalinas>",
+  "author": {
+    "name": "Artem Tabalin <@tabalinas>"
+  },
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/tabalinas/jssocials.git",

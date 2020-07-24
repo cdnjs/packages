@@ -11,7 +11,9 @@
     "parallax",
     "lightweight"
   ],
-  "author": "Moe Amaya <moe@dixonandmoe.com> (https://dixonandmoe.com)",
+  "author": {
+    "name": "Moe Amaya <moe@dixonandmoe.com> (https://dixonandmoe.com)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

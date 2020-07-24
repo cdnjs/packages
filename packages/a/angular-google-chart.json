@@ -26,5 +26,7 @@
       }
     ]
   },
-  "author": "GitHub Contributors <https://github.com/angular-google-chart/angular-google-chart/graphs/contributors>"
+  "author": {
+    "name": "GitHub Contributors <https://github.com/angular-google-chart/angular-google-chart/graphs/contributors>"
+  }
 }

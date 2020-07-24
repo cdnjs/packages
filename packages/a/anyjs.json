@@ -2,7 +2,9 @@
   "name": "anyjs",
   "filename": "any.min.js",
   "description": "It's a library which improve JS UI-development.",
-  "author": "anyjser",
+  "author": {
+    "name": "anyjser"
+  },
   "license": "MIT",
   "keywords": [
     "any",

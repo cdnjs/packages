@@ -2,7 +2,9 @@
   "name": "js-xss",
   "filename": "xss.min.js",
   "description": "Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist",
-  "author": "Zongmin Lei <leizongmin@gmail.com> (http://ucdok.com)",
+  "author": {
+    "name": "Zongmin Lei <leizongmin@gmail.com> (http://ucdok.com)"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/leizongmin/js-xss.git"

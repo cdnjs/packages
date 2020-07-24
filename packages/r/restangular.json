@@ -2,7 +2,9 @@
   "name": "restangular",
   "description": "Restful Resources service for AngularJS apps",
   "filename": "restangular.min.js",
-  "author": "Martin Gontovnikas <martin@gon.to>",
+  "author": {
+    "name": "Martin Gontovnikas <martin@gon.to>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/mgonto/restangular.git"

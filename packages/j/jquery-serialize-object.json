@@ -13,7 +13,9 @@
     "type": "git",
     "url": "https://github.com/macek/jquery-serialize-object.git"
   },
-  "author": "macek <paulmacek@gmail.com>",
+  "author": {
+    "name": "macek <paulmacek@gmail.com>"
+  },
   "license": "BSD-3-Clause",
   "autoupdate": {
     "source": "git",

@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git://github.com/makeusabrew/bootbox.git"
   },
-  "author": "Nick Payne <nick@kurai.co.uk>",
+  "author": {
+    "name": "Nick Payne <nick@kurai.co.uk>"
+  },
   "homepage": "http://bootboxjs.com",
   "autoupdate": {
     "source": "git",

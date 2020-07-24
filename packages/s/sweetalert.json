@@ -16,7 +16,9 @@
     "url": "https://github.com/t4t5/sweetalert.git"
   },
   "license": "MIT",
-  "author": "Tristan Edwards <tristan.edwards@me.com> (http://tristanedwards.me)",
+  "author": {
+    "name": "Tristan Edwards <tristan.edwards@me.com> (http://tristanedwards.me)"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "sweetalert",

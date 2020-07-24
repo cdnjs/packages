@@ -9,7 +9,9 @@
     "tz",
     "date"
   ],
-  "author": "Jon Nylander <pellepim@gmail.com>",
+  "author": {
+    "name": "Jon Nylander <pellepim@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/pellepim/jstimezonedetect"

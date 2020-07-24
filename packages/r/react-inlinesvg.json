@@ -12,7 +12,9 @@
     "svg",
     "component"
   ],
-  "author": "Matthew Dapena-Tretter <m@tthewwithanm.com>",
+  "author": {
+    "name": "Matthew Dapena-Tretter <m@tthewwithanm.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

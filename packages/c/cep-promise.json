@@ -9,7 +9,9 @@
     "promise",
     "viacep"
   ],
-  "author": "Filipe Deschamps",
+  "author": {
+    "name": "Filipe Deschamps"
+  },
   "license": "MIT",
   "homepage": "https://github.com/filipedeschamps/cep-promise",
   "repository": {

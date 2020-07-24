@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/thinker3197/progressively"
   },
-  "author": "Ashish <@thinker3197> (https://thinker3197.github.io/)",
+  "author": {
+    "name": "Ashish <@thinker3197> (https://thinker3197.github.io/)"
+  },
   "license": "MIT",
   "filename": "progressively.min.js",
   "keywords": [

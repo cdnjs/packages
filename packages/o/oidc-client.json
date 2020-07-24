@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/IdentityModel/oidc-client-js.git"
   },
-  "author": "Brock Allen & Dominick Baier",
+  "author": {
+    "name": "Brock Allen & Dominick Baier"
+  },
   "license": "Apache-2.0",
   "keywords": [
     "oidc",

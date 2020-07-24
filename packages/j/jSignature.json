@@ -12,7 +12,9 @@
     "signature",
     "jQuery"
   ],
-  "author": "Brinley Ang",
+  "author": {
+    "name": "Brinley Ang"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

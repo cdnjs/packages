@@ -2,7 +2,9 @@
   "name": "stately.js",
   "description": "Stately.js is a JavaScript based finite-state machine (FSM) engine for Node.js and the browser.",
   "filename": "Stately.min.js",
-  "author": "Florian Schäfer",
+  "author": {
+    "name": "Florian Schäfer"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/fschaefer/Stately.js.git"

@@ -1,7 +1,9 @@
 {
   "name": "IndexedDBShim",
   "filename": "indexeddbshim.min.js",
-  "author": "Parashuram <code@nparashuram.com>",
+  "author": {
+    "name": "Parashuram <code@nparashuram.com>"
+  },
   "description": "A polyfill for IndexedDB using WebSql",
   "repository": {
     "type": "git",

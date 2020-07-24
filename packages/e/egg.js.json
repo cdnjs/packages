@@ -10,7 +10,9 @@
     "easter eggs",
     "konami code"
   ],
-  "author": "Mike Flynn",
+  "author": {
+    "name": "Mike Flynn"
+  },
   "license": "MIT",
   "homepage": "http://thatmikeflynn.com/egg.js/",
   "autoupdate": {

@@ -2,7 +2,9 @@
   "name": "angular-chart.js",
   "filename": "angular-chart.min.js",
   "description": "An angular.js wrapper for Chart.js",
-  "author": "Jerome Touffe-Blin <jtblin@gmail.com>",
+  "author": {
+    "name": "Jerome Touffe-Blin <jtblin@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/jtblin/angular-chart.js.git"

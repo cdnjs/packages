@@ -14,7 +14,9 @@
     "modulo",
     "exponentiation"
   ],
-  "author": "Nenad Vukicevic <vukicevic@gmail.com> (https://github.com/vukicevic)",
+  "author": {
+    "name": "Nenad Vukicevic <vukicevic@gmail.com> (https://github.com/vukicevic)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

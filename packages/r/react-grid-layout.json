@@ -16,7 +16,9 @@
     "fluid",
     "responsive"
   ],
-  "author": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)",
+  "author": {
+    "name": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)"
+  },
   "license": "MIT",
   "homepage": "https://strml.github.io/react-grid-layout/examples/0-showcase.html",
   "autoupdate": {

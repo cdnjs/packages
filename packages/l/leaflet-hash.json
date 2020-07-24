@@ -1,5 +1,7 @@
 {
-  "author": "Michael Lawrence Evans",
+  "author": {
+    "name": "Michael Lawrence Evans"
+  },
   "name": "leaflet-hash",
   "description": "linkable location hashes for leaflet",
   "repository": {

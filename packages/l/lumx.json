@@ -8,7 +8,9 @@
     "Framework"
   ],
   "homepage": "http://ui.lumapps.com",
-  "author": "LumApps",
+  "author": {
+    "name": "LumApps"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

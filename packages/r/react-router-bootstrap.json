@@ -11,7 +11,9 @@
     "react-router",
     "react-bootstrap"
   ],
-  "author": "Matt Smith <mtscout6@gmail.com>",
+  "author": {
+    "name": "Matt Smith <mtscout6@gmail.com>"
+  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",

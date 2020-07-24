@@ -13,7 +13,9 @@
     "url": "git://github.com/SteveSanderson/knockout-es5"
   },
   "license": "MIT",
-  "author": "Steve Sanderson",
+  "author": {
+    "name": "Steve Sanderson"
+  },
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/SteveSanderson/knockout-es5.git",

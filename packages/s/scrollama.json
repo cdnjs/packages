@@ -16,7 +16,9 @@
     "view",
     "trigger"
   ],
-  "author": "Russell Goldenberg (@russellgoldenberg)",
+  "author": {
+    "name": "Russell Goldenberg (@russellgoldenberg)"
+  },
   "license": "MIT",
   "homepage": "https://russellgoldenberg.github.io/scrollama/basic",
   "autoupdate": {

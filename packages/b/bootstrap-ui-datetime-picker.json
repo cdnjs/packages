@@ -15,7 +15,9 @@
     "angular-ui"
   ],
   "homepage": "https://rawgit.com/Gillardo/bootstrap-ui-datetime-picker/master/example/index.html",
-  "author": "Gillardo <darren.gillard81@gmail.com>",
+  "author": {
+    "name": "Gillardo <darren.gillard81@gmail.com>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "bootstrap-ui-datetime-picker",

@@ -9,7 +9,9 @@
     "performance",
     "speed"
   ],
-  "author": "Mathias Bynens <mathias@qiwi.be> (http://mathiasbynens.be/)",
+  "author": {
+    "name": "Mathias Bynens <mathias@qiwi.be> (http://mathiasbynens.be/)"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/bestiejs/benchmark.js.git"

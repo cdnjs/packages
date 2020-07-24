@@ -22,7 +22,9 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": "Yiotis Kaltsikis <yiotiskal@gmail.com>",
+  "author": {
+    "name": "Yiotis Kaltsikis <yiotiskal@gmail.com>"
+  },
   "license": "MIT",
   "homepage": "http://yiotis.net/filterizr/",
   "autoupdate": {

@@ -10,7 +10,9 @@
     "draggable",
     "angularjs"
   ],
-  "author": "Philip Andrews",
+  "author": {
+    "name": "Philip Andrews"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

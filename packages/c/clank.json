@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git://github.com/Wolfr/clank.git"
   },
-  "author": "Johan Ronsse",
+  "author": {
+    "name": "Johan Ronsse"
+  },
   "license": "MIT",
   "keywords": [
     "clank",

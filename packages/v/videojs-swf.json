@@ -8,7 +8,9 @@
     "player"
   ],
   "homepage": "http://videojs.com",
-  "author": "Brightcove",
+  "author": {
+    "name": "Brightcove"
+  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",

@@ -7,7 +7,9 @@
     "plugin"
   ],
   "homepage": "http://js-grid.com",
-  "author": "Artem Tabalin",
+  "author": {
+    "name": "Artem Tabalin"
+  },
   "license": "MIT",
   "filename": "jsgrid.min.js",
   "repository": {

@@ -12,7 +12,9 @@
     "str",
     "manipulation"
   ],
-  "author": "Daniel Leite de Oliveira <dleitee@gmail.com>",
+  "author": {
+    "name": "Daniel Leite de Oliveira <dleitee@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

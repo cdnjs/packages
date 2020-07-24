@@ -18,7 +18,9 @@
     "circles",
     "directions"
   ],
-  "author": "Daniele Moraschi <daniele.moraschi@gmail.com>",
+  "author": {
+    "name": "Daniele Moraschi <daniele.moraschi@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

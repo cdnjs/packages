@@ -1,7 +1,9 @@
 {
   "name": "ng-wig",
   "filename": "ng-wig.min.js",
-  "author": "Stepan Suvorov",
+  "author": {
+    "name": "Stepan Suvorov"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/stevermeister/ngWig"

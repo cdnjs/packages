@@ -16,7 +16,9 @@
     "viewport"
   ],
   "homepage": "https://asvd.github.io/dragscroll/",
-  "author": "Dmitry Prokashev <heliosframework@gmail.com>",
+  "author": {
+    "name": "Dmitry Prokashev <heliosframework@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/asvd/dragscroll.git"

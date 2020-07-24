@@ -1,7 +1,9 @@
 {
   "name": "setImmediate",
   "description": "A shim for the setImmediate efficient script yielding API",
-  "author": "YuzuJS",
+  "author": {
+    "name": "YuzuJS"
+  },
   "license": "MIT",
   "filename": "setImmediate.min.js",
   "repository": {

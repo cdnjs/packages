@@ -11,7 +11,9 @@
     "images",
     "carousel"
   ],
-  "author": "9bitStudios",
+  "author": {
+    "name": "9bitStudios"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

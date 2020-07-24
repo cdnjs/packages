@@ -1,5 +1,7 @@
 {
-  "author": "Filippo Oretti <filippo.oretti@gmail.com> (https://github.com/45kb)",
+  "author": {
+    "name": "Filippo Oretti <filippo.oretti@gmail.com> (https://github.com/45kb)"
+  },
   "description": "Angular.js tooltips module.",
   "filename": "angular-tooltips.min.js",
   "homepage": "http://720kb.github.io/angular-tooltips",

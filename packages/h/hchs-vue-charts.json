@@ -9,7 +9,9 @@
     "chartjs",
     "laravel"
   ],
-  "author": "hchstera",
+  "author": {
+    "name": "hchstera"
+  },
   "license": "MIT",
   "homepage": "https://github.com/hchstera/vue-charts#readme",
   "repository": {

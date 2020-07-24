@@ -25,5 +25,7 @@
     "url": "https://github.com/jashkenas/underscore/"
   },
   "license": "MIT",
-  "author": "Jeremy Ashkenas <jeremy@documentcloud.org>"
+  "author": {
+    "name": "Jeremy Ashkenas <jeremy@documentcloud.org>"
+  }
 }

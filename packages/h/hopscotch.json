@@ -22,6 +22,8 @@
     "tour",
     "linkedin"
   ],
-  "author": "Gordon Koo",
+  "author": {
+    "name": "Gordon Koo"
+  },
   "license": "Apache-2.0"
 }

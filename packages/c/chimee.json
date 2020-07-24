@@ -15,7 +15,9 @@
     "mp4",
     "flv"
   ],
-  "author": "toxic-johann",
+  "author": {
+    "name": "toxic-johann"
+  },
   "license": "MIT",
   "homepage": "https://chimee.org/",
   "autoupdate": {

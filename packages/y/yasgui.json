@@ -1,7 +1,9 @@
 {
   "name": "yasgui",
   "description": "Yet Another SPARQL GUI",
-  "author": "Laurens Rietveld",
+  "author": {
+    "name": "Laurens Rietveld"
+  },
   "homepage": "http://yasgui.org",
   "keywords": [
     "JavaScript",

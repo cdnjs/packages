@@ -15,7 +15,9 @@
     "url": "https://github.com/minhur/bootstrap-toggle.git"
   },
   "license": "MIT",
-  "author": "Min Hur <min.hur@gmail.com>",
+  "author": {
+    "name": "Min Hur <min.hur@gmail.com>"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/minhur/bootstrap-toggle.git",

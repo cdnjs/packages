@@ -2,7 +2,9 @@
   "name": "nipplejs",
   "filename": "nipplejs.min.js",
   "description": "A virtual joystick for touch capable interfaces",
-  "author": "Yoann Moinet <yoann.moinet@gmail.com>",
+  "author": {
+    "name": "Yoann Moinet <yoann.moinet@gmail.com>"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

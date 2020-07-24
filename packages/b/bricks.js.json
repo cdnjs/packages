@@ -2,7 +2,9 @@
   "name": "bricks.js",
   "description": "A blazing fast masonry layout generator for fixed width elements.",
   "filename": "bricks.min.js",
-  "author": "Michael Cavalea",
+  "author": {
+    "name": "Michael Cavalea"
+  },
   "homepage": "http://callmecavs.com/bricks.js/",
   "license": "MIT",
   "repository": {

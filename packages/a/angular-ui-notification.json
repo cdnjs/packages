@@ -12,7 +12,9 @@
     "notify",
     "bootstrap"
   ],
-  "author": "Alex_Crack",
+  "author": {
+    "name": "Alex_Crack"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

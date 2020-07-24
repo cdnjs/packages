@@ -1,7 +1,9 @@
 {
   "name": "ngreact",
   "filename": "ngReact.min.js",
-  "author": "David Chang",
+  "author": {
+    "name": "David Chang"
+  },
   "description": "Use React Components in Angular",
   "homepage": "https://ngReact.github.io/ngReact",
   "repository": {

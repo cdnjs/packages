@@ -12,7 +12,9 @@
     "type": "git",
     "url": "https://github.com/azza-bazoo/prettycron.git"
   },
-  "author": "Hourann Bosci (http://hourann.com)",
+  "author": {
+    "name": "Hourann Bosci (http://hourann.com)"
+  },
   "license": "LGPL-3.0",
   "autoupdate": {
     "source": "git",

@@ -10,7 +10,9 @@
     "push",
     "Notifications"
   ],
-  "author": "Tyler Nickerson",
+  "author": {
+    "name": "Tyler Nickerson"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

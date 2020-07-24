@@ -12,7 +12,9 @@
     "functional",
     "datastructures"
   ],
-  "author": "David Nolan",
+  "author": {
+    "name": "David Nolan"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/swannodette/mori.git"

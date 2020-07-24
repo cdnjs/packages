@@ -11,7 +11,9 @@
     "url": "https://github.com/calvinmetcalf/catiline.git"
   },
   "license": "MIT",
-  "author": "Calvin Metcalf <calvin.metcalf@gmail.com> (https://github.com/calvinmetcalf)",
+  "author": {
+    "name": "Calvin Metcalf <calvin.metcalf@gmail.com> (https://github.com/calvinmetcalf)"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "catiline",

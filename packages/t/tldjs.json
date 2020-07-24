@@ -1,5 +1,7 @@
 {
-  "author": "Thomas Parisot (https://oncletom.io)",
+  "author": {
+    "name": "Thomas Parisot (https://oncletom.io)"
+  },
   "description": "JavaScript API to work against complex domain names, subdomains and URIs.",
   "filename": "tld.min.js",
   "homepage": "https://github.com/oncletom/tld.js",

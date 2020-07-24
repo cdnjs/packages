@@ -2,7 +2,9 @@
   "name": "rison",
   "description": "URI friendly encoding for JSON structures",
   "keywords": [],
-  "author": "Jonas Finnemann Jensen <jopsen@gmail.com>",
+  "author": {
+    "name": "Jonas Finnemann Jensen <jopsen@gmail.com>"
+  },
   "license": "Apache-2.0",
   "homepage": "https://github.com/jonasfj/rison",
   "repository": {

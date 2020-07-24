@@ -14,7 +14,9 @@
     "urls",
     "anchor"
   ],
-  "author": "Gregory Jacobs <greg@greg-jacobs.com>",
+  "author": {
+    "name": "Gregory Jacobs <greg@greg-jacobs.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

@@ -14,5 +14,7 @@
     "url": "https://github.com/marmelab/gremlins.js"
   },
   "license": "MIT",
-  "author": "Francois Zaninotto"
+  "author": {
+    "name": "Francois Zaninotto"
+  }
 }

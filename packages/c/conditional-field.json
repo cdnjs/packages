@@ -2,7 +2,9 @@
   "name": "conditional-field",
   "filename": "conditional-field.min.js",
   "description": "Javascript component that shows and hides page elements based on form field values",
-  "author": "Steven Wanderski",
+  "author": {
+    "name": "Steven Wanderski"
+  },
   "license": "ISC",
   "repository": {
     "type": "git",

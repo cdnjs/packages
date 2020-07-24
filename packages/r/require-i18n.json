@@ -14,7 +14,9 @@
     "BSD",
     "MIT"
   ],
-  "author": "jrburke <jrburke@gmail.com>",
+  "author": {
+    "name": "jrburke <jrburke@gmail.com>"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/requirejs/i18n.git",

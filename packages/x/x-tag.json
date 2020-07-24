@@ -2,7 +2,9 @@
   "name": "x-tag",
   "filename": "x-tag-core.min.js",
   "description": "The X-Tag core library",
-  "author": "Daniel Buchner",
+  "author": {
+    "name": "Daniel Buchner"
+  },
   "keywords": [
     "x-tag",
     "core",

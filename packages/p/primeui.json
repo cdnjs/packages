@@ -6,7 +6,9 @@
     "ui",
     "web-components"
   ],
-  "author": "PrimeTek",
+  "author": {
+    "name": "PrimeTek"
+  },
   "license": "Apache-2.0",
   "filename": "primeui.min.js",
   "repository": {

@@ -2,7 +2,9 @@
   "name": "Broadway",
   "filename": "Player.min.js",
   "description": "A JavaScript H.264 decoder.",
-  "author": "Michael Bebenita",
+  "author": {
+    "name": "Michael Bebenita"
+  },
   "keywords": [
     "decoder",
     "JavaScript",

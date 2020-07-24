@@ -11,7 +11,9 @@
     "test",
     "tdd"
   ],
-  "author": "James Shore <jshore@jamesshore.com>",
+  "author": {
+    "name": "James Shore <jshore@jamesshore.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

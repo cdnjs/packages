@@ -1,7 +1,9 @@
 {
   "name": "jquery.dirtyforms.dialogs.facebox",
   "filename": "jquery.dirtyforms.dialogs.facebox.min.js",
-  "author": "Shad Storhaug <shad@shadstorhaug.com>",
+  "author": {
+    "name": "Shad Storhaug <shad@shadstorhaug.com>"
+  },
   "description": "Dirty Forms is a jQuery plugin to help prevent users from losing data when editing forms.",
   "keywords": [
     "facebox",

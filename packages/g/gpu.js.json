@@ -12,7 +12,9 @@
     "webgl",
     "accelerate"
   ],
-  "author": "The gpu.js Team",
+  "author": {
+    "name": "The gpu.js Team"
+  },
   "license": "MIT",
   "homepage": "http://gpu.rocks/",
   "autoupdate": {

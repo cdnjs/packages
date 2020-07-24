@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git://github.com/Voog/wysihtml"
   },
-  "author": "VOOG, XING AG",
+  "author": {
+    "name": "VOOG, XING AG"
+  },
   "license": "MIT",
   "keywords": [
     "wysihtml"

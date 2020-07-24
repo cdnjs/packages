@@ -2,7 +2,9 @@
   "name": "vue-clickaway",
   "description": "Reusable clickaway directive for reusable Vue.js components",
   "filename": "vue-clickaway.min.js",
-  "author": "Denis Karabaza <denis.karabaza@gmail.com>",
+  "author": {
+    "name": "Denis Karabaza <denis.karabaza@gmail.com>"
+  },
   "keywords": [
     "click",
     "clickaway",

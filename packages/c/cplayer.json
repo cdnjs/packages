@@ -10,7 +10,9 @@
     "es6",
     "cplayer"
   ],
-  "author": "Corps",
+  "author": {
+    "name": "Corps"
+  },
   "filename": "cplayer.js",
   "license": "MIT",
   "repository": {

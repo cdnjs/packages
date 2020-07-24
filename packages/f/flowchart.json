@@ -1,5 +1,7 @@
 {
-  "author": "adrai",
+  "author": {
+    "name": "adrai"
+  },
   "name": "flowchart",
   "filename": "flowchart.min.js",
   "repository": {

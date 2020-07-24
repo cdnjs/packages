@@ -2,7 +2,9 @@
   "name": "shine.js",
   "filename": "shine.min.js",
   "description": "A library for pretty shadows.",
-  "author": "Benjamin Bojko",
+  "author": {
+    "name": "Benjamin Bojko"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/bigspaceship/shine.js"

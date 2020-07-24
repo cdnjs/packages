@@ -12,7 +12,9 @@
     "javascript",
     "cross-browser"
   ],
-  "author": "Jon Eisen <jon@joneisen.me>",
+  "author": {
+    "name": "Jon Eisen <jon@joneisen.me>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

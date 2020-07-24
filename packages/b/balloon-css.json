@@ -2,7 +2,9 @@
   "name": "balloon-css",
   "filename": "balloon.min.css",
   "description": "Simple tooltips made of pure CSS",
-  "author": "Claudio Holanda",
+  "author": {
+    "name": "Claudio Holanda"
+  },
   "license": "MIT",
   "homepage": "https://kazzkiq.github.io/balloon.css/",
   "keywords": [

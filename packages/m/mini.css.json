@@ -17,7 +17,9 @@
     "style-agnostic",
     "Sass"
   ],
-  "author": "Angelos Chalaris (Chalarangelo)",
+  "author": {
+    "name": "Angelos Chalaris (Chalarangelo)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -16,7 +16,9 @@
     "60fps",
     "animations"
   ],
-  "author": "PixelsCommander",
+  "author": {
+    "name": "PixelsCommander"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/Paul-DS/bootstrap-year-calendar"
   },
-  "author": "Paul-DS <@Paul-DS> (https://taylorhakes.com/)",
+  "author": {
+    "name": "Paul-DS <@Paul-DS> (https://taylorhakes.com/)"
+  },
   "license": "Apache-2.0",
   "filename": "js/bootstrap-year-calendar.min.js",
   "keywords": [

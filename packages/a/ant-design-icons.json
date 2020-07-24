@@ -10,7 +10,9 @@
     "antd",
     "ant-design"
   ],
-  "author": "Ant Design Team",
+  "author": {
+    "name": "Ant Design Team"
+  },
   "license": "MIT",
   "homepage": "https://ant.design/components/icon/",
   "repository": {

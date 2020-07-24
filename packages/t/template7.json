@@ -20,7 +20,9 @@
     "handlebars",
     "mustache"
   ],
-  "author": "Vladimir Kharlampidi",
+  "author": {
+    "name": "Vladimir Kharlampidi"
+  },
   "license": "MIT",
   "homepage": "https://idangero.us/template7/",
   "autoupdate": {

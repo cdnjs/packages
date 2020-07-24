@@ -2,7 +2,9 @@
   "name": "react-select",
   "filename": "react-select.min.js",
   "description": "A Select control built with and for ReactJS",
-  "author": "Jed Watson",
+  "author": {
+    "name": "Jed Watson"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

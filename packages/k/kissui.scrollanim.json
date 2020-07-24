@@ -13,7 +13,9 @@
     "html5",
     "kissui"
   ],
-  "author": "Afshin Mehrabani",
+  "author": {
+    "name": "Afshin Mehrabani"
+  },
   "license": "MIT",
   "homepage": "http://scrollanim.kissui.io/",
   "autoupdate": {

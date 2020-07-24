@@ -2,7 +2,9 @@
   "name": "noti.js",
   "description": "NOTE: there won't be updates on CDNJS any longer. Please download it from Github instead!",
   "filename": "noti.min.js",
-  "author": "j-l-n (https://github.com/j-l-n)",
+  "author": {
+    "name": "j-l-n (https://github.com/j-l-n)"
+  },
   "keywords": [
     "noti.js",
     "notification",

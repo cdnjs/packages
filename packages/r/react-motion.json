@@ -13,7 +13,9 @@
     "transition",
     "ui"
   ],
-  "author": "",
+  "author": {
+    "name": ""
+  },
   "license": "MIT",
   "homepage": "https://github.com/chenglou/react-motion#readme",
   "repository": {

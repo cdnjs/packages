@@ -15,7 +15,9 @@
     "effects",
     "transitions"
   ],
-  "author": "Ian Lunn",
+  "author": {
+    "name": "Ian Lunn"
+  },
   "homepage": "http://ianlunn.co.uk/",
   "license": "MIT",
   "autoupdate": {

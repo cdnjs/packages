@@ -13,7 +13,9 @@
     "url": "https://github.com/desandro/imagesloaded"
   },
   "license": "MIT",
-  "author": "David DeSandro",
+  "author": {
+    "name": "David DeSandro"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "imagesloaded",

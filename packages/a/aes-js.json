@@ -18,7 +18,9 @@
     "block",
     "cipher"
   ],
-  "author": "Richard Moore <me@ricmoo.com>",
+  "author": {
+    "name": "Richard Moore <me@ricmoo.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

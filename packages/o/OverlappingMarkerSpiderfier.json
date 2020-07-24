@@ -13,6 +13,8 @@
     "map",
     "Earth-style"
   ],
-  "author": "George MacKerron",
+  "author": {
+    "name": "George MacKerron"
+  },
   "license": "MIT"
 }

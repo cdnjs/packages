@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/facebook/css-layout.git"
   },
-  "author": "",
+  "author": {
+    "name": ""
+  },
   "keywords": [
     "css",
     "flexbox",

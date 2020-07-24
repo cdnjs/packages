@@ -13,7 +13,9 @@
     "logger",
     "indepentdent"
   ],
-  "author": "Nicholas McCready",
+  "author": {
+    "name": "Nicholas McCready"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

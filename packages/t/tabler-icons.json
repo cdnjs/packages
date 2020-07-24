@@ -11,7 +11,9 @@
     "css",
     "icon-pack"
   ],
-  "author": "Paweł Kuna (https://github.com/codecalm)",
+  "author": {
+    "name": "Paweł Kuna (https://github.com/codecalm)"
+  },
   "license": "MIT",
   "homepage": "https://github.com/tabler/tabler-icons#readme",
   "repository": {

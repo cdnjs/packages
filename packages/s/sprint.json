@@ -12,5 +12,7 @@
     "url": "https://github.com/bendc/sprint.git"
   },
   "license": "MIT",
-  "author": "Benjamin De Cock"
+  "author": {
+    "name": "Benjamin De Cock"
+  }
 }

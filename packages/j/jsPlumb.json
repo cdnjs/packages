@@ -20,7 +20,9 @@
     "MIT",
     "GPL-2.0"
   ],
-  "author": "Simon Porritt",
+  "author": {
+    "name": "Simon Porritt"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "jsplumb",

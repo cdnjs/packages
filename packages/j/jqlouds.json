@@ -1,7 +1,9 @@
 {
   "name": "jqlouds",
   "filename": "jquery.jqlouds.min.js",
-  "author": "Enrico Deleo",
+  "author": {
+    "name": "Enrico Deleo"
+  },
   "description": "jQlouds",
   "homepage": "https://enricodeleo.github.io/jqlouds",
   "keywords": [

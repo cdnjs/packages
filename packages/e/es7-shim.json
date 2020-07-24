@@ -2,7 +2,9 @@
   "name": "es7-shim",
   "filename": "es7-shim.min.js",
   "description": "ECMAScript 7 compatibility shims for legacy JavaScript engines",
-  "author": "Jordan Harband <ljharb@gmail.com> (https://github.com/ljharb/)",
+  "author": {
+    "name": "Jordan Harband <ljharb@gmail.com> (https://github.com/ljharb/)"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

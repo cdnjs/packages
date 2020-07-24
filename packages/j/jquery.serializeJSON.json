@@ -25,5 +25,7 @@
     "url": "https://github.com/marioizquierdo/jquery.serializeJSON"
   },
   "license": "MIT",
-  "author": "Mario Izquierdo"
+  "author": {
+    "name": "Mario Izquierdo"
+  }
 }

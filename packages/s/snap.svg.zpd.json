@@ -16,7 +16,9 @@
     "snap.svg plugin",
     "plugin"
   ],
-  "author": "Huei Tan",
+  "author": {
+    "name": "Huei Tan"
+  },
   "license": "BSD-2-Clause",
   "homepage": "https://huei90.github.io/snap.svg.zpd/",
   "autoupdate": {

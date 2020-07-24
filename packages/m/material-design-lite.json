@@ -14,7 +14,9 @@
     "type": "git",
     "url": "https://github.com/google/material-design-lite"
   },
-  "author": "Google",
+  "author": {
+    "name": "Google"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "material-design-lite",

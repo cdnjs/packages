@@ -7,7 +7,9 @@
     "type": "git",
     "url": "https://github.com/primer/primer/tree/master/modules/primer-markdown"
   },
-  "author": "GitHub, Inc.",
+  "author": {
+    "name": "GitHub, Inc."
+  },
   "keywords": [
     "github",
     "markdown",

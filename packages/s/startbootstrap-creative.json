@@ -27,5 +27,7 @@
     "type": "git",
     "url": "https://github.com/BlackrockDigital/startbootstrap-creative"
   },
-  "author": "David Miller"
+  "author": {
+    "name": "David Miller"
+  }
 }

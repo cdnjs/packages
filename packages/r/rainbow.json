@@ -26,5 +26,7 @@
     "url": "https://github.com/ccampbell/rainbow.git"
   },
   "license": "Apache-2.0",
-  "author": "Craig Campbell"
+  "author": {
+    "name": "Craig Campbell"
+  }
 }

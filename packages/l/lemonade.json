@@ -10,7 +10,9 @@
     "sass",
     "framework"
   ],
-  "author": "Joe Richardson",
+  "author": {
+    "name": "Joe Richardson"
+  },
   "license": "MIT",
   "homepage": "http://lemonade.im",
   "autoupdate": {

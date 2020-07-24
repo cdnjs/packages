@@ -28,5 +28,7 @@
       }
     ]
   },
-  "author": "Sam Collins"
+  "author": {
+    "name": "Sam Collins"
+  }
 }

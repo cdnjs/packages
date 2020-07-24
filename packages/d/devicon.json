@@ -14,7 +14,9 @@
   ],
   "license": "MIT",
   "homepage": "https://konpa.github.io/devicon/",
-  "author": "Julien Monty <julien.monty@gmail.com>",
+  "author": {
+    "name": "Julien Monty <julien.monty@gmail.com>"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/konpa/devicon.git",

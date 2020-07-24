@@ -28,5 +28,7 @@
       }
     ]
   },
-  "author": "Túbal Martín <tubalmartin@gmail.com>"
+  "author": {
+    "name": "Túbal Martín <tubalmartin@gmail.com>"
+  }
 }

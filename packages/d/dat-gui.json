@@ -27,5 +27,7 @@
     "type": "git",
     "url": "https://github.com/dataarts/dat.gui"
   },
-  "author": "Google Data Arts Team <dataarts@google.com>"
+  "author": {
+    "name": "Google Data Arts Team <dataarts@google.com>"
+  }
 }

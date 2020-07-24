@@ -2,7 +2,9 @@
   "name": "alasql",
   "filename": "alasql.min.js",
   "description": "Versatile SQL database for browser or node. Handles relational data and nested JSON (noSQL). Export to and import from Excel, localStorage or IndexedDB",
-  "author": "Andrey Gershun <agershun@gmail.com>",
+  "author": {
+    "name": "Andrey Gershun <agershun@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/agershun/alasql.git"

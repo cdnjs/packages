@@ -10,7 +10,9 @@
     "event",
     "delegation"
   ],
-  "author": "Craig Campbell",
+  "author": {
+    "name": "Craig Campbell"
+  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",

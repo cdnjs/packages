@@ -10,7 +10,9 @@
     "template",
     "ruby"
   ],
-  "author": "Mark Vasilkov (https://github.com/mvasilkov)",
+  "author": {
+    "name": "Mark Vasilkov (https://github.com/mvasilkov)"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:mvasilkov/rssi.git"

@@ -9,7 +9,9 @@
     "base",
     "lightweight"
   ],
-  "author": "Tiaan du Plessis @mightyCrow",
+  "author": {
+    "name": "Tiaan du Plessis @mightyCrow"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/mightyCrow/tipograf.git"

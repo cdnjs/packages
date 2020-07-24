@@ -11,7 +11,9 @@
     "image",
     "exif"
   ],
-  "author": "Jacob Seidelin",
+  "author": {
+    "name": "Jacob Seidelin"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

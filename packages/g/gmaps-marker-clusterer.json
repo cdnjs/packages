@@ -11,7 +11,9 @@
     "api",
     "v3"
   ],
-  "author": "Luke Mahe",
+  "author": {
+    "name": "Luke Mahe"
+  },
   "license": "Apache-2.0",
   "homepage": "https://github.com/gmaps-marker-clusterer/gmaps-marker-clusterer#readme",
   "repository": {

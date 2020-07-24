@@ -13,7 +13,9 @@
     "browser"
   ],
   "homepage": "https://www.brython.info",
-  "author": "Pierre Quentel",
+  "author": {
+    "name": "Pierre Quentel"
+  },
   "license": "BSD-3-Clause",
   "autoupdate": {
     "source": "npm",

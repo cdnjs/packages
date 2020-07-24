@@ -9,7 +9,9 @@
     "type": "git",
     "url": "git://github.com/elastic/elasticsearch-js.git"
   },
-  "author": "Spencer Alger <spencer@spenceralger.com>",
+  "author": {
+    "name": "Spencer Alger <spencer@spenceralger.com>"
+  },
   "license": "Apache 2.0",
   "autoupdate": {
     "source": "npm",

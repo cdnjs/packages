@@ -13,7 +13,9 @@
     "url": "https://github.com/soundar24/roundSlider"
   },
   "license": "MIT",
-  "author": "Soundara Pandian <@soundar24>",
+  "author": {
+    "name": "Soundara Pandian <@soundar24>"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/soundar24/roundSlider.git",

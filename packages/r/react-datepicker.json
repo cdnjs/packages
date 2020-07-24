@@ -3,7 +3,9 @@
   "filename": "react-datepicker.min.js",
   "description": "A simple and reusable datepicker component for React",
   "license": "MIT",
-  "author": "HackerOne",
+  "author": {
+    "name": "HackerOne"
+  },
   "homepage": "https://hacker0x01.github.io/react-datepicker/",
   "keywords": [
     "react",

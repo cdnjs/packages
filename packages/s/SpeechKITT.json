@@ -17,7 +17,9 @@
     "webkitspeechrecognition",
     "controls"
   ],
-  "author": "Tal Ater <tal@talater.com> (https://www.talater.com/)",
+  "author": {
+    "name": "Tal Ater <tal@talater.com> (https://www.talater.com/)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

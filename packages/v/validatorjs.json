@@ -25,5 +25,7 @@
       }
     ]
   },
-  "author": "PPOffice"
+  "author": {
+    "name": "PPOffice"
+  }
 }

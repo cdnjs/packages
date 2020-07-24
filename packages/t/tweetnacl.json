@@ -20,7 +20,9 @@
     "salsa20",
     "signatures"
   ],
-  "author": "TweetNaCl-js contributors",
+  "author": {
+    "name": "TweetNaCl-js contributors"
+  },
   "license": "Public domain",
   "homepage": "https://dchest.github.io/tweetnacl-js",
   "autoupdate": {

@@ -33,5 +33,7 @@
     "type": "git",
     "url": "git://github.com/alvarotrigo/fullPage.js.git"
   },
-  "author": "Alvaro Trigo https://github.com/alvarotrigo"
+  "author": {
+    "name": "Alvaro Trigo https://github.com/alvarotrigo"
+  }
 }

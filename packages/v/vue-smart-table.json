@@ -2,7 +2,9 @@
   "name": "vue-smart-table",
   "filename": "vue-smart-table.min.js",
   "description": "A table with dynamic components for vue.js",
-  "author": "Andrea Passaglia <gurghet@gmail.com>",
+  "author": {
+    "name": "Andrea Passaglia <gurghet@gmail.com>"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

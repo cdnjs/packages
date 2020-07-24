@@ -1,5 +1,7 @@
 {
-  "author": "Material-UI Team",
+  "author": {
+    "name": "Material-UI Team"
+  },
   "description": "React components that implement Google's Material Design.",
   "filename": "index.js",
   "homepage": "https://material-ui.com/",

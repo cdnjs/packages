@@ -8,7 +8,9 @@
     "JavaScript",
     "JetBrains"
   ],
-  "author": "JetBrains",
+  "author": {
+    "name": "JetBrains"
+  },
   "license": "Apache-2.0",
   "homepage": "http://kotlinlang.org",
   "repository": {

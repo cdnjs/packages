@@ -25,5 +25,7 @@
     "url": "https://github.com/processing-js/processing-js"
   },
   "license": "MIT",
-  "author": "Processing.js"
+  "author": {
+    "name": "Processing.js"
+  }
 }

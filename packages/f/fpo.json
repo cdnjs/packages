@@ -11,7 +11,9 @@
     "functional",
     "programming"
   ],
-  "author": "Kyle Simpson <getify@gmail.com>",
+  "author": {
+    "name": "Kyle Simpson <getify@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

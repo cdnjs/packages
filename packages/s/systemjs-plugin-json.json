@@ -7,7 +7,9 @@
     "url": "https://github.com/systemjs/plugin-json.git"
   },
   "license": "MIT",
-  "author": "Guy Bedford",
+  "author": {
+    "name": "Guy Bedford"
+  },
   "keywords": [
     "json",
     "plugin",

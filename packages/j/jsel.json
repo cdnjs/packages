@@ -2,7 +2,9 @@
   "name": "jsel",
   "filename": "jsel.min.js",
   "description": "DOM 3 XPath implementation for JavaScript objects.",
-  "author": "Ali Chamas",
+  "author": {
+    "name": "Ali Chamas"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/dragonworx/jsel.git"

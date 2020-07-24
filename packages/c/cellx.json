@@ -10,7 +10,9 @@
     "type": "git",
     "url": "https://github.com/Riim/cellx.git"
   },
-  "author": "Dmitry Vibe",
+  "author": {
+    "name": "Dmitry Vibe"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

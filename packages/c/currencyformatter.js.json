@@ -13,7 +13,9 @@
     "formatting",
     "decimal"
   ],
-  "author": "OSREC <info@osrec.co.uk>",
+  "author": {
+    "name": "OSREC <info@osrec.co.uk>"
+  },
   "license": "MIT",
   "homepage": "https://osrec.github.io/currencyFormatter.js/",
   "autoupdate": {

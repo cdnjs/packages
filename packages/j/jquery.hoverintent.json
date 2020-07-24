@@ -11,7 +11,9 @@
     "jquery.hoverIntent",
     "jquery.hoverintent"
   ],
-  "author": "Brian Cherne <brian@cherne.net> (http://cherne.net/)",
+  "author": {
+    "name": "Brian Cherne <brian@cherne.net> (http://cherne.net/)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

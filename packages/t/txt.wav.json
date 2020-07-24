@@ -12,7 +12,9 @@
     "css",
     "weirdos"
   ],
-  "author": "Still Life Studios <hello@stilllife.studio> (https://www.stilllife.studio)",
+  "author": {
+    "name": "Still Life Studios <hello@stilllife.studio> (https://www.stilllife.studio)"
+  },
   "license": "ISC",
   "homepage": "https://www.stilllife.studio/txtwav",
   "autoupdate": {

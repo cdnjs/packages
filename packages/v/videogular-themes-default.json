@@ -1,7 +1,9 @@
 {
   "name": "videogular-themes-default",
   "filename": "videogular.min.css",
-  "author": "Videogular",
+  "author": {
+    "name": "Videogular"
+  },
   "description": "Default Videogular's theme",
   "keywords": [
     "videogular",

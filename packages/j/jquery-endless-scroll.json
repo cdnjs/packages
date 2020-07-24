@@ -27,5 +27,7 @@
     "type": "git",
     "url": "https://github.com/fredwu/jquery-endless-scroll.git"
   },
-  "author": "Fred Wu"
+  "author": {
+    "name": "Fred Wu"
+  }
 }

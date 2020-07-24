@@ -1,5 +1,7 @@
 {
-  "author": "Claudio Holanda",
+  "author": {
+    "name": "Claudio Holanda"
+  },
   "description": "A micro code-editor for awesome web pages",
   "filename": "codeflask.min.js",
   "homepage": "https://kazzkiq.github.io/CodeFlask/",

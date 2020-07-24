@@ -12,7 +12,9 @@
     "brand colors",
     "colors"
   ],
-  "author": "Piérre Reimertz",
+  "author": {
+    "name": "Piérre Reimertz"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

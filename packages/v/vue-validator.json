@@ -2,7 +2,9 @@
   "name": "vue-validator",
   "filename": "vue-validator.min.js",
   "description": "Validator component for Vue.js",
-  "author": "kazuya kawaguchi",
+  "author": {
+    "name": "kazuya kawaguchi"
+  },
   "keywords": [
     "plugin",
     "validation",

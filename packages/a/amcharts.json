@@ -8,7 +8,9 @@
     "charts"
   ],
   "homepage": "https://www.amcharts.com/",
-  "author": "amCharts <contact@amcharts.com>",
+  "author": {
+    "name": "amCharts <contact@amcharts.com>"
+  },
   "license": {
     "name": "Free and commercial",
     "url": "https://www.amcharts.com/download/"

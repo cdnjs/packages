@@ -12,7 +12,9 @@
     "kiss",
     "performance"
   ],
-  "author": "Simon Friis Vindum",
+  "author": {
+    "name": "Simon Friis Vindum"
+  },
   "license": "MIT",
   "filename": "snabbdom.min.js",
   "autoupdate": {

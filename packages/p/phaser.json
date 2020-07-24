@@ -20,7 +20,9 @@
     "url": "https://github.com/photonstorm/phaser.git"
   },
   "license": "MIT",
-  "author": "Richard Davey <rdavey@gmail.com> (http://www.photonstorm.com)",
+  "author": {
+    "name": "Richard Davey <rdavey@gmail.com> (http://www.photonstorm.com)"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "phaser",

@@ -2,7 +2,9 @@
   "name": "instafeed.js",
   "description": "A simple Instagram javascript plugin for your website.",
   "filename": "instafeed.min.js",
-  "author": "Steven Schobert <spschobert@gmail.com>",
+  "author": {
+    "name": "Steven Schobert <spschobert@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/stevenschobert/instafeed.js.git"

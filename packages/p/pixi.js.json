@@ -16,7 +16,9 @@
     "url": "https://github.com/pixijs/pixi.js.git"
   },
   "license": "MIT",
-  "author": "Mat Groves",
+  "author": {
+    "name": "Mat Groves"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "pixi.js",

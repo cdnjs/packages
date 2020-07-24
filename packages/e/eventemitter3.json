@@ -23,7 +23,9 @@
     "reactor",
     "subscribe"
   ],
-  "author": "Arnout Kazemier",
+  "author": {
+    "name": "Arnout Kazemier"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

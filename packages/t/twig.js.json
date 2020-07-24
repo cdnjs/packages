@@ -1,5 +1,7 @@
 {
-  "author": "John Roepke <john@justjohn.us> (http://john.sh/)",
+  "author": {
+    "name": "John Roepke <john@justjohn.us> (http://john.sh/)"
+  },
   "name": "twig.js",
   "description": "JS port of the Twig templating language.",
   "filename": "twig.min.js",

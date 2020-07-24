@@ -11,7 +11,9 @@
     "select2",
     "css"
   ],
-  "author": "Tom Terrace",
+  "author": {
+    "name": "Tom Terrace"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

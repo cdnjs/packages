@@ -2,7 +2,9 @@
   "name": "plyr",
   "filename": "plyr.min.js",
   "description": "A simple, accessible and customizable HTML5, YouTube and Vimeo media player",
-  "author": "Sam Potts <sam@selz.com>",
+  "author": {
+    "name": "Sam Potts <sam@selz.com>"
+  },
   "homepage": "https://plyr.io",
   "keywords": [
     "HTML5 Video",

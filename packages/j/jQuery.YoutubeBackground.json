@@ -6,7 +6,9 @@
     "background",
     "video"
   ],
-  "author": "rochestb",
+  "author": {
+    "name": "rochestb"
+  },
   "license": "MIT",
   "homepage": "https://github.com/rochestb/jQuery.YoutubeBackground",
   "repository": {

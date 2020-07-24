@@ -19,7 +19,9 @@
     "url": "https://github.com/Availity/react-block-ui.git"
   },
   "license": "MIT",
-  "author": "Evan Sharp <evan.sharp@availity.com> (https://github.com/TheSharpieOne)",
+  "author": {
+    "name": "Evan Sharp <evan.sharp@availity.com> (https://github.com/TheSharpieOne)"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "react-block-ui",

@@ -27,5 +27,7 @@
     "url": "https://github.com/HubSpot/BuckyClient.git"
   },
   "license": "MIT",
-  "author": "Zack Bloom <zbloom@hubspot.com>"
+  "author": {
+    "name": "Zack Bloom <zbloom@hubspot.com>"
+  }
 }

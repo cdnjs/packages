@@ -11,7 +11,9 @@
     "api",
     "function"
   ],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kent.doddsfamily.us)",
+  "author": {
+    "name": "Kent C. Dodds <kent@doddsfamily.us> (http://kent.doddsfamily.us)"
+  },
   "license": "MIT",
   "filename": "api-check.min.js",
   "autoupdate": {

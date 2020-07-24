@@ -9,7 +9,9 @@
     "images"
   ],
   "homepage": "https://brunjo.github.io/rowGrid.js/",
-  "author": "Bruno Joseph <bruno.joseph95@gmail.com> (http://www.brunojoseph.com/)",
+  "author": {
+    "name": "Bruno Joseph <bruno.joseph95@gmail.com> (http://www.brunojoseph.com/)"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

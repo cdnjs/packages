@@ -8,7 +8,9 @@
     "upload",
     "js"
   ],
-  "author": "Fabio Carvalho",
+  "author": {
+    "name": "Fabio Carvalho"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -7,7 +7,9 @@
     "url": "https://github.com/mtrpcic/polljs.git"
   },
   "license": "MIT",
-  "author": "mtrpcic",
+  "author": {
+    "name": "mtrpcic"
+  },
   "keywords": [
     "timer",
     "lightweight",

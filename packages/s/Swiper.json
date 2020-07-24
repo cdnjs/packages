@@ -10,7 +10,9 @@
     "mobile",
     "slider"
   ],
-  "author": "Vladimir Kharlampidi",
+  "author": {
+    "name": "Vladimir Kharlampidi"
+  },
   "homepage": "http://www.idangero.us/sliders/swiper",
   "licenses": [
     "GPL",

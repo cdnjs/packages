@@ -1,6 +1,8 @@
 {
   "name": "validate.js",
-  "author": "Nicklas Ansman <nicklas@ansman.se>",
+  "author": {
+    "name": "Nicklas Ansman <nicklas@ansman.se>"
+  },
   "description": "Declarative validations for JavaScript",
   "homepage": "http://validatejs.org",
   "repository": {

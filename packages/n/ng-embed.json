@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/ritz078/ng-embed.git"
   },
-  "author": "Ritesh Kumar <rkritesh078@gmail.com>",
+  "author": {
+    "name": "Ritesh Kumar <rkritesh078@gmail.com>"
+  },
   "license": "MIT",
   "keywords": [
     "emoticons",

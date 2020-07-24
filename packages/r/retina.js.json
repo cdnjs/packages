@@ -13,7 +13,9 @@
     "url": "https://github.com/imulus/retinajs.git"
   },
   "license": "MIT",
-  "author": "Imulus, LLC <developer@imulus.com>",
+  "author": {
+    "name": "Imulus, LLC <developer@imulus.com>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "retinajs",

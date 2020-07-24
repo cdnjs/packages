@@ -7,7 +7,9 @@
     "url": "https://github.com/LeaVerou/stretchy.git"
   },
   "homepage": "https://leaverou.github.io/stretchy/",
-  "author": "Lea Verou",
+  "author": {
+    "name": "Lea Verou"
+  },
   "license": "MIT",
   "keywords": [
     "element",

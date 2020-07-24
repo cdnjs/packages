@@ -2,7 +2,9 @@
   "name": "egjs-visible",
   "filename": "visible.min.js",
   "description": "A class that checks if an element is visible in the base element or viewport.",
-  "author": "NAVER Corp.",
+  "author": {
+    "name": "NAVER Corp."
+  },
   "license": "MIT",
   "keywords": [
     "egjs",

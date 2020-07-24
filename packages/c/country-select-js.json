@@ -11,7 +11,9 @@
     "international",
     "jQuery"
   ],
-  "author": "Mark French",
+  "author": {
+    "name": "Mark French"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

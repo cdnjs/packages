@@ -14,7 +14,9 @@
     "atomic",
     "design"
   ],
-  "author": "Cole Peters",
+  "author": {
+    "name": "Cole Peters"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

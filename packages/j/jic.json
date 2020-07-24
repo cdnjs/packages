@@ -29,5 +29,7 @@
       }
     ]
   },
-  "author": "Bruno Barbieri <brunobar79@gmail.com>"
+  "author": {
+    "name": "Bruno Barbieri <brunobar79@gmail.com>"
+  }
 }

@@ -7,7 +7,9 @@
     "sanitizer",
     "apostrophecms"
   ],
-  "author": "Apostrophe Technologies, Inc.",
+  "author": {
+    "name": "Apostrophe Technologies, Inc."
+  },
   "license": "MIT",
   "homepage": "https://github.com/apostrophecms/sanitize-html#readme",
   "repository": {

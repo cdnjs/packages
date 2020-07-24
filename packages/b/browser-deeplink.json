@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/hampusohlsson/browser-deeplink"
   },
-  "author": "Hampus Ohlsson",
+  "author": {
+    "name": "Hampus Ohlsson"
+  },
   "license": "MIT",
   "keywords": [
     "redirect",

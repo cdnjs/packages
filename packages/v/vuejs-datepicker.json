@@ -13,7 +13,9 @@
     "url": "https://github.com/charliekassel/vuejs-datepicker.git"
   },
   "license": "MIT",
-  "author": "Charlie Kassel <ck@charliekassel.com>",
+  "author": {
+    "name": "Charlie Kassel <ck@charliekassel.com>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "vuejs-datepicker",

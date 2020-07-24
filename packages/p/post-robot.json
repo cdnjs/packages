@@ -1,5 +1,7 @@
 {
-  "author": "kraken.js team at PayPal",
+  "author": {
+    "name": "kraken.js team at PayPal"
+  },
   "description": "Simple postMessage based server.",
   "filename": "post-robot.min.js",
   "homepage": "https://github.com/krakenjs/post-robot#readme",

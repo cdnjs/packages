@@ -11,7 +11,9 @@
     "Pathfinding",
     "Algorithm"
   ],
-  "author": "Brian Grinstead",
+  "author": {
+    "name": "Brian Grinstead"
+  },
   "license": "MIT",
   "homepage": "https://bgrins.github.io/javascript-astar",
   "autoupdate": {

@@ -1,5 +1,7 @@
 {
-  "author": "Siddique Hameed",
+  "author": {
+    "name": "Siddique Hameed"
+  },
   "name": "angular-timer",
   "description": "A simple, re-usable, inter-operable timer directive",
   "filename": "angular-timer.min.js",

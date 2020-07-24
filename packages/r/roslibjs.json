@@ -15,7 +15,9 @@
     "roslibjs",
     "robot"
   ],
-  "author": "Robot Webtools Team <robot-web-tools@googlegroups.com> (http://robotwebtools.org)",
+  "author": {
+    "name": "Robot Webtools Team <robot-web-tools@googlegroups.com> (http://robotwebtools.org)"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/RobotWebTools/roslibjs.git",

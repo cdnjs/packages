@@ -1,5 +1,7 @@
 {
-  "author": "Eduardo Cereto Carvalho (http://www.cardinalpath.com)",
+  "author": {
+    "name": "Eduardo Cereto Carvalho (http://www.cardinalpath.com)"
+  },
   "name": "gas",
   "filename": "gas.min.js",
   "description": "Google Analytics on Steroids",

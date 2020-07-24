@@ -13,7 +13,9 @@
     "fingerprinting",
     "privacy"
   ],
-  "author": "Valentin Vasilyev",
+  "author": {
+    "name": "Valentin Vasilyev"
+  },
   "license": "MIT",
   "homepage": "https://valve.github.io/fingerprintjs2/",
   "autoupdate": {

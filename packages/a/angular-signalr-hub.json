@@ -13,7 +13,9 @@
     "hub",
     "service"
   ],
-  "author": "Justin Maier <just.maier@gmail.com> (http://justinmaier.com)",
+  "author": {
+    "name": "Justin Maier <just.maier@gmail.com> (http://justinmaier.com)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

@@ -32,5 +32,7 @@
     "url": "git://github.com/devote/HTML5-History-API.git"
   },
   "license": "MIT",
-  "author": "Dmitrii Pakhtinov"
+  "author": {
+    "name": "Dmitrii Pakhtinov"
+  }
 }

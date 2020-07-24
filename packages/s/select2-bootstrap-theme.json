@@ -12,7 +12,9 @@
     "select2",
     "css"
   ],
-  "author": "Florian Kissling",
+  "author": {
+    "name": "Florian Kissling"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -10,7 +10,9 @@
     "framework",
     "javascript"
   ],
-  "author": "Arthur Guiot",
+  "author": {
+    "name": "Arthur Guiot"
+  },
   "license": "MIT",
   "homepage": "https://display.js.org",
   "repository": {

@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/daniel-lundin/snabbt.js.git"
   },
-  "author": "Daniel Lundin",
+  "author": {
+    "name": "Daniel Lundin"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

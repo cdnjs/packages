@@ -10,7 +10,9 @@
     "type": "git",
     "url": "https://github.com/i18next/i18next-browser-languageDetector.git"
   },
-  "author": "Jan Mühlemann <jan.muehlemann@gmail.com> (https://github.com/jamuhl)",
+  "author": {
+    "name": "Jan Mühlemann <jan.muehlemann@gmail.com> (https://github.com/jamuhl)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

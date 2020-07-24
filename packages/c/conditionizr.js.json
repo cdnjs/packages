@@ -17,5 +17,7 @@
     "url": "https://github.com/conditionizr/conditionizr"
   },
   "license": "MIT",
-  "author": "@toddmotto, @markgdyr"
+  "author": {
+    "name": "@toddmotto, @markgdyr"
+  }
 }

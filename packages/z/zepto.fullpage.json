@@ -23,5 +23,7 @@
       }
     ]
   },
-  "author": "yanhaijing <yanhaijing@yeah.net>"
+  "author": {
+    "name": "yanhaijing <yanhaijing@yeah.net>"
+  }
 }

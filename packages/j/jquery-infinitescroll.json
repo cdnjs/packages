@@ -36,5 +36,7 @@
       "url": "https://github.com/metafizzy/infinite-scroll#commercial-license"
     }
   ],
-  "author": "Metafizzy"
+  "author": {
+    "name": "Metafizzy"
+  }
 }

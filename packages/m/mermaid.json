@@ -16,7 +16,9 @@
     "url": "https://github.com/knsv/mermaid"
   },
   "license": "MIT",
-  "author": "Knut Sveidqvist",
+  "author": {
+    "name": "Knut Sveidqvist"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "mermaid",

@@ -11,7 +11,9 @@
     "type": "git",
     "url": "git://github.com/BafS/mu.git"
   },
-  "author": "BafS",
+  "author": {
+    "name": "BafS"
+  },
   "license": "MIT",
   "homepage": "https://bafs.github.io/mu/",
   "autoupdate": {

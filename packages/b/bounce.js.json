@@ -1,5 +1,7 @@
 {
-  "author": "Joel Besada",
+  "author": {
+    "name": "Joel Besada"
+  },
   "description": "Bounce.js is a tool and JS library for generating beautiful CSS3 powered keyframe animations.",
   "filename": "bounce.min.js",
   "homepage": "https://bouncejs.com",

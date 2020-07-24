@@ -11,7 +11,9 @@
     "swipebox",
     "popular"
   ],
-  "author": "brutaldesign",
+  "author": {
+    "name": "brutaldesign"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/brutaldesign/swipebox.git",

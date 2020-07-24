@@ -15,5 +15,7 @@
     "url": "https://github.com/replit/jq-console.git"
   },
   "license": "MIT",
-  "author": "amasad"
+  "author": {
+    "name": "amasad"
+  }
 }

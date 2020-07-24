@@ -11,7 +11,9 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": "Roman Pushkin <roman.pushkin@gmail.com>",
+  "author": {
+    "name": "Roman Pushkin <roman.pushkin@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

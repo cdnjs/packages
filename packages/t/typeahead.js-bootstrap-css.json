@@ -7,7 +7,9 @@
     "bootstrap",
     "typeahead.js"
   ],
-  "author": "Bass Jobsen",
+  "author": {
+    "name": "Bass Jobsen"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/bassjobsen/typeahead.js-bootstrap-css.git"

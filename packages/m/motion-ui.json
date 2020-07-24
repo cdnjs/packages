@@ -10,7 +10,9 @@
     "Sass",
     "motion"
   ],
-  "author": "ZURB <foundation@zurb.com>",
+  "author": {
+    "name": "ZURB <foundation@zurb.com>"
+  },
   "license": "MIT",
   "homepage": "http://zurb.com/playground/motion-ui",
   "autoupdate": {

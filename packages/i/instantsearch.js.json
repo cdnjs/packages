@@ -2,7 +2,9 @@
   "name": "instantsearch.js",
   "filename": "instantsearch.production.min.js",
   "description": "instantsearch.js is a library of widgets to build high performance instant search experiences using Algolia",
-  "author": "Algolia <support@algolia.com>",
+  "author": {
+    "name": "Algolia <support@algolia.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/algolia/instantsearch.js"

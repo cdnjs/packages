@@ -18,7 +18,9 @@
     "type": "git",
     "url": "git+https://github.com/gibbok/animatelo.git"
   },
-  "author": "GibboK",
+  "author": {
+    "name": "GibboK"
+  },
   "license": "MIT",
   "homepage": "https://gibbok.github.io/animatelo/",
   "autoupdate": {

@@ -12,7 +12,9 @@
     "url": "https://github.com/Leimi/drawingboard.js"
   },
   "license": "MIT",
-  "author": "Emmanuel Pelletier <@Leimi> (http://manu.habite.la/)",
+  "author": {
+    "name": "Emmanuel Pelletier <@Leimi> (http://manu.habite.la/)"
+  },
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/Leimi/drawingboard.js.git",

@@ -5,7 +5,9 @@
     "type": "git",
     "url": "https://github.com/matthew-andrews/isomorphic-fetch.git"
   },
-  "author": "Matt Andrews <matt@mattandre.ws> (http://mattandre.ws/)",
+  "author": {
+    "name": "Matt Andrews <matt@mattandre.ws> (http://mattandre.ws/)"
+  },
   "license": "MIT",
   "filename": "fetch-npm-browserify.min.js",
   "keywords": [

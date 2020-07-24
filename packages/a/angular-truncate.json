@@ -3,7 +3,9 @@
   "description": "Angular Truncate - Ellipsis for your templates",
   "filename": "truncate.min.js",
   "homepage": "http://sparkalow.github.com/angular-truncate",
-  "author": "Brian Mathews (sparkalow)",
+  "author": {
+    "name": "Brian Mathews (sparkalow)"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/sparkalow/angular-truncate.git"

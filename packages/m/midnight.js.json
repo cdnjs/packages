@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/Aerolab/midnight.js"
   },
-  "author": "Aerolab",
+  "author": {
+    "name": "Aerolab"
+  },
   "license": "MIT",
   "homepage": "https://aerolab.github.io/midnight.js/",
   "autoupdate": {

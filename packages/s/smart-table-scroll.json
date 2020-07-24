@@ -12,7 +12,9 @@
     "browser",
     "data"
   ],
-  "author": "Chris Polis, @ChrisPolis",
+  "author": {
+    "name": "Chris Polis, @ChrisPolis"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

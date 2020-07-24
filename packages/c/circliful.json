@@ -19,7 +19,9 @@
     ]
   },
   "description": "jQuery circle statitic plugin",
-  "author": "Patric Gutersohn <pguso@gmx.de>",
+  "author": {
+    "name": "Patric Gutersohn <pguso@gmx.de>"
+  },
   "keywords": [
     "circliful"
   ]

@@ -13,7 +13,9 @@
     "table",
     "md-data-table"
   ],
-  "author": "Daniel Nagy",
+  "author": {
+    "name": "Daniel Nagy"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "angular-material-data-table",

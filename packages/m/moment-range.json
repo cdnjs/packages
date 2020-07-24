@@ -13,7 +13,9 @@
     "url": "https://github.com/rotaready/moment-range.git"
   },
   "license": "UNLICENSE",
-  "author": "Gianni Chiappetta <gianni@runlevel6.org> (http://butt.zone)",
+  "author": {
+    "name": "Gianni Chiappetta <gianni@runlevel6.org> (http://butt.zone)"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "moment-range",

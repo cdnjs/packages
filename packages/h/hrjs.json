@@ -2,7 +2,9 @@
   "name": "hrjs",
   "filename": "hr.min.js",
   "description": "Tiny JavaScript plugin for gighlighting and replacing text in the dom",
-  "author": "Mehmet Burak Erman",
+  "author": {
+    "name": "Mehmet Burak Erman"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

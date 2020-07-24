@@ -8,7 +8,9 @@
     "latex",
     "khan"
   ],
-  "author": "Khan Academy",
+  "author": {
+    "name": "Khan Academy"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

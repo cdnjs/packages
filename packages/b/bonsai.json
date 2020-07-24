@@ -12,6 +12,8 @@
     "type": "git",
     "url": "https://github.com/uxebu/bonsai/"
   },
-  "author": "uxebu Inc. (http://uxebu.com/)",
+  "author": {
+    "name": "uxebu Inc. (http://uxebu.com/)"
+  },
   "license": "MIT"
 }

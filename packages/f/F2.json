@@ -6,7 +6,9 @@
   ],
   "filename": "f2.min.js",
   "homepage": "http://www.openf2.org",
-  "author": "Markit On Demand, Inc",
+  "author": {
+    "name": "Markit On Demand, Inc"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/OpenF2/F2.git"

@@ -1,7 +1,9 @@
 {
   "name": "yasqe",
   "description": "Yet Another SPARQL Query Editor",
-  "author": "Laurens Rietveld",
+  "author": {
+    "name": "Laurens Rietveld"
+  },
   "homepage": "http://yasqe.yasgui.org",
   "keywords": [
     "JavaScript",

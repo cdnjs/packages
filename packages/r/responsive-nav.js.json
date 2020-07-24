@@ -29,5 +29,7 @@
     "url": "https://github.com/viljamis/responsive-nav.js"
   },
   "license": "MIT",
-  "author": "Viljami Salminen"
+  "author": {
+    "name": "Viljami Salminen"
+  }
 }

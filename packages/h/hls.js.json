@@ -14,7 +14,9 @@
     "mediasource",
     "player"
   ],
-  "author": "Guillaume du Pontavice <g.du.pontavice@gmail.com>",
+  "author": {
+    "name": "Guillaume du Pontavice <g.du.pontavice@gmail.com>"
+  },
   "homepage": "https://hls-js.netlify.com/demo/",
   "autoupdate": {
     "source": "npm",

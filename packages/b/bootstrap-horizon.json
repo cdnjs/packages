@@ -12,7 +12,9 @@
     "scroll",
     "row"
   ],
-  "author": "Pier-Luc Gendreau",
+  "author": {
+    "name": "Pier-Luc Gendreau"
+  },
   "license": "MIT",
   "homepage": "https://zertz.github.io/bootstrap-horizon/",
   "autoupdate": {

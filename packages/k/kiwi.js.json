@@ -2,7 +2,9 @@
   "name": "kiwi.js",
   "description": "Kiwi.js is a Javascript/Typescript library for creating HTML5 games.",
   "keywords": [],
-  "author": "GameLab",
+  "author": {
+    "name": "GameLab"
+  },
   "license": "MIT",
   "homepage": "http://kiwijs.org/",
   "repository": {

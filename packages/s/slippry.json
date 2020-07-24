@@ -9,7 +9,9 @@
     "plugin",
     "PIXELS"
   ],
-  "author": "Lukas Jakob Hafner <luki@booncon.com>",
+  "author": {
+    "name": "Lukas Jakob Hafner <luki@booncon.com>"
+  },
   "homepage": "http://slippry.com",
   "repository": {
     "type": "git",

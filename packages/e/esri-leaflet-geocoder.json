@@ -2,7 +2,9 @@
   "name": "esri-leaflet-geocoder",
   "filename": "esri-leaflet-geocoder.js",
   "description": "Esri Geocoding utility and search plugin for Leaflet.",
-  "author": "Patrick Arlt <parlt@esri.com> (http://patrickarlt.com)",
+  "author": {
+    "name": "Patrick Arlt <parlt@esri.com> (http://patrickarlt.com)"
+  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",

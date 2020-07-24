@@ -12,7 +12,9 @@
     "chooser",
     "calendar"
   ],
-  "author": "Chris Davies <ferociousturtle@gmail.com>",
+  "author": {
+    "name": "Chris Davies <ferociousturtle@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

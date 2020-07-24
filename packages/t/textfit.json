@@ -11,7 +11,9 @@
     "fit",
     "text"
   ],
-  "author": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)",
+  "author": {
+    "name": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

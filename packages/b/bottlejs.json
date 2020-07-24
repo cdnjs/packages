@@ -14,7 +14,9 @@
     "angular",
     "pimple"
   ],
-  "author": "Stephen Young <young.steveo@gmail.com>",
+  "author": {
+    "name": "Stephen Young <young.steveo@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

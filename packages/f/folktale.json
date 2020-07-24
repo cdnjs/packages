@@ -14,7 +14,9 @@
     "monads",
     "algebraic-data-types"
   ],
-  "author": "Quildreen Motta",
+  "author": {
+    "name": "Quildreen Motta"
+  },
   "license": "MIT",
   "homepage": "http://folktale.origamitower.com/",
   "autoupdate": {

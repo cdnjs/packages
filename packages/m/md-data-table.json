@@ -2,7 +2,9 @@
   "name": "md-data-table",
   "filename": "md-data-table.min.js",
   "description": "Angular material table. Complete implementation of google material design based on angular material components.",
-  "author": "Istvan Fodor <programtervezo@gmail.com>",
+  "author": {
+    "name": "Istvan Fodor <programtervezo@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/iamisti/mdDataTable.git"

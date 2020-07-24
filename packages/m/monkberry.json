@@ -12,7 +12,9 @@
     "view",
     "ui"
   ],
-  "author": "Anton Medvedev <anton@medv.io>",
+  "author": {
+    "name": "Anton Medvedev <anton@medv.io>"
+  },
   "license": "MIT",
   "homepage": "http://monkberry.js.org",
   "autoupdate": {

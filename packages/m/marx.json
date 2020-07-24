@@ -26,7 +26,9 @@
     "format",
     "classless"
   ],
-  "author": "Matthew Blode",
+  "author": {
+    "name": "Matthew Blode"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -1,6 +1,8 @@
 {
   "name": "jQuery-viewport-checker",
-  "author": "Dirk Groenen",
+  "author": {
+    "name": "Dirk Groenen"
+  },
   "filename": "jquery.viewportchecker.min.js",
   "description": "Little script that detects if an element is in the viewport and adds a class to it.",
   "repository": {

@@ -12,7 +12,9 @@
     "type": "git",
     "url": "https://github.com/srijs/rusha"
   },
-  "author": "Sam Rijs",
+  "author": {
+    "name": "Sam Rijs"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

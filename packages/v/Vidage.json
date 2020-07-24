@@ -14,7 +14,9 @@
     "image",
     "background"
   ],
-  "author": "dvL-den",
+  "author": {
+    "name": "dvL-den"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

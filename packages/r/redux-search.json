@@ -12,7 +12,9 @@
     "state",
     "middleware"
   ],
-  "author": "Treasure Data",
+  "author": {
+    "name": "Treasure Data"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

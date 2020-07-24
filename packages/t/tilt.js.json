@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git@github.com:gijsroge/tilt.js.git"
   },
-  "author": "gijsroge <rogegijs@gmail.com>",
+  "author": {
+    "name": "gijsroge <rogegijs@gmail.com>"
+  },
   "license": "MIT",
   "homepage": "https://gijsroge.github.io/tilt.js",
   "keywords": [

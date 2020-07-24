@@ -11,7 +11,9 @@
     "touch",
     "javascript"
   ],
-  "author": "ZingChart",
+  "author": {
+    "name": "ZingChart"
+  },
   "license": "MIT",
   "homepage": "https://zingchart.github.io/zingtouch/",
   "autoupdate": {

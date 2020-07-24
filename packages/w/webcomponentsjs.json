@@ -14,7 +14,9 @@
     "url": "git://github.com/webcomponents/webcomponentsjs"
   },
   "description": "webcomponents.js",
-  "author": "The Polymer Authors",
+  "author": {
+    "name": "The Polymer Authors"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "@webcomponents/webcomponentsjs",

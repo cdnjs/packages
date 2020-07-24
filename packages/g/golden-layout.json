@@ -1,6 +1,8 @@
 {
   "name": "golden-layout",
-  "author": "deepstreamHub GmbH",
+  "author": {
+    "name": "deepstreamHub GmbH"
+  },
   "filename": "goldenlayout.min.js",
   "license": "MIT",
   "description": "A multi-screen javascript Layout manager",

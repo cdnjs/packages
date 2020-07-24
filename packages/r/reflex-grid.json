@@ -10,7 +10,9 @@
     "grid",
     "SCSS"
   ],
-  "author": "@leejordan",
+  "author": {
+    "name": "@leejordan"
+  },
   "license": "MIT",
   "homepage": "http://reflexgrid.com",
   "repository": {

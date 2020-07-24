@@ -12,7 +12,9 @@
     "grid",
     "css"
   ],
-  "author": "@dam",
+  "author": {
+    "name": "@dam"
+  },
   "license": "Apache-2.0",
   "homepage": "http://flexboxgrid.com",
   "autoupdate": {

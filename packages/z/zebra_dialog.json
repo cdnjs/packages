@@ -11,7 +11,9 @@
     "ui",
     "confirmation"
   ],
-  "author": "Stefan Gabos <contact@stefangabos.ro>",
+  "author": {
+    "name": "Stefan Gabos <contact@stefangabos.ro>"
+  },
   "license": "LGPL-3.0",
   "homepage": "https://github.com/stefangabos/Zebra_Dialog",
   "repository": {

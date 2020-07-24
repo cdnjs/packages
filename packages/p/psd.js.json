@@ -29,5 +29,7 @@
     "url": "https://github.com/meltingice/psd.js.git"
   },
   "license": "MIT",
-  "author": "Ryan LeFevre <meltingice8917@gmail.com>"
+  "author": {
+    "name": "Ryan LeFevre <meltingice8917@gmail.com>"
+  }
 }

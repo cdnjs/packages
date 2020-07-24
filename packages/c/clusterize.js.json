@@ -15,7 +15,9 @@
     "scroll",
     "cluster"
   ],
-  "author": "Denis Lukov",
+  "author": {
+    "name": "Denis Lukov"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

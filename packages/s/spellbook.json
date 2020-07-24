@@ -21,7 +21,9 @@
     "promise",
     "promises"
   ],
-  "author": "Josep Subils <js@js.com> (http://js.gl)",
+  "author": {
+    "name": "Josep Subils <js@js.com> (http://js.gl)"
+  },
   "license": "MIT",
   "homepage": "http://www.spellbook.io",
   "autoupdate": {

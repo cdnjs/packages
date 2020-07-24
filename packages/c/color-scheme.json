@@ -2,7 +2,9 @@
   "name": "color-scheme",
   "filename": "color-scheme.min.js",
   "description": "Generate pleasant color schemes",
-  "author": "Brian Hann",
+  "author": {
+    "name": "Brian Hann"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

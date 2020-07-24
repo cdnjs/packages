@@ -2,7 +2,9 @@
   "name": "timer.jquery",
   "filename": "timer.jquery.min.js",
   "description": "Start/Stop/Resume/Remove a timer inside any HTML element.",
-  "author": "Walmik Deshpande",
+  "author": {
+    "name": "Walmik Deshpande"
+  },
   "homepage": "http://jquerytimer.com",
   "keywords": [
     "jQuery",

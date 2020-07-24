@@ -13,7 +13,9 @@
     "precision",
     "arithmetic"
   ],
-  "author": "Peter Olson <peter.e.c.olson+npm@gmail.com>",
+  "author": {
+    "name": "Peter Olson <peter.e.c.olson+npm@gmail.com>"
+  },
   "license": "Unlicense",
   "repository": {
     "type": "git",

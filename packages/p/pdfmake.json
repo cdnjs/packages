@@ -26,5 +26,7 @@
       }
     ]
   },
-  "author": "Bartek Pampuch <bartosz.pampuch@gmail.com>"
+  "author": {
+    "name": "Bartek Pampuch <bartosz.pampuch@gmail.com>"
+  }
 }

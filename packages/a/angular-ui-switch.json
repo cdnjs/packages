@@ -13,7 +13,9 @@
     "checkbox",
     "form"
   ],
-  "author": "xpeper <xpepermint@gmail.com>",
+  "author": {
+    "name": "xpeper <xpepermint@gmail.com>"
+  },
   "license": "MIT",
   "homepage": "https://github.com/xpepermint/angular-ui-switch",
   "repository": {

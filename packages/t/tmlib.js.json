@@ -10,7 +10,9 @@
     "javascript",
     "game"
   ],
-  "author": "phi",
+  "author": {
+    "name": "phi"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

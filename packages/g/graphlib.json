@@ -5,7 +5,9 @@
     "graph",
     "algorithms"
   ],
-  "author": "Chris Pettitt <cpettitt@gmail.com>",
+  "author": {
+    "name": "Chris Pettitt <cpettitt@gmail.com>"
+  },
   "license": "MIT",
   "homepage": "https://github.com/dagrejs/graphlib",
   "repository": {

@@ -17,7 +17,9 @@
   },
   "homepage": "http://keith-wood.name/datepick.HTML",
   "license": "MIT",
-  "author": "Keith Wood <wood.keith@optusnet.com.au> (http://keith-wood.name)",
+  "author": {
+    "name": "Keith Wood <wood.keith@optusnet.com.au> (http://keith-wood.name)"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/kbwood/datepick.git",

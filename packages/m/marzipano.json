@@ -1,5 +1,7 @@
 {
-  "author": "Google Inc.",
+  "author": {
+    "name": "Google Inc."
+  },
   "description": "A 360° media viewer for the modern web",
   "filename": "marzipano.js",
   "homepage": "http://www.marzipano.net",

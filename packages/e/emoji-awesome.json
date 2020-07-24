@@ -6,7 +6,9 @@
     "emoji",
     "emoji-awesome"
   ],
-  "author": "Zeeshan Ahmad <ziishaned@gmail.com>",
+  "author": {
+    "name": "Zeeshan Ahmad <ziishaned@gmail.com>"
+  },
   "license": "MIT",
   "homepage": "https://github.com/ziishaned/emoji-awesome",
   "repository": {

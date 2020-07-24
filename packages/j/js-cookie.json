@@ -29,5 +29,7 @@
     "url": "git://github.com/js-cookie/js-cookie.git"
   },
   "license": "MIT",
-  "author": "Klaus Hartl"
+  "author": {
+    "name": "Klaus Hartl"
+  }
 }

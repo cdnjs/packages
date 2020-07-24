@@ -21,7 +21,9 @@
     "format",
     "converter"
   ],
-  "author": "Tom MacWright",
+  "author": {
+    "name": "Tom MacWright"
+  },
   "license": "BSD-3-Clause",
   "autoupdate": {
     "source": "npm",

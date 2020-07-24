@@ -2,7 +2,9 @@
   "name": "trackpad-scroll-emulator",
   "license": "MIT",
   "description": "A jQuery plugin that emulates OSX trackpad-style scrollbars in any browser or platform.",
-  "author": "Jonathan Nicol @f6design",
+  "author": {
+    "name": "Jonathan Nicol @f6design"
+  },
   "keywords": [
     "jquery",
     "plugin",

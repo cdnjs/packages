@@ -11,7 +11,9 @@
     "jquery",
     "jquery-plugin"
   ],
-  "author": "Mudit Ameta",
+  "author": {
+    "name": "Mudit Ameta"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

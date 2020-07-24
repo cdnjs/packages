@@ -3,7 +3,9 @@
   "filename": "angular-nvd3.min.js",
   "description": "An AngularJS directive for NVD3.js reusable charting library",
   "homepage": "http://krispo.github.io/angular-nvd3",
-  "author": "Konstantin Skipor",
+  "author": {
+    "name": "Konstantin Skipor"
+  },
   "license": "MIT",
   "keywords": [
     "angular",

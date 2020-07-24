@@ -25,5 +25,7 @@
     "url": "https://github.com/guillaumepotier/Garlic.js"
   },
   "license": "MIT",
-  "author": "Guillaume Potier"
+  "author": {
+    "name": "Guillaume Potier"
+  }
 }

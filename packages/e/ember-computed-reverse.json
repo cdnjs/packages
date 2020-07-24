@@ -23,5 +23,7 @@
     "url": "https://github.com/gdub22/ember-computed-reverse"
   },
   "license": "MIT",
-  "author": "Garth Poitras <garth22@gmail.com> (http://garthpoitras.com/)"
+  "author": {
+    "name": "Garth Poitras <garth22@gmail.com> (http://garthpoitras.com/)"
+  }
 }

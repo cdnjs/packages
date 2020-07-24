@@ -1,5 +1,7 @@
 {
-  "author": "Adones Pitogo <pitogo.adones@gmail.com>",
+  "author": {
+    "name": "Adones Pitogo <pitogo.adones@gmail.com>"
+  },
   "description": "Converts files from file input into base64 encoded models.",
   "filename": "angular-base64-upload.min.js",
   "homepage": "https://github.com/adonespitogo/angular-base64-upload",

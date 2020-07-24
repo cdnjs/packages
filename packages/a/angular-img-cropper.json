@@ -15,7 +15,9 @@
     "aspect",
     "crop"
   ],
-  "author": "Allan Bishop<allan.bishop@gmail.com>",
+  "author": {
+    "name": "Allan Bishop<allan.bishop@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

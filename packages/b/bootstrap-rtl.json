@@ -2,7 +2,9 @@
   "name": "bootstrap-rtl",
   "filename": "css/bootstrap-rtl.min.css",
   "description": "Right-to-left (RTL) theme for Boostrap 3.x",
-  "author": "Morteza Ansarinia <ansarinia@me.com>",
+  "author": {
+    "name": "Morteza Ansarinia <ansarinia@me.com>"
+  },
   "keywords": [
     "twitter",
     "bootstrap",

@@ -13,7 +13,9 @@
   ],
   "license": "MIT",
   "homepage": "http://threedubmedia.com/",
-  "author": "threedubmedia",
+  "author": {
+    "name": "threedubmedia"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/threedubmedia/jquery.threedubmedia.git",

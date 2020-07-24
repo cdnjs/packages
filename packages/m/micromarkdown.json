@@ -9,7 +9,9 @@
     "html",
     "parser"
   ],
-  "author": "Simon Waldherr <contact@simonwaldherr.de> (http://simon.waldherr.eu/)",
+  "author": {
+    "name": "Simon Waldherr <contact@simonwaldherr.de> (http://simon.waldherr.eu/)"
+  },
   "license": "MIT",
   "homepage": "https://github.com/SimonWaldherr/micromarkdown.js",
   "repository": {

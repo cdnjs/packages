@@ -12,7 +12,9 @@
     "JSON",
     "REST"
   ],
-  "author": "Typicode <typicode@gmail.com>",
+  "author": {
+    "name": "Typicode <typicode@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

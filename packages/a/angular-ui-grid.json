@@ -20,7 +20,9 @@
     "type": "git",
     "url": "https://github.com/angular-ui/ui-grid"
   },
-  "author": "__Contributors__",
+  "author": {
+    "name": "__Contributors__"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "angular-ui-grid",

@@ -11,7 +11,9 @@
     "materialize-css",
     "materialize css"
   ],
-  "author": "Ruby Boyarski <rubyboy@gmail.com>",
+  "author": {
+    "name": "Ruby Boyarski <rubyboy@gmail.com>"
+  },
   "license": "MIT",
   "homepage": "https://github.com/InfomediaLtd/angular2-materialize#readme",
   "repository": {

@@ -12,7 +12,9 @@
     "type": "git",
     "url": "https://github.com/igorlino/angular-elevatezoom-plus.git"
   },
-  "author": "Igor Lino",
+  "author": {
+    "name": "Igor Lino"
+  },
   "homepage": "https://igorlino.github.io/angular-elevatezoom-plus/",
   "autoupdate": {
     "source": "git",

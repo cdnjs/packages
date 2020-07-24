@@ -13,7 +13,9 @@
     "moment",
     "momentjs"
   ],
-  "author": "Giampaolo Bellavite <io@gpbl.org>",
+  "author": {
+    "name": "Giampaolo Bellavite <io@gpbl.org>"
+  },
   "license": "MIT",
   "homepage": "https://react-day-picker.js.org",
   "repository": {

@@ -1,7 +1,9 @@
 {
   "name": "gitter-sidecar",
   "description": "An embeddable Gitter client.",
-  "author": "The Gitter Team",
+  "author": {
+    "name": "The Gitter Team"
+  },
   "license": "MIT",
   "filename": "sidecar.js",
   "keywords": [

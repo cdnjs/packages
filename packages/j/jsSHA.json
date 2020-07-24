@@ -22,7 +22,9 @@
     "hash"
   ],
   "license": "BSD",
-  "author": "Brian Turek <brian.turek@gmail.com>",
+  "author": {
+    "name": "Brian Turek <brian.turek@gmail.com>"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/Caligatio/jsSHA.git",

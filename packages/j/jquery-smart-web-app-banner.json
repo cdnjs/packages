@@ -1,7 +1,9 @@
 {
   "name": "jquery-smart-web-app-banner",
   "filename": "jquery.smartwebbanner.min.js",
-  "author": "Kurt Zenisek <kurt@kzeni.com> (http://kzeni.com/)",
+  "author": {
+    "name": "Kurt Zenisek <kurt@kzeni.com> (http://kzeni.com/)"
+  },
   "description": "Add this small script to your site & invite your visitors to save your site to their home screen alongside the rest of their apps!",
   "homepage": "http://kurtzenisek.com/p/smart-web-banner/",
   "keywords": [

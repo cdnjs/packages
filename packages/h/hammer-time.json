@@ -2,7 +2,9 @@
   "name": "hammer-time",
   "filename": "hammer-time.min.js",
   "description": "A fast click based on the touch-action css property",
-  "author": "Alex Schmitz",
+  "author": {
+    "name": "Alex Schmitz"
+  },
   "homepage": "https://hammerjs.github.io/",
   "repository": {
     "type": "git",

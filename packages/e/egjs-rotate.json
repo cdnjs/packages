@@ -2,7 +2,9 @@
   "name": "egjs-rotate",
   "filename": "rotate.min.js",
   "description": "Tiny custom rotate event binder",
-  "author": "NAVER Corp.",
+  "author": {
+    "name": "NAVER Corp."
+  },
   "license": "MIT",
   "keywords": [
     "egjs",

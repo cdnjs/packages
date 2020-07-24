@@ -15,7 +15,9 @@
     "bandwidth",
     "connection"
   ],
-  "author": "Johann Pardanaud",
+  "author": {
+    "name": "Johann Pardanaud"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

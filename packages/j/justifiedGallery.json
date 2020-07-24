@@ -30,5 +30,7 @@
     "type": "git",
     "url": "https://github.com/miromannino/Justified-Gallery"
   },
-  "author": "Miro Mannino <miro.mannino@gmail.com>"
+  "author": {
+    "name": "Miro Mannino <miro.mannino@gmail.com>"
+  }
 }

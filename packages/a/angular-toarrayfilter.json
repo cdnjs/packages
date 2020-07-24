@@ -13,7 +13,9 @@
     "sort",
     "orderBy"
   ],
-  "author": "Pete Bacon Darwin <pete@bacondarwin.com>",
+  "author": {
+    "name": "Pete Bacon Darwin <pete@bacondarwin.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

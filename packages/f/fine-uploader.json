@@ -12,7 +12,9 @@
     "type": "git",
     "url": "https://github.com/FineUploader/fine-uploader.git"
   },
-  "author": "Widen Enterprises, Inc.",
+  "author": {
+    "name": "Widen Enterprises, Inc."
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

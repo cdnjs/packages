@@ -2,7 +2,9 @@
   "name": "tinyColorPicker",
   "filename": "jqColorPicker.min.js",
   "description": "Tiny jQuery color picker for mobile and desktop with alpha channel",
-  "author": "Peter Dematté <peter@dematte.at>",
+  "author": {
+    "name": "Peter Dematté <peter@dematte.at>"
+  },
   "license": "MIT",
   "keywords": [
     "jquery",

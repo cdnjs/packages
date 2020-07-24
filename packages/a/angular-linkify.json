@@ -13,7 +13,9 @@
     "linkify",
     "twitter"
   ],
-  "author": "Scott Corgan",
+  "author": {
+    "name": "Scott Corgan"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

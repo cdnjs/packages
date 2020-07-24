@@ -15,7 +15,9 @@
     "url": "https://github.com/danvk/dygraphs.git"
   },
   "license": "MIT",
-  "author": "Dan Vanderkam (danvdk@gmail.com)",
+  "author": {
+    "name": "Dan Vanderkam (danvdk@gmail.com)"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "dygraphs",

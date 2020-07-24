@@ -11,7 +11,9 @@
     "paste",
     "jQuery"
   ],
-  "author": "Michael Yin",
+  "author": {
+    "name": "Michael Yin"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -12,7 +12,9 @@
     "scroll",
     "scrollintoview"
   ],
-  "author": "Robert Koritnik",
+  "author": {
+    "name": "Robert Koritnik"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

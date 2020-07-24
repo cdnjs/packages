@@ -12,7 +12,9 @@
     "type": "git",
     "url": "http://github.com/sergiodlopes/jquery-flexdatalist.git"
   },
-  "author": "Sérgio Dinis Lopes",
+  "author": {
+    "name": "Sérgio Dinis Lopes"
+  },
   "license": "MIT",
   "homepage": "https://projects.sergiodinislopes.pt/flexdatalist/",
   "autoupdate": {

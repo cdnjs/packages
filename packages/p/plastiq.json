@@ -10,7 +10,9 @@
     "html",
     "plastiq"
   ],
-  "author": "Tim Macfarlane <timmacfarlane@gmail.com>",
+  "author": {
+    "name": "Tim Macfarlane <timmacfarlane@gmail.com>"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

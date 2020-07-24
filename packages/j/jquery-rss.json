@@ -7,7 +7,9 @@
     "jquery",
     "ender"
   ],
-  "author": "Sascha Depold <sascha@depold.com> (http://depold.com)",
+  "author": {
+    "name": "Sascha Depold <sascha@depold.com> (http://depold.com)"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -2,7 +2,9 @@
   "name": "cookiesjs",
   "filename": "cookies.min.js",
   "description": "Intuitive cookie manipulation library",
-  "author": "Francisco Presencia <developerfrancisco@hotmail.com>",
+  "author": {
+    "name": "Francisco Presencia <developerfrancisco@hotmail.com>"
+  },
   "keywords": [
     "cookies",
     "js",

@@ -28,5 +28,7 @@
       }
     ]
   },
-  "author": "Firebase <support@firebase.com> (https://www.firebase.com/)"
+  "author": {
+    "name": "Firebase <support@firebase.com> (https://www.firebase.com/)"
+  }
 }

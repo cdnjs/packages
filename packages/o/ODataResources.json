@@ -11,7 +11,9 @@
     "Angular",
     "Resources"
   ],
-  "author": "Raphael ATALLAH",
+  "author": {
+    "name": "Raphael ATALLAH"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -1,5 +1,7 @@
 {
-  "author": "latel <latelx64@icloud.com>",
+  "author": {
+    "name": "latel <latelx64@icloud.com>"
+  },
   "description": "frontend logger with multiple stores.",
   "filename": "logline.min.js",
   "keywords": [

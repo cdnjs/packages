@@ -14,7 +14,9 @@
     "url": "https://github.com/tbranyen/backbone.layoutmanager"
   },
   "license": "MIT",
-  "author": "Tim Branyen (@tbranyen)",
+  "author": {
+    "name": "Tim Branyen (@tbranyen)"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "backbone.layoutmanager",

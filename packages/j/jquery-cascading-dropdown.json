@@ -11,7 +11,9 @@
     "cascading",
     "dropdown"
   ],
-  "author": "Dzulqarnain Nasir <dzul1983@gmail.com>",
+  "author": {
+    "name": "Dzulqarnain Nasir <dzul1983@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

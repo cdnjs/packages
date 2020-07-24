@@ -1,6 +1,8 @@
 {
   "name": "labelauty",
-  "author": "Francisco Neves <contact@francisconeves.com>",
+  "author": {
+    "name": "Francisco Neves <contact@francisconeves.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/fntneves/jquery-labelauty"

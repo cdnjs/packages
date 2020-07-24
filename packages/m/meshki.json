@@ -10,7 +10,9 @@
     "black"
   ],
   "homepage": "http://meshki.borderliner.ir/",
-  "author": "Borderliner",
+  "author": {
+    "name": "Borderliner"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Borderliner/Meshki.git"

@@ -5,7 +5,9 @@
     "jquery",
     "jquery-plugin"
   ],
-  "author": "Rob Loach (https://github.com/RobLoach)",
+  "author": {
+    "name": "Rob Loach (https://github.com/RobLoach)"
+  },
   "filename": "jquery.once.min.js",
   "repository": {
     "type": "git",

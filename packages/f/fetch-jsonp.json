@@ -12,7 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/camsong/fetch-jsonp.git"
   },
-  "author": "Cam Song",
+  "author": {
+    "name": "Cam Song"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

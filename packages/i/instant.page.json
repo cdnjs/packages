@@ -9,7 +9,9 @@
     "instant",
     "performance"
   ],
-  "author": "Alexandre Dieulot",
+  "author": {
+    "name": "Alexandre Dieulot"
+  },
   "license": "MIT",
   "homepage": "https://instant.page/",
   "filename": "instantpage.min.js",

@@ -14,7 +14,9 @@
     "serializeJSON",
     "serializeObject"
   ],
-  "author": "David G. Hong",
+  "author": {
+    "name": "David G. Hong"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

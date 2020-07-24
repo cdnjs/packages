@@ -17,7 +17,9 @@
     "url": "https://github.com/hellsan631/LogosDistort.git"
   },
   "license": "MIT",
-  "author": "Mathew Kleppin <mathew.kleppin@gmail.com>",
+  "author": {
+    "name": "Mathew Kleppin <mathew.kleppin@gmail.com>"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/hellsan631/LogosDistort.git",

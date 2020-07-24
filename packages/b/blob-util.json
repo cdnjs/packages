@@ -14,7 +14,9 @@
     "utils"
   ],
   "homepage": "https://nolanlawson.github.io/blob-util/",
-  "author": "Nolan Lawson <nolan.lawson@gmail.com>",
+  "author": {
+    "name": "Nolan Lawson <nolan.lawson@gmail.com>"
+  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",

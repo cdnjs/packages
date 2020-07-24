@@ -16,7 +16,9 @@
     "easing",
     "nice"
   ],
-  "author": "Balazs Galambosi (https://www.smoothscroll.net)",
+  "author": {
+    "name": "Balazs Galambosi (https://www.smoothscroll.net)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

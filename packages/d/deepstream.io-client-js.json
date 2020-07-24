@@ -15,7 +15,9 @@
     "rpc",
     "streaming"
   ],
-  "author": "deepstreamHub GmbH",
+  "author": {
+    "name": "deepstreamHub GmbH"
+  },
   "license": "Apache-2.0",
   "homepage": "http://deepstream.io",
   "autoupdate": {

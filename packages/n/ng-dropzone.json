@@ -12,7 +12,9 @@
     "url": "https://github.com/thatisuday/ng-dropzone/"
   },
   "license": "Apache-2.0",
-  "author": "Uday Hiwarale <uhiwarale@gmail.com> (https://github.com/thatisuday)",
+  "author": {
+    "name": "Uday Hiwarale <uhiwarale@gmail.com> (https://github.com/thatisuday)"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/thatisuday/ng-dropzone.git",

@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/vuejs/vuex.git"
   },
-  "author": "Evan You",
+  "author": {
+    "name": "Evan You"
+  },
   "license": "MIT",
   "homepage": "https://vuex.vuejs.org/",
   "keywords": [

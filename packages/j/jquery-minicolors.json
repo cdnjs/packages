@@ -2,7 +2,9 @@
   "name": "jquery-minicolors",
   "filename": "jquery.minicolors.min.js",
   "homepage": "http://labs.abeautifulsite.net/jquery-minicolors/",
-  "author": "Cory LaViska",
+  "author": {
+    "name": "Cory LaViska"
+  },
   "description": "jQuery MiniColors Plugin",
   "keywords": [
     "jquery",

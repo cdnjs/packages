@@ -17,7 +17,9 @@
     "dash",
     "webtorrent"
   ],
-  "author": "DIYgod",
+  "author": {
+    "name": "DIYgod"
+  },
   "homepage": "https://dplayer.js.org/#/",
   "license": "MIT",
   "autoupdate": {

@@ -13,7 +13,9 @@
     "context",
     "menu"
   ],
-  "author": "Adam Ratcliffe",
+  "author": {
+    "name": "Adam Ratcliffe"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

@@ -13,7 +13,9 @@
     "nav",
     "jQuery"
   ],
-  "author": "Jozef Butko",
+  "author": {
+    "name": "Jozef Butko"
+  },
   "license": "MIT",
   "homepage": "https://www.jozefbutko.com/stickynavbar/",
   "autoupdate": {

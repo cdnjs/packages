@@ -10,7 +10,9 @@
     "bootstrap"
   ],
   "homepage": "https://forkawesome.github.io/Fork-Awesome",
-  "author": "Fork Awesome Community",
+  "author": {
+    "name": "Fork Awesome Community"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ForkAwesome/Fork-Awesome.git"

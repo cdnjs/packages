@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/franciscop/pagex.git"
   },
-  "author": "Francisco Presencia Fandos",
+  "author": {
+    "name": "Francisco Presencia Fandos"
+  },
   "license": "MIT",
   "keywords": [
     "route",

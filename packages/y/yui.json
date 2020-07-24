@@ -29,5 +29,7 @@
     "url": "https://github.com/yui/yui3.git"
   },
   "license": "BSD",
-  "author": "Dav Glass <davglass@gmail.com>"
+  "author": {
+    "name": "Dav Glass <davglass@gmail.com>"
+  }
 }

@@ -11,7 +11,9 @@
     "date",
     "recur"
   ],
-  "author": "Casey Trimm",
+  "author": {
+    "name": "Casey Trimm"
+  },
   "license": "Unlicense",
   "autoupdate": {
     "source": "git",

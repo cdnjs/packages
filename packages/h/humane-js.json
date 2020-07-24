@@ -25,6 +25,8 @@
     "type": "git",
     "url": "https://github.com/wavded/humane-js"
   },
-  "author": "Marc Harter <@wavded> (wavded.com)",
+  "author": {
+    "name": "Marc Harter <@wavded> (wavded.com)"
+  },
   "license": "MIT"
 }

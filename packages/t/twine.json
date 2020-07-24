@@ -14,7 +14,9 @@
     "coffeescript",
     "DOM"
   ],
-  "author": "Shopify Inc",
+  "author": {
+    "name": "Shopify Inc"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

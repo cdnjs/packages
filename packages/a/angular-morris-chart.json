@@ -13,7 +13,9 @@
     "type": "git",
     "url": "https://github.com/st1s/angular-morris"
   },
-  "author": "Stewan Pacheco <hi@st1s.io>",
+  "author": {
+    "name": "Stewan Pacheco <hi@st1s.io>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "angular-morris",

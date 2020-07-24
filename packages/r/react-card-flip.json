@@ -11,7 +11,9 @@
     "react-component",
     "react-card-flip"
   ],
-  "author": "Aaron Wong <aarn.wong@gmail.com>",
+  "author": {
+    "name": "Aaron Wong <aarn.wong@gmail.com>"
+  },
   "license": "MIT",
   "homepage": "https://aaronccwong.github.io/react-card-flip/",
   "autoupdate": {

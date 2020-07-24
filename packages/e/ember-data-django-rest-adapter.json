@@ -13,5 +13,7 @@
     "url": "https://github.com/toranb/ember-data-django-rest-adapter"
   },
   "license": "MIT",
-  "author": "Toran Billups <toranb@gmail.com>"
+  "author": {
+    "name": "Toran Billups <toranb@gmail.com>"
+  }
 }

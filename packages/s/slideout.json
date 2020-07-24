@@ -5,7 +5,9 @@
     "url": "git://github.com/mango/slideout.git"
   },
   "description": "A touch slideout navigation menu for your mobile web apps.",
-  "author": "Guille Paz <guille87paz@gmail.com>",
+  "author": {
+    "name": "Guille Paz <guille87paz@gmail.com>"
+  },
   "keywords": [
     "slideout",
     "offcanvas",

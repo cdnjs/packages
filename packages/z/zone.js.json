@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git://github.com/angular/zone.js.git"
   },
-  "author": "Brian Ford",
+  "author": {
+    "name": "Brian Ford"
+  },
   "license": "MIT",
   "keywords": [
     "zone",

@@ -9,7 +9,9 @@
     "angularjs",
     "angular"
   ],
-  "author": "Ian Kennington Walter (http://ianvonwalter.com)",
+  "author": {
+    "name": "Ian Kennington Walter (http://ianvonwalter.com)"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

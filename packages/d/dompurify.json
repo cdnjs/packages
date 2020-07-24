@@ -19,7 +19,9 @@
     "filter",
     "purify"
   ],
-  "author": "Mario Heiderich <mario@cure53.de> (https://cure53.de/)",
+  "author": {
+    "name": "Mario Heiderich <mario@cure53.de> (https://cure53.de/)"
+  },
   "licenses": [
     "MPL-2.0",
     "Apache-2.0"

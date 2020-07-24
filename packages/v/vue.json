@@ -13,7 +13,9 @@
     "type": "git",
     "url": "https://github.com/vuejs/vue.git"
   },
-  "author": "Evan You <yyx990803@gmail.com>",
+  "author": {
+    "name": "Evan You <yyx990803@gmail.com>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "vue",

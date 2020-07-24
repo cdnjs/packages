@@ -14,7 +14,9 @@
     "debugging",
     "winston"
   ],
-  "author": "Matt Perdeck",
+  "author": {
+    "name": "Matt Perdeck"
+  },
   "license": "MIT",
   "homepage": "http://nodejs.jsnlog.com/",
   "autoupdate": {

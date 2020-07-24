@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/joaopereirawd/fakeLoader.js.git"
   },
-  "author": "Joao Pereira <joaopereirawd@gmail.com>",
+  "author": {
+    "name": "Joao Pereira <joaopereirawd@gmail.com>"
+  },
   "keywords": [
     "page preloading",
     "fullscreen preloading",

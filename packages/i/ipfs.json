@@ -11,7 +11,9 @@
     "filesystem",
     "IPFS"
   ],
-  "author": "David Dias <daviddias@ipfs.io>",
+  "author": {
+    "name": "David Dias <daviddias@ipfs.io>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

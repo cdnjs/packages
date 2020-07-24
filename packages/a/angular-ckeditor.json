@@ -11,7 +11,9 @@
     "directive",
     "ckeditor"
   ],
-  "author": "Team Le8 <projet-cms-tech@lemonde.fr>",
+  "author": {
+    "name": "Team Le8 <projet-cms-tech@lemonde.fr>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

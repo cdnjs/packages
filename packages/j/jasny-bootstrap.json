@@ -8,7 +8,9 @@
     "css"
   ],
   "homepage": "http://jasny.github.com/bootstrap/",
-  "author": "Arnold Daniels",
+  "author": {
+    "name": "Arnold Daniels"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jasny/bootstrap.git"

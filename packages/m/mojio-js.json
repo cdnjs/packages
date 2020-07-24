@@ -26,5 +26,7 @@
     "type": "git",
     "url": "https://github.com/mojio/mojio-js"
   },
-  "author": "Robb Lovell"
+  "author": {
+    "name": "Robb Lovell"
+  }
 }

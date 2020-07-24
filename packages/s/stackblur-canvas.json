@@ -12,7 +12,9 @@
     "canvas",
     "gaussian"
   ],
-  "author": "Mario Klingemann",
+  "author": {
+    "name": "Mario Klingemann"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/bevacqua/dragula.git"
   },
-  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
+  "author": {
+    "name": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -12,7 +12,9 @@
     "initialize",
     "javascript"
   ],
-  "author": "Erik Schierboom",
+  "author": {
+    "name": "Erik Schierboom"
+  },
   "license": "Apache",
   "autoupdate": {
     "source": "git",

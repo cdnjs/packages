@@ -16,7 +16,9 @@
     "promise",
     "promises"
   ],
-  "author": "Michael Jackson",
+  "author": {
+    "name": "Michael Jackson"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

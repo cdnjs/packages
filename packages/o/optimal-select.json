@@ -1,7 +1,9 @@
 {
   "name": "optimal-select",
   "description": "Get efficient & robust CSS selectors for HTML elements",
-  "author": "Stefan Dühring | Autarc <autarc@gmail.com>",
+  "author": {
+    "name": "Stefan Dühring | Autarc <autarc@gmail.com>"
+  },
   "keywords": [
     "css",
     "path",

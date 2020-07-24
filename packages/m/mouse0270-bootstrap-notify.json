@@ -15,7 +15,9 @@
     "message",
     "notice"
   ],
-  "author": "mouse0270 <rmcintosh@remabledesigns.com>",
+  "author": {
+    "name": "mouse0270 <rmcintosh@remabledesigns.com>"
+  },
   "license": "MIT",
   "homepage": "http://bootstrap-notify.remabledesigns.com/",
   "filename": "bootstrap-notify.min.js",

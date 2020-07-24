@@ -22,7 +22,9 @@
     "unit",
     "units"
   ],
-  "author": "Julien Sanchez <julien.sanchez@gmail.com>",
+  "author": {
+    "name": "Julien Sanchez <julien.sanchez@gmail.com>"
+  },
   "license": "MIT",
   "filename": "quantities.min.js",
   "autoupdate": {

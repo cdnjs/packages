@@ -25,5 +25,7 @@
     "url": "https://github.com/nodeca/js-yaml"
   },
   "license": "MIT",
-  "author": "Vladimir Zapparov <dervus.grim@gmail.com>"
+  "author": {
+    "name": "Vladimir Zapparov <dervus.grim@gmail.com>"
+  }
 }

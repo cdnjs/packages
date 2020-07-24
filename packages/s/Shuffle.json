@@ -19,7 +19,9 @@
     "type": "git",
     "url": "git://github.com/Vestride/Shuffle.git"
   },
-  "author": "Glen Cheney <cheney.glen@gmail.com>",
+  "author": {
+    "name": "Glen Cheney <cheney.glen@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

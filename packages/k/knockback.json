@@ -2,7 +2,9 @@
   "name": "knockback",
   "filename": "knockback.min.js",
   "description": "Knockback.js provides Knockout.js magic for Backbone.js Models and Collections",
-  "author": "Kevin Malakoff",
+  "author": {
+    "name": "Kevin Malakoff"
+  },
   "keywords": [
     "mvvm",
     "ui",

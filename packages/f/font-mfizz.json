@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/fizzed/font-mfizz.git"
   },
-  "author": "Joe Lauer",
+  "author": {
+    "name": "Joe Lauer"
+  },
   "license": "MIT",
   "keywords": [
     "scalable",

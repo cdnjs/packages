@@ -11,5 +11,7 @@
     "url": "https://github.com/harthur/brain.git"
   },
   "license": "MIT",
-  "author": "Heather Arthur <fayearthur@gmail.com>"
+  "author": {
+    "name": "Heather Arthur <fayearthur@gmail.com>"
+  }
 }

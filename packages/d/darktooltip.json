@@ -11,7 +11,9 @@
     "url": "git://github.com/rubentd/darktooltip.git"
   },
   "homepage": "http://rubentd.com/darktooltip",
-  "author": "Ruben Torres",
+  "author": {
+    "name": "Ruben Torres"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

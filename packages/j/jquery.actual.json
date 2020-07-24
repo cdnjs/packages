@@ -2,7 +2,9 @@
   "name": "jquery.actual",
   "filename": "jquery.actual.min.js",
   "title": "jQuery Actual Plugin",
-  "author": "dreamerslab <ben@dreamerslab.com>",
+  "author": {
+    "name": "dreamerslab <ben@dreamerslab.com>"
+  },
   "description": "Older version of jQuery has trouble finding the width/height of invisible DOM elements. With element or its parent element has css property 'display' set to 'none'. `$('.hidden').width();` will return 0 instead of the actual width; This plugin simply fix it.",
   "keywords": [
     "width",

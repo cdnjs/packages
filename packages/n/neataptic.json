@@ -8,7 +8,9 @@
     "mutation",
     "neat"
   ],
-  "author": "Thomas Wagenaar <wagenaartje@protonmail.com>",
+  "author": {
+    "name": "Thomas Wagenaar <wagenaartje@protonmail.com>"
+  },
   "license": "MIT",
   "homepage": "http://wagenaartje.github.io/neataptic/",
   "repository": {

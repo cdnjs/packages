@@ -9,7 +9,9 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": "Mika Tuupola <tuupola@appelsiini.net>",
+  "author": {
+    "name": "Mika Tuupola <tuupola@appelsiini.net>"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/tuupola/jquery_lazyload.git",

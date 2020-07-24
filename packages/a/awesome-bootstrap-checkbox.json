@@ -20,7 +20,9 @@
       }
     ]
   },
-  "author": "contact@flatlogic.com (http://flatlogic.com)",
+  "author": {
+    "name": "contact@flatlogic.com (http://flatlogic.com)"
+  },
   "keywords": [
     "bootstrap",
     "font-awesome",

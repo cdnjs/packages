@@ -11,7 +11,9 @@
     "color picker",
     "bootstrap"
   ],
-  "author": "Michal Zielenkiewicz",
+  "author": {
+    "name": "Michal Zielenkiewicz"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

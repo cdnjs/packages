@@ -3,7 +3,9 @@
   "filename": "docsify.min.js",
   "description": "A magical documentation generator.",
   "homepage": "https://docsify.js.org",
-  "author": "qingwei-li <cinwell.li@gmail.com> (https://github.com/QingWei-Li)",
+  "author": {
+    "name": "qingwei-li <cinwell.li@gmail.com> (https://github.com/QingWei-Li)"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

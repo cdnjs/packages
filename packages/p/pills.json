@@ -12,7 +12,9 @@
     "responsive",
     "framework"
   ],
-  "author": "Rohit Rai <rohitkrai03@gmail.com> (http://arkpod.in/)",
+  "author": {
+    "name": "Rohit Rai <rohitkrai03@gmail.com> (http://arkpod.in/)"
+  },
   "license": "MIT",
   "homepage": "http://arkpod.in/pills",
   "autoupdate": {

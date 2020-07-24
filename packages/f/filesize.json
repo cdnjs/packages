@@ -17,7 +17,9 @@
     "url": "git://github.com/avoidwork/filesize.js.git"
   },
   "license": "BSD-3-Clause",
-  "author": "Jason Mulligan <jason.mulligan@avoidwork.com>",
+  "author": {
+    "name": "Jason Mulligan <jason.mulligan@avoidwork.com>"
+  },
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/avoidwork/filesize.js.git",

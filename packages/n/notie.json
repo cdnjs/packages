@@ -1,7 +1,9 @@
 {
   "name": "notie",
   "description": "notie - a clean and simple notification, input, and selection suite for javascript, with no dependencies",
-  "author": "Jared Reich",
+  "author": {
+    "name": "Jared Reich"
+  },
   "filename": "notie.min.js",
   "repository": {
     "type": "git",

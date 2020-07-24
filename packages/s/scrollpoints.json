@@ -1,6 +1,8 @@
 {
   "title": "scrollpoints",
-  "author": "Ferdinand Torggler",
+  "author": {
+    "name": "Ferdinand Torggler"
+  },
   "name": "scrollpoints",
   "filename": "scrollpoints.min.js",
   "description": "Scroll callbacks for DOM Elements",

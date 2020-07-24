@@ -1,5 +1,7 @@
 {
-  "author": "Sven Sauleau <sven@sauleau.com>",
+  "author": {
+    "name": "Sven Sauleau <sven@sauleau.com>"
+  },
   "autoupdate": {
     "fileMap": [
       {

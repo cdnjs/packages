@@ -12,7 +12,9 @@
     "diff css",
     "css modules"
   ],
-  "author": "James Yang <jamesyang999@gmail.com>",
+  "author": {
+    "name": "James Yang <jamesyang999@gmail.com>"
+  },
   "homepage": "https://cssobj.github.io/cssobj-demo/",
   "repository": {
     "type": "git",

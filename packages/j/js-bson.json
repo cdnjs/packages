@@ -2,7 +2,9 @@
   "name": "js-bson",
   "filename": "bson.min.js",
   "description": "A bson parser for node.js and the browser",
-  "author": "Christian Amor Kvalheim <christkv@gmail.com>",
+  "author": {
+    "name": "Christian Amor Kvalheim <christkv@gmail.com>"
+  },
   "keywords": [
     "mongodb",
     "BSON parser",

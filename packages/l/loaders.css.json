@@ -12,7 +12,9 @@
     "animation",
     "animate"
   ],
-  "author": "Connor Atherton",
+  "author": {
+    "name": "Connor Atherton"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

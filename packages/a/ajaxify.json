@@ -22,7 +22,9 @@
     "performance",
     "speed"
   ],
-  "author": "Arvind Gupta",
+  "author": {
+    "name": "Arvind Gupta"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

@@ -11,7 +11,9 @@
     "vue",
     "vue-mask"
   ],
-  "author": "Max Lyashuk <m_lyashuk@ukr.net>",
+  "author": {
+    "name": "Max Lyashuk <m_lyashuk@ukr.net>"
+  },
   "homepage": "https://rawgit.com/probil/v-mask--demo/master/dist/index.html",
   "license": "MIT",
   "autoupdate": {

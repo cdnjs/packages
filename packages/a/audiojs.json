@@ -15,7 +15,9 @@
     "url": "https://github.com/kolber/audiojs.git"
   },
   "license": "MIT",
-  "author": "Anthony Kolber",
+  "author": {
+    "name": "Anthony Kolber"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/kolber/audiojs.git",

@@ -11,7 +11,9 @@
     "local",
     "storage"
   ],
-  "author": "grevory <greg@gregpike.ca>",
+  "author": {
+    "name": "grevory <greg@gregpike.ca>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

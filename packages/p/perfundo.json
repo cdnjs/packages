@@ -6,7 +6,9 @@
     "eyeglass-module",
     "sass"
   ],
-  "author": "Markus Oberlehner",
+  "author": {
+    "name": "Markus Oberlehner"
+  },
   "homepage": "https://perfundo.oberlehner.net",
   "license": "GPL-2.0",
   "repository": {

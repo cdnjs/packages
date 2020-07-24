@@ -10,7 +10,9 @@
     "jquery",
     "tokeninput"
   ],
-  "author": "James Smith <james@loopj.com> (https://loopj.com)",
+  "author": {
+    "name": "James Smith <james@loopj.com> (https://loopj.com)"
+  },
   "homepage": "https://loopj.com/jquery-tokeninput/",
   "licenses": [
     "MIT",

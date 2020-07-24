@@ -2,7 +2,9 @@
   "name": "constraintjs",
   "filename": "cjs.min.js",
   "description": "Constraint library for JavaScript",
-  "author": "Stephen Oney <swloney@gmail.com> (http://from.so/)",
+  "author": {
+    "name": "Stephen Oney <swloney@gmail.com> (http://from.so/)"
+  },
   "homepage": "http://cjs.from.so/",
   "repository": {
     "type": "git",

@@ -3,7 +3,9 @@
   "filename": "firmin.min.js",
   "description": "A JavaScript animation library based on CSS transforms and transitions.",
   "homepage": "http://extralogical.net/projects/firmin",
-  "author": "Benedict Eastaugh",
+  "author": {
+    "name": "Benedict Eastaugh"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/beastaugh/firmin.git"

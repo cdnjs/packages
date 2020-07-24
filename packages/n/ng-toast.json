@@ -1,7 +1,9 @@
 {
   "name": "ng-toast",
   "filename": "ngToast.min.js",
-  "author": "Tamer Aydin (http://tamerayd.in)",
+  "author": {
+    "name": "Tamer Aydin (http://tamerayd.in)"
+  },
   "autoupdate": {
     "fileMap": [
       {

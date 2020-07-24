@@ -13,7 +13,9 @@
     "multiple",
     "elements"
   ],
-  "author": "Denis Lukov",
+  "author": {
+    "name": "Denis Lukov"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

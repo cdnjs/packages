@@ -13,7 +13,9 @@
     "tachyons",
     "tachyons.css"
   ],
-  "author": "mrmrs",
+  "author": {
+    "name": "mrmrs"
+  },
   "license": "MIT",
   "filename": "tachyons.min.css",
   "autoupdate": {

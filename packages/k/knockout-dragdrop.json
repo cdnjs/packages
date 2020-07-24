@@ -12,7 +12,9 @@
     "url": "git://github.com/One-com/knockout-dragdrop.git"
   },
   "license": "BSD-3-Clause",
-  "author": "Sune Simonsen",
+  "author": {
+    "name": "Sune Simonsen"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/One-com/knockout-dragdrop.git",

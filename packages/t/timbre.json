@@ -1,5 +1,7 @@
 {
-  "author": "nao yonamine <mohayonao@gmail.com>",
+  "author": {
+    "name": "nao yonamine <mohayonao@gmail.com>"
+  },
   "description": "JavaScript library for objective sound programming",
   "filename": "timbre.dev.js",
   "homepage": "https://mohayonao.github.io/timbre.js",

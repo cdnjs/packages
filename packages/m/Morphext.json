@@ -18,7 +18,9 @@
     "type": "git",
     "url": "git://github.com/MrSaints/Morphext.git"
   },
-  "author": "Ian Lai <os@fyianlai.com>",
+  "author": {
+    "name": "Ian Lai <os@fyianlai.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

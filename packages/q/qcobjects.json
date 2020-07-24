@@ -1,5 +1,7 @@
 {
-  "author": "Jean Machuca <correojean@gmail.com>",
+  "author": {
+    "name": "Jean Machuca <correojean@gmail.com>"
+  },
   "bugs": {
     "url": "https://github.com/QuickGroup/QCObjects/issues"
   },

@@ -2,7 +2,9 @@
   "name": "elfinder",
   "filename": "js/elfinder.min.js",
   "description": "Open-source file manager for web, written in JavaScript using jQuery and jQuery UI.",
-  "author": "Studio-42 (https://github.com/Studio-42/elFinder)",
+  "author": {
+    "name": "Studio-42 (https://github.com/Studio-42/elFinder)"
+  },
   "homepage": "http://elfinder.org/",
   "repository": {
     "type": "git",

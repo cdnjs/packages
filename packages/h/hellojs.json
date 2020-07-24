@@ -16,7 +16,9 @@
     "linkedin",
     "twitter"
   ],
-  "author": "Andrew Dodson <adodson.com>",
+  "author": {
+    "name": "Andrew Dodson <adodson.com>"
+  },
   "license": "MIT",
   "filename": "hello.js",
   "autoupdate": {

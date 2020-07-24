@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/Glench/fuzzyset.js.git"
   },
-  "author": "Glen Chiacchieri (http://glench.com/)",
+  "author": {
+    "name": "Glen Chiacchieri (http://glench.com/)"
+  },
   "filename": "fuzzyset.min.js",
   "keywords": [
     "akin",

@@ -16,7 +16,9 @@
     "url": "https://github.com/omniscientjs/immstruct"
   },
   "license": "MIT",
-  "author": "Mikael Brevik, @torgeir",
+  "author": {
+    "name": "Mikael Brevik, @torgeir"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "immstruct",

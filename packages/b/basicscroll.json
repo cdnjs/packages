@@ -6,7 +6,9 @@
     "scroll",
     "scrolling"
   ],
-  "author": "electerious",
+  "author": {
+    "name": "electerious"
+  },
   "license": "MIT",
   "homepage": "https://github.com/electerious/basicScroll",
   "repository": {

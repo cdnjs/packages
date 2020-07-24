@@ -11,7 +11,9 @@
     "wysiwyg",
     "editor"
   ],
-  "author": "Basecamp, LLC",
+  "author": {
+    "name": "Basecamp, LLC"
+  },
   "license": "MIT",
   "homepage": "http://trix-editor.org/",
   "autoupdate": {

@@ -13,7 +13,9 @@
     "gmail extension",
     "gmail chrome extension"
   ],
-  "author": "Kartik Talwar",
+  "author": {
+    "name": "Kartik Talwar"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

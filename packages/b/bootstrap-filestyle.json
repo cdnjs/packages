@@ -15,7 +15,9 @@
     "input",
     "style"
   ],
-  "author": "Markus Lima @markusslima",
+  "author": {
+    "name": "Markus Lima @markusslima"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

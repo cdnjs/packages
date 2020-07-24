@@ -14,7 +14,9 @@
     "exit"
   ],
   "homepage": "http://luisvinicius167.github.io/gliojs",
-  "author": "Luis Vinícius",
+  "author": {
+    "name": "Luis Vinícius"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

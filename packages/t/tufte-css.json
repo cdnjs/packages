@@ -13,7 +13,9 @@
     "typography",
     "sidenotes"
   ],
-  "author": "Dave Liepmann",
+  "author": {
+    "name": "Dave Liepmann"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

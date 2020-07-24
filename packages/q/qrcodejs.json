@@ -1,5 +1,7 @@
 {
-  "author": "davidshimjs",
+  "author": {
+    "name": "davidshimjs"
+  },
   "description": "QRCode.js is javascript library for making QRCode",
   "filename": "qrcode.min.js",
   "homepage": "https://github.com/davidshimjs/qrcodejs",

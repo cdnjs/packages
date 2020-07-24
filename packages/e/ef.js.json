@@ -12,7 +12,9 @@
     "ef",
     "ef.js"
   ],
-  "author": "ClassicOldSong",
+  "author": {
+    "name": "ClassicOldSong"
+  },
   "license": "MIT",
   "homepage": "https://ef.js.org",
   "autoupdate": {

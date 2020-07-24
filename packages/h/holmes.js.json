@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/Haroenv/holmes.git"
   },
-  "author": "Haroen Viaene <hello@haroen.me> (https://haroen.me/)",
+  "author": {
+    "name": "Haroen Viaene <hello@haroen.me> (https://haroen.me/)"
+  },
   "license": "Apache-2.0",
   "filename": "js/holmes.js",
   "keywords": [

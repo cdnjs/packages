@@ -26,5 +26,7 @@
       }
     ]
   },
-  "author": "David Rubert"
+  "author": {
+    "name": "David Rubert"
+  }
 }

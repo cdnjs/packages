@@ -14,7 +14,9 @@
     "scrollspy"
   ],
   "homepage": "http://renaysha.me/anchorific-js/",
-  "author": "Ren Aysha",
+  "author": {
+    "name": "Ren Aysha"
+  },
   "license": "MIT ",
   "autoupdate": {
     "source": "git",

@@ -6,7 +6,9 @@
     "url": "git://github.com/json-schema-form/angular-schema-form"
   },
   "homepage": "http://schemaform.io",
-  "author": "Textalk",
+  "author": {
+    "name": "Textalk"
+  },
   "license": "MIT",
   "keywords": [
     "angular",

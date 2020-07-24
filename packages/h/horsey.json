@@ -25,5 +25,7 @@
     "type": "git",
     "url": "https://github.com/bevacqua/horsey"
   },
-  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)"
+  "author": {
+    "name": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)"
+  }
 }

@@ -16,7 +16,9 @@
     "modal",
     "popup"
   ],
-  "author": "Dmitri Voronianski",
+  "author": {
+    "name": "Dmitri Voronianski"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

@@ -1,7 +1,9 @@
 {
   "name": "snarl",
   "description": "Web Notifications based on Growl",
-  "author": "Liam Gray <hoxxep@gmail.com>",
+  "author": {
+    "name": "Liam Gray <hoxxep@gmail.com>"
+  },
   "filename": "snarl.min.js",
   "repository": {
     "type": "git",

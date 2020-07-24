@@ -1,5 +1,7 @@
 {
-  "author": "Jake Luer <jake@alogicalparadox.com>",
+  "author": {
+    "name": "Jake Luer <jake@alogicalparadox.com>"
+  },
   "name": "chai",
   "filename": "chai.min.js",
   "description": "BDD/TDD assertion library for node.js and the browser. Test framework agnostic.",

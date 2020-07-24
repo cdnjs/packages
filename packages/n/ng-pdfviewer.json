@@ -2,7 +2,9 @@
   "name": "ng-pdfviewer",
   "filename": "ng-pdfviewer.min.js",
   "description": "AngularJS PDF viewer directive using pdf.js.",
-  "author": "Andreas Krennmair <ak@synflood.at>",
+  "author": {
+    "name": "Andreas Krennmair <ak@synflood.at>"
+  },
   "keywords": [
     "AngularJS",
     "PDF viewer",

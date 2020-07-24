@@ -7,7 +7,9 @@
     "visualization"
   ],
   "homepage": "http://arborjs.org",
-  "author": "samizdatco",
+  "author": {
+    "name": "samizdatco"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/samizdatco/arbor"

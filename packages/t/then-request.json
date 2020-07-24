@@ -6,7 +6,9 @@
   "keywords": [
     "request"
   ],
-  "author": "ForbesLindesay",
+  "author": {
+    "name": "ForbesLindesay"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/then/then-request.git"

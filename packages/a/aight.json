@@ -2,7 +2,9 @@
   "name": "aight",
   "filename": "aight.min.js",
   "description": "un-suck JavaScript APIs in IE8 & 9",
-  "author": "Shawn Allen",
+  "author": {
+    "name": "Shawn Allen"
+  },
   "license": "BSD-2-Clause",
   "keywords": [
     "js",

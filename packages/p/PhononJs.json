@@ -18,7 +18,9 @@
     "front-end"
   ],
   "homepage": "http://phonon.quarkdev.com/",
-  "author": "Quarkdev",
+  "author": {
+    "name": "Quarkdev"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

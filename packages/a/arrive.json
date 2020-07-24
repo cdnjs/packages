@@ -22,7 +22,9 @@
     "removal",
     "injected"
   ],
-  "author": "Uzair Farooq <uzair.farooq@outlook.com>",
+  "author": {
+    "name": "Uzair Farooq <uzair.farooq@outlook.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

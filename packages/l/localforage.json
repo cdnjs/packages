@@ -1,6 +1,8 @@
 {
   "name": "localforage",
-  "author": "Mozilla",
+  "author": {
+    "name": "Mozilla"
+  },
   "description": "Offline storage, improved.",
   "keywords": [
     "indexeddb",

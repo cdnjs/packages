@@ -7,7 +7,9 @@
     "chemical structure",
     "science"
   ],
-  "author": "Alexander Rose <alexander.rose@weirdbyte.de>",
+  "author": {
+    "name": "Alexander Rose <alexander.rose@weirdbyte.de>"
+  },
   "license": "MIT",
   "homepage": "https://github.com/arose/ngl#readme",
   "repository": {

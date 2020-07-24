@@ -15,7 +15,9 @@
     "title",
     "notification"
   ],
-  "author": "kenny wang jaywcjlove <398188662@qq.com>",
+  "author": {
+    "name": "kenny wang jaywcjlove <398188662@qq.com>"
+  },
   "homepage": "https://wangchujiang.com/iNotify/ ",
   "autoupdate": {
     "source": "git",

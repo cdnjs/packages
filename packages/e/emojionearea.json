@@ -8,7 +8,9 @@
     "picker",
     "emojionearea"
   ],
-  "author": "Andrey Izman <izmanw@gmail.com>",
+  "author": {
+    "name": "Andrey Izman <izmanw@gmail.com>"
+  },
   "homepage": "https://mervick.github.io/emojionearea/",
   "repository": {
     "type": "git",

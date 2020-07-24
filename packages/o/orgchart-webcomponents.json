@@ -9,7 +9,9 @@
     "organization chart",
     "tree-like"
   ],
-  "author": "dabeng <dabeng413@gmail.com>",
+  "author": {
+    "name": "dabeng <dabeng413@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dabeng/OrgChart-Webcomponents.git"

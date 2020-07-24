@@ -27,5 +27,7 @@
     "type": "git",
     "url": "https://github.com/timmywil/jquery.panzoom"
   },
-  "author": "Timmy Willison"
+  "author": {
+    "name": "Timmy Willison"
+  }
 }

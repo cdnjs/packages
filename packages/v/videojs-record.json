@@ -2,7 +2,9 @@
   "name": "videojs-record",
   "filename": "videojs.record.min.js",
   "description": "A video.js plugin for recording audio/video/image files.",
-  "author": "Collab",
+  "author": {
+    "name": "Collab"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

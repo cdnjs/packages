@@ -4,7 +4,9 @@
   "keywords": [
     "template"
   ],
-  "author": "tangbin <sugarpie.tang@gmail.com>",
+  "author": {
+    "name": "tangbin <sugarpie.tang@gmail.com>"
+  },
   "license": "MIT",
   "homepage": "http://aui.github.com/art-template/",
   "repository": {

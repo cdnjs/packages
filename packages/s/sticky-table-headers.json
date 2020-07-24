@@ -12,7 +12,9 @@
     "type": "git",
     "url": "https://github.com/jmosbech/StickyTableHeaders.git"
   },
-  "author": "Jonas Mosbech <https://github.com/jmosbech>",
+  "author": {
+    "name": "Jonas Mosbech <https://github.com/jmosbech>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

@@ -2,7 +2,9 @@
   "name": "keydrown",
   "filename": "keydrown.min.js",
   "homepage": "http://jeremyckahn.github.com/keydrown",
-  "author": "Jeremy Kahn <jeremyckahn@gmail.com>",
+  "author": {
+    "name": "Jeremy Kahn <jeremyckahn@gmail.com>"
+  },
   "description": "A JavaScript key state handler for web apps",
   "license": "MIT",
   "keywords": [

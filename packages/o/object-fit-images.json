@@ -7,7 +7,9 @@
     "type": "git",
     "url": "https://github.com/bfred-it/object-fit-images.git"
   },
-  "author": "Federico Brigante <bfred-it@users.noreply.github.com> (twitter.com/bfred_it)",
+  "author": {
+    "name": "Federico Brigante <bfred-it@users.noreply.github.com> (twitter.com/bfred_it)"
+  },
   "keywords": [
     "polyfill",
     "object-fit",

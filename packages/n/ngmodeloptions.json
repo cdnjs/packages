@@ -12,7 +12,9 @@
     "AngularJS",
     "1.2"
   ],
-  "author": "Fergal Doyle",
+  "author": {
+    "name": "Fergal Doyle"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

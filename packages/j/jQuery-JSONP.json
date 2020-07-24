@@ -2,7 +2,9 @@
   "name": "jQuery-JSONP",
   "filename": "jquery.jsonp.min.js",
   "description": "jQuery-JSONP is a compact, yet feature-packed, alternative solution to jQuery's implementation of JSONP.",
-  "author": "Julian Aubourg",
+  "author": {
+    "name": "Julian Aubourg"
+  },
   "license": "MIT",
   "keywords": [
     "jQuery",

@@ -11,5 +11,7 @@
     "url": "https://github.com/jakesgordon/javascript-state-machine.git"
   },
   "license": "MIT",
-  "author": "Jake Gordon <jake@codeincomplete.com>"
+  "author": {
+    "name": "Jake Gordon <jake@codeincomplete.com>"
+  }
 }

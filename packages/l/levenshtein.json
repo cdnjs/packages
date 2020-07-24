@@ -2,7 +2,9 @@
   "name": "levenshtein",
   "filename": "levenshtein.min.js",
   "description": "Javascript implementation of the L-diggity.",
-  "author": "Gianni Chiappetta <gianni@runlevel6.org>",
+  "author": {
+    "name": "Gianni Chiappetta <gianni@runlevel6.org>"
+  },
   "keywords": [
     "Levenshtein",
     "string"

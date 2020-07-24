@@ -2,7 +2,9 @@
   "name": "persian.js",
   "filename": "persian.min.js",
   "description": "Persian language localization.",
-  "author": "Afshin Mehrabani <afshin.meh@gmail.com> (http://afshinm.name/)",
+  "author": {
+    "name": "Afshin Mehrabani <afshin.meh@gmail.com> (http://afshinm.name/)"
+  },
   "keywords": [
     "persian",
     "farsi",

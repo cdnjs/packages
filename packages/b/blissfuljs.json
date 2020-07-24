@@ -14,7 +14,9 @@
     "OOP",
     "ES5"
   ],
-  "author": "Lea Verou",
+  "author": {
+    "name": "Lea Verou"
+  },
   "license": "MIT",
   "homepage": "https://blissfuljs.com",
   "autoupdate": {

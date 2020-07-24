@@ -16,7 +16,9 @@
   ],
   "homepage": "https://facebook.github.io/react/",
   "license": "MIT",
-  "author": "Facebook",
+  "author": {
+    "name": "Facebook"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "react-dom",

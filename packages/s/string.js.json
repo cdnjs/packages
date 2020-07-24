@@ -22,7 +22,9 @@
     "escape",
     "unescape"
   ],
-  "author": "JP Richardson <jprichardson@gmail.com>",
+  "author": {
+    "name": "JP Richardson <jprichardson@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jprichardson/string.js"

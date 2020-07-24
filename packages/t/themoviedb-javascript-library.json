@@ -10,7 +10,9 @@
     "RESTful",
     "MovieDB"
   ],
-  "author": "Franco Cavestri",
+  "author": {
+    "name": "Franco Cavestri"
+  },
   "license": "MIT",
   "homepage": "http://codenatic.com/2016/01/29/a-javascript-library-for-the-themoviedb-api/",
   "autoupdate": {

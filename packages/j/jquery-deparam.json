@@ -7,7 +7,9 @@
     "param",
     "querystring"
   ],
-  "author": "Duncan Wong <baduncaduncan@gmail.com>",
+  "author": {
+    "name": "Duncan Wong <baduncaduncan@gmail.com>"
+  },
   "license": "MIT",
   "homepage": "https://github.com/AceMetrix/jquery-deparam#readme",
   "repository": {

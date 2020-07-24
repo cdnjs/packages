@@ -7,7 +7,9 @@
     "type": "git",
     "url": "https://github.com/kamranahmedse/driver.js"
   },
-  "author": "Kamran Ahmed <kamranahmed.se@gmail.com>",
+  "author": {
+    "name": "Kamran Ahmed <kamranahmed.se@gmail.com>"
+  },
   "license": "MIT",
   "keywords": [
     "tour",

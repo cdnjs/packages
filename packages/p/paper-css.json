@@ -9,7 +9,9 @@
     "css",
     "print"
   ],
-  "author": "Tsutomu Kawamura",
+  "author": {
+    "name": "Tsutomu Kawamura"
+  },
   "license": "MIT",
   "filename": "paper.min.css",
   "autoupdate": {

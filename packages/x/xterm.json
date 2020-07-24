@@ -12,7 +12,9 @@
     "terminal",
     "browser-tty"
   ],
-  "author": "SourceLair",
+  "author": {
+    "name": "SourceLair"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

@@ -2,7 +2,9 @@
   "name": "slim-select",
   "description": "Slim vanilla javascript select dropdown",
   "filename": "slimselect.min.js",
-  "author": "Brian Voelker <brian@webiswhatido.com> (http://webiswhatido.com)",
+  "author": {
+    "name": "Brian Voelker <brian@webiswhatido.com> (http://webiswhatido.com)"
+  },
   "homepage": "http://slimselectjs.com",
   "license": "MIT",
   "repository": {

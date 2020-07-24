@@ -12,7 +12,9 @@
     "api",
     "security"
   ],
-  "author": "The OAuth.io Team",
+  "author": {
+    "name": "The OAuth.io Team"
+  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",

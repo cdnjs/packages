@@ -9,7 +9,9 @@
     "coco",
     "javascript"
   ],
-  "author": "George Zahariev <z@georgezahariev.com>",
+  "author": {
+    "name": "George Zahariev <z@georgezahariev.com>"
+  },
   "homepage": "http://livescript.net",
   "repository": {
     "type": "git",

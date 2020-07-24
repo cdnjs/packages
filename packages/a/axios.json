@@ -13,7 +13,9 @@
     "promise",
     "node"
   ],
-  "author": "Matt Zabriskie",
+  "author": {
+    "name": "Matt Zabriskie"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

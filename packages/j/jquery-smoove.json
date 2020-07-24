@@ -14,7 +14,9 @@
     "url": "https://github.com/abeMedia/jquery-smoove"
   },
   "license": "GPL-2.0",
-  "author": "Adam Bouqdib (http://abemedia.co.uk/)",
+  "author": {
+    "name": "Adam Bouqdib (http://abemedia.co.uk/)"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "jquery-smoove",

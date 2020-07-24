@@ -11,7 +11,9 @@
     "url": "https://github.com/sockjs/sockjs-client"
   },
   "license": "MIT",
-  "author": "Bryce Kahle",
+  "author": {
+    "name": "Bryce Kahle"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "sockjs-client",

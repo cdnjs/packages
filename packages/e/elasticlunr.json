@@ -2,7 +2,9 @@
   "name": "elasticlunr",
   "description": "Lightweight full-text search engine in Javascript for browser search and offline search.",
   "filename": "elasticlunr.min.js",
-  "author": "Wei Song",
+  "author": {
+    "name": "Wei Song"
+  },
   "keywords": [
     "search",
     "text retrieval",

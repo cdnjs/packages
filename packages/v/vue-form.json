@@ -2,7 +2,9 @@
   "name": "vue-form",
   "description": "Form validation for Vue.js",
   "filename": "vue-form.min.js",
-  "author": "Fergal Doyle",
+  "author": {
+    "name": "Fergal Doyle"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

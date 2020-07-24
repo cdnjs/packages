@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/flaviusmatis/simplePagination.js.git"
   },
-  "author": "Flavius Matis <flavius@fdbk.me>",
+  "author": {
+    "name": "Flavius Matis <flavius@fdbk.me>"
+  },
   "license": "MIT",
   "keywords": [
     "jquery",

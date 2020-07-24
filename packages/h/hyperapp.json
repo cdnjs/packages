@@ -7,7 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/hyperapp/hyperapp.git"
   },
-  "author": "Jorge Bucaran",
+  "author": {
+    "name": "Jorge Bucaran"
+  },
   "keywords": [
     "hyperx",
     "hypertext",

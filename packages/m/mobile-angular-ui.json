@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git://github.com/mcasimir/mobile-angular-ui.git"
   },
-  "author": "mcasimir",
+  "author": {
+    "name": "mcasimir"
+  },
   "license": "MIT",
   "keywords": [
     "mobile-angular-ui",

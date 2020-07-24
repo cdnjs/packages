@@ -11,7 +11,9 @@
     "snowfall",
     "snowing"
   ],
-  "author": "Jason Brown loktar00 loktar69@hotmail.com",
+  "author": {
+    "name": "Jason Brown loktar00 loktar69@hotmail.com"
+  },
   "license": "Apache",
   "autoupdate": {
     "source": "git",

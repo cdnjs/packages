@@ -7,7 +7,9 @@
     "templating",
     "jquery-plugin"
   ],
-  "author": "Paul Burgess",
+  "author": {
+    "name": "Paul Burgess"
+  },
   "homepage": "https://codepb.github.io/jquery-template/",
   "repository": {
     "type": "git",

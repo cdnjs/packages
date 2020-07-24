@@ -14,7 +14,9 @@
     "effects",
     "side effects"
   ],
-  "author": "Yassine ELOUAFI <yelouafi@gmail.com>",
+  "author": {
+    "name": "Yassine ELOUAFI <yelouafi@gmail.com>"
+  },
   "license": "MIT",
   "homepage": "https://redux-saga.js.org/",
   "autoupdate": {

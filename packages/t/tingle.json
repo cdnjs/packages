@@ -14,7 +14,9 @@
     "type": "git",
     "url": "git://github.com/robinparisi/tingle.git"
   },
-  "author": "robinparisi",
+  "author": {
+    "name": "robinparisi"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -13,7 +13,9 @@
     "event-source",
     "polyfill"
   ],
-  "author": "Yaffle (https://github.com/Yaffle)",
+  "author": {
+    "name": "Yaffle (https://github.com/Yaffle)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

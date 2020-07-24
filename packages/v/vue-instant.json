@@ -2,7 +2,9 @@
   "name": "vue-instant",
   "filename": "vue-instant.browser.js",
   "description": "vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 application.",
-  "author": "santiago <santiago.blanco.vilchez@gmail.com>",
+  "author": {
+    "name": "santiago <santiago.blanco.vilchez@gmail.com>"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/chinmaymk/angular-charts.git"
   },
-  "author": "chinmaymk",
+  "author": {
+    "name": "chinmaymk"
+  },
   "license": "MIT",
   "keywords": [
     "one-click",

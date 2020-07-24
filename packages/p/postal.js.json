@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git://github.com/postaljs/postal.js.git"
   },
-  "author": "Jim Cowart (http://freshbrewedcode.com/jimcowart)",
+  "author": {
+    "name": "Jim Cowart (http://freshbrewedcode.com/jimcowart)"
+  },
   "keywords": [
     "pub/sub",
     "pub",

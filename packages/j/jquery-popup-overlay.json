@@ -13,7 +13,9 @@
     "overlay",
     "modal"
   ],
-  "author": "Vast",
+  "author": {
+    "name": "Vast"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

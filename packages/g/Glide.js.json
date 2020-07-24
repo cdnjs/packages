@@ -2,7 +2,9 @@
   "name": "Glide.js",
   "description": "Simple, lightweight and fast jQuery slider",
   "filename": "glide.min.js",
-  "author": "@jedrzejchalubek",
+  "author": {
+    "name": "@jedrzejchalubek"
+  },
   "homepage": "http://glide.jedrzejchalubek.com",
   "license": "MIT",
   "keywords": [

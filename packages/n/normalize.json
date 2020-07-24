@@ -11,7 +11,9 @@
     "url": "https://github.com/necolas/normalize.css"
   },
   "license": "MIT",
-  "author": "Nicolas Gallagher",
+  "author": {
+    "name": "Nicolas Gallagher"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "normalize.css",

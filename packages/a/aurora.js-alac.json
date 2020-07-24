@@ -13,6 +13,8 @@
     "aurora",
     "decode"
   ],
-  "author": "Devon Govett <devongovett@gmail.com>",
+  "author": {
+    "name": "Devon Govett <devongovett@gmail.com>"
+  },
   "license": "Apache-2.0"
 }

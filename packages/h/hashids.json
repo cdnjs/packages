@@ -1,5 +1,7 @@
 {
-  "author": "hashids.org <npm@invent.life> (https://github.com/hashids)",
+  "author": {
+    "name": "hashids.org <npm@invent.life> (https://github.com/hashids)"
+  },
   "description": "Generate YouTube-like ids from numbers. Use Hashids when you do not want to expose your database ids to the user.",
   "filename": "dist/hashids.min.js",
   "homepage": "http://hashids.org/javascript",

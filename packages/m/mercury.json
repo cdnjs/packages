@@ -10,7 +10,9 @@
     "modular",
     "web"
   ],
-  "author": "Raynos <raynos2@gmail.com>",
+  "author": {
+    "name": "Raynos <raynos2@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/Raynos/mercury.git"

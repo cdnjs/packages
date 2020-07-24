@@ -14,7 +14,9 @@
     "type": "git",
     "url": "https://github.com/T00rk/bootstrap-material-datetimepicker"
   },
-  "author": "T00rk",
+  "author": {
+    "name": "T00rk"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

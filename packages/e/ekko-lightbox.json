@@ -9,7 +9,9 @@
     "jquery",
     "modal"
   ],
-  "author": "ashleydw <hello@ashleyd.ws>",
+  "author": {
+    "name": "ashleydw <hello@ashleyd.ws>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ashleydw/lightbox.git"

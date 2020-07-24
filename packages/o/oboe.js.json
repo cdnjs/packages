@@ -15,7 +15,9 @@
     "browser"
   ],
   "homepage": "http://oboejs.com",
-  "author": "Jim Higson",
+  "author": {
+    "name": "Jim Higson"
+  },
   "license": "BSD",
   "repository": {
     "type": "git",

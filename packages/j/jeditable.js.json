@@ -1,7 +1,9 @@
 {
   "name": "jeditable.js",
   "filename": "jquery.jeditable.min.js",
-  "author": "Mika Tuupola <tuupola@appelsiini.net>",
+  "author": {
+    "name": "Mika Tuupola <tuupola@appelsiini.net>"
+  },
   "description": "jQuery edit in place plugin. Extendable via plugin architecture. Plugins for plugin. Really.",
   "homepage": "https://jeditable.elabftw.net/",
   "keywords": [

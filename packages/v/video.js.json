@@ -15,7 +15,9 @@
     "url": "https://github.com/videojs/video.js"
   },
   "license": "Apache-2.0",
-  "author": "Steve Heffernan",
+  "author": {
+    "name": "Steve Heffernan"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "video.js",

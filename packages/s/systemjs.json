@@ -5,7 +5,9 @@
     "type": "git",
     "url": "git://github.com/systemjs/systemjs"
   },
-  "author": "Guy Bedford",
+  "author": {
+    "name": "Guy Bedford"
+  },
   "license": "MIT",
   "filename": "system.min.js",
   "keywords": [

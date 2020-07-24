@@ -12,7 +12,9 @@
     "jquery",
     "css3"
   ],
-  "author": "krazyjakee",
+  "author": {
+    "name": "krazyjakee"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

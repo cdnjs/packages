@@ -3,7 +3,9 @@
   "name": "scrollprogress",
   "filename": "scrollProgress.min.js",
   "description": "Small library that creates a progress bar that indicates how much you've scrolled on a website",
-  "author": "Jeremias Menichelli",
+  "author": {
+    "name": "Jeremias Menichelli"
+  },
   "license": "MIT",
   "homepage": "https://jeremenichelli.github.io/scrollProgress/",
   "repository": {

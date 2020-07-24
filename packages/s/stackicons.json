@@ -11,7 +11,9 @@
     "font",
     "multi-color"
   ],
-  "author": "Parker Bennett",
+  "author": {
+    "name": "Parker Bennett"
+  },
   "license": "MIT",
   "homepage": "http://stackicons.com/",
   "autoupdate": {

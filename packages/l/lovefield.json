@@ -10,7 +10,9 @@
     "type": "git",
     "url": "https://github.com/google/lovefield.git"
   },
-  "author": "Google Inc.",
+  "author": {
+    "name": "Google Inc."
+  },
   "autoupdate": {
     "source": "npm",
     "target": "lovefield",

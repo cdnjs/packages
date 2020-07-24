@@ -12,7 +12,9 @@
     "linear",
     "algebra"
   ],
-  "author": "Mateo Gianolio",
+  "author": {
+    "name": "Mateo Gianolio"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

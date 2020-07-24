@@ -13,5 +13,7 @@
     "framework"
   ],
   "license": "GPL-2.0",
-  "author": "Eric Martin <eric@ericmmartin.com>"
+  "author": {
+    "name": "Eric Martin <eric@ericmmartin.com>"
+  }
 }

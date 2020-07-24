@@ -15,7 +15,9 @@
     "intuition",
     "visceral"
   ],
-  "author": "Justin Reynolds <jreynolds@netflix.com>",
+  "author": {
+    "name": "Justin Reynolds <jreynolds@netflix.com>"
+  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",

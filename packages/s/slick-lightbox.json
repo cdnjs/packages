@@ -14,7 +14,9 @@
     "type": "git",
     "url": "https://github.com/mreq/slick-lightbox.git"
   },
-  "author": "mreq",
+  "author": {
+    "name": "mreq"
+  },
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/mreq/slick-lightbox.git",

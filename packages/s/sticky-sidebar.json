@@ -9,7 +9,9 @@
     "javascript",
     "jquery"
   ],
-  "author": "Ahmed Bouhuolia",
+  "author": {
+    "name": "Ahmed Bouhuolia"
+  },
   "license": "The MIT License (MIT)",
   "homepage": "https://github.com/abouolia/sticky-sidebar",
   "repository": {

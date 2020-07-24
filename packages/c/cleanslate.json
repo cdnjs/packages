@@ -12,7 +12,9 @@
     "url": "git://github.com/premasagar/cleanslate.git"
   },
   "license": "MIT",
-  "author": "Premasagar Rose <p@dharmafly.com>",
+  "author": {
+    "name": "Premasagar Rose <p@dharmafly.com>"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/premasagar/cleanslate.git",

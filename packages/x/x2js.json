@@ -2,7 +2,9 @@
   "name": "x2js",
   "filename": "xml2json.min.js",
   "description": "XML <=> JSON mapping/converting library",
-  "author": "abdmob",
+  "author": {
+    "name": "abdmob"
+  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",

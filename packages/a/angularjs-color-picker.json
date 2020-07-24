@@ -14,7 +14,9 @@
     "type": "git",
     "url": "git://github.com/ruhley/angular-color-picker.git"
   },
-  "author": "ruhley <timothy.ruhle@gmail.com>",
+  "author": {
+    "name": "ruhley <timothy.ruhle@gmail.com>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "angularjs-color-picker",

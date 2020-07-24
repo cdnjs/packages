@@ -12,7 +12,9 @@
     "react",
     "router"
   ],
-  "author": "Andrew Clark <acdlite@me.com>",
+  "author": {
+    "name": "Andrew Clark <acdlite@me.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

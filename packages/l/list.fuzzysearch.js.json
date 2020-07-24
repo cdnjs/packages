@@ -8,7 +8,9 @@
     "list.js",
     "list"
   ],
-  "author": "Jonny Strömberg <jonny.stromberg@gmail.com>",
+  "author": {
+    "name": "Jonny Strömberg <jonny.stromberg@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/javve/list.fuzzysearch.js.git"

@@ -2,7 +2,9 @@
   "name": "clndr",
   "filename": "clndr.min.js",
   "description": "A jQuery calendar plugin that uses HTML templates.",
-  "author": "Kyle Stetz",
+  "author": {
+    "name": "Kyle Stetz"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

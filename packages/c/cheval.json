@@ -24,7 +24,9 @@
     "Copy text",
     "Copy to clipboard"
   ],
-  "author": "Ryan P.C. McQuen <ryanpcmcquen@member.fsf.org> (https://ryanpcmcquen.org/)",
+  "author": {
+    "name": "Ryan P.C. McQuen <ryanpcmcquen@member.fsf.org> (https://ryanpcmcquen.org/)"
+  },
   "homepage": "https://ryanpcmcquen.org/cheval",
   "license": "MPL-2.0"
 }

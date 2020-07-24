@@ -9,7 +9,9 @@
     "javascript",
     "simple"
   ],
-  "author": "https://github.com/excaliburjs/Excalibur/graphs/contributors",
+  "author": {
+    "name": "https://github.com/excaliburjs/Excalibur/graphs/contributors"
+  },
   "license": "BSD-2-Clause",
   "homepage": "https://github.com/excaliburjs/Excalibur",
   "repository": {

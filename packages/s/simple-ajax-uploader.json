@@ -8,7 +8,9 @@
     "php",
     "cross-browser"
   ],
-  "author": "LPology",
+  "author": {
+    "name": "LPology"
+  },
   "license": "MIT",
   "homepage": "https://github.com/LPology/Simple-Ajax-Uploader",
   "repository": {

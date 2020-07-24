@@ -26,5 +26,7 @@
     "url": "https://github.com/joedf/strapdown-topbar.git"
   },
   "license": "MIT",
-  "author": "joedf"
+  "author": {
+    "name": "joedf"
+  }
 }

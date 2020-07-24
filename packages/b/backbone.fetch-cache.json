@@ -1,7 +1,9 @@
 {
   "name": "backbone.fetch-cache",
   "filename": "backbone.fetch-cache.min.js",
-  "author": "Andy Appleton",
+  "author": {
+    "name": "Andy Appleton"
+  },
   "description": "Caches calls to Backbone.[Model | Collection].fetch",
   "keywords": [
     "backbone",

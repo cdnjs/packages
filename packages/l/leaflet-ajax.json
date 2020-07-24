@@ -11,7 +11,9 @@
     "ajax",
     "geojson"
   ],
-  "author": "Calvin Metcalf",
+  "author": {
+    "name": "Calvin Metcalf"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -8,7 +8,9 @@
     "twitter",
     "follow"
   ],
-  "author": "Evan Moran <evan@evanmoran.com>",
+  "author": {
+    "name": "Evan Moran <evan@evanmoran.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/ojjs/oj.TwitterButton.git"

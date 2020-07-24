@@ -1,6 +1,8 @@
 {
   "name": "chrono",
-  "author": "Konstantin Käfer",
+  "author": {
+    "name": "Konstantin Käfer"
+  },
   "description": "Format dates in JavaScript",
   "filename": "chrono.min.js",
   "repository": {

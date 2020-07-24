@@ -29,5 +29,7 @@
       }
     ]
   },
-  "author": "Sergey Pimenov"
+  "author": {
+    "name": "Sergey Pimenov"
+  }
 }

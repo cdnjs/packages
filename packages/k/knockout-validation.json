@@ -15,7 +15,9 @@
     "type": "git",
     "url": "https://github.com/Knockout-Contrib/Knockout-Validation.git"
   },
-  "author": "@ericmbarnard",
+  "author": {
+    "name": "@ericmbarnard"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "knockout.validation",

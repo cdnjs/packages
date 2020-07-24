@@ -2,7 +2,9 @@
   "name": "transducers.js",
   "filename": "transducers.min.js",
   "description": "A small library for generalized transformation of data",
-  "author": "James Long <longster@gmail.com>",
+  "author": {
+    "name": "James Long <longster@gmail.com>"
+  },
   "license": "BSD-2-Clause",
   "repository": {
     "type": "git",

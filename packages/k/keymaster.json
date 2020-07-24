@@ -11,5 +11,7 @@
     "url": "https://github.com/madrobby/keymaster"
   },
   "license": "MIT",
-  "author": "Thomas Fuchs <thomas@slash7.com> (http://mir.aculo.us)"
+  "author": {
+    "name": "Thomas Fuchs <thomas@slash7.com> (http://mir.aculo.us)"
+  }
 }

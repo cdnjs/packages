@@ -14,7 +14,9 @@
     "testing",
     "client-side"
   ],
-  "author": "Angular Core Team <angular-core+npm@google.com>",
+  "author": {
+    "name": "Angular Core Team <angular-core+npm@google.com>"
+  },
   "license": "MIT",
   "homepage": "https://angularjs.org",
   "autoupdate": {

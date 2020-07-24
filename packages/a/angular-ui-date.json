@@ -1,7 +1,9 @@
 {
   "name": "angular-ui-date",
   "description": "This directive allows you to add a date-picker to your form elements.",
-  "author": "https://github.com/angular-ui/ui-date/graphs/contributors",
+  "author": {
+    "name": "https://github.com/angular-ui/ui-date/graphs/contributors"
+  },
   "license": "MIT",
   "homepage": "http://angular-ui.github.com/ui-date",
   "filename": "date.min.js",

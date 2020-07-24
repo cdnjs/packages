@@ -10,7 +10,9 @@
     "file"
   ],
   "homepage": "https://alferov.github.io/angular-file-saver/",
-  "author": "Philipp Alferov",
+  "author": {
+    "name": "Philipp Alferov"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -9,7 +9,9 @@
     "timer",
     "moment"
   ],
-  "author": "SeverinDK",
+  "author": {
+    "name": "SeverinDK"
+  },
   "license": "MIT",
   "homepage": "https://github.com/SeverinDK/moment-timer#readme",
   "repository": {

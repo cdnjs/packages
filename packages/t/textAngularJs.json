@@ -7,7 +7,9 @@
     "WYSIWYG",
     "directive"
   ],
-  "author": "antosarho",
+  "author": {
+    "name": "antosarho"
+  },
   "license": "MIT",
   "homepage": "http://textangular.com",
   "repository": {

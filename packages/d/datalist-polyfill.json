@@ -5,7 +5,9 @@
     "type": "git",
     "url": "git://github.com/mfranzke/datalist-polyfill.git"
   },
-  "author": "Maximilian Franzke",
+  "author": {
+    "name": "Maximilian Franzke"
+  },
   "license": "MIT",
   "filename": "datalist-polyfill.min.js",
   "keywords": [

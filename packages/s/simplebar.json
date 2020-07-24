@@ -11,7 +11,9 @@
     "type": "git",
     "url": "https://github.com/grsmto/simplebar.git"
   },
-  "author": "Adrien Grsmto from a fork by Jonathan Nicol",
+  "author": {
+    "name": "Adrien Grsmto from a fork by Jonathan Nicol"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

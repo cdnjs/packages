@@ -2,7 +2,9 @@
   "name": "d3fc",
   "filename": "d3fc.bundle.min.js",
   "description": "A collection of components that make it easy to build interactive charts with D3",
-  "author": "Scott Logic",
+  "author": {
+    "name": "Scott Logic"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ScottLogic/d3fc"

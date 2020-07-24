@@ -29,5 +29,7 @@
     "type": "git",
     "url": "https://github.com/alexwolfe/Buttons"
   },
-  "author": "Unicorn-UI <updates@unicorn-ui.com>"
+  "author": {
+    "name": "Unicorn-UI <updates@unicorn-ui.com>"
+  }
 }

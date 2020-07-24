@@ -10,7 +10,9 @@
     "css"
   ],
   "homepage": "https://jwarby.github.io/jquery-awesome-cursor",
-  "author": "James Warwood <warwood.aj@gmail.com> (https://github.com/jwarby)",
+  "author": {
+    "name": "James Warwood <warwood.aj@gmail.com> (https://github.com/jwarby)"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jwarby/jquery-awesome-cursor.git"

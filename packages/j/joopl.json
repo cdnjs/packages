@@ -8,7 +8,9 @@
     "oop",
     "object-oriented"
   ],
-  "author": "Matias Fidemraizer",
+  "author": {
+    "name": "Matias Fidemraizer"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mfidemraizer/joopl.git"

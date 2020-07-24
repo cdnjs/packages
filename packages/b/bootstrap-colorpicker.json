@@ -12,7 +12,9 @@
     "url": "https://github.com/itsjavi/bootstrap-colorpicker.git"
   },
   "license": "MIT",
-  "author": "Javi Aguilar @itsjavi",
+  "author": {
+    "name": "Javi Aguilar @itsjavi"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "bootstrap-colorpicker",

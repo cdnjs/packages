@@ -16,7 +16,9 @@
     "url": "https://github.com/omniscientjs/omniscient"
   },
   "license": "MIT",
-  "author": "@torgeir,@mikaelbr",
+  "author": {
+    "name": "@torgeir,@mikaelbr"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "omniscient",

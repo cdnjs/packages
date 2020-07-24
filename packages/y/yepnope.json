@@ -12,5 +12,7 @@
     "url": "https://github.com/SlexAxton/yepnope.js"
   },
   "license": "BSD-3-Clause",
-  "author": "Alex Sexton, Ralph Holzmann"
+  "author": {
+    "name": "Alex Sexton, Ralph Holzmann"
+  }
 }

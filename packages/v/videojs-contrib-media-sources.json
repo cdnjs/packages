@@ -5,7 +5,9 @@
     "videojs",
     "videojs-plugin"
   ],
-  "author": "Brightcove, Inc.",
+  "author": {
+    "name": "Brightcove, Inc."
+  },
   "license": "Apache-2.0",
   "homepage": "https://github.com/videojs/videojs-contrib-media-sources#readme",
   "repository": {

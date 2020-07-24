@@ -14,7 +14,9 @@
     "animation",
     "triangulation"
   ],
-  "author": "Noah Veltman (@veltman)",
+  "author": {
+    "name": "Noah Veltman (@veltman)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

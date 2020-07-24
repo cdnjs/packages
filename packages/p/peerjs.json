@@ -12,7 +12,9 @@
     "url": "https://github.com/peers/peerjs"
   },
   "license": "MIT",
-  "author": "Michelle Bu, Eric Zhang",
+  "author": {
+    "name": "Michelle Bu, Eric Zhang"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "peerjs",

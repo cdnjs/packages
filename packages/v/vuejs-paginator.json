@@ -12,7 +12,9 @@
     "vuejs-laravel",
     "laravel-pagination"
   ],
-  "author": "Alex Kyriakidis <alex@tmvuejs.com>",
+  "author": {
+    "name": "Alex Kyriakidis <alex@tmvuejs.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

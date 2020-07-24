@@ -44,5 +44,7 @@
     "type": "git",
     "url": "https://github.com/hprose/hprose-html5.git"
   },
-  "author": "Ma Bingyao <andot@hprose.com>"
+  "author": {
+    "name": "Ma Bingyao <andot@hprose.com>"
+  }
 }

@@ -2,7 +2,9 @@
   "name": "heatcanvas",
   "filename": "heatcanvas.min.js",
   "description": "Simple heatmap api based on HTML5 canvas.",
-  "author": "Ning Sun",
+  "author": {
+    "name": "Ning Sun"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

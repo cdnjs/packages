@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git://github.com/bigspotteddog/ScrollToFixed.git"
   },
-  "author": "bigspotteddog",
+  "author": {
+    "name": "bigspotteddog"
+  },
   "keywords": [
     "scroll",
     "fixed",

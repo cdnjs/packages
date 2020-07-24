@@ -29,5 +29,7 @@
       }
     ]
   },
-  "author": "Miriam Zusin <no81no@gmail.com>"
+  "author": {
+    "name": "Miriam Zusin <no81no@gmail.com>"
+  }
 }

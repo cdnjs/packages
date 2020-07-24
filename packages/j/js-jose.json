@@ -10,7 +10,9 @@
     "sign",
     "verify"
   ],
-  "author": "square",
+  "author": {
+    "name": "square"
+  },
   "license": "Apache-2.0",
   "homepage": "https://github.com/square/js-jose",
   "repository": {

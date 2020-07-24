@@ -1,7 +1,9 @@
 {
   "name": "rrssb",
   "filename": "js/rrssb.min.js",
-  "author": "Daniel Box <daniel@kurtnoble.com> (https://github.com/kni-labs)",
+  "author": {
+    "name": "Daniel Box <daniel@kurtnoble.com> (https://github.com/kni-labs)"
+  },
   "description": "Ridiculously Responsive Social Sharing Buttons",
   "keywords": [
     "ridiculously",

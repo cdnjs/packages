@@ -25,5 +25,7 @@
     "url": "https://github.com/nprapps/pym.js/"
   },
   "license": "MIT",
-  "author": "NPR"
+  "author": {
+    "name": "NPR"
+  }
 }

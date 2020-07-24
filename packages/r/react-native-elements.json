@@ -12,7 +12,9 @@
     "reactnative",
     "bootstrap"
   ],
-  "author": "Nader Dabit",
+  "author": {
+    "name": "Nader Dabit"
+  },
   "license": "MIT",
   "homepage": "https://react-native-training.github.io/react-native-elements/",
   "autoupdate": {

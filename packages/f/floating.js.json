@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/Haroenv/floating.js.git"
   },
-  "author": "Haroen Viaene",
+  "author": {
+    "name": "Haroen Viaene"
+  },
   "license": "Apache-2.0",
   "filename": "floating.js",
   "keywords": [

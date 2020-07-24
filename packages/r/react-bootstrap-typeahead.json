@@ -13,7 +13,9 @@
     "tokenizer",
     "typeahead"
   ],
-  "author": "ericgio",
+  "author": {
+    "name": "ericgio"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

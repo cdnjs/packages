@@ -5,7 +5,9 @@
     "preact",
     "router"
   ],
-  "author": "Jason Miller <jason@developit.ca>",
+  "author": {
+    "name": "Jason Miller <jason@developit.ca>"
+  },
   "license": "MIT",
   "homepage": "https://github.com/developit/preact-router",
   "repository": {

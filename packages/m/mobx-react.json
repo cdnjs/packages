@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/mobxjs/mobx-react.git"
   },
-  "author": "Michel Weststrate",
+  "author": {
+    "name": "Michel Weststrate"
+  },
   "license": "MIT",
   "homepage": "https://mobxjs.github.io/mobx",
   "keywords": [

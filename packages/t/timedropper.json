@@ -10,7 +10,9 @@
     "timedropper",
     "timepicker"
   ],
-  "author": "Felice Gattuso",
+  "author": {
+    "name": "Felice Gattuso"
+  },
   "homepage": "http://felicegattuso.com/projects/timedropper/",
   "licenses": [
     "MIT",

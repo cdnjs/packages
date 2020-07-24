@@ -15,7 +15,9 @@
     "function",
     "parser"
   ],
-  "author": "Matthew Crumley",
+  "author": {
+    "name": "Matthew Crumley"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

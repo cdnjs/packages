@@ -12,7 +12,9 @@
     "notification",
     "nofity"
   ],
-  "author": "Alex Gibson",
+  "author": {
+    "name": "Alex Gibson"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

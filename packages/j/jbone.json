@@ -12,7 +12,9 @@
     "events",
     "library"
   ],
-  "author": "Alexey Kupriyanenko",
+  "author": {
+    "name": "Alexey Kupriyanenko"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

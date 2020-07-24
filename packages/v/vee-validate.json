@@ -15,7 +15,9 @@
     "inputs",
     "form"
   ],
-  "author": "Abdelrahman Awad <logaretm1@gmail.com>",
+  "author": {
+    "name": "Abdelrahman Awad <logaretm1@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

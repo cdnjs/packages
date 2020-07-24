@@ -2,7 +2,9 @@
   "name": "angular-scroll",
   "filename": "angular-scroll.min.js",
   "description": "Scrollspy, animated scrollTo and scroll events",
-  "author": "Joel Arvidsson",
+  "author": {
+    "name": "Joel Arvidsson"
+  },
   "keywords": [
     "angular",
     "smooth-scroll",

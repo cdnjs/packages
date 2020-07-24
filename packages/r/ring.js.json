@@ -2,7 +2,9 @@
   "name": "ring.js",
   "filename": "ring.min.js",
   "description": "Ring.js - JavaScript Class System with Multiple Inheritance",
-  "author": "Nicolas Vanhoren",
+  "author": {
+    "name": "Nicolas Vanhoren"
+  },
   "keywords": [
     "ring",
     "ring.js",

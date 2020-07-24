@@ -25,5 +25,7 @@
       }
     ]
   },
-  "author": "Tobias Reich <tobias@electerious.com>"
+  "author": {
+    "name": "Tobias Reich <tobias@electerious.com>"
+  }
 }

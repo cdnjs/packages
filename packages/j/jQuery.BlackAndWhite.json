@@ -11,7 +11,9 @@
     "grayscale",
     "images"
   ],
-  "author": "Gianluca Guarini <gianluca.guarini@gmail.com> (http://gianlucaguarini.com/)",
+  "author": {
+    "name": "Gianluca Guarini <gianluca.guarini@gmail.com> (http://gianlucaguarini.com/)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

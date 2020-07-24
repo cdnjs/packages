@@ -3,7 +3,9 @@
   "title": "Chartist.js",
   "filename": "chartist.min.js",
   "description": "Simple, responsive charts",
-  "author": "Gion Kunz",
+  "author": {
+    "name": "Gion Kunz"
+  },
   "homepage": "https://gionkunz.github.io/chartist-js",
   "repository": {
     "type": "git",

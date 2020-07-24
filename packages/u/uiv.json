@@ -2,7 +2,9 @@
   "name": "uiv",
   "filename": "uiv.min.js",
   "description": "Bootstrap 3 components implemented by Vue 2.",
-  "author": "wxsm",
+  "author": {
+    "name": "wxsm"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wxsms/uiv.git"

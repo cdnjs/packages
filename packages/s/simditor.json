@@ -11,7 +11,9 @@
     "type": "git",
     "url": "https://github.com/mycolorway/simditor"
   },
-  "author": "farthinker <farthinker@gmail.com>",
+  "author": {
+    "name": "farthinker <farthinker@gmail.com>"
+  },
   "license": "MIT",
   "homepage": "http://simditor.tower.im",
   "autoupdate": {

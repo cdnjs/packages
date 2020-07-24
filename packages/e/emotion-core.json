@@ -1,5 +1,7 @@
 {
-  "author": "mitchellhamilton <mitchell@mitchellhamilton.me>",
+  "author": {
+    "name": "mitchellhamilton <mitchell@mitchellhamilton.me>"
+  },
   "description": "Simple styling in React.",
   "filename": "core.umd.min.js",
   "homepage": "https://github.com/emotion-js/emotion/tree/master/packages/core",

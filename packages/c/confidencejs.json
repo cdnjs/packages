@@ -7,7 +7,9 @@
     "confidence",
     "interval"
   ],
-  "author": "Jessica Thomas <jessica@sendwithus.com>",
+  "author": {
+    "name": "Jessica Thomas <jessica@sendwithus.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/sendwithus/confidence"

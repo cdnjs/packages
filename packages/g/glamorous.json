@@ -11,7 +11,9 @@
     "glamor",
     "jsxstyle"
   ],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "author": {
+    "name": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

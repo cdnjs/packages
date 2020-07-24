@@ -10,7 +10,9 @@
     "bootstrap"
   ],
   "homepage": "https://github.com/bassjobsen/Bootstrap-3-Typeahead/",
-  "author": "Bass Jobsen",
+  "author": {
+    "name": "Bass Jobsen"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/bassjobsen/Bootstrap-3-Typeahead.git"

@@ -4,7 +4,9 @@
   "description": "A simple, unopinionated CSS framework, ready for the future.",
   "homepage": "http://www.pavilion.io",
   "license": "MIT",
-  "author": "Baasdesign <info@baasdesign.com>",
+  "author": {
+    "name": "Baasdesign <info@baasdesign.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/getpavilion/pavilion"

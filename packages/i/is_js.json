@@ -19,7 +19,9 @@
     "time",
     "configuration"
   ],
-  "author": "arasatasaygin <arasatasaygin@gmail.com>",
+  "author": {
+    "name": "arasatasaygin <arasatasaygin@gmail.com>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "is_js",

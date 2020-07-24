@@ -7,7 +7,9 @@
     "upload",
     "sdk"
   ],
-  "author": "sdk@qiniu.com",
+  "author": {
+    "name": "sdk@qiniu.com"
+  },
   "license": "MIT",
   "homepage": "https://github.com/qiniu/js-sdk",
   "repository": {

@@ -2,7 +2,9 @@
   "name": "formatter.js",
   "filename": "formatter.min.js",
   "description": "Format user input to match a specified pattern",
-  "author": "Jarid Margolin <jarid@firstopinion.com>",
+  "author": {
+    "name": "Jarid Margolin <jarid@firstopinion.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/firstopinion/formatter.js"

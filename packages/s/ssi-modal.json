@@ -16,7 +16,9 @@
     "url": "https://github.com/ssbeefeater/ssi-modal.git"
   },
   "homepage": "https://ssbeefeater.github.io/",
-  "author": "Mike Antoniadis <ssbeefeater@gmail.com> (http://ssbeefeater.github.io/)",
+  "author": {
+    "name": "Mike Antoniadis <ssbeefeater@gmail.com> (http://ssbeefeater.github.io/)"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "ssi-modal",

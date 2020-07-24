@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git://github.com/pa7/heatmap.js.git"
   },
-  "author": "Patrick Wied",
+  "author": {
+    "name": "Patrick Wied"
+  },
   "homepage": "https://www.patrick-wied.at/static/heatmapjs/",
   "keywords": [
     "heatmap",

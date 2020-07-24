@@ -2,7 +2,9 @@
   "name": "shopify-cartjs",
   "description": "A Javascript library to power cart management for Shopify themes.",
   "filename": "cart.min.js",
-  "author": "Gavin Ballard",
+  "author": {
+    "name": "Gavin Ballard"
+  },
   "homepage": "http://cartjs.org",
   "license": "MIT",
   "repository": {

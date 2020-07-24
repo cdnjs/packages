@@ -17,5 +17,7 @@
     "MIT",
     "GPL"
   ],
-  "author": "Pablo Cantero <pablo@pablocantero.com>"
+  "author": {
+    "name": "Pablo Cantero <pablo@pablocantero.com>"
+  }
 }

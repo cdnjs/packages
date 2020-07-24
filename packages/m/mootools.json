@@ -17,7 +17,9 @@
     "Fx",
     "Request"
   ],
-  "author": "MooTools Team",
+  "author": {
+    "name": "MooTools Team"
+  },
   "license": "MIT",
   "homepage": "http://mootools.net",
   "autoupdate": {

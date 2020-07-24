@@ -11,7 +11,9 @@
     "angular",
     "websockets"
   ],
-  "author": "Hamilton Chapman",
+  "author": {
+    "name": "Hamilton Chapman"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

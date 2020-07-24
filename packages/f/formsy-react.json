@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/christianalfoni/formsy-react.git"
   },
-  "author": "Christian Alfoni",
+  "author": {
+    "name": "Christian Alfoni"
+  },
   "license": "MIT",
   "keywords": [
     "react",

@@ -11,7 +11,9 @@
     "type": "git",
     "url": "git@github.com:marcj/css-element-queries.git"
   },
-  "author": "Marc J. Schmidt",
+  "author": {
+    "name": "Marc J. Schmidt"
+  },
   "license": "MIT",
   "homepage": "https://marcj.github.io/css-element-queries/",
   "autoupdate": {

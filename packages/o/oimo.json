@@ -12,7 +12,9 @@
     "physics",
     "3d"
   ],
-  "author": "lo-th",
+  "author": {
+    "name": "lo-th"
+  },
   "license": "MIT",
   "homepage": "https://lo-th.github.io/Oimo.js/",
   "autoupdate": {

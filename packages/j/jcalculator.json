@@ -12,5 +12,7 @@
     "type": "git",
     "url": "https://github.com/balajmarius/jcalculator.git"
   },
-  "author": "balajmarius"
+  "author": {
+    "name": "balajmarius"
+  }
 }

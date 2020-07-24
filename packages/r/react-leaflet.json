@@ -12,7 +12,9 @@
     "leaflet",
     "map"
   ],
-  "author": "Paul Le Cam <paul@ulem.net>",
+  "author": {
+    "name": "Paul Le Cam <paul@ulem.net>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

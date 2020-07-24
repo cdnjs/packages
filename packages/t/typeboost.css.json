@@ -28,5 +28,7 @@
     "url": "https://github.com/englishextra/typeboost.css.git"
   },
   "license": "MIT",
-  "author": "englishextra"
+  "author": {
+    "name": "englishextra"
+  }
 }

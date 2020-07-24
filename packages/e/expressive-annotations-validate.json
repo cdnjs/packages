@@ -3,7 +3,9 @@
   "filename": "expressive.annotations.validate.min.js",
   "license": "MIT",
   "description": "Client-side component of ExpressiveAnnotations",
-  "author": "Jarosław Waliszko <jaroslaw.waliszko@gmail.com>",
+  "author": {
+    "name": "Jarosław Waliszko <jaroslaw.waliszko@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/jwaliszko/ExpressiveAnnotations.git"

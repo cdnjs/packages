@@ -7,7 +7,9 @@
     "service worker",
     "sw"
   ],
-  "author": "Google's Web DevRel Team",
+  "author": {
+    "name": "Google's Web DevRel Team"
+  },
   "license": "MIT",
   "homepage": "https://github.com/GoogleChrome/workbox",
   "repository": {

@@ -12,7 +12,9 @@
     "material-design",
     "google"
   ],
-  "author": "Material Design Authors",
+  "author": {
+    "name": "Material Design Authors"
+  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",

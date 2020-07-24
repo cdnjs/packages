@@ -7,7 +7,9 @@
     "l10n"
   ],
   "homepage": "http://l20n.org",
-  "author": "Mozilla <l10n-drivers@mozilla.org>",
+  "author": {
+    "name": "Mozilla <l10n-drivers@mozilla.org>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/l20n/l20n.js"

@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/reactjs/react-autocomplete.git"
   },
-  "author": "Ryan Florence <rpflorence@gmail.com>",
+  "author": {
+    "name": "Ryan Florence <rpflorence@gmail.com>"
+  },
   "license": "MIT",
   "keywords": [
     "react",

@@ -10,7 +10,9 @@
     "bootstrap",
     "wysiwyg"
   ],
-  "author": "bootstrap-wysiwyg <https://github.com/bootstrap-wysiwyg>",
+  "author": {
+    "name": "bootstrap-wysiwyg <https://github.com/bootstrap-wysiwyg>"
+  },
   "license": "MIT",
   "homepage": "https://bootstrap-wysiwyg.github.io/bootstrap3-wysiwyg/",
   "autoupdate": {

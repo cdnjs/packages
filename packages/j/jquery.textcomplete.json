@@ -11,7 +11,9 @@
     "url": "https://github.com/yuku-t/jquery-textcomplete.git"
   },
   "license": "MIT",
-  "author": "Yuku Takahashi <taka84u9@gmail.com>",
+  "author": {
+    "name": "Yuku Takahashi <taka84u9@gmail.com>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "jquery-textcomplete",

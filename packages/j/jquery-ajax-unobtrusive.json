@@ -12,7 +12,9 @@
     "asp.net",
     "jquery"
   ],
-  "author": "Microsoft",
+  "author": {
+    "name": "Microsoft"
+  },
   "license": "https://aka.ms/jquery-ajax-license",
   "bugs": {
     "url": "https://github.com/aspnet/jquery-ajax-unobtrusive/issues"

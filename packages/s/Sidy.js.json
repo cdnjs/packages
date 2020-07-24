@@ -2,7 +2,9 @@
   "name": "Sidy.js",
   "filename": "sidy.js",
   "license": "MIT",
-  "author": "Dmitriy Bushin(reactivestudio)",
+  "author": {
+    "name": "Dmitriy Bushin(reactivestudio)"
+  },
   "keywords": [
     "canvas",
     "panel",

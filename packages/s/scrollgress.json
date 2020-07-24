@@ -9,7 +9,9 @@
     "feedback"
   ],
   "license": "MIT",
-  "author": "Michael Lynch <mikethomaslynch@gmail.com>",
+  "author": {
+    "name": "Michael Lynch <mikethomaslynch@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/michael-lynch/scrollgress.git"

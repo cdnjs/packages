@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/sentsin/layer"
   },
-  "author": "贤心<sentsin>",
+  "author": {
+    "name": "贤心<sentsin>"
+  },
   "homepage": "http://layer.layui.com/",
   "keywords": [
     "layer",

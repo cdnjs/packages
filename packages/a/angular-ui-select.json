@@ -1,7 +1,9 @@
 {
   "name": "angular-ui-select",
   "filename": "select.min.js",
-  "author": "https://github.com/angular-ui/ui-select/graphs/contributors",
+  "author": {
+    "name": "https://github.com/angular-ui/ui-select/graphs/contributors"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/angular-ui/ui-select.git"

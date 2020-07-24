@@ -2,7 +2,9 @@
   "name": "mustache.js",
   "filename": "mustache.min.js",
   "description": "Logic-less {{mustache}} templates with JavaScript",
-  "author": "mustache.js Authors <https://github.com/janl/mustache.js>",
+  "author": {
+    "name": "mustache.js Authors <https://github.com/janl/mustache.js>"
+  },
   "keywords": [
     "templates",
     "templating",

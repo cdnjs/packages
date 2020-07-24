@@ -6,7 +6,9 @@
     "doc",
     "search"
   ],
-  "author": "Algolia <support@algolia.com> (https://github.com/algolia/)",
+  "author": {
+    "name": "Algolia <support@algolia.com> (https://github.com/algolia/)"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

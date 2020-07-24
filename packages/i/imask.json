@@ -12,7 +12,9 @@
     "input",
     "mask"
   ],
-  "author": "Alexey Kryazhev",
+  "author": {
+    "name": "Alexey Kryazhev"
+  },
   "license": "MIT",
   "homepage": "https://unmanner.github.io/imaskjs/",
   "autoupdate": {

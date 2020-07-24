@@ -6,7 +6,9 @@
     "leaflet",
     "map"
   ],
-  "author": "Yohan Boniface",
+  "author": {
+    "name": "Yohan Boniface"
+  },
   "license": "WTFPL",
   "repository": {
     "type": "git",

@@ -2,7 +2,9 @@
   "name": "roll-call",
   "filename": "rollcall.min.js",
   "description": "Roll Call is a completely free🎉 voice chat service with podcast quality recording.",
-  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)",
+  "author": {
+    "name": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)"
+  },
   "license": "Apache-2.0",
   "homepage": "https://rollcall.audio",
   "keywords": [

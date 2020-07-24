@@ -5,7 +5,9 @@
     "type": "git",
     "url": "https://github.com/h2non/jshashes"
   },
-  "author": "Tomas Aparicio <tomas@aparicio.me>",
+  "author": {
+    "name": "Tomas Aparicio <tomas@aparicio.me>"
+  },
   "license": "BSD-3-Clause",
   "filename": "hashes.min.js",
   "keywords": [

@@ -6,7 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/paulrosen/abcjs.git"
   },
-  "author": "Paul Rosen",
+  "author": {
+    "name": "Paul Rosen"
+  },
   "license": "MIT",
   "keywords": [
     "javascript",

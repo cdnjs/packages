@@ -12,7 +12,9 @@
     "type": "git",
     "url": "https://github.com/luruke/barba.js"
   },
-  "author": "Luigi De Rosa <lurukee@gmail.com>",
+  "author": {
+    "name": "Luigi De Rosa <lurukee@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

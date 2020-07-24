@@ -19,7 +19,9 @@
     "responsive-components",
     "flex-galleria"
   ],
-  "author": "PrimeFaces",
+  "author": {
+    "name": "PrimeFaces"
+  },
   "license": "MIT",
   "homepage": "https://www.primefaces.org/primereact/",
   "repository": {

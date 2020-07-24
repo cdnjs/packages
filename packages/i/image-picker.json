@@ -27,5 +27,7 @@
     "type": "git",
     "url": "git://github.com/rvera/image-picker.git"
   },
-  "author": "Rodrigo Vera"
+  "author": {
+    "name": "Rodrigo Vera"
+  }
 }

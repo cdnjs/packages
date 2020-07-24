@@ -5,7 +5,9 @@
   "keywords": [
     "loading"
   ],
-  "author": "christo",
+  "author": {
+    "name": "christo"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/chriso/load.js.git"

@@ -13,7 +13,9 @@
     "touch",
     "gesture"
   ],
-  "author": "Ryan S Mullins",
+  "author": {
+    "name": "Ryan S Mullins"
+  },
   "license": "MIT",
   "homepage": "http://ryanmullins.github.io/angular-hammer/",
   "autoupdate": {

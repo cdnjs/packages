@@ -1,7 +1,9 @@
 {
   "name": "jquery.dirtyforms.dialogs.pnotify",
   "filename": "jquery.dirtyforms.dialogs.pnotify.min.js",
-  "author": "Shad Storhaug <shad@shadstorhaug.com>",
+  "author": {
+    "name": "Shad Storhaug <shad@shadstorhaug.com>"
+  },
   "description": "Dirty Forms is a jQuery plugin to help prevent users from losing data when editing forms.",
   "keywords": [
     "pnotify",

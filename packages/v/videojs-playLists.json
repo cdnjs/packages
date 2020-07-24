@@ -12,7 +12,9 @@
     "video",
     "player"
   ],
-  "author": "Antonio Laguna",
+  "author": {
+    "name": "Antonio Laguna"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

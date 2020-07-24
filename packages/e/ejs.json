@@ -6,7 +6,9 @@
     "engine",
     "ejs"
   ],
-  "author": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)",
+  "author": {
+    "name": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)"
+  },
   "license": "Apache-2.0",
   "homepage": "https://github.com/mde/ejs",
   "repository": {

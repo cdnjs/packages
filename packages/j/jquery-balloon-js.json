@@ -5,7 +5,9 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": "urin",
+  "author": {
+    "name": "urin"
+  },
   "license": "MIT",
   "homepage": "https://github.com/urin/jquery.balloon.js#readme",
   "repository": {

@@ -2,7 +2,9 @@
   "name": "animo.js",
   "filename": "animo.min.js",
   "description": "A powerful little tool for managing CSS animations",
-  "author": "Daniel Raftery",
+  "author": {
+    "name": "Daniel Raftery"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -14,5 +14,7 @@
     "url": "https://github.com/epitome-mvc/Epitome"
   },
   "license": "MIT",
-  "author": "Dimitar Christoff <christoff@gmail.com> (https://twitter.com/D_mitar)"
+  "author": {
+    "name": "Dimitar Christoff <christoff@gmail.com> (https://twitter.com/D_mitar)"
+  }
 }

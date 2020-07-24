@@ -11,7 +11,9 @@
     "jquery",
     "plugin"
   ],
-  "author": "Bartlomiej Niemtur",
+  "author": {
+    "name": "Bartlomiej Niemtur"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -28,5 +28,7 @@
     "url": "https://github.com/nemtsov/json-mask"
   },
   "license": "MIT",
-  "author": "nemtsov@gmail.com"
+  "author": {
+    "name": "nemtsov@gmail.com"
+  }
 }

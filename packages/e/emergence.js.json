@@ -15,7 +15,9 @@
     "scroll",
     "element"
   ],
-  "author": "@xtianmiller",
+  "author": {
+    "name": "@xtianmiller"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

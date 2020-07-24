@@ -1,5 +1,7 @@
 {
-  "author": "Twitter, Inc.",
+  "author": {
+    "name": "Twitter, Inc."
+  },
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "filename": "js/bootstrap.min.js",
   "homepage": "http://getbootstrap.com/",

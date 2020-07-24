@@ -2,7 +2,9 @@
   "name": "nes.css",
   "filename": "css/nes.min.css",
   "description": "NES.css is NES-style CSS Framework.",
-  "author": "BcRikko (https://github.com/Bcrikko)",
+  "author": {
+    "name": "BcRikko (https://github.com/Bcrikko)"
+  },
   "homepage": "https://nostalgic-css.github.io/NES.css/",
   "repository": {
     "type": "git",

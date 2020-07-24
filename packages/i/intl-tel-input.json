@@ -34,5 +34,7 @@
       }
     ]
   },
-  "author": "Jack O'Connor (http://jackocnr.com)"
+  "author": {
+    "name": "Jack O'Connor (http://jackocnr.com)"
+  }
 }

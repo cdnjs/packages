@@ -8,7 +8,9 @@
     "mutation observer",
     "MutationObserver"
   ],
-  "author": "Graeme Yeates",
+  "author": {
+    "name": "Graeme Yeates"
+  },
   "repository": {
     "type": "git",
     "url": "github.com/megawac/MutationObserver.js"

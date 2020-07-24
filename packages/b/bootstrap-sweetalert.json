@@ -3,7 +3,9 @@
   "description": "A beautiful 'replacement' for JavaScript's alert",
   "filename": "sweetalert.min.js",
   "homepage": "https://lipis.github.io/bootstrap-sweetalert/",
-  "author": "Panayiotis Lipiridis <lipiridis@gmail.com>",
+  "author": {
+    "name": "Panayiotis Lipiridis <lipiridis@gmail.com>"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

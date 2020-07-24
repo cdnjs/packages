@@ -3,7 +3,9 @@
   "filename": "js/pushy.min.js",
   "description": "Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions",
   "homepage": "https://chrisyee.ca/pushy/",
-  "author": "christopher <@cmyee>",
+  "author": {
+    "name": "christopher <@cmyee>"
+  },
   "keywords": [
     "jquery",
     "responsive",

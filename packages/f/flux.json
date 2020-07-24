@@ -13,7 +13,9 @@
     "type": "git",
     "url": "https://github.com/facebook/flux"
   },
-  "author": "Facebook",
+  "author": {
+    "name": "Facebook"
+  },
   "license": "BSD-3-Clause",
   "autoupdate": {
     "source": "npm",

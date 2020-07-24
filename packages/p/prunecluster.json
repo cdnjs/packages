@@ -8,7 +8,9 @@
     "marker",
     "realtime"
   ],
-  "author": "SINTEF-9012",
+  "author": {
+    "name": "SINTEF-9012"
+  },
   "license": "MIT",
   "homepage": "https://github.com/SINTEF-9012/PruneCluster",
   "repository": {

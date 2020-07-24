@@ -14,7 +14,9 @@
     "pinterest",
     "responsive"
   ],
-  "author": "Artem Sapegin",
+  "author": {
+    "name": "Artem Sapegin"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/sapegin/jquery.mosaicflow.git",

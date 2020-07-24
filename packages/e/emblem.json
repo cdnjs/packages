@@ -15,7 +15,9 @@
     "url": "https://github.com/machty/emblem.js"
   },
   "license": "MIT",
-  "author": "Alex Matchneer <machty@gmail.com>",
+  "author": {
+    "name": "Alex Matchneer <machty@gmail.com>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "emblem",

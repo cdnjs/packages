@@ -25,5 +25,7 @@
     ]
   },
   "license": "MIT",
-  "author": "jerrylow <lowjer@gmail.com>"
+  "author": {
+    "name": "jerrylow <lowjer@gmail.com>"
+  }
 }

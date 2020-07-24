@@ -12,7 +12,9 @@
     "type": "git",
     "url": "git://github.com/bridgedotnet/Bridge.git"
   },
-  "author": "Bridge.NET <hello@bridge.net>",
+  "author": {
+    "name": "Bridge.NET <hello@bridge.net>"
+  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",

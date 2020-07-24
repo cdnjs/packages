@@ -24,5 +24,7 @@
     "url": "https://github.com/theironcook/Backbone.ModelBinder"
   },
   "license": "MIT",
-  "author": "Bart Wood"
+  "author": {
+    "name": "Bart Wood"
+  }
 }

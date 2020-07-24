@@ -14,7 +14,9 @@
     "url": "https://github.com/tannerlinsley/react-table.git"
   },
   "license": "MIT",
-  "author": "Tanner Linsley <@tannerlinsley>",
+  "author": {
+    "name": "Tanner Linsley <@tannerlinsley>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "react-table",

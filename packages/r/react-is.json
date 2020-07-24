@@ -1,5 +1,7 @@
 {
-  "author": "Facebook",
+  "author": {
+    "name": "Facebook"
+  },
   "description": "Brand checking of React Elements.",
   "filename": "umd/react-is.production.min.js",
   "homepage": "https://reactjs.org/",

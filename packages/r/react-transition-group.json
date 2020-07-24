@@ -16,7 +16,9 @@
     "url": "git+https://github.com/reactjs/react-transition-group.git"
   },
   "license": "BSD-3-Clause",
-  "author": "Jason Quense",
+  "author": {
+    "name": "Jason Quense"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "react-transition-group",

@@ -14,7 +14,9 @@
     "gamedev",
     "game-development"
   ],
-  "author": "loov",
+  "author": {
+    "name": "loov"
+  },
   "license": "MIT",
   "homepage": "http://loov.io/jsfx",
   "autoupdate": {

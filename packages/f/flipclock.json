@@ -1,7 +1,9 @@
 {
   "name": "flipclock",
   "filename": "flipclock.min.js",
-  "author": "Objective HTML, LLC <support@objectivehtml.com>",
+  "author": {
+    "name": "Objective HTML, LLC <support@objectivehtml.com>"
+  },
   "license": "MIT",
   "keywords": [
     "clock",

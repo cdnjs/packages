@@ -11,7 +11,9 @@
     "lazy load",
     "youtube"
   ],
-  "author": "Tyler Pearson <ty.pearson@gmail.com> (http://tylerp.me)",
+  "author": {
+    "name": "Tyler Pearson <ty.pearson@gmail.com> (http://tylerp.me)"
+  },
   "license": "CC-BY-SA-4.0",
   "autoupdate": {
     "source": "git",

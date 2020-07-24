@@ -8,7 +8,9 @@
     "lib",
     "Github"
   ],
-  "author": "Liucw",
+  "author": {
+    "name": "Liucw"
+  },
   "license": "MIT",
   "homepage": "https://gitalk.github.io",
   "repository": {

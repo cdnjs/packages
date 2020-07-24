@@ -13,7 +13,9 @@
     "url": "git://github.com/maxkueng/victor.git"
   },
   "homepage": "http://victorjs.org/",
-  "author": "Max Kueng <me@maxkueng.com> (https://maxkueng.com/)",
+  "author": {
+    "name": "Max Kueng <me@maxkueng.com> (https://maxkueng.com/)"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

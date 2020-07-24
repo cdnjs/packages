@@ -1,5 +1,7 @@
 {
-  "author": "Microsoft Corp.",
+  "author": {
+    "name": "Microsoft Corp."
+  },
   "description": "TypeScript is a language for application scale JavaScript development",
   "filename": "typescript.min.js",
   "homepage": "http://www.typescriptlang.org",

@@ -1,7 +1,9 @@
 {
   "name": "m8tro-bootstrap",
   "description": "Bootstrap theme inspired by Windows Modern UI (aka Metro)",
-  "author": "Jan T. Sott",
+  "author": {
+    "name": "Jan T. Sott"
+  },
   "filename": "m8tro.min.css",
   "homepage": "http://idleberg.github.io/m8tro-bootstrap/",
   "repository": {

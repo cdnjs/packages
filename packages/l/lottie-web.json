@@ -9,7 +9,9 @@
     "plugin",
     "export"
   ],
-  "author": "airbnb",
+  "author": {
+    "name": "airbnb"
+  },
   "license": "MIT",
   "homepage": "https://github.com/airbnb/lottie-web#readme",
   "repository": {

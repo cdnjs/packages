@@ -15,7 +15,9 @@
     "slice",
     "vue"
   ],
-  "author": "Taha Shashtari",
+  "author": {
+    "name": "Taha Shashtari"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

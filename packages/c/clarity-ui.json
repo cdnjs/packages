@@ -15,7 +15,9 @@
     "design-system",
     "clarity"
   ],
-  "author": "clarity",
+  "author": {
+    "name": "clarity"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

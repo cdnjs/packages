@@ -2,7 +2,9 @@
   "name": "bla",
   "filename": "bla.min.js",
   "description": "Easy way to create your own API methods for server and client sides",
-  "author": "Alexander Tarmolov  <tarmolov@gmail.com>",
+  "author": {
+    "name": "Alexander Tarmolov  <tarmolov@gmail.com>"
+  },
   "keywords": [
     "api",
     "batch",

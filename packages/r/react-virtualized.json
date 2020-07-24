@@ -2,7 +2,9 @@
   "name": "react-virtualized",
   "filename": "react-virtualized.min.js",
   "description": "React components for efficiently rendering large, scrollable lists and tabular data",
-  "author": "Brian Vaughn <brian.david.vaughn@gmail.com>",
+  "author": {
+    "name": "Brian Vaughn <brian.david.vaughn@gmail.com>"
+  },
   "homepage": "https://bvaughn.github.io/react-virtualized",
   "license": "MIT",
   "repository": {

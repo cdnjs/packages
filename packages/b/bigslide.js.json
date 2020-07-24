@@ -2,7 +2,9 @@
   "name": "bigslide.js",
   "filename": "bigSlide.min.js",
   "description": "A tiny slide panel navigation jQuery plugin with big dreams",
-  "author": "Adam D. Scott <hello@adamdscott.com>",
+  "author": {
+    "name": "Adam D. Scott <hello@adamdscott.com>"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ascott1/bigSlide.js.git"

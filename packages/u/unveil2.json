@@ -3,7 +3,9 @@
   "filename": "jquery.unveil2.min.js",
   "description": "A very lightweight jQuery plugin to lazy load images",
   "homepage": "https://nabble.github.io/unveil2/",
-  "author": "Joram van den Boezeme",
+  "author": {
+    "name": "Joram van den Boezeme"
+  },
   "keywords": [
     "lazyload",
     "jquery"

@@ -7,7 +7,9 @@
     "type": "git",
     "url": "git://github.com/bootstrap-tagsinput/bootstrap-tagsinput.git"
   },
-  "author": "Tim Schlechter",
+  "author": {
+    "name": "Tim Schlechter"
+  },
   "license": "MIT",
   "homepage": "http://timschlechter.github.io/bootstrap-tagsinput/examples/",
   "keywords": [

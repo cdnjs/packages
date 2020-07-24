@@ -1,6 +1,8 @@
 {
   "name": "rollbar.js",
-  "author": "Rollbar, Inc",
+  "author": {
+    "name": "Rollbar, Inc"
+  },
   "description": "Error tracking and logging from JS to Rollbar",
   "homepage": "https://rollbar.com",
   "repository": {

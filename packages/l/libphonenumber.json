@@ -10,7 +10,9 @@
     "google",
     "phonenumber"
   ],
-  "author": "googlei18n <https://developers.google.com/international>",
+  "author": {
+    "name": "googlei18n <https://developers.google.com/international>"
+  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",

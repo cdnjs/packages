@@ -16,7 +16,9 @@
     "type": "git",
     "url": "https://github.com/webcomponents/polyfills.git"
   },
-  "author": "The Polymer Authors",
+  "author": {
+    "name": "The Polymer Authors"
+  },
   "homepage": "https://webcomponents.org/polyfills",
   "autoupdate": {
     "source": "npm",

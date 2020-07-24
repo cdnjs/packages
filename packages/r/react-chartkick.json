@@ -7,7 +7,9 @@
     "type": "git",
     "url": "https://github.com/ankane/react-chartkick"
   },
-  "author": "Andrew Kane",
+  "author": {
+    "name": "Andrew Kane"
+  },
   "keywords": [
     "charts",
     "graphs"

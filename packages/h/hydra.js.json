@@ -15,7 +15,9 @@
     "url": "https://github.com/tcorral/Hydra.js.git"
   },
   "license": "MIT",
-  "author": "Tomas Corral",
+  "author": {
+    "name": "Tomas Corral"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "hydra.js",

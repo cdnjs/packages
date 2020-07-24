@@ -11,7 +11,9 @@
     "time",
     "timezone"
   ],
-  "author": "pithu",
+  "author": {
+    "name": "pithu"
+  },
   "homepage": "https://js-joda.github.io/js-joda/",
   "license": "BSD-3-Clause",
   "autoupdate": {

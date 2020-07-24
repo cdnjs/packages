@@ -2,7 +2,9 @@
   "name": "vue-google-maps",
   "filename": "vue-google-maps.js",
   "description": "This is a google map component for Vue.js",
-  "author": "Guillaume Leclerc",
+  "author": {
+    "name": "Guillaume Leclerc"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

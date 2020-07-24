@@ -1,7 +1,9 @@
 {
   "name": "angular-pageslide-directive",
   "filename": "angular-pageslide-directive.min.js",
-  "author": "Daniele Piccone <mail@danielepiccone.com>",
+  "author": {
+    "name": "Daniele Piccone <mail@danielepiccone.com>"
+  },
   "description": "AngularJS sliding panel for serving additional content from off the page",
   "repository": {
     "type": "git",

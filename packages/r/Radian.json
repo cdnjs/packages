@@ -26,5 +26,7 @@
     "type": "git",
     "url": "https://github.com/openbrainsrc/Radian"
   },
-  "author": "Ian Ross <ian@skybluetrades.net>"
+  "author": {
+    "name": "Ian Ross <ian@skybluetrades.net>"
+  }
 }

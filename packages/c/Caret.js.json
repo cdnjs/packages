@@ -12,7 +12,9 @@
     "offset",
     "position"
   ],
-  "author": "Harold.luo <chord.luo@gmail.com>",
+  "author": {
+    "name": "Harold.luo <chord.luo@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -14,7 +14,9 @@
     "expressions",
     "latex"
   ],
-  "author": "Nicole White",
+  "author": {
+    "name": "Nicole White"
+  },
   "license": "MIT",
   "homepage": "http://algebra.js.org",
   "autoupdate": {

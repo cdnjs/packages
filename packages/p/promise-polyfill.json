@@ -7,7 +7,9 @@
     "ES6",
     "promises-aplus"
   ],
-  "author": "Taylor Hakes",
+  "author": {
+    "name": "Taylor Hakes"
+  },
   "license": "MIT",
   "homepage": "https://github.com/taylorhakes/promise-polyfill",
   "repository": {

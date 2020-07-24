@@ -14,7 +14,9 @@
     "remove",
     "generate"
   ],
-  "author": "Francisco Presencia Fandos <public@francisco.io>",
+  "author": {
+    "name": "Francisco Presencia Fandos <public@francisco.io>"
+  },
   "homepage": "https://superdom.site/",
   "license": "MIT",
   "autoupdate": {

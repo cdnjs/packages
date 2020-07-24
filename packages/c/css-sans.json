@@ -26,5 +26,7 @@
     ]
   },
   "license": "MIT",
-  "author": "yusugomori"
+  "author": {
+    "name": "yusugomori"
+  }
 }

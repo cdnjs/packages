@@ -17,7 +17,9 @@
     "type": "git",
     "url": "git://github.com/primer/octicons.git"
   },
-  "author": "GitHub <support@github.com>",
+  "author": {
+    "name": "GitHub <support@github.com>"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "octicons",

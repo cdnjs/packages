@@ -5,7 +5,9 @@
   "keywords": [
     "datepicker"
   ],
-  "author": "ChiperSoft",
+  "author": {
+    "name": "ChiperSoft"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

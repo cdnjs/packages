@@ -2,7 +2,9 @@
   "name": "responsive-elements",
   "filename": "responsive-elements.min.js",
   "homepage": "http://kumailht.com/responsive-elements/",
-  "author": "Kumail Hunaid <contact@kumailht.com>",
+  "author": {
+    "name": "Kumail Hunaid <contact@kumailht.com>"
+  },
   "description": "Responsive elements makes it possible for any element to adapt and respond to the area they occupy. It's a tiny javascript library that you can drop into your projects today.",
   "keywords": [
     "responsive"

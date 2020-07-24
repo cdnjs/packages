@@ -5,7 +5,9 @@
   "keywords": [
     "markdown"
   ],
-  "author": "Dom Christie",
+  "author": {
+    "name": "Dom Christie"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/domchristie/to-markdown.git"

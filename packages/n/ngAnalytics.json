@@ -2,7 +2,9 @@
   "name": "ngAnalytics",
   "filename": "ng-analytics.min.js",
   "description": "Angular directive for Google Analytics Embed API",
-  "author": "Bnegt Weiße <bengtler@gmail.com>",
+  "author": {
+    "name": "Bnegt Weiße <bengtler@gmail.com>"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

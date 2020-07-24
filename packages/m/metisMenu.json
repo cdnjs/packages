@@ -30,5 +30,7 @@
     "url": "https://github.com/onokumus/metisMenu.git"
   },
   "license": "MIT",
-  "author": "Osman Nuri Okumuş <onokumus@gmail.com> (https://github.com/onokumus)"
+  "author": {
+    "name": "Osman Nuri Okumuş <onokumus@gmail.com> (https://github.com/onokumus)"
+  }
 }

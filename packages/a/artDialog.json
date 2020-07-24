@@ -8,7 +8,9 @@
     "artDialog",
     "html5"
   ],
-  "author": "aui",
+  "author": {
+    "name": "aui"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/aui/artDialog.git"

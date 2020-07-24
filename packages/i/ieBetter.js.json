@@ -12,5 +12,7 @@
     "url": "https://github.com/zhangxinxu/ieBetter.js.git"
   },
   "license": "MIT",
-  "author": "zhangxinxu"
+  "author": {
+    "name": "zhangxinxu"
+  }
 }

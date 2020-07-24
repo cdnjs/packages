@@ -8,7 +8,9 @@
     "Date",
     "Paginator"
   ],
-  "author": "Jonathan Miles",
+  "author": {
+    "name": "Jonathan Miles"
+  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",

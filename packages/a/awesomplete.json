@@ -10,7 +10,9 @@
     "type": "git",
     "url": "https://github.com/LeaVerou/awesomplete.git"
   },
-  "author": "Lea Verou",
+  "author": {
+    "name": "Lea Verou"
+  },
   "license": "MIT",
   "homepage": "https://leaverou.github.io/awesomplete/",
   "autoupdate": {

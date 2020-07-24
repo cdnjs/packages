@@ -12,7 +12,9 @@
     "modern",
     "browsers"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": {
+    "name": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)"
+  },
   "license": "MIT",
   "filename": "gridly-col-widths.min.css",
   "autoupdate": {

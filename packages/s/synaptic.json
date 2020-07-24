@@ -13,7 +13,9 @@
     "perceptron",
     "architecture free"
   ],
-  "author": "Juan Cazala <juancazala@gmail.com> (http://juancazala.com/)",
+  "author": {
+    "name": "Juan Cazala <juancazala@gmail.com> (http://juancazala.com/)"
+  },
   "license": "MIT",
   "homepage": "https://synaptic.juancazala.com/#/",
   "autoupdate": {

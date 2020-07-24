@@ -2,7 +2,9 @@
   "name": "overthrow",
   "filename": "overthrow.min.js",
   "description": "An overflow:auto polyfill for responsive design.",
-  "author": "http://filamentgroup.com",
+  "author": {
+    "name": "http://filamentgroup.com"
+  },
   "homepage": "http://filamentgroup.github.io/Overthrow",
   "keywords": [
     "overthrow"

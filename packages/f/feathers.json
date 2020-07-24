@@ -7,7 +7,9 @@
     "socket.io",
     "realtime"
   ],
-  "author": "Feathers contributors <hello@feathersjs.com> (https://feathersjs.com)",
+  "author": {
+    "name": "Feathers contributors <hello@feathersjs.com> (https://feathersjs.com)"
+  },
   "license": "MIT",
   "homepage": "http://feathersjs.com",
   "repository": {

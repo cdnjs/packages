@@ -1,7 +1,9 @@
 {
   "name": "eonasdan-bootstrap-datetimepicker",
   "filename": "js/bootstrap-datetimepicker.min.js",
-  "author": "Jonathan Peterson",
+  "author": {
+    "name": "Jonathan Peterson"
+  },
   "description": "A date/time picker component designed to work with Bootstrap 3 and Momentjs. For usage, installation and demos see Project Site on GitHub",
   "homepage": "https://eonasdan.github.io/bootstrap-datetimepicker/",
   "keywords": [

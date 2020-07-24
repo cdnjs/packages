@@ -14,7 +14,9 @@
     "popover",
     "picker"
   ],
-  "author": "Javi Aguilar",
+  "author": {
+    "name": "Javi Aguilar"
+  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/itsjavi/fontawesome-iconpicker.git",

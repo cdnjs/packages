@@ -2,7 +2,9 @@
   "name": "angular-gantt",
   "filename": "angular-gantt.min.js",
   "description": "Gantt chart component for AngularJS",
-  "author": "Marco Schweighauser",
+  "author": {
+    "name": "Marco Schweighauser"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

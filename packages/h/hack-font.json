@@ -2,7 +2,9 @@
   "name": "hack-font",
   "filename": "web/hack.min.css",
   "description": "A typeface designed for source code",
-  "author": "Chris Simpkins <chris@sourcefoundry.org>",
+  "author": {
+    "name": "Chris Simpkins <chris@sourcefoundry.org>"
+  },
   "keywords": [
     "font",
     "typeface",

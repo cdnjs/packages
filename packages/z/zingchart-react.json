@@ -2,7 +2,9 @@
   "name": "zingchart-react",
   "filename": "zingchart-react.min.js",
   "description": "React components to generate interactive javascript charts using the ZingChart library",
-  "author": "ZingChart",
+  "author": {
+    "name": "ZingChart"
+  },
   "homepage": "https://www.zingchart.com",
   "license": "MIT",
   "keywords": [

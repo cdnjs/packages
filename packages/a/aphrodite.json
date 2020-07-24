@@ -11,7 +11,9 @@
     "type": "git",
     "url": "https://github.com/Khan/aphrodite.git"
   },
-  "author": "Jamie Wong",
+  "author": {
+    "name": "Jamie Wong"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

@@ -2,7 +2,9 @@
   "name": "jquery.colorbox",
   "filename": "jquery.colorbox-min.js",
   "description": "jQuery lightbox and modal window plugin.",
-  "author": "Jack Moore",
+  "author": {
+    "name": "Jack Moore"
+  },
   "homepage": "http://www.jacklmoore.com/colorbox",
   "repository": {
     "type": "git",

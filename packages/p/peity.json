@@ -14,7 +14,9 @@
     "sparkline",
     "svg"
   ],
-  "author": "Ben Pickles",
+  "author": {
+    "name": "Ben Pickles"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

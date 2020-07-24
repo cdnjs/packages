@@ -21,7 +21,9 @@
     "type": "git",
     "url": "git+https://github.com/dollarshaveclub/shave.git"
   },
-  "author": "Jeff Wainwright <jjwainwright2@gmail.com> (jeffry.in)",
+  "author": {
+    "name": "Jeff Wainwright <jjwainwright2@gmail.com> (jeffry.in)"
+  },
   "license": "ISC",
   "homepage": "https://dollarshaveclub.github.io/shave/",
   "autoupdate": {

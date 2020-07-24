@@ -12,7 +12,9 @@
     "data-visualization",
     "dataviz"
   ],
-  "author": "0xNacho",
+  "author": {
+    "name": "0xNacho"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/proteus-h2020/proteic.git"

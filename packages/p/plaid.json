@@ -5,7 +5,9 @@
     "plaid",
     "plaid.com"
   ],
-  "author": "Plaid",
+  "author": {
+    "name": "Plaid"
+  },
   "license": "MIT",
   "homepage": "https://github.com/plaid/plaid-node#readme",
   "repository": {

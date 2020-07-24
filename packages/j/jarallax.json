@@ -20,7 +20,9 @@
       }
     ]
   },
-  "author": "_nK <nkdevinfo@gmail.com>",
+  "author": {
+    "name": "_nK <nkdevinfo@gmail.com>"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/nk-o/jarallax.git"

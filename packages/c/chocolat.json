@@ -12,7 +12,9 @@
     "plugin",
     "responsive"
   ],
-  "author": "Nicolas Turlais",
+  "author": {
+    "name": "Nicolas Turlais"
+  },
   "homepage": "http://chocolat.insipi.de",
   "autoupdate": {
     "source": "git",

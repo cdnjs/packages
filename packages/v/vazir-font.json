@@ -6,7 +6,9 @@
     "farsi",
     "persian"
   ],
-  "author": "Behnood Khani <behnood.reg@gmail.com>",
+  "author": {
+    "name": "Behnood Khani <behnood.reg@gmail.com>"
+  },
   "license": "Public Domain",
   "homepage": "https://github.com/rastikerdar/vazir-font#readme",
   "repository": {

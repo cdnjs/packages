@@ -2,7 +2,9 @@
   "name": "ipaddr.js",
   "filename": "ipaddr.min.js",
   "description": "A library for manipulating IPv4 and IPv6 addresses in JavaScript.",
-  "author": "whitequark <whitequark@whitequark.org>",
+  "author": {
+    "name": "whitequark <whitequark@whitequark.org>"
+  },
   "keywords": [
     "ip",
     "ipv4",

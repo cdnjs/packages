@@ -9,7 +9,9 @@
   "keywords": [
     "backbone"
   ],
-  "author": "Jimmy Yuen Ho Wong <wyuenho@gmail.com>",
+  "author": {
+    "name": "Jimmy Yuen Ho Wong <wyuenho@gmail.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

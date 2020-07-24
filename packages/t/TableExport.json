@@ -1,7 +1,9 @@
 {
   "name": "TableExport",
   "filename": "js/tableexport.min.js",
-  "author": "clarketm <travis.m.clarke@gmail.com>",
+  "author": {
+    "name": "clarketm <travis.m.clarke@gmail.com>"
+  },
   "description": "The simple, easy-to-implement plugin to export HTML tables to xlsx, xls, csv, and txt files",
   "keywords": [
     "table",

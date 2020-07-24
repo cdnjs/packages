@@ -16,7 +16,9 @@
     "tree",
     "immutable"
   ],
-  "author": "arqex",
+  "author": {
+    "name": "arqex"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

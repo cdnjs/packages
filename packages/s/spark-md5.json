@@ -12,7 +12,9 @@
     "spark",
     "incremental"
   ],
-  "author": "André Cruz <andremiguelcruz@msn.com>",
+  "author": {
+    "name": "André Cruz <andremiguelcruz@msn.com>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

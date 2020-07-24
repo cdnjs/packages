@@ -12,7 +12,9 @@
     "jQuery",
     "swipebox"
   ],
-  "author": "brutaldesign <hello@csag.co>",
+  "author": {
+    "name": "brutaldesign <hello@csag.co>"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

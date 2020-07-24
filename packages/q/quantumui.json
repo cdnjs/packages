@@ -11,7 +11,9 @@
     "framework",
     "web"
   ],
-  "author": "Mehmet Otkun, quantumui.org",
+  "author": {
+    "name": "Mehmet Otkun, quantumui.org"
+  },
   "license": "MIT",
   "homepage": "http://quantumui.org",
   "repository": {

@@ -8,7 +8,9 @@
     "effect"
   ],
   "license": "MIT",
-  "author": "Wout Fierens",
+  "author": {
+    "name": "Wout Fierens"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/wout/svg.filter.js.git"

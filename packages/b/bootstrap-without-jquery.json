@@ -10,7 +10,9 @@
     "bootstrap",
     "jquery"
   ],
-  "author": "Daniel Davis",
+  "author": {
+    "name": "Daniel Davis"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",

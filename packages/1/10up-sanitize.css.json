@@ -18,7 +18,9 @@
     "stylelint",
     "stylus"
   ],
-  "author": "Jonathan Neal <jonathantneal@hotmail.com> (https://jonneal.dev/)",
+  "author": {
+    "name": "Jonathan Neal <jonathantneal@hotmail.com> (https://jonneal.dev/)"
+  },
   "license": "CC0-1.0",
   "homepage": "https://csstools.github.io/sanitize.css/",
   "autoupdate": {

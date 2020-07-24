@@ -14,7 +14,9 @@
     "jquery",
     "multiselect"
   ],
-  "author": "David Stutz",
+  "author": {
+    "name": "David Stutz"
+  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",

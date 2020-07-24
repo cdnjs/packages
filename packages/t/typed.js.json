@@ -23,5 +23,7 @@
       }
     ]
   },
-  "author": "Matt Boldt <me@mattboldt.com>"
+  "author": {
+    "name": "Matt Boldt <me@mattboldt.com>"
+  }
 }

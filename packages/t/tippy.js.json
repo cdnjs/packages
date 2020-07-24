@@ -1,5 +1,7 @@
 {
-  "author": "atomiks",
+  "author": {
+    "name": "atomiks"
+  },
   "description": "Vanilla JS Tooltip Library",
   "filename": "tippy.min.js",
   "homepage": "https://atomiks.github.io/tippyjs/",

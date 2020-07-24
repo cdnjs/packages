@@ -12,7 +12,9 @@
     "jQuery",
     "plugin"
   ],
-  "author": "Robert Fleischmann <me@robert-fleischmann.de>",
+  "author": {
+    "name": "Robert Fleischmann <me@robert-fleischmann.de>"
+  },
   "licenses": [
     "MIT",
     "GPL-3.0"

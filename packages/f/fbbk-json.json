@@ -10,7 +10,9 @@
     "JSON",
     "JSON object"
   ],
-  "author": "XadillaX",
+  "author": {
+    "name": "XadillaX"
+  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
