@@ -14,13 +14,7 @@
     "url": "git+https://github.com/geraintluff/tv4.git"
   },
   "homepage": "https://geraintluff.github.io/tv4/",
-  "licenses": [
-    {
-      "type": "Public Domain",
-      "url": "http://geraintluff.github.io/tv4/LICENSE.txt"
-    },
-    "MIT"
-  ],
+  "license": "(Public Domain OR MIT)",
   "autoupdate": {
     "source": "npm",
     "target": "tv4",
