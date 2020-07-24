@@ -21,17 +21,13 @@
   "license": "MIT",
   "authors": [
     {
-      "name": {
-        "name": "Jon Rohan",
-        "url": "http://jonrohan.me/"
-      }
+      "name": "Jon Rohan",
+      "url": "http://jonrohan.me/"
     },
     {
-      "name": {
-        "name": "James M. Greene",
-        "email": "james.m.greene@gmail.com",
-        "url": "http://greene.io/"
-      }
+      "name": "James M. Greene",
+      "email": "james.m.greene@gmail.com",
+      "url": "http://greene.io/"
     }
   ],
   "autoupdate": {
