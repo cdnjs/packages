@@ -16,13 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/source-foundry/Hack.git"
   },
-  "licenses": [
-    "MIT",
-    {
-      "type": "BITSTREAM VERA LICENSE",
-      "url": "https://github.com/source-foundry/Hack/blob/master/LICENSE.md#bitstream-vera-license"
-    }
-  ],
+  "license": "(MIT OR BITSTREAM VERA LICENSE)",
   "homepage": "https://sourcefoundry.org/hack/",
   "autoupdate": {
     "source": "npm",
