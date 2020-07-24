@@ -15,38 +15,28 @@
   ],
   "authors": [
     {
-      "name": {
-        "name": "Fabian Vogelsteller",
-        "email": "fabian@ethereum.org",
-        "homepage": "https://frozeman.de"
-      }
+      "name": "Fabian Vogelsteller",
+      "email": "fabian@ethereum.org",
+      "url": "https://frozeman.de"
     },
     {
-      "name": {
-        "name": "Marek Kotewicz",
-        "email": "marek@parity.io",
-        "url": "https://github.com/debris"
-      }
+      "name": "Marek Kotewicz",
+      "email": "marek@parity.io",
+      "url": "https://github.com/debris"
     },
     {
-      "name": {
-        "name": "Marian Oancea",
-        "url": "https://github.com/cubedro"
-      }
+      "name": "Marian Oancea",
+      "url": "https://github.com/cubedro"
     },
     {
-      "name": {
-        "name": "Gav Wood",
-        "email": "g@parity.io",
-        "homepage": "http://gavwood.com"
-      }
+      "name": "Gav Wood",
+      "email": "g@parity.io",
+      "url": "http://gavwood.com"
     },
     {
-      "name": {
-        "name": "Jeffery Wilcke",
-        "email": "jeffrey.wilcke@ethereum.org",
-        "url": "https://github.com/obscuren"
-      }
+      "name": "Jeffery Wilcke",
+      "email": "jeffrey.wilcke@ethereum.org",
+      "url": "https://github.com/obscuren"
     }
   ],
   "autoupdate": {
