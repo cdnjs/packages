@@ -2,8 +2,12 @@
   "name": "onsen",
   "filename": "js/onsenui.min.js",
   "authors": [
-    "Kruy Vanna <kruyvanna@gmail.com>",
-    "Mitsunori KUBOTA <anatoo.jp@gmail.com>"
+    {
+      "name": "Kruy Vanna <kruyvanna@gmail.com>"
+    },
+    {
+      "name": "Mitsunori KUBOTA <anatoo.jp@gmail.com>"
+    }
   ],
   "description": "HTML5 Mobile Framework & UI Components",
   "homepage": "http://onsen.io/",

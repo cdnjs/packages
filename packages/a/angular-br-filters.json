@@ -15,8 +15,12 @@
     "phone-number"
   ],
   "authors": [
-    "Igor Rafael <igor.rafael@gmail.com>",
-    "Daniel Campos <darc.tec@gmail.com>"
+    {
+      "name": "Igor Rafael <igor.rafael@gmail.com>"
+    },
+    {
+      "name": "Daniel Campos <darc.tec@gmail.com>"
+    }
   ],
   "license": "MIT",
   "autoupdate": {

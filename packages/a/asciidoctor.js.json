@@ -13,9 +13,15 @@
     "library"
   ],
   "authors": [
-    "Dan Allen (https://github.com/mojavelinux)",
-    "Guillaume Grossetie (https://github.com/mogztter)",
-    "Anthonny Quérouil (https://github.com/anthonny)"
+    {
+      "name": "Dan Allen (https://github.com/mojavelinux)"
+    },
+    {
+      "name": "Guillaume Grossetie (https://github.com/mogztter)"
+    },
+    {
+      "name": "Anthonny Quérouil (https://github.com/anthonny)"
+    }
   ],
   "license": "MIT",
   "homepage": "http://asciidoctor.org/",

@@ -1,7 +1,11 @@
 {
   "authors": [
-    "Rene Saarsoo",
-    "Uku Pattak"
+    {
+      "name": "Rene Saarsoo"
+    },
+    {
+      "name": "Uku Pattak"
+    }
   ],
   "description": "Formats whitespaces in a SQL query to make it more readable",
   "filename": "sql-formatter.min.js",

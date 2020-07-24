@@ -7,8 +7,12 @@
     "url": "git://github.com/BankFacil/vanilla-masker.git"
   },
   "authors": [
-    "Caio Ribeiro Pereira <caio.ribeiro.pereira@gmail.com>",
-    "Leandro Alvares da Costa <leandroadacosta@gmail.com>"
+    {
+      "name": "Caio Ribeiro Pereira <caio.ribeiro.pereira@gmail.com>"
+    },
+    {
+      "name": "Leandro Alvares da Costa <leandroadacosta@gmail.com>"
+    }
   ],
   "keywords": [
     "mask input",

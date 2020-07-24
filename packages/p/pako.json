@@ -26,7 +26,11 @@
     ]
   },
   "authors": [
-    "Andrei Tuputcyn <Andrew.Tupitsin@gmail.com>",
-    "Vitaly Puzrin <vitaly@rcdesign.ru>"
+    {
+      "name": "Andrei Tuputcyn <Andrew.Tupitsin@gmail.com>"
+    },
+    {
+      "name": "Vitaly Puzrin <vitaly@rcdesign.ru>"
+    }
   ]
 }

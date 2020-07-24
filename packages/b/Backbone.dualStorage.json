@@ -2,9 +2,15 @@
   "name": "Backbone.dualStorage",
   "filename": "backbone.dualstorage.min.js",
   "authors": [
-    "Edward Anderson <nilbus@nilbus.com>",
-    "Lucian Mihaila",
-    "Jerome Gravel-Niquet"
+    {
+      "name": "Edward Anderson <nilbus@nilbus.com>"
+    },
+    {
+      "name": "Lucian Mihaila"
+    },
+    {
+      "name": "Jerome Gravel-Niquet"
+    }
   ],
   "description": "A dual (localStorage and REST) sync adapter for Backbone.js",
   "keywords": [

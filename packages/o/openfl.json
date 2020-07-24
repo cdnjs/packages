@@ -15,8 +15,12 @@
   "homepage": "http://www.openfl.org",
   "license": "MIT",
   "authors": [
-    "Joshua Granick",
-    "Other OpenFL contributors"
+    {
+      "name": "Joshua Granick"
+    },
+    {
+      "name": "Other OpenFL contributors"
+    }
   ],
   "repository": {
     "type": "git",

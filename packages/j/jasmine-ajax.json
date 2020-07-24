@@ -26,7 +26,11 @@
   },
   "license": "MIT",
   "authors": [
-    "JR Boyens <jboyens@fooninja.org>",
-    "Gregg Van Hove <gregg@slackersoft.net>"
+    {
+      "name": "JR Boyens <jboyens@fooninja.org>"
+    },
+    {
+      "name": "Gregg Van Hove <gregg@slackersoft.net>"
+    }
   ]
 }

@@ -23,8 +23,12 @@
     "stk"
   ],
   "authors": [
-    "tjkoury@gmail.com",
-    "digitalarsenal.io Team"
+    {
+      "name": "tjkoury@gmail.com"
+    },
+    {
+      "name": "digitalarsenal.io Team"
+    }
   ],
   "license": "Apache-2.0",
   "homepage": "https://cesiumjs.org",

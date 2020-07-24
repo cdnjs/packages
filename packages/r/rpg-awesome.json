@@ -1,7 +1,11 @@
 {
   "authors": [
-    "Daniela Howe",
-    "Ivan Montiel <idmontie@gmail.com>"
+    {
+      "name": "Daniela Howe"
+    },
+    {
+      "name": "Ivan Montiel <idmontie@gmail.com>"
+    }
   ],
   "description": "A fantasy themed font and CSS toolkit.",
   "filename": "css/rpg-awesome.min.css",

@@ -19,8 +19,12 @@
     "url": "https://github.com/jsmodules/angular-material-calendar"
   },
   "authors": [
-    "Brad Berger <brad@bradb.net>",
-    "Gavin Barron <gavin.barron@teamintergen.com>"
+    {
+      "name": "Brad Berger <brad@bradb.net>"
+    },
+    {
+      "name": "Gavin Barron <gavin.barron@teamintergen.com>"
+    }
   ],
   "autoupdate": {
     "source": "git",

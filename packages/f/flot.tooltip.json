@@ -27,7 +27,11 @@
   },
   "license": "MIT",
   "authors": [
-    "Krzysztof Urbas @krzysu [myviews.pl]",
-    "Evan Steinkerchner @Roundaround"
+    {
+      "name": "Krzysztof Urbas @krzysu [myviews.pl]"
+    },
+    {
+      "name": "Evan Steinkerchner @Roundaround"
+    }
   ]
 }

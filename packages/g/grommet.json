@@ -3,10 +3,18 @@
   "filename": "grommet.min.js",
   "description": "The most advanced UX framework for enterprise applications.",
   "authors": [
-    "Alan Souza",
-    "Bryan Jacquot",
-    "Chris Carlozzi",
-    "Eric Soderberg"
+    {
+      "name": "Alan Souza"
+    },
+    {
+      "name": "Bryan Jacquot"
+    },
+    {
+      "name": "Chris Carlozzi"
+    },
+    {
+      "name": "Eric Soderberg"
+    }
   ],
   "keywords": [
     "grommet",

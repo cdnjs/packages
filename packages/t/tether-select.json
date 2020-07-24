@@ -3,8 +3,12 @@
   "filename": "js/select.min.js",
   "description": "Styleable select elements built on Tether",
   "authors": [
-    "Adam Schwartz <adam.flynn.schwartz@gmail.com>",
-    "Zack Bloom <zbloom@hubspot.com>"
+    {
+      "name": "Adam Schwartz <adam.flynn.schwartz@gmail.com>"
+    },
+    {
+      "name": "Zack Bloom <zbloom@hubspot.com>"
+    }
   ],
   "license": "MIT",
   "autoupdate": {

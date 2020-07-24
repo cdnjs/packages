@@ -3,8 +3,12 @@
   "description": "A polyfill to parse CSS links and rewrite pixel equivalents into head for non supporting browsers",
   "filename": "js/rem.min.js",
   "authors": [
-    "Chuck Carpenter <chuck.carpenter@me.com>",
-    "Lucas Serven <lserven@gmail.com>"
+    {
+      "name": "Chuck Carpenter <chuck.carpenter@me.com>"
+    },
+    {
+      "name": "Lucas Serven <lserven@gmail.com>"
+    }
   ],
   "keywords": [
     "css",

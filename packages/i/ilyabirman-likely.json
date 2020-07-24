@@ -8,8 +8,12 @@
     "url": "git+https://github.com/ilyabirman/Likely.git"
   },
   "authors": [
-    "Ilya Birman <ilyabirman@ilyabirman.ru>",
-    "Evgeny Steblinsky <volter925@gmail.com>"
+    {
+      "name": "Ilya Birman <ilyabirman@ilyabirman.ru>"
+    },
+    {
+      "name": "Evgeny Steblinsky <volter925@gmail.com>"
+    }
   ],
   "license": "MIT",
   "keywords": [

@@ -3,8 +3,12 @@
   "filename": "js/shepherd.min.js",
   "description": "Guide your users through a tour of your app.",
   "authors": [
-    "Adam Schwartz <adam.flynn.schwartz@gmail.com>",
-    "Zack Bloom <zackbloom@gmail.com>"
+    {
+      "name": "Adam Schwartz <adam.flynn.schwartz@gmail.com>"
+    },
+    {
+      "name": "Zack Bloom <zackbloom@gmail.com>"
+    }
   ],
   "license": "MIT",
   "autoupdate": {

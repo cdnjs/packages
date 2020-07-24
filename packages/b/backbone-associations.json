@@ -20,8 +20,12 @@
   },
   "license": "MIT",
   "authors": [
-    "Dhruva Ray",
-    "Jaynti Kanani"
+    {
+      "name": "Dhruva Ray"
+    },
+    {
+      "name": "Jaynti Kanani"
+    }
   ],
   "autoupdate": {
     "source": "npm",

@@ -14,8 +14,12 @@
   ],
   "license": "MIT",
   "authors": [
-    "Alex Lande",
-    "Ian Obermiller"
+    {
+      "name": "Alex Lande"
+    },
+    {
+      "name": "Ian Obermiller"
+    }
   ],
   "autoupdate": {
     "source": "npm",
