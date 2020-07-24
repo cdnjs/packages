@@ -16,18 +16,14 @@
   "filename": "spa.min.js",
   "authors": [
     {
-      "name": {
-        "name": "zhaoda",
-        "email": "zd6437@gmail.com",
-        "url": "http://zhaoda.net"
-      }
+      "name": "zhaoda",
+      "email": "zd6437@gmail.com",
+      "url": "http://zhaoda.net"
     },
     {
-      "name": {
-        "name": "linchao",
-        "email": "lin-chao@foxmail.com",
-        "url": "http://linchao.info"
-      }
+      "name": "linchao",
+      "email": "lin-chao@foxmail.com",
+      "url": "http://linchao.info"
     }
   ],
   "autoupdate": {
