@@ -11,16 +11,12 @@
   "homepage": "https://ecomfe.github.io/zrender/",
   "authors": [
     {
-      "name": {
-        "name": "Kenner",
-        "email": "kener.linfeng@gmail.com"
-      }
+      "name": "Kenner",
+      "email": "kener.linfeng@gmail.com"
     },
     {
-      "name": {
-        "name": "Yi Shen",
-        "url": "https://github.com/pissang"
-      }
+      "name": "Yi Shen",
+      "url": "https://github.com/pissang"
     },
     {
       "name": {
