@@ -15,7 +15,11 @@
   },
   "license": "MIT",
   "authors": [
-    "Aaron Quint",
-    "Frank Prößdorf"
+    {
+      "name": "Aaron Quint"
+    },
+    {
+      "name": "Frank Prößdorf"
+    }
   ]
 }

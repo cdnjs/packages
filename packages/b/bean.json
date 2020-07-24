@@ -3,9 +3,15 @@
   "filename": "bean.min.js",
   "description": "A small, fast, framework-agnostic event manager",
   "authors": [
-    "Jacob Thornton <@fat>",
-    "Rod Vagg <@rvagg>",
-    "Dustin Diaz <@ded>"
+    {
+      "name": "Jacob Thornton <@fat>"
+    },
+    {
+      "name": "Rod Vagg <@rvagg>"
+    },
+    {
+      "name": "Dustin Diaz <@ded>"
+    }
   ],
   "repository": {
     "type": "git",

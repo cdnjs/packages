@@ -28,20 +28,28 @@
   "license": "BSD",
   "authors": [
     {
-      "name": "Kener",
-      "email": "kener.linfeng@gmail.com"
+      "name": {
+        "name": "Kener",
+        "email": "kener.linfeng@gmail.com"
+      }
     },
     {
-      "name": "Pissang",
-      "email": "shenyi.914@gmail.com"
+      "name": {
+        "name": "Pissang",
+        "email": "shenyi.914@gmail.com"
+      }
     },
     {
-      "name": "Erik",
-      "email": "errorrik@gmail.com"
+      "name": {
+        "name": "Erik",
+        "email": "errorrik@gmail.com"
+      }
     },
     {
-      "name": "Yangji",
-      "email": "511415343@qq.com"
+      "name": {
+        "name": "Yangji",
+        "email": "511415343@qq.com"
+      }
     }
   ]
 }

@@ -7,10 +7,18 @@
     "redux"
   ],
   "authors": [
-    "Lee Bannard",
-    "Robert Binna",
-    "Martijn Faassen",
-    "Philip Spitzlinger"
+    {
+      "name": "Lee Bannard"
+    },
+    {
+      "name": "Robert Binna"
+    },
+    {
+      "name": "Martijn Faassen"
+    },
+    {
+      "name": "Philip Spitzlinger"
+    }
   ],
   "repository": {
     "type": "git",

@@ -2,8 +2,12 @@
   "name": "min",
   "filename": "entireframework.min.css",
   "authors": [
-    "Owen Versteeg <me@owenversteeg.com>",
-    "Scott O'Hara"
+    {
+      "name": "Owen Versteeg <me@owenversteeg.com>"
+    },
+    {
+      "name": "Scott O'Hara"
+    }
   ],
   "description": "The world's smallest CSS framework - only 995 bytes.",
   "keywords": [

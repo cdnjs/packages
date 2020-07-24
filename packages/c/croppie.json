@@ -13,8 +13,12 @@
     "cropping"
   ],
   "authors": [
-    "Dustin Smith <thedustinsmith@gmail.com>",
-    "Ethan Calvert <calvert1591@gmail.com>"
+    {
+      "name": "Dustin Smith <thedustinsmith@gmail.com>"
+    },
+    {
+      "name": "Ethan Calvert <calvert1591@gmail.com>"
+    }
   ],
   "license": "MIT",
   "homepage": "https://foliotek.github.io/Croppie",

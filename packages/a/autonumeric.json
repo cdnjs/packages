@@ -21,12 +21,16 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Robert Knothe",
-      "email": "bob@decorplanit.com"
+      "name": {
+        "name": "Robert Knothe",
+        "email": "bob@decorplanit.com"
+      }
     },
     {
-      "name": "Alexandre Bonneau",
-      "email": "alexandre.bonneau@linuxfr.eu"
+      "name": {
+        "name": "Alexandre Bonneau",
+        "email": "alexandre.bonneau@linuxfr.eu"
+      }
     }
   ],
   "homepage": "http://www.decorplanit.com/plugin/",

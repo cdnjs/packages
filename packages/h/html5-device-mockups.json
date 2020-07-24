@@ -29,8 +29,14 @@
     ]
   },
   "authors": [
-    "Tomi Hiltunen",
-    "Angelos Arnis",
-    "Benjamin Bortels"
+    {
+      "name": "Tomi Hiltunen"
+    },
+    {
+      "name": "Angelos Arnis"
+    },
+    {
+      "name": "Benjamin Bortels"
+    }
   ]
 }

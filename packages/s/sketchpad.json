@@ -13,9 +13,15 @@
     "svg"
   ],
   "authors": [
-    "Nihey Takizawa <nihey.takizawa@gmail.com>",
-    "Jean Lucas <jeanleonino@gmail.com>",
-    "Yiom"
+    {
+      "name": "Nihey Takizawa <nihey.takizawa@gmail.com>"
+    },
+    {
+      "name": "Jean Lucas <jeanleonino@gmail.com>"
+    },
+    {
+      "name": "Yiom"
+    }
   ],
   "autoupdate": {
     "source": "git",

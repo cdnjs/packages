@@ -9,9 +9,15 @@
     "url": "https://github.com/immersive-web/webvr-polyfill"
   },
   "authors": [
-    "Boris Smus <boris@smus.com>",
-    "Brandon Jones <tojiro@gmail.com>",
-    "Jordan Santell <jordan@jsantell.com>"
+    {
+      "name": "Boris Smus <boris@smus.com>"
+    },
+    {
+      "name": "Brandon Jones <tojiro@gmail.com>"
+    },
+    {
+      "name": "Jordan Santell <jordan@jsantell.com>"
+    }
   ],
   "keywords": [
     "vr",

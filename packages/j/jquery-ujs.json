@@ -2,8 +2,12 @@
   "name": "jquery-ujs",
   "filename": "rails.min.js",
   "authors": [
-    "Stephen St. Martin",
-    "Steve Schwartz"
+    {
+      "name": "Stephen St. Martin"
+    },
+    {
+      "name": "Steve Schwartz"
+    }
   ],
   "description": "Ruby on Rails unobtrusive scripting adapter for jQuery",
   "license": "MIT",

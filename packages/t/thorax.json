@@ -8,8 +8,12 @@
     "handlebars"
   ],
   "authors": [
-    "Ryan Eastridge <ryan@eastridge.me> (http://eastridge.me)",
-    "Kevin Decker <kpdecker@gmail.com> (http://incaseofstairs.com)"
+    {
+      "name": "Ryan Eastridge <ryan@eastridge.me> (http://eastridge.me)"
+    },
+    {
+      "name": "Kevin Decker <kpdecker@gmail.com> (http://incaseofstairs.com)"
+    }
   ],
   "repository": {
     "type": "git",

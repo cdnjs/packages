@@ -15,9 +15,15 @@
   ],
   "license": "MIT",
   "authors": [
-    "Marco Rinck",
-    "Jan Stevens",
-    "Silvan van Leeuwen"
+    {
+      "name": "Marco Rinck"
+    },
+    {
+      "name": "Jan Stevens"
+    },
+    {
+      "name": "Silvan van Leeuwen"
+    }
   ],
   "autoupdate": {
     "source": "git",

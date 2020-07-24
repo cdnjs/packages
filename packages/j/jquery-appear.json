@@ -25,8 +25,14 @@
   },
   "license": "MIT",
   "authors": [
-    "Michael Hixson",
-    "Alexander Brovikov",
-    "bas2k"
+    {
+      "name": "Michael Hixson"
+    },
+    {
+      "name": "Alexander Brovikov"
+    },
+    {
+      "name": "bas2k"
+    }
   ]
 }

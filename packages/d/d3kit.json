@@ -14,8 +14,12 @@
   ],
   "license": "MIT",
   "authors": [
-    "Krist Wongsuphasawat <kristw@twitter.com> (http://kristw.yellowpigz.com)",
-    "Robert Harris <rharris@twitter.com>"
+    {
+      "name": "Krist Wongsuphasawat <kristw@twitter.com> (http://kristw.yellowpigz.com)"
+    },
+    {
+      "name": "Robert Harris <rharris@twitter.com>"
+    }
   ],
   "autoupdate": {
     "source": "git",

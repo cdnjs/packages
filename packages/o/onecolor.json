@@ -18,12 +18,16 @@
   ],
   "authors": [
     {
-      "name": "Peter Müller",
-      "email": "munter@fumle.dk"
+      "name": {
+        "name": "Peter Müller",
+        "email": "munter@fumle.dk"
+      }
     },
     {
-      "name": "Andreas Lind",
-      "email": "andreas@one.com"
+      "name": {
+        "name": "Andreas Lind",
+        "email": "andreas@one.com"
+      }
     }
   ],
   "autoupdate": {

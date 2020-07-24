@@ -8,8 +8,12 @@
   },
   "homepage": "http://benhowdle.im/svgeezy/",
   "authors": [
-    "Ben Howdle",
-    "Jack Smith"
+    {
+      "name": "Ben Howdle"
+    },
+    {
+      "name": "Jack Smith"
+    }
   ],
   "license": "MIT",
   "keywords": [

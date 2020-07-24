@@ -7,8 +7,12 @@
     "url": "https://github.com/reactjs/react-router-redux.git"
   },
   "authors": [
-    "James Long",
-    "Tim Dorr"
+    {
+      "name": "James Long"
+    },
+    {
+      "name": "Tim Dorr"
+    }
   ],
   "license": "MIT",
   "keywords": [

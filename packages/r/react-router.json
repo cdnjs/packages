@@ -15,8 +15,12 @@
   },
   "license": "MIT",
   "authors": [
-    "Ryan Florence",
-    "Michael Jackson"
+    {
+      "name": "Ryan Florence"
+    },
+    {
+      "name": "Michael Jackson"
+    }
   ],
   "autoupdate": {
     "source": "npm",

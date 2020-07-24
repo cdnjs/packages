@@ -17,12 +17,24 @@
   ],
   "license": "MIT",
   "authors": [
-    "Kris Kowal <kris@cixar.com> (https://github.com/kriskowal/)",
-    "Sami Samhuri <sami.samhuri@gmail.com> (http://samhuri.net/)",
-    "Florian Schäfer <florian.schaefer@gmail.com> (https://github.com/fschaefer)",
-    "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
-    "Kit Cambridge <kitcambridge@gmail.com> (http://kitcambridge.github.com)",
-    "Jordan Harband <ljharb@gmail.com> (https://github.com/ljharb/)"
+    {
+      "name": "Kris Kowal <kris@cixar.com> (https://github.com/kriskowal/)"
+    },
+    {
+      "name": "Sami Samhuri <sami.samhuri@gmail.com> (http://samhuri.net/)"
+    },
+    {
+      "name": "Florian Schäfer <florian.schaefer@gmail.com> (https://github.com/fschaefer)"
+    },
+    {
+      "name": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)"
+    },
+    {
+      "name": "Kit Cambridge <kitcambridge@gmail.com> (http://kitcambridge.github.com)"
+    },
+    {
+      "name": "Jordan Harband <ljharb@gmail.com> (https://github.com/ljharb/)"
+    }
   ],
   "autoupdate": {
     "source": "npm",

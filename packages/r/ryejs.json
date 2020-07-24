@@ -8,8 +8,12 @@
     "url": "git://github.com/ryejs/rye.git"
   },
   "authors": [
-    "Ricardo Tomasi @ricardobeat <ricardobeat@gmail.com> (https://github.com/ricardobeat)",
-    "Jean Carlo Emer @jcemer <jeancarloemer@gmail.com> (https://github.com/jcemer)"
+    {
+      "name": "Ricardo Tomasi @ricardobeat <ricardobeat@gmail.com> (https://github.com/ricardobeat)"
+    },
+    {
+      "name": "Jean Carlo Emer @jcemer <jeancarloemer@gmail.com> (https://github.com/jcemer)"
+    }
   ],
   "keywords": [
     "lightweight",

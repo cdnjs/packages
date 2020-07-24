@@ -3,8 +3,12 @@
   "filename": "ng-showdown.min.js",
   "description": "Official Showdown integration with AngularJS",
   "authors": [
-    "Estevão Santos (https://github.com/tivie)",
-    "SyntaxRules (https://github.com/SyntaxRules)"
+    {
+      "name": "Estevão Santos (https://github.com/tivie)"
+    },
+    {
+      "name": "SyntaxRules (https://github.com/SyntaxRules)"
+    }
   ],
   "keywords": [
     "markdown",

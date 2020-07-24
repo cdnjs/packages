@@ -3,19 +3,25 @@
   "description": "Drag & drop hierarchical list with mouse and touch compatibility",
   "authors": [
     {
-      "name": "David Bushell",
-      "email": "hi@dbushell.com",
-      "url": "https://github.com/dbushell"
+      "name": {
+        "name": "David Bushell",
+        "email": "hi@dbushell.com",
+        "url": "https://github.com/dbushell"
+      }
     },
     {
-      "name": "Ramon Smit",
-      "email": "ramon@daltcore.com",
-      "url": "https://github.com/RamonSmit"
+      "name": {
+        "name": "Ramon Smit",
+        "email": "ramon@daltcore.com",
+        "url": "https://github.com/RamonSmit"
+      }
     },
     {
-      "name": "Marek Skiba",
-      "email": "skibamarek@gmail.com",
-      "url": "https://github.com/pjona"
+      "name": {
+        "name": "Marek Skiba",
+        "email": "skibamarek@gmail.com",
+        "url": "https://github.com/pjona"
+      }
     }
   ],
   "license": "MIT",

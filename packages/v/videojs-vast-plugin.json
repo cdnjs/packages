@@ -26,8 +26,14 @@
     ]
   },
   "authors": [
-    "Shaker Islam <sislam@theonion.com>",
-    "Chris Sinchok <csinchok@theonion.com>",
-    "Sean Bloomfield <sbloomfield@theonion.com>"
+    {
+      "name": "Shaker Islam <sislam@theonion.com>"
+    },
+    {
+      "name": "Chris Sinchok <csinchok@theonion.com>"
+    },
+    {
+      "name": "Sean Bloomfield <sbloomfield@theonion.com>"
+    }
   ]
 }

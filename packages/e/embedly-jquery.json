@@ -13,8 +13,12 @@
     "url": "https://github.com/embedly/embedly-jquery"
   },
   "authors": [
-    "Art Gibson <art@embed.ly>",
-    "Sean Creeley <sean@embed.ly>"
+    {
+      "name": "Art Gibson <art@embed.ly>"
+    },
+    {
+      "name": "Sean Creeley <sean@embed.ly>"
+    }
   ],
   "homepage": "https://embedly.github.io/embedly-jquery/",
   "autoupdate": {

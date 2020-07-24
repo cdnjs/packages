@@ -26,7 +26,11 @@
     ]
   },
   "authors": [
-    "Max Lynch",
-    "Paolo Bernasconi"
+    {
+      "name": "Max Lynch"
+    },
+    {
+      "name": "Paolo Bernasconi"
+    }
   ]
 }

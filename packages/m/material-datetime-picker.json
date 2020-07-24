@@ -15,8 +15,12 @@
   },
   "license": "MIT",
   "authors": [
-    "Joe Whitfield-Seed <joeseed86@gmail.com>",
-    "James Ivings <james.ivings@gmail.com>"
+    {
+      "name": "Joe Whitfield-Seed <joeseed86@gmail.com>"
+    },
+    {
+      "name": "James Ivings <james.ivings@gmail.com>"
+    }
   ],
   "autoupdate": {
     "source": "npm",
