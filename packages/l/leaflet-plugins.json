@@ -3,8 +3,12 @@
   "filename": "control/Permalink.min.js",
   "description": "Miscellaneous plugins for Leaflet library for services that need to display route information and need satellite imagery from different providers",
   "authors": [
-    "brunob <brunobergot@gmail.com>",
-    "Pavel Shramov"
+    {
+      "name": "brunob <brunobergot@gmail.com>"
+    },
+    {
+      "name": "Pavel Shramov"
+    }
   ],
   "homepage": "http://psha.org.ru/b/leaflet-plugins.html",
   "keywords": [

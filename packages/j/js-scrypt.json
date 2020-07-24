@@ -3,8 +3,12 @@
   "filename": "scrypt.min.js",
   "homepage": "https://www.tarsnap.com/scrypt.html",
   "authors": [
-    "Colin Percival",
-    "tonyg"
+    {
+      "name": "Colin Percival"
+    },
+    {
+      "name": "tonyg"
+    }
   ],
   "description": "Emscripten-compiled scrypt, a Password-Based Key Derivation Function from Colin Percival.",
   "keywords": [

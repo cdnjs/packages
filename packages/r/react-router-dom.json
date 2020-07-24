@@ -8,8 +8,12 @@
   },
   "license": "MIT",
   "authors": [
-    "Michael Jackson",
-    "Ryan Florence"
+    {
+      "name": "Michael Jackson"
+    },
+    {
+      "name": "Ryan Florence"
+    }
   ],
   "keywords": [
     "react",

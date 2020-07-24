@@ -13,9 +13,15 @@
     "responsive"
   ],
   "authors": [
-    "Adam Wathan <adam.wathan@gmail.com>",
-    "Jonathan Reinink <jonathan@reinink.ca>",
-    "David Hemphill <davidlee.hemphill@gmail.com>"
+    {
+      "name": "Adam Wathan <adam.wathan@gmail.com>"
+    },
+    {
+      "name": "Jonathan Reinink <jonathan@reinink.ca>"
+    },
+    {
+      "name": "David Hemphill <davidlee.hemphill@gmail.com>"
+    }
   ],
   "repository": {
     "type": "git",

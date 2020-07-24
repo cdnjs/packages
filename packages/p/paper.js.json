@@ -40,7 +40,11 @@
   },
   "license": "MIT",
   "authors": [
-    "Jürg Lehni <juerg@scratchdisk.com> (http://scratchdisk.com)",
-    "Jonathan Puckey <jonathan@studiomoniker.com> (http://studiomoniker.com)"
+    {
+      "name": "Jürg Lehni <juerg@scratchdisk.com> (http://scratchdisk.com)"
+    },
+    {
+      "name": "Jonathan Puckey <jonathan@studiomoniker.com> (http://studiomoniker.com)"
+    }
   ]
 }

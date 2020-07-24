@@ -14,8 +14,12 @@
     "url": "https://github.com/gabceb/jquery-browser-plugin.git"
   },
   "authors": [
-    "Gabriel Cebrian <gabceb@gmail.com>",
-    "jQuery Team <https://github.com/gabceb/jquery-browser-plugin/wiki/Authors>"
+    {
+      "name": "Gabriel Cebrian <gabceb@gmail.com>"
+    },
+    {
+      "name": "jQuery Team <https://github.com/gabceb/jquery-browser-plugin/wiki/Authors>"
+    }
   ],
   "autoupdate": {
     "source": "npm",

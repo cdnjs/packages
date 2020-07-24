@@ -3,10 +3,18 @@
   "filename": "grommet-index.min.js",
   "description": "Grommet UI and example server for searching, filtering, and displaying mass quantities of items.",
   "authors": [
-    "Alan Souza",
-    "Bryan Jacquot",
-    "Chris Carlozzi",
-    "Eric Soderberg"
+    {
+      "name": "Alan Souza"
+    },
+    {
+      "name": "Bryan Jacquot"
+    },
+    {
+      "name": "Chris Carlozzi"
+    },
+    {
+      "name": "Eric Soderberg"
+    }
   ],
   "homepage": "http://index.grommet.io",
   "license": "Apache-2.0",

@@ -4,17 +4,39 @@
   "description": "Keen IO JavaScript SDK",
   "license": "MIT",
   "authors": [
-    "Dustin Larimer <dustin@keen.io>",
-    "André Luis Leal Cardoso Junior <andrehjr@gmail.com>",
-    "Sean Dokko <sean@keen.io>",
-    "Jordan Klassen <forivall@gmail.com>",
-    "Josh Dzielak <josh@keen.io>",
-    "Ryan Spraetz <ryan@keen.io>",
-    "Dan Kador <dan@keen.io>",
-    "Cory Watson <github@onemogin.com>",
-    "Joshua Coats <joshua@keen.io>",
-    "Micah Wolfe <micah@keen.io>",
-    "Tim Schiller <timothy.schiller@gmail.com>"
+    {
+      "name": "Dustin Larimer <dustin@keen.io>"
+    },
+    {
+      "name": "André Luis Leal Cardoso Junior <andrehjr@gmail.com>"
+    },
+    {
+      "name": "Sean Dokko <sean@keen.io>"
+    },
+    {
+      "name": "Jordan Klassen <forivall@gmail.com>"
+    },
+    {
+      "name": "Josh Dzielak <josh@keen.io>"
+    },
+    {
+      "name": "Ryan Spraetz <ryan@keen.io>"
+    },
+    {
+      "name": "Dan Kador <dan@keen.io>"
+    },
+    {
+      "name": "Cory Watson <github@onemogin.com>"
+    },
+    {
+      "name": "Joshua Coats <joshua@keen.io>"
+    },
+    {
+      "name": "Micah Wolfe <micah@keen.io>"
+    },
+    {
+      "name": "Tim Schiller <timothy.schiller@gmail.com>"
+    }
   ],
   "keywords": [
     "analytics",

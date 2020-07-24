@@ -27,7 +27,11 @@
     ]
   },
   "authors": [
-    "Zack Bloom <zackbloom@gmail.com>",
-    "Adam Schwartz <adam.flynn.schwartz@gmail.com>"
+    {
+      "name": "Zack Bloom <zackbloom@gmail.com>"
+    },
+    {
+      "name": "Adam Schwartz <adam.flynn.schwartz@gmail.com>"
+    }
   ]
 }

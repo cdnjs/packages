@@ -3,8 +3,12 @@
   "filename": "calendar-heatmap.min.js",
   "description": "A d3.js heatmap representing time series data. Inspired by Github's contribution chart",
   "authors": [
-    "Darragh Kirwan <d@rragh.com>",
-    "Oskar Niburski <oskarniburski@gmail.com>"
+    {
+      "name": "Darragh Kirwan <d@rragh.com>"
+    },
+    {
+      "name": "Oskar Niburski <oskarniburski@gmail.com>"
+    }
   ],
   "repository": {
     "type": "git",

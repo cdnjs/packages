@@ -18,10 +18,18 @@
   ],
   "license": "Apache-2.0",
   "authors": [
-    "Mark McDonnell",
-    "Addy Osmani",
-    "Tom Maslen",
-    "Thomas Parisot"
+    {
+      "name": "Mark McDonnell"
+    },
+    {
+      "name": "Addy Osmani"
+    },
+    {
+      "name": "Tom Maslen"
+    },
+    {
+      "name": "Thomas Parisot"
+    }
   ],
   "autoupdate": {
     "source": "npm",

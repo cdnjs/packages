@@ -12,9 +12,15 @@
     "url": "https://github.com/driftyco/ionicons.git"
   },
   "authors": [
-    "Ben Sperry <ben@drifty.com>",
-    "Adam Bradley <adam@drifty.com>",
-    "Max Lynch <max@drifty.com>"
+    {
+      "name": "Ben Sperry <ben@drifty.com>"
+    },
+    {
+      "name": "Adam Bradley <adam@drifty.com>"
+    },
+    {
+      "name": "Max Lynch <max@drifty.com>"
+    }
   ],
   "autoupdate": {
     "source": "npm",

@@ -15,8 +15,12 @@
   },
   "license": "MIT",
   "authors": [
-    "Dominic Baggott <dominic.baggott@gmail.com> (http://evilstreak.co.uk)",
-    "Ash Berlin <ash_markdownjs@firemirror.com> (http://ashberlin.com)"
+    {
+      "name": "Dominic Baggott <dominic.baggott@gmail.com> (http://evilstreak.co.uk)"
+    },
+    {
+      "name": "Ash Berlin <ash_markdownjs@firemirror.com> (http://ashberlin.com)"
+    }
   ],
   "autoupdate": {
     "source": "npm",

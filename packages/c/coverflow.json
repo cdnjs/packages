@@ -29,12 +29,26 @@
     ]
   },
   "authors": [
-    "Paul Baukus",
-    "Addy Osmani",
-    "Sebastian Sauer",
-    "Brandon Belvin",
-    "April Barrett",
-    "Kirill Kostko",
-    "Anton Schulte"
+    {
+      "name": "Paul Baukus"
+    },
+    {
+      "name": "Addy Osmani"
+    },
+    {
+      "name": "Sebastian Sauer"
+    },
+    {
+      "name": "Brandon Belvin"
+    },
+    {
+      "name": "April Barrett"
+    },
+    {
+      "name": "Kirill Kostko"
+    },
+    {
+      "name": "Anton Schulte"
+    }
   ]
 }

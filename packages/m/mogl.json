@@ -7,14 +7,30 @@
     "webgl"
   ],
   "authors": [
-    "redcamel",
-    "hikaMaeng",
-    "shallaa",
-    "hanmomhanda",
-    "pparkssi",
-    "fabulousu",
-    "sjshin-simpson",
-    "ibare"
+    {
+      "name": "redcamel"
+    },
+    {
+      "name": "hikaMaeng"
+    },
+    {
+      "name": "shallaa"
+    },
+    {
+      "name": "hanmomhanda"
+    },
+    {
+      "name": "pparkssi"
+    },
+    {
+      "name": "fabulousu"
+    },
+    {
+      "name": "sjshin-simpson"
+    },
+    {
+      "name": "ibare"
+    }
   ],
   "autoupdate": {
     "source": "git",

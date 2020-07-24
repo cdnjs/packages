@@ -17,7 +17,7 @@
     {
       "name": "Fabian Vogelsteller",
       "email": "fabian@ethereum.org",
-      "homepage": "https://frozeman.de"
+      "url": "https://frozeman.de"
     },
     {
       "name": "Marek Kotewicz",
@@ -31,7 +31,7 @@
     {
       "name": "Gav Wood",
       "email": "g@parity.io",
-      "homepage": "http://gavwood.com"
+      "url": "http://gavwood.com"
     },
     {
       "name": "Jeffery Wilcke",

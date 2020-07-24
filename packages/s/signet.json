@@ -27,7 +27,11 @@
     "url": "https://github.com/HubSpot/signet.git"
   },
   "authors": [
-    "Adam Schwartz <aschwartz@hubspot.com>",
-    "Zack Bloom <zbloom@hubspot.com>"
+    {
+      "name": "Adam Schwartz <aschwartz@hubspot.com>"
+    },
+    {
+      "name": "Zack Bloom <zbloom@hubspot.com>"
+    }
   ]
 }

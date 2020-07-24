@@ -7,8 +7,12 @@
     "url": "https://github.com/goatslacker/alt.git"
   },
   "authors": [
-    "Josh Perez <josh@goatslacker.com>",
-    "Jonathan Lehman <jonathan.lehman91@gmail.com>"
+    {
+      "name": "Josh Perez <josh@goatslacker.com>"
+    },
+    {
+      "name": "Jonathan Lehman <jonathan.lehman91@gmail.com>"
+    }
   ],
   "license": "MIT",
   "keywords": [

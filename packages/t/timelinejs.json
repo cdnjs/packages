@@ -25,7 +25,11 @@
   },
   "license": "MPL-2.0",
   "authors": [
-    "Zach Wise <zach@digitalartwork.net>",
-    "NUKnightLab"
+    {
+      "name": "Zach Wise <zach@digitalartwork.net>"
+    },
+    {
+      "name": "NUKnightLab"
+    }
   ]
 }
