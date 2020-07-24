@@ -16,18 +16,14 @@
   "license": "MIT",
   "authors": [
     {
-      "name": {
-        "name": "Matthieu Aussaguel",
-        "email": "matthieu.aussaguel@gmail.com",
-        "url": "http://mynameismatthieu.com/"
-      }
+      "name": "Matthieu Aussaguel",
+      "email": "matthieu.aussaguel@gmail.com",
+      "url": "http://mynameismatthieu.com/"
     },
     {
-      "name": {
-        "name": "Thomas Grainger",
-        "email": "wow.js@graingert.co.uk",
-        "url": "https://graingert.co.uk/"
-      }
+      "name": "Thomas Grainger",
+      "email": "wow.js@graingert.co.uk",
+      "url": "https://graingert.co.uk/"
     }
   ],
   "autoupdate": {
