@@ -5,16 +5,12 @@
   "homepage": "https://deuxhuithuit.github.io/quicksearch/",
   "authors": [
     {
-      "name": {
-        "name": "Deux Huit Huit",
-        "url": "https://deuxhuithuit.com/"
-      }
+      "name": "Deux Huit Huit",
+      "url": "https://deuxhuithuit.com/"
     },
     {
-      "name": {
-        "name": "Rik Lomas",
-        "url": "http://www.riklomas.co.uk/"
-      }
+      "name": "Rik Lomas",
+      "url": "http://www.riklomas.co.uk/"
     }
   ],
   "license": "MIT",
