@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Dan Vanderkam (danvdk@gmail.com)"
+      "name": "Dan Vanderkam",
+      "email": "danvdk@gmail.com"
     }
   ]
 }
