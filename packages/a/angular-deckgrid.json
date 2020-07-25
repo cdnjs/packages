@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "André König (andre.koenig@posteo.de)"
+      "name": "André König",
+      "email": "andre.koenig@posteo.de"
     }
   ]
 }
