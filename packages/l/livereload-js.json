@@ -5,7 +5,16 @@
     "javascript",
     "livereload"
   ],
-  "author": "Andrey Tarantsov <andrey@tarantsov.com> & David Kelso <david@kelso.id.au>",
+  "authors": [
+    {
+      "name": "Andrey Tarantsov",
+      "email": "andrey@tarantsov.com"
+    },
+    {
+      "name": "David Kelso",
+      "email": "david@kelso.id.au"
+    }
+  ],
   "license": "MIT",
   "homepage": "https://github.com/livereload/livereload-js",
   "repository": {
