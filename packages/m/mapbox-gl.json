@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Konstantin Kaefer (mail@kkaefer.com)"
+      "name": "Konstantin Kaefer",
+      "email": "mail@kkaefer.com"
     }
   ]
 }

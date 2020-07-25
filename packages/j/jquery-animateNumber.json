@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Alexandr Borisov (aishek@gmail.com)"
+      "name": "Alexandr Borisov",
+      "email": "aishek@gmail.com"
     }
   ]
 }
