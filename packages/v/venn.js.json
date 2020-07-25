@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Ben Frederickson (ben@benfrederickson.com)"
+      "name": "Ben Frederickson",
+      "email": "ben@benfrederickson.com"
     }
   ]
 }
