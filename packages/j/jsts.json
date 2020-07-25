@@ -16,10 +16,6 @@
     "url": "git://github.com/bjornharrtell/jsts.git"
   },
   "homepage": "https://bjornharrtell.github.io/jsts/",
-  "licenses": [
-    "EDL-1.0",
-    "EPL-1.0"
-  ],
   "autoupdate": {
     "source": "npm",
     "target": "jsts",
@@ -31,5 +27,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(EDL-1.0 OR EPL-1.0)"
 }

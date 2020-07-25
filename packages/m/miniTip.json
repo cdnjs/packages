@@ -12,10 +12,6 @@
     "name": "James Simpson",
     "url": "http://goldfirestudios.com"
   },
-  "licenses": [
-    "MIT",
-    "GPL"
-  ],
   "homepage": "http://goldfirestudios.com/blog/81/miniTip-jQuery-Plugin",
   "repository": {
     "type": "git",
@@ -32,5 +28,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL)"
 }

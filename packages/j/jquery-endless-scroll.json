@@ -7,10 +7,6 @@
     "endless",
     "scroll"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-3.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/fredwu/jquery-endless-scroll.git",
@@ -27,5 +23,6 @@
     "type": "git",
     "url": "https://github.com/fredwu/jquery-endless-scroll.git"
   },
-  "author": "Fred Wu"
+  "author": "Fred Wu",
+  "license": "(MIT OR GPL-3.0)"
 }

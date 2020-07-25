@@ -15,10 +15,6 @@
     "email": "odyniec@odyniec.net",
     "url": "http://odyniec.net/"
   },
-  "licenses": [
-    "GPL-2.0",
-    "MIT"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/odyniec/imgareaselect"
@@ -34,5 +30,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(GPL-2.0 OR MIT)"
 }

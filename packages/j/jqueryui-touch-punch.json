@@ -12,10 +12,6 @@
     "type": "git",
     "url": "https://github.com/furf/jquery-ui-touch-punch.git"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "autoupdate": {
     "source": "npm",
     "target": "jquery-ui-touch-punch",
@@ -27,5 +23,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-2.0)"
 }

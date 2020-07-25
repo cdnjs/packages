@@ -17,10 +17,6 @@
     "css",
     "toolkit"
   ],
-  "licenses": [
-    "MIT",
-    "OFL-1.1"
-  ],
   "name": "rpg-awesome",
   "repository": {
     "type": "git",
@@ -38,5 +34,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR OFL-1.1)"
 }

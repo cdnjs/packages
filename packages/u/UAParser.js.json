@@ -11,10 +11,6 @@
     "device",
     "cpu"
   ],
-  "licenses": [
-    "GPL-2.0",
-    "MIT"
-  ],
   "author": "Faisal Salman <fyzlman@gmail.com> (http://faisalman.com)",
   "repository": {
     "type": "git",
@@ -31,5 +27,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(GPL-2.0 OR MIT)"
 }

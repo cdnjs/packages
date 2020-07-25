@@ -6,10 +6,7 @@
     "url": "https://github.com/graphql/graphiql.git"
   },
   "filename": "graphiql.min.js",
-  "license": {
-    "type": "customized",
-    "url": "https://github.com/graphql/graphiql/raw/master/LICENSE"
-  },
+  "license": "customized",
   "keywords": [
     "graphiql"
   ],

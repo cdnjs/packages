@@ -13,10 +13,6 @@
     "plugin"
   ],
   "author": "Robert Fleischmann <me@robert-fleischmann.de>",
-  "licenses": [
-    "MIT",
-    "GPL-3.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/rendro/countdown.git",
@@ -28,5 +24,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-3.0)"
 }

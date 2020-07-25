@@ -16,10 +16,6 @@
     "name": "Twitter, Inc.",
     "url": "https://github.com/twitter/"
   },
-  "licenses": [
-    "MIT",
-    "CC-BY-4.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/twitter/twemoji.git",
@@ -42,5 +38,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/twitter/twemoji.git"
-  }
+  },
+  "license": "(MIT OR CC-BY-4.0)"
 }

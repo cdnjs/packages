@@ -22,8 +22,5 @@
     "type": "git",
     "url": "https://github.com/cowboy/jquery-resize"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ]
+  "license": "(MIT OR GPL-2.0)"
 }

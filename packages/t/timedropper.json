@@ -12,8 +12,5 @@
   ],
   "author": "Felice Gattuso",
   "homepage": "http://felicegattuso.com/projects/timedropper/",
-  "licenses": [
-    "MIT",
-    "CC-BY-4.0"
-  ]
+  "license": "(MIT OR CC-BY-4.0)"
 }

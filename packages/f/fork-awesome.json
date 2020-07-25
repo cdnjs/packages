@@ -15,10 +15,6 @@
     "type": "git",
     "url": "https://github.com/ForkAwesome/Fork-Awesome.git"
   },
-  "licenses": [
-    "OFL-1.1",
-    "MIT"
-  ],
   "autoupdate": {
     "source": "npm",
     "target": "fork-awesome",
@@ -30,5 +26,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(OFL-1.1 OR MIT)"
 }

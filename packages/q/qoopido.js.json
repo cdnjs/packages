@@ -10,13 +10,7 @@
     "type": "git",
     "url": "git://github.com/dlueth/qoopido.js.git"
   },
-  "licenses": [
-    "MIT",
-    {
-      "type": "GPL",
-      "url": "http://www.gnu.org/copyleft/gpl.html"
-    }
-  ],
+  "license": "(MIT OR GPL)",
   "keywords": [
     "modular",
     "library",

@@ -16,10 +16,6 @@
     "type": "git",
     "url": "https://github.com/ehynds/jquery-ui-multiselect-widget"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/ehynds/jquery-ui-multiselect-widget.git",
@@ -37,5 +33,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-2.0)"
 }

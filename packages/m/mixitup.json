@@ -23,13 +23,7 @@
       }
     ]
   },
-  "licenses": [
-    "CC-BY-ND-3.0",
-    {
-      "type": "Commercial License",
-      "url": "https://www.kunkalabs.com/mixitup/licenses/"
-    }
-  ],
+  "license": "(CC-BY-ND-3.0 OR Commercial License)",
   "repository": {
     "type": "git",
     "url": "https://github.com/patrickkunka/mixitup"

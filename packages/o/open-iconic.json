@@ -22,10 +22,6 @@
     "type": "git",
     "url": "https://github.com/iconic/open-iconic.git"
   },
-  "licenses": [
-    "MIT",
-    "OFL-1.1"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/iconic/open-iconic.git",
@@ -41,5 +37,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR OFL-1.1)"
 }

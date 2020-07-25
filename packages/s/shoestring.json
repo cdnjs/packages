@@ -11,10 +11,6 @@
     "email": "thegroup@filamentgroup.com",
     "url": "filamentgroup.com"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "keywords": [
     "lightweight",
     "DOM-ready",
@@ -32,5 +28,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-2.0)"
 }

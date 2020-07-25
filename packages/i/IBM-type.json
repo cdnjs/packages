@@ -13,10 +13,6 @@
     "Plex"
   ],
   "homepage": "https://ibm.github.io/type/",
-  "licenses": [
-    "OFL-1.1",
-    "Apache-2.0"
-  ],
   "autoupdate": {
     "source": "npm",
     "target": "@ibm/type",
@@ -29,5 +25,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(OFL-1.1 OR Apache-2.0)"
 }

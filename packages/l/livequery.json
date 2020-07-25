@@ -22,10 +22,6 @@
     "name": "Brandon Aaron",
     "url": "http://brandon.aaron.sh"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/brandonaaron/livequery.git",
@@ -37,5 +33,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-2.0)"
 }

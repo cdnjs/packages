@@ -14,16 +14,7 @@
     "name": "Kirill Lebedev",
     "email": "echo.bjornd@gmail.com"
   },
-  "licenses": [
-    {
-      "type": "AGPL",
-      "url": "http://www.gnu.org/copyleft/gpl.html"
-    },
-    {
-      "type": "Commercial",
-      "url": "http://www.binpress.com/license/read/id/3085/app/2122"
-    }
-  ],
+  "license": "(AGPL OR Commercial)",
   "homepage": "http://jvectormap.com",
   "autoupdate": {
     "source": "git",

@@ -14,10 +14,6 @@
     "IE",
     "Internet Explorer"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-3.0"
-  ],
   "homepage": "https://stuk.github.io/jszip-utils",
   "autoupdate": {
     "source": "npm",
@@ -30,5 +26,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR GPL-3.0)"
 }

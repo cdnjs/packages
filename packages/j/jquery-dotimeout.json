@@ -8,10 +8,6 @@
     "doTimeout",
     "jQuery"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/cowboy/jquery-dotimeout.git",
@@ -27,5 +23,6 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/cowboy/jquery-dotimeout.git"
-  }
+  },
+  "license": "(MIT OR GPL-2.0)"
 }

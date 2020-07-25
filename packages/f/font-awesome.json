@@ -16,11 +16,6 @@
     "type": "git",
     "url": "git://github.com/FortAwesome/Font-Awesome.git"
   },
-  "licenses": [
-    "OFL-1.1",
-    "MIT",
-    "CC-BY-4.0"
-  ],
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.io",
@@ -37,5 +32,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(OFL-1.1 OR MIT OR CC-BY-4.0)"
 }

@@ -17,13 +17,7 @@
     "name": "Piotr Rochala",
     "url": "http://rocha.la/"
   },
-  "licenses": [
-    "MIT",
-    {
-      "type": "GPL",
-      "url": "http://www.opensource.org/licenses/gpl-license.php"
-    }
-  ],
+  "license": "(MIT OR GPL)",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/rochal/jQuery-slimScroll.git",

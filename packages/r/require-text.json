@@ -10,8 +10,5 @@
     "type": "git",
     "url": "https://github.com/requirejs/text"
   },
-  "licenses": [
-    "MIT",
-    "BSD-3-Clause"
-  ]
+  "license": "(MIT OR BSD-3-Clause)"
 }

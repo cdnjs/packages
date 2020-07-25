@@ -11,8 +11,5 @@
     "type": "git",
     "url": "https://github.com/mobilizejs/mobilize.js.git"
   },
-  "license": {
-    "type": "Creative Commons",
-    "url": "http://mobilizejs.com/documentation/"
-  }
+  "license": "Creative Commons"
 }

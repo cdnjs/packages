@@ -13,10 +13,6 @@
     "googlemaps",
     "leaflet"
   ],
-  "licenses": [
-    "MIT",
-    "Beerware"
-  ],
   "autoupdate": {
     "source": "npm",
     "target": "heatmap.js",
@@ -28,5 +24,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(MIT OR Beerware)"
 }

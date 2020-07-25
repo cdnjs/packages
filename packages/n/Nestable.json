@@ -19,8 +19,5 @@
     "type": "git",
     "url": "git://github.com/blueimp/JavaScript-Load-Image.git"
   },
-  "licenses": [
-    "MIT",
-    "BSD"
-  ]
+  "license": "(MIT OR BSD)"
 }

@@ -14,10 +14,6 @@
     "name": "Tim Svensen",
     "url": "http://timsvensen.com"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/tsvensen/equalize.js.git",
@@ -34,5 +30,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/tsvensen/equalize.js/blob/master/js/equalize.js"
-  }
+  },
+  "license": "(MIT OR GPL-2.0)"
 }

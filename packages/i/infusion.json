@@ -4,10 +4,6 @@
   "filename": "infusion-all.min.js",
   "author": "Fluid Project",
   "homepage": "http://www.fluidproject.org/",
-  "licenses": [
-    "BSD-3-Clause",
-    "ECL-2.0"
-  ],
   "keywords": [
     "infusion",
     "framework",
@@ -33,5 +29,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(BSD-3-Clause OR ECL-2.0)"
 }

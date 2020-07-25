@@ -42,8 +42,5 @@
     "name": "Jack Doyle",
     "url": "https://greensock.com"
   },
-  "license": {
-    "name": "Standard 'No Charge' GreenSock License",
-    "url": "https://greensock.com/standard-license"
-  }
+  "license": "Standard 'No Charge' GreenSock License"
 }
