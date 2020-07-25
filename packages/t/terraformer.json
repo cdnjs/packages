@@ -24,7 +24,9 @@
   },
   "authors": [
     {
-      "name": "Patrick Arlt <parlt@esri.com> (http://patrickarlt.com)"
+      "name": "Patrick Arlt",
+      "email": "parlt@esri.com",
+      "url": "http://patrickarlt.com"
     }
   ]
 }

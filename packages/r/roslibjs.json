@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Robot Webtools Team <robot-web-tools@googlegroups.com> (http://robotwebtools.org)"
+      "name": "Robot Webtools Team",
+      "email": "robot-web-tools@googlegroups.com",
+      "url": "http://robotwebtools.org"
     }
   ]
 }

@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "Michael Villar <me@michaelvillar.com> (http://twitter.com/michaelvillar)"
+      "name": "Michael Villar",
+      "email": "me@michaelvillar.com",
+      "url": "http://twitter.com/michaelvillar"
     }
   ]
 }

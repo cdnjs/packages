@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Brian Cherne <brian@cherne.net> (http://cherne.net/)"
+      "name": "Brian Cherne",
+      "email": "brian@cherne.net",
+      "url": "http://cherne.net/"
     }
   ]
 }

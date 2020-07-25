@@ -34,7 +34,9 @@
   },
   "authors": [
     {
-      "name": "Wil Neeley <william.neeley@gmail.com> (https://github.com/Xaxis)"
+      "name": "Wil Neeley",
+      "email": "william.neeley@gmail.com",
+      "url": "https://github.com/Xaxis"
     }
   ]
 }

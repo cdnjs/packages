@@ -37,7 +37,9 @@
   },
   "authors": [
     {
-      "name": "Josep Subils <js@js.com> (http://js.gl)"
+      "name": "Josep Subils",
+      "email": "js@js.com",
+      "url": "http://js.gl"
     }
   ]
 }

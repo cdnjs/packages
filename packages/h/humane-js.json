@@ -28,7 +28,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Marc Harter <@wavded> (wavded.com)"
+      "name": "Marc Harter",
+      "email": "@wavded",
+      "url": "wavded.com"
     }
   ]
 }

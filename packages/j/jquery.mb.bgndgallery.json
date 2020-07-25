@@ -34,7 +34,9 @@
   },
   "authors": [
     {
-      "name": "Pupunzi <matteo@open-lab.com> (Matteo Bicocchi)"
+      "name": "Pupunzi",
+      "email": "matteo@open-lab.com",
+      "url": "Matteo Bicocchi"
     }
   ]
 }

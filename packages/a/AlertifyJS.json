@@ -32,7 +32,9 @@
   },
   "authors": [
     {
-      "name": "Mohammad Younes <Mohammad@alertifyjs.com> (http://alertifyjs.com)"
+      "name": "Mohammad Younes",
+      "email": "Mohammad@alertifyjs.com",
+      "url": "http://alertifyjs.com"
     }
   ]
 }

@@ -32,7 +32,9 @@
   },
   "authors": [
     {
-      "name": "Devin Jett <djett41@gmail.com> (https://github.com/djett41)"
+      "name": "Devin Jett",
+      "email": "djett41@gmail.com",
+      "url": "https://github.com/djett41"
     }
   ]
 }

@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Taylor Hakes <@taylorhakes> (https://taylorhakes.com/)"
+      "name": "Taylor Hakes",
+      "email": "@taylorhakes",
+      "url": "https://taylorhakes.com/"
     }
   ]
 }

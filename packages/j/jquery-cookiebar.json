@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Stefan Kecskes <info@skey.uk> (https://skey.uk)"
+      "name": "Stefan Kecskes",
+      "email": "info@skey.uk",
+      "url": "https://skey.uk"
     }
   ]
 }

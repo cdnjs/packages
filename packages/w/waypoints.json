@@ -26,7 +26,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Caleb Troughton <caleb@imakewebthings.com> (http://imakewebthings.com)"
+      "name": "Caleb Troughton",
+      "email": "caleb@imakewebthings.com",
+      "url": "http://imakewebthings.com"
     }
   ]
 }

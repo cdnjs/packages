@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Rik Schennink <rik@pqina.nl> (https://pqina.nl/)"
+      "name": "Rik Schennink",
+      "email": "rik@pqina.nl",
+      "url": "https://pqina.nl/"
     }
   ]
 }

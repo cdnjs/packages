@@ -17,10 +17,14 @@
   "license": "UNLICENSE",
   "authors": [
     {
-      "name": "Eric Wendelin <me@eriwen.com> (http://www.eriwen.com)"
+      "name": "Eric Wendelin",
+      "email": "me@eriwen.com",
+      "url": "http://www.eriwen.com"
     },
     {
-      "name": "Victor Homyakov <vkhomyackov@gmail.com> (https://github.com/victor-homyakov)"
+      "name": "Victor Homyakov",
+      "email": "vkhomyackov@gmail.com",
+      "url": "https://github.com/victor-homyakov"
     },
     {
       "name": "Oliver Salzburg (https://github.com/oliversalzburg)"

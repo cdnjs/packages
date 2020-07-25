@@ -15,7 +15,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "David Majda <david@majda.cz> (http://majda.cz/)"
+      "name": "David Majda",
+      "email": "david@majda.cz",
+      "url": "http://majda.cz/"
     }
   ]
 }

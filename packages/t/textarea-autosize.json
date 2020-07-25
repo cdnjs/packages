@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Javier Julio <jjfutbol@gmail.com> (http://www.javier-julio.com/)"
+      "name": "Javier Julio",
+      "email": "jjfutbol@gmail.com",
+      "url": "http://www.javier-julio.com/"
     }
   ]
 }

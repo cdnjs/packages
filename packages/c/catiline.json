@@ -25,7 +25,9 @@
   },
   "authors": [
     {
-      "name": "Calvin Metcalf <calvin.metcalf@gmail.com> (https://github.com/calvinmetcalf)"
+      "name": "Calvin Metcalf",
+      "email": "calvin.metcalf@gmail.com",
+      "url": "https://github.com/calvinmetcalf"
     }
   ]
 }

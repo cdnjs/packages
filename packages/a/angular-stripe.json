@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Ben Drucker <bvdrucker@gmail.com> (http://www.bendrucker.me)"
+      "name": "Ben Drucker",
+      "email": "bvdrucker@gmail.com",
+      "url": "http://www.bendrucker.me"
     }
   ]
 }

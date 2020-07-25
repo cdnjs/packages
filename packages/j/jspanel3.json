@@ -38,7 +38,9 @@
   },
   "authors": [
     {
-      "name": "Stefan Straesser <info@jspanel.de> (http://jspanel.de/)"
+      "name": "Stefan Straesser",
+      "email": "info@jspanel.de",
+      "url": "http://jspanel.de/"
     }
   ]
 }

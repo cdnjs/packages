@@ -37,7 +37,9 @@
   },
   "authors": [
     {
-      "name": "Zongmin Lei <leizongmin@gmail.com> (http://ucdok.com)"
+      "name": "Zongmin Lei",
+      "email": "leizongmin@gmail.com",
+      "url": "http://ucdok.com"
     }
   ]
 }

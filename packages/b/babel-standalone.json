@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Daniel Lo Nigro <daniel@dan.cx> (http://dan.cx/)"
+      "name": "Daniel Lo Nigro",
+      "email": "daniel@dan.cx",
+      "url": "http://dan.cx/"
     }
   ]
 }

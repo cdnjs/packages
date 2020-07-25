@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Ben Firshman <ben@firshman.co.uk> (https://fir.sh)"
+      "name": "Ben Firshman",
+      "email": "ben@firshman.co.uk",
+      "url": "https://fir.sh"
     }
   ]
 }

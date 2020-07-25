@@ -34,7 +34,9 @@
   },
   "authors": [
     {
-      "name": "Aurélien Delogu <pyrsmk@dreamysource.fr> (http://dreamysource.fr)"
+      "name": "Aurélien Delogu",
+      "email": "pyrsmk@dreamysource.fr",
+      "url": "http://dreamysource.fr"
     }
   ]
 }

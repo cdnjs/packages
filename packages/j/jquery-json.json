@@ -24,7 +24,9 @@
   },
   "authors": [
     {
-      "name": "Brantley Harris <deadwisdom@gmail.com> (https://github.com/DeadWisdom)"
+      "name": "Brantley Harris",
+      "email": "deadwisdom@gmail.com",
+      "url": "https://github.com/DeadWisdom"
     }
   ]
 }

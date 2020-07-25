@@ -38,7 +38,9 @@
   },
   "authors": [
     {
-      "name": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)"
+      "name": "Samuel Reed",
+      "email": "samuel.trace.reed@gmail.com",
+      "url": "http://strml.net/"
     }
   ]
 }

@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Chungsub Kim <subicura@subicura.com> (http://subicura.com/)"
+      "name": "Chungsub Kim",
+      "email": "subicura@subicura.com",
+      "url": "http://subicura.com/"
     }
   ]
 }

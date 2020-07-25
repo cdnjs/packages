@@ -34,7 +34,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Lukas Bartak <bart@bartweb.cz> (https://github.com/bartholomej)"
+      "name": "Lukas Bartak",
+      "email": "bart@bartweb.cz",
+      "url": "https://github.com/bartholomej"
     }
   ]
 }

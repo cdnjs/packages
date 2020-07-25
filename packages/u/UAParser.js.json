@@ -33,7 +33,9 @@
   },
   "authors": [
     {
-      "name": "Faisal Salman <fyzlman@gmail.com> (http://faisalman.com)"
+      "name": "Faisal Salman",
+      "email": "fyzlman@gmail.com",
+      "url": "http://faisalman.com"
     }
   ]
 }

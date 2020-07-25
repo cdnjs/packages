@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Zach Carter <zach@carter.name> (http://zaa.ch)"
+      "name": "Zach Carter",
+      "email": "zach@carter.name",
+      "url": "http://zaa.ch"
     }
   ]
 }

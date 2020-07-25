@@ -26,7 +26,9 @@
   },
   "authors": [
     {
-      "name": "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)"
+      "name": "José Luis Millán",
+      "email": "jmillan@aliax.net",
+      "url": "https://github.com/jmillan"
     }
   ]
 }

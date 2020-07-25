@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Feathers contributors <hello@feathersjs.com> (https://feathersjs.com)"
+      "name": "Feathers contributors",
+      "email": "hello@feathersjs.com",
+      "url": "https://feathersjs.com"
     }
   ]
 }

@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Stefan Hedman <schteppe@gmail.com> (http://steffe.se)"
+      "name": "Stefan Hedman",
+      "email": "schteppe@gmail.com",
+      "url": "http://steffe.se"
     }
   ]
 }

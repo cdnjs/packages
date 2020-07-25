@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "John Gravois <jgravois@esri.com> (http://johngravois.com)"
+      "name": "John Gravois",
+      "email": "jgravois@esri.com",
+      "url": "http://johngravois.com"
     }
   ]
 }

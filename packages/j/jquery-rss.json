@@ -32,7 +32,9 @@
   },
   "authors": [
     {
-      "name": "Sascha Depold <sascha@depold.com> (http://depold.com)"
+      "name": "Sascha Depold",
+      "email": "sascha@depold.com",
+      "url": "http://depold.com"
     }
   ]
 }

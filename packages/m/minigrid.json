@@ -33,7 +33,9 @@
   },
   "authors": [
     {
-      "name": "Henrique Alves <henriquea@gmail.com> (http://alves.im)"
+      "name": "Henrique Alves",
+      "email": "henriquea@gmail.com",
+      "url": "http://alves.im"
     }
   ]
 }

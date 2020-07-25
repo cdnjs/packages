@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Chris Dance <chris.dance@papercut.com> (https://github.com/codedance)"
+      "name": "Chris Dance",
+      "email": "chris.dance@papercut.com",
+      "url": "https://github.com/codedance"
     }
   ]
 }

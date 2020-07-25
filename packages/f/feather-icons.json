@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Cole Bemis <cole@colebemis.com> (http://colebemis.com)"
+      "name": "Cole Bemis",
+      "email": "cole@colebemis.com",
+      "url": "http://colebemis.com"
     }
   ]
 }

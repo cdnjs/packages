@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "Vitali Malinouski <vitmalina@gmail.com> (http://w2ui.com)"
+      "name": "Vitali Malinouski",
+      "email": "vitmalina@gmail.com",
+      "url": "http://w2ui.com"
     }
   ]
 }

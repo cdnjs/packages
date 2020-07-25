@@ -34,7 +34,9 @@
   },
   "authors": [
     {
-      "name": "Jos de Jong <wjosdejong@gmail.com> (https://github.com/josdejong)"
+      "name": "Jos de Jong",
+      "email": "wjosdejong@gmail.com",
+      "url": "https://github.com/josdejong"
     }
   ]
 }

@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Filippo Oretti <filippo.oretti@gmail.com> (https://github.com/45kb)"
+      "name": "Filippo Oretti",
+      "email": "filippo.oretti@gmail.com",
+      "url": "https://github.com/45kb"
     }
   ]
 }

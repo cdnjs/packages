@@ -26,7 +26,9 @@
   ],
   "authors": [
     {
-      "name": "Lars Jung <lrsjng@gmail.com> (http://larsjung.de)"
+      "name": "Lars Jung",
+      "email": "lrsjng@gmail.com",
+      "url": "http://larsjung.de"
     }
   ]
 }

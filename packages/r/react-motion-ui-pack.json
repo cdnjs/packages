@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Travis Arnold <travis@souporserious.com> (http://souporserious.com)"
+      "name": "Travis Arnold",
+      "email": "travis@souporserious.com",
+      "url": "http://souporserious.com"
     }
   ]
 }

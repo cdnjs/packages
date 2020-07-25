@@ -33,7 +33,9 @@
   },
   "authors": [
     {
-      "name": "Lucas Garron <code@garron.net> (https://garron.net/)"
+      "name": "Lucas Garron",
+      "email": "code@garron.net",
+      "url": "https://garron.net/"
     }
   ]
 }

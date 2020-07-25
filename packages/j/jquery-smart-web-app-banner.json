@@ -33,7 +33,9 @@
   },
   "authors": [
     {
-      "name": "Kurt Zenisek <kurt@kzeni.com> (http://kzeni.com/)"
+      "name": "Kurt Zenisek",
+      "email": "kurt@kzeni.com",
+      "url": "http://kzeni.com/"
     }
   ]
 }

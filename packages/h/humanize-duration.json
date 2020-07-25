@@ -33,7 +33,9 @@
   },
   "authors": [
     {
-      "name": "Evan Hahn <me@evanhahn.com> (http://evanhahn.com)"
+      "name": "Evan Hahn",
+      "email": "me@evanhahn.com",
+      "url": "http://evanhahn.com"
     }
   ]
 }

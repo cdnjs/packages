@@ -28,7 +28,9 @@
   "license": "MPL-2.0",
   "authors": [
     {
-      "name": "Ryan P.C. McQuen <ryanpcmcquen@member.fsf.org> (https://ryanpcmcquen.org/)"
+      "name": "Ryan P.C. McQuen",
+      "email": "ryanpcmcquen@member.fsf.org",
+      "url": "https://ryanpcmcquen.org/"
     }
   ]
 }

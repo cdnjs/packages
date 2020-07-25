@@ -35,7 +35,9 @@
   },
   "authors": [
     {
-      "name": "Kris Kowal <kris@cixar.com> (https://github.com/kriskowal)"
+      "name": "Kris Kowal",
+      "email": "kris@cixar.com",
+      "url": "https://github.com/kriskowal"
     }
   ]
 }

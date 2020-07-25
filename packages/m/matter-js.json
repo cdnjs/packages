@@ -32,7 +32,9 @@
   },
   "authors": [
     {
-      "name": "Liam Brummitt <liam@brm.io> (http://brm.io/)"
+      "name": "Liam Brummitt",
+      "email": "liam@brm.io",
+      "url": "http://brm.io/"
     }
   ]
 }

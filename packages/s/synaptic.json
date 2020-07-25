@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Juan Cazala <juancazala@gmail.com> (http://juancazala.com/)"
+      "name": "Juan Cazala",
+      "email": "juancazala@gmail.com",
+      "url": "http://juancazala.com/"
     }
   ]
 }

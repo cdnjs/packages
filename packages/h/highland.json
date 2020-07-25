@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Caolan McMahon <@caolan> (https://caolan.org/)"
+      "name": "Caolan McMahon",
+      "email": "@caolan",
+      "url": "https://caolan.org/"
     }
   ]
 }

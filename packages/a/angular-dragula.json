@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)"
+      "name": "Nicolas Bevacqua",
+      "email": "nicolasbevacqua@gmail.com",
+      "url": "http://bevacqua.io/"
     }
   ]
 }

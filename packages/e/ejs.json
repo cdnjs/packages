@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)"
+      "name": "Matthew Eernisse",
+      "email": "mde@fleegix.org",
+      "url": "http://fleegix.org"
     }
   ]
 }

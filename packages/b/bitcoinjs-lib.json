@@ -16,7 +16,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Stefan Thomas <justmoon@members.fsf.org> (http://www.justmoon.net)"
+      "name": "Stefan Thomas",
+      "email": "justmoon@members.fsf.org",
+      "url": "http://www.justmoon.net"
     }
   ]
 }

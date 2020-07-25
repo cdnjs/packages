@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Haroen Viaene <hello@haroen.me> (https://haroen.me/)"
+      "name": "Haroen Viaene",
+      "email": "hello@haroen.me",
+      "url": "https://haroen.me/"
     }
   ]
 }

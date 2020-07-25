@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Matthieu Moquet <matthieu@moquet.net> (https://moquet.net/)"
+      "name": "Matthieu Moquet",
+      "email": "matthieu@moquet.net",
+      "url": "https://moquet.net/"
     }
   ]
 }

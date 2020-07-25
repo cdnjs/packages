@@ -33,7 +33,9 @@
   },
   "authors": [
     {
-      "name": "Jeff Wainwright <jjwainwright2@gmail.com> (https://jeffry.in)"
+      "name": "Jeff Wainwright",
+      "email": "jjwainwright2@gmail.com",
+      "url": "https://jeffry.in"
     }
   ]
 }

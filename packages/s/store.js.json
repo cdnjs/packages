@@ -24,7 +24,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Marcus Westin <narcvs@gmail.com> (http://marcuswest.in)"
+      "name": "Marcus Westin",
+      "email": "narcvs@gmail.com",
+      "url": "http://marcuswest.in"
     }
   ]
 }

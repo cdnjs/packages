@@ -34,7 +34,9 @@
   },
   "authors": [
     {
-      "name": "Tim Wood <washwithcare@gmail.com> (http://timwoodcreates.com/)"
+      "name": "Tim Wood",
+      "email": "washwithcare@gmail.com",
+      "url": "http://timwoodcreates.com/"
     }
   ]
 }

@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Adrian Quevedo <npm@adrianquevedo.com> (http://adrianquevedo.com/)"
+      "name": "Adrian Quevedo",
+      "email": "npm@adrianquevedo.com",
+      "url": "http://adrianquevedo.com/"
     }
   ]
 }

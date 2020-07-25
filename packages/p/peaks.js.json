@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "BBC <appadmin@bbc.co.uk> (http://www.bbc.co.uk/opensource/)"
+      "name": "BBC",
+      "email": "appadmin@bbc.co.uk",
+      "url": "http://www.bbc.co.uk/opensource/"
     }
   ]
 }

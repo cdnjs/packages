@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Matt Mueller <mattmuelle@gmail.com> (mat.io)"
+      "name": "Matt Mueller",
+      "email": "mattmuelle@gmail.com",
+      "url": "mat.io"
     }
   ]
 }

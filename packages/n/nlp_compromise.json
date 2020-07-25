@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Spencer Kelly <spencermountain@gmail.com> (http://spencermounta.in)"
+      "name": "Spencer Kelly",
+      "email": "spencermountain@gmail.com",
+      "url": "http://spencermounta.in"
     }
   ]
 }

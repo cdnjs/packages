@@ -21,7 +21,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Ken Nilsen <github@epistemex.com> (http://epistemex.com/)"
+      "name": "Ken Nilsen",
+      "email": "github@epistemex.com",
+      "url": "http://epistemex.com/"
     }
   ]
 }

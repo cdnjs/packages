@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Bruno Joseph <bruno.joseph95@gmail.com> (http://www.brunojoseph.com/)"
+      "name": "Bruno Joseph",
+      "email": "bruno.joseph95@gmail.com",
+      "url": "http://www.brunojoseph.com/"
     }
   ]
 }

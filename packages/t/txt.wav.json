@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Still Life Studios <hello@stilllife.studio> (https://www.stilllife.studio)"
+      "name": "Still Life Studios",
+      "email": "hello@stilllife.studio",
+      "url": "https://www.stilllife.studio"
     }
   ]
 }

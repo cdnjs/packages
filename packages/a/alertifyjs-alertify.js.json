@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Fabien Doiron <fabien.doiron@gmail.com> (http://fabien-d.github.io/)"
+      "name": "Fabien Doiron",
+      "email": "fabien.doiron@gmail.com",
+      "url": "http://fabien-d.github.io/"
     }
   ]
 }

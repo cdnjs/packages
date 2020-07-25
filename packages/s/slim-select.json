@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Brian Voelker <brian@webiswhatido.com> (http://webiswhatido.com)"
+      "name": "Brian Voelker",
+      "email": "brian@webiswhatido.com",
+      "url": "http://webiswhatido.com"
     }
   ]
 }

@@ -34,7 +34,9 @@
   },
   "authors": [
     {
-      "name": "Nuno Job <nunojobpinto@gmail.com> (http://nunojob.com/)"
+      "name": "Nuno Job",
+      "email": "nunojobpinto@gmail.com",
+      "url": "http://nunojob.com/"
     }
   ]
 }

@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Gianni Chiappetta <gianni@runlevel6.org> (http://butt.zone)"
+      "name": "Gianni Chiappetta",
+      "email": "gianni@runlevel6.org",
+      "url": "http://butt.zone"
     }
   ]
 }

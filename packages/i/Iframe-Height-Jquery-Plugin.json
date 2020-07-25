@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "Ilker Guller <me@ilkerguller.com> (http://ilkerguller.com)"
+      "name": "Ilker Guller",
+      "email": "me@ilkerguller.com",
+      "url": "http://ilkerguller.com"
     }
   ]
 }

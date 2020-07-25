@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Brian Detering <BDeterin@gmail.com> (http://www.briandetering.net/)"
+      "name": "Brian Detering",
+      "email": "BDeterin@gmail.com",
+      "url": "http://www.briandetering.net/"
     }
   ]
 }

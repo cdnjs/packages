@@ -15,7 +15,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Krist Wongsuphasawat <kristw@twitter.com> (http://kristw.yellowpigz.com)"
+      "name": "Krist Wongsuphasawat",
+      "email": "kristw@twitter.com",
+      "url": "http://kristw.yellowpigz.com"
     },
     {
       "name": "Robert Harris <rharris@twitter.com>"

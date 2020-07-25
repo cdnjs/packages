@@ -42,7 +42,9 @@
   },
   "authors": [
     {
-      "name": "Firebase <firebase-support@google.com> (https://firebase.google.com/)"
+      "name": "Firebase",
+      "email": "firebase-support@google.com",
+      "url": "https://firebase.google.com/"
     }
   ]
 }

@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Bevry Pty Ltd <us@bevry.me> (http://bevry.me)"
+      "name": "Bevry Pty Ltd",
+      "email": "us@bevry.me",
+      "url": "http://bevry.me"
     }
   ]
 }

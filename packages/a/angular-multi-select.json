@@ -26,7 +26,9 @@
   },
   "authors": [
     {
-      "name": "Ignatius Steven <isteven.github@gmail.com> (https://github.com/isteven)"
+      "name": "Ignatius Steven",
+      "email": "isteven.github@gmail.com",
+      "url": "https://github.com/isteven"
     }
   ]
 }

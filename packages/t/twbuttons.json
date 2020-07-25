@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Osman Nuri Okumuş <onokumus@gmail.com> (https://github.com/onokumus)"
+      "name": "Osman Nuri Okumuş",
+      "email": "onokumus@gmail.com",
+      "url": "https://github.com/onokumus"
     }
   ]
 }

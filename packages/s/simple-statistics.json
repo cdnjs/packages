@@ -32,7 +32,9 @@
   },
   "authors": [
     {
-      "name": "Tom MacWright <tom@macwright.org> (http://macwright.org/)"
+      "name": "Tom MacWright",
+      "email": "tom@macwright.org",
+      "url": "http://macwright.org/"
     }
   ]
 }

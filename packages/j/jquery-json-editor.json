@@ -26,7 +26,9 @@
   },
   "authors": [
     {
-      "name": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net/)"
+      "name": "Ionică Bizău",
+      "email": "bizauionica@gmail.com",
+      "url": "http://ionicabizau.net/"
     }
   ]
 }

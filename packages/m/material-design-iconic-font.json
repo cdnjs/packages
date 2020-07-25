@@ -29,7 +29,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Sergey Kupletsky <s.kupletsky@gmail.com> (https://github.com/zavoloklom)"
+      "name": "Sergey Kupletsky",
+      "email": "s.kupletsky@gmail.com",
+      "url": "https://github.com/zavoloklom"
     }
   ]
 }

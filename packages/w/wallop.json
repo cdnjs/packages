@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Pedro Duarte <contact@peduarte.com> (http://pedroduarte.me)"
+      "name": "Pedro Duarte",
+      "email": "contact@peduarte.com",
+      "url": "http://pedroduarte.me"
     }
   ]
 }

@@ -17,7 +17,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Simon Tabor <me@simontabor.com> (http://simontabor.com/)"
+      "name": "Simon Tabor",
+      "email": "me@simontabor.com",
+      "url": "http://simontabor.com/"
     }
   ]
 }

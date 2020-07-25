@@ -32,7 +32,9 @@
   },
   "authors": [
     {
-      "name": "John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/)"
+      "name": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com",
+      "url": "http://allyoucanleet.com/"
     }
   ]
 }

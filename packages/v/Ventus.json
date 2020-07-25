@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Ramón Lamana <@rlamana> (http://rlamana.com/)"
+      "name": "Ramón Lamana",
+      "email": "@rlamana",
+      "url": "http://rlamana.com/"
     }
   ]
 }

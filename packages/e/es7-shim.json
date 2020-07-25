@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Jordan Harband <ljharb@gmail.com> (https://github.com/ljharb/)"
+      "name": "Jordan Harband",
+      "email": "ljharb@gmail.com",
+      "url": "https://github.com/ljharb/"
     }
   ]
 }

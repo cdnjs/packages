@@ -26,7 +26,9 @@
   },
   "authors": [
     {
-      "name": "Jerome Gravel-Niquet <jeromegn@gmail.com> (http://jgn.me)"
+      "name": "Jerome Gravel-Niquet",
+      "email": "jeromegn@gmail.com",
+      "url": "http://jgn.me"
     }
   ]
 }

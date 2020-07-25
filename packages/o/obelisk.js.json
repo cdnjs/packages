@@ -33,7 +33,9 @@
   },
   "authors": [
     {
-      "name": "Max Huang <risonhuang@gmail.com> (http://github.com/nosir)"
+      "name": "Max Huang",
+      "email": "risonhuang@gmail.com",
+      "url": "http://github.com/nosir"
     }
   ]
 }

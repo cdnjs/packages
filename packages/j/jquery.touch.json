@@ -25,7 +25,9 @@
   },
   "authors": [
     {
-      "name": "aj <@ajlkn> (https://aj.lkn.io/)"
+      "name": "aj",
+      "email": "@ajlkn",
+      "url": "https://aj.lkn.io/"
     }
   ]
 }

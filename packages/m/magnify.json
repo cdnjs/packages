@@ -36,7 +36,9 @@
   },
   "authors": [
     {
-      "name": "T. H. Doan <thdoan@gmail.com> (http://www.tohodo.com/)"
+      "name": "T. H. Doan",
+      "email": "thdoan@gmail.com",
+      "url": "http://www.tohodo.com/"
     }
   ]
 }

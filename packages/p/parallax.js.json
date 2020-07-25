@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Mike Greiling <mike@pixelcog.com> (http://pixelcog.com)"
+      "name": "Mike Greiling",
+      "email": "mike@pixelcog.com",
+      "url": "http://pixelcog.com"
     }
   ]
 }

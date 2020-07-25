@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Damien \"Mistic\" Sorel <contact@git.strangeplanet.fr> (https://www.strangeplanet.fr)"
+      "name": "Damien \"Mistic\" Sorel",
+      "email": "contact@git.strangeplanet.fr",
+      "url": "https://www.strangeplanet.fr"
     }
   ]
 }

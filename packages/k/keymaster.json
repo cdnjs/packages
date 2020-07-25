@@ -13,7 +13,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Thomas Fuchs <thomas@slash7.com> (http://mir.aculo.us)"
+      "name": "Thomas Fuchs",
+      "email": "thomas@slash7.com",
+      "url": "http://mir.aculo.us"
     }
   ]
 }

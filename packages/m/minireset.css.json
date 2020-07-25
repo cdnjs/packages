@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Jeremy Thomas <bbxdesign@gmail.com> (http://jgthms.com)"
+      "name": "Jeremy Thomas",
+      "email": "bbxdesign@gmail.com",
+      "url": "http://jgthms.com"
     }
   ]
 }

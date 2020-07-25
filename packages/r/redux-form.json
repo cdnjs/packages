@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "Erik Rasmussen <rasmussenerik@gmail.com> (http://github.com/erikras)"
+      "name": "Erik Rasmussen",
+      "email": "rasmussenerik@gmail.com",
+      "url": "http://github.com/erikras"
     }
   ]
 }

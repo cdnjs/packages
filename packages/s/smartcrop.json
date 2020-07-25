@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Jonas Wagner <jonas@29a.ch> (http://29a.ch/)"
+      "name": "Jonas Wagner",
+      "email": "jonas@29a.ch",
+      "url": "http://29a.ch/"
     }
   ]
 }

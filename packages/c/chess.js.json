@@ -24,7 +24,9 @@
   },
   "authors": [
     {
-      "name": "Jeff Hlywa <jhlywa@gmail.com> (https://github.com/jhlywa)"
+      "name": "Jeff Hlywa",
+      "email": "jhlywa@gmail.com",
+      "url": "https://github.com/jhlywa"
     }
   ]
 }

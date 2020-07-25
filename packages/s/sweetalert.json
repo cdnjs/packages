@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Tristan Edwards <tristan.edwards@me.com> (http://tristanedwards.me)"
+      "name": "Tristan Edwards",
+      "email": "tristan.edwards@me.com",
+      "url": "http://tristanedwards.me"
     }
   ]
 }

@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Ryan Niemeyer <rniemeyer@gmail.com> (http://knockmeout.net)"
+      "name": "Ryan Niemeyer",
+      "email": "rniemeyer@gmail.com",
+      "url": "http://knockmeout.net"
     }
   ]
 }

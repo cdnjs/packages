@@ -25,7 +25,9 @@
   },
   "authors": [
     {
-      "name": "Joseph Wynn <joseph@wildlyinaccurate.com> (https://wildlyinaccurate.com/)"
+      "name": "Joseph Wynn",
+      "email": "joseph@wildlyinaccurate.com",
+      "url": "https://wildlyinaccurate.com/"
     }
   ]
 }

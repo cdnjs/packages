@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)"
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com"
     }
   ]
 }

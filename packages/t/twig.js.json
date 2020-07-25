@@ -28,7 +28,9 @@
   "license": "BSD-2-Clause",
   "authors": [
     {
-      "name": "John Roepke <john@justjohn.us> (http://john.sh/)"
+      "name": "John Roepke",
+      "email": "john@justjohn.us",
+      "url": "http://john.sh/"
     }
   ]
 }

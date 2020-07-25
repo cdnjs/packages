@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "ZURB <foundation@zurb.com> (http://foundation.zurb.com)"
+      "name": "ZURB",
+      "email": "foundation@zurb.com",
+      "url": "http://foundation.zurb.com"
     }
   ]
 }

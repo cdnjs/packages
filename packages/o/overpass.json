@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Red Hat Brand Team <@RedHatBrand> (https://brand.redhat.com/)"
+      "name": "Red Hat Brand Team",
+      "email": "@RedHatBrand",
+      "url": "https://brand.redhat.com/"
     }
   ]
 }

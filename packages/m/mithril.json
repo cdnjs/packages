@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Leo Horie <leohorie@hotmail.com> (http://lhorie.blogspot.com/)"
+      "name": "Leo Horie",
+      "email": "leohorie@hotmail.com",
+      "url": "http://lhorie.blogspot.com/"
     }
   ]
 }

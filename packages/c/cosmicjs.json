@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Tony Spiro <tspiro@tonyspiro.com> (http://tonyspiro.com/)"
+      "name": "Tony Spiro",
+      "email": "tspiro@tonyspiro.com",
+      "url": "http://tonyspiro.com/"
     }
   ]
 }

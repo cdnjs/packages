@@ -23,7 +23,9 @@
   },
   "authors": [
     {
-      "name": "Isaac Wolkerstorfer <agnoster@gmail.com> (http://agnoster.net/)"
+      "name": "Isaac Wolkerstorfer",
+      "email": "agnoster@gmail.com",
+      "url": "http://agnoster.net/"
     }
   ]
 }

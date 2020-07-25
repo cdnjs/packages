@@ -29,7 +29,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Open Exchange Rates <info@openexchangerates.org> (https://www.openexchangerates.org)"
+      "name": "Open Exchange Rates",
+      "email": "info@openexchangerates.org",
+      "url": "https://www.openexchangerates.org"
     }
   ]
 }

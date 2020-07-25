@@ -13,7 +13,9 @@
   ],
   "authors": [
     {
-      "name": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)"
+      "name": "Fractal",
+      "email": "contact@wearefractal.com",
+      "url": "http://wearefractal.com/"
     }
   ]
 }

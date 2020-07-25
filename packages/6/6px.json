@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Dustin Higginbotham <dustin@6px.io> (https://6px.io)"
+      "name": "Dustin Higginbotham",
+      "email": "dustin@6px.io",
+      "url": "https://6px.io"
     }
   ]
 }

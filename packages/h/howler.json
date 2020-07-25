@@ -29,7 +29,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "James Simpson <james@goldfirestudios.com> (http://goldfirestudios.com)"
+      "name": "James Simpson",
+      "email": "james@goldfirestudios.com",
+      "url": "http://goldfirestudios.com"
     }
   ]
 }

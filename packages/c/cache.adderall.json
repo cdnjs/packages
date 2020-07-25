@@ -30,7 +30,9 @@
   "filename": "cache.adderall.js",
   "authors": [
     {
-      "name": "Tal Ater <tal@talater.com> (https://www.talater.com/)"
+      "name": "Tal Ater",
+      "email": "tal@talater.com",
+      "url": "https://www.talater.com/"
     }
   ]
 }

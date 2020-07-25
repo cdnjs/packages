@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "Keith Wood <wood.keith@optusnet.com.au> (http://keith-wood.name)"
+      "name": "Keith Wood",
+      "email": "wood.keith@optusnet.com.au",
+      "url": "http://keith-wood.name"
     }
   ]
 }

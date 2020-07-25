@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "Tanja Gomilar <tanja.gomilar@gmail.com> (https://github.com/tgomilar)"
+      "name": "Tanja Gomilar",
+      "email": "tanja.gomilar@gmail.com",
+      "url": "https://github.com/tgomilar"
     }
   ]
 }

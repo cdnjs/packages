@@ -33,7 +33,9 @@
   },
   "authors": [
     {
-      "name": "Evan Sharp <evan.sharp@availity.com> (https://github.com/TheSharpieOne)"
+      "name": "Evan Sharp",
+      "email": "evan.sharp@availity.com",
+      "url": "https://github.com/TheSharpieOne"
     }
   ]
 }

@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Kaspars Sprogis <darklow@gmail.com> (https://github.com/darklow)"
+      "name": "Kaspars Sprogis",
+      "email": "darklow@gmail.com",
+      "url": "https://github.com/darklow"
     }
   ]
 }

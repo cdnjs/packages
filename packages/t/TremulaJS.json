@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "Garris <@garris> (https://expanded.me/)"
+      "name": "Garris",
+      "email": "@garris",
+      "url": "https://expanded.me/"
     }
   ]
 }

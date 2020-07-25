@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Espen Hovlandsdal <rexxars@gmail.com> (https://espen.codes/)"
+      "name": "Espen Hovlandsdal",
+      "email": "rexxars@gmail.com",
+      "url": "https://espen.codes/"
     }
   ]
 }

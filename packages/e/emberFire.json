@@ -25,7 +25,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Firebase <support@firebase.com> (https://www.firebase.com/)"
+      "name": "Firebase",
+      "email": "support@firebase.com",
+      "url": "https://www.firebase.com/"
     }
   ]
 }

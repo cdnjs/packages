@@ -29,7 +29,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "James Florentino <jamesflorentino@gmail.com> (http://blog.jamesflorentino.com/)"
+      "name": "James Florentino",
+      "email": "jamesflorentino@gmail.com",
+      "url": "http://blog.jamesflorentino.com/"
     }
   ]
 }

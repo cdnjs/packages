@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Jamie Peabody <jamie.peabody@gmail.com> (http://mergely.com)"
+      "name": "Jamie Peabody",
+      "email": "jamie.peabody@gmail.com",
+      "url": "http://mergely.com"
     }
   ]
 }

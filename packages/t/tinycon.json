@@ -27,7 +27,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Tom Moor <tom.moor@gmail.com> (http://tommoor.com)"
+      "name": "Tom Moor",
+      "email": "tom.moor@gmail.com",
+      "url": "http://tommoor.com"
     }
   ]
 }

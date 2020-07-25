@@ -33,7 +33,9 @@
   },
   "authors": [
     {
-      "name": "Steve Kaliski <sjkaliski@gmail.com> (https://github.com/sjkaliski)"
+      "name": "Steve Kaliski",
+      "email": "sjkaliski@gmail.com",
+      "url": "https://github.com/sjkaliski"
     }
   ]
 }

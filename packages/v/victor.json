@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Max Kueng <me@maxkueng.com> (https://maxkueng.com/)"
+      "name": "Max Kueng",
+      "email": "me@maxkueng.com",
+      "url": "https://maxkueng.com/"
     }
   ]
 }

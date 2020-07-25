@@ -32,7 +32,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Afshin Mehrabani <afshin.meh@gmail.com> (http://afshinm.name/)"
+      "name": "Afshin Mehrabani",
+      "email": "afshin.meh@gmail.com",
+      "url": "http://afshinm.name/"
     }
   ]
 }

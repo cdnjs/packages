@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)"
+      "name": "Trent Oswald",
+      "email": "trentoswald@therebelrobot.com",
+      "url": "@therebelrobot"
     }
   ]
 }

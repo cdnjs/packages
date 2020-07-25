@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Justin Maier <just.maier@gmail.com> (http://justinmaier.com)"
+      "name": "Justin Maier",
+      "email": "just.maier@gmail.com",
+      "url": "http://justinmaier.com"
     }
   ]
 }

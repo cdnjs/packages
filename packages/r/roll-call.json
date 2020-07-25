@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)"
+      "name": "Mikeal Rogers",
+      "email": "mikeal.rogers@gmail.com",
+      "url": "http://www.mikealrogers.com"
     }
   ]
 }

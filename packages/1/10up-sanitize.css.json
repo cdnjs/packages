@@ -34,7 +34,9 @@
   },
   "authors": [
     {
-      "name": "Jonathan Neal <jonathantneal@hotmail.com> (https://jonneal.dev/)"
+      "name": "Jonathan Neal",
+      "email": "jonathantneal@hotmail.com",
+      "url": "https://jonneal.dev/"
     }
   ]
 }

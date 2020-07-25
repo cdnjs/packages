@@ -31,7 +31,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Matteo Spinelli <matteo@cubiq.org> (http://cubiq.org)"
+      "name": "Matteo Spinelli",
+      "email": "matteo@cubiq.org",
+      "url": "http://cubiq.org"
     }
   ]
 }

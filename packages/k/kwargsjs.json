@@ -34,7 +34,9 @@
   },
   "authors": [
     {
-      "name": "Serkan Yersen <serkanyersen@gmail.com> (http://serkan.io/)"
+      "name": "Serkan Yersen",
+      "email": "serkanyersen@gmail.com",
+      "url": "http://serkan.io/"
     }
   ]
 }

@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Luis Farzati <lfarzati@gmail.com> (https://github.com/luisfarzati)"
+      "name": "Luis Farzati",
+      "email": "lfarzati@gmail.com",
+      "url": "https://github.com/luisfarzati"
     }
   ]
 }

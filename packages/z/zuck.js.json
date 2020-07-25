@@ -37,7 +37,9 @@
   },
   "authors": [
     {
-      "name": "Ramon Souza <me@ramon.codes> (https://ramon.codes)"
+      "name": "Ramon Souza",
+      "email": "me@ramon.codes",
+      "url": "https://ramon.codes"
     }
   ]
 }

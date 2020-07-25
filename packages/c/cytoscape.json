@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Max Franz <maxkfranz@gmail.com> (https://maxfranz.com/)"
+      "name": "Max Franz",
+      "email": "maxkfranz@gmail.com",
+      "url": "https://maxfranz.com/"
     }
   ]
 }

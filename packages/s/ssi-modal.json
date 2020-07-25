@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Mike Antoniadis <ssbeefeater@gmail.com> (http://ssbeefeater.github.io/)"
+      "name": "Mike Antoniadis",
+      "email": "ssbeefeater@gmail.com",
+      "url": "http://ssbeefeater.github.io/"
     }
   ]
 }

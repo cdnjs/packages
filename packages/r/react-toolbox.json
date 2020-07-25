@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Javier Velasco Arjona <javier.velasco86@gmail.com> (http://javivelasco.com/)"
+      "name": "Javier Velasco Arjona",
+      "email": "javier.velasco86@gmail.com",
+      "url": "http://javivelasco.com/"
     }
   ]
 }

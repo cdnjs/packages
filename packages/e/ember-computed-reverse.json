@@ -25,7 +25,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Garth Poitras <garth22@gmail.com> (http://garthpoitras.com/)"
+      "name": "Garth Poitras",
+      "email": "garth22@gmail.com",
+      "url": "http://garthpoitras.com/"
     }
   ]
 }

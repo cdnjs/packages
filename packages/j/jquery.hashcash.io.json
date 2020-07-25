@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Pavel Karoukin <pavel@karoukin.us> (http://pavel.karoukin.us/)"
+      "name": "Pavel Karoukin",
+      "email": "pavel@karoukin.us",
+      "url": "http://pavel.karoukin.us/"
     }
   ]
 }

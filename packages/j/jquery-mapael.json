@@ -33,7 +33,9 @@
   },
   "authors": [
     {
-      "name": "Vincent Brouté <contact@vincentbroute.fr> (http://www.vincentbroute.fr/)"
+      "name": "Vincent Brouté",
+      "email": "contact@vincentbroute.fr",
+      "url": "http://www.vincentbroute.fr/"
     }
   ]
 }

@@ -14,7 +14,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Oscar Godson <oscargodson@gmail.com> (http://oscargodson.com)"
+      "name": "Oscar Godson",
+      "email": "oscargodson@gmail.com",
+      "url": "http://oscargodson.com"
     }
   ]
 }

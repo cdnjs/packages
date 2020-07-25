@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "Rodney Rehm <rodney.rehm@medialize.de> (http://rodneyrehm.de/en/)"
+      "name": "Rodney Rehm",
+      "email": "rodney.rehm@medialize.de",
+      "url": "http://rodneyrehm.de/en/"
     }
   ]
 }

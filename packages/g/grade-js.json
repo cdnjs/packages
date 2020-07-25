@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Ben Howdle <hello@benhowdle.im> (http://benhowdle.im/)"
+      "name": "Ben Howdle",
+      "email": "hello@benhowdle.im",
+      "url": "http://benhowdle.im/"
     }
   ]
 }

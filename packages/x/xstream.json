@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Andre Staltz <andre+npm@staltz.com> (http://andre.staltz.com/)"
+      "name": "Andre Staltz",
+      "email": "andre+npm@staltz.com",
+      "url": "http://andre.staltz.com/"
     }
   ]
 }

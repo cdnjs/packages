@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Paul Vorbach <paul@vorba.ch> (http://paul.vorba.ch/)"
+      "name": "Paul Vorbach",
+      "email": "paul@vorba.ch",
+      "url": "http://paul.vorba.ch/"
     }
   ]
 }

@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Alex Castillo <alex@castillo.io> (http://castillo.io)"
+      "name": "Alex Castillo",
+      "email": "alex@castillo.io",
+      "url": "http://castillo.io"
     }
   ]
 }

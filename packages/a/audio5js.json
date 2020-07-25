@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Zohar Arad <zohar@zohararad.com> (http://zohararad.com)"
+      "name": "Zohar Arad",
+      "email": "zohar@zohararad.com",
+      "url": "http://zohararad.com"
     }
   ]
 }

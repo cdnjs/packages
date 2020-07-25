@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Travis Arnold <ftntravis@gmail.com> (http://travisrayarnold.com)"
+      "name": "Travis Arnold",
+      "email": "ftntravis@gmail.com",
+      "url": "http://travisrayarnold.com"
     }
   ]
 }

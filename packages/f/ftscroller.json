@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "FT Labs <enquiries@labs.ft.com> (http://labs.ft.com/)"
+      "name": "FT Labs",
+      "email": "enquiries@labs.ft.com",
+      "url": "http://labs.ft.com/"
     }
   ]
 }

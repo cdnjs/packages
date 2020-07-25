@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Jan Mühlemann <jan.muehlemann@gmail.com> (https://github.com/jamuhl)"
+      "name": "Jan Mühlemann",
+      "email": "jan.muehlemann@gmail.com",
+      "url": "https://github.com/jamuhl"
     }
   ]
 }

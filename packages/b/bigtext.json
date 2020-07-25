@@ -26,7 +26,9 @@
   },
   "authors": [
     {
-      "name": "Zach Leatherman <zachleatherman@gmail.com> (http://zachleat.com)"
+      "name": "Zach Leatherman",
+      "email": "zachleatherman@gmail.com",
+      "url": "http://zachleat.com"
     }
   ]
 }

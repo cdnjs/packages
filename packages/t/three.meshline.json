@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Jaume Sanchez <the.spite@gmail.com> (https://www.clicktorelease.com)"
+      "name": "Jaume Sanchez",
+      "email": "the.spite@gmail.com",
+      "url": "https://www.clicktorelease.com"
     }
   ]
 }

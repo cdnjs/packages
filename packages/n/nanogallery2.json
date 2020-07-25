@@ -25,7 +25,9 @@
   },
   "authors": [
     {
-      "name": "Christophe Brisbois <chr@brisbois.fr> (https://brisbois.fr)"
+      "name": "Christophe Brisbois",
+      "email": "chr@brisbois.fr",
+      "url": "https://brisbois.fr"
     }
   ]
 }

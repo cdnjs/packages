@@ -36,7 +36,9 @@
   },
   "authors": [
     {
-      "name": "Chupurnov <chupurnov@gmail.com> (http://xdsoft.net/)"
+      "name": "Chupurnov",
+      "email": "chupurnov@gmail.com",
+      "url": "http://xdsoft.net/"
     }
   ]
 }

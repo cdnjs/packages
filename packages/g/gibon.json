@@ -39,7 +39,9 @@
   },
   "authors": [
     {
-      "name": "Charlike Mike Reagent <@tunnckoCore> (https://i.am.charlike.online)"
+      "name": "Charlike Mike Reagent",
+      "email": "@tunnckoCore",
+      "url": "https://i.am.charlike.online"
     }
   ]
 }

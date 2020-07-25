@@ -23,7 +23,9 @@
   },
   "authors": [
     {
-      "name": "Dan Abramov <dan.abramov@me.com> (http://github.com/gaearon)"
+      "name": "Dan Abramov",
+      "email": "dan.abramov@me.com",
+      "url": "http://github.com/gaearon"
     }
   ]
 }

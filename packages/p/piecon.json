@@ -28,7 +28,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Lukas Lipka <lukaslipka@gmail.com> (http://lukaslipka.com)"
+      "name": "Lukas Lipka",
+      "email": "lukaslipka@gmail.com",
+      "url": "http://lukaslipka.com"
     }
   ]
 }

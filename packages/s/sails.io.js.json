@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "Mike McNeil <@mikermcneil> (http://balderdash.co/)"
+      "name": "Mike McNeil",
+      "email": "@mikermcneil",
+      "url": "http://balderdash.co/"
     }
   ]
 }

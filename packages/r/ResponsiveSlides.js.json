@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Viljami Salminen <@viljamis> (https://viljamis.com/)"
+      "name": "Viljami Salminen",
+      "email": "@viljamis",
+      "url": "https://viljamis.com/"
     }
   ]
 }

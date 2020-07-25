@@ -16,7 +16,9 @@
   },
   "authors": [
     {
-      "name": "James Coglan <jcoglan@gmail.com> (http://jcoglan.com/)"
+      "name": "James Coglan",
+      "email": "jcoglan@gmail.com",
+      "url": "http://jcoglan.com/"
     }
   ]
 }

@@ -34,7 +34,9 @@
   },
   "authors": [
     {
-      "name": "Richard Davey <rdavey@gmail.com> (http://www.photonstorm.com)"
+      "name": "Richard Davey",
+      "email": "rdavey@gmail.com",
+      "url": "http://www.photonstorm.com"
     }
   ]
 }

@@ -28,7 +28,9 @@
   },
   "authors": [
     {
-      "name": "Rohit Rai <rohitkrai03@gmail.com> (http://arkpod.in/)"
+      "name": "Rohit Rai",
+      "email": "rohitkrai03@gmail.com",
+      "url": "http://arkpod.in/"
     }
   ]
 }

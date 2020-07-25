@@ -26,7 +26,9 @@
   },
   "authors": [
     {
-      "name": "Allen Royston <allen.acr@gmail.com> (httphttps://allenroyston.herokuapp.com/#/home/)"
+      "name": "Allen Royston",
+      "email": "allen.acr@gmail.com",
+      "url": "httphttps://allenroyston.herokuapp.com/#/home/"
     }
   ]
 }

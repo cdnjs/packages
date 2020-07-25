@@ -33,7 +33,9 @@
   },
   "authors": [
     {
-      "name": "Ashish <@thinker3197> (https://thinker3197.github.io/)"
+      "name": "Ashish",
+      "email": "@thinker3197",
+      "url": "https://thinker3197.github.io/"
     }
   ]
 }

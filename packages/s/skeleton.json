@@ -28,7 +28,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Dave Gamache <hello@davegamache.com> (http://davegamache.com/)"
+      "name": "Dave Gamache",
+      "email": "hello@davegamache.com",
+      "url": "http://davegamache.com/"
     }
   ]
 }

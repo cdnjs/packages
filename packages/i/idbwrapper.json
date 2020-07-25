@@ -26,7 +26,9 @@
   },
   "authors": [
     {
-      "name": "jensarps <mail@jensarps.de> (http://jensarps.de/)"
+      "name": "jensarps",
+      "email": "mail@jensarps.de",
+      "url": "http://jensarps.de/"
     }
   ]
 }

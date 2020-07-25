@@ -35,7 +35,9 @@
   },
   "authors": [
     {
-      "name": "Daniel Box <daniel@kurtnoble.com> (https://github.com/kni-labs)"
+      "name": "Daniel Box",
+      "email": "daniel@kurtnoble.com",
+      "url": "https://github.com/kni-labs"
     }
   ]
 }

@@ -26,7 +26,9 @@
   },
   "authors": [
     {
-      "name": "Tyler Pearson <ty.pearson@gmail.com> (http://tylerp.me)"
+      "name": "Tyler Pearson",
+      "email": "ty.pearson@gmail.com",
+      "url": "http://tylerp.me"
     }
   ]
 }

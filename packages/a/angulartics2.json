@@ -42,7 +42,9 @@
   },
   "authors": [
     {
-      "name": "João Ribeiro <jonnybgod@gmail.com> (http://github.com/JonnyBGod)"
+      "name": "João Ribeiro",
+      "email": "jonnybgod@gmail.com",
+      "url": "http://github.com/JonnyBGod"
     }
   ]
 }

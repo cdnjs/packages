@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "James Warwood <warwood.aj@gmail.com> (https://github.com/jwarby)"
+      "name": "James Warwood",
+      "email": "warwood.aj@gmail.com",
+      "url": "https://github.com/jwarby"
     }
   ]
 }

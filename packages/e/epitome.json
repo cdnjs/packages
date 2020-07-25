@@ -16,7 +16,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Dimitar Christoff <christoff@gmail.com> (https://twitter.com/D_mitar)"
+      "name": "Dimitar Christoff",
+      "email": "christoff@gmail.com",
+      "url": "https://twitter.com/D_mitar"
     }
   ]
 }

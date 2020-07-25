@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "Eddy Hernandez <edward.d.hernandez@gmail.com> (https://github.com/eddywashere)"
+      "name": "Eddy Hernandez",
+      "email": "edward.d.hernandez@gmail.com",
+      "url": "https://github.com/eddywashere"
     }
   ]
 }

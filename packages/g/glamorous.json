@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)"
+      "name": "Kent C. Dodds",
+      "email": "kent@doddsfamily.us",
+      "url": "http://kentcdodds.com/"
     }
   ]
 }

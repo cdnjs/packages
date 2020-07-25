@@ -39,7 +39,9 @@
   },
   "authors": [
     {
-      "name": "Federico Brigante <github@bfred.it> (bfred.it)"
+      "name": "Federico Brigante",
+      "email": "github@bfred.it",
+      "url": "bfred.it"
     }
   ]
 }

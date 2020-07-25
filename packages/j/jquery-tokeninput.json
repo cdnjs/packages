@@ -35,7 +35,9 @@
   },
   "authors": [
     {
-      "name": "James Smith <james@loopj.com> (https://loopj.com)"
+      "name": "James Smith",
+      "email": "james@loopj.com",
+      "url": "https://loopj.com"
     }
   ]
 }

@@ -26,7 +26,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "wenzhixin <wenzhixin2010@gmail.com> (http://wenzhixin.net.cn/)"
+      "name": "wenzhixin",
+      "email": "wenzhixin2010@gmail.com",
+      "url": "http://wenzhixin.net.cn/"
     }
   ]
 }

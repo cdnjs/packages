@@ -47,7 +47,9 @@
   },
   "authors": [
     {
-      "name": "Manuk Minasyan <manuk.minasyan1@gmail.com> (https://github.com/ManukMinasyan)"
+      "name": "Manuk Minasyan",
+      "email": "manuk.minasyan1@gmail.com",
+      "url": "https://github.com/ManukMinasyan"
     }
   ]
 }

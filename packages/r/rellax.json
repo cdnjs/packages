@@ -26,7 +26,9 @@
   },
   "authors": [
     {
-      "name": "Moe Amaya <moe@dixonandmoe.com> (https://dixonandmoe.com)"
+      "name": "Moe Amaya",
+      "email": "moe@dixonandmoe.com",
+      "url": "https://dixonandmoe.com"
     }
   ]
 }

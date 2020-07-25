@@ -35,7 +35,9 @@
   },
   "authors": [
     {
-      "name": "hashids.org <npm@invent.life> (https://github.com/hashids)"
+      "name": "hashids.org",
+      "email": "npm@invent.life",
+      "url": "https://github.com/hashids"
     }
   ]
 }

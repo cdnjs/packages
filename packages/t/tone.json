@@ -33,7 +33,9 @@
   },
   "authors": [
     {
-      "name": "Yotam Mann <yotammann@gmail.com> (http://yotammann.info/)"
+      "name": "Yotam Mann",
+      "email": "yotammann@gmail.com",
+      "url": "http://yotammann.info/"
     }
   ]
 }

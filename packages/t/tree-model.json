@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "João Nuno Silva <jnss81@gmail.com> (http://jnuno.com)"
+      "name": "João Nuno Silva",
+      "email": "jnss81@gmail.com",
+      "url": "http://jnuno.com"
     }
   ]
 }

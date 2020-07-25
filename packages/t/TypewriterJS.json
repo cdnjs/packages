@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Tameem Safi <@tameemsafi> (https://safi.me.uk/)"
+      "name": "Tameem Safi",
+      "email": "@tameemsafi",
+      "url": "https://safi.me.uk/"
     }
   ]
 }

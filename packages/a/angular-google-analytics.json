@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "Julien Bouquillon <julien@revolunet.com> (https://github.com/revolunet)"
+      "name": "Julien Bouquillon",
+      "email": "julien@revolunet.com",
+      "url": "https://github.com/revolunet"
     }
   ]
 }

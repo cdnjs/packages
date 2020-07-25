@@ -31,7 +31,9 @@
   },
   "authors": [
     {
-      "name": "Caio Gondim <me@caiogondim.com> (https://caiogondim.com)"
+      "name": "Caio Gondim",
+      "email": "me@caiogondim.com",
+      "url": "https://caiogondim.com"
     }
   ]
 }

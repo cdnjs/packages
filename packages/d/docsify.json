@@ -29,7 +29,9 @@
   },
   "authors": [
     {
-      "name": "qingwei-li <cinwell.li@gmail.com> (https://github.com/QingWei-Li)"
+      "name": "qingwei-li",
+      "email": "cinwell.li@gmail.com",
+      "url": "https://github.com/QingWei-Li"
     }
   ]
 }

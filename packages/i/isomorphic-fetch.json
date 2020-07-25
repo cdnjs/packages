@@ -27,7 +27,9 @@
   },
   "authors": [
     {
-      "name": "Matt Andrews <matt@mattandre.ws> (http://mattandre.ws/)"
+      "name": "Matt Andrews",
+      "email": "matt@mattandre.ws",
+      "url": "http://mattandre.ws/"
     }
   ]
 }

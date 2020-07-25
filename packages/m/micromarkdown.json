@@ -30,7 +30,9 @@
   },
   "authors": [
     {
-      "name": "Simon Waldherr <contact@simonwaldherr.de> (http://simon.waldherr.eu/)"
+      "name": "Simon Waldherr",
+      "email": "contact@simonwaldherr.de",
+      "url": "http://simon.waldherr.eu/"
     }
   ]
 }

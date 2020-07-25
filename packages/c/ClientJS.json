@@ -36,7 +36,9 @@
   },
   "authors": [
     {
-      "name": "Jack Spirou <jack@spirou.io> (https://twitter.com/jack_spirou)"
+      "name": "Jack Spirou",
+      "email": "jack@spirou.io",
+      "url": "https://twitter.com/jack_spirou"
     }
   ]
 }

@@ -27,7 +27,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Gianluca Guarini <gianluca.guarini@gmail.com> (http://gianlucaguarini.com/)"
+      "name": "Gianluca Guarini",
+      "email": "gianluca.guarini@gmail.com",
+      "url": "http://gianlucaguarini.com/"
     }
   ]
 }

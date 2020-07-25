@@ -33,7 +33,9 @@
   },
   "authors": [
     {
-      "name": "NHN Ent. FE Development Lab <dl_javascript@nhnent.com> (https://nhnent.github.io/tui.editor/)"
+      "name": "NHN Ent. FE Development Lab",
+      "email": "dl_javascript@nhnent.com",
+      "url": "https://nhnent.github.io/tui.editor/"
     }
   ]
 }

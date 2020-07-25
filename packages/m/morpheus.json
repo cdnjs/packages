@@ -35,7 +35,9 @@
   },
   "authors": [
     {
-      "name": "Dustin Diaz <polvero@gmail.com> (http://dustindiaz.com)"
+      "name": "Dustin Diaz",
+      "email": "polvero@gmail.com",
+      "url": "http://dustindiaz.com"
     }
   ]
 }
