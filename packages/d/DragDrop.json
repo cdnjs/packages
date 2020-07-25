@@ -6,10 +6,6 @@
     "type": "git",
     "url": "https://github.com/kbjr/DragDrop.git"
   },
-  "licenses": [
-    "MIT",
-    "GPL-3.0"
-  ],
   "homepage": "https://kbjr.github.io/DragDrop/index.html",
   "keywords": [
     "drag",
@@ -32,5 +28,6 @@
     {
       "name": "James Brumond"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-3.0)"
 }

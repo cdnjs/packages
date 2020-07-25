@@ -11,10 +11,6 @@
     "device",
     "cpu"
   ],
-  "licenses": [
-    "GPL-2.0",
-    "MIT"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/faisalman/ua-parser-js.git"
@@ -37,5 +33,6 @@
       "email": "fyzlman@gmail.com",
       "url": "http://faisalman.com"
     }
-  ]
+  ],
+  "license": "(GPL-2.0 OR MIT)"
 }

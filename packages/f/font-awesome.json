@@ -16,11 +16,6 @@
     "type": "git",
     "url": "git://github.com/FortAwesome/Font-Awesome.git"
   },
-  "licenses": [
-    "OFL-1.1",
-    "MIT",
-    "CC-BY-4.0"
-  ],
   "autoupdate": {
     "source": "npm",
     "target": "@fortawesome/fontawesome-free",
@@ -39,5 +34,6 @@
       "email": "dave@fontawesome.io",
       "url": "https://twitter.com/davegandy"
     }
-  ]
+  ],
+  "license": "(OFL-1.1 OR MIT OR CC-BY-4.0)"
 }

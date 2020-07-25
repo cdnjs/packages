@@ -13,10 +13,6 @@
     "IE",
     "Internet Explorer"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-3.0"
-  ],
   "homepage": "https://stuk.github.io/jszip-utils",
   "autoupdate": {
     "source": "npm",
@@ -35,5 +31,6 @@
       "name": "Stuart Knightley",
       "email": "stuart@stuartk.com"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-3.0)"
 }

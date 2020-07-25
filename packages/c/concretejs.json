@@ -6,10 +6,6 @@
     "type": "git",
     "url": "git://github.com/ericdrowell/concrete.git"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "keywords": [
     "concrete",
     "html5",
@@ -36,5 +32,6 @@
       "name": "Eric Rowell",
       "url": "https://twitter.com/ericdrowell"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0)"
 }

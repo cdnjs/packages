@@ -28,15 +28,12 @@
     "type": "git",
     "url": "git://github.com/pupunzi/jquery.mb.YTPlayer.git"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "authors": [
     {
       "name": "Pupunzi (Matteo Bicocchi)",
       "email": "matteo@open-lab.com",
       "url": "http://pupunzi.com"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0)"
 }

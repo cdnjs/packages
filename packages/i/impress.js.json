@@ -11,14 +11,11 @@
     "type": "git",
     "url": "https://github.com/impress/impress.js.git"
   },
-  "licenses": [
-    "MIT",
-    "deprecated_GPL-2.0+"
-  ],
   "authors": [
     {
       "name": "Bartek Szopka",
       "url": "http://bartaz.github.com"
     }
-  ]
+  ],
+  "license": "(MIT OR deprecated_GPL-2.0+)"
 }

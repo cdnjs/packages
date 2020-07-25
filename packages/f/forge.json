@@ -6,10 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/digitalbazaar/forge.git"
   },
-  "licenses": [
-    "BSD-3-Clause",
-    "GPL-2.0"
-  ],
   "keywords": [
     "aes",
     "asn",
@@ -57,5 +53,6 @@
       "email": "support@digitalbazaar.com",
       "url": "http://digitalbazaar.com/"
     }
-  ]
+  ],
+  "license": "(BSD-3-Clause OR GPL-2.0)"
 }

@@ -19,10 +19,6 @@
       }
     ]
   },
-  "licenses": [
-    "MIT",
-    "GPL"
-  ],
   "keywords": [
     "timepicker",
     "time",
@@ -38,5 +34,6 @@
       "email": "wvega@wvega.com",
       "url": "http://wvega.com"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL)"
 }

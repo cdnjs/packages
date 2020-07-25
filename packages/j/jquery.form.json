@@ -18,10 +18,6 @@
     "type": "git",
     "url": "https://github.com/jquery-form/form.git"
   },
-  "licenses": [
-    "MIT",
-    "LGPL-2.1"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jquery-form/form.git",
@@ -44,5 +40,6 @@
     {
       "name": "Kevin Morris"
     }
-  ]
+  ],
+  "license": "(MIT OR LGPL-2.1)"
 }

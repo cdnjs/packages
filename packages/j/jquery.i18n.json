@@ -27,14 +27,11 @@
       }
     ]
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "authors": [
     {
       "name": "Santhosh Thottingal",
       "email": "santhosh.thottingal@gmail.com"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0)"
 }

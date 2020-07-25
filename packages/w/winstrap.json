@@ -2,10 +2,6 @@
   "name": "winstrap",
   "filename": "css/winstrap.min.css",
   "description": "Winstrap is the official Bootstrap theme for Microsoft design language.",
-  "licenses": [
-    "MIT",
-    "OFL-1.1"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/winjs/winstrap.git"
@@ -33,5 +29,6 @@
     {
       "name": "Microsoft"
     }
-  ]
+  ],
+  "license": "(MIT OR OFL-1.1)"
 }

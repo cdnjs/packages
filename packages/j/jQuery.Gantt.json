@@ -11,10 +11,6 @@
     "gantt",
     "chart"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "homepage": "http://mbielanczuk.com/jquery-gantt/",
   "autoupdate": {
     "source": "git",
@@ -35,5 +31,6 @@
       "name": "Marek Bielańczuk",
       "url": "https://github.com/mbielanczuk"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0)"
 }

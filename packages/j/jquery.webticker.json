@@ -36,18 +36,12 @@
     ]
   },
   "homepage": "https://maze.digital/webticker/",
-  "licenses": [
-    "GPL-3.0",
-    {
-      "type": "Commercial License",
-      "url": "https://maze.digital/webticker/license/#commercial"
-    }
-  ],
   "authors": [
     {
       "name": "Jonathan Mifsud",
       "email": "jon@maze.digital",
       "url": "https://maze.digital"
     }
-  ]
+  ],
+  "license": "(GPL-3.0 OR Commercial License)"
 }

@@ -11,10 +11,6 @@
     "library",
     "icons"
   ],
-  "licenses": [
-    "MIT",
-    "CC-BY-4.0"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/cc-icons/cc-icons.git"
@@ -43,5 +39,6 @@
       "email": "richard at gmail dot com",
       "url": "http://twitter.com/richardba"
     }
-  ]
+  ],
+  "license": "(MIT OR CC-BY-4.0)"
 }

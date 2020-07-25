@@ -25,13 +25,10 @@
       }
     ]
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "authors": [
     {
       "name": "Vasil Dinkov"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0)"
 }

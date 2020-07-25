@@ -11,10 +11,6 @@
     "type": "git",
     "url": "https://github.com/gdsmith/jquery.easing"
   },
-  "licenses": [
-    "MIT",
-    "BSD-3-Clause"
-  ],
   "autoupdate": {
     "source": "npm",
     "target": "jquery.easing",
@@ -33,5 +29,6 @@
       "email": "george@gsgd.co.uk",
       "url": "http://gsgd.co.uk/"
     }
-  ]
+  ],
+  "license": "(MIT OR BSD-3-Clause)"
 }

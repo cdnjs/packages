@@ -12,15 +12,12 @@
     "type": "git",
     "url": "https://github.com/artlogicmedia/spritely.git"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "authors": [
     {
       "name": "Artlogic Media Ltd.",
       "email": "team@spritely.net",
       "url": "http://www.artlogic.net"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0)"
 }

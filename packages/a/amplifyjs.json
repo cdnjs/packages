@@ -24,14 +24,11 @@
     "type": "git",
     "url": "https://github.com/mikehostetler/amplify"
   },
-  "licenses": [
-    "MIT",
-    "GPL"
-  ],
   "authors": [
     {
       "name": "appendTo",
       "url": "http://appendto.com/"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL)"
 }

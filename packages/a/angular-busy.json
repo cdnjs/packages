@@ -26,13 +26,11 @@
       }
     ]
   },
-  "license": {
-    "url": "https://github.com/cgross/angular-busy/blob/master/LICENSE"
-  },
   "authors": [
     {
       "name": "Chris Gross",
       "email": "schtoo@schtoo.com"
     }
-  ]
+  ],
+  "license": "MIT"
 }

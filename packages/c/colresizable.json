@@ -33,13 +33,10 @@
       }
     ]
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "authors": [
     {
       "name": "Alvaro Prieto Lauroba"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0)"
 }

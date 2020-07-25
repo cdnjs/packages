@@ -14,10 +14,6 @@
     "autocomplete",
     "jquery"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-3.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/dennyferra/TypeWatch.git",
@@ -35,5 +31,6 @@
       "name": "Denny Ferrassoli",
       "url": "https://github.com/dennyferra"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-3.0)"
 }

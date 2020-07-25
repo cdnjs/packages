@@ -6,10 +6,6 @@
     "type": "git",
     "url": "git://github.com/filamentgroup/shoestring.git"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "keywords": [
     "lightweight",
     "DOM-ready",
@@ -34,5 +30,6 @@
       "email": "thegroup@filamentgroup.com",
       "url": "filamentgroup.com"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0)"
 }

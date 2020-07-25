@@ -2,10 +2,6 @@
   "name": "sjcl",
   "filename": "sjcl.min.js",
   "description": "Stanford Javascript Crypto Library",
-  "licenses": [
-    "GPL-2.0",
-    "BSD-2-Clause"
-  ],
   "keywords": [
     "encryption",
     "high-level",
@@ -31,5 +27,6 @@
     {
       "name": "bitwiseshiftleft"
     }
-  ]
+  ],
+  "license": "(GPL-2.0 OR BSD-2-Clause)"
 }

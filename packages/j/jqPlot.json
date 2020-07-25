@@ -11,11 +11,6 @@
     "plotting",
     "graphing"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-2.0",
-    "CC-BY-3.0"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/jqPlot/jqPlot/"
@@ -25,5 +20,6 @@
       "name": "Chris Leonello",
       "email": "chris@jqplot.com"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0 OR CC-BY-3.0)"
 }

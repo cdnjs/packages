@@ -25,14 +25,11 @@
     "type": "git",
     "url": "https://github.com/Stuk/jszip"
   },
-  "licenses": [
-    "MIT",
-    "GPL-3.0"
-  ],
   "authors": [
     {
       "name": "Stuart Knightley",
       "email": "stuart@stuartk.com"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-3.0)"
 }

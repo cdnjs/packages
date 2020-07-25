@@ -9,18 +9,5 @@
     "desktop",
     "popular"
   ],
-  "licenses": [
-    {
-      "type": "GNU General Public License Version 3",
-      "url": "http://www.gnu.org/licenses/gpl.html"
-    },
-    {
-      "type": "Open Source License Exception for Applications",
-      "url": "http://www.sencha.com/products/floss-exception.php"
-    },
-    {
-      "type": "Open Source License Exception for Development",
-      "url": "http://www.sencha.com/products/ux-exception.php"
-    }
-  ]
+  "license": "(GNU General Public License Version 3 OR Open Source License Exception for Applications OR Open Source License Exception for Development)"
 }

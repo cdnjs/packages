@@ -20,11 +20,6 @@
     "type": "git",
     "url": "https://github.com/iskitz/ajile.git"
   },
-  "licenses": [
-    "MPL-1.1",
-    "LGPL-2.1",
-    "GPL-2.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/iskitz/ajile.git",
@@ -44,5 +39,6 @@
       "name": "Michael Lee",
       "url": "http://twitter.com/iskitz"
     }
-  ]
+  ],
+  "license": "(MPL-1.1 OR LGPL-2.1 OR GPL-2.0)"
 }

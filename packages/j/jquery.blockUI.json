@@ -9,10 +9,6 @@
     "dialog",
     "modal"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/malsup/blockui"
@@ -34,5 +30,6 @@
       "name": "M. Alsup",
       "url": "http://jquery.malsup.com"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0)"
 }

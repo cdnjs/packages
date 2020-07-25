@@ -27,15 +27,12 @@
     "type": "git",
     "url": "git://github.com/jpswalsh/academicons.git"
   },
-  "licenses": [
-    "OFL-1.1",
-    "MIT"
-  ],
   "authors": [
     {
       "name": "James Walsh",
       "email": "james.walsh@northwestern.edu",
       "url": "http://jpswalsh.com/"
     }
-  ]
+  ],
+  "license": "(OFL-1.1 OR MIT)"
 }

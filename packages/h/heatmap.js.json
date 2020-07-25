@@ -12,10 +12,6 @@
     "googlemaps",
     "leaflet"
   ],
-  "licenses": [
-    "MIT",
-    "Beerware"
-  ],
   "autoupdate": {
     "source": "npm",
     "target": "heatmap.js",
@@ -32,5 +28,6 @@
     {
       "name": "Patrick Wied"
     }
-  ]
+  ],
+  "license": "(MIT OR Beerware)"
 }

@@ -23,13 +23,10 @@
     "type": "git",
     "url": "git://github.com/briceburg/jqModal.git"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "authors": [
     {
       "name": "Brice Burgess"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0)"
 }

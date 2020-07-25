@@ -10,10 +10,6 @@
     "type": "git",
     "url": "https://github.com/RobLoach/jquery-once.git"
   },
-  "licenses": [
-    "GPL-2.0",
-    "MIT"
-  ],
   "autoupdate": {
     "source": "npm",
     "target": "jquery-once",
@@ -33,5 +29,6 @@
       "name": "Rob Loach",
       "url": "https://github.com/RobLoach"
     }
-  ]
+  ],
+  "license": "(GPL-2.0 OR MIT)"
 }

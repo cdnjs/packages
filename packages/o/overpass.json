@@ -11,10 +11,6 @@
     "type": "git",
     "url": "https://github.com/RedHatBrand/Overpass"
   },
-  "licenses": [
-    "LGPL-2.1",
-    "OFL-1.1"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/RedHatBrand/Overpass.git",
@@ -33,5 +29,6 @@
       "email": "@RedHatBrand",
       "url": "https://brand.redhat.com/"
     }
-  ]
+  ],
+  "license": "(LGPL-2.1 OR OFL-1.1)"
 }

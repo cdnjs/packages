@@ -19,10 +19,6 @@
     "filter",
     "purify"
   ],
-  "licenses": [
-    "MPL-2.0",
-    "Apache-2.0"
-  ],
   "homepage": "https://cure53.de/purify",
   "autoupdate": {
     "source": "git",
@@ -42,5 +38,6 @@
       "email": "mario@cure53.de",
       "url": "https://cure53.de/"
     }
-  ]
+  ],
+  "license": "(MPL-2.0 OR Apache-2.0)"
 }

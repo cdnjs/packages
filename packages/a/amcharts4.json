@@ -7,10 +7,7 @@
     "javascript",
     "charts"
   ],
-  "license": {
-    "name": "Free and commercial",
-    "url": "https://github.com/amcharts/amcharts4/blob/master/dist/script/LICENSE"
-  },
+  "license": "Free and commercial",
   "name": "amcharts4",
   "repository": {
     "type": "git",

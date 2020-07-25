@@ -12,10 +12,6 @@
     "polyfill",
     "websql"
   ],
-  "licenses": [
-    "Apache-2.0",
-    "MIT"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/axemclion/IndexedDBShim.git",
@@ -33,5 +29,6 @@
       "name": "Parashuram",
       "email": "code@nparashuram.com"
     }
-  ]
+  ],
+  "license": "(Apache-2.0 OR MIT)"
 }

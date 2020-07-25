@@ -16,10 +16,6 @@
     "type": "git",
     "url": "https://github.com/jsplumb/jsPlumb.git"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "autoupdate": {
     "source": "npm",
     "target": "jsplumb",
@@ -42,5 +38,6 @@
     {
       "name": "Simon Porritt"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0)"
 }

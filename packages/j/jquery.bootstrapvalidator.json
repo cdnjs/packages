@@ -27,15 +27,12 @@
     "type": "git",
     "url": "https://github.com/nghuuphuoc/bootstrapvalidator.git"
   },
-  "license": {
-    "type": "customized",
-    "url": "http://bootstrapvalidator.com/license/"
-  },
   "authors": [
     {
       "name": "Nguyen Huu Phuoc",
       "email": "phuoc@huuphuoc.me",
       "url": "https://twitter.com/nghuuphuoc"
     }
-  ]
+  ],
+  "license": "customized"
 }

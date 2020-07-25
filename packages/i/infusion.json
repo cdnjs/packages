@@ -3,10 +3,6 @@
   "description": "Infusion is an application framework for developing flexible stuff with JavaScript",
   "filename": "infusion-all.min.js",
   "homepage": "http://www.fluidproject.org/",
-  "licenses": [
-    "BSD-3-Clause",
-    "ECL-2.0"
-  ],
   "keywords": [
     "infusion",
     "framework",
@@ -37,5 +33,6 @@
     {
       "name": "Fluid Project"
     }
-  ]
+  ],
+  "license": "(BSD-3-Clause OR ECL-2.0)"
 }

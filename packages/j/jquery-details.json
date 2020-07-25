@@ -13,10 +13,6 @@
     "type": "git",
     "url": "https://github.com/mathiasbynens/jquery-details.git"
   },
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mathiasbynens/jquery-details.git",
@@ -34,5 +30,6 @@
       "name": "Mathias Bynens",
       "url": "https://mathiasbynens.be/"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0)"
 }

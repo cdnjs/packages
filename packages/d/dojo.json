@@ -9,10 +9,6 @@
     "dojo",
     "JavaScript"
   ],
-  "licenses": [
-    "AFL-2.1",
-    "BSD"
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/dojo/dojo.git"
@@ -29,5 +25,6 @@
         ]
       }
     ]
-  }
+  },
+  "license": "(AFL-2.1 OR BSD)"
 }

@@ -6,10 +6,6 @@
     "type": "git",
     "url": "https://github.com/timseverien/taggd.git"
   },
-  "licenses": [
-    "MIT",
-    "WTFPL"
-  ],
   "homepage": "https://timseverien.github.io/taggd/",
   "keywords": [
     "jQuery",
@@ -34,5 +30,6 @@
       "email": "timseverien@gmail.com",
       "url": "https://timseverien.com"
     }
-  ]
+  ],
+  "license": "(MIT OR WTFPL)"
 }

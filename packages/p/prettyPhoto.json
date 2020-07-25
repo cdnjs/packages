@@ -10,10 +10,6 @@
     "YouTube",
     "iFrame"
   ],
-  "licenses": [
-    "CC-BY-2.5",
-    "GPL-2.0"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/scaron/prettyphoto"
@@ -37,5 +33,6 @@
       "name": "Stephane Caron",
       "email": "caronstephane1@gmail.com"
     }
-  ]
+  ],
+  "license": "(CC-BY-2.5 OR GPL-2.0)"
 }

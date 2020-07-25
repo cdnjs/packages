@@ -6,7 +6,7 @@
   "homepage": "http://jquery.eisbehr.de/lazy/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/eisbehr-/jquery.lazy.git"
+    "url": "git://github.com/dkern/jquery.lazy.git"
   },
   "keywords": [
     "lazy",
@@ -26,13 +26,9 @@
     "retina",
     "placeholder"
   ],
-  "licenses": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/eisbehr-/jquery.lazy.git",
+    "target": "git://github.com/dkern/jquery.lazy.git",
     "fileMap": [
       {
         "basePath": "",
@@ -49,5 +45,6 @@
       "email": "jquery@eisbehr.de",
       "url": "http://eisbehr.de/"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-2.0)"
 }

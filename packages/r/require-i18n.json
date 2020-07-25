@@ -10,10 +10,6 @@
     "type": "git",
     "url": "https://github.com/requirejs/i18n"
   },
-  "licenses": [
-    "BSD",
-    "MIT"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/requirejs/i18n.git",
@@ -31,5 +27,6 @@
       "name": "jrburke",
       "email": "jrburke@gmail.com"
     }
-  ]
+  ],
+  "license": "(BSD OR MIT)"
 }

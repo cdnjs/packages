@@ -11,10 +11,6 @@
     "tokeninput"
   ],
   "homepage": "https://loopj.com/jquery-tokeninput/",
-  "licenses": [
-    "MIT",
-    "GPL-3.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/loopj/jquery-tokeninput.git",
@@ -39,5 +35,6 @@
       "email": "james@loopj.com",
       "url": "https://loopj.com"
     }
-  ]
+  ],
+  "license": "(MIT OR GPL-3.0)"
 }

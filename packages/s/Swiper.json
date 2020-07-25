@@ -11,10 +11,6 @@
     "slider"
   ],
   "homepage": "http://www.idangero.us/sliders/swiper",
-  "licenses": [
-    "GPL",
-    "MIT"
-  ],
   "autoupdate": {
     "source": "npm",
     "target": "swiper",
@@ -32,5 +28,6 @@
     {
       "name": "Vladimir Kharlampidi"
     }
-  ]
+  ],
+  "license": "(GPL OR MIT)"
 }

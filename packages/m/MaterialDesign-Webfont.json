@@ -12,10 +12,6 @@
     "icons",
     "webfont"
   ],
-  "licenses": [
-    "OFL-1.1",
-    "MIT"
-  ],
   "homepage": "http://materialdesignicons.com",
   "autoupdate": {
     "source": "git",
@@ -34,5 +30,6 @@
       "name": "Austin Andrews",
       "url": "http://twitter.com/templarian"
     }
-  ]
+  ],
+  "license": "(OFL-1.1 OR MIT)"
 }

@@ -11,21 +11,7 @@
     "cross-browser",
     "upload"
   ],
-  "licenses": [
-    "GPL-2.0",
-    {
-      "type": "Single Website",
-      "url": "http://plupload.com/license/plupload_commercial_single.txt"
-    },
-    {
-      "type": "OEM",
-      "url": "http://plupload.com/license/plupload_commercial_oem.txt"
-    },
-    {
-      "type": "Custom Licensing",
-      "url": "http://www.moxiecode.com/contact.php"
-    }
-  ],
+  "license": "(GPL-2.0 OR Single Website OR OEM OR Custom Licensing)",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/moxiecode/plupload.git",

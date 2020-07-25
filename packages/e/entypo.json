@@ -13,8 +13,5 @@
     "type": "git",
     "url": "https://github.com/danielbruce/entypo.git"
   },
-  "licenses": [
-    "CC-BY-SA-3.0",
-    "OFL-1.1"
-  ]
+  "license": "(CC-BY-SA-3.0 OR OFL-1.1)"
 }

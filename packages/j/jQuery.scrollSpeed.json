@@ -12,13 +12,10 @@
     "scrolling",
     "easing"
   ],
-  "licenses": [
-    "MIT",
-    "CC0-1.0"
-  ],
   "authors": [
     {
       "name": "Nathan Rutzky"
     }
-  ]
+  ],
+  "license": "(MIT OR CC0-1.0)"
 }

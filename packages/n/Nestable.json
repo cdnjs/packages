@@ -15,14 +15,11 @@
     "type": "git",
     "url": "git://github.com/blueimp/JavaScript-Load-Image.git"
   },
-  "licenses": [
-    "MIT",
-    "BSD"
-  ],
   "authors": [
     {
       "name": "David Bushell",
       "url": "http://dbushell.com"
     }
-  ]
+  ],
+  "license": "(MIT OR BSD)"
 }
