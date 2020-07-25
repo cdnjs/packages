@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Bruno Barbieri <brunobar79@gmail.com>"
+      "name": "Bruno Barbieri",
+      "email": "brunobar79@gmail.com"
     }
   ]
 }

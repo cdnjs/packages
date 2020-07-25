@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Matthew Williams <matt@makeable.co.uk>"
+      "name": "Matthew Williams",
+      "email": "matt@makeable.co.uk"
     }
   ]
 }

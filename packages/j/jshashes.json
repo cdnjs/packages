@@ -35,7 +35,8 @@
   },
   "authors": [
     {
-      "name": "Tomas Aparicio <tomas@aparicio.me>"
+      "name": "Tomas Aparicio",
+      "email": "tomas@aparicio.me"
     }
   ]
 }

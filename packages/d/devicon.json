@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Julien Monty <julien.monty@gmail.com>"
+      "name": "Julien Monty",
+      "email": "julien.monty@gmail.com"
     }
   ]
 }

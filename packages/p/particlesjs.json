@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Marc Brüderlin <hello@marcbruederlin.com>"
+      "name": "Marc Brüderlin",
+      "email": "hello@marcbruederlin.com"
     }
   ]
 }

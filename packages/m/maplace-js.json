@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Daniele Moraschi <daniele.moraschi@gmail.com>"
+      "name": "Daniele Moraschi",
+      "email": "daniele.moraschi@gmail.com"
     }
   ]
 }

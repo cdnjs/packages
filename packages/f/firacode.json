@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Nikita Prokopov <niki@tonsky.me>"
+      "name": "Nikita Prokopov",
+      "email": "niki@tonsky.me"
     }
   ]
 }

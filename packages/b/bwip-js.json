@@ -55,7 +55,8 @@
   },
   "authors": [
     {
-      "name": "Mark Warren <mwarren@metafloor.com>"
+      "name": "Mark Warren",
+      "email": "mwarren@metafloor.com"
     }
   ]
 }

@@ -16,7 +16,8 @@
   },
   "authors": [
     {
-      "name": "Handsoncode <hello@handsontable.com>"
+      "name": "Handsoncode",
+      "email": "hello@handsontable.com"
     }
   ]
 }

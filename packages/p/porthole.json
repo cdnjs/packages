@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Ternary Labs <@ternarylabs>"
+      "name": "Ternary Labs",
+      "email": "@ternarylabs"
     }
   ]
 }

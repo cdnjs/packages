@@ -15,7 +15,8 @@
   "homepage": "http://tympanus.net/codrops/2013/06/06/on-scroll-animated-header/",
   "authors": [
     {
-      "name": "botelho <http://tympanus.net/codrops>"
+      "name": "botelho",
+      "email": "http://tympanus.net/codrops"
     }
   ]
 }

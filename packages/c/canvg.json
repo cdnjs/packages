@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Gabe Lerner <gabelerner@gmail.com>"
+      "name": "Gabe Lerner",
+      "email": "gabelerner@gmail.com"
     }
   ]
 }

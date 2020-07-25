@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Massimo Artizzu <maxart.x@gmail.com>"
+      "name": "Massimo Artizzu",
+      "email": "maxart.x@gmail.com"
     }
   ]
 }

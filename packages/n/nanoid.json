@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Andrey Sitnik <andrey@sitnik.ru>"
+      "name": "Andrey Sitnik",
+      "email": "andrey@sitnik.ru"
     }
   ]
 }

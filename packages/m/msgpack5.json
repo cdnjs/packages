@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Matteo collina <hello@matteocollina.com>"
+      "name": "Matteo collina",
+      "email": "hello@matteocollina.com"
     }
   ]
 }

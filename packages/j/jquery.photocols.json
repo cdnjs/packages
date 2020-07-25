@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Dailos Medina <dailos@2coders.com>"
+      "name": "Dailos Medina",
+      "email": "dailos@2coders.com"
     }
   ]
 }

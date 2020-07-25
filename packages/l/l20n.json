@@ -27,7 +27,8 @@
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Mozilla <l10n-drivers@mozilla.org>"
+      "name": "Mozilla",
+      "email": "l10n-drivers@mozilla.org"
     }
   ]
 }

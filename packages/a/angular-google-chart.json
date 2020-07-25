@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "GitHub Contributors <https://github.com/angular-google-chart/angular-google-chart/graphs/contributors>"
+      "name": "GitHub Contributors",
+      "email": "https://github.com/angular-google-chart/angular-google-chart/graphs/contributors"
     }
   ]
 }

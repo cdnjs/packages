@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "John Datserakis <johndatserakis@gmail.com>"
+      "name": "John Datserakis",
+      "email": "johndatserakis@gmail.com"
     }
   ]
 }

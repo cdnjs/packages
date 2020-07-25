@@ -26,7 +26,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Liam Gray <hoxxep@gmail.com>"
+      "name": "Liam Gray",
+      "email": "hoxxep@gmail.com"
     }
   ]
 }

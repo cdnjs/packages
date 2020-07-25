@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Johan Sörlin <spocke@moxiecode.com>"
+      "name": "Johan Sörlin",
+      "email": "spocke@moxiecode.com"
     }
   ]
 }

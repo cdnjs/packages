@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Jimmy Yuen Ho Wong <wyuenho@gmail.com>"
+      "name": "Jimmy Yuen Ho Wong",
+      "email": "wyuenho@gmail.com"
     }
   ]
 }

@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Robert Wagner <rwwagner90@gmail.com>"
+      "name": "Robert Wagner",
+      "email": "rwwagner90@gmail.com"
     }
   ]
 }

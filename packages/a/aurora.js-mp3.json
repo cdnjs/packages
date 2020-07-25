@@ -16,7 +16,8 @@
   "license": "GPL",
   "authors": [
     {
-      "name": "Devon Govett <devongovett@gmail.com>"
+      "name": "Devon Govett",
+      "email": "devongovett@gmail.com"
     }
   ]
 }

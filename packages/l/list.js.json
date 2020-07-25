@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Jonny Strömberg <jonny.stromberg@gmail.com>"
+      "name": "Jonny Strömberg",
+      "email": "jonny.stromberg@gmail.com"
     }
   ]
 }

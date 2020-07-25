@@ -26,7 +26,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Jack Lukic <jack@semantic-ui.com>"
+      "name": "Jack Lukic",
+      "email": "jack@semantic-ui.com"
     }
   ]
 }

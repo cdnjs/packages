@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Open Knowledge Foundation <labs@okfn.org>"
+      "name": "Open Knowledge Foundation",
+      "email": "labs@okfn.org"
     }
   ]
 }

@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Premasagar Rose <p@dharmafly.com>"
+      "name": "Premasagar Rose",
+      "email": "p@dharmafly.com"
     }
   ]
 }

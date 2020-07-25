@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Dave Rupert <rupato@gmail.com>"
+      "name": "Dave Rupert",
+      "email": "rupato@gmail.com"
     }
   ]
 }

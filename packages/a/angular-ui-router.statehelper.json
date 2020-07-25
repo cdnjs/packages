@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Mark Lagendijk <mark@lagendijk.info>"
+      "name": "Mark Lagendijk",
+      "email": "mark@lagendijk.info"
     }
   ]
 }

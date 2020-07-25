@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Jordan Schroter <jordan.schroter@gmail.com>"
+      "name": "Jordan Schroter",
+      "email": "jordan.schroter@gmail.com"
     }
   ]
 }

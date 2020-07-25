@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Min Hur <min.hur@gmail.com>"
+      "name": "Min Hur",
+      "email": "min.hur@gmail.com"
     }
   ]
 }

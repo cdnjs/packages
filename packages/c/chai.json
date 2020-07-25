@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Jake Luer <jake@alogicalparadox.com>"
+      "name": "Jake Luer",
+      "email": "jake@alogicalparadox.com"
     }
   ]
 }

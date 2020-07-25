@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Mike Grabski <me@mikegrabski.com>"
+      "name": "Mike Grabski",
+      "email": "me@mikegrabski.com"
     }
   ]
 }

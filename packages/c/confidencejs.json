@@ -14,7 +14,8 @@
   "license": "Apache",
   "authors": [
     {
-      "name": "Jessica Thomas <jessica@sendwithus.com>"
+      "name": "Jessica Thomas",
+      "email": "jessica@sendwithus.com"
     }
   ]
 }

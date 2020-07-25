@@ -26,7 +26,8 @@
   "license": "ISC",
   "authors": [
     {
-      "name": "Alexander Solovyov <alexander@solovyov.net>"
+      "name": "Alexander Solovyov",
+      "email": "alexander@solovyov.net"
     }
   ]
 }

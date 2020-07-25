@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Stephen Young <young.steveo@gmail.com>"
+      "name": "Stephen Young",
+      "email": "young.steveo@gmail.com"
     }
   ]
 }

@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Chris Sauve <chris@pxldot.com>"
+      "name": "Chris Sauve",
+      "email": "chris@pxldot.com"
     }
   ]
 }

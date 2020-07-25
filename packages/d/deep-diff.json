@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Phillip Clark <phillip@flitbit.com>"
+      "name": "Phillip Clark",
+      "email": "phillip@flitbit.com"
     }
   ]
 }

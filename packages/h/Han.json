@@ -35,7 +35,8 @@
   },
   "authors": [
     {
-      "name": "ethantw <ethantw@me.com>"
+      "name": "ethantw",
+      "email": "ethantw@me.com"
     }
   ]
 }

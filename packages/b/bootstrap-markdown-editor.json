@@ -27,7 +27,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Ignacio de Tomás <nacho@inacho.es>"
+      "name": "Ignacio de Tomás",
+      "email": "nacho@inacho.es"
     }
   ]
 }

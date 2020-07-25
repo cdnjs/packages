@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Adem İlter <ademilter@gmail.com>, Fatih Kadir Akın <fatihkadirakin@gmail.com>"
+      "name": "Adem İlter <ademilter@gmail.com>, Fatih Kadir Akın",
+      "email": "fatihkadirakin@gmail.com"
     }
   ]
 }

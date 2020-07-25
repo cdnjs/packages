@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Mikeal Rogers <mikeal.rogers@gmail.com>"
+      "name": "Mikeal Rogers",
+      "email": "mikeal.rogers@gmail.com"
     }
   ]
 }

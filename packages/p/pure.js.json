@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Mic Cvilic <mic@beebole.com>"
+      "name": "Mic Cvilic",
+      "email": "mic@beebole.com"
     }
   ]
 }

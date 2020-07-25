@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Michael Leibman <michael.leibman@gmail.com>"
+      "name": "Michael Leibman",
+      "email": "michael.leibman@gmail.com"
     }
   ]
 }

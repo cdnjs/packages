@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "nao yonamine <mohayonao@gmail.com>"
+      "name": "nao yonamine",
+      "email": "mohayonao@gmail.com"
     }
   ]
 }

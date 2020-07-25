@@ -24,7 +24,8 @@
   },
   "authors": [
     {
-      "name": "Spencer Alger <spencer@spenceralger.com>"
+      "name": "Spencer Alger",
+      "email": "spencer@spenceralger.com"
     }
   ]
 }

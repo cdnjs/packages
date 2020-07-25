@@ -35,7 +35,8 @@
   },
   "authors": [
     {
-      "name": "Sean Coker <sean@seancoker.com>"
+      "name": "Sean Coker",
+      "email": "sean@seancoker.com"
     }
   ]
 }

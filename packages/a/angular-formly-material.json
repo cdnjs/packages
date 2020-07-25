@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Kamil Kisiela <mys.sterowiec@gmail.com>"
+      "name": "Kamil Kisiela",
+      "email": "mys.sterowiec@gmail.com"
     }
   ]
 }

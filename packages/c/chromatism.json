@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Toish <toish@toi.sh>"
+      "name": "Toish",
+      "email": "toish@toi.sh"
     }
   ]
 }

@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Joseph Huckaby <jhuckaby@gmail.com>"
+      "name": "Joseph Huckaby",
+      "email": "jhuckaby@gmail.com"
     }
   ]
 }

@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Ian Lai <os@fyianlai.com>"
+      "name": "Ian Lai",
+      "email": "os@fyianlai.com"
     }
   ]
 }

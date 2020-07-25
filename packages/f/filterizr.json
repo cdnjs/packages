@@ -38,7 +38,8 @@
   },
   "authors": [
     {
-      "name": "Yiotis Kaltsikis <yiotiskal@gmail.com>"
+      "name": "Yiotis Kaltsikis",
+      "email": "yiotiskal@gmail.com"
     }
   ]
 }

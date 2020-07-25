@@ -34,7 +34,8 @@
   },
   "authors": [
     {
-      "name": "Mal Curtis <mal@mal.co.nz>"
+      "name": "Mal Curtis",
+      "email": "mal@mal.co.nz"
     }
   ]
 }

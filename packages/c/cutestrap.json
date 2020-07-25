@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Tyler Childs <tylerwchilds@gmail.com>"
+      "name": "Tyler Childs",
+      "email": "tylerwchilds@gmail.com"
     }
   ]
 }

@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Stefan Gabos <contact@stefangabos.ro>"
+      "name": "Stefan Gabos",
+      "email": "contact@stefangabos.ro"
     }
   ]
 }

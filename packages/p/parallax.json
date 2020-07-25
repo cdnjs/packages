@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Matthew Wagerfield <matthew@wagerfield.com>"
+      "name": "Matthew Wagerfield",
+      "email": "matthew@wagerfield.com"
     }
   ]
 }

@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Bnegt Weiße <bengtler@gmail.com>"
+      "name": "Bnegt Weiße",
+      "email": "bengtler@gmail.com"
     }
   ]
 }

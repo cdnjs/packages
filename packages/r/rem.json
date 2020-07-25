@@ -4,10 +4,12 @@
   "filename": "js/rem.min.js",
   "authors": [
     {
-      "name": "Chuck Carpenter <chuck.carpenter@me.com>"
+      "name": "Chuck Carpenter",
+      "email": "chuck.carpenter@me.com"
     },
     {
-      "name": "Lucas Serven <lserven@gmail.com>"
+      "name": "Lucas Serven",
+      "email": "lserven@gmail.com"
     }
   ],
   "keywords": [

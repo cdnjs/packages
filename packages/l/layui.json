@@ -35,7 +35,8 @@
   },
   "authors": [
     {
-      "name": "sentsin <xu@sentsin.com>"
+      "name": "sentsin",
+      "email": "xu@sentsin.com"
     }
   ]
 }

@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Benjamin Plouzennec <plouzennec.benjamin@gmail.com>"
+      "name": "Benjamin Plouzennec",
+      "email": "plouzennec.benjamin@gmail.com"
     }
   ]
 }

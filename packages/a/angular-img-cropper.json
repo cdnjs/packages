@@ -36,7 +36,8 @@
   },
   "authors": [
     {
-      "name": "Allan Bishop<allan.bishop@gmail.com>"
+      "name": "Allan Bishop",
+      "email": "allan.bishop@gmail.com"
     }
   ]
 }

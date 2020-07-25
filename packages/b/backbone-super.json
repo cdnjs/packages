@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Lukas Olson <olson.lukas@gmail.com>"
+      "name": "Lukas Olson",
+      "email": "olson.lukas@gmail.com"
     }
   ]
 }

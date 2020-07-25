@@ -25,7 +25,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Rodney Rehm (mail+github@rodneyrehm.de) <http://rodneyrehm.de>"
+      "name": "Rodney Rehm (mail+github@rodneyrehm.de)",
+      "email": "http://rodneyrehm.de"
     }
   ]
 }

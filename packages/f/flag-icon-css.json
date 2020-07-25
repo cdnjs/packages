@@ -27,7 +27,8 @@
   "description": ":flags: A collection of all country flags in SVG — plus the CSS for easier integration",
   "authors": [
     {
-      "name": "Panayiotis Lipiridis <lipiridis@gmail.com>"
+      "name": "Panayiotis Lipiridis",
+      "email": "lipiridis@gmail.com"
     }
   ]
 }

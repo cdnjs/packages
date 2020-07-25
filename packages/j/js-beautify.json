@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Einar Lielmanis <einar@jsbeautifier.org>"
+      "name": "Einar Lielmanis",
+      "email": "einar@jsbeautifier.org"
     }
   ]
 }

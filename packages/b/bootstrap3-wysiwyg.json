@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "bootstrap-wysiwyg <https://github.com/bootstrap-wysiwyg>"
+      "name": "bootstrap-wysiwyg",
+      "email": "https://github.com/bootstrap-wysiwyg"
     }
   ]
 }

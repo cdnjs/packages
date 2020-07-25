@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Jonathan Hornung <jonathan.hornung@gmail.com>"
+      "name": "Jonathan Hornung",
+      "email": "jonathan.hornung@gmail.com"
     }
   ]
 }

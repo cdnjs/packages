@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Samuel Ribeiro Pinto <samuel@maispc.com>"
+      "name": "Samuel Ribeiro Pinto",
+      "email": "samuel@maispc.com"
     }
   ]
 }

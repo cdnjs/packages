@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Kevin Chappell <kevin.b.chappell@gmail.com>"
+      "name": "Kevin Chappell",
+      "email": "kevin.b.chappell@gmail.com"
     }
   ]
 }

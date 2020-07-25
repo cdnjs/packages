@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Web Semantics, Inc. <hi@websemantics.ca>"
+      "name": "Web Semantics, Inc.",
+      "email": "hi@websemantics.ca"
     }
   ]
 }

@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Jasper Palfree <jasper@wellcaffeinated.net>"
+      "name": "Jasper Palfree",
+      "email": "jasper@wellcaffeinated.net"
     }
   ]
 }

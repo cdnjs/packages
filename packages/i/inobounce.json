@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Larry Davis <lazdnet@gmail.com>"
+      "name": "Larry Davis",
+      "email": "lazdnet@gmail.com"
     }
   ]
 }

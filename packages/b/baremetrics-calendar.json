@@ -30,7 +30,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Tyler van der Hoeven <hi@tyvdh.com>"
+      "name": "Tyler van der Hoeven",
+      "email": "hi@tyvdh.com"
     }
   ]
 }

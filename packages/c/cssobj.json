@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "James Yang <jamesyang999@gmail.com>"
+      "name": "James Yang",
+      "email": "jamesyang999@gmail.com"
     }
   ]
 }

@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Federico Zivolo <federico.zivolo@gmail.com>"
+      "name": "Federico Zivolo",
+      "email": "federico.zivolo@gmail.com"
     }
   ]
 }

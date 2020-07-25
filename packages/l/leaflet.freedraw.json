@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Adam Timberlake <adam.timberlake@gmail.com>"
+      "name": "Adam Timberlake",
+      "email": "adam.timberlake@gmail.com"
     }
   ]
 }

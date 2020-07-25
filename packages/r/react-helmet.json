@@ -42,7 +42,8 @@
   },
   "authors": [
     {
-      "name": "NFL <engineers@nfl.com>"
+      "name": "NFL",
+      "email": "engineers@nfl.com"
     }
   ]
 }

@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Miro Mannino <miro.mannino@gmail.com>"
+      "name": "Miro Mannino",
+      "email": "miro.mannino@gmail.com"
     }
   ]
 }

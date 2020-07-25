@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "James Hartig <fastest963@gmail.com>"
+      "name": "James Hartig",
+      "email": "fastest963@gmail.com"
     }
   ]
 }

@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Andrew Worcester <andrew@amwmedia.com>"
+      "name": "Andrew Worcester",
+      "email": "andrew@amwmedia.com"
     }
   ]
 }

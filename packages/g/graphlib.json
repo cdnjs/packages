@@ -26,7 +26,8 @@
   "filename": "graphlib.min.js",
   "authors": [
     {
-      "name": "Chris Pettitt <cpettitt@gmail.com>"
+      "name": "Chris Pettitt",
+      "email": "cpettitt@gmail.com"
     }
   ]
 }

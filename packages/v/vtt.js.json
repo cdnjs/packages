@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Andreas Gal <gal@mozilla.com>"
+      "name": "Andreas Gal",
+      "email": "gal@mozilla.com"
     }
   ]
 }

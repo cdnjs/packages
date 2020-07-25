@@ -29,7 +29,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "mustache.js Authors <https://github.com/janl/mustache.js>"
+      "name": "mustache.js Authors",
+      "email": "https://github.com/janl/mustache.js"
     }
   ]
 }

@@ -34,7 +34,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Andrey Izman <izmanw@gmail.com>"
+      "name": "Andrey Izman",
+      "email": "izmanw@gmail.com"
     }
   ]
 }

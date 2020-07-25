@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Diwank Singh <diwank.singh@gmail.com>"
+      "name": "Diwank Singh",
+      "email": "diwank.singh@gmail.com"
     }
   ]
 }

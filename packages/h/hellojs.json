@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Andrew Dodson <adodson.com>"
+      "name": "Andrew Dodson",
+      "email": "adodson.com"
     }
   ]
 }

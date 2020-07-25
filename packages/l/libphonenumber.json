@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "googlei18n <https://developers.google.com/international>"
+      "name": "googlei18n",
+      "email": "https://developers.google.com/international"
     }
   ]
 }

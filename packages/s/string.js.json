@@ -41,7 +41,8 @@
   },
   "authors": [
     {
-      "name": "JP Richardson <jprichardson@gmail.com>"
+      "name": "JP Richardson",
+      "email": "jprichardson@gmail.com"
     }
   ]
 }

@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Thomas Wagenaar <wagenaartje@protonmail.com>"
+      "name": "Thomas Wagenaar",
+      "email": "wagenaartje@protonmail.com"
     }
   ]
 }

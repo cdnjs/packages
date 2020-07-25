@@ -28,7 +28,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Jarno Keskikangas <jarno.keskikangas@leonidasoy.fi>"
+      "name": "Jarno Keskikangas",
+      "email": "jarno.keskikangas@leonidasoy.fi"
     }
   ]
 }

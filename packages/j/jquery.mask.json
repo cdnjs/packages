@@ -28,7 +28,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Igor Escobar <blog@igorescobar.com>"
+      "name": "Igor Escobar",
+      "email": "blog@igorescobar.com"
     }
   ]
 }

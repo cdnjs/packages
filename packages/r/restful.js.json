@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Robin Bressan <robin@buddey.net>"
+      "name": "Robin Bressan",
+      "email": "robin@buddey.net"
     }
   ]
 }

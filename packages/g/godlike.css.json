@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "1000.tech <info@1000.tech>"
+      "name": "1000.tech",
+      "email": "info@1000.tech"
     }
   ]
 }

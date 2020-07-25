@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Björn Harrtell <bjorn@wololo.org>"
+      "name": "Björn Harrtell",
+      "email": "bjorn@wololo.org"
     }
   ]
 }

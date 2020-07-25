@@ -43,7 +43,8 @@
   },
   "authors": [
     {
-      "name": "Pawel Kozlowski <pkozlowski.opensource@gmail.com>"
+      "name": "Pawel Kozlowski",
+      "email": "pkozlowski.opensource@gmail.com"
     }
   ]
 }

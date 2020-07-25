@@ -43,7 +43,8 @@
   },
   "authors": [
     {
-      "name": "polygon planet <polygon.planet.aqua@gmail.com>"
+      "name": "polygon planet",
+      "email": "polygon.planet.aqua@gmail.com"
     }
   ]
 }

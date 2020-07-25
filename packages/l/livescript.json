@@ -29,7 +29,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "George Zahariev <z@georgezahariev.com>"
+      "name": "George Zahariev",
+      "email": "z@georgezahariev.com"
     }
   ]
 }

@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Brian Pak <brianairb@gmail.com>"
+      "name": "Brian Pak",
+      "email": "brianairb@gmail.com"
     }
   ]
 }

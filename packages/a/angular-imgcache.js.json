@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Benes <benes@kodarna.cz>"
+      "name": "Benes",
+      "email": "benes@kodarna.cz"
     }
   ]
 }

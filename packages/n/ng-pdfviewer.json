@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Andreas Krennmair <ak@synflood.at>"
+      "name": "Andreas Krennmair",
+      "email": "ak@synflood.at"
     }
   ]
 }

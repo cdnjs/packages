@@ -34,7 +34,8 @@
   },
   "authors": [
     {
-      "name": "Shad Storhaug <shad@shadstorhaug.com>"
+      "name": "Shad Storhaug",
+      "email": "shad@shadstorhaug.com"
     }
   ]
 }

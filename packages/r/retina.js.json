@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Imulus, LLC <developer@imulus.com>"
+      "name": "Imulus, LLC",
+      "email": "developer@imulus.com"
     }
   ]
 }

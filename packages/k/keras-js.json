@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Leon Chen <leon@md.ai>"
+      "name": "Leon Chen",
+      "email": "leon@md.ai"
     }
   ]
 }

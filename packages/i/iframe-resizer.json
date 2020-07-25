@@ -42,7 +42,8 @@
   },
   "authors": [
     {
-      "name": "David J. Bradshaw <dave@bradshaw.net>"
+      "name": "David J. Bradshaw",
+      "email": "dave@bradshaw.net"
     }
   ]
 }

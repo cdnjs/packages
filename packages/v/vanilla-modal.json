@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Ben Ceglowski <bceglowski@gmail.com>"
+      "name": "Ben Ceglowski",
+      "email": "bceglowski@gmail.com"
     }
   ]
 }

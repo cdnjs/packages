@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Avichay Eyal <eavichay@gmail.com>"
+      "name": "Avichay Eyal",
+      "email": "eavichay@gmail.com"
     }
   ]
 }

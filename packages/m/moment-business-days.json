@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Christian Rodriguez Cisneros <rcchristiane@gmail.com>"
+      "name": "Christian Rodriguez Cisneros",
+      "email": "rcchristiane@gmail.com"
     }
   ]
 }

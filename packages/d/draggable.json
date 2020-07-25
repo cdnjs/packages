@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Shopify <dev@shopify.com>"
+      "name": "Shopify",
+      "email": "dev@shopify.com"
     }
   ]
 }

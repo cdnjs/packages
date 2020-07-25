@@ -27,7 +27,8 @@
   ],
   "authors": [
     {
-      "name": "Kyle Kemp <kyle@seiyria.com>"
+      "name": "Kyle Kemp",
+      "email": "kyle@seiyria.com"
     }
   ]
 }

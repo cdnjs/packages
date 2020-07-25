@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Jacob Rothstein <hi@jbr.me>"
+      "name": "Jacob Rothstein",
+      "email": "hi@jbr.me"
     }
   ]
 }

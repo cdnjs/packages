@@ -35,7 +35,8 @@
   },
   "authors": [
     {
-      "name": "Sebastian McKenzie <sebmck@gmail.com>"
+      "name": "Sebastian McKenzie",
+      "email": "sebmck@gmail.com"
     }
   ]
 }

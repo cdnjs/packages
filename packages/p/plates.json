@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Arnout Kazemier <opensource@3rd-Eden.com>"
+      "name": "Arnout Kazemier",
+      "email": "opensource@3rd-Eden.com"
     }
   ]
 }

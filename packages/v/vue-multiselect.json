@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Damian Dulisz <damian.dulisz@gmail.com>"
+      "name": "Damian Dulisz",
+      "email": "damian.dulisz@gmail.com"
     }
   ]
 }

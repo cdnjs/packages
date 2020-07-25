@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Jeff Mesnil <jmesnil@gmail.com>"
+      "name": "Jeff Mesnil",
+      "email": "jmesnil@gmail.com"
     }
   ]
 }

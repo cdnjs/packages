@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Cam Wiegert <cam@camwiegert.com>"
+      "name": "Cam Wiegert",
+      "email": "cam@camwiegert.com"
     }
   ]
 }

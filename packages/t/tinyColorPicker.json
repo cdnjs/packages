@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Peter Dematté <peter@dematte.at>"
+      "name": "Peter Dematté",
+      "email": "peter@dematte.at"
     }
   ]
 }

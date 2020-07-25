@@ -19,7 +19,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Joshua Gross <joshua@gross.is>"
+      "name": "Joshua Gross",
+      "email": "joshua@gross.is"
     }
   ]
 }

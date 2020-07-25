@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Yoann Moinet <yoann.moinet@gmail.com>"
+      "name": "Yoann Moinet",
+      "email": "yoann.moinet@gmail.com"
     }
   ]
 }

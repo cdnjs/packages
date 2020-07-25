@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Aaron Wong <aarn.wong@gmail.com>"
+      "name": "Aaron Wong",
+      "email": "aarn.wong@gmail.com"
     }
   ]
 }

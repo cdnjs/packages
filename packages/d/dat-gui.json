@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Google Data Arts Team <dataarts@google.com>"
+      "name": "Google Data Arts Team",
+      "email": "dataarts@google.com"
     }
   ]
 }

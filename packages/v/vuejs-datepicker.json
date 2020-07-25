@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Charlie Kassel <ck@charliekassel.com>"
+      "name": "Charlie Kassel",
+      "email": "ck@charliekassel.com"
     }
   ]
 }

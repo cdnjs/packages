@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Vitaly Puzrin <vitaly@rcdesign.ru>"
+      "name": "Vitaly Puzrin",
+      "email": "vitaly@rcdesign.ru"
     }
   ]
 }

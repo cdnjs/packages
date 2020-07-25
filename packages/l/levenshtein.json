@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Gianni Chiappetta <gianni@runlevel6.org>"
+      "name": "Gianni Chiappetta",
+      "email": "gianni@runlevel6.org"
     }
   ]
 }

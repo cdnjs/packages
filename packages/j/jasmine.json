@@ -29,7 +29,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "slackersoft <gregg@slackersoft.net>"
+      "name": "slackersoft",
+      "email": "gregg@slackersoft.net"
     }
   ]
 }

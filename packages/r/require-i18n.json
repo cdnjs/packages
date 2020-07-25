@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "jrburke <jrburke@gmail.com>"
+      "name": "jrburke",
+      "email": "jrburke@gmail.com"
     }
   ]
 }

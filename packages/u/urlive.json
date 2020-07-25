@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Mark Serbol <markserbol@outlook.com>"
+      "name": "Mark Serbol",
+      "email": "markserbol@outlook.com"
     }
   ]
 }

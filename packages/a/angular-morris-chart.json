@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Stewan Pacheco <hi@st1s.io>"
+      "name": "Stewan Pacheco",
+      "email": "hi@st1s.io"
     }
   ]
 }

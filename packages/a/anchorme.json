@@ -34,7 +34,8 @@
   },
   "authors": [
     {
-      "name": "Alex Corvi <alex@arrayy.com>"
+      "name": "Alex Corvi",
+      "email": "alex@arrayy.com"
     }
   ]
 }

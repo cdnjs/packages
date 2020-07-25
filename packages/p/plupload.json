@@ -40,7 +40,8 @@
   },
   "authors": [
     {
-      "name": "Moxiecode Systems AB <support@moxiecode.com>"
+      "name": "Moxiecode Systems AB",
+      "email": "support@moxiecode.com"
     }
   ]
 }

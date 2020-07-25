@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Gregory Jacobs <greg@greg-jacobs.com>"
+      "name": "Gregory Jacobs",
+      "email": "greg@greg-jacobs.com"
     }
   ]
 }

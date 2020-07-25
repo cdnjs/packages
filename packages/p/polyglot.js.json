@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Spike Brehm <spike@airbnb.com>"
+      "name": "Spike Brehm",
+      "email": "spike@airbnb.com"
     }
   ]
 }

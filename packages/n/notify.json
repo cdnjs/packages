@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Jaime Pillora <dev@jpillora.com>"
+      "name": "Jaime Pillora",
+      "email": "dev@jpillora.com"
     }
   ]
 }

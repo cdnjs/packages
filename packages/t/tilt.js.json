@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "gijsroge <rogegijs@gmail.com>"
+      "name": "gijsroge",
+      "email": "rogegijs@gmail.com"
     }
   ]
 }

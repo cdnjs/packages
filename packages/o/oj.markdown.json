@@ -27,7 +27,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Evan Moran <evan@evanmoran.com>"
+      "name": "Evan Moran",
+      "email": "evan@evanmoran.com"
     }
   ]
 }

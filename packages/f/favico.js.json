@@ -27,7 +27,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Miroslav Magda <magda.miroslav@gmail.com>"
+      "name": "Miroslav Magda",
+      "email": "magda.miroslav@gmail.com"
     }
   ]
 }

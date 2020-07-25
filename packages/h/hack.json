@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "EGOIST <0x142857@gmail.com>"
+      "name": "EGOIST",
+      "email": "0x142857@gmail.com"
     }
   ]
 }

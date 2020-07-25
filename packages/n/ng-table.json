@@ -27,7 +27,8 @@
   "description": "Simple table with sorting and filtering on AngularJS",
   "authors": [
     {
-      "name": "Vitalii Savchuk <esvit666@gmail.com>"
+      "name": "Vitalii Savchuk",
+      "email": "esvit666@gmail.com"
     }
   ]
 }

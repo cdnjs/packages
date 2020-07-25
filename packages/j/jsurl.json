@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Mykhailo Stadnyk <mikhus@gmail.com>"
+      "name": "Mykhailo Stadnyk",
+      "email": "mikhus@gmail.com"
     }
   ]
 }

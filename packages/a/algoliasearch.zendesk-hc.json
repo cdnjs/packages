@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Algolia <support@algolia.com>"
+      "name": "Algolia",
+      "email": "support@algolia.com"
     }
   ]
 }

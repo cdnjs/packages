@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Rachel Nehmer <rnehmer@esri.com>"
+      "name": "Rachel Nehmer",
+      "email": "rnehmer@esri.com"
     }
   ]
 }

@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Joshua Bell <inexorabletash@gmail.com>"
+      "name": "Joshua Bell",
+      "email": "inexorabletash@gmail.com"
     }
   ]
 }

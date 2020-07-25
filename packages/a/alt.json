@@ -8,10 +8,12 @@
   },
   "authors": [
     {
-      "name": "Josh Perez <josh@goatslacker.com>"
+      "name": "Josh Perez",
+      "email": "josh@goatslacker.com"
     },
     {
-      "name": "Jonathan Lehman <jonathan.lehman91@gmail.com>"
+      "name": "Jonathan Lehman",
+      "email": "jonathan.lehman91@gmail.com"
     }
   ],
   "license": "MIT",

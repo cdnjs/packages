@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Julian Garnier <hello@julian.gr>"
+      "name": "Julian Garnier",
+      "email": "hello@julian.gr"
     }
   ]
 }

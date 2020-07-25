@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Michael Heuberger <michael.heuberger@binarykitchen.com>"
+      "name": "Michael Heuberger",
+      "email": "michael.heuberger@binarykitchen.com"
     }
   ]
 }

@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "John Otander <johnotander@gmail.com>"
+      "name": "John Otander",
+      "email": "johnotander@gmail.com"
     }
   ]
 }

@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Kevin Ngo <me@ngokevin.com>"
+      "name": "Kevin Ngo",
+      "email": "me@ngokevin.com"
     }
   ]
 }

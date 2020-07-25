@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Gabriel Delépine <yappli@github.com>"
+      "name": "Gabriel Delépine",
+      "email": "yappli@github.com"
     }
   ]
 }

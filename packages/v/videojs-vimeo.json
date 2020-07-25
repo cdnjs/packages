@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Benoit Tremblay <trembl.ben@gmail.com>"
+      "name": "Benoit Tremblay",
+      "email": "trembl.ben@gmail.com"
     }
   ]
 }

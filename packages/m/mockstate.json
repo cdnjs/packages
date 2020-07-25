@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Luis Vinícius <dev_luis@hotmail.com>"
+      "name": "Luis Vinícius",
+      "email": "dev_luis@hotmail.com"
     }
   ]
 }

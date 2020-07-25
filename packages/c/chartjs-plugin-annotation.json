@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Evert Timberg <evert.timberg@gmail.com>"
+      "name": "Evert Timberg",
+      "email": "evert.timberg@gmail.com"
     }
   ]
 }

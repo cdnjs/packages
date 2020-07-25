@@ -38,7 +38,8 @@
   },
   "authors": [
     {
-      "name": "Nitish Kumar <support@webkul.com>"
+      "name": "Nitish Kumar",
+      "email": "support@webkul.com"
     }
   ]
 }

@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Tanner Linsley <@tannerlinsley>"
+      "name": "Tanner Linsley",
+      "email": "@tannerlinsley"
     }
   ]
 }

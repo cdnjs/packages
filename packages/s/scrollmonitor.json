@@ -27,7 +27,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Stu Kabakoff <stukabakoff@gmail.com>"
+      "name": "Stu Kabakoff",
+      "email": "stukabakoff@gmail.com"
     }
   ]
 }

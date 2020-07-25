@@ -36,7 +36,8 @@
   },
   "authors": [
     {
-      "name": "Roman Pominov <rpominov@gmail.com>"
+      "name": "Roman Pominov",
+      "email": "rpominov@gmail.com"
     }
   ]
 }

@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Sunil Pai <threepointone@gmail.com>"
+      "name": "Sunil Pai",
+      "email": "threepointone@gmail.com"
     }
   ]
 }

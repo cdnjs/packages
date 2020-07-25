@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Manuele J Sarfatti <manuele@mjsarfatti.com>"
+      "name": "Manuele J Sarfatti",
+      "email": "manuele@mjsarfatti.com"
     }
   ]
 }

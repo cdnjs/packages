@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "i-break-codes <vaibhav@browserstack.com>"
+      "name": "i-break-codes",
+      "email": "vaibhav@browserstack.com"
     }
   ]
 }

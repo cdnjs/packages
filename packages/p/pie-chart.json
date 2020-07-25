@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "lorem--ipsum <vaporzub@gmail.com>"
+      "name": "lorem--ipsum",
+      "email": "vaporzub@gmail.com"
     }
   ]
 }

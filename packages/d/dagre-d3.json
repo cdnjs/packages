@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Chris Pettitt <chris@samsarin.com>"
+      "name": "Chris Pettitt",
+      "email": "chris@samsarin.com"
     }
   ]
 }

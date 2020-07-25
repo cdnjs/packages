@@ -26,7 +26,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Henri Bergius <henri.bergius@iki.fi>"
+      "name": "Henri Bergius",
+      "email": "henri.bergius@iki.fi"
     }
   ]
 }

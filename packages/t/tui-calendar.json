@@ -38,7 +38,8 @@
   "homepage": "https://ui.toast.com/tui-calendar/",
   "authors": [
     {
-      "name": "NHNEnt FE Development Lab <dl_javascript@nhnent.com>"
+      "name": "NHNEnt FE Development Lab",
+      "email": "dl_javascript@nhnent.com"
     }
   ]
 }

@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "James Shore <jshore@jamesshore.com>"
+      "name": "James Shore",
+      "email": "jshore@jamesshore.com"
     }
   ]
 }

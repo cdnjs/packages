@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Kartik Visweswaran <kartikv2@gmail.com>"
+      "name": "Kartik Visweswaran",
+      "email": "kartikv2@gmail.com"
     }
   ]
 }

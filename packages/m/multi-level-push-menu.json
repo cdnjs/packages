@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Momčilo Džunić <it@make.rs>"
+      "name": "Momčilo Džunić",
+      "email": "it@make.rs"
     }
   ]
 }

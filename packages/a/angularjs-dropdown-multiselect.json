@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Dotan Simha <dotansimha@gmail.com>"
+      "name": "Dotan Simha",
+      "email": "dotansimha@gmail.com"
     }
   ]
 }

@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Ticketbase team <support@ticketbase.com>"
+      "name": "Ticketbase team",
+      "email": "support@ticketbase.com"
     }
   ]
 }

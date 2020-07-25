@@ -13,7 +13,8 @@
   ],
   "authors": [
     {
-      "name": "Markus Kohlhase <mail@markus-kohlhase.de>"
+      "name": "Markus Kohlhase",
+      "email": "mail@markus-kohlhase.de"
     }
   ]
 }

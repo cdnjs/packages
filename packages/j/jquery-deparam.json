@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Duncan Wong <baduncaduncan@gmail.com>"
+      "name": "Duncan Wong",
+      "email": "baduncaduncan@gmail.com"
     }
   ]
 }

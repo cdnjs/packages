@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Scott Fleckenstein <scott@stellar.org>"
+      "name": "Scott Fleckenstein",
+      "email": "scott@stellar.org"
     }
   ]
 }

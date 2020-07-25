@@ -34,7 +34,8 @@
   },
   "authors": [
     {
-      "name": "Shakeeb Sadikeen <shakee.zats@gmail.com>"
+      "name": "Shakeeb Sadikeen",
+      "email": "shakee.zats@gmail.com"
     }
   ]
 }

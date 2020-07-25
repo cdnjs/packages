@@ -42,7 +42,8 @@
   },
   "authors": [
     {
-      "name": "Matt Perry <sirhound@popmotion.io>"
+      "name": "Matt Perry",
+      "email": "sirhound@popmotion.io"
     }
   ]
 }

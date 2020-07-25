@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Paul Uithol <https://github.com/PaulUithol>"
+      "name": "Paul Uithol",
+      "email": "https://github.com/PaulUithol"
     }
   ]
 }

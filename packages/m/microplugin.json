@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Brian Reavis <brian@thirdroute.com>"
+      "name": "Brian Reavis",
+      "email": "brian@thirdroute.com"
     }
   ]
 }

@@ -27,7 +27,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Jeremy Ashkenas <jeremy@documentcloud.org>"
+      "name": "Jeremy Ashkenas",
+      "email": "jeremy@documentcloud.org"
     }
   ]
 }

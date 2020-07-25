@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Kamran Ahmed <kamranahmed.se@gmail.com>"
+      "name": "Kamran Ahmed",
+      "email": "kamranahmed.se@gmail.com"
     }
   ]
 }

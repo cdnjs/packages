@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Sam Clarke <sam@samclarke.com>"
+      "name": "Sam Clarke",
+      "email": "sam@samclarke.com"
     }
   ]
 }

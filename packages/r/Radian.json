@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Ian Ross <ian@skybluetrades.net>"
+      "name": "Ian Ross",
+      "email": "ian@skybluetrades.net"
     }
   ]
 }

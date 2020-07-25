@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Matt Boldt <me@mattboldt.com>"
+      "name": "Matt Boldt",
+      "email": "me@mattboldt.com"
     }
   ]
 }

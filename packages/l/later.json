@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "BunKat <bill@levelstory.com>"
+      "name": "BunKat",
+      "email": "bill@levelstory.com"
     }
   ]
 }

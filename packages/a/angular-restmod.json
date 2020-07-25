@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Ignacio Baixas <ignacio@platan.us>"
+      "name": "Ignacio Baixas",
+      "email": "ignacio@platan.us"
     }
   ]
 }

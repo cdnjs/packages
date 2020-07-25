@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Martin Gontovnikas <martin@gon.to>"
+      "name": "Martin Gontovnikas",
+      "email": "martin@gon.to"
     }
   ]
 }

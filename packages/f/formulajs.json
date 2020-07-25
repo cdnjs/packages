@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Ismael Ghalimi <ismael@stoic.com>"
+      "name": "Ismael Ghalimi",
+      "email": "ismael@stoic.com"
     }
   ]
 }

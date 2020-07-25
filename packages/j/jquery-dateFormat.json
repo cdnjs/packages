@@ -19,7 +19,8 @@
   ],
   "authors": [
     {
-      "name": "Pablo Cantero <pablo@pablocantero.com>"
+      "name": "Pablo Cantero",
+      "email": "pablo@pablocantero.com"
     }
   ]
 }

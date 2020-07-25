@@ -13,7 +13,8 @@
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Kirollos Risk <kirollos@gmail.com>"
+      "name": "Kirollos Risk",
+      "email": "kirollos@gmail.com"
     }
   ]
 }

@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Matt Smith <mtscout6@gmail.com>"
+      "name": "Matt Smith",
+      "email": "mtscout6@gmail.com"
     }
   ]
 }

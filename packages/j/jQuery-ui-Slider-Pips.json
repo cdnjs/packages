@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Simon Goellner <simey.me@gmail.com>"
+      "name": "Simon Goellner",
+      "email": "simey.me@gmail.com"
     }
   ]
 }

@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Bergé Greg <berge.greg@gmail.com>"
+      "name": "Bergé Greg",
+      "email": "berge.greg@gmail.com"
     }
   ]
 }

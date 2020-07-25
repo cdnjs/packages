@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Aaron Mazade <ulinaaron@gmail.com>"
+      "name": "Aaron Mazade",
+      "email": "ulinaaron@gmail.com"
     }
   ]
 }

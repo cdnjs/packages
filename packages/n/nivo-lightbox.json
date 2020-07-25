@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Gilbert Pellegrom <gilbert@pellegrom.me>"
+      "name": "Gilbert Pellegrom",
+      "email": "gilbert@pellegrom.me"
     }
   ]
 }

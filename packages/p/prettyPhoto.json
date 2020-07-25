@@ -34,7 +34,8 @@
   },
   "authors": [
     {
-      "name": "Stephane Caron <caronstephane1@gmail.com>"
+      "name": "Stephane Caron",
+      "email": "caronstephane1@gmail.com"
     }
   ]
 }

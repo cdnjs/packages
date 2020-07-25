@@ -76,7 +76,8 @@
   },
   "authors": [
     {
-      "name": "pi0 <pooya@pi0.ir>"
+      "name": "pi0",
+      "email": "pooya@pi0.ir"
     }
   ]
 }

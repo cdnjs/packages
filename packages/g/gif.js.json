@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Johan Nordberg <code@johan-nordberg.com>"
+      "name": "Johan Nordberg",
+      "email": "code@johan-nordberg.com"
     }
   ]
 }

@@ -16,7 +16,8 @@
   },
   "authors": [
     {
-      "name": "Remy Sharp <remy@leftlogic.com>"
+      "name": "Remy Sharp",
+      "email": "remy@leftlogic.com"
     }
   ]
 }

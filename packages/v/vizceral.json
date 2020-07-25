@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Justin Reynolds <jreynolds@netflix.com>"
+      "name": "Justin Reynolds",
+      "email": "jreynolds@netflix.com"
     }
   ]
 }

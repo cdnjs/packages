@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Dmitri Voronianski <dmitri.voronianski@gmail.com>"
+      "name": "Dmitri Voronianski",
+      "email": "dmitri.voronianski@gmail.com"
     }
   ]
 }

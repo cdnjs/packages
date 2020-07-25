@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "jillix <contact@jillix.com>"
+      "name": "jillix",
+      "email": "contact@jillix.com"
     }
   ]
 }

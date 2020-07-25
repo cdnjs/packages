@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Ruby Boyarski <rubyboy@gmail.com>"
+      "name": "Ruby Boyarski",
+      "email": "rubyboy@gmail.com"
     }
   ]
 }

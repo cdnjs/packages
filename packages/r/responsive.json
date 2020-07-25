@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "amCharts <contact@amcharts.com>"
+      "name": "amCharts",
+      "email": "contact@amcharts.com"
     }
   ]
 }

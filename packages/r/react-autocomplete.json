@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Ryan Florence <rpflorence@gmail.com>"
+      "name": "Ryan Florence",
+      "email": "rpflorence@gmail.com"
     }
   ]
 }

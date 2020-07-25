@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Aron Kornhall <aron@kornhall.se>"
+      "name": "Aron Kornhall",
+      "email": "aron@kornhall.se"
     }
   ]
 }

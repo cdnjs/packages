@@ -30,7 +30,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Ariel Mashraki <ariel@mashraki.co.il>"
+      "name": "Ariel Mashraki",
+      "email": "ariel@mashraki.co.il"
     }
   ]
 }

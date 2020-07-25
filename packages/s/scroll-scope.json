@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Jerry Jäppinen <eiskis@gmail.com>"
+      "name": "Jerry Jäppinen",
+      "email": "eiskis@gmail.com"
     }
   ]
 }

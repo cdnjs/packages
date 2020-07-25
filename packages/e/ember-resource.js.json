@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Zendesk Developers <support@zendesk.com>"
+      "name": "Zendesk Developers",
+      "email": "support@zendesk.com"
     }
   ]
 }

@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Yassine ELOUAFI <yelouafi@gmail.com>"
+      "name": "Yassine ELOUAFI",
+      "email": "yelouafi@gmail.com"
     }
   ]
 }

@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Team Le8 <projet-cms-tech@lemonde.fr>"
+      "name": "Team Le8",
+      "email": "projet-cms-tech@lemonde.fr"
     }
   ]
 }

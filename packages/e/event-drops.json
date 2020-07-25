@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Thiery Michel <thiery@marmelab.com>"
+      "name": "Thiery Michel",
+      "email": "thiery@marmelab.com"
     }
   ]
 }

@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Pasquale Vazzana <pasqualevazzana@gmail.com>"
+      "name": "Pasquale Vazzana",
+      "email": "pasqualevazzana@gmail.com"
     }
   ]
 }

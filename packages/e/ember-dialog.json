@@ -31,7 +31,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Milkov V. Vladimir <v.v.milkov@gmail.com>"
+      "name": "Milkov V. Vladimir",
+      "email": "v.v.milkov@gmail.com"
     }
   ]
 }

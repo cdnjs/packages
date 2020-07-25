@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Jon Nylander <pellepim@gmail.com>"
+      "name": "Jon Nylander",
+      "email": "pellepim@gmail.com"
     }
   ]
 }

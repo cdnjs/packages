@@ -62,7 +62,8 @@
   },
   "authors": [
     {
-      "name": "Jean Machuca <correojean@gmail.com>"
+      "name": "Jean Machuca",
+      "email": "correojean@gmail.com"
     }
   ]
 }

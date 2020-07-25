@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Lee Sun-Hyoup <kciter@naver.com>"
+      "name": "Lee Sun-Hyoup",
+      "email": "kciter@naver.com"
     }
   ]
 }

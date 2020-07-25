@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "rgalus <biuro@rafalgalus.pl>"
+      "name": "rgalus",
+      "email": "biuro@rafalgalus.pl"
     }
   ]
 }

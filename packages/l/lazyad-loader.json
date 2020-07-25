@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "James Wragg <james.wragg@madgex.com>"
+      "name": "James Wragg",
+      "email": "james.wragg@madgex.com"
     }
   ]
 }

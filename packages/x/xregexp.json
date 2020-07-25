@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Steven Levithan <steves_list@hotmail.com>"
+      "name": "Steven Levithan",
+      "email": "steves_list@hotmail.com"
     }
   ]
 }

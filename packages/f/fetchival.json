@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Typicode <typicode@gmail.com>"
+      "name": "Typicode",
+      "email": "typicode@gmail.com"
     }
   ]
 }

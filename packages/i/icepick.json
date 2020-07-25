@@ -39,7 +39,8 @@
   },
   "authors": [
     {
-      "name": "Alexander Early <alexander.early@gmail.com>"
+      "name": "Alexander Early",
+      "email": "alexander.early@gmail.com"
     }
   ]
 }

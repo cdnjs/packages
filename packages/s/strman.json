@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Daniel Leite de Oliveira <dleitee@gmail.com>"
+      "name": "Daniel Leite de Oliveira",
+      "email": "dleitee@gmail.com"
     }
   ]
 }

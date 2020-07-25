@@ -17,7 +17,8 @@
   },
   "authors": [
     {
-      "name": "Vlad Akilov <vlad.akilov@gmail.com>"
+      "name": "Vlad Akilov",
+      "email": "vlad.akilov@gmail.com"
     }
   ]
 }

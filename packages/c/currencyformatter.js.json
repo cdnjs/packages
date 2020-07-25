@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "OSREC <info@osrec.co.uk>"
+      "name": "OSREC",
+      "email": "info@osrec.co.uk"
     }
   ]
 }

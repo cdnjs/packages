@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Juriy Zaytsev <kangax@gmail.com>"
+      "name": "Juriy Zaytsev",
+      "email": "kangax@gmail.com"
     }
   ]
 }

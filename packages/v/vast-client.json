@@ -35,7 +35,8 @@
   },
   "authors": [
     {
-      "name": "Olivier Poitrey <rs@dailymotion.com>"
+      "name": "Olivier Poitrey",
+      "email": "rs@dailymotion.com"
     }
   ]
 }

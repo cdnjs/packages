@@ -20,7 +20,8 @@
       "url": "http://kristw.yellowpigz.com"
     },
     {
-      "name": "Robert Harris <rharris@twitter.com>"
+      "name": "Robert Harris",
+      "email": "rharris@twitter.com"
     }
   ],
   "autoupdate": {

@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Burak Barakaci <barakaci@gmail.com>"
+      "name": "Burak Barakaci",
+      "email": "barakaci@gmail.com"
     }
   ]
 }

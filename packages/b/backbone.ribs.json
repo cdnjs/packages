@@ -14,7 +14,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Valeriy Zaitsev <ZaValera@gmail.com>"
+      "name": "Valeriy Zaitsev",
+      "email": "ZaValera@gmail.com"
     }
   ]
 }

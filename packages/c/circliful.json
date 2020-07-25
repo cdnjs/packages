@@ -24,7 +24,8 @@
   ],
   "authors": [
     {
-      "name": "Patric Gutersohn <pguso@gmx.de>"
+      "name": "Patric Gutersohn",
+      "email": "pguso@gmx.de"
     }
   ]
 }

@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Eduard Pleh <@nix23>"
+      "name": "Eduard Pleh",
+      "email": "@nix23"
     }
   ]
 }

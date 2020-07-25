@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "William Hilton <wmhilton@gmail.com>"
+      "name": "William Hilton",
+      "email": "wmhilton@gmail.com"
     }
   ]
 }

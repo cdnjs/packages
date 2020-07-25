@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Chris Patuzzo <chris@patuzzo.co.uk>"
+      "name": "Chris Patuzzo",
+      "email": "chris@patuzzo.co.uk"
     }
   ]
 }

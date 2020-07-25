@@ -13,7 +13,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Jake Gordon <jake@codeincomplete.com>"
+      "name": "Jake Gordon",
+      "email": "jake@codeincomplete.com"
     }
   ]
 }

@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Daniel Li <dan@danyll.com>"
+      "name": "Daniel Li",
+      "email": "dan@danyll.com"
     }
   ]
 }

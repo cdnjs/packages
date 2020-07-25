@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Matanya Fishaimer <matfish2@gmail.com>"
+      "name": "Matanya Fishaimer",
+      "email": "matfish2@gmail.com"
     }
   ]
 }

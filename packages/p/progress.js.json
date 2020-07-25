@@ -26,7 +26,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Afshin Mehrabani <afshin.meh@gmail.com>"
+      "name": "Afshin Mehrabani",
+      "email": "afshin.meh@gmail.com"
     }
   ]
 }

@@ -23,7 +23,8 @@
   },
   "authors": [
     {
-      "name": "Jonas Finnemann Jensen <jopsen@gmail.com>"
+      "name": "Jonas Finnemann Jensen",
+      "email": "jopsen@gmail.com"
     }
   ]
 }

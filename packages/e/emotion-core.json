@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "mitchellhamilton <mitchell@mitchellhamilton.me>"
+      "name": "mitchellhamilton",
+      "email": "mitchell@mitchellhamilton.me"
     }
   ]
 }

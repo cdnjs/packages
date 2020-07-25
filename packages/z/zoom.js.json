@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "fat <jacobthornton@gmail.com>"
+      "name": "fat",
+      "email": "jacobthornton@gmail.com"
     }
   ]
 }

@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Tobias Reich <tobias@electerious.com>"
+      "name": "Tobias Reich",
+      "email": "tobias@electerious.com"
     }
   ]
 }

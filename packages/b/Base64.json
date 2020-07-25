@@ -24,7 +24,8 @@
   },
   "authors": [
     {
-      "name": "David Chambers <dc@davidchambers.me>"
+      "name": "David Chambers",
+      "email": "dc@davidchambers.me"
     }
   ]
 }

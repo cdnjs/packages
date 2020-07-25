@@ -35,7 +35,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Dmitry Prokashev <heliosframework@gmail.com>"
+      "name": "Dmitry Prokashev",
+      "email": "heliosframework@gmail.com"
     }
   ]
 }

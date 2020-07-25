@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Segment.io <friends@segment.io>"
+      "name": "Segment.io",
+      "email": "friends@segment.io"
     }
   ]
 }

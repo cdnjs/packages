@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Tapmodo <khallman@tapmodo.com>"
+      "name": "Tapmodo",
+      "email": "khallman@tapmodo.com"
     }
   ]
 }

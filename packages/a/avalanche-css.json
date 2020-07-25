@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Tom Hare <tom@hare.me>"
+      "name": "Tom Hare",
+      "email": "tom@hare.me"
     }
   ]
 }

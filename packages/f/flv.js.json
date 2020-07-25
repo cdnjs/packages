@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "zheng qian <xqq@xqq.im>"
+      "name": "zheng qian",
+      "email": "xqq@xqq.im"
     }
   ]
 }

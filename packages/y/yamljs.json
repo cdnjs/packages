@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Jeremy Faivre <contact@jeremyfa.com>"
+      "name": "Jeremy Faivre",
+      "email": "contact@jeremyfa.com"
     }
   ]
 }

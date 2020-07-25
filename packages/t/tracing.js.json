@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Francisco Soto <@ebobby>"
+      "name": "Francisco Soto",
+      "email": "@ebobby"
     }
   ]
 }

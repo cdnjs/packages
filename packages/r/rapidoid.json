@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Nikolche Mihajlovski <nikolce.mihajlovski@gmail.com>"
+      "name": "Nikolche Mihajlovski",
+      "email": "nikolce.mihajlovski@gmail.com"
     }
   ]
 }

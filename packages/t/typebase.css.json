@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Devin Hunt <devinhunt@gmail.com>"
+      "name": "Devin Hunt",
+      "email": "devinhunt@gmail.com"
     }
   ]
 }

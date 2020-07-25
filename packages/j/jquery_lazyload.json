@@ -25,7 +25,8 @@
   "description": "Lazyload images with jQuery",
   "authors": [
     {
-      "name": "Mika Tuupola <tuupola@appelsiini.net>"
+      "name": "Mika Tuupola",
+      "email": "tuupola@appelsiini.net"
     }
   ]
 }

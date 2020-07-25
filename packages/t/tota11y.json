@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Jordan Scales <scalesjordan@gmail.com>"
+      "name": "Jordan Scales",
+      "email": "scalesjordan@gmail.com"
     }
   ]
 }

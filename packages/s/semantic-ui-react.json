@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Technology Advice <devteam@technologyadvice.com>"
+      "name": "Technology Advice",
+      "email": "devteam@technologyadvice.com"
     }
   ]
 }

@@ -18,7 +18,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Pierre Matri <pierre.matri@coolony.com>"
+      "name": "Pierre Matri",
+      "email": "pierre.matri@coolony.com"
     }
   ]
 }

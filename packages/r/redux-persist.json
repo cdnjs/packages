@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "rt2zz <zack@root-two.com>"
+      "name": "rt2zz",
+      "email": "zack@root-two.com"
     }
   ]
 }

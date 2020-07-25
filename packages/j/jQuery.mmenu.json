@@ -30,7 +30,8 @@
   "license": "CC-BY-NC-4.0",
   "authors": [
     {
-      "name": "Fred Heusschen <info@frebsite.nl>"
+      "name": "Fred Heusschen",
+      "email": "info@frebsite.nl"
     }
   ]
 }

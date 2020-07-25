@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Christoph Ono <chri@sto.ph>"
+      "name": "Christoph Ono",
+      "email": "chri@sto.ph"
     }
   ]
 }

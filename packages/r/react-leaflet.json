@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Paul Le Cam <paul@ulem.net>"
+      "name": "Paul Le Cam",
+      "email": "paul@ulem.net"
     }
   ]
 }

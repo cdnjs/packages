@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Logentries <hello@logentries.com>"
+      "name": "Logentries",
+      "email": "hello@logentries.com"
     }
   ]
 }

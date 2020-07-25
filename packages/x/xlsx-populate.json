@@ -36,7 +36,8 @@
   },
   "authors": [
     {
-      "name": "Dave T. Johnson <dave@dtjohnson.net>"
+      "name": "Dave T. Johnson",
+      "email": "dave@dtjohnson.net"
     }
   ]
 }

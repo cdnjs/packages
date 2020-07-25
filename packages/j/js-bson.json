@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Christian Amor Kvalheim <christkv@gmail.com>"
+      "name": "Christian Amor Kvalheim",
+      "email": "christkv@gmail.com"
     }
   ]
 }

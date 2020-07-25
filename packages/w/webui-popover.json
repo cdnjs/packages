@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Sandy Duan <sanddywalker@gmail.com>"
+      "name": "Sandy Duan",
+      "email": "sanddywalker@gmail.com"
     }
   ]
 }

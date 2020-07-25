@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Francisco Presencia <developerfrancisco@hotmail.com>"
+      "name": "Francisco Presencia",
+      "email": "developerfrancisco@hotmail.com"
     }
   ]
 }

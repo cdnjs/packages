@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Federico Zivolo <info@mywebexpression.com>"
+      "name": "Federico Zivolo",
+      "email": "info@mywebexpression.com"
     }
   ]
 }

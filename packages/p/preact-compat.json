@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Jason Miller <jason@developit.ca>"
+      "name": "Jason Miller",
+      "email": "jason@developit.ca"
     }
   ]
 }

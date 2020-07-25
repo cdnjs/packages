@@ -34,7 +34,8 @@
   },
   "authors": [
     {
-      "name": "Jerome Touffe-Blin <jtblin@gmail.com>"
+      "name": "Jerome Touffe-Blin",
+      "email": "jtblin@gmail.com"
     }
   ]
 }

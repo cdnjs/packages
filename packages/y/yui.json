@@ -31,7 +31,8 @@
   "license": "BSD",
   "authors": [
     {
-      "name": "Dav Glass <davglass@gmail.com>"
+      "name": "Dav Glass",
+      "email": "davglass@gmail.com"
     }
   ]
 }

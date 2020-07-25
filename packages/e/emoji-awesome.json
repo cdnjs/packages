@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Zeeshan Ahmad <ziishaned@gmail.com>"
+      "name": "Zeeshan Ahmad",
+      "email": "ziishaned@gmail.com"
     }
   ]
 }

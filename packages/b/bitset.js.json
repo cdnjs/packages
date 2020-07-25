@@ -37,8 +37,8 @@
   ],
   "authors": [
     {
-      "name": "Robert Eisele <robert@xarg.org>",
-      "url": "http://www.xarg.org/"
+      "name": "Robert Eisele",
+      "email": "robert@xarg.org"
     }
   ]
 }

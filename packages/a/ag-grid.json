@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Niall Crosby <info@angulargrid.com>"
+      "name": "Niall Crosby",
+      "email": "info@angulargrid.com"
     }
   ]
 }

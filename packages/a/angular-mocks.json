@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Angular Core Team <angular-core+npm@google.com>"
+      "name": "Angular Core Team",
+      "email": "angular-core+npm@google.com"
     }
   ]
 }

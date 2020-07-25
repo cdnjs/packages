@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Sasha Koss <koss@nocorp.me>"
+      "name": "Sasha Koss",
+      "email": "koss@nocorp.me"
     }
   ]
 }

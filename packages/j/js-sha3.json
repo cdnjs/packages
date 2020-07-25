@@ -36,7 +36,8 @@
   },
   "authors": [
     {
-      "name": "Chen, Yi-Cyuan <emn178@gmail.com>"
+      "name": "Chen, Yi-Cyuan",
+      "email": "emn178@gmail.com"
     }
   ]
 }

@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Kees Kluskens <kees@codeyellow.nl>"
+      "name": "Kees Kluskens",
+      "email": "kees@codeyellow.nl"
     }
   ]
 }

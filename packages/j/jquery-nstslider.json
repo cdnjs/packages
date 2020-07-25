@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Savio Dimatteo <darksmo@gmail.com>"
+      "name": "Savio Dimatteo",
+      "email": "darksmo@gmail.com"
     }
   ]
 }

@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Robert Hurst <robertwhurst@gmail.com>"
+      "name": "Robert Hurst",
+      "email": "robertwhurst@gmail.com"
     }
   ]
 }

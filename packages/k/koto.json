@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Nick Randall <nick.randall@domo.com>"
+      "name": "Nick Randall",
+      "email": "nick.randall@domo.com"
     }
   ]
 }

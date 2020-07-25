@@ -15,7 +15,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Toran Billups <toranb@gmail.com>"
+      "name": "Toran Billups",
+      "email": "toranb@gmail.com"
     }
   ]
 }

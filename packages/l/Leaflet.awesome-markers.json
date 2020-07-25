@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Lennard Voogdt <lvoogdt@gmail.com>"
+      "name": "Lennard Voogdt",
+      "email": "lvoogdt@gmail.com"
     }
   ]
 }

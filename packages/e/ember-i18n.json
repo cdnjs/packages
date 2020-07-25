@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "James A. Rosen <james.a.rosen@gmail.com>"
+      "name": "James A. Rosen",
+      "email": "james.a.rosen@gmail.com"
     }
   ]
 }

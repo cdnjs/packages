@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "ashleydw <hello@ashleyd.ws>"
+      "name": "ashleydw",
+      "email": "hello@ashleyd.ws"
     }
   ]
 }

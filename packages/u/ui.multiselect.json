@@ -13,10 +13,12 @@
   ],
   "authors": [
     {
-      "name": "Michael Aufreiter <quasipartikel.at>"
+      "name": "Michael Aufreiter",
+      "email": "quasipartikel.at"
     },
     {
-      "name": "Yanick Rochon <yanick.rochon@gmail.com>"
+      "name": "Yanick Rochon",
+      "email": "yanick.rochon@gmail.com"
     }
   ],
   "homepage": "http://www.quasipartikel.at/multiselect/",

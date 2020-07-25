@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Sam Potts <sam@selz.com>"
+      "name": "Sam Potts",
+      "email": "sam@selz.com"
     }
   ]
 }

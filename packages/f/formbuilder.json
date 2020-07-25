@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "ajb <ad@mbecker.cc>"
+      "name": "ajb",
+      "email": "ad@mbecker.cc"
     }
   ]
 }

@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Bridge.NET <hello@bridge.net>"
+      "name": "Bridge.NET",
+      "email": "hello@bridge.net"
     }
   ]
 }

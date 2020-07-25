@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Bartek Pampuch <bartosz.pampuch@gmail.com>"
+      "name": "Bartek Pampuch",
+      "email": "bartosz.pampuch@gmail.com"
     }
   ]
 }

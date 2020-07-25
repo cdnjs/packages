@@ -44,7 +44,8 @@
   },
   "authors": [
     {
-      "name": "Andrey Gershun <agershun@gmail.com>"
+      "name": "Andrey Gershun",
+      "email": "agershun@gmail.com"
     }
   ]
 }

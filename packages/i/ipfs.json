@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "David Dias <daviddias@ipfs.io>"
+      "name": "David Dias",
+      "email": "daviddias@ipfs.io"
     }
   ]
 }

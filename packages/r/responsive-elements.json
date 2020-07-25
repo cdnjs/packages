@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Kumail Hunaid <contact@kumailht.com>"
+      "name": "Kumail Hunaid",
+      "email": "contact@kumailht.com"
     }
   ]
 }

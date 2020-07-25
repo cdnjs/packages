@@ -32,7 +32,8 @@
   ],
   "authors": [
     {
-      "name": "Adam Schwartz <aschwartz@hubspot.com>"
+      "name": "Adam Schwartz",
+      "email": "aschwartz@hubspot.com"
     }
   ]
 }

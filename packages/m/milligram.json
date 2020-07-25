@@ -43,7 +43,8 @@
   },
   "authors": [
     {
-      "name": "CJ Patoilo <cjpatoilo@gmail.com>"
+      "name": "CJ Patoilo",
+      "email": "cjpatoilo@gmail.com"
     }
   ]
 }

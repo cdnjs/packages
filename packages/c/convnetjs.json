@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Andrej Karpathy <andrej.karpathy@gmail.com>"
+      "name": "Andrej Karpathy",
+      "email": "andrej.karpathy@gmail.com"
     }
   ]
 }

@@ -46,7 +46,8 @@
   },
   "authors": [
     {
-      "name": "Ma Bingyao <andot@hprose.com>"
+      "name": "Ma Bingyao",
+      "email": "andot@hprose.com"
     }
   ]
 }

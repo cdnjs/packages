@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Davide Caruso  <davide.caruso93@gmail.com>"
+      "name": "Davide Caruso",
+      "email": "davide.caruso93@gmail.com"
     }
   ]
 }

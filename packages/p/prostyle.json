@@ -35,7 +35,8 @@
   },
   "authors": [
     {
-      "name": "Gary Chamberlain <gary@pro.graphics>"
+      "name": "Gary Chamberlain",
+      "email": "gary@pro.graphics"
     }
   ]
 }

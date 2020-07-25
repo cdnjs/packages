@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Addy Osmani <addyosmani@gmail.com>"
+      "name": "Addy Osmani",
+      "email": "addyosmani@gmail.com"
     }
   ]
 }

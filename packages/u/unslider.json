@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Visual Idiot <iam@visualidiot.com>"
+      "name": "Visual Idiot",
+      "email": "iam@visualidiot.com"
     }
   ]
 }

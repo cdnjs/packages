@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Jarid Margolin <jarid@firstopinion.com>"
+      "name": "Jarid Margolin",
+      "email": "jarid@firstopinion.com"
     }
   ]
 }

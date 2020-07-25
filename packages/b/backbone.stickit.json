@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Matthew DeLambo <delambo@gmail.com>"
+      "name": "Matthew DeLambo",
+      "email": "delambo@gmail.com"
     }
   ]
 }

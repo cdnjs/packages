@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Nolan Lawson <nolan.lawson@gmail.com>"
+      "name": "Nolan Lawson",
+      "email": "nolan.lawson@gmail.com"
     }
   ]
 }

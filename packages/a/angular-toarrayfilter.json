@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Pete Bacon Darwin <pete@bacondarwin.com>"
+      "name": "Pete Bacon Darwin",
+      "email": "pete@bacondarwin.com"
     }
   ]
 }

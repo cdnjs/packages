@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Matthew King <mking@clari.com>"
+      "name": "Matthew King",
+      "email": "mking@clari.com"
     }
   ]
 }

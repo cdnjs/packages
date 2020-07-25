@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Waylon Flinn <waylonflinn@gmail.com>"
+      "name": "Waylon Flinn",
+      "email": "waylonflinn@gmail.com"
     }
   ]
 }

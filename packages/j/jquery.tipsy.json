@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Jason Frame <jason@onehackoranother.com>"
+      "name": "Jason Frame",
+      "email": "jason@onehackoranother.com"
     }
   ]
 }

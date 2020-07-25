@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Shinichi Tomita <shinichi.tomita@gmail.com>"
+      "name": "Shinichi Tomita",
+      "email": "shinichi.tomita@gmail.com"
     }
   ]
 }

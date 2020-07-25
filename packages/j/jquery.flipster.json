@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Adrien Delessert <a@drien.com>"
+      "name": "Adrien Delessert",
+      "email": "a@drien.com"
     }
   ]
 }

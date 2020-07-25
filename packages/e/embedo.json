@@ -29,7 +29,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Shobhit Sharma <hi@shobh.it>"
+      "name": "Shobhit Sharma",
+      "email": "hi@shobh.it"
     }
   ]
 }

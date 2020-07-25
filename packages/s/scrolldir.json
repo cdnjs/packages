@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Patrick Fisher <patrick@pwfisher.com>"
+      "name": "Patrick Fisher",
+      "email": "patrick@pwfisher.com"
     }
   ]
 }

@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Morteza Ansarinia <ansarinia@me.com>"
+      "name": "Morteza Ansarinia",
+      "email": "ansarinia@me.com"
     }
   ]
 }

@@ -34,7 +34,8 @@
   },
   "authors": [
     {
-      "name": "Glen Cheney <cheney.glen@gmail.com>"
+      "name": "Glen Cheney",
+      "email": "cheney.glen@gmail.com"
     }
   ]
 }

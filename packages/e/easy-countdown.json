@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Robert Fleischmann <me@robert-fleischmann.de>"
+      "name": "Robert Fleischmann",
+      "email": "me@robert-fleischmann.de"
     }
   ]
 }

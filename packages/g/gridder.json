@@ -29,7 +29,8 @@
   "license": "CC-BY-3.0",
   "authors": [
     {
-      "name": "Orion Gunning <orion.gunning@gmail.com>"
+      "name": "Orion Gunning",
+      "email": "orion.gunning@gmail.com"
     }
   ]
 }

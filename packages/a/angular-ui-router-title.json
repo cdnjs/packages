@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Stepan Riha <github@nonplus.net>"
+      "name": "Stepan Riha",
+      "email": "github@nonplus.net"
     }
   ]
 }

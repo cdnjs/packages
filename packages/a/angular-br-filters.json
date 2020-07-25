@@ -16,10 +16,12 @@
   ],
   "authors": [
     {
-      "name": "Igor Rafael <igor.rafael@gmail.com>"
+      "name": "Igor Rafael",
+      "email": "igor.rafael@gmail.com"
     },
     {
-      "name": "Daniel Campos <darc.tec@gmail.com>"
+      "name": "Daniel Campos",
+      "email": "darc.tec@gmail.com"
     }
   ],
   "license": "MIT",

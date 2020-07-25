@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Jenil Gogari <i@jgog.in>"
+      "name": "Jenil Gogari",
+      "email": "i@jgog.in"
     }
   ]
 }

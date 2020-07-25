@@ -27,7 +27,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Vladimir Zapparov <dervus.grim@gmail.com>"
+      "name": "Vladimir Zapparov",
+      "email": "dervus.grim@gmail.com"
     }
   ]
 }

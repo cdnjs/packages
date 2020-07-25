@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Steven Lindberg <steven@lytics.io>"
+      "name": "Steven Lindberg",
+      "email": "steven@lytics.io"
     }
   ]
 }

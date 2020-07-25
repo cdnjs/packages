@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Richard Moore <me@ricmoo.com>"
+      "name": "Richard Moore",
+      "email": "me@ricmoo.com"
     }
   ]
 }

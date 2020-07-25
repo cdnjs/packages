@@ -37,7 +37,8 @@
   },
   "authors": [
     {
-      "name": "Chris Simpkins <chris@sourcefoundry.org>"
+      "name": "Chris Simpkins",
+      "email": "chris@sourcefoundry.org"
     }
   ]
 }

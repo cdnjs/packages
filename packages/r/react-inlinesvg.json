@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Matthew Dapena-Tretter <m@tthewwithanm.com>"
+      "name": "Matthew Dapena-Tretter",
+      "email": "m@tthewwithanm.com"
     }
   ]
 }

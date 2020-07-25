@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Erik Terwan <erik@erikterwan.com>"
+      "name": "Erik Terwan",
+      "email": "erik@erikterwan.com"
     }
   ]
 }

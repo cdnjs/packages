@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "sofish <sofish@icloud.com>"
+      "name": "sofish",
+      "email": "sofish@icloud.com"
     }
   ]
 }

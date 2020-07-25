@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "nicolasbize <http://nicolasbize.com>"
+      "name": "nicolasbize",
+      "email": "http://nicolasbize.com"
     }
   ]
 }

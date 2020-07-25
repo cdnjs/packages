@@ -28,7 +28,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "James Allardice <admin@jamesallardice.com>"
+      "name": "James Allardice",
+      "email": "admin@jamesallardice.com"
     }
   ]
 }

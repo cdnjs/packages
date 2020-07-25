@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Alexander Rose <alexander.rose@weirdbyte.de>"
+      "name": "Alexander Rose",
+      "email": "alexander.rose@weirdbyte.de"
     }
   ]
 }

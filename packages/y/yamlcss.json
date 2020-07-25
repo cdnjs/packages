@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Dirk Jesse <office@highresolution.info>"
+      "name": "Dirk Jesse",
+      "email": "office@highresolution.info"
     }
   ]
 }

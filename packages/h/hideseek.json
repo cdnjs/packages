@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Dimitris Krestos <dkrestos@gmail.com>"
+      "name": "Dimitris Krestos",
+      "email": "dkrestos@gmail.com"
     }
   ]
 }

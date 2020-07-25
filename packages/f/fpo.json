@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Kyle Simpson <getify@gmail.com>"
+      "name": "Kyle Simpson",
+      "email": "getify@gmail.com"
     }
   ]
 }

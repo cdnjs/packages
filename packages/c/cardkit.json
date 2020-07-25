@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Chris Hutchinson <chris.hutchinson@thetimes.co.uk>"
+      "name": "Chris Hutchinson",
+      "email": "chris.hutchinson@thetimes.co.uk"
     }
   ]
 }

@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Joshua Comeau <josh@unsplash.com>"
+      "name": "Joshua Comeau",
+      "email": "josh@unsplash.com"
     }
   ]
 }

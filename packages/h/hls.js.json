@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Guillaume du Pontavice <g.du.pontavice@gmail.com>"
+      "name": "Guillaume du Pontavice",
+      "email": "g.du.pontavice@gmail.com"
     }
   ]
 }

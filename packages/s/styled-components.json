@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Glen Maddern <@geelen>"
+      "name": "Glen Maddern",
+      "email": "@geelen"
     }
   ]
 }

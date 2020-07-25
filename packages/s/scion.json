@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Jacob Beard <jake@jacobeanrnd.com>"
+      "name": "Jacob Beard",
+      "email": "jake@jacobeanrnd.com"
     }
   ]
 }

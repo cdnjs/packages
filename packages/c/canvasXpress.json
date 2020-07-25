@@ -33,7 +33,8 @@
   "license": "GPL-3.0",
   "authors": [
     {
-      "name": "Isaac Neuhaus <imnphd@gmail.com>"
+      "name": "Isaac Neuhaus",
+      "email": "imnphd@gmail.com"
     }
   ]
 }

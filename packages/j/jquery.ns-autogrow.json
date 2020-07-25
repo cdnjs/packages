@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Roman Pushkin <roman.pushkin@gmail.com>"
+      "name": "Roman Pushkin",
+      "email": "roman.pushkin@gmail.com"
     }
   ]
 }

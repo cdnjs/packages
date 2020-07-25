@@ -29,7 +29,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Erik Flowers <erik@helloerik.com>"
+      "name": "Erik Flowers",
+      "email": "erik@helloerik.com"
     }
   ]
 }

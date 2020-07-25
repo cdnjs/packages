@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Eric Ferraiuolo <eferraiuolo@gmail.com>"
+      "name": "Eric Ferraiuolo",
+      "email": "eferraiuolo@gmail.com"
     }
   ]
 }

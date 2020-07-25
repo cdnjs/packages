@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Quinn Rohlf <qr@qrohlf.com>"
+      "name": "Quinn Rohlf",
+      "email": "qr@qrohlf.com"
     }
   ]
 }

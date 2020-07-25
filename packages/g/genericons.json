@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "George Stephanis <georgestephanis@automattic.com>"
+      "name": "George Stephanis",
+      "email": "georgestephanis@automattic.com"
     }
   ]
 }

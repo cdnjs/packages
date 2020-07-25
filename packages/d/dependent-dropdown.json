@@ -30,7 +30,8 @@
   "license": "BSD-3-Clause",
   "authors": [
     {
-      "name": "Kartik Visweswaran <kartikv2@gmail.com>"
+      "name": "Kartik Visweswaran",
+      "email": "kartikv2@gmail.com"
     }
   ]
 }

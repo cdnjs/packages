@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Francisco Presencia Fandos <public@francisco.io>"
+      "name": "Francisco Presencia Fandos",
+      "email": "public@francisco.io"
     }
   ]
 }

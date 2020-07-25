@@ -41,7 +41,8 @@
   },
   "authors": [
     {
-      "name": "Lukas Jakob Hafner <luki@booncon.com>"
+      "name": "Lukas Jakob Hafner",
+      "email": "luki@booncon.com"
     }
   ]
 }

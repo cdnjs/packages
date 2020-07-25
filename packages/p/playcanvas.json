@@ -34,7 +34,8 @@
   },
   "authors": [
     {
-      "name": "PlayCanvas <support@playcanvas.com>"
+      "name": "PlayCanvas",
+      "email": "support@playcanvas.com"
     }
   ]
 }

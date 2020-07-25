@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Lucas Gruwez <gruwez.lucas@gmail.com>"
+      "name": "Lucas Gruwez",
+      "email": "gruwez.lucas@gmail.com"
     }
   ]
 }

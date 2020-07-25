@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Max Edmands <max@goodeggs.com>"
+      "name": "Max Edmands",
+      "email": "max@goodeggs.com"
     }
   ]
 }

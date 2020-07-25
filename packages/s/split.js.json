@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Nathan Cahill <nathan@nathancahill.com>"
+      "name": "Nathan Cahill",
+      "email": "nathan@nathancahill.com"
     }
   ]
 }

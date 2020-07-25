@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Dylan Greene <dylang@gmail.com>"
+      "name": "Dylan Greene",
+      "email": "dylang@gmail.com"
     }
   ]
 }

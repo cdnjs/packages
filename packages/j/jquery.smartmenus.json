@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Vasil Dinkov <vasko.dinkov@gmail.com>"
+      "name": "Vasil Dinkov",
+      "email": "vasko.dinkov@gmail.com"
     }
   ]
 }

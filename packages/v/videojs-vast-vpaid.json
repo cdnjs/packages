@@ -34,7 +34,8 @@
   },
   "authors": [
     {
-      "name": "Carlos Serrano <carlos.pastor@mailonline.co.uk>"
+      "name": "Carlos Serrano",
+      "email": "carlos.pastor@mailonline.co.uk"
     }
   ]
 }

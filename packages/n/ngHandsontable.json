@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Marcin Warpechowski <hello@handsontable.com>"
+      "name": "Marcin Warpechowski",
+      "email": "hello@handsontable.com"
     }
   ]
 }

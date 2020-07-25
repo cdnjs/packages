@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "amvtek <devel@amvtek.com>"
+      "name": "amvtek",
+      "email": "devel@amvtek.com"
     }
   ]
 }

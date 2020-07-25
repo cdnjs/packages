@@ -26,7 +26,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Florian Hartmann <jscoderr@gmail.com>"
+      "name": "Florian Hartmann",
+      "email": "jscoderr@gmail.com"
     }
   ]
 }

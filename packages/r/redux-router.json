@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Andrew Clark <acdlite@me.com>"
+      "name": "Andrew Clark",
+      "email": "acdlite@me.com"
     }
   ]
 }

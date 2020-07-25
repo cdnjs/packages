@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Borgar Þorsteinsson <borgar@borgar.net>"
+      "name": "Borgar Þorsteinsson",
+      "email": "borgar@borgar.net"
     }
   ]
 }

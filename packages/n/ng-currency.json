@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Luis Aguirre <luis@alaguirre.com>"
+      "name": "Luis Aguirre",
+      "email": "luis@alaguirre.com"
     }
   ]
 }

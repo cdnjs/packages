@@ -36,7 +36,8 @@
   },
   "authors": [
     {
-      "name": "Igor Ognichenko <ognichenko.igor@gmail.com>"
+      "name": "Igor Ognichenko",
+      "email": "ognichenko.igor@gmail.com"
     }
   ]
 }

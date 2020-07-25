@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Victor Quinn <mail@victorquinn.com>"
+      "name": "Victor Quinn",
+      "email": "mail@victorquinn.com"
     }
   ]
 }

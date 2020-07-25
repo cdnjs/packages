@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "pieroxy <pieroxy@pieroxy.net>"
+      "name": "pieroxy",
+      "email": "pieroxy@pieroxy.net"
     }
   ]
 }

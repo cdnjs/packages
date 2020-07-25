@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Christopher Blum <christopher.blum@spellboy.com>"
+      "name": "Christopher Blum",
+      "email": "christopher.blum@spellboy.com"
     }
   ]
 }

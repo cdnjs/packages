@@ -31,7 +31,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicklas Ansman <nicklas@ansman.se>"
+      "name": "Nicklas Ansman",
+      "email": "nicklas@ansman.se"
     }
   ]
 }

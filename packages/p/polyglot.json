@@ -27,7 +27,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "tavyy <octavr@gmail.com>"
+      "name": "tavyy",
+      "email": "octavr@gmail.com"
     }
   ]
 }

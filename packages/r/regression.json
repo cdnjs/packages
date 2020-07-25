@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Tom Alexander <me@tomalexander.co.nz>"
+      "name": "Tom Alexander",
+      "email": "me@tomalexander.co.nz"
     }
   ]
 }

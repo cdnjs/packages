@@ -36,7 +36,8 @@
   },
   "authors": [
     {
-      "name": "Per Liedman <per@liedman.net>"
+      "name": "Per Liedman",
+      "email": "per@liedman.net"
     }
   ]
 }

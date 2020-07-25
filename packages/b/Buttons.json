@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Unicorn-UI <updates@unicorn-ui.com>"
+      "name": "Unicorn-UI",
+      "email": "updates@unicorn-ui.com"
     }
   ]
 }

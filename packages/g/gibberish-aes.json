@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Mark Percival <mark@mpercival.com>"
+      "name": "Mark Percival",
+      "email": "mark@mpercival.com"
     }
   ]
 }

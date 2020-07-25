@@ -4,10 +4,12 @@
   "description": "Styleable select elements built on Tether",
   "authors": [
     {
-      "name": "Adam Schwartz <adam.flynn.schwartz@gmail.com>"
+      "name": "Adam Schwartz",
+      "email": "adam.flynn.schwartz@gmail.com"
     },
     {
-      "name": "Zack Bloom <zbloom@hubspot.com>"
+      "name": "Zack Bloom",
+      "email": "zbloom@hubspot.com"
     }
   ],
   "license": "MIT",

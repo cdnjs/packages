@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Mathew Kleppin <mathew.kleppin@gmail.com>"
+      "name": "Mathew Kleppin",
+      "email": "mathew.kleppin@gmail.com"
     }
   ]
 }

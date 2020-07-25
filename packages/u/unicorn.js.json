@@ -32,7 +32,8 @@
   "license": "GPL-2.0",
   "authors": [
     {
-      "name": "Alexandro Sanchez Bach <alexaltea123@gmail.com>"
+      "name": "Alexandro Sanchez Bach",
+      "email": "alexaltea123@gmail.com"
     }
   ]
 }

@@ -36,7 +36,8 @@
   },
   "authors": [
     {
-      "name": "Brian Turek <brian.turek@gmail.com>"
+      "name": "Brian Turek",
+      "email": "brian.turek@gmail.com"
     }
   ]
 }

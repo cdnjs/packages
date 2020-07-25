@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Christopher Wallis <christopher.j.wallis@gmail.com>"
+      "name": "Christopher Wallis",
+      "email": "christopher.j.wallis@gmail.com"
     }
   ]
 }

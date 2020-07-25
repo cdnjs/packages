@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "James Long <longster@gmail.com>"
+      "name": "James Long",
+      "email": "longster@gmail.com"
     }
   ]
 }

@@ -29,7 +29,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Adam D. Scott <hello@adamdscott.com>"
+      "name": "Adam D. Scott",
+      "email": "hello@adamdscott.com"
     }
   ]
 }

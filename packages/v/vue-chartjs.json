@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Jakub Juszczak <jakub@posteo.de>"
+      "name": "Jakub Juszczak",
+      "email": "jakub@posteo.de"
     }
   ]
 }

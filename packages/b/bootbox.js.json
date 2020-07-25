@@ -25,7 +25,8 @@
   ],
   "authors": [
     {
-      "name": "Nick Payne <nick@kurai.co.uk>"
+      "name": "Nick Payne",
+      "email": "nick@kurai.co.uk"
     }
   ]
 }

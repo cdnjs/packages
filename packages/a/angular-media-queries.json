@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Jack <jack@ofspades.com>"
+      "name": "Jack",
+      "email": "jack@ofspades.com"
     }
   ]
 }

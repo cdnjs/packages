@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Mat Owens <mat@peglegg.net>"
+      "name": "Mat Owens",
+      "email": "mat@peglegg.net"
     }
   ]
 }

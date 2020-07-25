@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Andrea Passaglia <gurghet@gmail.com>"
+      "name": "Andrea Passaglia",
+      "email": "gurghet@gmail.com"
     }
   ]
 }

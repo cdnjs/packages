@@ -4,10 +4,12 @@
   "description": "A d3.js heatmap representing time series data. Inspired by Github's contribution chart",
   "authors": [
     {
-      "name": "Darragh Kirwan <d@rragh.com>"
+      "name": "Darragh Kirwan",
+      "email": "d@rragh.com"
     },
     {
-      "name": "Oskar Niburski <oskarniburski@gmail.com>"
+      "name": "Oskar Niburski",
+      "email": "oskarniburski@gmail.com"
     }
   ],
   "repository": {

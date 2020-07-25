@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Piwik.org <hello@piwik.org>"
+      "name": "Piwik.org",
+      "email": "hello@piwik.org"
     }
   ]
 }

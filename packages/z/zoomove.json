@@ -37,7 +37,8 @@
   },
   "authors": [
     {
-      "name": "Emerson Thompson <thompson.emerson@gmail.com>"
+      "name": "Emerson Thompson",
+      "email": "thompson.emerson@gmail.com"
     }
   ]
 }

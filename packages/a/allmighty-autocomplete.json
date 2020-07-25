@@ -14,7 +14,8 @@
   "homepage": "http://www.justgoscha.com/allmighty-autocomplete/",
   "authors": [
     {
-      "name": "Goscha Graf <justgoscha@gmail.com>"
+      "name": "Goscha Graf",
+      "email": "justgoscha@gmail.com"
     }
   ]
 }

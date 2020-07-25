@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Rostyslav Bryzgunov <kottenator@gmail.com>"
+      "name": "Rostyslav Bryzgunov",
+      "email": "kottenator@gmail.com"
     }
   ]
 }

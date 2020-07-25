@@ -22,7 +22,8 @@
   },
   "authors": [
     {
-      "name": "Sven Sauleau <sven@sauleau.com>"
+      "name": "Sven Sauleau",
+      "email": "sven@sauleau.com"
     }
   ]
 }

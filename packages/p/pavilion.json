@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Baasdesign <info@baasdesign.com>"
+      "name": "Baasdesign",
+      "email": "info@baasdesign.com"
     }
   ]
 }

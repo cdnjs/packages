@@ -27,7 +27,8 @@
   "homepage": "http://meowni.ca/emoji-translate/",
   "authors": [
     {
-      "name": "Monica Dinculescu <noms@google.com>"
+      "name": "Monica Dinculescu",
+      "email": "noms@google.com"
     }
   ]
 }

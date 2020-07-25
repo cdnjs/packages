@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Joshaven Potter <yourtech@gmail.com>"
+      "name": "Joshaven Potter",
+      "email": "yourtech@gmail.com"
     }
   ]
 }

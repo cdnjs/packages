@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Luke Snowden <luke@sno.wden.co.uk>"
+      "name": "Luke Snowden",
+      "email": "luke@sno.wden.co.uk"
     }
   ]
 }

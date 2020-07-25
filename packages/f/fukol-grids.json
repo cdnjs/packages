@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Heydon Pickering <heydon@heydonworks.com>"
+      "name": "Heydon Pickering",
+      "email": "heydon@heydonworks.com"
     }
   ]
 }

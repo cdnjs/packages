@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Jason Mulligan <jason.mulligan@avoidwork.com>"
+      "name": "Jason Mulligan",
+      "email": "jason.mulligan@avoidwork.com"
     }
   ]
 }

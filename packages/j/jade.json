@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "TJ Holowaychuk <tj@vision-media.ca>"
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
     }
   ]
 }

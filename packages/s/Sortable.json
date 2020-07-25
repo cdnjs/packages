@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Konstantin Lebedev <ibnRubaXa@gmail.com>"
+      "name": "Konstantin Lebedev",
+      "email": "ibnRubaXa@gmail.com"
     }
   ]
 }

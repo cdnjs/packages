@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Alejandro Blanco <alejandro.b.e@gmail.com>"
+      "name": "Alejandro Blanco",
+      "email": "alejandro.b.e@gmail.com"
     }
   ]
 }

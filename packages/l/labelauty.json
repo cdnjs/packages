@@ -30,7 +30,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Francisco Neves <contact@francisconeves.com>"
+      "name": "Francisco Neves",
+      "email": "contact@francisconeves.com"
     }
   ]
 }

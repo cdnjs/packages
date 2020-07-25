@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Chris Davies <ferociousturtle@gmail.com>"
+      "name": "Chris Davies",
+      "email": "ferociousturtle@gmail.com"
     }
   ]
 }

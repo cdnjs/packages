@@ -32,7 +32,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "dreamerslab <ben@dreamerslab.com>"
+      "name": "dreamerslab",
+      "email": "ben@dreamerslab.com"
     }
   ]
 }

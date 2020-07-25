@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Luigi De Rosa <lurukee@gmail.com>"
+      "name": "Luigi De Rosa",
+      "email": "lurukee@gmail.com"
     }
   ]
 }

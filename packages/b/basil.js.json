@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Mathieu Ghaleb <mathieu@wisembly.com>"
+      "name": "Mathieu Ghaleb",
+      "email": "mathieu@wisembly.com"
     }
   ]
 }

@@ -29,7 +29,8 @@
   "filename": "rita.min.js",
   "authors": [
     {
-      "name": "Daniel C. Howe <daniel@rednoise.org>"
+      "name": "Daniel C. Howe",
+      "email": "daniel@rednoise.org"
     }
   ]
 }

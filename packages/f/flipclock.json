@@ -27,7 +27,8 @@
   "description": "FlipClock.js is a proper abstract object oriented clock and counter library with a realistic flip effect.",
   "authors": [
     {
-      "name": "Objective HTML, LLC <support@objectivehtml.com>"
+      "name": "Objective HTML, LLC",
+      "email": "support@objectivehtml.com"
     }
   ]
 }

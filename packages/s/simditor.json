@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "farthinker <farthinker@gmail.com>"
+      "name": "farthinker",
+      "email": "farthinker@gmail.com"
     }
   ]
 }

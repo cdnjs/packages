@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Istvan Fodor <programtervezo@gmail.com>"
+      "name": "Istvan Fodor",
+      "email": "programtervezo@gmail.com"
     }
   ]
 }

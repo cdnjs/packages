@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Jonas Mosbech <https://github.com/jmosbech>"
+      "name": "Jonas Mosbech",
+      "email": "https://github.com/jmosbech"
     }
   ]
 }

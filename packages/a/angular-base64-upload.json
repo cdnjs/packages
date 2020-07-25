@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Adones Pitogo <pitogo.adones@gmail.com>"
+      "name": "Adones Pitogo",
+      "email": "pitogo.adones@gmail.com"
     }
   ]
 }

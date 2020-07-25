@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Iliyan Peychev <iliyan.peychev@gmail.com>"
+      "name": "Iliyan Peychev",
+      "email": "iliyan.peychev@gmail.com"
     }
   ]
 }

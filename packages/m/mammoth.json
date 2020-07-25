@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Michael Williamson <mike@zwobble.org>"
+      "name": "Michael Williamson",
+      "email": "mike@zwobble.org"
     }
   ]
 }

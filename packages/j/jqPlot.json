@@ -22,7 +22,8 @@
   },
   "authors": [
     {
-      "name": "Chris Leonello <chris@jqplot.com>"
+      "name": "Chris Leonello",
+      "email": "chris@jqplot.com"
     }
   ]
 }

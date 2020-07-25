@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Stephen J. Collings <stevoland@gmail.com>"
+      "name": "Stephen J. Collings",
+      "email": "stevoland@gmail.com"
     }
   ]
 }

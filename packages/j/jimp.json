@@ -39,7 +39,8 @@
   },
   "authors": [
     {
-      "name": "Oliver Moran <oliver.moran@gmail.com>"
+      "name": "Oliver Moran",
+      "email": "oliver.moran@gmail.com"
     }
   ]
 }

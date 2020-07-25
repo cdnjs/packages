@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "fer <fer@ferqwerty.com>"
+      "name": "fer",
+      "email": "fer@ferqwerty.com"
     }
   ]
 }

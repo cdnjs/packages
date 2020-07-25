@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Anton Medvedev <anton@medv.io>"
+      "name": "Anton Medvedev",
+      "email": "anton@medv.io"
     }
   ]
 }

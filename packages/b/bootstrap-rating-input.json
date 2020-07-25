@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Javier Toledo <javier@theagilemonkeys.com>"
+      "name": "Javier Toledo",
+      "email": "javier@theagilemonkeys.com"
     }
   ]
 }

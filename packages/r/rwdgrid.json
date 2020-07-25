@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Vineeth G S <hello@gsvineeth.com>"
+      "name": "Vineeth G S",
+      "email": "hello@gsvineeth.com"
     }
   ]
 }

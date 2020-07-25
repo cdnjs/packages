@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Alexander Madyankin <alexander@madyankin.name>"
+      "name": "Alexander Madyankin",
+      "email": "alexander@madyankin.name"
     }
   ]
 }

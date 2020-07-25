@@ -27,7 +27,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Julien Bouquillon <julien@revolunet.com>"
+      "name": "Julien Bouquillon",
+      "email": "julien@revolunet.com"
     }
   ]
 }

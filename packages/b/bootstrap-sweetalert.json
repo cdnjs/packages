@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Panayiotis Lipiridis <lipiridis@gmail.com>"
+      "name": "Panayiotis Lipiridis",
+      "email": "lipiridis@gmail.com"
     }
   ]
 }

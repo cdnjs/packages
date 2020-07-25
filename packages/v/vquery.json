@@ -39,7 +39,8 @@
   },
   "authors": [
     {
-      "name": "Jason Hicks <jaszhix@gmail.com>"
+      "name": "Jason Hicks",
+      "email": "jaszhix@gmail.com"
     }
   ]
 }

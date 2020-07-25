@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Dave Leaver <danzel@localhost.geek.nz>"
+      "name": "Dave Leaver",
+      "email": "danzel@localhost.geek.nz"
     }
   ]
 }

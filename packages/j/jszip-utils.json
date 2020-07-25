@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Stuart Knightley <stuart@stuartk.com>"
+      "name": "Stuart Knightley",
+      "email": "stuart@stuartk.com"
     }
   ]
 }

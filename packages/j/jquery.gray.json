@@ -31,7 +31,8 @@
   },
   "authors": [
     {
-      "name": "Karl Horky <karl.horky@gmail.com>"
+      "name": "Karl Horky",
+      "email": "karl.horky@gmail.com"
     }
   ]
 }

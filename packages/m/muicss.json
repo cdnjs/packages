@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Andres Morey <andres@muicss.com>"
+      "name": "Andres Morey",
+      "email": "andres@muicss.com"
     }
   ]
 }

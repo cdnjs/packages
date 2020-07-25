@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Filippo Oretti <filippo.oretti@gmail.com>"
+      "name": "Filippo Oretti",
+      "email": "filippo.oretti@gmail.com"
     }
   ]
 }

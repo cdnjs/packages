@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Peter Olson <peter.e.c.olson+npm@gmail.com>"
+      "name": "Peter Olson",
+      "email": "peter.e.c.olson+npm@gmail.com"
     }
   ]
 }

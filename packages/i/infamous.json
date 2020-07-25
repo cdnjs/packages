@@ -55,7 +55,8 @@
   },
   "authors": [
     {
-      "name": "Joseph Orbegoso Pea <joe@trusktr.io>"
+      "name": "Joseph Orbegoso Pea",
+      "email": "joe@trusktr.io"
     }
   ]
 }

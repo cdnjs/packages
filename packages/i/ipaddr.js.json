@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "whitequark <whitequark@whitequark.org>"
+      "name": "whitequark",
+      "email": "whitequark@whitequark.org"
     }
   ]
 }

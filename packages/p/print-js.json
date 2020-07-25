@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Rodrigo Vieira <rodrigo@crabbly.com>"
+      "name": "Rodrigo Vieira",
+      "email": "rodrigo@crabbly.com"
     }
   ]
 }

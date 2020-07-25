@@ -24,7 +24,8 @@
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "David Mauro <email@dmauro.com>"
+      "name": "David Mauro",
+      "email": "email@dmauro.com"
     }
   ]
 }

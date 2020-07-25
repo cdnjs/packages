@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Nicolas Carlo <nicolascarlo.espeon@gmail.com>"
+      "name": "Nicolas Carlo",
+      "email": "nicolascarlo.espeon@gmail.com"
     }
   ]
 }

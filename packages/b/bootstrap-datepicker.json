@@ -26,7 +26,8 @@
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Andrew Rowls <eternicode@gmail.com>"
+      "name": "Andrew Rowls",
+      "email": "eternicode@gmail.com"
     }
   ]
 }

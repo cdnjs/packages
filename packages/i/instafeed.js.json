@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "Steven Schobert <spschobert@gmail.com>"
+      "name": "Steven Schobert",
+      "email": "spschobert@gmail.com"
     }
   ]
 }

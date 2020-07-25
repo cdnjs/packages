@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Benjamin Eidelman <beneidel@gmail.com>"
+      "name": "Benjamin Eidelman",
+      "email": "beneidel@gmail.com"
     }
   ]
 }

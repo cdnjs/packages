@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Max Lyashuk <m_lyashuk@ukr.net>"
+      "name": "Max Lyashuk",
+      "email": "m_lyashuk@ukr.net"
     }
   ]
 }

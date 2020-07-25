@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Jack Rugile <jack@jackrugile.com>"
+      "name": "Jack Rugile",
+      "email": "jack@jackrugile.com"
     }
   ]
 }

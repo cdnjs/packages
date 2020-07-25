@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Erik Cunningham <djtrinary@gmail.com>"
+      "name": "Erik Cunningham",
+      "email": "djtrinary@gmail.com"
     }
   ]
 }

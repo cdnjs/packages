@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Jon Eisen <jon@joneisen.me>"
+      "name": "Jon Eisen",
+      "email": "jon@joneisen.me"
     }
   ]
 }

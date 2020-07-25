@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Gunjan Datta <github@dattabase.com>"
+      "name": "Gunjan Datta",
+      "email": "github@dattabase.com"
     }
   ]
 }

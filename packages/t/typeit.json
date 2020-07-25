@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Alex MacArthur <alex@macarthur.me>"
+      "name": "Alex MacArthur",
+      "email": "alex@macarthur.me"
     }
   ]
 }

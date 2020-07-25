@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Tim Macfarlane <timmacfarlane@gmail.com>"
+      "name": "Tim Macfarlane",
+      "email": "timmacfarlane@gmail.com"
     }
   ]
 }

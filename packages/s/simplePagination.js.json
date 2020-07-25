@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Flavius Matis <flavius@fdbk.me>"
+      "name": "Flavius Matis",
+      "email": "flavius@fdbk.me"
     }
   ]
 }

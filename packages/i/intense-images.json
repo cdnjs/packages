@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Tim Holman <timothy.w.holman@gmail.com>"
+      "name": "Tim Holman",
+      "email": "timothy.w.holman@gmail.com"
     }
   ]
 }

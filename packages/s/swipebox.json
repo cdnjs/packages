@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "brutaldesign <hello@csag.co>"
+      "name": "brutaldesign",
+      "email": "hello@csag.co"
     }
   ]
 }

@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Martin Zagora <zaggino@gmail.com>"
+      "name": "Martin Zagora",
+      "email": "zaggino@gmail.com"
     }
   ]
 }

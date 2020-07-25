@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Guy Peer <guypeer8@gmail.com>"
+      "name": "Guy Peer",
+      "email": "guypeer8@gmail.com"
     }
   ]
 }

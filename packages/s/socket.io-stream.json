@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Naoyuki Kanezawa <naoyuki.kanezawa@gmail.com>"
+      "name": "Naoyuki Kanezawa",
+      "email": "naoyuki.kanezawa@gmail.com"
     }
   ]
 }

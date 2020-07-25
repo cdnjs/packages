@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Matt Huggins <matt.huggins@gmail.com>"
+      "name": "Matt Huggins",
+      "email": "matt.huggins@gmail.com"
     }
   ]
 }

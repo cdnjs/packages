@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "grevory <greg@gregpike.ca>"
+      "name": "grevory",
+      "email": "greg@gregpike.ca"
     }
   ]
 }

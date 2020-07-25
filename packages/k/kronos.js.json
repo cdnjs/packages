@@ -29,7 +29,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "GoDaddy <devs@locu.com>"
+      "name": "GoDaddy",
+      "email": "devs@locu.com"
     }
   ]
 }

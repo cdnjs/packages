@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Alex Carter <alex@blazeworx.com>"
+      "name": "Alex Carter",
+      "email": "alex@blazeworx.com"
     }
   ]
 }

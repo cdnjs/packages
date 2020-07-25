@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Dmitry Filatov <dfilatov@yandex-team.ru>"
+      "name": "Dmitry Filatov",
+      "email": "dfilatov@yandex-team.ru"
     }
   ]
 }

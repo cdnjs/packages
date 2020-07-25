@@ -34,7 +34,8 @@
   },
   "authors": [
     {
-      "name": "Giampaolo Bellavite <io@gpbl.org>"
+      "name": "Giampaolo Bellavite",
+      "email": "io@gpbl.org"
     }
   ]
 }

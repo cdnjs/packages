@@ -29,7 +29,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Scott Jehl <scottjehl@gmail.com>"
+      "name": "Scott Jehl",
+      "email": "scottjehl@gmail.com"
     }
   ]
 }

@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Alex Kyriakidis <alex@tmvuejs.com>"
+      "name": "Alex Kyriakidis",
+      "email": "alex@tmvuejs.com"
     }
   ]
 }

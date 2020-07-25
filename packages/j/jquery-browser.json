@@ -15,10 +15,12 @@
   },
   "authors": [
     {
-      "name": "Gabriel Cebrian <gabceb@gmail.com>"
+      "name": "Gabriel Cebrian",
+      "email": "gabceb@gmail.com"
     },
     {
-      "name": "jQuery Team <https://github.com/gabceb/jquery-browser-plugin/wiki/Authors>"
+      "name": "jQuery Team",
+      "email": "https://github.com/gabceb/jquery-browser-plugin/wiki/Authors"
     }
   ],
   "autoupdate": {

@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "santiago <santiago.blanco.vilchez@gmail.com>"
+      "name": "santiago",
+      "email": "santiago.blanco.vilchez@gmail.com"
     }
   ]
 }

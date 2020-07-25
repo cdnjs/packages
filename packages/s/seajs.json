@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Frank Wang <lifesinger@gmail.com>"
+      "name": "Frank Wang",
+      "email": "lifesinger@gmail.com"
     }
   ]
 }

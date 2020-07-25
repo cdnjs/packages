@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "BunKat <bill@bunkat.com>"
+      "name": "BunKat",
+      "email": "bill@bunkat.com"
     }
   ]
 }

@@ -36,7 +36,8 @@
   },
   "authors": [
     {
-      "name": "Oleg Kiriljuk <oleg.kiriljuk@ok-soft-gmbh.com>"
+      "name": "Oleg Kiriljuk",
+      "email": "oleg.kiriljuk@ok-soft-gmbh.com"
     }
   ]
 }

@@ -27,7 +27,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Pavel Reznikov <pashka.reznikov@gmail.com>"
+      "name": "Pavel Reznikov",
+      "email": "pashka.reznikov@gmail.com"
     }
   ]
 }

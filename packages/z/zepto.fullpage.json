@@ -25,7 +25,8 @@
   },
   "authors": [
     {
-      "name": "yanhaijing <yanhaijing@yeah.net>"
+      "name": "yanhaijing",
+      "email": "yanhaijing@yeah.net"
     }
   ]
 }

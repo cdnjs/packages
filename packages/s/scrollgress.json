@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Michael Lynch <mikethomaslynch@gmail.com>"
+      "name": "Michael Lynch",
+      "email": "mikethomaslynch@gmail.com"
     }
   ]
 }

@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Jed Foster <jed@jedfoster.com>"
+      "name": "Jed Foster",
+      "email": "jed@jedfoster.com"
     }
   ]
 }

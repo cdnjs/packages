@@ -26,7 +26,8 @@
   },
   "authors": [
     {
-      "name": "Stefan Dühring | Autarc <autarc@gmail.com>"
+      "name": "Stefan Dühring | Autarc",
+      "email": "autarc@gmail.com"
     }
   ]
 }

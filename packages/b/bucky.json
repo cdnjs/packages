@@ -29,7 +29,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Zack Bloom <zbloom@hubspot.com>"
+      "name": "Zack Bloom",
+      "email": "zbloom@hubspot.com"
     }
   ]
 }

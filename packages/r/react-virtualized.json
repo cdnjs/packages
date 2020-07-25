@@ -39,7 +39,8 @@
   },
   "authors": [
     {
-      "name": "Brian Vaughn <brian.david.vaughn@gmail.com>"
+      "name": "Brian Vaughn",
+      "email": "brian.david.vaughn@gmail.com"
     }
   ]
 }

@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Roi Avinoam <avinoamr@gmail.com>"
+      "name": "Roi Avinoam",
+      "email": "avinoamr@gmail.com"
     }
   ]
 }
