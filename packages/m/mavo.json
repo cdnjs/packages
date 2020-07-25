@@ -1,7 +1,7 @@
 {
   "name": "mavo",
   "description": "Create web applications with HTML and CSS",
-  "filename": "mavo.js",
+  "filename": "mavo.min.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/mavoweb/mavo.git"
