@@ -35,7 +35,8 @@
   },
   "authors": [
     {
-      "name": "Jim Cowart (http://freshbrewedcode.com/jimcowart)"
+      "name": "Jim Cowart",
+      "url": "http://freshbrewedcode.com/jimcowart"
     }
   ]
 }

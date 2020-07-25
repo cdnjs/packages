@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Mathias Bynens @mathias (https://mathiasbynens.be)"
+      "name": "Mathias Bynens @mathias",
+      "url": "https://mathiasbynens.be"
     }
   ]
 }

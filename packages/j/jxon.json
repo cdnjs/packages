@@ -36,7 +36,8 @@
   },
   "authors": [
     {
-      "name": "MDN (https://developer.mozilla.org/en-US/docs/JXON)"
+      "name": "MDN",
+      "url": "https://developer.mozilla.org/en-US/docs/JXON"
     }
   ]
 }

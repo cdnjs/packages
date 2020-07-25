@@ -36,7 +36,8 @@
   },
   "authors": [
     {
-      "name": "Jack O'Connor (http://jackocnr.com)"
+      "name": "Jack O'Connor",
+      "url": "http://jackocnr.com"
     }
   ]
 }

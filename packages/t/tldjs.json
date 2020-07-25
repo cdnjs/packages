@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Thomas Parisot (https://oncletom.io)"
+      "name": "Thomas Parisot",
+      "url": "https://oncletom.io"
     }
   ]
 }

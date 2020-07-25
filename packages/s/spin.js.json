@@ -26,7 +26,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Felix Gnass (http://fgnass.github.com/)"
+      "name": "Felix Gnass",
+      "url": "http://fgnass.github.com/"
     }
   ]
 }

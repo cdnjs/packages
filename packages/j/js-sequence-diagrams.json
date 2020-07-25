@@ -30,7 +30,8 @@
   },
   "authors": [
     {
-      "name": "Andrew Brampton (bramp.net)"
+      "name": "Andrew Brampton",
+      "url": "bramp.net"
     }
   ]
 }

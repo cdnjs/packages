@@ -28,7 +28,8 @@
   ],
   "authors": [
     {
-      "name": "contact@flatlogic.com (http://flatlogic.com)"
+      "name": "contact@flatlogic.com",
+      "url": "http://flatlogic.com"
     }
   ]
 }

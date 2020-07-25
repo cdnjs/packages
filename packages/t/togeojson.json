@@ -33,7 +33,8 @@
   },
   "authors": [
     {
-      "name": "Tom MacWright (http://macwright.org/)"
+      "name": "Tom MacWright",
+      "url": "http://macwright.org/"
     }
   ]
 }

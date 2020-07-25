@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "photopea (https://github.com/photopea)"
+      "name": "photopea",
+      "url": "https://github.com/photopea"
     }
   ]
 }

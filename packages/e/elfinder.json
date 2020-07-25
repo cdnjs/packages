@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Studio-42 (https://github.com/Studio-42/elFinder)"
+      "name": "Studio-42",
+      "url": "https://github.com/Studio-42/elFinder"
     }
   ]
 }

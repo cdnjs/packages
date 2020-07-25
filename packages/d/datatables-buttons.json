@@ -35,7 +35,8 @@
   },
   "authors": [
     {
-      "name": "SpryMedia Ltd (http://datatables.net)"
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
     }
   ]
 }

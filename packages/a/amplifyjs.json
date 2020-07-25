@@ -30,7 +30,8 @@
   ],
   "authors": [
     {
-      "name": "appendTo (http://appendto.com/)"
+      "name": "appendTo",
+      "url": "http://appendto.com/"
     }
   ]
 }

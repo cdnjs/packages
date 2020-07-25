@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "Yaffle (https://github.com/Yaffle)"
+      "name": "Yaffle",
+      "url": "https://github.com/Yaffle"
     }
   ]
 }

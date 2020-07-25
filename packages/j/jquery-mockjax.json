@@ -34,7 +34,8 @@
   },
   "authors": [
     {
-      "name": "Jonathan Sharp (http://jdsharp.com/)"
+      "name": "Jonathan Sharp",
+      "url": "http://jdsharp.com/"
     }
   ]
 }

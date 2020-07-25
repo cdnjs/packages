@@ -36,7 +36,8 @@
   },
   "authors": [
     {
-      "name": "Paul Miller (http://paulmillr.com)"
+      "name": "Paul Miller",
+      "url": "http://paulmillr.com"
     }
   ]
 }

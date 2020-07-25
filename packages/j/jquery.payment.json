@@ -25,7 +25,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Stripe (https://www.stripe.com)"
+      "name": "Stripe",
+      "url": "https://www.stripe.com"
     }
   ]
 }

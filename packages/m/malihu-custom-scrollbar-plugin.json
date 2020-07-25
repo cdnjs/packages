@@ -28,7 +28,8 @@
   },
   "authors": [
     {
-      "name": "malihu (http://manos.malihu.gr)"
+      "name": "malihu",
+      "url": "http://manos.malihu.gr"
     }
   ]
 }

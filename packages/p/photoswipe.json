@@ -31,7 +31,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Dmitry Semenov (http://dimsemenov.com)"
+      "name": "Dmitry Semenov",
+      "url": "http://dimsemenov.com"
     }
   ]
 }

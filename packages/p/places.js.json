@@ -29,7 +29,8 @@
   },
   "authors": [
     {
-      "name": "Algolia (https://www.algolia.com)"
+      "name": "Algolia",
+      "url": "https://www.algolia.com"
     }
   ]
 }

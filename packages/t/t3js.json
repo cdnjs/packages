@@ -38,7 +38,8 @@
   },
   "authors": [
     {
-      "name": "Box (https://www.box.com/)"
+      "name": "Box",
+      "url": "https://www.box.com/"
     }
   ]
 }

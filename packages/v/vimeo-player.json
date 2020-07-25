@@ -32,7 +32,8 @@
   },
   "authors": [
     {
-      "name": "Vimeo (https://vimeo.com)"
+      "name": "Vimeo",
+      "url": "https://vimeo.com"
     }
   ]
 }

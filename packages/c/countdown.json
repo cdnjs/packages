@@ -37,7 +37,8 @@
   },
   "authors": [
     {
-      "name": "Stephen McKamey (http://mck.me)"
+      "name": "Stephen McKamey",
+      "url": "http://mck.me"
     }
   ]
 }

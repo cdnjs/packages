@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "CKSource (http://cksource.com/)"
+      "name": "CKSource",
+      "url": "http://cksource.com/"
     }
   ]
 }

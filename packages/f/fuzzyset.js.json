@@ -27,7 +27,8 @@
   },
   "authors": [
     {
-      "name": "Glen Chiacchieri (http://glench.com/)"
+      "name": "Glen Chiacchieri",
+      "url": "http://glench.com/"
     }
   ]
 }

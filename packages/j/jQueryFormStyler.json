@@ -34,7 +34,8 @@
   },
   "authors": [
     {
-      "name": "Dimox (http://dimox.name/)"
+      "name": "Dimox",
+      "url": "http://dimox.name/"
     }
   ]
 }
