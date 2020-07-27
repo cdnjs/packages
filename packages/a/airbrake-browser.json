@@ -11,8 +11,7 @@
   "homepage": "https://github.com/airbrake/airbrake-js/tree/master/packages/browser",
   "repository": {
     "type": "git",
-    "url": "git://github.com/airbrake/airbrake-js.git",
-    "directory": "packages/browser"
+    "url": "git://github.com/airbrake/airbrake-js.git"
   },
   "autoupdate": {
     "source": "npm",

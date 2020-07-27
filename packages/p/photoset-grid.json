@@ -8,8 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/stylehatch/photoset-grid.git",
-    "docs": "http://stylehatch.github.com/photoset-grid/"
+    "url": "git://github.com/stylehatch/photoset-grid.git"
   },
   "autoupdate": {
     "source": "git",

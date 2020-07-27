@@ -11,7 +11,6 @@
   "license": "MIT",
   "name": "material-ui",
   "repository": {
-    "directory": "packages/material-ui",
     "type": "git",
     "url": "git+https://github.com/mui-org/material-ui.git"
   },
