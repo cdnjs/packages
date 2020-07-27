@@ -1,7 +1,9 @@
 {
   "name": "epub.js",
   "description": "Render ePub documents in the browser, across many devices",
-  "keywords": [],
+  "keywords": [
+    "epub"
+  ],
   "author": "fchasen@gmail.com",
   "license": "BSD-2-Clause-FreeBSD",
   "homepage": "https://github.com/futurepress/epub.js#readme",
