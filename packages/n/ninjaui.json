@@ -9,7 +9,7 @@
     "jquery"
   ],
   "repository": {
-    "type": "plain file",
+    "type": "git",
     "url": "https://github.com/ninja/ui/"
   },
   "authors": [
