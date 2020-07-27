@@ -12,6 +12,10 @@
     "type": "git",
     "url": "git://github.com/jquery-backstretch/jquery-backstretch.git"
   },
-  "keywords": [],
+  "keywords": [
+    "background",
+    "dynamic",
+    "jquery"
+  ],
   "license": "MIT"
 }
