@@ -9,7 +9,6 @@
     "reactjs",
     "jsx"
   ],
-  "namespace": "reactCookie",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/eXon/react-cookie.git",

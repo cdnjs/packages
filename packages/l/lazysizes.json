@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git://github.com/aFarkas/lazysizes.git"
   },
-  "namespace": "lazySizes",
   "description": "High performance (jankfree) lazy loader for images (including responsive images), iframes and scripts (widgets).",
   "keywords": [
     "lazy",

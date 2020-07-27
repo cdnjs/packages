@@ -9,7 +9,6 @@
     "max-width",
     "min-width"
   ],
-  "namespace": "respond",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/scottjehl/Respond.git",

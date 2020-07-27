@@ -8,7 +8,6 @@
   ],
   "license": "MIT",
   "name": "react-is",
-  "namespace": "React",
   "repository": {
     "directory": "packages/react-is",
     "type": "git",

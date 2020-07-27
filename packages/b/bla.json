@@ -12,7 +12,6 @@
     "type": "git",
     "url": "https://github.com/baby-loris/bla.git"
   },
-  "namespace": "bla",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

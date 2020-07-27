@@ -7,7 +7,6 @@
     "utility",
     "popular"
   ],
-  "namespace": "_",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jashkenas/underscore.git",

@@ -12,7 +12,6 @@
   ],
   "license": "MIT",
   "name": "between.js",
-  "namespace": "between.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sasha240100/between.js.git"

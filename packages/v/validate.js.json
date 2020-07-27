@@ -27,7 +27,6 @@
       }
     ]
   },
-  "namespace": "validate",
   "filename": "validate.min.js",
   "license": "MIT"
 }

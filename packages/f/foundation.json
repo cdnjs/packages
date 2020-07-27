@@ -8,7 +8,6 @@
     "responsive",
     "zurb"
   ],
-  "namespace": "$.fn.foundation",
   "license": "MIT",
   "repository": {
     "type": "git",

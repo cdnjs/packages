@@ -24,7 +24,6 @@
     "type": "git",
     "url": "https://github.com/feross/webtorrent.git"
   },
-  "namespace": "WebTorrent",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/feross/webtorrent.git",
