@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://raw.github.com/hapticdata/toxiclibsjs/master/build/toxiclibs.min.js"
+    "url": "https://github.com/hapticdata/toxiclibsjs"
   },
   "license": "LGPL-2.1"
 }
