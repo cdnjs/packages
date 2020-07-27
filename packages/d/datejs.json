@@ -10,7 +10,7 @@
     "parser"
   ],
   "repository": {
-    "type": "Google SVN",
+    "type": "svn",
     "url": "http://code.google.com/p/datejs/source"
   },
   "license": "Apache-2.0"
