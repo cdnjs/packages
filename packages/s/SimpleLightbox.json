@@ -2,7 +2,11 @@
   "description": "SimpleLightbox is a Lightweight plugin for responsive lightbox images and galleries with no dependencies.",
   "filename": "simpleLightbox.min.js",
   "homepage": "http://dbrekalo.github.io/simpleLightbox/",
-  "keywords": [],
+  "keywords": [
+    "lightbox",
+    "javascript",
+    "images"
+  ],
   "license": "MIT",
   "name": "SimpleLightbox",
   "repository": {
