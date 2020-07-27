@@ -1,7 +1,6 @@
 {
   "name": "flipclock",
   "filename": "flipclock.min.js",
-  "author": "Objective HTML, LLC <support@objectivehtml.com>",
   "license": "MIT",
   "keywords": [
     "clock",
@@ -25,5 +24,11 @@
       }
     ]
   },
-  "description": "FlipClock.js is a proper abstract object oriented clock and counter library with a realistic flip effect."
+  "description": "FlipClock.js is a proper abstract object oriented clock and counter library with a realistic flip effect.",
+  "authors": [
+    {
+      "name": "Objective HTML, LLC",
+      "email": "support@objectivehtml.com"
+    }
+  ]
 }

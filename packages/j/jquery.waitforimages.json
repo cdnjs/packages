@@ -1,12 +1,6 @@
 {
-  "title": "waitForImages jQuery Plugin",
   "name": "jquery.waitforimages",
   "filename": "jquery.waitforimages.min.js",
-  "author": {
-    "name": "Alex Dickson",
-    "email": "alex@alexanderdickson.com",
-    "url": "http://alexanderdickson.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/alexanderdickson/waitForImages"
@@ -28,5 +22,12 @@
   "keywords": [
     "jquery",
     "images"
+  ],
+  "authors": [
+    {
+      "name": "Alex Dickson",
+      "email": "alex@alexanderdickson.com",
+      "url": "http://alexanderdickson.com"
+    }
   ]
 }

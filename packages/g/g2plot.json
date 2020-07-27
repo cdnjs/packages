@@ -1,5 +1,4 @@
 {
-  "author": "https://github.com/orgs/antvis/people",
   "description": "An interactive and responsive charting library",
   "filename": "g2plot.js",
   "homepage": "https://g2plot.antv.vision",
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "https://github.com/orgs/antvis/people"
+    }
+  ]
 }

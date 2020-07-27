@@ -1,7 +1,6 @@
 {
   "name": "Detect.js",
   "filename": "detect.min.js",
-  "author": "Darcy Clarke",
   "description": "JS Library to detect browser, os and device based on the UserAgent String",
   "repository": {
     "type": "git",
@@ -27,5 +26,10 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Darcy Clarke"
+    }
+  ],
   "license": "(MIT OR GPL)"
 }

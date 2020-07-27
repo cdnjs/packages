@@ -1,9 +1,4 @@
 {
-  "author": {
-    "email": "info@leojavier.com",
-    "name": "Leo Javier",
-    "url": "http://www.leojavier.com"
-  },
   "description": "A lightweight and onobstrusive field validator that helps you validate any kind of data before submiting to your server.",
   "keywords": [
     "aragonite",
@@ -35,5 +30,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "info@leojavier.com",
+      "name": "Leo Javier",
+      "url": "http://www.leojavier.com"
+    }
+  ]
 }

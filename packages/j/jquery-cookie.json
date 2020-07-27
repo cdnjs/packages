@@ -23,5 +23,9 @@
     ]
   },
   "license": "MIT",
-  "author": "Klaus Hartl"
+  "authors": [
+    {
+      "name": "Klaus Hartl"
+    }
+  ]
 }

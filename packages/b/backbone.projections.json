@@ -17,10 +17,12 @@
     "data",
     "mvc"
   ],
-  "author": {
-    "name": "Andrey Popp",
-    "email": "8mayday@gmail.com",
-    "url": "http://andreypopp.com"
-  },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrey Popp",
+      "email": "8mayday@gmail.com",
+      "url": "http://andreypopp.com"
+    }
+  ]
 }

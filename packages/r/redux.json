@@ -19,7 +19,6 @@
     "edit",
     "webpack"
   ],
-  "author": "Dan Abramov <dan.abramov@me.com> (https://github.com/gaearon)",
   "license": "MIT",
   "homepage": "http://redux.js.org",
   "autoupdate": {
@@ -33,5 +32,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dan Abramov",
+      "email": "dan.abramov@me.com",
+      "url": "https://github.com/gaearon"
+    }
+  ]
 }

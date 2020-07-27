@@ -2,7 +2,6 @@
   "name": "vjs-video",
   "description": "An angular js directive for video.js",
   "homepage": "https://lonnygomes.github.io/vjs-video/",
-  "author": "Lonny Gomes",
   "repository": {
     "type": "git",
     "url": "https://github.com/LonnyGomes/vjs-video.git"
@@ -28,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Lonny Gomes"
+    }
+  ]
 }

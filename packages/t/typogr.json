@@ -17,10 +17,6 @@
     "type": "git",
     "url": "git://github.com/ekalinin/typogr.js.git"
   },
-  "author": {
-    "name": "Eugene Kalinin",
-    "email": "e.v.kalinin@gmail.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Eugene Kalinin",
+      "email": "e.v.kalinin@gmail.com"
+    }
+  ]
 }

@@ -6,7 +6,6 @@
     "logo",
     "font"
   ],
-  "author": "Lukas-W",
   "license": "Unlicense",
   "homepage": "https://github.com/Lukas-W/font-logos",
   "repository": {
@@ -25,5 +24,10 @@
       }
     ]
   },
-  "filename": "font-logos.css"
+  "filename": "font-logos.css",
+  "authors": [
+    {
+      "name": "Lukas-W"
+    }
+  ]
 }

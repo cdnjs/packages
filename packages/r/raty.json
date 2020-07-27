@@ -1,5 +1,4 @@
 {
-  "author": "Washington Botelho",
   "description": "jQuery Raty - A Star Rating Plugin",
   "keywords": [
     "classificacao",
@@ -33,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Washington Botelho"
+    }
+  ]
 }

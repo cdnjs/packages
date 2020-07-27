@@ -6,9 +6,6 @@
     "router",
     "routing"
   ],
-  "author": {
-    "name": "Evan You"
-  },
   "license": "MIT",
   "homepage": "https://github.com/vuejs/vue-router#readme",
   "repository": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Evan You"
+    }
+  ]
 }

@@ -1,11 +1,6 @@
 {
   "name": "crypto-js",
-  "title": "crypto-js",
   "description": "JavaScript library of crypto standards.",
-  "author": {
-    "name": "Evan Vosberg",
-    "url": "http://github.com/evanvosberg"
-  },
   "repository": {
     "type": "git",
     "url": "http://github.com/brix/crypto-js.git"
@@ -44,5 +39,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Evan Vosberg",
+      "url": "http://github.com/evanvosberg"
+    }
+  ]
 }

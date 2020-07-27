@@ -1,7 +1,6 @@
 {
   "name": "wechat.js",
   "filename": "wechat.min.js",
-  "author": "sofish <sofish@icloud.com>",
   "description": "easy sharing on wechat http://sofish.github.io/wechat.js",
   "repository": {
     "type": "git",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "sofish",
+      "email": "sofish@icloud.com"
+    }
+  ]
 }

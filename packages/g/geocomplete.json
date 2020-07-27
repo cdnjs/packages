@@ -11,10 +11,6 @@
     "3d"
   ],
   "homepage": "http://ubilabs.github.io/geocomplete/",
-  "author": {
-    "name": "Martin Kleppe",
-    "email": "kleppe@ubilabs.net"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/ubilabs/geocomplete.git"
@@ -31,5 +27,11 @@
       }
     ]
   },
-  "license": "ISC"
+  "license": "ISC",
+  "authors": [
+    {
+      "name": "Martin Kleppe",
+      "email": "kleppe@ubilabs.net"
+    }
+  ]
 }

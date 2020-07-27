@@ -28,5 +28,9 @@
     "type": "git",
     "url": "https://github.com/peachananr/onepage-scroll"
   },
-  "author": "Pete R"
+  "authors": [
+    {
+      "name": "Pete R"
+    }
+  ]
 }

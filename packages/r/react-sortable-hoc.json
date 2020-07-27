@@ -2,10 +2,6 @@
   "name": "react-sortable-hoc",
   "filename": "react-sortable-hoc.min.js",
   "description": "Set of higher-order components to turn any list into a sortable, touch-friendly, animated list",
-  "author": {
-    "name": "Clauderic Demers",
-    "email": "me@ced.io"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -44,5 +40,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Clauderic Demers",
+      "email": "me@ced.io"
+    }
+  ]
 }

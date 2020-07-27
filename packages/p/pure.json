@@ -15,16 +15,20 @@
   "license": "BSD",
   "authors": [
     {
-      "name": "ericf <edf@ericf.me>"
+      "name": "ericf",
+      "email": "edf@ericf.me"
     },
     {
-      "name": "tilomitra <tilomitra@gmail.com>"
+      "name": "tilomitra",
+      "email": "tilomitra@gmail.com"
     },
     {
-      "name": "msweeney <matt.sweeney@yahoo.com>"
+      "name": "msweeney",
+      "email": "matt.sweeney@yahoo.com"
     },
     {
-      "name": "jamesalley <manalagi001@yahoo.com>"
+      "name": "jamesalley",
+      "email": "manalagi001@yahoo.com"
     }
   ],
   "autoupdate": {

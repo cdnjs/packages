@@ -1,11 +1,6 @@
 {
   "name": "chillout",
-  "title": "chillout",
   "description": "Reduce CPU usage by non-blocking async loop and psychologically speed up in JavaScript.",
-  "author": {
-    "name": "polygon planet",
-    "url": "https://github.com/polygonplanet"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -44,5 +39,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "polygon planet",
+      "url": "https://github.com/polygonplanet"
+    }
+  ]
 }

@@ -8,10 +8,6 @@
     "crop",
     "react-component"
   ],
-  "author": {
-    "name": "Dominic Tobias",
-    "email": "dominic.tobias@gmail.com"
-  },
   "license": "ISC",
   "homepage": "https://github.com/DominicTobias/react-image-crop#readme",
   "repository": {
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dominic Tobias",
+      "email": "dominic.tobias@gmail.com"
+    }
+  ]
 }

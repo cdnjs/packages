@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git://github.com/kazzkiq/CodeFlask.js"
   },
-  "author": "Claudio Holanda",
   "description": "A micro code-editor for awesome web pages.",
   "keywords": [
     "code-editor",
@@ -31,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Claudio Holanda"
+    }
+  ]
 }

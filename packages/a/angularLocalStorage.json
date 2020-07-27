@@ -20,10 +20,12 @@
   },
   "authors": [
     {
-      "name": "agrublev <agrublev@gmail.com>"
+      "name": "agrublev",
+      "email": "agrublev@gmail.com"
     },
     {
-      "name": "CamaroSS <camaro396@yandex.ru>"
+      "name": "CamaroSS",
+      "email": "camaro396@yandex.ru"
     }
   ],
   "description": "angular local storage module",

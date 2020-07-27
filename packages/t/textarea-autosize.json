@@ -9,7 +9,6 @@
     "autoexpand",
     "autogrow"
   ],
-  "author": "Javier Julio <jjfutbol@gmail.com> (http://www.javier-julio.com/)",
   "license": "MIT",
   "homepage": "http://javierjulio.github.io/textarea-autosize/",
   "repository": {
@@ -28,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Javier Julio",
+      "email": "jjfutbol@gmail.com",
+      "url": "http://www.javier-julio.com/"
+    }
+  ]
 }

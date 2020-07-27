@@ -1,10 +1,6 @@
 {
   "name": "sevenSeg.js",
   "filename": "sevenSeg.min.js",
-  "author": {
-    "name": "Brandon L White",
-    "email": "brandonlwhite@gmail.com"
-  },
   "keywords": [
     "ui",
     "control",
@@ -30,5 +26,11 @@
     "type": "git",
     "url": "git://github.com/BrandonLWhite/sevenSeg.js.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Brandon L White",
+      "email": "brandonlwhite@gmail.com"
+    }
+  ]
 }

@@ -11,7 +11,6 @@
     "neural network",
     "deep learning"
   ],
-  "author": "Waylon Flinn <waylonflinn@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/waylonflinn/weblas"
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Waylon Flinn",
+      "email": "waylonflinn@gmail.com"
+    }
+  ]
 }

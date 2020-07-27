@@ -1,11 +1,6 @@
 {
   "name": "syn",
   "filename": "amd/syn.min.js",
-  "author": {
-    "name": "Bitovi",
-    "email": "contact@bitovi.com",
-    "web": "http://bitovi.com/"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:bitovi/syn.git"
@@ -28,5 +23,12 @@
       }
     ]
   },
-  "description": "Standalone Synthetic Event Library"
+  "description": "Standalone Synthetic Event Library",
+  "authors": [
+    {
+      "name": "Bitovi",
+      "email": "contact@bitovi.com",
+      "url": "http://bitovi.com/"
+    }
+  ]
 }

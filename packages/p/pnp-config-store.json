@@ -15,7 +15,6 @@
     "url": "git://github.com/pnp/pnp"
   },
   "license": "MIT",
-  "author": "Microsoft and other contributors",
   "autoupdate": {
     "source": "npm",
     "target": "@pnp/config-store",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Microsoft and other contributors"
+    }
+  ]
 }

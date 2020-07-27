@@ -12,10 +12,6 @@
     "jquery",
     "tables"
   ],
-  "author": {
-    "name": "John Polacek",
-    "url": "http://www.johnpolacek.com"
-  },
   "license": "MIT",
   "homepage": "https://johnpolacek.github.io/stacktable.js/",
   "autoupdate": {
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "John Polacek",
+      "url": "http://www.johnpolacek.com"
+    }
+  ]
 }

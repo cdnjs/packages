@@ -13,7 +13,6 @@
     "jQuery",
     "Zepto"
   ],
-  "author": "lihongxun945",
   "repository": {
     "type": "git",
     "url": "https://github.com/lihongxun945/jquery-weui"
@@ -31,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "lihongxun945"
+    }
+  ]
 }

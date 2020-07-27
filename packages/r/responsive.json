@@ -4,7 +4,6 @@
   "description": "This plugin add responsive functionality to JavaScript Charts and Maps",
   "license": "Apache-2.0",
   "homepage": "https://www.amcharts.com/",
-  "author": "amCharts <contact@amcharts.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/amcharts/responsive.git"
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "amCharts",
+      "email": "contact@amcharts.com"
+    }
+  ]
 }

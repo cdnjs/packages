@@ -24,7 +24,6 @@
     "cujojs",
     "cujo"
   ],
-  "author": "brian@hovercraftstudios.com",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -37,5 +36,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "brian@hovercraftstudios.com"
+    }
+  ]
 }

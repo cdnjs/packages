@@ -2,10 +2,6 @@
   "name": "jsmediatags",
   "filename": "jsmediatags.min.js",
   "description": "Media Tags Reader (ID3, MP4)",
-  "author": {
-    "name": "António Afonso",
-    "email": "antonio.afonso@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aadsm/jsmediatags.git"
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "António Afonso",
+      "email": "antonio.afonso@gmail.com"
+    }
+  ]
 }

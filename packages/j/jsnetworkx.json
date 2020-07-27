@@ -14,11 +14,6 @@
     "type": "git",
     "url": "https://github.com/fkling/JSNetworkX.git"
   },
-  "author": {
-    "name": "Felix Kling",
-    "email": "felix.kling@gmx.net",
-    "url": "http://jsnetworkx.org/"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/fkling/JSNetworkX.git",
@@ -30,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Felix Kling",
+      "email": "felix.kling@gmx.net",
+      "url": "http://jsnetworkx.org/"
+    }
+  ]
 }

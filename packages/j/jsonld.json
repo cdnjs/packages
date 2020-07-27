@@ -2,11 +2,6 @@
   "name": "jsonld",
   "filename": "jsonld.min.js",
   "description": "A JSON-LD Processor and API implementation in JavaScript.",
-  "author": {
-    "name": "Digital Bazaar, Inc.",
-    "email": "support@digitalbazaar.com",
-    "url": "https://digitalbazaar.com/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/digitalbazaar/jsonld.js"
@@ -33,5 +28,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Digital Bazaar, Inc.",
+      "email": "support@digitalbazaar.com",
+      "url": "https://digitalbazaar.com/"
+    }
+  ]
 }

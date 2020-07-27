@@ -1,7 +1,6 @@
 {
   "name": "p2.js",
   "description": "A JavaScript 2D physics engine.",
-  "author": "Stefan Hedman <schteppe@gmail.com> (http://steffe.se)",
   "keywords": [
     "p2.js",
     "p2",
@@ -26,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stefan Hedman",
+      "email": "schteppe@gmail.com",
+      "url": "http://steffe.se"
+    }
+  ]
 }

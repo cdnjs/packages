@@ -7,10 +7,6 @@
     "type": "git",
     "url": "https://github.com/wilddeer/Peppermint.git"
   },
-  "author": {
-    "name": "Oleg Korsunsky",
-    "url": "https://wd.dizaina.net/"
-  },
   "homepage": "https://wd.dizaina.net/en/scripts/peppermint/",
   "keywords": [
     "touch",
@@ -35,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Oleg Korsunsky",
+      "url": "https://wd.dizaina.net/"
+    }
+  ]
 }

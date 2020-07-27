@@ -16,7 +16,6 @@
   ],
   "homepage": "https://dattabase.com/",
   "license": "MIT",
-  "author": "Gunjan Datta <github@dattabase.com>",
   "autoupdate": {
     "source": "npm",
     "target": "gd-sprest-bs",
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Gunjan Datta",
+      "email": "github@dattabase.com"
+    }
+  ]
 }

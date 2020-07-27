@@ -23,6 +23,10 @@
     "type": "git",
     "url": "https://github.com/fredwu/jquery-endless-scroll.git"
   },
-  "author": "Fred Wu",
+  "authors": [
+    {
+      "name": "Fred Wu"
+    }
+  ],
   "license": "(MIT OR GPL-3.0)"
 }

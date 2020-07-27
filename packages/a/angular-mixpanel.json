@@ -7,7 +7,6 @@
     "mixpanel"
   ],
   "homepage": "",
-  "author": "kuhnza",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/kuhnza/angular-mixpanel.git",
@@ -24,5 +23,10 @@
     "type": "git",
     "url": "https://github.com/kuhnza/angular-mixpanel.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "kuhnza"
+    }
+  ]
 }

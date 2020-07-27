@@ -2,11 +2,6 @@
   "name": "helium-css",
   "filename": "helium.min.js",
   "description": "javascript tool to scan your site and show unused CSS",
-  "author": {
-    "name": "Charles Lawrence",
-    "email": "geuis.teses@gmail.com",
-    "url": "http://geuis.com"
-  },
   "keywords": [
     "helium",
     "css",
@@ -16,5 +11,12 @@
     "type": "git",
     "url": "git://github.com/geuis/helium-css.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Charles Lawrence",
+      "email": "geuis.teses@gmail.com",
+      "url": "http://geuis.com"
+    }
+  ]
 }

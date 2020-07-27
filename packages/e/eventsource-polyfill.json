@@ -8,7 +8,6 @@
     "event-source",
     "polyfill"
   ],
-  "author": "amvtek <devel@amvtek.com>",
   "license": "MIT",
   "homepage": "https://github.com/amvtek/EventSource",
   "repository": {
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "amvtek",
+      "email": "devel@amvtek.com"
+    }
+  ]
 }

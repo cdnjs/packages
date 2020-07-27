@@ -8,10 +8,6 @@
     "angularjs",
     "twitter-bootstrap"
   ],
-  "author": {
-    "name": "Dmitriy Shekhovtsov",
-    "email": "valorkin@gmail.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dmitriy Shekhovtsov",
+      "email": "valorkin@gmail.com"
+    }
+  ]
 }

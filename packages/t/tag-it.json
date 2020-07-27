@@ -14,7 +14,6 @@
     "url": "https://github.com/aehlke/tag-it.git"
   },
   "license": "MIT",
-  "author": "Alex Ehlke",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/aehlke/tag-it.git",
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alex Ehlke"
+    }
+  ]
 }

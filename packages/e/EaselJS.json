@@ -14,7 +14,6 @@
     "url": "git+https://github.com/CreateJS/EaselJS.git"
   },
   "license": "MIT",
-  "author": "gskinner.com, inc.",
   "homepage": "https://createjs.com/easeljs/",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "gskinner.com, inc."
+    }
+  ]
 }

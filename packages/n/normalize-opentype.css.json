@@ -9,10 +9,6 @@
     "fonts",
     "css"
   ],
-  "author": {
-    "name": "Kenneth Ormandy",
-    "email": "hello@kennethormandy.com"
-  },
   "license": "MIT",
   "homepage": "http://kennethormandy.com/journal/normalize-opentype-css",
   "repository": {
@@ -32,5 +28,11 @@
       }
     ]
   },
-  "filename": "normalize-opentype.css"
+  "filename": "normalize-opentype.css",
+  "authors": [
+    {
+      "name": "Kenneth Ormandy",
+      "email": "hello@kennethormandy.com"
+    }
+  ]
 }

@@ -9,7 +9,6 @@
     "type": "git",
     "url": "https://github.com/wcoder/highlightjs-line-numbers.js.git"
   },
-  "author": "Yauheni Pakala <evgeniy.pakalo@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Yauheni Pakala",
+      "email": "evgeniy.pakalo@gmail.com"
+    }
+  ]
 }

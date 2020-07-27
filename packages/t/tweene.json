@@ -1,6 +1,5 @@
 {
   "name": "tweene",
-  "title": "Tweene",
   "filename": "tweene-all.min.js",
   "description": "JavaScript Animation Proxy. It can work with GSAP, Velocity.js, Transit or jQuery.",
   "keywords": [
@@ -28,10 +27,6 @@
     "type": "git",
     "url": "https://github.com/SkidX/tweene.git"
   },
-  "author": {
-    "name": "Federico Orru'",
-    "url": "http://buzzler.com"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "tweene",
@@ -43,5 +38,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Federico Orru'",
+      "url": "http://buzzler.com"
+    }
+  ]
 }

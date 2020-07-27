@@ -15,7 +15,6 @@
     "freeze",
     "frozen"
   ],
-  "author": "Lucas Sanders",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Lucas Sanders"
+    }
+  ]
 }

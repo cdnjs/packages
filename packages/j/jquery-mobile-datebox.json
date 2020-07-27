@@ -8,13 +8,15 @@
     "url": "https://github.com/jtsage/jquery-mobile-datebox.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "JTSage and other contributors",
-    "url": "https://github.com/jtsage/jquery-mobile-datebox/blob/master/AUTHORS.txt"
-  },
   "keywords": [
     "jquery",
     "mobile",
     "datebox"
+  ],
+  "authors": [
+    {
+      "name": "JTSage and other contributors",
+      "url": "https://github.com/jtsage/jquery-mobile-datebox/blob/master/AUTHORS.txt"
+    }
   ]
 }

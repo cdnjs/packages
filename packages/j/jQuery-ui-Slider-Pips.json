@@ -19,7 +19,6 @@
     "markers",
     "waypoints"
   ],
-  "author": "Simon Goellner <simey.me@gmail.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/simeydotme/jQuery-ui-Slider-Pips.git",
@@ -31,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Simon Goellner",
+      "email": "simey.me@gmail.com"
+    }
+  ]
 }

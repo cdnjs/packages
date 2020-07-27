@@ -16,11 +16,6 @@
     "dom-events",
     "new-elements"
   ],
-  "author": {
-    "name": "Brandon Aaron",
-    "email": "brandon.aaron@gmail.com",
-    "url": "http://brandonaaron.net/"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/hazzik/livequery.git",
@@ -33,5 +28,12 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Brandon Aaron",
+      "email": "brandon.aaron@gmail.com",
+      "url": "http://brandonaaron.net/"
+    }
+  ],
   "license": "(MIT OR GPL-2.0)"
 }

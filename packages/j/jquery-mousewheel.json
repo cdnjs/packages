@@ -11,11 +11,6 @@
     "plugin",
     "wheel"
   ],
-  "author": {
-    "name": "Brandon Aaron",
-    "email": "hello.brandon@aaron.sh",
-    "url": "http://brandon.aaron.sh/"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jquery/jquery-mousewheel.git",
@@ -33,5 +28,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jquery/jquery-mousewheel"
-  }
+  },
+  "authors": [
+    {
+      "name": "Brandon Aaron",
+      "email": "hello.brandon@aaron.sh",
+      "url": "http://brandon.aaron.sh/"
+    }
+  ]
 }

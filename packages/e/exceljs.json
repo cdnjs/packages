@@ -3,7 +3,6 @@
   "filename": "exceljs.min.js",
   "description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
   "license": "MIT",
-  "author": "Guyon Roche",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/guyonroche/exceljs.git"
@@ -44,5 +43,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Guyon Roche"
+    }
+  ]
 }

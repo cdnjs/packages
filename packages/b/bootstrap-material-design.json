@@ -1,6 +1,5 @@
 {
   "name": "bootstrap-material-design",
-  "title": "bootstrap-material",
   "filename": "bootstrap-material-design.umd.min.js",
   "description": "Material Design for Bootstrap 3",
   "repository": {
@@ -17,7 +16,6 @@
     "browser",
     "framework"
   ],
-  "author": "Federico Zivolo",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -30,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Federico Zivolo"
+    }
+  ]
 }

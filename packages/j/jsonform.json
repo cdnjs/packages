@@ -7,7 +7,6 @@
     "HTML5",
     "form"
   ],
-  "author": "Joshfire & tchapi",
   "license": "MIT",
   "homepage": "https://github.com/jsonform/jsonform#readme",
   "repository": {
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Joshfire & tchapi"
+    }
+  ]
 }

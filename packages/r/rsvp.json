@@ -10,7 +10,6 @@
     "promises",
     "futures"
   ],
-  "author": "Tilde, Inc. & Stefan Penner",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -23,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tilde, Inc. & Stefan Penner"
+    }
+  ]
 }

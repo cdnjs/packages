@@ -2,7 +2,6 @@
   "name": "burger",
   "filename": "scripts/burger.min.js",
   "description": "Burger is a minimal hamburger menu with fullscreen navigation.",
-  "author": "Matthew Blode",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -30,5 +29,10 @@
     "javascript",
     "navigation",
     "fullscreen"
+  ],
+  "authors": [
+    {
+      "name": "Matthew Blode"
+    }
   ]
 }

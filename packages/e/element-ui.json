@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git@github.com:ElemeFE/element.git"
   },
-  "author": "ElemeFE",
   "homepage": "http://element.eleme.io",
   "keywords": [
     "eleme",
@@ -33,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "ElemeFE"
+    }
+  ]
 }

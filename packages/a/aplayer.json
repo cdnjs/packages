@@ -11,7 +11,6 @@
     "music",
     "html5"
   ],
-  "author": "DIYgod",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "DIYgod"
+    }
+  ]
 }

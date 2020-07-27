@@ -2,9 +2,6 @@
   "name": "incremental-dom",
   "filename": "incremental-dom-min.js",
   "description": "An in-place virtual DOM library",
-  "author": {
-    "name": "The Incremental DOM Authors"
-  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "The Incremental DOM Authors"
+    }
+  ]
 }

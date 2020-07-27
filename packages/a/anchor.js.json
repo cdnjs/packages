@@ -9,7 +9,6 @@
     "anchor",
     "animation"
   ],
-  "author": "Cornel Boppart (https://github.com/cbopp-art)",
   "license": "deprecated_GPL-2.0+",
   "homepage": "http://cornel.bopp-art.com/",
   "repository": {
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Cornel Boppart",
+      "url": "https://github.com/cbopp-art"
+    }
+  ]
 }

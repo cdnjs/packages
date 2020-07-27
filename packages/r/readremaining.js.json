@@ -12,7 +12,6 @@
     "read",
     "timing"
   ],
-  "author": "Aerolab",
   "license": "MIT",
   "homepage": "https://aerolab.github.io/readremaining.js/",
   "autoupdate": {
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Aerolab"
+    }
+  ]
 }

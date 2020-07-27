@@ -15,10 +15,6 @@
     "canvas",
     "svg"
   ],
-  "author": {
-    "name": "Anatolii Saienko",
-    "email": "anatoly.sayenko@gmail.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -37,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Anatolii Saienko",
+      "email": "anatoly.sayenko@gmail.com"
+    }
+  ]
 }

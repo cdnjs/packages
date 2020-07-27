@@ -2,10 +2,6 @@
   "name": "babel-polyfill",
   "filename": "polyfill.min.js",
   "description": "Provides polyfills necessary for a full ES2015+ environment",
-  "author": {
-    "name": "Sebastian McKenzie",
-    "email": "sebmck@gmail.com"
-  },
   "homepage": "https://babeljs.io/",
   "license": "MIT",
   "repository": {
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sebastian McKenzie",
+      "email": "sebmck@gmail.com"
+    }
+  ]
 }

@@ -2,10 +2,6 @@
   "name": "aegis",
   "filename": "aegis.min.css",
   "description": "Aegis CSS Framework",
-  "author": {
-    "name": "Kumar Harsh",
-    "email": "khs@playlyfe.com"
-  },
   "keywords": [
     "playlyfe",
     "gamification",
@@ -33,5 +29,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kumar Harsh",
+      "email": "khs@playlyfe.com"
+    }
+  ]
 }

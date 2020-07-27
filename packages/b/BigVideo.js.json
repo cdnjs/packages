@@ -6,10 +6,6 @@
     "video",
     "background"
   ],
-  "author": {
-    "name": "John Polacek",
-    "url": "http://johnpolacek.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -27,5 +23,11 @@
       }
     ]
   },
-  "homepage": "https://dfcb.github.com/BigVideo.js/"
+  "homepage": "https://dfcb.github.com/BigVideo.js/",
+  "authors": [
+    {
+      "name": "John Polacek",
+      "url": "http://johnpolacek.com"
+    }
+  ]
 }

@@ -8,7 +8,6 @@
     "stdlib",
     "util"
   ],
-  "author": "John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/)",
   "repository": {
     "type": "git",
     "url": "https://github.com/lodash/lodash-fp.git"
@@ -24,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com",
+      "url": "http://allyoucanleet.com/"
+    }
+  ]
 }

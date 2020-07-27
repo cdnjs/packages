@@ -11,5 +11,10 @@
     "url": "https://github.com/linkedin/Fiber.git"
   },
   "license": "Apache-2.0",
-  "author": "Kirollos Risk <kirollos@gmail.com>"
+  "authors": [
+    {
+      "name": "Kirollos Risk",
+      "email": "kirollos@gmail.com"
+    }
+  ]
 }

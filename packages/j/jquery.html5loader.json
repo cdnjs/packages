@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git://github.com/GianlucaGuarini/jquery.html5loader.git"
   },
-  "author": "Gianluca Guarini <gianluca.guarini@gmail.com> (http://gianlucaguarini.com/)",
   "license": "MIT",
   "keywords": [
     "images",
@@ -27,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Gianluca Guarini",
+      "email": "gianluca.guarini@gmail.com",
+      "url": "http://gianlucaguarini.com/"
+    }
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "name": "ticketbase-js",
   "description": "Integrate Ticketbase forms into your site",
-  "author": "Ticketbase team <support@ticketbase.com>",
   "keywords": [
     "ticketbase",
     "ticketing",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ticketbase team",
+      "email": "support@ticketbase.com"
+    }
+  ]
 }

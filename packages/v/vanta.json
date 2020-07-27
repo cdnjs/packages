@@ -15,7 +15,6 @@
     "javascript",
     "webgl"
   ],
-  "author": "Teng Bao",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -28,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Teng Bao"
+    }
+  ]
 }

@@ -10,7 +10,6 @@
     "document"
   ],
   "description": "simple json storage",
-  "author": "Brian Leroux",
   "homepage": "http://brianleroux.github.io/lawnchair/",
   "repository": {
     "type": "git",
@@ -29,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Brian Leroux"
+    }
+  ]
 }

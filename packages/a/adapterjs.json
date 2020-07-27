@@ -2,10 +2,6 @@
   "name": "adapterjs",
   "description": "Creating a common API for WebRTC in the browser",
   "homepage": "https://temasys.github.io/",
-  "author": {
-    "name": "Temasys Communications Pte. Ltd.",
-    "email": "info@temasys.com.sg"
-  },
   "filename": "adapter.min.js",
   "repository": {
     "type": "git",
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Temasys Communications Pte. Ltd.",
+      "email": "info@temasys.com.sg"
+    }
+  ]
 }

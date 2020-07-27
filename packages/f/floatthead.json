@@ -16,7 +16,6 @@
     "floatThead",
     "scrolling table"
   ],
-  "author": "Misha Koryak",
   "license": "CC BY-SA 4.0",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Misha Koryak"
+    }
+  ]
 }

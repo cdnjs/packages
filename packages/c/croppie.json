@@ -14,10 +14,12 @@
   ],
   "authors": [
     {
-      "name": "Dustin Smith <thedustinsmith@gmail.com>"
+      "name": "Dustin Smith",
+      "email": "thedustinsmith@gmail.com"
     },
     {
-      "name": "Ethan Calvert <calvert1591@gmail.com>"
+      "name": "Ethan Calvert",
+      "email": "calvert1591@gmail.com"
     }
   ],
   "license": "MIT",

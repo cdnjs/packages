@@ -13,7 +13,6 @@
     "url": "git@github.com:gilbitron/Nivo-Lightbox.git"
   },
   "license": "MIT",
-  "author": "Gilbert Pellegrom <gilbert@pellegrom.me>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/gilbitron/Nivo-Lightbox.git",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Gilbert Pellegrom",
+      "email": "gilbert@pellegrom.me"
+    }
+  ]
 }

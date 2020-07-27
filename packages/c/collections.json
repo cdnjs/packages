@@ -1,5 +1,4 @@
 {
-  "author": "Kris Kowal <kris@cixar.com> (http://github.com/kriskowal)",
   "description": "data structures with idiomatic JavaScript collection interfaces",
   "filename": "collections.js",
   "homepage": "http://www.collectionsjs.com",
@@ -29,5 +28,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kris Kowal",
+      "email": "kris@cixar.com",
+      "url": "http://github.com/kriskowal"
+    }
+  ]
 }

@@ -2,7 +2,6 @@
   "name": "pwstrength-bootstrap",
   "filename": "pwstrength-bootstrap.min.js",
   "description": "jQuery plugin for Twitter Bootstrap that provides rulesets for visualy displaying the quality of a users typed in password.",
-  "author": "Alejandro Blanco <alejandro.b.e@gmail.com>",
   "keywords": [
     "bootstrap",
     "password",
@@ -27,5 +26,11 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Alejandro Blanco",
+      "email": "alejandro.b.e@gmail.com"
+    }
+  ],
   "license": "(GPL-3.0 OR MIT)"
 }

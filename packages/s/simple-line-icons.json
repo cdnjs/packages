@@ -15,7 +15,6 @@
     "fonts",
     "simple-line"
   ],
-  "author": "Sabbir Ahmed",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -29,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sabbir Ahmed"
+    }
+  ]
 }

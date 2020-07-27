@@ -1,6 +1,5 @@
 {
   "name": "webcomponentsjs",
-  "title": "webcomponentsjs",
   "filename": "custom-elements-es5-adapter.js",
   "homepage": "http://webcomponents.org",
   "keywords": [
@@ -14,7 +13,6 @@
     "url": "git://github.com/webcomponents/webcomponentsjs"
   },
   "description": "webcomponents.js",
-  "author": "The Polymer Authors",
   "autoupdate": {
     "source": "npm",
     "target": "@webcomponents/webcomponentsjs",
@@ -26,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "The Polymer Authors"
+    }
+  ]
 }

@@ -8,7 +8,6 @@
     "free",
     "bootstrap 4"
   ],
-  "author": "Catalin Vasile",
   "license": "MIT",
   "homepage": "https://designrevision.com/downloads/shards",
   "repository": {
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Catalin Vasile"
+    }
+  ]
 }

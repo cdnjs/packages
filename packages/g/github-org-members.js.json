@@ -10,7 +10,6 @@
     "organization",
     "memebers"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
   "license": "MIT",
   "filename": "github-org-members.min.js",
   "autoupdate": {
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ionică Bizău",
+      "email": "bizauionica@gmail.com"
+    }
+  ]
 }

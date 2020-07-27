@@ -4,7 +4,6 @@
   "description": "Knockout makes it easier to create rich, responsive UIs with JavaScript",
   "homepage": "http://knockoutjs.com/",
   "license": "MIT",
-  "author": "The Knockout.js team",
   "keywords": [
     "mvvm",
     "ui",
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "The Knockout.js team"
+    }
+  ]
 }

@@ -8,9 +8,6 @@
     "javascript",
     "sublime"
   ],
-  "author": {
-    "name": "farzher"
-  },
   "license": "MIT",
   "homepage": "https://github.com/farzher/fuzzysort#readme",
   "repository": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "farzher"
+    }
+  ]
 }

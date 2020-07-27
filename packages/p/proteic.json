@@ -12,7 +12,6 @@
     "data-visualization",
     "dataviz"
   ],
-  "author": "0xNacho",
   "repository": {
     "type": "git",
     "url": "https://github.com/proteus-h2020/proteic.git"
@@ -35,5 +34,10 @@
       }
     ]
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "0xNacho"
+    }
+  ]
 }

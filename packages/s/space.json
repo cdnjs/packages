@@ -6,10 +6,14 @@
     "type": "git",
     "url": "git://github.com/breck7/space"
   },
-  "author": "Breck Yunits",
   "license": "MIT",
   "keywords": [
     "space",
     "lightweight"
+  ],
+  "authors": [
+    {
+      "name": "Breck Yunits"
+    }
   ]
 }

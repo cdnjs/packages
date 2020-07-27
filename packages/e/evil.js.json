@@ -1,6 +1,5 @@
 {
   "name": "evil.js",
-  "title": "evil.js",
   "filename": "evil.min.js",
   "description": "A JavaScript library for thwarting hotlinkers.",
   "homepage": "http://kitcambridge.be/evil.js/",
@@ -13,9 +12,11 @@
     "type": "git",
     "url": "https://github.com/kitcambridge/evil.js.git"
   },
-  "author": {
-    "name": "Kit Cambridge",
-    "email": "github@kitcambridge.be",
-    "web": "http://kitcambridge.be/"
-  }
+  "authors": [
+    {
+      "name": "Kit Cambridge",
+      "email": "github@kitcambridge.be",
+      "url": "http://kitcambridge.be/"
+    }
+  ]
 }

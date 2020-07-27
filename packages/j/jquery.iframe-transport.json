@@ -6,7 +6,6 @@
     "type": "git",
     "url": "http://github.com/cmlenz/jquery-iframe-transport"
   },
-  "author": "Christopher Lenz",
   "license": "MIT",
   "keywords": [
     "plugin",
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Christopher Lenz"
+    }
+  ]
 }

@@ -1,10 +1,6 @@
 {
   "name": "bootstrap-touchspin",
   "description": "A mobile and touch friendly input spinner component for Bootstrap 3.",
-  "author": {
-    "name": "István Ujj-Mészáros",
-    "url": "https://github.com/istvan-ujjmeszaros"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/istvan-ujjmeszaros/bootstrap-touchspin.git"
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "István Ujj-Mészáros",
+      "url": "https://github.com/istvan-ujjmeszaros"
+    }
+  ]
 }

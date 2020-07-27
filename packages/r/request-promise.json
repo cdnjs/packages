@@ -1,5 +1,4 @@
 {
-  "author": "Nicolai Kamenzky (https://github.com/analog-nico)",
   "description": "The simplified HTTP request client 'request' with Promise support. Powered by Bluebird.",
   "filename": "rp.js",
   "homepage": "https://github.com/request/request-promise#readme",
@@ -30,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nicolai Kamenzky",
+      "url": "https://github.com/analog-nico"
+    }
+  ]
 }

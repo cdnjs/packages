@@ -20,7 +20,6 @@
     "nodent",
     "regenerator"
   ],
-  "author": "Evgeny Poberezkin",
   "license": "MIT",
   "homepage": "https://github.com/epoberezkin/ajv-async#readme",
   "repository": {
@@ -39,5 +38,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Evgeny Poberezkin"
+    }
+  ]
 }

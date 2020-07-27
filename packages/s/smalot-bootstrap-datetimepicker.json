@@ -29,7 +29,9 @@
     ]
   },
   "license": "Apache-2.0",
-  "author": {
-    "name": "Sebastien Malot"
-  }
+  "authors": [
+    {
+      "name": "Sebastien Malot"
+    }
+  ]
 }

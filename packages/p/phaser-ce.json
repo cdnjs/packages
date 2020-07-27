@@ -2,11 +2,6 @@
   "name": "phaser-ce",
   "description": "Phaser CE (Community Edition) is a fast, free and fun HTML5 Game Framework for Desktop and Mobile web browsers.",
   "filename": "phaser.min.js",
-  "author": {
-    "name": "Richard Davey",
-    "email": "rdavey@gmail.com",
-    "url": "http://www.photonstorm.com"
-  },
   "homepage": "https://phaser.io",
   "license": "MIT",
   "repository": {
@@ -37,5 +32,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Richard Davey",
+      "email": "rdavey@gmail.com",
+      "url": "http://www.photonstorm.com"
+    }
+  ]
 }

@@ -14,7 +14,6 @@
     "url": "https://github.com/tin-cat/jquery-mosaic.git"
   },
   "license": "MIT",
-  "author": "Lorenzo Herrera",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/tin-cat/jquery-mosaic.git",
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Lorenzo Herrera"
+    }
+  ]
 }

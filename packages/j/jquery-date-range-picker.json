@@ -15,7 +15,6 @@
     "url": "git://github.com/longbill/jquery-date-range-picker.git"
   },
   "homepage": "http://longbill.github.io/jquery-date-range-picker/",
-  "author": "longbill",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/longbill/jquery-date-range-picker.git",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "longbill"
+    }
+  ]
 }

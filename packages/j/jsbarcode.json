@@ -16,7 +16,6 @@
     "msi",
     "pharmacode"
   ],
-  "author": "Johan Lindell",
   "license": "MIT",
   "homepage": "http://lindell.me/JsBarcode",
   "autoupdate": {
@@ -30,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Johan Lindell"
+    }
+  ]
 }

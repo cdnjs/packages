@@ -26,9 +26,11 @@
     "url": "https://github.com/scottjehl/Respond"
   },
   "license": "MIT",
-  "author": {
-    "name": "Scott Jehl",
-    "email": "scott@filamentgroup.com",
-    "url": "http://filamentgroup.com"
-  }
+  "authors": [
+    {
+      "name": "Scott Jehl",
+      "email": "scott@filamentgroup.com",
+      "url": "http://filamentgroup.com"
+    }
+  ]
 }

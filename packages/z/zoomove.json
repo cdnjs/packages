@@ -1,14 +1,12 @@
 {
   "name": "zoomove",
   "description": "Enlarges the image with the mouse hover and move",
-  "title": "ZooMove",
   "filename": "zoomove.min.js",
   "homepage": "http://thompsonemerson.github.io/zoomove",
   "repository": {
     "type": "git",
     "url": "https://github.com/thompsonemerson/zoomove"
   },
-  "author": "Emerson Thompson <thompson.emerson@gmail.com>",
   "license": "MIT",
   "keywords": [
     "zoomove",
@@ -35,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Emerson Thompson",
+      "email": "thompson.emerson@gmail.com"
+    }
+  ]
 }

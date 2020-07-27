@@ -25,5 +25,10 @@
     "type": "git",
     "url": "git://github.com/aguirrel/ng-currency.git"
   },
-  "author": "Luis Aguirre <luis@alaguirre.com>"
+  "authors": [
+    {
+      "name": "Luis Aguirre",
+      "email": "luis@alaguirre.com"
+    }
+  ]
 }

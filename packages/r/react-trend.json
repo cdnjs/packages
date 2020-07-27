@@ -8,7 +8,6 @@
     "type": "git",
     "url": "https://github.com/unsplash/react-trend.git"
   },
-  "author": "Joshua Comeau <josh@unsplash.com>",
   "keywords": [
     "react-component",
     "react",
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Joshua Comeau",
+      "email": "josh@unsplash.com"
+    }
+  ]
 }

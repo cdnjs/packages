@@ -11,10 +11,6 @@
     "angular-payments",
     "angularPayments"
   ],
-  "author": {
-    "name": "Lauri Hynynen",
-    "url": "https://github.com/laurihy"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/zumper/angular-payments.git"
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Lauri Hynynen",
+      "url": "https://github.com/laurihy"
+    }
+  ]
 }

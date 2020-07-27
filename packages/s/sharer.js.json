@@ -23,10 +23,6 @@
     "vk",
     "reddit"
   ],
-  "author": {
-    "name": "Ellison Leão",
-    "email": "ellisonleao@gmail.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -39,5 +35,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ellison Leão",
+      "email": "ellisonleao@gmail.com"
+    }
+  ]
 }

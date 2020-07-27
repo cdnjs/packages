@@ -2,7 +2,6 @@
   "name": "overthrow",
   "filename": "overthrow.min.js",
   "description": "An overflow:auto polyfill for responsive design.",
-  "author": "http://filamentgroup.com",
   "homepage": "http://filamentgroup.github.io/Overthrow",
   "keywords": [
     "overthrow"
@@ -11,5 +10,10 @@
     "type": "git",
     "url": "git://github.com/filamentgroup/Overthrow.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "http://filamentgroup.com"
+    }
+  ]
 }

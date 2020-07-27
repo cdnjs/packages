@@ -12,9 +12,6 @@
     "rtl",
     "bootstrap"
   ],
-  "author": {
-    "name": "Mahdi Majidzadeh"
-  },
   "license": "MIT",
   "homepage": "https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl",
   "repository": {
@@ -39,5 +36,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mahdi Majidzadeh"
+    }
+  ]
 }

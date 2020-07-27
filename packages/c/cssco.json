@@ -2,7 +2,6 @@
   "name": "cssco",
   "filename": "cssco.min.css",
   "description": "Photographic filters made with CSS, inpsired by VSCO and CSSgram.",
-  "author": "Lauren Waller",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -24,5 +23,10 @@
     "Photographic",
     "css",
     "filter"
+  ],
+  "authors": [
+    {
+      "name": "Lauren Waller"
+    }
   ]
 }

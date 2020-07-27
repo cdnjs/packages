@@ -27,5 +27,9 @@
     "type": "git",
     "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale"
   },
-  "author": "David Miller"
+  "authors": [
+    {
+      "name": "David Miller"
+    }
+  ]
 }

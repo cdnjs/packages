@@ -1,6 +1,5 @@
 {
   "name": "photobox",
-  "title": "jQuery Photobox",
   "filename": "photobox/jquery.photobox.min.js",
   "description": "A lightweight CSS3 image gallery plugin for jQuery that is pretty to look and and easy to use.",
   "keywords": [
@@ -12,10 +11,6 @@
     "effects",
     "flipping"
   ],
-  "author": {
-    "name": "Yair Even Or",
-    "url": "http://dropthebit.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -33,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Yair Even Or",
+      "url": "http://dropthebit.com"
+    }
+  ]
 }

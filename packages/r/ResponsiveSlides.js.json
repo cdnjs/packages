@@ -13,7 +13,6 @@
     "url": "https://github.com/viljamis/ResponsiveSlides.js"
   },
   "license": "MIT",
-  "author": "Viljami Salminen <@viljamis> (https://viljamis.com/)",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/viljamis/ResponsiveSlides.js.git",
@@ -25,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Viljami Salminen",
+      "email": "@viljamis",
+      "url": "https://viljamis.com/"
+    }
+  ]
 }

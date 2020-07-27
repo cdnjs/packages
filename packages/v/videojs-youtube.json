@@ -2,7 +2,6 @@
   "name": "videojs-youtube",
   "description": "YouTube playback technology for Video.js",
   "filename": "Youtube.min.js",
-  "author": "Benoit Tremblay",
   "license": "MIT",
   "keywords": [
     "video",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Benoit Tremblay"
+    }
+  ]
 }

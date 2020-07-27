@@ -16,10 +16,6 @@
     "url": "https://github.com/kbwood/countdown.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Keith Wood",
-    "url": "http://keith-wood.name/"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/kbwood/countdown.git",
@@ -37,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Keith Wood",
+      "url": "http://keith-wood.name/"
+    }
+  ]
 }

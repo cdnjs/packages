@@ -26,9 +26,11 @@
     "url": "git://github.com/mgcrea/angular-strap.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Olivier Louvignes",
-    "email": "olivier@mg-crea.com",
-    "url": "https://github.com/mgcrea"
-  }
+  "authors": [
+    {
+      "name": "Olivier Louvignes",
+      "email": "olivier@mg-crea.com",
+      "url": "https://github.com/mgcrea"
+    }
+  ]
 }

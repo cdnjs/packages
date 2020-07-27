@@ -12,10 +12,6 @@
     "icons",
     "webfont"
   ],
-  "author": {
-    "name": "Austin Andrews",
-    "web": "http://twitter.com/templarian"
-  },
   "homepage": "http://materialdesignicons.com",
   "autoupdate": {
     "source": "git",
@@ -29,5 +25,11 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Austin Andrews",
+      "url": "http://twitter.com/templarian"
+    }
+  ],
   "license": "(OFL-1.1 OR MIT)"
 }

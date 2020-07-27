@@ -1,11 +1,6 @@
 {
   "name": "teleject-hisrc",
   "filename": "hisrc.min.js",
-  "title": "HiSRC",
-  "author": {
-    "name": "Christopher Schmitt",
-    "url": "https://github.com/teleject"
-  },
   "license": "MIT",
   "description": "A simple jQuery plugin for adaptive images in responsive web design",
   "keywords": [
@@ -31,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Christopher Schmitt",
+      "url": "https://github.com/teleject"
+    }
+  ]
 }

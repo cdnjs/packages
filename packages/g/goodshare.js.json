@@ -8,7 +8,6 @@
     "link share"
   ],
   "homepage": "http://goodshare.ru/",
-  "author": "enjoyiacm",
   "repository": {
     "type": "git",
     "url": "https://github.com/enjoyiacm/goodshare.js.git"
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "enjoyiacm"
+    }
+  ]
 }

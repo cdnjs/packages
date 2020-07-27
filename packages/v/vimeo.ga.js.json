@@ -13,7 +13,6 @@
     "Tag",
     "Manager"
   ],
-  "author": "sanderheilbron",
   "license": "MIT",
   "homepage": "https://www.sanderheilbron.nl/vimeo.ga.js/",
   "autoupdate": {
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "sanderheilbron"
+    }
+  ]
 }

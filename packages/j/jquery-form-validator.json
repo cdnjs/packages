@@ -1,18 +1,12 @@
 {
   "name": "jquery-form-validator",
   "filename": "jquery.form-validator.min.js",
-  "title": "jQuery Form Validator",
   "description": "With this feature rich jQuery plugin it becomes easy to validate user input while keeping your HTML markup clean from javascript code. Even though this plugin has a wide range of validation functions it's designed to require as little bandwidth as possible. This is achieved by grouping together validation functions in \"modules\", making it possible for the programmer to load only those functions that's needed to validate a particular form.",
   "keywords": [
     "form",
     "validation",
     "validator"
   ],
-  "author": {
-    "name": "Victor Jonsson",
-    "url": "http://victorjonsson.se",
-    "email": "kontakt@victorjonsson.se"
-  },
   "homepage": "http://formvalidator.net",
   "repository": {
     "type": "git",
@@ -32,5 +26,12 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Victor Jonsson",
+      "url": "http://victorjonsson.se",
+      "email": "kontakt@victorjonsson.se"
+    }
+  ]
 }

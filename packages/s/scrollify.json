@@ -1,16 +1,11 @@
 {
   "name": "scrollify",
-  "title": "jQuery Scrollify",
   "filename": "jquery.scrollify.min.js",
   "description": "A jQuery plugin that assists scrolling and smoothly snaps to sections.",
   "keywords": [
     "scroll",
     "snap"
   ],
-  "author": {
-    "name": "Luke Haas",
-    "url": "http://lukehaas.me"
-  },
   "homepage": "http://projects.lukehaas.me/scrollify",
   "autoupdate": {
     "source": "git",
@@ -29,5 +24,11 @@
     "type": "git",
     "url": "git://github.com/lukehaas/Scrollify.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luke Haas",
+      "url": "http://lukehaas.me"
+    }
+  ]
 }

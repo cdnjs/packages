@@ -13,7 +13,6 @@
     "url": "git://github.com/zurb/tribute.git"
   },
   "homepage": "http://zurb.com/playground/tribute",
-  "author": "Jordan Humphreys <jordan@zurb.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jordan Humphreys",
+      "email": "jordan@zurb.com"
+    }
+  ]
 }

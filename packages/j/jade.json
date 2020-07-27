@@ -8,7 +8,6 @@
     "template",
     "jade"
   ],
-  "author": "TJ Holowaychuk <tj@vision-media.ca>",
   "repository": {
     "type": "git",
     "url": "https://github.com/jadejs/jade"
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    }
+  ]
 }

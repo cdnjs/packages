@@ -33,8 +33,10 @@
     "url": "https://github.com/vaakash/jquery-easy-ticker.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Aakash Chakravarthy",
-    "url": "http://www.aakashweb.com/"
-  }
+  "authors": [
+    {
+      "name": "Aakash Chakravarthy",
+      "url": "http://www.aakashweb.com/"
+    }
+  ]
 }

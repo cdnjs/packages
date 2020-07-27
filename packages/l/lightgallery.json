@@ -15,10 +15,6 @@
     "touch",
     "swipe"
   ],
-  "author": {
-    "name": "Sachin",
-    "url": "https://github.com/sachinchoolur"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/sachinchoolur/lightGallery.git"
@@ -35,5 +31,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sachin",
+      "url": "https://github.com/sachinchoolur"
+    }
+  ]
 }

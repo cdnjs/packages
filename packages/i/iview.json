@@ -1,7 +1,6 @@
 {
   "name": "iview",
   "filename": "iview.min.js",
-  "title": "iView",
   "description": "A high quality  UI components Library with Vue.js",
   "homepage": "https://www.iviewui.com",
   "keywords": [
@@ -17,7 +16,6 @@
     "type": "git",
     "url": "https://github.com/iview/iview.git"
   },
-  "author": "Aresn",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -30,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Aresn"
+    }
+  ]
 }

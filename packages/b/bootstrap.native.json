@@ -13,7 +13,6 @@
     "native javascript",
     "vanilla javascript"
   ],
-  "author": "dnp_theme",
   "license": "MIT",
   "homepage": "http://thednp.github.io/bootstrap.native/",
   "autoupdate": {
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "dnp_theme"
+    }
+  ]
 }

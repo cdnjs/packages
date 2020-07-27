@@ -3,10 +3,6 @@
   "filename": "inferno-test-utils.min.js",
   "license": "MIT",
   "description": "Suite of utilities for testing Inferno applications",
-  "author": {
-    "name": "Matthew Wagerfield",
-    "email": "matthew@wagerfield.com"
-  },
   "homepage": "https://infernojs.org/",
   "keywords": [
     "babel",
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Matthew Wagerfield",
+      "email": "matthew@wagerfield.com"
+    }
+  ]
 }

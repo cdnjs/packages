@@ -9,10 +9,6 @@
     "ngCookies",
     "caching system"
   ],
-  "author": {
-    "name": "Martin Gontovnikas",
-    "email": "martin@gon.to"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/auth0/angular-storage.git"
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Martin Gontovnikas",
+      "email": "martin@gon.to"
+    }
+  ]
 }

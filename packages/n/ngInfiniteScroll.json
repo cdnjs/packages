@@ -27,9 +27,11 @@
     "type": "git",
     "url": "https://github.com/sroze/ngInfiniteScroll"
   },
-  "author": {
-    "name": "Brandon Tilley",
-    "email": "brandon@brandontilley.com",
-    "url": "http://brandontilley.com"
-  }
+  "authors": [
+    {
+      "name": "Brandon Tilley",
+      "email": "brandon@brandontilley.com",
+      "url": "http://brandontilley.com"
+    }
+  ]
 }

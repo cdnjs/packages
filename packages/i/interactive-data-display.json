@@ -3,10 +3,6 @@
   "filename": "idd.min.js",
   "description": "A JavaScript visualization library for dynamic data",
   "homepage": "https://predictionmachines.github.io/InteractiveDataDisplay/",
-  "author": {
-    "name": "Information Technologies in Science Lab",
-    "url": "http://itis.cs.msu.ru/"
-  },
   "keywords": [
     "visualization",
     "animation",
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Information Technologies in Science Lab",
+      "url": "http://itis.cs.msu.ru/"
+    }
+  ]
 }

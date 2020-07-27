@@ -3,7 +3,6 @@
   "filename": "math.min.js",
   "homepage": "http://mathjs.org",
   "description": "Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser and offers an integrated solution to work with numbers, big numbers, complex numbers, units, and matrices.",
-  "author": "Jos de Jong <wjosdejong@gmail.com> (https://github.com/josdejong)",
   "repository": {
     "type": "git",
     "url": "git://github.com/josdejong/mathjs.git"
@@ -32,5 +31,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jos de Jong",
+      "email": "wjosdejong@gmail.com",
+      "url": "https://github.com/josdejong"
+    }
+  ]
 }

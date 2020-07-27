@@ -1,13 +1,8 @@
 {
   "name": "jquery.gridster",
-  "title": "gridster.js",
   "filename": "jquery.gridster.min.js",
   "description": "a drag-and-drop multi-column jQuery grid plugin",
   "homepage": "http://gridster.net/",
-  "author": {
-    "name": "ducksboard",
-    "email": "hackers@ducksboard.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/ducksboard/gridster.js.git"
@@ -30,5 +25,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ducksboard",
+      "email": "hackers@ducksboard.com"
+    }
+  ]
 }

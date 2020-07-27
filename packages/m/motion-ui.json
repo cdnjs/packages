@@ -10,7 +10,6 @@
     "Sass",
     "motion"
   ],
-  "author": "ZURB <foundation@zurb.com>",
   "license": "MIT",
   "homepage": "http://zurb.com/playground/motion-ui",
   "autoupdate": {
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "ZURB",
+      "email": "foundation@zurb.com"
+    }
+  ]
 }

@@ -2,10 +2,6 @@
   "name": "random-js",
   "filename": "random.min.js",
   "description": "A mathematically correct random number generator library for JavaScript.",
-  "author": {
-    "name": "Cameron Kenneth Knight",
-    "email": "ckknight@gmail.com"
-  },
   "keywords": [
     "random"
   ],
@@ -25,5 +21,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Cameron Kenneth Knight",
+      "email": "ckknight@gmail.com"
+    }
+  ]
 }

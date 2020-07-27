@@ -16,7 +16,6 @@
     "type": "git",
     "url": "https://github.com/Wildhoney/Maple.js.git"
   },
-  "author": "Adam Timberlake <adam.timberlake@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Adam Timberlake",
+      "email": "adam.timberlake@gmail.com"
+    }
+  ]
 }

@@ -2,9 +2,6 @@
   "name": "angular-image-spinner",
   "filename": "angular-image-spinner.min.js",
   "description": "Angular directive for showing spinner in the container with image.",
-  "author": {
-    "name": "Alexandr Korsak"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/oivoodoo/angular-image-spinner.git"
@@ -13,5 +10,10 @@
     "angularjs",
     "spin.js"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexandr Korsak"
+    }
+  ]
 }

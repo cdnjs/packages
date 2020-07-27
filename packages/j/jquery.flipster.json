@@ -3,7 +3,6 @@
   "homepage": "http://brokensquare.com/Code/jquery-flipster/demo/",
   "description": "Responsive coverfpsterlow-style carousel plugin for jQuery",
   "filename": "jquery.flipster.min.js",
-  "author": "Adrien Delessert <a@drien.com>",
   "keywords": [
     "coverflow",
     "jquery",
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Adrien Delessert",
+      "email": "a@drien.com"
+    }
+  ]
 }

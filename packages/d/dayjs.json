@@ -9,7 +9,6 @@
     "immutable",
     "moment"
   ],
-  "author": "iamkun",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "iamkun"
+    }
+  ]
 }

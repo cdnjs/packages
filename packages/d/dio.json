@@ -4,10 +4,6 @@
   "description": "Dio is a lightweight (~7kb) feature rich Virtual DOM framework",
   "homepage": "https://thysultan.com/dio",
   "license": "MIT",
-  "author": {
-    "name": "Sultan Tarimo",
-    "email": "sultantarimo@me.com"
-  },
   "keywords": [
     "vdom",
     "virtual",
@@ -35,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sultan Tarimo",
+      "email": "sultantarimo@me.com"
+    }
+  ]
 }

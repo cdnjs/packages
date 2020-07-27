@@ -23,5 +23,10 @@
     "type": "git",
     "url": "https://github.com/arokor/barn"
   },
-  "author": "Aron Kornhall <aron@kornhall.se>"
+  "authors": [
+    {
+      "name": "Aron Kornhall",
+      "email": "aron@kornhall.se"
+    }
+  ]
 }

@@ -11,7 +11,6 @@
     "url": "https://github.com/aseemk/json5"
   },
   "license": "MIT",
-  "author": "Aseem Kishore <aseem.kishore@gmail.com>",
   "autoupdate": {
     "source": "npm",
     "target": "json5",
@@ -23,5 +22,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Aseem Kishore",
+      "email": "aseem.kishore@gmail.com"
+    }
+  ]
 }

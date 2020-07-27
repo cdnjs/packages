@@ -1,10 +1,6 @@
 {
   "name": "react-date-picker",
   "description": "A carefully crafted date picker for React",
-  "author": {
-    "name": "ZippyUI",
-    "email": "contact@zippyui.com"
-  },
   "license": "MIT",
   "keywords": [
     "date",
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "ZippyUI",
+      "email": "contact@zippyui.com"
+    }
+  ]
 }

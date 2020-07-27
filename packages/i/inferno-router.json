@@ -3,10 +3,6 @@
   "filename": "inferno-router.min.js",
   "license": "MIT",
   "description": "Provides routing functionality for Inferno",
-  "author": {
-    "name": "Dominic Gannaway",
-    "email": "dg@domgan.com"
-  },
   "homepage": "https://infernojs.org/",
   "keywords": [
     "babel",
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dominic Gannaway",
+      "email": "dg@domgan.com"
+    }
+  ]
 }

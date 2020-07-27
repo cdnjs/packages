@@ -2,10 +2,6 @@
   "name": "videojs-ga",
   "filename": "videojs.ga.min.js",
   "license": "MIT",
-  "author": {
-    "name": "Michael Bensoussan",
-    "email": "mbensoussan.is@gmail.com"
-  },
   "description": "Google Analytics plugin for video.js",
   "repository": {
     "type": "git",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Michael Bensoussan",
+      "email": "mbensoussan.is@gmail.com"
+    }
+  ]
 }

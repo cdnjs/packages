@@ -2,10 +2,6 @@
   "name": "angular-busy",
   "filename": "angular-busy.min.js",
   "description": "Show busy/loading indicators on any $http or $resource request, or on any promise",
-  "author": {
-    "name": "Chris Gross",
-    "email": "schtoo@schtoo.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/cgross/angular-busy.git"
@@ -30,5 +26,11 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Chris Gross",
+      "email": "schtoo@schtoo.com"
+    }
+  ],
   "license": "MIT"
 }

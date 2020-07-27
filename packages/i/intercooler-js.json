@@ -3,10 +3,6 @@
   "filename": "intercooler.min.js",
   "description": "Making AJAX as easy as anchor tags",
   "homepage": "http://intercoolerjs.org",
-  "author": {
-    "name": "LeadDyno, LLC",
-    "url": "http://www.leaddyno.com"
-  },
   "keywords": [
     "ajax",
     "anchor",
@@ -28,5 +24,11 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/LeadDyno/intercooler-js"
-  }
+  },
+  "authors": [
+    {
+      "name": "LeadDyno, LLC",
+      "url": "http://www.leaddyno.com"
+    }
+  ]
 }

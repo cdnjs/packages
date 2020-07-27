@@ -113,9 +113,6 @@
   ],
   "homepage": "http://gojs.net",
   "license": "http://gojs.net/latest/doc/license.html",
-  "author": {
-    "name": "Northwoods Software"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NorthwoodsSoftware/GoJS.git"
@@ -131,5 +128,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Northwoods Software"
+    }
+  ]
 }

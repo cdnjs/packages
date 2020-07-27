@@ -7,7 +7,6 @@
     "jquery",
     "ender"
   ],
-  "author": "Sascha Depold <sascha@depold.com> (http://depold.com)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -30,5 +29,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sascha Depold",
+      "email": "sascha@depold.com",
+      "url": "http://depold.com"
+    }
+  ]
 }

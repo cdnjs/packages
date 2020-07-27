@@ -7,7 +7,6 @@
     "mesh",
     "line"
   ],
-  "author": "Jaume Sanchez <the.spite@gmail.com> (https://www.clicktorelease.com)",
   "license": "MIT",
   "homepage": "https://github.com/spite/THREE.MeshLine#readme",
   "repository": {
@@ -26,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jaume Sanchez",
+      "email": "the.spite@gmail.com",
+      "url": "https://www.clicktorelease.com"
+    }
+  ]
 }

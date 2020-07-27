@@ -1,7 +1,6 @@
 {
   "name": "FlexSearch",
   "description": "Next-Generation full text search library with zero dependencies.",
-  "author": "Thomas Wilkerling",
   "license": "Apache-2.0",
   "keywords": [
     "search",
@@ -30,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Thomas Wilkerling"
+    }
+  ]
 }

@@ -6,13 +6,15 @@
     "selection",
     "caret"
   ],
-  "author": {
-    "name": "Koji Iwasaki",
-    "url": "http://blog.madapaja.net"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/madapaja/jquery.selection"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Koji Iwasaki",
+      "url": "http://blog.madapaja.net"
+    }
+  ]
 }

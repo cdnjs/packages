@@ -1,12 +1,7 @@
 {
   "name": "jquery-domPath",
-  "title": "jquery-domPath",
   "filename": "jquery.domPath.min.js",
   "description": "A simple jQuery plugin for getting DOM Path of HTML elements",
-  "author": {
-    "name": "asatour",
-    "url": "https://github.com/asatour/"
-  },
   "keywords": [
     "DOM",
     "path",
@@ -30,5 +25,11 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/asatour/jquery-domPath"
-  }
+  },
+  "authors": [
+    {
+      "name": "asatour",
+      "url": "https://github.com/asatour/"
+    }
+  ]
 }

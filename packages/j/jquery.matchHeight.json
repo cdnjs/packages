@@ -1,6 +1,5 @@
 {
   "name": "jquery.matchHeight",
-  "title": "jQuery matchHeight",
   "filename": "jquery.matchHeight-min.js",
   "description": "a responsive equal heights plugin for jQuery",
   "keywords": [
@@ -11,10 +10,6 @@
     "equalize",
     "columns"
   ],
-  "author": {
-    "name": "liabru",
-    "url": "http://brm.io"
-  },
   "homepage": "http://brm.io/jquery-match-height/",
   "autoupdate": {
     "source": "git",
@@ -32,5 +27,11 @@
     "type": "git",
     "url": "git://github.com/liabru/jquery-match-height.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "liabru",
+      "url": "http://brm.io"
+    }
+  ]
 }

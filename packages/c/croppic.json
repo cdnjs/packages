@@ -4,7 +4,9 @@
   "filename": "croppic.min.js",
   "authors": [
     {
-      "name": "Mat Steinlin <mat@steinlinconsulting.com> (http://www.steinlincosnulting.com)"
+      "name": "Mat Steinlin",
+      "email": "mat@steinlinconsulting.com",
+      "url": "http://www.steinlincosnulting.com"
     },
     {
       "name": "Ognjen Božičković"

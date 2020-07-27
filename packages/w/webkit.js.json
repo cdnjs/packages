@@ -1,11 +1,6 @@
 {
   "name": "webkit.js",
   "filename": "webkit.js",
-  "title": "Pure JavaScript Port of WebKit",
-  "author": {
-    "name": "Trevor Linton",
-    "url": "https://github.com/trevorlinton"
-  },
   "keywords": [
     "webkit"
   ],
@@ -14,5 +9,11 @@
     "type": "git",
     "url": "https://github.com/trevorlinton/webkit.js.git"
   },
-  "description": "Pure JavaScript Port of WebKit"
+  "description": "Pure JavaScript Port of WebKit",
+  "authors": [
+    {
+      "name": "Trevor Linton",
+      "url": "https://github.com/trevorlinton"
+    }
+  ]
 }

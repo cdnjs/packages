@@ -3,11 +3,6 @@
   "filename": "sigma.min.js",
   "description": "A JavaScript library dedicated to graph drawing.",
   "homepage": "http://sigmajs.org/",
-  "author": {
-    "name": "Alexis Jacomy",
-    "email": "alexis.jacomy@gmail.com",
-    "url": "http://jcml.io/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jacomyal/sigma.js.git"
@@ -27,5 +22,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alexis Jacomy",
+      "email": "alexis.jacomy@gmail.com",
+      "url": "http://jcml.io/"
+    }
+  ]
 }

@@ -2,7 +2,6 @@
   "name": "sbt",
   "filename": "sbt-core-dojo-amd.js",
   "description": "Social Business Toolkit minified&aggregated files",
-  "author": "IBM",
   "homepage": "http://www.openntf.org/internal/home.nsf/project.xsp?action=openDocument&name=Social%20Business%20Toolkit%20SDK",
   "repository": {
     "type": "git",
@@ -26,5 +25,10 @@
   "license": "Apache-2.0",
   "keywords": [
     "sbt"
+  ],
+  "authors": [
+    {
+      "name": "IBM"
+    }
   ]
 }

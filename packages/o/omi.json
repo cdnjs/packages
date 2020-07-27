@@ -14,10 +14,6 @@
     "virtual",
     "dom"
   ],
-  "author": {
-    "name": "dntzhang",
-    "email": "dntzhang@qq.com"
-  },
   "license": "MIT",
   "homepage": "http://omijs.org/",
   "repository": {
@@ -36,5 +32,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "dntzhang",
+      "email": "dntzhang@qq.com"
+    }
+  ]
 }

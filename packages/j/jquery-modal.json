@@ -8,11 +8,6 @@
     "url": "git+https://github.com/kylefox/jquery-modal.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Kyle Fox",
-    "email": "kylefox@gmail.com",
-    "url": "http://kylefox.ca/"
-  },
   "keywords": [
     "jquery",
     "modal"
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kyle Fox",
+      "email": "kylefox@gmail.com",
+      "url": "http://kylefox.ca/"
+    }
+  ]
 }

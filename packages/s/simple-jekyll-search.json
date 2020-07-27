@@ -13,7 +13,6 @@
     "type": "git",
     "url": "https://github.com/christian-fei/Simple-Jekyll-Search.git"
   },
-  "author": "Christian Fei",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/christian-fei/Simple-Jekyll-Search.git",
@@ -26,5 +25,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Christian Fei"
+    }
+  ]
 }

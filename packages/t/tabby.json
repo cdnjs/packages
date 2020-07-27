@@ -2,10 +2,6 @@
   "name": "tabby",
   "filename": "js/tabby.min.js",
   "description": "Simple, mobile-first toggle tabs.",
-  "author": {
-    "name": "Chris Ferdinandi",
-    "url": "http://gomakethings.com"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/cferdinandi/tabby.git",
@@ -26,5 +22,11 @@
   "keywords": [
     "tabby",
     "toggle tabs"
+  ],
+  "authors": [
+    {
+      "name": "Chris Ferdinandi",
+      "url": "http://gomakethings.com"
+    }
   ]
 }

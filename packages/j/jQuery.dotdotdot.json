@@ -29,5 +29,10 @@
       }
     ]
   },
-  "author": "Fred Heusschen <info@frebsite.nl>"
+  "authors": [
+    {
+      "name": "Fred Heusschen",
+      "email": "info@frebsite.nl"
+    }
+  ]
 }

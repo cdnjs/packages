@@ -26,11 +26,6 @@
     "search",
     "dropdown"
   ],
-  "author": {
-    "name": "Tarek Raafat",
-    "email": "tarek.m.raafat@gmail.com",
-    "url": "http://www.tarekraafat.com"
-  },
   "license": "Apache-2.0",
   "homepage": "https://github.com/TarekRaafat/autoComplete.js#readme",
   "repository": {
@@ -49,5 +44,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tarek Raafat",
+      "email": "tarek.m.raafat@gmail.com",
+      "url": "http://www.tarekraafat.com"
+    }
+  ]
 }

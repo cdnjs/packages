@@ -8,9 +8,6 @@
     "grid",
     "tui-grid"
   ],
-  "author": {
-    "name": "NHN. FE Development Lab"
-  },
   "license": "MIT",
   "homepage": "https://github.com/nhn/tui.grid#readme",
   "repository": {
@@ -29,5 +26,10 @@
       }
     ]
   },
-  "filename": "tui-grid.min.js"
+  "filename": "tui-grid.min.js",
+  "authors": [
+    {
+      "name": "NHN. FE Development Lab"
+    }
+  ]
 }

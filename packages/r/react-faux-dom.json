@@ -11,11 +11,6 @@
     "dom",
     "virtual"
   ],
-  "author": {
-    "name": "Oliver Caldwell",
-    "email": "olliec87@gmail.com",
-    "url": "http://oli.me.uk/"
-  },
   "license": "Unlicense",
   "homepage": "http://oli.me.uk/2015/09/09/d3-within-react-the-right-way/",
   "filename": "ReactFauxDOM.min.js",
@@ -30,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Oliver Caldwell",
+      "email": "olliec87@gmail.com",
+      "url": "http://oli.me.uk/"
+    }
+  ]
 }

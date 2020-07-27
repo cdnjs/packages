@@ -5,9 +5,6 @@
     "date",
     "immutable"
   ],
-  "author": {
-    "name": "Isaac Cambron"
-  },
   "license": "MIT",
   "homepage": "https://github.com/moment/luxon#readme",
   "repository": {
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Isaac Cambron"
+    }
+  ]
 }

@@ -15,7 +15,6 @@
     "type": "git",
     "url": "https://github.com/jsforce/jsforce.git"
   },
-  "author": "Shinichi Tomita <shinichi.tomita@gmail.com>",
   "autoupdate": {
     "source": "npm",
     "target": "jsforce",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Shinichi Tomita",
+      "email": "shinichi.tomita@gmail.com"
+    }
+  ]
 }

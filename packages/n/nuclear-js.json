@@ -29,5 +29,9 @@
     "type": "git",
     "url": "https://github.com/optimizely/nuclear-js"
   },
-  "author": "Jordan Garcia"
+  "authors": [
+    {
+      "name": "Jordan Garcia"
+    }
+  ]
 }

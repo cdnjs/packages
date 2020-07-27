@@ -1,13 +1,7 @@
 {
   "name": "intercom.js",
-  "title": "Intercom",
   "filename": "intercom.min.js",
   "description": "A client-side cross-window message broadcast library built on top of the HTML5 localStorage API.",
-  "author": {
-    "name": "Brian Reavis",
-    "email": "brian@thirdroute.com",
-    "url": "http://thirdroute.com"
-  },
   "keywords": [
     "intercom.js",
     "intercom",
@@ -17,5 +11,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/diy/intercom.js.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Brian Reavis",
+      "email": "brian@thirdroute.com",
+      "url": "http://thirdroute.com"
+    }
+  ]
 }

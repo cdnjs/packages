@@ -12,7 +12,6 @@
     "url": "https://github.com/wycats/handlebars.js"
   },
   "license": "MIT",
-  "author": "Yehuda Katz",
   "autoupdate": {
     "source": "npm",
     "target": "handlebars",
@@ -31,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Yehuda Katz"
+    }
+  ]
 }

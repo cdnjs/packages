@@ -1,16 +1,11 @@
 {
   "name": "Tipue-Search",
-  "title": "Tipue Search",
   "filename": "tipuesearch.min.js",
   "description": "Tipue Search is a site search engine jQuery plugin.",
   "keywords": [
     "search",
     "site-search"
   ],
-  "author": {
-    "name": "Tipue",
-    "url": "http://www.tipue.com"
-  },
   "license": "MIT",
   "homepage": "http://www.tipue.com/search/",
   "autoupdate": {
@@ -28,5 +23,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Tipue/Tipue-Search.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Tipue",
+      "url": "http://www.tipue.com"
+    }
+  ]
 }

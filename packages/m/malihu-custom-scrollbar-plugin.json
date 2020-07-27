@@ -1,6 +1,5 @@
 {
   "name": "malihu-custom-scrollbar-plugin",
-  "author": "malihu (http://manos.malihu.gr)",
   "description": "Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support user defined callbacks etc.",
   "license": "MIT",
   "filename": "jquery.mCustomScrollbar.min.js",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "malihu",
+      "url": "http://manos.malihu.gr"
+    }
+  ]
 }

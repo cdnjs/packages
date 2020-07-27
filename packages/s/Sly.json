@@ -7,10 +7,6 @@
     "type": "git",
     "url": "https://github.com/darsain/sly.git"
   },
-  "author": {
-    "name": "Darsain",
-    "url": "http://darsa.in"
-  },
   "license": "MIT",
   "keywords": [
     "javascript",
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Darsain",
+      "url": "http://darsa.in"
+    }
+  ]
 }

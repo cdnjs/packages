@@ -6,7 +6,6 @@
     "type": "git",
     "url": "https://github.com/nonplus/angular-ui-router-title.git"
   },
-  "author": "Stepan Riha <github@nonplus.net>",
   "license": "MIT",
   "keywords": [
     "angular",
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stepan Riha",
+      "email": "github@nonplus.net"
+    }
+  ]
 }

@@ -9,7 +9,6 @@
   "keywords": [
     "immutable"
   ],
-  "author": "Richard Feldman",
   "license": "BSD-3-Clause",
   "autoupdate": {
     "source": "npm",
@@ -22,5 +21,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Richard Feldman"
+    }
+  ]
 }

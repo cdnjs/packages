@@ -2,7 +2,6 @@
   "name": "esri-leaflet",
   "description": "Leaflet plugins for consuming ArcGIS Online and ArcGIS Server services.",
   "filename": "esri-leaflet.js",
-  "author": "Patrick Arlt <parlt@esri.com> (http://patrickarlt.com)",
   "homepage": "http://esri.github.io/esri-leaflet/",
   "keywords": [
     "arcgis",
@@ -28,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Patrick Arlt",
+      "email": "parlt@esri.com",
+      "url": "http://patrickarlt.com"
+    }
+  ]
 }

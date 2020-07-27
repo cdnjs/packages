@@ -1,6 +1,5 @@
 {
   "name": "zui",
-  "title": "ZUI",
   "filename": "js/zui.min.js",
   "description": "An open source front-end implementation that help you quickly construct modern multi-screen applications",
   "keywords": [
@@ -17,7 +16,6 @@
     "type": "git",
     "url": "https://github.com/easysoft/zui.git"
   },
-  "author": "cnezsoft.com",
   "license": "MIT",
   "homepage": "http://zui.sexy",
   "autoupdate": {
@@ -31,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "cnezsoft.com"
+    }
+  ]
 }

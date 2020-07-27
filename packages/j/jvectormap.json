@@ -1,6 +1,5 @@
 {
   "name": "jvectormap",
-  "title": "jVectorMap",
   "filename": "jquery-jvectormap.min.js",
   "description": "jQuery plugin for embedding vector maps with reach API and methods for data visualization to the web-pages.",
   "keywords": [
@@ -10,10 +9,6 @@
     "usa",
     "choropleth"
   ],
-  "author": {
-    "name": "Kirill Lebedev",
-    "email": "echo.bjornd@gmail.com"
-  },
   "license": "(AGPL OR Commercial)",
   "homepage": "http://jvectormap.com",
   "autoupdate": {
@@ -31,5 +26,11 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/bjornd/jvectormap.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Kirill Lebedev",
+      "email": "echo.bjornd@gmail.com"
+    }
+  ]
 }

@@ -2,7 +2,6 @@
   "name": "timezone-js",
   "filename": "date.min.js",
   "description": "JavaScript timezone library based on Olson timezone data",
-  "author": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)",
   "repository": {
     "type": "git",
     "url": "git://github.com/mde/timezone-js.git"
@@ -23,5 +22,12 @@
     "timezone",
     "js"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Matthew Eernisse",
+      "email": "mde@fleegix.org",
+      "url": "http://fleegix.org"
+    }
+  ]
 }

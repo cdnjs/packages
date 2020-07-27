@@ -3,7 +3,8 @@
   "filename": "backbone.dualstorage.min.js",
   "authors": [
     {
-      "name": "Edward Anderson <nilbus@nilbus.com>"
+      "name": "Edward Anderson",
+      "email": "nilbus@nilbus.com"
     },
     {
       "name": "Lucian Mihaila"

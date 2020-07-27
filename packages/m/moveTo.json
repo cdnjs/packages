@@ -16,7 +16,6 @@
     "smooth",
     "smoothscroll"
   ],
-  "author": "Hasan Aydoğdu <hsnaydd@gmail.com>",
   "license": "MIT",
   "homepage": "https://hsnaydd.github.io/moveTo/demo/",
   "autoupdate": {
@@ -30,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Hasan Aydoğdu",
+      "email": "hsnaydd@gmail.com"
+    }
+  ]
 }

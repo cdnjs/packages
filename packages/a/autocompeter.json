@@ -10,7 +10,6 @@
     "type": "git",
     "url": "https://github.com/peterbe/autocompeter.git"
   },
-  "author": "Peter Bengtsson",
   "license": "MPL-2.0",
   "homepage": "https://autocompeter.com/",
   "autoupdate": {
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Peter Bengtsson"
+    }
+  ]
 }

@@ -3,11 +3,6 @@
   "description": "A collection of OzJS core modules that form a library called \"Mo\"",
   "filename": "lang.js",
   "homepage": "http://ozjs.org/mo/",
-  "author": {
-    "name": "dexteryy",
-    "email": "dexter.yy@gmail.com",
-    "url": "https://github.com/dexteryy"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/dexteryy/mo.git"
@@ -42,5 +37,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "dexteryy",
+      "email": "dexter.yy@gmail.com",
+      "url": "https://github.com/dexteryy"
+    }
+  ]
 }

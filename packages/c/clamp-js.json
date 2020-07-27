@@ -7,10 +7,6 @@
     "multiline",
     "browser"
   ],
-  "author": {
-    "name": "Javier López",
-    "email": "xavi160@gmail.com"
-  },
   "license": "WTFPL",
   "homepage": "https://github.com/xavi160/Clamp.js",
   "repository": {
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Javier López",
+      "email": "xavi160@gmail.com"
+    }
+  ]
 }

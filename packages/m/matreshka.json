@@ -12,10 +12,6 @@
     "url": "https://github.com/matreshkajs/matreshka.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Andrey Gubanov",
-    "email": "a@odessite.com.ua"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "matreshka",
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrey Gubanov",
+      "email": "a@odessite.com.ua"
+    }
+  ]
 }

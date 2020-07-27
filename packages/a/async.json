@@ -2,7 +2,6 @@
   "name": "async",
   "filename": "async.min.js",
   "description": "Higher-order functions and common patterns for asynchronous code",
-  "author": "Caolan McMahon",
   "repository": {
     "type": "git",
     "url": "https://github.com/caolan/async.git"
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Caolan McMahon"
+    }
+  ]
 }

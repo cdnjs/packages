@@ -7,9 +7,6 @@
     "ajax",
     "request"
   ],
-  "author": {
-    "name": "Julien Elbaz"
-  },
   "license": "MIT",
   "homepage": "https://elbywan.github.io/wretch",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Julien Elbaz"
+    }
+  ]
 }

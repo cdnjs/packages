@@ -10,7 +10,6 @@
     "css",
     "web-components"
   ],
-  "author": "yuanchuan",
   "license": "MIT",
   "homepage": "http://yuanchuan.name/css-doodle/",
   "autoupdate": {
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "yuanchuan"
+    }
+  ]
 }

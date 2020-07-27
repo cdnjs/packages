@@ -13,11 +13,6 @@
     "type": "git",
     "url": "https://github.com/timheap/jquery-xmlrpc.git"
   },
-  "author": {
-    "name": "Tim Heap",
-    "email": "heap.tim@gmail.com",
-    "url": "http://timheap.me"
-  },
   "license": "Unlicense",
   "autoupdate": {
     "source": "git",
@@ -30,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tim Heap",
+      "email": "heap.tim@gmail.com",
+      "url": "http://timheap.me"
+    }
+  ]
 }

@@ -1,6 +1,5 @@
 {
   "name": "flag-icon-css",
-  "author": "Panayiotis Lipiridis <lipiridis@gmail.com>",
   "filename": "css/flag-icon.min.css",
   "repository": {
     "type": "git",
@@ -25,5 +24,11 @@
     ]
   },
   "license": "MIT",
-  "description": ":flags: A collection of all country flags in SVG — plus the CSS for easier integration"
+  "description": ":flags: A collection of all country flags in SVG — plus the CSS for easier integration",
+  "authors": [
+    {
+      "name": "Panayiotis Lipiridis",
+      "email": "lipiridis@gmail.com"
+    }
+  ]
 }

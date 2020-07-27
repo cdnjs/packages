@@ -1,6 +1,5 @@
 {
   "name": "tempusdominus-bootstrap-4",
-  "author": "Jonathan Peterson",
   "description": "A date/time picker component designed to work with Bootstrap 4 and Momentjs. For usage, installation and demos see Project Site on GitHub",
   "homepage": "https://tempusdominus.github.io/bootstrap-4/",
   "license": "MIT",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jonathan Peterson"
+    }
+  ]
 }

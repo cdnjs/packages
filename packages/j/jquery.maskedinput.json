@@ -26,5 +26,10 @@
     "url": "https://github.com/digitalBush/jquery.maskedinput.git"
   },
   "license": "MIT",
-  "author": "Josh Bush (digitalbush.com)"
+  "authors": [
+    {
+      "name": "Josh Bush",
+      "url": "digitalbush.com"
+    }
+  ]
 }

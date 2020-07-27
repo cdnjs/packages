@@ -7,11 +7,6 @@
     "murmurhash3",
     "hash"
   ],
-  "author": {
-    "name": "Karan Lyons",
-    "email": "karan@karanlyons.com",
-    "url": "https://karanlyons.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -34,5 +29,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Karan Lyons",
+      "email": "karan@karanlyons.com",
+      "url": "https://karanlyons.com"
+    }
+  ]
 }

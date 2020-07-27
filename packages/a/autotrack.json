@@ -12,11 +12,6 @@
     "auto",
     "google"
   ],
-  "author": {
-    "name": "Philip Walton",
-    "email": "philip@philipwalton.com",
-    "url": "http://philipwalton.com"
-  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Philip Walton",
+      "email": "philip@philipwalton.com",
+      "url": "http://philipwalton.com"
+    }
+  ]
 }

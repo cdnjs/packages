@@ -17,7 +17,6 @@
     "url": "git+https://github.com/CreateJS/SoundJS.git"
   },
   "license": "MIT",
-  "author": "gskinner.com, inc.",
   "homepage": "https://createjs.com/soundjs/",
   "autoupdate": {
     "source": "git",
@@ -30,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "gskinner.com, inc."
+    }
+  ]
 }

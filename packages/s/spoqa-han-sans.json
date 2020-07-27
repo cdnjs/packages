@@ -11,11 +11,6 @@
     "Spoqa Han Sans",
     "font"
   ],
-  "author": {
-    "name": "Spoqa",
-    "email": "visual-design@spoqa.com",
-    "web": "http://www.spoqa-han-sans.com/"
-  },
   "license": "OFL-1.1",
   "autoupdate": {
     "source": "git",
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Spoqa",
+      "email": "visual-design@spoqa.com",
+      "url": "http://www.spoqa-han-sans.com/"
+    }
+  ]
 }

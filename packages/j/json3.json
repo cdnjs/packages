@@ -12,10 +12,6 @@
     "parser",
     "stringify"
   ],
-  "author": {
-    "name": "Kit Cambridge",
-    "web": "http://kitcambridge.be/"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/bestiejs/json3.git"
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kit Cambridge",
+      "url": "http://kitcambridge.be/"
+    }
+  ]
 }

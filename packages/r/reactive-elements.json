@@ -12,11 +12,6 @@
     "custom elements",
     "reactjs"
   ],
-  "author": {
-    "name": "Denis Radin aka PixelsCommander",
-    "email": "denis.radin@gmail.com",
-    "url": "https://pixelscommander.com/"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Denis Radin aka PixelsCommander",
+      "email": "denis.radin@gmail.com",
+      "url": "https://pixelscommander.com/"
+    }
+  ]
 }

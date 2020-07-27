@@ -10,10 +10,6 @@
     "mobile-first",
     "web"
   ],
-  "author": {
-    "name": "zdhxiong",
-    "email": "zdhxiong@gmail.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "zdhxiong",
+      "email": "zdhxiong@gmail.com"
+    }
+  ]
 }

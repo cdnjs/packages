@@ -2,11 +2,6 @@
   "name": "forge",
   "filename": "forge.min.js",
   "description": "JavaScript implementations of network transports, cryptography, ciphers, PKI, message digests, and various utilities.",
-  "author": {
-    "name": "Digital Bazaar, Inc.",
-    "email": "support@digitalbazaar.com",
-    "url": "http://digitalbazaar.com/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/digitalbazaar/forge.git"
@@ -52,5 +47,12 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Digital Bazaar, Inc.",
+      "email": "support@digitalbazaar.com",
+      "url": "http://digitalbazaar.com/"
+    }
+  ],
   "license": "(BSD-3-Clause OR GPL-2.0)"
 }

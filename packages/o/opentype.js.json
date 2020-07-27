@@ -29,8 +29,10 @@
       }
     ]
   },
-  "author": {
-    "name": "Frederik De Bleser",
-    "email": "frederik@debleser.be"
-  }
+  "authors": [
+    {
+      "name": "Frederik De Bleser",
+      "email": "frederik@debleser.be"
+    }
+  ]
 }

@@ -26,5 +26,9 @@
     "type": "git",
     "url": "https://github.com/johnny/jquery-sortable"
   },
-  "author": "Jonas von Andrian"
+  "authors": [
+    {
+      "name": "Jonas von Andrian"
+    }
+  ]
 }

@@ -3,10 +3,6 @@
   "filename": "inferno-server.min.js",
   "license": "MIT",
   "description": "Provides methods to render HTML strings from Inferno elements",
-  "author": {
-    "name": "Dominic Gannaway",
-    "email": "dg@domgan.com"
-  },
   "homepage": "https://infernojs.org/",
   "keywords": [
     "babel",
@@ -37,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dominic Gannaway",
+      "email": "dg@domgan.com"
+    }
+  ]
 }

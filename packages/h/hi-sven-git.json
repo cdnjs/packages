@@ -2,7 +2,6 @@
   "name": "hi-sven-git",
   "description": "Say hi to Sven",
   "keywords": [],
-  "author": "Sven Sauleau <sven@sauleau.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -20,5 +19,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sven Sauleau",
+      "email": "sven@sauleau.com"
+    }
+  ]
 }

@@ -1,8 +1,5 @@
 {
   "name": "angular-gravatar",
-  "author": {
-    "name": "Sebastian Wallin"
-  },
   "description": "Angular.JS directive for gravatar images",
   "keywords": [
     "angular",
@@ -26,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sebastian Wallin"
+    }
+  ]
 }

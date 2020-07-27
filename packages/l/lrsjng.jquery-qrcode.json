@@ -3,7 +3,6 @@
   "filename": "jquery-qrcode.min.js",
   "description": "generate QR codes dynamically",
   "homepage": "http://larsjung.de/jquery-qrcode/",
-  "author": "Lars Jung <lrsjng@gmail.com> (http://larsjung.de)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -24,5 +23,12 @@
   "keywords": [
     "lrsjng.jquery",
     "qrcode"
+  ],
+  "authors": [
+    {
+      "name": "Lars Jung",
+      "email": "lrsjng@gmail.com",
+      "url": "http://larsjung.de"
+    }
   ]
 }

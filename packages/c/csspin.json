@@ -23,7 +23,6 @@
     "url": "https://github.com/webkul/csspin.git"
   },
   "license": "MIT",
-  "author": "Nitish Kumar <support@webkul.com>",
   "autoupdate": {
     "source": "npm",
     "target": "csspin",
@@ -36,5 +35,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nitish Kumar",
+      "email": "support@webkul.com"
+    }
+  ]
 }

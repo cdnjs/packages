@@ -7,9 +7,6 @@
     "list",
     "paging"
   ],
-  "author": {
-    "name": "Nick Piscitelli"
-  },
   "license": "MIT",
   "homepage": "https://github.com/NickPiscitelli/Glider.js#readme",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nick Piscitelli"
+    }
+  ]
 }

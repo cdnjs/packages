@@ -18,7 +18,6 @@
     "url": "https://github.com/lihongxun945/light7"
   },
   "license": "MIT",
-  "author": "言川<lihongxun945@gmail.com>",
   "autoupdate": {
     "source": "npm",
     "target": "light7",
@@ -30,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "言川",
+      "email": "lihongxun945@gmail.com"
+    }
+  ]
 }

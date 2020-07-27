@@ -12,7 +12,6 @@
     "hash",
     "xdr"
   ],
-  "author": "Scott Fleckenstein <scott@stellar.org>",
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Scott Fleckenstein",
+      "email": "scott@stellar.org"
+    }
+  ]
 }

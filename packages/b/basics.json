@@ -1,11 +1,6 @@
 {
   "name": "basics",
   "filename": "basics.css",
-  "author": {
-    "name": "Hayden Bleasel",
-    "email": "haydenbleasel@gmail.com",
-    "url": "http://haydenbleasel.com/"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/haydenbleasel/basics.git",
@@ -28,5 +23,12 @@
     "url": "git://github.com/haydenbleasel/basics.git"
   },
   "license": "MIT",
-  "description": "A lightweight, drop-in stylesheet for intelligent defaults."
+  "description": "A lightweight, drop-in stylesheet for intelligent defaults.",
+  "authors": [
+    {
+      "name": "Hayden Bleasel",
+      "email": "haydenbleasel@gmail.com",
+      "url": "http://haydenbleasel.com/"
+    }
+  ]
 }

@@ -1,10 +1,6 @@
 {
   "name": "sat",
   "description": "Library for performing 2D collision detection",
-  "author": {
-    "name": "Jim Riecken",
-    "email": "jriecken@gmail.com"
-  },
   "keywords": [
     "collision detection",
     "sat",
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jim Riecken",
+      "email": "jriecken@gmail.com"
+    }
+  ]
 }

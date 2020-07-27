@@ -27,10 +27,12 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Zack Bloom <zackbloom@gmail.com>"
+      "name": "Zack Bloom",
+      "email": "zackbloom@gmail.com"
     },
     {
-      "name": "Adam Schwartz <adam.flynn.schwartz@gmail.com>"
+      "name": "Adam Schwartz",
+      "email": "adam.flynn.schwartz@gmail.com"
     }
   ]
 }

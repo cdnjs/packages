@@ -7,11 +7,6 @@
     "type": "git",
     "url": "git://github.com/jmdobry/angular-cache.git"
   },
-  "author": {
-    "name": "Jason Dobry",
-    "url": "http://www.pseudobry.com",
-    "email": "jason.dobry@gmail.com"
-  },
   "license": "MIT",
   "keywords": [
     "CacheFactory",
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Dobry",
+      "url": "http://www.pseudobry.com",
+      "email": "jason.dobry@gmail.com"
+    }
+  ]
 }

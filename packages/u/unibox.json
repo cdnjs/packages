@@ -1,16 +1,11 @@
 {
   "name": "unibox",
-  "title": "unibox - search suggestion",
   "filename": "js/unibox.min.js",
   "description": "A powerful search suggestion input box.",
   "keywords": [
     "search",
     "suggestion"
   ],
-  "author": {
-    "name": "David Urbansky",
-    "url": "https://github.com/ddsky/unibox"
-  },
   "license": "MIT",
   "homepage": "https://spoonacular.com/meal-planner",
   "repository": {
@@ -28,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David Urbansky",
+      "url": "https://github.com/ddsky/unibox"
+    }
+  ]
 }

@@ -21,7 +21,6 @@
     "plot",
     "plots"
   ],
-  "author": "Palantir Technologies",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -34,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Palantir Technologies"
+    }
+  ]
 }

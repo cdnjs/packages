@@ -9,10 +9,6 @@
     "lint",
     "inspector"
   ],
-  "author": {
-    "name": "Philip Walton",
-    "url": "http://philipwalton.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/philipwalton/html-inspector.git"
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Philip Walton",
+      "url": "http://philipwalton.com"
+    }
+  ]
 }

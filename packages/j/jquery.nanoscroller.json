@@ -27,5 +27,11 @@
     "url": "https://github.com/jamesflorentino/nanoScrollerJS"
   },
   "license": "MIT",
-  "author": "James Florentino <jamesflorentino@gmail.com> (http://blog.jamesflorentino.com/)"
+  "authors": [
+    {
+      "name": "James Florentino",
+      "email": "jamesflorentino@gmail.com",
+      "url": "http://blog.jamesflorentino.com/"
+    }
+  ]
 }

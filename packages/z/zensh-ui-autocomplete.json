@@ -24,5 +24,10 @@
     ]
   },
   "license": "MIT",
-  "author": "Yan Qing <admin@zensh.com>"
+  "authors": [
+    {
+      "name": "Yan Qing",
+      "email": "admin@zensh.com"
+    }
+  ]
 }

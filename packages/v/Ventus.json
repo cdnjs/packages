@@ -15,7 +15,6 @@
     "url": "git://github.com/rlamana/Ventus"
   },
   "license": "MIT",
-  "author": "Ramón Lamana <@rlamana> (http://rlamana.com/)",
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/rlamana/Ventus.git",
@@ -27,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ramón Lamana",
+      "email": "@rlamana",
+      "url": "http://rlamana.com/"
+    }
+  ]
 }

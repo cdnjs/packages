@@ -1,14 +1,8 @@
 {
   "filename": "jquery-impromptu.min.js",
   "name": "jquery-impromptu",
-  "title": "jQuery-Impromptu",
   "description": "An extension to help provide a more pleasant way to spontaneously prompt a user for input.",
   "homepage": "http://trentrichardson.com/Impromptu",
-  "author": {
-    "name": "Trent Richardson",
-    "email": "trentdrichardson@gmail.com",
-    "url": "http://trentrichardson.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/trentrichardson/jQuery-Impromptu.git"
@@ -27,5 +21,12 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Trent Richardson",
+      "email": "trentdrichardson@gmail.com",
+      "url": "http://trentrichardson.com"
+    }
+  ]
 }

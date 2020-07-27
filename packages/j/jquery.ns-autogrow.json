@@ -11,7 +11,6 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": "Roman Pushkin <roman.pushkin@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -28,5 +27,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ro31337/jquery.ns-autogrow.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Roman Pushkin",
+      "email": "roman.pushkin@gmail.com"
+    }
+  ]
 }

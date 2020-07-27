@@ -15,7 +15,6 @@
     "datepicker",
     "timepicker"
   ],
-  "author": "Chupurnov <chupurnov@gmail.com> (http://xdsoft.net/)",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -34,5 +33,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chupurnov",
+      "email": "chupurnov@gmail.com",
+      "url": "http://xdsoft.net/"
+    }
+  ]
 }

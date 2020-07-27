@@ -14,10 +14,12 @@
   ],
   "authors": [
     {
-      "name": "Nihey Takizawa <nihey.takizawa@gmail.com>"
+      "name": "Nihey Takizawa",
+      "email": "nihey.takizawa@gmail.com"
     },
     {
-      "name": "Jean Lucas <jeanleonino@gmail.com>"
+      "name": "Jean Lucas",
+      "email": "jeanleonino@gmail.com"
     },
     {
       "name": "Yiom"

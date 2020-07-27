@@ -1,5 +1,4 @@
 {
-  "author": "Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)",
   "description": "Parse and stringify URL query strings",
   "filename": "index.js",
   "keywords": [
@@ -34,5 +33,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "sindresorhus.com"
+    }
+  ]
 }

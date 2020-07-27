@@ -2,10 +2,6 @@
   "name": "jquery-bracket",
   "description": "Library for organizing single and double elimination tournaments",
   "license": "MIT",
-  "author": {
-    "name": "Teijo Laine",
-    "url": "https://github.com/teijo"
-  },
   "homepage": "http://www.aropupu.fi/bracket/",
   "repository": {
     "type": "git",
@@ -35,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Teijo Laine",
+      "url": "https://github.com/teijo"
+    }
+  ]
 }

@@ -2,10 +2,6 @@
   "name": "tablesaw",
   "filename": "tablesaw.min.js",
   "description": "A set of plugins for responsive tables.",
-  "author": {
-    "name": "Zach Leatherman",
-    "email": "zach@filamentgroup.com"
-  },
   "keywords": [
     "html",
     "responsive",
@@ -29,5 +25,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zach Leatherman",
+      "email": "zach@filamentgroup.com"
+    }
+  ]
 }

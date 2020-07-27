@@ -11,7 +11,6 @@
     "chain",
     "loading"
   ],
-  "author": "James Hartig <fastest963@gmail.com>",
   "license": "BSD",
   "filename": "chainloading.min.js",
   "autoupdate": {
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "James Hartig",
+      "email": "fastest963@gmail.com"
+    }
+  ]
 }

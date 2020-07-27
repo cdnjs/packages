@@ -16,7 +16,6 @@
     "ui"
   ],
   "license": "MIT",
-  "author": "harvest",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/harvesthq/chosen-package.git",
@@ -28,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "harvest"
+    }
+  ]
 }

@@ -8,10 +8,6 @@
     "plugins",
     "animate"
   ],
-  "author": {
-    "name": "Jack McCourt",
-    "url": "https://github.com/Jack-McCourt/css3-animate-it"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jack-McCourt/css3-animate-it.git"
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jack McCourt",
+      "url": "https://github.com/Jack-McCourt/css3-animate-it"
+    }
+  ]
 }

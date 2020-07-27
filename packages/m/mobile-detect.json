@@ -19,11 +19,6 @@
     "mobilegrade",
     "sniff"
   ],
-  "author": {
-    "name": "Heinrich Goebl",
-    "email": "hgoebl@goebl.com",
-    "url": "http://www.goebl.com/"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -36,5 +31,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Heinrich Goebl",
+      "email": "hgoebl@goebl.com",
+      "url": "http://www.goebl.com/"
+    }
+  ]
 }

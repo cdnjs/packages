@@ -1,7 +1,6 @@
 {
   "name": "jquery-requestAnimationFrame",
   "filename": "jquery.requestanimationframe.min.js",
-  "title": "jQuery requestAnimationFrame",
   "description": "Replaces the standard jQuery timer loop with requestAnimationFrame where supported. Requires jQuery 1.8",
   "autoupdate": {
     "source": "git",
@@ -15,11 +14,6 @@
       }
     ]
   },
-  "author": {
-    "name": "Corey Frang",
-    "email": "gnarf37@gmail.com",
-    "url": "https://github.com/gnarf"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/gnarf/jquery-requestAnimationFrame.git"
@@ -27,5 +21,12 @@
   "license": "MIT",
   "keywords": [
     "animation"
+  ],
+  "authors": [
+    {
+      "name": "Corey Frang",
+      "email": "gnarf37@gmail.com",
+      "url": "https://github.com/gnarf"
+    }
   ]
 }

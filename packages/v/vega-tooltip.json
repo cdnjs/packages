@@ -1,6 +1,5 @@
 {
   "name": "vega-tooltip",
-  "author": "Zening Qu, Sira Horradarn",
   "filename": "vega-tooltip.min.js",
   "description": "A tooltip plugin for Vega-lite and Vega visualizations.",
   "repository": {
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Zening Qu, Sira Horradarn"
+    }
+  ]
 }

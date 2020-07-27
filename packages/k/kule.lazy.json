@@ -1,6 +1,5 @@
 {
   "name": "kule.lazy",
-  "title": "Kule Lazy",
   "description": "Kule CSS Lazy, Do less, but changeable.",
   "keywords": [
     "Kule",
@@ -24,7 +23,6 @@
     "type": "git",
     "url": "git://github.com/keicheng/kule.lazy.git"
   },
-  "author": "Kei Cheng",
   "license": "MIT",
   "homepage": "http://www.kule.tw",
   "autoupdate": {
@@ -38,5 +36,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kei Cheng"
+    }
+  ]
 }

@@ -26,5 +26,9 @@
     "url": "https://github.com/desandro/masonry"
   },
   "license": "MIT",
-  "author": "David DeSandro"
+  "authors": [
+    {
+      "name": "David DeSandro"
+    }
+  ]
 }

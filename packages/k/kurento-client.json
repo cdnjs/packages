@@ -8,7 +8,6 @@
     "Kurento",
     "WebRTC"
   ],
-  "author": "Kurento <info@kurento.com> (https://www.kurento.org)",
   "homepage": "https://www.kurento.org",
   "repository": {
     "type": "git",
@@ -25,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kurento",
+      "email": "info@kurento.com",
+      "url": "https://www.kurento.org"
+    }
+  ]
 }

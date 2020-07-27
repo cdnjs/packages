@@ -11,11 +11,6 @@
     "canvas"
   ],
   "homepage": "https://d3js.org",
-  "author": {
-    "name": "Mike Bostock",
-    "email": "mbostock@gmail.com",
-    "url": "http://bost.ocks.org/mike"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/d3/d3.git"
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mike Bostock",
+      "email": "mbostock@gmail.com",
+      "url": "http://bost.ocks.org/mike"
+    }
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "name": "chartist-plugin-legend",
   "filename": "chartist-plugin-legend.min.js",
-  "author": "Kees Kluskens <kees@codeyellow.nl>",
   "description": "Legend plugin for Chartist.js.",
   "license": "ISC",
   "repository": {
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kees Kluskens",
+      "email": "kees@codeyellow.nl"
+    }
+  ]
 }

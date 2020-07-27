@@ -19,7 +19,6 @@
     "url": "git://github.com/transcranial/keras-js"
   },
   "license": "MIT",
-  "author": "Leon Chen <leon@md.ai>",
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/transcranial/keras-js.git",
@@ -31,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Leon Chen",
+      "email": "leon@md.ai"
+    }
+  ]
 }

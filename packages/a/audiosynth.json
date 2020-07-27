@@ -12,7 +12,11 @@
     "synthesizer",
     "waveform"
   ],
-  "author": "Keith Horwood",
   "homepage": "http://keithwhor.github.io/audiosynth/",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Keith Horwood"
+    }
+  ]
 }

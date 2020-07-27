@@ -13,7 +13,6 @@
     "grid",
     "react-component"
   ],
-  "author": "AllenFang",
   "license": "MIT",
   "homepage": "https://allenfang.github.io/react-bootstrap-table/index.html",
   "autoupdate": {
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "AllenFang"
+    }
+  ]
 }

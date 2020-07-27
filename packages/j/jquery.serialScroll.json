@@ -1,7 +1,6 @@
 {
   "name": "jquery.serialScroll",
   "filename": "jquery.serialScroll.min.js",
-  "title": "Ariel Flesler's jQuery serialScroll",
   "description": "Animated scrolling of series with jQuery",
   "keywords": [
     "slideshow",
@@ -13,11 +12,6 @@
     "prev",
     "next"
   ],
-  "author": {
-    "name": "Ariel Flesler",
-    "email": "aflesler@gmail.com",
-    "url": "http://flesler.blogspot.com"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/flesler/jquery.serialScroll.git",
@@ -34,5 +28,12 @@
     "type": "git",
     "url": "git://github.com/flesler/jquery.serialScroll.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ariel Flesler",
+      "email": "aflesler@gmail.com",
+      "url": "http://flesler.blogspot.com"
+    }
+  ]
 }

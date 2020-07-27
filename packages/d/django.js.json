@@ -3,10 +3,6 @@
   "filename": "django.min.js",
   "description": "Django.js provides tools for JavaScript development with Django.",
   "homepage": "https://github.com/noirbizarre/django.js/",
-  "author": {
-    "name": "Axel Haustant",
-    "url": "http://noirbizarre.info/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/noirbizarre/django.js.git"
@@ -14,5 +10,11 @@
   "license": "LGPL-3.0",
   "keywords": [
     "django.js"
+  ],
+  "authors": [
+    {
+      "name": "Axel Haustant",
+      "url": "http://noirbizarre.info/"
+    }
   ]
 }

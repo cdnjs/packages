@@ -1,6 +1,5 @@
 {
   "name": "force-js",
-  "author": "René Tanczos (@gravmatt)",
   "filename": "force.min.js",
   "description": "The easy way to scroll and animate your page",
   "keywords": [
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "René Tanczos (@gravmatt)"
+    }
+  ]
 }

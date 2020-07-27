@@ -1,11 +1,6 @@
 {
   "name": "vue-the-mask",
-  "title": "vue-the-mask",
   "description": "Tiny (2KB) and dependency free mask input for Vue.js",
-  "author": {
-    "name": "Vue.js Tips",
-    "url": "https://github.com/vuejs-tips"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -28,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vue.js Tips",
+      "url": "https://github.com/vuejs-tips"
+    }
+  ]
 }

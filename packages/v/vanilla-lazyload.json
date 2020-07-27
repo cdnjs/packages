@@ -7,11 +7,6 @@
     "url": "https://github.com/verlok/lazyload.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Andrea \"verlok\" Verlicchi",
-    "email": "andrea.verlicchi@gmail.com",
-    "url": "https://www.andreaverlicchi.eu"
-  },
   "keywords": [
     "lazyload",
     "vanilla",
@@ -40,5 +35,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrea \"verlok\" Verlicchi",
+      "email": "andrea.verlicchi@gmail.com",
+      "url": "https://www.andreaverlicchi.eu"
+    }
+  ]
 }

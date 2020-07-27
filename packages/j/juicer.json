@@ -3,7 +3,6 @@
   "filename": "juicer-min.js",
   "description": "a high-performance lightweight javascript template engine",
   "homepage": "http://juicer.name",
-  "author": "juicer.js authors {badkaikai@gmail.com | http://benben.cc}",
   "keywords": [
     "juicer",
     "template",
@@ -28,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "juicer.js authors {badkaikai@gmail.com | http://benben.cc}"
+    }
+  ]
 }

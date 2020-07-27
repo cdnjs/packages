@@ -8,9 +8,6 @@
     "ecma402",
     "polyfill"
   ],
-  "author": {
-    "name": "Andy Earnshaw"
-  },
   "license": "MIT",
   "homepage": "https://github.com/andyearnshaw/Intl.js#readme",
   "repository": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andy Earnshaw"
+    }
+  ]
 }

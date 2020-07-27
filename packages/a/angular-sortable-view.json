@@ -12,11 +12,6 @@
   ],
   "license": "MIT",
   "homepage": "https://kamilkp.github.io/angular-sortable-view",
-  "author": {
-    "name": "Kamil Pekala",
-    "email": "kamilkp@gmail.com",
-    "url": "http://github.com/kamilkp"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/kamilkp/angular-sortable-view.git"
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kamil Pekala",
+      "email": "kamilkp@gmail.com",
+      "url": "http://github.com/kamilkp"
+    }
+  ]
 }

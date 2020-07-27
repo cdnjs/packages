@@ -7,9 +7,6 @@
     "lightweight",
     "touch"
   ],
-  "author": {
-    "name": "David Cetinkaya"
-  },
   "license": "MIT",
   "homepage": "https://github.com/davidcetinkaya/embla-carousel#readme",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David Cetinkaya"
+    }
+  ]
 }

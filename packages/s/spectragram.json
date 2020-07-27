@@ -14,7 +14,6 @@
     "photos",
     "spectragram"
   ],
-  "author": "Adrian Quevedo <npm@adrianquevedo.com> (http://adrianquevedo.com/)",
   "license": "MIT",
   "homepage": "http://spectragram.js.org/",
   "autoupdate": {
@@ -28,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Adrian Quevedo",
+      "email": "npm@adrianquevedo.com",
+      "url": "http://adrianquevedo.com/"
+    }
+  ]
 }

@@ -14,13 +14,16 @@
   ],
   "authors": [
     {
-      "name": "Dan Allen (https://github.com/mojavelinux)"
+      "name": "Dan Allen",
+      "url": "https://github.com/mojavelinux"
     },
     {
-      "name": "Guillaume Grossetie (https://github.com/mogztter)"
+      "name": "Guillaume Grossetie",
+      "url": "https://github.com/mogztter"
     },
     {
-      "name": "Anthonny Quérouil (https://github.com/anthonny)"
+      "name": "Anthonny Quérouil",
+      "url": "https://github.com/anthonny"
     }
   ],
   "license": "MIT",

@@ -10,7 +10,6 @@
     "sign",
     "verify"
   ],
-  "author": "square",
   "license": "Apache-2.0",
   "homepage": "https://github.com/square/js-jose",
   "repository": {
@@ -29,5 +28,10 @@
       }
     ]
   },
-  "filename": "jose.min.js"
+  "filename": "jose.min.js",
+  "authors": [
+    {
+      "name": "square"
+    }
+  ]
 }

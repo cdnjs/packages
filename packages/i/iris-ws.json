@@ -2,10 +2,6 @@
   "name": "iris-ws",
   "filename": "client.min.js",
   "description": "Client side library for the Websocket package used in the golang web framework called IRIS.",
-  "author": {
-    "name": "Gerasimos Maropoulos",
-    "email": "kataras2006@hotmail.com"
-  },
   "keywords": [
     "iris",
     "golang",
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Gerasimos Maropoulos",
+      "email": "kataras2006@hotmail.com"
+    }
+  ]
 }

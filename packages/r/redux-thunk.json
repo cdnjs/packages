@@ -13,10 +13,6 @@
     "redux-middleware",
     "flux"
   ],
-  "author": {
-    "name": "Dan Abramov",
-    "email": "dan.abramov@me.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dan Abramov",
+      "email": "dan.abramov@me.com"
+    }
+  ]
 }

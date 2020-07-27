@@ -24,5 +24,9 @@
     "url": "https://github.com/mrdoob/three.js.git"
   },
   "license": "MIT",
-  "author": "mrdoob"
+  "authors": [
+    {
+      "name": "mrdoob"
+    }
+  ]
 }

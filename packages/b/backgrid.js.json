@@ -25,5 +25,10 @@
     "url": "https://github.com/wyuenho/backgrid"
   },
   "license": "MIT",
-  "author": "Jimmy Yuen Ho Wong and contributors <wyuenho@gmail.com>"
+  "authors": [
+    {
+      "name": "Jimmy Yuen Ho Wong and contributors",
+      "email": "wyuenho@gmail.com"
+    }
+  ]
 }

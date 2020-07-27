@@ -15,10 +15,6 @@
     "type": "git",
     "url": "git+https://github.com/andrewtelnov/surveyjs.git"
   },
-  "author": {
-    "name": "andrewtelnov",
-    "email": "andrew.telnov@gmail.com"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "survey-knockout",
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "andrewtelnov",
+      "email": "andrew.telnov@gmail.com"
+    }
+  ]
 }

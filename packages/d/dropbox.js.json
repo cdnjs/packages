@@ -17,7 +17,6 @@
     "url": "https://github.com/dropbox/dropbox-sdk-js"
   },
   "license": "MIT",
-  "author": "Riley Tomasek",
   "autoupdate": {
     "source": "npm",
     "target": "dropbox",
@@ -29,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Riley Tomasek"
+    }
+  ]
 }

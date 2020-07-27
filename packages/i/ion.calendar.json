@@ -1,7 +1,6 @@
 {
   "name": "ion.calendar",
   "filename": "js/ion.calendar.min.js",
-  "title": "Ion Calendar",
   "description": "jQuery-calendar and datepicker, based on powerful library to work with time - Moment.js",
   "keywords": [
     "date",
@@ -12,11 +11,6 @@
     "momentjs",
     "multilanguage"
   ],
-  "author": {
-    "name": "IonDen",
-    "url": "https://github.com/IonDen",
-    "email": "denis.ineshin@gmail.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -35,5 +29,12 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/IonDen/ion.calendar.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "IonDen",
+      "url": "https://github.com/IonDen",
+      "email": "denis.ineshin@gmail.com"
+    }
+  ]
 }

@@ -13,8 +13,10 @@
     "url": "https://github.com/vitalets/x-editable"
   },
   "license": "MIT",
-  "author": {
-    "name": "Vitaliy Potapov",
-    "email": "noginsk@rambler.ru"
-  }
+  "authors": [
+    {
+      "name": "Vitaliy Potapov",
+      "email": "noginsk@rambler.ru"
+    }
+  ]
 }

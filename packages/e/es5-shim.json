@@ -18,22 +18,34 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Kris Kowal <kris@cixar.com> (https://github.com/kriskowal/)"
+      "name": "Kris Kowal",
+      "email": "kris@cixar.com",
+      "url": "https://github.com/kriskowal/"
     },
     {
-      "name": "Sami Samhuri <sami.samhuri@gmail.com> (http://samhuri.net/)"
+      "name": "Sami Samhuri",
+      "email": "sami.samhuri@gmail.com",
+      "url": "http://samhuri.net/"
     },
     {
-      "name": "Florian Schäfer <florian.schaefer@gmail.com> (https://github.com/fschaefer)"
+      "name": "Florian Schäfer",
+      "email": "florian.schaefer@gmail.com",
+      "url": "https://github.com/fschaefer"
     },
     {
-      "name": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)"
+      "name": "Irakli Gozalishvili",
+      "email": "rfobic@gmail.com",
+      "url": "http://jeditoolkit.com"
     },
     {
-      "name": "Kit Cambridge <kitcambridge@gmail.com> (http://kitcambridge.github.com)"
+      "name": "Kit Cambridge",
+      "email": "kitcambridge@gmail.com",
+      "url": "http://kitcambridge.github.com"
     },
     {
-      "name": "Jordan Harband <ljharb@gmail.com> (https://github.com/ljharb/)"
+      "name": "Jordan Harband",
+      "email": "ljharb@gmail.com",
+      "url": "https://github.com/ljharb/"
     }
   ],
   "autoupdate": {

@@ -1,11 +1,6 @@
 {
   "name": "virtual-keyboard",
-  "title": "Keyboard",
   "description": "Virtual Keyboard using jQuery UI",
-  "author": {
-    "name": "Jeremy Satterfield",
-    "url": "https://github.com/jsatt"
-  },
   "license": "MIT",
   "keywords": [
     "customizable",
@@ -32,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeremy Satterfield",
+      "url": "https://github.com/jsatt"
+    }
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "name": "jQuery-slimScroll",
   "filename": "jquery.slimscroll.min.js",
-  "title": "jQuery slimScroll scrollbar",
   "description": "slimScroll is a small jQuery plugin that transforms any div into a scrollable area. slimScroll doesn't occupy any visual space as it only appears on a user initiated mouse-over.",
   "keywords": [
     "scrollbar",
@@ -13,10 +12,6 @@
     "ui"
   ],
   "homepage": "http://rocha.la/jQuery-slimScroll/",
-  "author": {
-    "name": "Piotr Rochala",
-    "url": "http://rocha.la/"
-  },
   "license": "(MIT OR GPL)",
   "autoupdate": {
     "source": "git",
@@ -34,5 +29,11 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/rochal/jQuery-slimScroll.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Piotr Rochala",
+      "url": "http://rocha.la/"
+    }
+  ]
 }

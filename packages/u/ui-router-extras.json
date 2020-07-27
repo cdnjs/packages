@@ -1,5 +1,4 @@
 {
-  "author": "Christopher Thielen",
   "name": "ui-router-extras",
   "filename": "ct-ui-router-extras.min.js",
   "description": "UI-Router Extras: Sticky states, Future States, Deep State Redirect, Transition promise",
@@ -34,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Christopher Thielen"
+    }
+  ]
 }

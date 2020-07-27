@@ -1,6 +1,5 @@
 {
   "name": "amazeui-react",
-  "title": "Amaze UI React",
   "filename": "amazeui.react.min.js",
   "description": "Amaze UI components build with React.",
   "repository": {
@@ -16,7 +15,6 @@
     "react-amazeui",
     "web-components"
   ],
-  "author": "AllMobilize, Inc.",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -29,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "AllMobilize, Inc."
+    }
+  ]
 }

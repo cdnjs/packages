@@ -3,10 +3,6 @@
   "filename": "jquery.details.min.js",
   "description": "This plugin polyfills <details>/<summary> HTML elements and adds the appropriate ARIA annotations for optimal accessibility.",
   "homepage": "https://mathiasbynens.be/notes/html5-details-jquery",
-  "author": {
-    "name": "Mathias Bynens",
-    "url": "https://mathiasbynens.be/"
-  },
   "keywords": [
     "html5",
     "details",
@@ -29,5 +25,11 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Mathias Bynens",
+      "url": "https://mathiasbynens.be/"
+    }
+  ],
   "license": "(MIT OR GPL-2.0)"
 }

@@ -28,10 +28,12 @@
   },
   "authors": [
     {
-      "name": "Adam Schwartz <aschwartz@hubspot.com>"
+      "name": "Adam Schwartz",
+      "email": "aschwartz@hubspot.com"
     },
     {
-      "name": "Zack Bloom <zbloom@hubspot.com>"
+      "name": "Zack Bloom",
+      "email": "zbloom@hubspot.com"
     }
   ]
 }

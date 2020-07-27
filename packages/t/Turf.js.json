@@ -33,7 +33,6 @@
     "jenks",
     "sample"
   ],
-  "author": "morganherlocker",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -46,5 +45,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "morganherlocker"
+    }
+  ]
 }

@@ -1,6 +1,5 @@
 {
   "name": "jquery-overlaps",
-  "title": "jQuery Overlaps",
   "filename": "jquery.overlaps.min.js",
   "description": "A jQuery plugin that detects if one or more elements are overlapping.",
   "keywords": [
@@ -9,10 +8,6 @@
     "filter",
     "overlapping"
   ],
-  "author": {
-    "name": "Brandon Aaron",
-    "url": "http://brandonaaron.net"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/brandonaaron/jquery-overlaps.git",
@@ -29,5 +24,11 @@
     "type": "git",
     "url": "https://github.com/brandonaaron/jquery-overlaps.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Brandon Aaron",
+      "url": "http://brandonaaron.net"
+    }
+  ]
 }

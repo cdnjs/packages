@@ -6,7 +6,6 @@
     "type": "git",
     "url": "https://github.com/videojs/videojs-contrib-dash.git"
   },
-  "author": "Brightcove",
   "license": "Apache-2.0",
   "keywords": [
     "video.js",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Brightcove"
+    }
+  ]
 }

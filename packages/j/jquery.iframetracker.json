@@ -14,7 +14,6 @@
     "advertising",
     "click"
   ],
-  "author": "Vincent Paré",
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vincent Paré"
+    }
+  ]
 }

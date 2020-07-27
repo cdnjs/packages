@@ -11,7 +11,6 @@
     "url": "https://github.com/ScottHamper/Cookies.git"
   },
   "license": "UNLICENSE",
-  "author": "Scott Hamper",
   "autoupdate": {
     "source": "npm",
     "target": "cookies-js",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Scott Hamper"
+    }
+  ]
 }

@@ -14,10 +14,6 @@
     "url": "git@github.com:vega/vega-embed.git"
   },
   "license": "BSD-3-Clause",
-  "author": {
-    "name": "Jeffrey Heer",
-    "url": "http://idl.cs.washington.edu"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "vega-embed",
@@ -35,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeffrey Heer",
+      "url": "http://idl.cs.washington.edu"
+    }
+  ]
 }

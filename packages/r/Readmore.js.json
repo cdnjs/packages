@@ -2,7 +2,6 @@
   "name": "Readmore.js",
   "description": "A lightweight jQuery plugin for collapsing and expanding long blocks of text with \"Read more\" and \"Close\" links.",
   "filename": "readmore.min.js",
-  "author": "Jed Foster <jed@jedfoster.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jed Foster",
+      "email": "jed@jedfoster.com"
+    }
+  ]
 }

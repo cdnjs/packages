@@ -3,7 +3,6 @@
   "filename": "ng-knob.min.js",
   "description": "Angular.js Knob directive",
   "homepage": "https://radmie.github.io/ng-knob",
-  "author": "RadMie <radoslaw.mietkiewicz@gmail.com>",
   "license": "MIT",
   "keywords": [
     "angular",
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "RadMie",
+      "email": "radoslaw.mietkiewicz@gmail.com"
+    }
+  ]
 }

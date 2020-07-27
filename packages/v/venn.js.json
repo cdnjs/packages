@@ -3,7 +3,6 @@
   "filename": "venn.min.js",
   "description": "A javascript library for laying out area proportional venn and euler diagrams",
   "homepage": "https://benfred.github.io/venn.js/",
-  "author": "Ben Frederickson (ben@benfrederickson.com)",
   "keywords": [
     "venn-diagram",
     "javascript",
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ben Frederickson",
+      "email": "ben@benfrederickson.com"
+    }
+  ]
 }

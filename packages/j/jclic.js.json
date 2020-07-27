@@ -7,10 +7,6 @@
     "type": "git",
     "url": "git+https://github.com/projectestac/jclic.js.git"
   },
-  "author": {
-    "email": "francesc@gmail.com",
-    "name": "Francesc Busquets"
-  },
   "keywords": [
     "JClic",
     "activities",
@@ -35,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "francesc@gmail.com",
+      "name": "Francesc Busquets"
+    }
+  ]
 }

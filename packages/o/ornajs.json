@@ -15,7 +15,6 @@
     "ACSS",
     "Parser"
   ],
-  "author": "Dima Popov",
   "license": "MIT",
   "homepage": "http://ornaorg.github.io",
   "autoupdate": {
@@ -29,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dima Popov"
+    }
+  ]
 }

@@ -1,10 +1,6 @@
 {
   "name": "nedb",
   "filename": "nedb.min.js",
-  "author": {
-    "name": "Louis Chatriot",
-    "email": "louis.chatriot@gmail.com"
-  },
   "description": "File-based embedded data store for node.js",
   "keywords": [
     "database",
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Louis Chatriot",
+      "email": "louis.chatriot@gmail.com"
+    }
+  ]
 }

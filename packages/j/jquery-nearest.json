@@ -11,10 +11,6 @@
     "touching",
     "pixel"
   ],
-  "author": {
-    "name": "Gilmore Davidson",
-    "url": "https://shoehornwithteeth.com/"
-  },
   "homepage": "https://gilmoreorless.github.io/jquery-nearest/",
   "repository": {
     "type": "git",
@@ -38,5 +34,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gilmore Davidson",
+      "url": "https://shoehornwithteeth.com/"
+    }
+  ]
 }

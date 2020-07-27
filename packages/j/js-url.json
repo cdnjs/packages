@@ -24,7 +24,9 @@
     "type": "github",
     "url": "https://github.com/websanova/js-url"
   },
-  "author": {
-    "name": "Websanova"
-  }
+  "authors": [
+    {
+      "name": "Websanova"
+    }
+  ]
 }

@@ -12,10 +12,6 @@
     "type": "git",
     "url": "https://github.com/wilddeer/stickyfill.git"
   },
-  "author": {
-    "name": "Oleg Korsunsky",
-    "url": "http://wd.dizaina.net/"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/wilddeer/stickyfill.git",
@@ -28,5 +24,11 @@
       }
     ]
   },
-  "description": "`position: sticky` polyfill"
+  "description": "`position: sticky` polyfill",
+  "authors": [
+    {
+      "name": "Oleg Korsunsky",
+      "url": "http://wd.dizaina.net/"
+    }
+  ]
 }

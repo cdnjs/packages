@@ -11,7 +11,6 @@
     "playback",
     "MPEG"
   ],
-  "author": "Dash Industry Forum",
   "license": "BSD-3-Clause",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dash Industry Forum"
+    }
+  ]
 }

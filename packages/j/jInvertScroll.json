@@ -6,10 +6,6 @@
     "color",
     "animation"
   ],
-  "author": {
-    "name": "pixxelfactory",
-    "url": "http://www.pixxelfactory.net"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:pixxelfactory/jInvertScroll.git"
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "pixxelfactory",
+      "url": "http://www.pixxelfactory.net"
+    }
+  ]
 }

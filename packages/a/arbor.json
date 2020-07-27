@@ -7,10 +7,14 @@
     "visualization"
   ],
   "homepage": "http://arborjs.org",
-  "author": "samizdatco",
   "repository": {
     "type": "git",
     "url": "https://github.com/samizdatco/arbor"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "samizdatco"
+    }
+  ]
 }

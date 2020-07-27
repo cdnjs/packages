@@ -6,11 +6,6 @@
     "type": "git",
     "url": "git://github.com/jbdemonte/gmap3.git"
   },
-  "author": {
-    "name": "Jean-Baptiste DEMONTE",
-    "email": "jbdemonte@gmail.com",
-    "url": "http://jb.demonte.fr"
-  },
   "license": "GPL-3.0",
   "autoupdate": {
     "source": "git",
@@ -29,5 +24,12 @@
     "google",
     "maps",
     "jquery"
+  ],
+  "authors": [
+    {
+      "name": "Jean-Baptiste DEMONTE",
+      "email": "jbdemonte@gmail.com",
+      "url": "http://jb.demonte.fr"
+    }
   ]
 }

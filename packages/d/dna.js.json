@@ -31,8 +31,10 @@
     "url": "git+https://github.com/dnajs/dna.js.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Center Key",
-    "url": "http://centerkey.com"
-  }
+  "authors": [
+    {
+      "name": "Center Key",
+      "url": "http://centerkey.com"
+    }
+  ]
 }

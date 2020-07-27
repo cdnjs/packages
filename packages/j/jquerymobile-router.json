@@ -2,7 +2,6 @@
   "name": "jquerymobile-router",
   "filename": "js/jquery.mobile.router.min.js",
   "description": "jQuery Mobile router is a plugin for jQuery Mobile to enhance the framework with a client side router/controller that works with jQuery Mobile events",
-  "author": "azicchetti",
   "repository": {
     "type": "git",
     "url": "https://github.com/azicchetti/jquerymobile-router.git"
@@ -24,5 +23,10 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "azicchetti"
+    }
+  ],
   "license": "(MIT OR GPL-2.0)"
 }

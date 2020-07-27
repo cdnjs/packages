@@ -2,7 +2,6 @@
   "name": "t3js",
   "description": "T3 Javascript Framework",
   "filename": "t3.min.js",
-  "author": "Box (https://www.box.com/)",
   "homepage": "http://t3js.org",
   "license": "Apache-2.0",
   "repository": {
@@ -36,5 +35,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Box",
+      "url": "https://www.box.com/"
+    }
+  ]
 }

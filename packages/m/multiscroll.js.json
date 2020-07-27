@@ -12,7 +12,6 @@
     "multi",
     "split"
   ],
-  "author": "Alvaro Trigo https://github.com/alvarotrigo",
   "license": "MIT",
   "homepage": "http://www.alvarotrigo.com/multiScroll/",
   "autoupdate": {
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alvaro Trigo https://github.com/alvarotrigo"
+    }
+  ]
 }

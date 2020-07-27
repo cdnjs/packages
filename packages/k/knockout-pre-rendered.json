@@ -12,7 +12,6 @@
     "initialize",
     "javascript"
   ],
-  "author": "Erik Schierboom",
   "license": "Apache",
   "autoupdate": {
     "source": "git",
@@ -27,5 +26,10 @@
       }
     ]
   },
-  "filename": "knockout-pre-rendered.min.js"
+  "filename": "knockout-pre-rendered.min.js",
+  "authors": [
+    {
+      "name": "Erik Schierboom"
+    }
+  ]
 }

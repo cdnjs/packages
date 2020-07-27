@@ -10,7 +10,6 @@
     "smooth",
     "dom"
   ],
-  "author": "Bevry Pty Ltd <us@bevry.me> (http://bevry.me)",
   "repository": {
     "type": "git",
     "url": "https://github.com/balupton/jquery-scrollto.git"
@@ -27,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Bevry Pty Ltd",
+      "email": "us@bevry.me",
+      "url": "http://bevry.me"
+    }
+  ]
 }

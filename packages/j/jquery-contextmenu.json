@@ -26,8 +26,10 @@
     ]
   },
   "license": "MIT",
-  "author": {
-    "name": "Björn Brala",
-    "url": "http://www.swis.nl"
-  }
+  "authors": [
+    {
+      "name": "Björn Brala",
+      "url": "http://www.swis.nl"
+    }
+  ]
 }

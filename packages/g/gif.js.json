@@ -2,7 +2,6 @@
   "name": "gif.js",
   "description": "JavaScript GIF encoding library",
   "filename": "gif.js",
-  "author": "Johan Nordberg <code@johan-nordberg.com>",
   "homepage": "https://jnordberg.github.io/gif.js/",
   "repository": {
     "type": "git",
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Johan Nordberg",
+      "email": "code@johan-nordberg.com"
+    }
+  ]
 }

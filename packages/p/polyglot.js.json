@@ -15,7 +15,6 @@
     "translate",
     "polyglot"
   ],
-  "author": "Spike Brehm <spike@airbnb.com>",
   "license": "BSD-2-Clause",
   "autoupdate": {
     "source": "git",
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Spike Brehm",
+      "email": "spike@airbnb.com"
+    }
+  ]
 }

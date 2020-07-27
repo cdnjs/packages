@@ -26,5 +26,10 @@
     "url": "https://github.com/lokesh/lightbox2.git"
   },
   "license": "MIT",
-  "author": "Lokesh Dhakar <lokesh.dhakar@gmail.com>"
+  "authors": [
+    {
+      "name": "Lokesh Dhakar",
+      "email": "lokesh.dhakar@gmail.com"
+    }
+  ]
 }

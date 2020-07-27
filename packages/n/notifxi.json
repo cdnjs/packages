@@ -22,6 +22,10 @@
     "type": "git",
     "url": "git://github.com/aponxi/bower-notifxi.git"
   },
-  "author": "Logan Howlett",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Logan Howlett"
+    }
+  ]
 }

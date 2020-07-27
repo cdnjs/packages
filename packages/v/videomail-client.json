@@ -29,5 +29,10 @@
     "type": "git",
     "url": "https://github.com/binarykitchen/videomail-client"
   },
-  "author": "Michael Heuberger <michael.heuberger@binarykitchen.com>"
+  "authors": [
+    {
+      "name": "Michael Heuberger",
+      "email": "michael.heuberger@binarykitchen.com"
+    }
+  ]
 }

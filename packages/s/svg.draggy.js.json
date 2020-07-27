@@ -10,7 +10,6 @@
     "draggy",
     "svg"
   ],
-  "author": "jillix <contact@jillix.com>",
   "license": "MIT",
   "filename": "svg.draggy.min.js",
   "autoupdate": {
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "jillix",
+      "email": "contact@jillix.com"
+    }
+  ]
 }

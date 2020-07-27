@@ -9,7 +9,6 @@
     "type": "git",
     "url": "git://github.com/Krinkle/jquery-json.git"
   },
-  "author": "Brantley Harris <deadwisdom@gmail.com> (https://github.com/DeadWisdom)",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -22,5 +21,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Brantley Harris",
+      "email": "deadwisdom@gmail.com",
+      "url": "https://github.com/DeadWisdom"
+    }
+  ]
 }

@@ -14,5 +14,11 @@
     "type": "git",
     "url": "https://github.com/zurb/foundation-sites.git"
   },
-  "author": "ZURB <foundation@zurb.com> (http://foundation.zurb.com)"
+  "authors": [
+    {
+      "name": "ZURB",
+      "email": "foundation@zurb.com",
+      "url": "http://foundation.zurb.com"
+    }
+  ]
 }

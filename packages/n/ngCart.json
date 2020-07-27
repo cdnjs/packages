@@ -15,11 +15,6 @@
     "shopping basket"
   ],
   "homepage": "http://ngcart.snapjay.com",
-  "author": {
-    "name": "Dan Shreim",
-    "email": "dan@snapjay.com",
-    "url": "http://www.snapjay.com/"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "ngCart",
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dan Shreim",
+      "email": "dan@snapjay.com",
+      "url": "http://www.snapjay.com/"
+    }
+  ]
 }

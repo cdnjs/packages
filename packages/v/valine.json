@@ -8,10 +8,6 @@
     "fast-and-safe",
     "easy-to-use"
   ],
-  "author": {
-    "name": "xCss",
-    "email": "xioveliu@gmail.com"
-  },
   "license": "GPL-2.0",
   "repository": {
     "type": "git",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "xCss",
+      "email": "xioveliu@gmail.com"
+    }
+  ]
 }

@@ -17,7 +17,6 @@
     "url": "git+ssh://git@github.com/reactstrap/reactstrap.git"
   },
   "license": "MIT",
-  "author": "Eddy Hernandez <edward.d.hernandez@gmail.com> (https://github.com/eddywashere)",
   "autoupdate": {
     "source": "npm",
     "target": "reactstrap",
@@ -29,5 +28,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Eddy Hernandez",
+      "email": "edward.d.hernandez@gmail.com",
+      "url": "https://github.com/eddywashere"
+    }
+  ]
 }

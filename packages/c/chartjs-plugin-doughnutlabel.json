@@ -9,7 +9,6 @@
     "doughnut",
     "doughnut-chart"
   ],
-  "author": "Ciprian Ciurea",
   "license": "ISC",
   "homepage": "https://github.com/ciprianciurea/chartjs-plugin-doughnutlabel#readme",
   "repository": {
@@ -28,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ciprian Ciurea"
+    }
+  ]
 }

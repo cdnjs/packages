@@ -2,7 +2,6 @@
   "name": "egjs-agent",
   "filename": "agent.min.js",
   "description": "Extracts browser and operating system information from the user agent string.",
-  "author": "NAVER Corp.",
   "license": "MIT",
   "keywords": [
     "egjs",
@@ -28,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "NAVER Corp."
+    }
+  ]
 }

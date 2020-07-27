@@ -12,10 +12,6 @@
     "url": "https://github.com/bespokejs/bespoke.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Mark Dalgleish",
-    "url": "http://markdalgleish.com"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "bespoke",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mark Dalgleish",
+      "url": "http://markdalgleish.com"
+    }
+  ]
 }

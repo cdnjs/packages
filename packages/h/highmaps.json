@@ -26,5 +26,11 @@
       }
     ]
   },
-  "author": "Highsoft AS <support@highcharts.com> (http://www.highcharts.com/about)"
+  "authors": [
+    {
+      "name": "Highsoft AS",
+      "email": "support@highcharts.com",
+      "url": "http://www.highcharts.com/about"
+    }
+  ]
 }

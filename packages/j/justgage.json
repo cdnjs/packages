@@ -21,10 +21,6 @@
     "javascript",
     "plugin"
   ],
-  "author": {
-    "name": "Bojan Djuricic",
-    "email": "pindjur@gmail.com"
-  },
   "license": "MIT",
   "homepage": "http://justgage.com/",
   "autoupdate": {
@@ -38,5 +34,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Bojan Djuricic",
+      "email": "pindjur@gmail.com"
+    }
+  ]
 }

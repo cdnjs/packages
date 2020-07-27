@@ -6,7 +6,6 @@
     "type": "git",
     "url": "https://github.com/marcorinck/angular-growl.git"
   },
-  "author": "Marco Rinck",
   "license": "MIT",
   "keywords": [
     "angular",
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Marco Rinck"
+    }
+  ]
 }

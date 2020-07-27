@@ -1,7 +1,6 @@
 {
   "name": "imgareaselect",
   "filename": "js/jquery.imgareaselect.min.js",
-  "title": "ImgAreaSelect - image selection/cropping plugin",
   "description": "ImgAreaSelect is a plugin for selecting a rectangular area of an image. It allows web developers to easily implement image cropping functionality, as well as other user interface features (such as photo notes).",
   "keywords": [
     "image",
@@ -10,11 +9,6 @@
     "crop",
     "cropper"
   ],
-  "author": {
-    "name": "Michał Wojciechowski",
-    "email": "odyniec@odyniec.net",
-    "url": "http://odyniec.net/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/odyniec/imgareaselect"
@@ -31,5 +25,12 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Michał Wojciechowski",
+      "email": "odyniec@odyniec.net",
+      "url": "http://odyniec.net/"
+    }
+  ],
   "license": "(GPL-2.0 OR MIT)"
 }

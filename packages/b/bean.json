@@ -4,13 +4,16 @@
   "description": "A small, fast, framework-agnostic event manager",
   "authors": [
     {
-      "name": "Jacob Thornton <@fat>"
+      "name": "Jacob Thornton",
+      "email": "@fat"
     },
     {
-      "name": "Rod Vagg <@rvagg>"
+      "name": "Rod Vagg",
+      "email": "@rvagg"
     },
     {
-      "name": "Dustin Diaz <@ded>"
+      "name": "Dustin Diaz",
+      "email": "@ded"
     }
   ],
   "repository": {

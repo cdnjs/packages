@@ -12,10 +12,6 @@
     "DOMContentLoaded"
   ],
   "homepage": "http://joeyvandijk.github.io/rimg",
-  "author": {
-    "name": "Joey van Dijk",
-    "email": "contact@joeyvandijk.nl"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/joeyvandijk/rimg.git"
@@ -33,5 +29,11 @@
       }
     ]
   },
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "authors": [
+    {
+      "name": "Joey van Dijk",
+      "email": "contact@joeyvandijk.nl"
+    }
+  ]
 }

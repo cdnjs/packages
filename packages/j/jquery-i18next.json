@@ -17,11 +17,6 @@
     "type": "git",
     "url": "git+https://github.com/i18next/jquery-i18next.git"
   },
-  "author": {
-    "name": "Jan Mühlemann",
-    "email": "jan.muehlemann@gmail.com",
-    "url": "https://github.com/jamuhl"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -34,5 +29,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jan Mühlemann",
+      "email": "jan.muehlemann@gmail.com",
+      "url": "https://github.com/jamuhl"
+    }
+  ]
 }

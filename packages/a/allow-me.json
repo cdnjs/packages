@@ -9,7 +9,6 @@
   "keywords": [
     "notifcation"
   ],
-  "author": "Steve Ng",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -23,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Steve Ng"
+    }
+  ]
 }

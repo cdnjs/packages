@@ -14,7 +14,6 @@
     "mp4",
     "webm"
   ],
-  "author": "Dave Hall",
   "repository": {
     "type": "git",
     "url": "https://github.com/etianen/html5media.git"
@@ -32,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dave Hall"
+    }
+  ]
 }

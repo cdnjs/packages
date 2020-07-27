@@ -9,11 +9,6 @@
     "jQuery"
   ],
   "homepage": "https://marcj.github.io/jquery-selectBox/",
-  "author": {
-    "name": "Marc J. Schmidt",
-    "email": "marc@kryn.org",
-    "url": "http://marcjschmidt.de"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/marcj/jquery-selectBox.git"
@@ -30,5 +25,12 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marc J. Schmidt",
+      "email": "marc@kryn.org",
+      "url": "http://marcjschmidt.de"
+    }
+  ]
 }

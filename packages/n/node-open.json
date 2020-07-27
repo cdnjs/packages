@@ -27,11 +27,6 @@
     "website",
     "file"
   ],
-  "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/sindresorhus/open#readme",
   "repository": {
@@ -50,5 +45,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "sindresorhus.com"
+    }
+  ]
 }

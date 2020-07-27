@@ -2,7 +2,6 @@
   "name": "mustache.js",
   "filename": "mustache.min.js",
   "description": "Logic-less {{mustache}} templates with JavaScript",
-  "author": "mustache.js Authors <https://github.com/janl/mustache.js>",
   "keywords": [
     "templates",
     "templating",
@@ -27,5 +26,11 @@
     "type": "git",
     "url": "https://github.com/janl/mustache.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mustache.js Authors",
+      "email": "https://github.com/janl/mustache.js"
+    }
+  ]
 }

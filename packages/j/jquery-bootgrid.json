@@ -24,11 +24,6 @@
     "type": "git",
     "url": "https://github.com/rstaib/jquery-bootgrid.git"
   },
-  "author": {
-    "name": "Rafael Staib",
-    "email": "me@rafaelstaib.com",
-    "url": "http://www.rafaelstaib.com"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "jquery-bootgrid",
@@ -41,5 +36,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rafael Staib",
+      "email": "me@rafaelstaib.com",
+      "url": "http://www.rafaelstaib.com"
+    }
+  ]
 }

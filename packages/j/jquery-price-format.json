@@ -1,7 +1,6 @@
 {
   "name": "jquery-price-format",
   "filename": "jquery.priceformat.min.js",
-  "title": "jQuery Price Format",
   "description": "jQuery Price Format plugin is useful to format input text fields or any HTML element as prices.",
   "keywords": [
     "price",
@@ -11,10 +10,6 @@
     "format",
     "mask"
   ],
-  "author": {
-    "name": "Eduardo Cuducos",
-    "url": "http://about.me/cuducos"
-  },
   "homepage": "http://jquerypriceformat.com",
   "license": "MIT",
   "repository": {
@@ -32,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Eduardo Cuducos",
+      "url": "http://about.me/cuducos"
+    }
+  ]
 }

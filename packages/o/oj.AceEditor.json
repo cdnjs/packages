@@ -7,11 +7,16 @@
     "ace",
     "editor"
   ],
-  "author": "Evan Moran <evan@evanmoran.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/ojjs/oj.AceEditor.git"
   },
   "filename": "oj.AceEditor.min.js",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Evan Moran",
+      "email": "evan@evanmoran.com"
+    }
+  ]
 }

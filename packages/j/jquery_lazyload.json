@@ -9,7 +9,6 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": "Mika Tuupola <tuupola@appelsiini.net>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/tuupola/jquery_lazyload.git",
@@ -23,5 +22,11 @@
     ]
   },
   "license": "MIT",
-  "description": "Lazyload images with jQuery"
+  "description": "Lazyload images with jQuery",
+  "authors": [
+    {
+      "name": "Mika Tuupola",
+      "email": "tuupola@appelsiini.net"
+    }
+  ]
 }

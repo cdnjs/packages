@@ -1,5 +1,4 @@
 {
-  "author": "Fu Zhen",
   "description": "A light JavaScript library to create integrated 2D/3D maps.",
   "filename": "maptalks.min.js",
   "homepage": "https://maptalks.org",
@@ -30,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Fu Zhen"
+    }
+  ]
 }

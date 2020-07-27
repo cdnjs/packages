@@ -2,7 +2,6 @@
   "name": "tesseract.js",
   "filename": "tesseract.min.js",
   "description": "Pure Javascript Multilingual OCR",
-  "author": "antimatter15",
   "license": "Apache-2.0",
   "keywords": [
     "javascript",
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "antimatter15"
+    }
+  ]
 }

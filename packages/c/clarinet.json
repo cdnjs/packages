@@ -2,7 +2,6 @@
   "name": "clarinet",
   "filename": "clarinet.min.js",
   "description": "SAX based evented streaming JSON parser in JavaScript (browser and node)",
-  "author": "Nuno Job <nunojobpinto@gmail.com> (http://nunojob.com/)",
   "repository": {
     "type": "git",
     "url": "https://github.com/dscape/clarinet.git"
@@ -32,5 +31,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nuno Job",
+      "email": "nunojobpinto@gmail.com",
+      "url": "http://nunojob.com/"
+    }
+  ]
 }

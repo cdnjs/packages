@@ -14,7 +14,6 @@
     "url": "https://github.com/moment/moment-timezone.git"
   },
   "license": "MIT",
-  "author": "Tim Wood <washwithcare@gmail.com> (http://timwoodcreates.com/)",
   "autoupdate": {
     "source": "npm",
     "target": "moment-timezone",
@@ -32,5 +31,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tim Wood",
+      "email": "washwithcare@gmail.com",
+      "url": "http://timwoodcreates.com/"
+    }
+  ]
 }

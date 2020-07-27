@@ -2,11 +2,6 @@
   "filename": "svg-injector.min.js",
   "name": "svg-injector",
   "description": "Fast, caching, dynamic inline SVG DOM injection library",
-  "author": {
-    "name": "Iconic",
-    "email": "yourfriends@useiconic.com",
-    "url": "https://useiconic.com/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/iconic/SVGInjector"
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Iconic",
+      "email": "yourfriends@useiconic.com",
+      "url": "https://useiconic.com/"
+    }
+  ]
 }

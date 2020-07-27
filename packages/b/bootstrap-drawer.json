@@ -20,7 +20,6 @@
     "javascript",
     "jquery"
   ],
-  "author": "Caroline Amaba <her@carolineamaba.com>",
   "license": "ISC",
   "homepage": "https://clineamb.github.io/bootstrap-drawer/",
   "autoupdate": {
@@ -34,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Caroline Amaba",
+      "email": "her@carolineamaba.com"
+    }
+  ]
 }

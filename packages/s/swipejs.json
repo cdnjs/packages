@@ -2,7 +2,6 @@
   "name": "swipejs",
   "filename": "swipe.min.js",
   "description": "Swipe is the most accurate touch slider",
-  "author": "Brad Birdsall",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lyfeyaj/swipe.git"
@@ -32,5 +31,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Brad Birdsall"
+    }
+  ]
 }

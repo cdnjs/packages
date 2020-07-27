@@ -1,7 +1,6 @@
 {
   "name": "jquery.ui-contextmenu",
   "filename": "jquery.ui-contextmenu.min.js",
-  "title": "jQuery UI context menu plugin",
   "description": "Turn a jQuery UI Menu widget into a contextmenu.",
   "keywords": [
     "context-menu",
@@ -15,11 +14,6 @@
     "right-click",
     "right-click-menu"
   ],
-  "author": {
-    "name": "Martin Wendt",
-    "email": "jquery@wwwendt.de",
-    "url": "http://careers.stackoverflow.com/martin-wendt"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mar10/jquery-ui-contextmenu"
@@ -37,5 +31,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Martin Wendt",
+      "email": "jquery@wwwendt.de",
+      "url": "http://careers.stackoverflow.com/martin-wendt"
+    }
+  ]
 }

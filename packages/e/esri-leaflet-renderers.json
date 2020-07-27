@@ -2,7 +2,6 @@
   "name": "esri-leaflet-renderers",
   "filename": "esri-leaflet-renderers.js",
   "description": "esri-leaflet plugin for rendering",
-  "author": "Rachel Nehmer <rnehmer@esri.com>",
   "homepage": "https://esri.github.io/esri-leaflet",
   "keywords": [
     "arcgis",
@@ -30,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rachel Nehmer",
+      "email": "rnehmer@esri.com"
+    }
+  ]
 }

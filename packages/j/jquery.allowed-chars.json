@@ -1,7 +1,6 @@
 {
   "name": "jquery.allowed-chars",
   "filename": "jquery.allowed-chars.min.js",
-  "title": "jQuery Allowed Chars - simple plugin",
   "description": "jQuery plugin to restrict users for typing only allowed chars for specified element",
   "repository": {
     "type": "git",
@@ -17,7 +16,6 @@
     "regular expression",
     "regExp"
   ],
-  "author": "Pavlo Voznenko",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -30,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Pavlo Voznenko"
+    }
+  ]
 }

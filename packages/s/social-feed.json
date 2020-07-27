@@ -30,9 +30,11 @@
     ]
   },
   "description": "A jQuery plugin that shows a user feed from the most popular social networks ",
-  "author": {
-    "name": "Pavel Kucherbaev",
-    "email": "pavel@kucherbaev.com",
-    "homepage": "http://kucherbaev.com"
-  }
+  "authors": [
+    {
+      "name": "Pavel Kucherbaev",
+      "email": "pavel@kucherbaev.com",
+      "url": "http://kucherbaev.com"
+    }
+  ]
 }

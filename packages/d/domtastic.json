@@ -14,11 +14,6 @@
     "selector",
     "es6"
   ],
-  "author": {
-    "name": "Lars Kappert",
-    "email": "lars@webpro.nl",
-    "url": "http://webpro.nl"
-  },
   "homepage": "https://domtastic.js.org",
   "repository": {
     "type": "git",
@@ -36,5 +31,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Lars Kappert",
+      "email": "lars@webpro.nl",
+      "url": "http://webpro.nl"
+    }
+  ]
 }

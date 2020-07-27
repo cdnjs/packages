@@ -12,8 +12,12 @@
     "airbrake",
     "client"
   ],
-  "author": "Airbrake",
   "license": "MIT",
   "homepage": "https://airbrake.io",
-  "filename": "client.min.js"
+  "filename": "client.min.js",
+  "authors": [
+    {
+      "name": "Airbrake"
+    }
+  ]
 }

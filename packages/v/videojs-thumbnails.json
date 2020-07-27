@@ -4,7 +4,8 @@
   "description": "progress bar thumbnails plugin for video.js",
   "authors": [
     {
-      "name": "Gary Katsevman <me@gkatsev.com>"
+      "name": "Gary Katsevman",
+      "email": "me@gkatsev.com"
     },
     {
       "name": "David LaPalomento"
