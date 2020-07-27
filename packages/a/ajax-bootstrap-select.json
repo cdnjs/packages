@@ -1,7 +1,6 @@
 {
   "name": "ajax-bootstrap-select",
   "filename": "js/ajax-bootstrap-select.min.js",
-  "title": "Ajax Bootstrap Select",
   "description": "Extends existing [Bootstrap Select] implementations by adding the ability to search via AJAX requests as you type. Originally for CROSCON.",
   "author": {
     "name": "Adam Heim",

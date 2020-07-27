@@ -1,6 +1,5 @@
 {
   "name": "scrollify",
-  "title": "jQuery Scrollify",
   "filename": "jquery.scrollify.min.js",
   "description": "A jQuery plugin that assists scrolling and smoothly snaps to sections.",
   "keywords": [

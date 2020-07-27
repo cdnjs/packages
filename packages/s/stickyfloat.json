@@ -1,6 +1,5 @@
 {
   "name": "stickyfloat",
-  "title": "stickyfloat",
   "filename": "stickyfloat.min.js",
   "description": "Makes it possible to have a fixed position element that is relative to it's parent. In other words, floats an element along while scrolling...but does this good.",
   "keywords": [

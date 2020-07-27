@@ -24,7 +24,6 @@
     "type": "git",
     "url": "https://github.com/daybrush/scenejs.git"
   },
-  "title": "Scene.js",
   "autoupdate": {
     "source": "npm",
     "target": "scenejs",

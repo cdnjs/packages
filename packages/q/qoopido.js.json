@@ -1,6 +1,5 @@
 {
   "name": "qoopido.js",
-  "title": "Qoopido.js library",
   "description": "Modular library of dry, extendable and AMD compatible JavaScript modules",
   "author": {
     "name": "Dirk Lueth",

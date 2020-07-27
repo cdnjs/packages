@@ -1,7 +1,6 @@
 {
   "name": "jquery.downCount",
   "filename": "jquery.downCount.min.js",
-  "title": "downCount - Simple Countdown clock with offset",
   "description": "Simple countdown plugin that accounts for timezone",
   "keywords": [
     "countdown",

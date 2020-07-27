@@ -1,7 +1,6 @@
 {
   "name": "inputmask-multi",
   "filename": "js/jquery.inputmask-multi.min.js",
-  "title": "Inputmask Multi",
   "license": "MIT",
   "description": "Inputmask Multi is a plugin which allows to select a mask of input basing on the beginning of entered data (such as an international phone number)",
   "repository": {

@@ -1,6 +1,5 @@
 {
   "name": "jvectormap",
-  "title": "jVectorMap",
   "filename": "jquery-jvectormap.min.js",
   "description": "jQuery plugin for embedding vector maps with reach API and methods for data visualization to the web-pages.",
   "keywords": [

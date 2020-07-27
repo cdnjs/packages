@@ -1,6 +1,5 @@
 {
   "name": "jquery-idletimer",
-  "title": "Idle Timer",
   "description": "provides you a way to monitor user activity with a page.",
   "filename": "idle-timer.min.js",
   "author": {

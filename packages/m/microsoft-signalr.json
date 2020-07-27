@@ -16,7 +16,6 @@
     "type": "git",
     "url": "git+https://github.com/aspnet/AspNetCore.git"
   },
-  "title": "ASP.NET Core SignalR JavaScript Client",
   "autoupdate": {
     "source": "npm",
     "target": "@microsoft/signalr",

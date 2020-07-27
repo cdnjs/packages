@@ -1,5 +1,4 @@
 {
-  "title": "scrollProgress",
   "name": "scrollprogress",
   "filename": "scrollProgress.min.js",
   "description": "Small library that creates a progress bar that indicates how much you've scrolled on a website",

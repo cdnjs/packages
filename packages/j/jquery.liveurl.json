@@ -1,6 +1,5 @@
 {
   "name": "jquery.liveurl",
-  "title": "jQuery LiveURL",
   "description": "jQuery plugin to get an url preview like the facebook attachment",
   "filename": "jquery.liveurl.min.js",
   "keywords": [

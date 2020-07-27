@@ -1,7 +1,6 @@
 {
   "name": "rxjs-jquery",
   "filename": "rx.jquery.min.js",
-  "title": "Reactive Extensions for JavaScript bindings for jQuery",
   "description": "Library for composing asynchronous and event-based operations in JavaScript extending the jQuery library",
   "author": {
     "name": "MS Open Tech",

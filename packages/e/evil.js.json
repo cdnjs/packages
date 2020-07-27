@@ -1,6 +1,5 @@
 {
   "name": "evil.js",
-  "title": "evil.js",
   "filename": "evil.min.js",
   "description": "A JavaScript library for thwarting hotlinkers.",
   "homepage": "http://kitcambridge.be/evil.js/",

@@ -1,7 +1,6 @@
 {
   "name": "droparea",
   "filename": "droparea.min.js",
-  "title": "jQuery droparea",
   "description": "jQuery plugin for HTML5 drag-and-drop (images and files).",
   "keywords": [
     "droparea",

@@ -1,6 +1,5 @@
 {
   "name": "photobox",
-  "title": "jQuery Photobox",
   "filename": "photobox/jquery.photobox.min.js",
   "description": "A lightweight CSS3 image gallery plugin for jQuery that is pretty to look and and easy to use.",
   "keywords": [

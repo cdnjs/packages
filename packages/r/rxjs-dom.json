@@ -1,7 +1,6 @@
 {
   "name": "rxjs-dom",
   "filename": "rx.dom.min.js",
-  "title": "Reactive Extensions for JavaScript bindings for the HTML DOM",
   "description": "Library for using DOM elements as well as Ajax requests",
   "author": {
     "name": "MS Open Tech",

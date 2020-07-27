@@ -1,7 +1,6 @@
 {
   "name": "zoomove",
   "description": "Enlarges the image with the mouse hover and move",
-  "title": "ZooMove",
   "filename": "zoomove.min.js",
   "homepage": "http://thompsonemerson.github.io/zoomove",
   "repository": {

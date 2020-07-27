@@ -1,7 +1,6 @@
 {
   "name": "jstree",
   "filename": "jstree.min.js",
-  "title": "jsTree",
   "description": "jQuery tree plugin",
   "homepage": "http://jstree.com",
   "author": {

@@ -1,6 +1,5 @@
 {
   "name": "jquery.matchHeight",
-  "title": "jQuery matchHeight",
   "filename": "jquery.matchHeight-min.js",
   "description": "a responsive equal heights plugin for jQuery",
   "keywords": [

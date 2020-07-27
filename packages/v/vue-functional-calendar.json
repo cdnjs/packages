@@ -1,6 +1,5 @@
 {
   "name": "vue-functional-calendar",
-  "title": "Vue.js Functional Calendar",
   "description": "Lightweight, high-performance calendar component based on Vue.js",
   "keywords": [
     "vue",

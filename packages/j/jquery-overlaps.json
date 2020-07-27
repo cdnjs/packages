@@ -1,6 +1,5 @@
 {
   "name": "jquery-overlaps",
-  "title": "jQuery Overlaps",
   "filename": "jquery.overlaps.min.js",
   "description": "A jQuery plugin that detects if one or more elements are overlapping.",
   "keywords": [

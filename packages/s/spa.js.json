@@ -1,6 +1,5 @@
 {
   "name": "spa.js",
-  "title": "SPA",
   "description": "A webapp framework for routing control and view transitions",
   "repository": {
     "type": "git",

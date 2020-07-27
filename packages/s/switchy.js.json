@@ -1,7 +1,6 @@
 {
   "name": "switchy.js",
   "filename": "switchy.min.js",
-  "title": "Switchy",
   "description": "This is a tiny jQuery plugin which can be used as both a switch or a slider.",
   "keywords": [
     "switch",

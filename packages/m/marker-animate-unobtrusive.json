@@ -1,7 +1,6 @@
 {
   "name": "marker-animate-unobtrusive",
   "filename": "SlidingMarker.min.js",
-  "title": "SlidingMarker",
   "description": "Unobtrusive Google Maps animated marker",
   "repository": {
     "type": "git",

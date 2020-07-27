@@ -1,6 +1,5 @@
 {
   "name": "intercom.js",
-  "title": "Intercom",
   "filename": "intercom.min.js",
   "description": "A client-side cross-window message broadcast library built on top of the HTML5 localStorage API.",
   "author": {
