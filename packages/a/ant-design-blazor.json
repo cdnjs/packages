@@ -8,9 +8,11 @@
     "blazor-components",
     "webassembly"
   ],
-  "author": {
-    "name": "James Yeung"
-  },
+  "authors": [
+    {
+      "name": "James Yeung"
+    }
+  ],
   "license": "MIT",
   "homepage": "http://ant-design-blazor.github.io/",
   "repository": {
