@@ -1,7 +1,11 @@
 {
   "name": "parchment",
   "description": "A document model for rich text editors",
-  "keywords": [],
+  "keywords": [
+    "document",
+    "tree",
+    "structure"
+  ],
   "author": {
     "name": "Jason Chen",
     "email": "jhchen7@gmail.com"
