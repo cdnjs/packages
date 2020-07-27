@@ -8,7 +8,7 @@
     "processing"
   ],
   "repository": {
-    "type": "plain file",
+    "type": "git",
     "url": "https://raw.github.com/hapticdata/toxiclibsjs/master/build/toxiclibs.min.js"
   },
   "license": "LGPL-2.1"
