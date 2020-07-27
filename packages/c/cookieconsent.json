@@ -1,7 +1,11 @@
 {
   "name": "cookieconsent",
   "description": "Osano cookie consent tool.",
-  "keywords": [],
+  "keywords": [
+    "cookieconsent",
+    "cookie",
+    "law"
+  ],
   "author": {
     "name": "Osano, Inc., a Public Benefit Corporation"
   },
