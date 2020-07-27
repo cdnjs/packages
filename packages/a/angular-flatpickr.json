@@ -1,7 +1,11 @@
 {
   "name": "angular-flatpickr",
   "description": "angular directive for flatpickr",
-  "keywords": [],
+  "keywords": [
+    "date-picker",
+    "angular",
+    "flatpickr"
+  ],
   "author": {
     "name": "opavader"
   },
