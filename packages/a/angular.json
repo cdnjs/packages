@@ -17,8 +17,7 @@
   "homepage": "https://github.com/angular/angular#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angular/angular.git",
-    "directory": "packages/core"
+    "url": "git+https://github.com/angular/angular.git"
   },
   "filename": "core.umd.min.js",
   "autoupdate": {
