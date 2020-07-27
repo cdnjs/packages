@@ -11,6 +11,10 @@
     "type": "git",
     "url": "git://github.com/thorst/jquery-idletimer.git"
   },
-  "keywords": [],
+  "keywords": [
+    "idle",
+    "timer",
+    "inactive"
+  ],
   "license": "MIT"
 }
