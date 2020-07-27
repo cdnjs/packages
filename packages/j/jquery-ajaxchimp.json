@@ -1,6 +1,5 @@
 {
   "name": "jquery-ajaxchimp",
-  "title": "jQuery ajaxChimp for MailChimp",
   "description": "Ajaxify your mailchimp form.",
   "filename": "jquery.ajaxchimp.min.js",
   "repository": {

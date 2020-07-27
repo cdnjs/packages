@@ -17,7 +17,6 @@
     "type": "git",
     "url": "https://github.com/klaytn/caver-js.git"
   },
-  "title": "JavaScript API Library for Klaytn",
   "autoupdate": {
     "source": "npm",
     "target": "caver-js",

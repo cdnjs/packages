@@ -1,7 +1,6 @@
 {
   "name": "blueimp-md5",
   "filename": "js/md5.min.js",
-  "title": "JavaScript MD5",
   "description": "JavaScript MD5 implementation.",
   "keywords": [
     "javascript",

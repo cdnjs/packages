@@ -1,7 +1,6 @@
 {
   "name": "webkit.js",
   "filename": "webkit.js",
-  "title": "Pure JavaScript Port of WebKit",
   "keywords": [
     "webkit"
   ],

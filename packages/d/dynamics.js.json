@@ -1,6 +1,5 @@
 {
   "name": "dynamics.js",
-  "title": "Dynamics.js",
   "description": "Javascript library to create physics-related animations",
   "homepage": "http://dynamicsjs.com",
   "repository": {

@@ -13,7 +13,6 @@
       }
     ]
   },
-  "title": "jQuery Watch",
   "description": "jQuery plugin for watching CSS property or element attribute changes.",
   "keywords": [
     "watch",

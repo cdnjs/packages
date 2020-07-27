@@ -1,7 +1,6 @@
 {
   "name": "wdt-loading",
   "filename": "wdtLoading.min.js",
-  "title": "wdtLoading - Application loading screen",
   "description": "Asana like application loading screen with custom phrases support",
   "homepage": "http://ned.im/wdtLoading",
   "keywords": [

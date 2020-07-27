@@ -1,7 +1,6 @@
 {
   "name": "ixjs",
   "filename": "ix.min.js",
-  "title": "Interactive Extensions for JavaScript (RxJS)",
   "description": "Library for composing asynchronous and event-based operations in JavaScript",
   "homepage": "http://rx.codeplex.com",
   "repository": {

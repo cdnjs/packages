@@ -1,7 +1,6 @@
 {
   "name": "jquery.notification",
   "filename": "jquery.notification.min.js",
-  "title": "Webkit Notification API jQuery Wrapper",
   "description": "Webkit Notification plugin. That makes your life easear.",
   "keywords": [
     "notification",

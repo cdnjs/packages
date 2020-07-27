@@ -1,6 +1,5 @@
 {
   "name": "html.js",
-  "title": "HTML",
   "description": "An intuitive, extensible way to work directly with the DOM.",
   "homepage": "http://nbubna.github.io/HTML/",
   "filename": "HTML.min.js",

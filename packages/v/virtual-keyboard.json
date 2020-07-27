@@ -1,6 +1,5 @@
 {
   "name": "virtual-keyboard",
-  "title": "Keyboard",
   "description": "Virtual Keyboard using jQuery UI",
   "license": "MIT",
   "keywords": [

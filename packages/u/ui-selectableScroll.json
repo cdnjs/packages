@@ -1,7 +1,6 @@
 {
   "name": "ui-selectableScroll",
   "filename": "selectableScroll.min.js",
-  "title": "An extended jQuery-ui selectable with scroll capabilities",
   "description": "This is an extension of the original jQuery ui selectable plugin. It has capabilities to scroll vertical and horizontal as well.",
   "keywords": [
     "jquery",

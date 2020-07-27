@@ -1,6 +1,5 @@
 {
   "name": "jquery-domPath",
-  "title": "jquery-domPath",
   "filename": "jquery.domPath.min.js",
   "description": "A simple jQuery plugin for getting DOM Path of HTML elements",
   "keywords": [

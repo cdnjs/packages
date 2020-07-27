@@ -1,6 +1,5 @@
 {
   "name": "rasterizehtml",
-  "title": "rasterizeHTML.js",
   "filename": "rasterizeHTML.min.js",
   "description": "Renders HTML into the browser's canvas.",
   "keywords": [

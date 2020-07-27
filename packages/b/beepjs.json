@@ -1,6 +1,5 @@
 {
   "name": "beepjs",
-  "title": "beepjs",
   "filename": "beep.min.js",
   "description": "Makes browser beep.",
   "keywords": [

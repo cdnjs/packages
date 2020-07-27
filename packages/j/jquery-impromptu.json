@@ -1,7 +1,6 @@
 {
   "filename": "jquery-impromptu.min.js",
   "name": "jquery-impromptu",
-  "title": "jQuery-Impromptu",
   "description": "An extension to help provide a more pleasant way to spontaneously prompt a user for input.",
   "homepage": "http://trentrichardson.com/Impromptu",
   "repository": {

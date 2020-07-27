@@ -1,7 +1,6 @@
 {
   "name": "webshim",
   "filename": "minified/polyfiller.js",
-  "title": "Webshims - polyfills jQuery with many HTML5 features",
   "keywords": [
     "webshims",
     "polyfill",

@@ -1,7 +1,6 @@
 {
   "name": "blueimp-JavaScript-Templates",
   "filename": "js/tmpl.min.js",
-  "title": "JavaScript Templates(blueimp-tmpl)",
   "description": "1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies. Compatible with server-side environments like Node.js, module loaders like RequireJS, Browserify or webpack and all web browsers.",
   "keywords": [
     "javascript",

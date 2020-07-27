@@ -2,7 +2,6 @@
   "name": "crafty",
   "filename": "crafty-min.js",
   "homepage": "http://craftyjs.com/",
-  "title": "Crafty game framework",
   "license": "(MIT OR GPL)",
   "description": "Crafty is a modern component and event based framework for javascript games that targets DOM and canvas.",
   "keywords": [

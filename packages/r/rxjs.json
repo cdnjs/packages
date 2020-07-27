@@ -1,7 +1,6 @@
 {
   "name": "rxjs",
   "filename": "rxjs.umd.min.js",
-  "title": "Reactive Extensions for JavaScript (RxJS)",
   "description": "Library for composing asynchronous and event-based operations in JavaScript",
   "repository": {
     "type": "git",

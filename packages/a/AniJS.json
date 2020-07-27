@@ -1,6 +1,5 @@
 {
   "name": "AniJS",
-  "title": "AniJS",
   "filename": "anijs-min.js",
   "description": "Declarative handling library for CSS animations.",
   "homepage": "http://anijs.github.io/",

@@ -1,7 +1,6 @@
 {
   "name": "jmpress",
   "filename": "jmpress.min.js",
-  "title": "jQuery.jmpress()",
   "description": "A jQuery plugin to build a website on the infinite canvas.",
   "homepage": "http://jmpressjs.github.com/jmpress.js",
   "repository": {

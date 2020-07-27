@@ -1,7 +1,6 @@
 {
   "name": "spectrum",
   "filename": "spectrum.min.js",
-  "title": "Spectrum Colorpicker",
   "description": "Spectrum: the no hassle jQuery colorpicker",
   "homepage": "http://bgrins.github.com/spectrum",
   "keywords": [

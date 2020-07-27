@@ -1,7 +1,6 @@
 {
   "name": "teleject-hisrc",
   "filename": "hisrc.min.js",
-  "title": "HiSRC",
   "license": "MIT",
   "description": "A simple jQuery plugin for adaptive images in responsive web design",
   "keywords": [

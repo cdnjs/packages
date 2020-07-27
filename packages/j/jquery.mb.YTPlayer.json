@@ -1,6 +1,5 @@
 {
   "name": "jquery.mb.YTPlayer",
-  "title": "jQuery mb.YTPlayer",
   "description": "This plugin let you play any public YouTube video as background of your page. It can also be used as a customized player in page.",
   "filename": "jquery.mb.YTPlayer.min.js",
   "keywords": [

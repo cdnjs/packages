@@ -1,7 +1,6 @@
 {
   "name": "PullToRefresh",
   "filename": "ptr.min.js",
-  "title": "PullToRefresh",
   "description": "a JavaScript implementation of PullToRefresh without jQuery or other Frameworks under MIT-License",
   "repository": {
     "type": "git",

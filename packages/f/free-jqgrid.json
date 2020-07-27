@@ -1,6 +1,5 @@
 {
   "name": "free-jqgrid",
-  "title": "free jqGrid",
   "description": "grid as jQuery plugin - fork of jqGrid before licensing change",
   "filename": "jquery.jqgrid.min.js",
   "repository": {
