@@ -1,7 +1,9 @@
 {
   "name": "hi-sven-git",
   "description": "Say hi to Sven",
-  "keywords": [],
+  "keywords": [
+    "hello"
+  ],
   "author": "Sven Sauleau <sven@sauleau.com>",
   "license": "MIT",
   "repository": {
