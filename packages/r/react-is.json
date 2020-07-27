@@ -10,7 +10,6 @@
   "name": "react-is",
   "namespace": "React",
   "repository": {
-    "directory": "packages/react-is",
     "type": "git",
     "url": "git+https://github.com/facebook/react.git"
   },
