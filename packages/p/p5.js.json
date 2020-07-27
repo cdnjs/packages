@@ -27,6 +27,12 @@
         "files": [
           "**/p5*"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "translations/*/*.json"
+        ]
       }
     ]
   }
