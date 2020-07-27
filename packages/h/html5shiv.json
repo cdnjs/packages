@@ -7,7 +7,6 @@
     "ie",
     "html5"
   ],
-  "namespace": "html5",
   "repository": {
     "type": "git",
     "url": "https://github.com/aFarkas/html5shiv.git"

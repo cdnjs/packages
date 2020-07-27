@@ -13,7 +13,6 @@
     "view"
   ],
   "homepage": "https://facebook.github.io/react/",
-  "namespace": "React",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

@@ -6,7 +6,6 @@
     "jquery",
     "cookie"
   ],
-  "namespace": "$.cookie",
   "repository": {
     "type": "git",
     "url": "https://github.com/carhartl/jquery-cookie"

@@ -12,7 +12,6 @@
     "navigation"
   ],
   "filename": "spf.js",
-  "namespace": "spf",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

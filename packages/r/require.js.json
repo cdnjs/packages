@@ -9,7 +9,6 @@
     "asynchronous",
     "popular"
   ],
-  "namespace": "require",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jrburke/requirejs.git",

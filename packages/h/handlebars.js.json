@@ -7,7 +7,6 @@
     "template",
     "mustache"
   ],
-  "namespace": "Handlebars",
   "repository": {
     "type": "git",
     "url": "https://github.com/wycats/handlebars.js"

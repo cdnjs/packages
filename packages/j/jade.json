@@ -12,7 +12,6 @@
     "type": "git",
     "url": "https://github.com/jadejs/jade"
   },
-  "namespace": "jade",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jadejs/jade.git",

@@ -34,7 +34,6 @@
     "type": "git",
     "url": "https://github.com/julianshapiro/velocity.git"
   },
-  "namespace": "$.fn.velocity",
   "authors": [
     {
       "name": "Julian Shapiro",

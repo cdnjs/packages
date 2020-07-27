@@ -29,7 +29,6 @@
     "avalon",
     "avalon.js"
   ],
-  "namespace": "avalon",
   "license": "MIT",
   "authors": [
     {

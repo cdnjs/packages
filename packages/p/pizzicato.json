@@ -8,7 +8,6 @@
     "type": "git",
     "url": "git://github.com/alemangui/pizzicato.git"
   },
-  "namespace": "Pizzicato",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/alemangui/pizzicato.git",

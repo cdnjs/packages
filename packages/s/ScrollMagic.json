@@ -23,7 +23,6 @@
     "type": "git",
     "url": "git://github.com/janpaepke/ScrollMagic.git"
   },
-  "namespace": "ScrollMagic",
   "autoupdate": {
     "source": "npm",
     "target": "scrollmagic",

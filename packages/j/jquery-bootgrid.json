@@ -1,6 +1,5 @@
 {
   "name": "jquery-bootgrid",
-  "namespace": "jquery.bootgrid",
   "filename": "jquery.bootgrid.min.js",
   "description": "Nice, sleek and intuitive. A grid control especially designed for bootstrap.",
   "homepage": "http://www.jquery-bootgrid.com",

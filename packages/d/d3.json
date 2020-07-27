@@ -15,7 +15,6 @@
     "type": "git",
     "url": "https://github.com/d3/d3.git"
   },
-  "namespace": "d3",
   "license": "BSD-3-Clause",
   "autoupdate": {
     "source": "npm",

@@ -16,7 +16,6 @@
   "homepage": "https://github.com/DaAwesomeP/node-upb/",
   "license": "Apache-2.0",
   "filename": "upb.min.js",
-  "namespace": "upb",
   "repository": {
     "type": "git",
     "url": "https://github.com/DaAwesomeP/node-upb.git"

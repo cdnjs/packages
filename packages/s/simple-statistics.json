@@ -14,7 +14,6 @@
     "linear",
     "bayesian"
   ],
-  "namespace": "ss",
   "filename": "simple_statistics.min.js",
   "license": "ISC",
   "autoupdate": {

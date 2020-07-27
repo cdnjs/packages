@@ -13,7 +13,6 @@
     "type": "git",
     "url": "https://github.com/knockout/knockout.git"
   },
-  "namespace": "ko",
   "autoupdate": {
     "source": "npm",
     "target": "knockout",

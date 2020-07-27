@@ -10,7 +10,6 @@
     "events",
     "popular"
   ],
-  "namespace": "Backbone",
   "repository": {
     "type": "git",
     "url": "https://github.com/jashkenas/backbone.git"

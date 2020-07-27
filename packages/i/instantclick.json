@@ -3,7 +3,6 @@
   "filename": "instantclick.min.js",
   "description": "A Javascript library that preloads pages making use of pjax.",
   "homepage": "http://instantclick.io",
-  "namespace": "InstantClick",
   "keywords": [
     "ajax",
     "preload",
