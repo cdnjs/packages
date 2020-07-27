@@ -1,0 +1,36 @@
+{
+  "name": "ant-design-blazor",
+  "description": "A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.",
+  "keywords": [
+    "ant-design",
+    "blazor",
+    "wasm",
+    "blazor-components",
+    "webassembly"
+  ],
+  "author": {
+    "name": "James Yeung"
+  },
+  "license": "MIT",
+  "homepage": "http://ant-design-blazor.github.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ant-design-blazor/ant-design-blazor.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "ant-design-blazor",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "_framework/{,wasm/}*.@(js|wasm)",
+          "_content/AntDesign/css/*.css?(.map)",
+          "_content/AntDesign/js/*.js?(.map)",
+          "_content/AntDesign/icons/**/*.svg"
+        ]
+      }
+    ]
+  },
+  "filename": "_content/AntDesign/css/ant-design-blazor.css"
+}
