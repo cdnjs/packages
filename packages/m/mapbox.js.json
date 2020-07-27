@@ -1,7 +1,14 @@
 {
   "name": "mapbox.js",
   "description": "Mapbox plugin for Leaflet",
-  "keywords": [],
+  "keywords": [
+    "mapbox",
+    "leaflet",
+    "map",
+    "javascript",
+    "docs",
+    "docs-site"
+  ],
   "author": {
     "name": "Mapbox"
   },
