@@ -9,7 +9,6 @@
     "file",
     "bootstrap"
   ],
-  "author": "John Datserakis <johndatserakis@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/promosis/file-upload-with-preview#readme",
   "repository": {
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "John Datserakis",
+      "email": "johndatserakis@gmail.com"
+    }
+  ]
 }

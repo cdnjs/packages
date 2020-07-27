@@ -11,10 +11,6 @@
     "webcam",
     "realtime"
   ],
-  "author": {
-    "name": "Chris Schmich",
-    "email": "schmch@gmail.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/schmich/instascan",
   "repository": {
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris Schmich",
+      "email": "schmch@gmail.com"
+    }
+  ]
 }

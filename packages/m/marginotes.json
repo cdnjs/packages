@@ -12,11 +12,6 @@
     "notes",
     "margin"
   ],
-  "author": {
-    "name": "Francisco Dans",
-    "email": "fdansv@gmail.com",
-    "url": "http://francisco.dance"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Francisco Dans",
+      "email": "fdansv@gmail.com",
+      "url": "http://francisco.dance"
+    }
+  ]
 }

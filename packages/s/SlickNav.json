@@ -25,7 +25,9 @@
     "url": "https://github.com/ComputerWolf/SlickNav"
   },
   "license": "MIT",
-  "author": {
-    "name": "Josh Cope"
-  }
+  "authors": [
+    {
+      "name": "Josh Cope"
+    }
+  ]
 }

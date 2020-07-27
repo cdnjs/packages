@@ -14,10 +14,12 @@
   },
   "authors": [
     {
-      "name": "Jamie R. Hoover <dont.tase@me.com>"
+      "name": "Jamie R. Hoover",
+      "email": "dont.tase@me.com"
     },
     {
-      "name": "Faisal N. Jawdat <faisal@faisal.com>"
+      "name": "Faisal N. Jawdat",
+      "email": "faisal@faisal.com"
     }
   ],
   "license": "Apache-2.0"

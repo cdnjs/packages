@@ -1,5 +1,4 @@
 {
-  "author": "BuzzFeed",
   "description": "Solid CSS Styling",
   "filename": "solid.latest.css",
   "homepage": "https://github.com/buzzfeed/solid",
@@ -21,5 +20,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "BuzzFeed"
+    }
+  ]
 }

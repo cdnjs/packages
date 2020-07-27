@@ -7,7 +7,6 @@
     "publish",
     "subscribe"
   ],
-  "author": "https://github.com/mqttjs/MQTT.js/graphs/contributors",
   "license": "MIT",
   "homepage": "https://github.com/mqttjs/MQTT.js#readme",
   "repository": {
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "https://github.com/mqttjs/MQTT.js/graphs/contributors"
+    }
+  ]
 }

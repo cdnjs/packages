@@ -13,10 +13,6 @@
     "url": "git://github.com/GriddleGriddle/Griddle.git"
   },
   "description": "Griddle - A fast and flexible grid component for React.",
-  "author": {
-    "name": "ryanlanciaux",
-    "url": "https://github.com/ryanlanciaux"
-  },
   "homepage": "https://griddlegriddle.github.io/Griddle/",
   "license": "MIT",
   "autoupdate": {
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "ryanlanciaux",
+      "url": "https://github.com/ryanlanciaux"
+    }
+  ]
 }

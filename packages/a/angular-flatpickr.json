@@ -2,9 +2,6 @@
   "name": "angular-flatpickr",
   "description": "angular directive for flatpickr",
   "keywords": [],
-  "author": {
-    "name": "opavader"
-  },
   "license": "MIT",
   "homepage": "https://github.com/archsaber/angular-flatpickr#readme",
   "repository": {
@@ -23,5 +20,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "opavader"
+    }
+  ]
 }

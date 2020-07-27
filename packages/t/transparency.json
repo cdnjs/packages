@@ -13,7 +13,6 @@
     "unobtrusive",
     "semantic"
   ],
-  "author": "Jarno Keskikangas <jarno.keskikangas@leonidasoy.fi>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/leonidas/transparency.git",
@@ -26,5 +25,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jarno Keskikangas",
+      "email": "jarno.keskikangas@leonidasoy.fi"
+    }
+  ]
 }

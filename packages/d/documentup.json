@@ -1,5 +1,4 @@
 {
-  "author": "Jerome Gravel-Niquet <jeromegn@gmail.com> (http://jgn.me)",
   "name": "documentup",
   "description": "Pretty documentation generator for Github projects with proper Readme.",
   "homepage": "http://documentup.com",
@@ -11,5 +10,12 @@
   "keywords": [
     "documentup"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jerome Gravel-Niquet",
+      "email": "jeromegn@gmail.com",
+      "url": "http://jgn.me"
+    }
+  ]
 }

@@ -16,10 +16,6 @@
     "browser",
     "IE"
   ],
-  "author": {
-    "name": "Andrea Giammarchi",
-    "web": "http://webreflection.blogspot.com/"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/WebReflection/eddy.git"
@@ -40,5 +36,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrea Giammarchi",
+      "url": "http://webreflection.blogspot.com/"
+    }
+  ]
 }

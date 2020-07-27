@@ -2,11 +2,6 @@
   "name": "OwlCarousel2",
   "filename": "owl.carousel.min.js",
   "description": "Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.",
-  "author": {
-    "name": "Smashing Boxes",
-    "email": "opensource@smashingboxes.com",
-    "url": "http://owlcarousel.owlgraphic.com"
-  },
   "license": "MIT",
   "keywords": [
     "responsive",
@@ -30,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Smashing Boxes",
+      "email": "opensource@smashingboxes.com",
+      "url": "http://owlcarousel.owlgraphic.com"
+    }
+  ]
 }

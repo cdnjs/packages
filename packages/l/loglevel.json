@@ -1,11 +1,6 @@
 {
   "name": "loglevel",
   "description": "Minimal lightweight logging for JavaScript, adding reliable log level methods to any available console.log methods",
-  "author": {
-    "name": "Tim Perry",
-    "email": "pimterry@gmail.com",
-    "url": "http://tim-perry.co.uk"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/pimterry/loglevel.git"
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tim Perry",
+      "email": "pimterry@gmail.com",
+      "url": "http://tim-perry.co.uk"
+    }
+  ]
 }

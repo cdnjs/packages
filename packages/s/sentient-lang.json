@@ -8,7 +8,6 @@
     "declarative"
   ],
   "homepage": "https://sentient-lang.org/",
-  "author": "Chris Patuzzo <chris@patuzzo.co.uk>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris Patuzzo",
+      "email": "chris@patuzzo.co.uk"
+    }
+  ]
 }

@@ -7,9 +7,6 @@
     "javascript",
     "layout"
   ],
-  "author": {
-    "name": "Emmanuel Olaojo"
-  },
   "license": "MIT",
   "homepage": "https://github.com/e-oj/Magic-Grid#readme",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Emmanuel Olaojo"
+    }
+  ]
 }

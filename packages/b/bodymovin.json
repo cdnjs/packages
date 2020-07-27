@@ -15,10 +15,6 @@
   ],
   "license": "MIT",
   "homepage": "https://airbnb.io/lottie/",
-  "author": {
-    "name": "airnan",
-    "email": "hernantorrisi@gmail.com"
-  },
   "filename": "lottie.min.js",
   "autoupdate": {
     "source": "npm",
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "airnan",
+      "email": "hernantorrisi@gmail.com"
+    }
+  ]
 }

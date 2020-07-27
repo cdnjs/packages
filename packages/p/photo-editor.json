@@ -7,10 +7,6 @@
     "type": "git",
     "url": "https://github.com/fengyuanchen/photo-editor"
   },
-  "author": {
-    "name": "Fengyuan Chen",
-    "url": "http://chenfengyuan.com"
-  },
   "keywords": [
     "photo",
     "editor",
@@ -36,5 +32,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Fengyuan Chen",
+      "url": "http://chenfengyuan.com"
+    }
+  ]
 }

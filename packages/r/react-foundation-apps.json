@@ -19,9 +19,6 @@
     "actionsheet",
     "react-component"
   ],
-  "author": {
-    "name": "Kiran Abburi"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -34,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kiran Abburi"
+    }
+  ]
 }

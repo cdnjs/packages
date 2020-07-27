@@ -15,11 +15,6 @@
     "url": "https://github.com/alexurquhart/vue-bootstrap-typeahead.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Alex Urquhart",
-    "email": "alexurquhart@gmail.com",
-    "url": "https://alexurquhart.com"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "vue-bootstrap-typeahead",
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alex Urquhart",
+      "email": "alexurquhart@gmail.com",
+      "url": "https://alexurquhart.com"
+    }
+  ]
 }

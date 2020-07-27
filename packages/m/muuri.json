@@ -9,11 +9,6 @@
     "sort",
     "drag"
   ],
-  "author": {
-    "name": "Niklas Rämö",
-    "email": "inramo@gmail.com",
-    "url": "https://github.com/niklasramo"
-  },
   "license": "MIT",
   "homepage": "https://muuri.dev/",
   "repository": {
@@ -32,5 +27,12 @@
       }
     ]
   },
-  "filename": "muuri.min.js"
+  "filename": "muuri.min.js",
+  "authors": [
+    {
+      "name": "Niklas Rämö",
+      "email": "inramo@gmail.com",
+      "url": "https://github.com/niklasramo"
+    }
+  ]
 }

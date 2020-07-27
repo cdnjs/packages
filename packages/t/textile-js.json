@@ -2,7 +2,6 @@
   "name": "textile-js",
   "filename": "textile.min.js",
   "description": "A full-featured JavaScript Textile parser",
-  "author": "Borgar Þorsteinsson <borgar@borgar.net>",
   "repository": {
     "type": "git",
     "url": "git://github.com/borgar/textile-js.git"
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Borgar Þorsteinsson",
+      "email": "borgar@borgar.net"
+    }
+  ]
 }

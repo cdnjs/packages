@@ -2,10 +2,6 @@
   "name": "angular-permission",
   "filename": "angular-permission.min.js",
   "description": "Simple route authorization via roles/permissions",
-  "author": {
-    "name": "Rafael Vidaurre",
-    "email": "narzerus@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Narzerus/angular-permission.git"
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rafael Vidaurre",
+      "email": "narzerus@gmail.com"
+    }
+  ]
 }

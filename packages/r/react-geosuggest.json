@@ -8,10 +8,6 @@
     "autosuggest",
     "places"
   ],
-  "author": {
-    "name": "Robert Katzki",
-    "email": "katzki@ubilabs.net"
-  },
   "license": "MIT",
   "homepage": "https://github.com/ubilabs/react-geosuggest",
   "repository": {
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Robert Katzki",
+      "email": "katzki@ubilabs.net"
+    }
+  ]
 }

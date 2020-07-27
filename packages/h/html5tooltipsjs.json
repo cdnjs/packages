@@ -14,7 +14,6 @@
     "3d",
     "ui"
   ],
-  "author": "Yevhen Tiurin",
   "license": "MIT",
   "homepage": "https://ytiurin.github.io/html5tooltipsjs/",
   "autoupdate": {
@@ -28,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Yevhen Tiurin"
+    }
+  ]
 }

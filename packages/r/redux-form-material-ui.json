@@ -13,7 +13,6 @@
     "redux-form-material-ui",
     "adapter"
   ],
-  "author": "Erik Rasmussen <rasmussenerik@gmail.com> (https://github.com/erikras)",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -26,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Erik Rasmussen",
+      "email": "rasmussenerik@gmail.com",
+      "url": "https://github.com/erikras"
+    }
+  ]
 }

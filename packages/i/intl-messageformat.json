@@ -13,7 +13,6 @@
     "plural",
     "icu"
   ],
-  "author": "Eric Ferraiuolo <eferraiuolo@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/yahoo/intl-messageformat.git"
@@ -31,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Eric Ferraiuolo",
+      "email": "eferraiuolo@gmail.com"
+    }
+  ]
 }

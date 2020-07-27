@@ -11,10 +11,6 @@
     "github",
     "api"
   ],
-  "author": {
-    "name": "Michael Aufreiter",
-    "url": "https://github.com/michael"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "github-api",
@@ -26,5 +22,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Michael Aufreiter",
+      "url": "https://github.com/michael"
+    }
+  ]
 }

@@ -10,9 +10,6 @@
     "dropdown",
     "getmdl-dropdown"
   ],
-  "author": {
-    "name": "CreativeIT"
-  },
   "license": "MIT",
   "homepage": "https://github.com/CreativeIT/getmdl-select#readme",
   "repository": {
@@ -31,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "CreativeIT"
+    }
+  ]
 }

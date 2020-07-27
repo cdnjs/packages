@@ -31,5 +31,9 @@
       }
     ]
   },
-  "author": "The WebRTC project authors"
+  "authors": [
+    {
+      "name": "The WebRTC project authors"
+    }
+  ]
 }

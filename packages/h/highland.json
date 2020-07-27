@@ -14,7 +14,6 @@
     "url": "https://github.com/caolan/highland"
   },
   "license": "Apache-2.0",
-  "author": "Caolan McMahon <@caolan> (https://caolan.org/)",
   "autoupdate": {
     "source": "npm",
     "target": "highland",
@@ -26,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Caolan McMahon",
+      "email": "@caolan",
+      "url": "https://caolan.org/"
+    }
+  ]
 }

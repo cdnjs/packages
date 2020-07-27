@@ -12,7 +12,6 @@
     "Angular JS Tree",
     "tree control component"
   ],
-  "author": "Yoav Abrahami",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Yoav Abrahami"
+    }
+  ]
 }

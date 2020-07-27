@@ -16,7 +16,6 @@
     "type": "git",
     "url": "https://github.com/Reklino/angular-resizable.git"
   },
-  "author": "Reklino",
   "license": "MIT",
   "homepage": "http://codepen.io/Reklino/pen/raRaXq/",
   "autoupdate": {
@@ -36,5 +35,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Reklino"
+    }
+  ]
 }

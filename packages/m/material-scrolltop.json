@@ -2,7 +2,6 @@
   "name": "material-scrolltop",
   "filename": "material-scrolltop.min.js",
   "description": "Lightweight, Material Design inspired plugin for scrolling on top of the html page (with jQuery)",
-  "author": "Lukas Bartak <bart@bartweb.cz> (https://github.com/bartholomej)",
   "homepage": "https://bartholomej.github.io/material-scrolltop/",
   "repository": {
     "type": "git",
@@ -32,5 +31,12 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lukas Bartak",
+      "email": "bart@bartweb.cz",
+      "url": "https://github.com/bartholomej"
+    }
+  ]
 }

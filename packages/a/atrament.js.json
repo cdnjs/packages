@@ -12,7 +12,6 @@
     "handwriting",
     "graphics"
   ],
-  "author": "Jakub Fiala",
   "license": "SEE LICENSE IN LICENSE.md",
   "autoupdate": {
     "source": "git",
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jakub Fiala"
+    }
+  ]
 }

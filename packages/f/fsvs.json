@@ -13,7 +13,6 @@
     "slider",
     "one page slider"
   ],
-  "author": "Luke Snowden <luke@sno.wden.co.uk>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Luke Snowden",
+      "email": "luke@sno.wden.co.uk"
+    }
+  ]
 }

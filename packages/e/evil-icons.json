@@ -7,7 +7,6 @@
     "type": "git",
     "url": "https://github.com/outpunk/evil-icons"
   },
-  "author": "Alexander Madyankin <alexander@madyankin.name>",
   "keywords": [
     "evil icons",
     "evil-icons",
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alexander Madyankin",
+      "email": "alexander@madyankin.name"
+    }
+  ]
 }

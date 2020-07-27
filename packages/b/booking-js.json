@@ -6,7 +6,6 @@
     "type": "git",
     "url": "https://github.com/timekit-io/booking-js.git"
   },
-  "author": "Timekit Inc.",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -23,5 +22,10 @@
   "keywords": [
     "booking",
     "js"
+  ],
+  "authors": [
+    {
+      "name": "Timekit Inc."
+    }
   ]
 }

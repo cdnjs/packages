@@ -24,7 +24,9 @@
     "url": "https://github.com/daneden/animate.css"
   },
   "license": "MIT",
-  "author": {
-    "name": "Daniel Eden"
-  }
+  "authors": [
+    {
+      "name": "Daniel Eden"
+    }
+  ]
 }

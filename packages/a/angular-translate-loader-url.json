@@ -28,5 +28,9 @@
     "type": "git",
     "url": "https://github.com/angular-translate/bower-angular-translate-loader-url"
   },
-  "author": "Pascal Precht"
+  "authors": [
+    {
+      "name": "Pascal Precht"
+    }
+  ]
 }

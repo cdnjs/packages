@@ -17,7 +17,6 @@
     "backend",
     "responsive"
   ],
-  "author": "Aigars Silkalns",
   "license": "MIT",
   "homepage": "https://colorlib.com/polygon/gentelella/index.html",
   "autoupdate": {
@@ -31,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Aigars Silkalns"
+    }
+  ]
 }

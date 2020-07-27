@@ -2,7 +2,6 @@
   "name": "jQuery-Geolocation",
   "filename": "jquery.geolocation.min.js",
   "description": "jQuery plugin which acts as a simplification of the W3C Geolocation API ",
-  "author": "Manuel Bieh",
   "homepage": "http://www.manuel-bieh.de",
   "keywords": [
     "jquery",
@@ -12,5 +11,10 @@
     "type": "git",
     "url": "git://github.com/manuelbieh/jQuery-Geolocation.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Manuel Bieh"
+    }
+  ]
 }

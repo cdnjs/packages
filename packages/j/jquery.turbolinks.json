@@ -3,10 +3,12 @@
   "filename": "jquery.turbolinks.min.js",
   "authors": [
     {
-      "name": "Sasha Koss <kossnocorp@gmail.com>"
+      "name": "Sasha Koss",
+      "email": "kossnocorp@gmail.com"
     },
     {
-      "name": "Rico Sta. Cruz <hi@ricostacruz.com>"
+      "name": "Rico Sta. Cruz",
+      "email": "hi@ricostacruz.com"
     }
   ],
   "description": "jQuery plugin for drop-in fix binded events problem caused by Turbolinks",

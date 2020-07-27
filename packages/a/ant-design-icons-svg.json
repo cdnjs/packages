@@ -1,5 +1,4 @@
 {
-  "author": "",
   "description": "Abstract nodes for ant design icons.",
   "homepage": "https://github.com/ant-design/ant-design-icons/",
   "keywords": [],
@@ -20,5 +19,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": ""
+    }
+  ]
 }

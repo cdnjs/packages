@@ -17,7 +17,6 @@
     "minimal",
     "responsive"
   ],
-  "author": "Henrique Alves <henriquea@gmail.com> (http://alves.im)",
   "license": "MIT",
   "homepage": "http://alves.im/minigrid",
   "autoupdate": {
@@ -31,5 +30,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Henrique Alves",
+      "email": "henriquea@gmail.com",
+      "url": "http://alves.im"
+    }
+  ]
 }

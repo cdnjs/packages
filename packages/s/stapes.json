@@ -1,7 +1,6 @@
 {
   "name": "stapes",
   "filename": "stapes.min.js",
-  "author": "Hay Kranen <hay@bykr.org>",
   "homepage": "http://hay.github.com/stapes",
   "description": "The Javascript MVC microframework that does just enough.",
   "keywords": [
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Hay Kranen",
+      "email": "hay@bykr.org"
+    }
+  ]
 }

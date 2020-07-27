@@ -13,10 +13,6 @@
     "url": "https://github.com/SortableJS/Vue.Draggable.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "David Desmaisons",
-    "email": "desmaisons_david@hotmail.com"
-  },
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/SortableJS/Vue.Draggable.git",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David Desmaisons",
+      "email": "desmaisons_david@hotmail.com"
+    }
+  ]
 }

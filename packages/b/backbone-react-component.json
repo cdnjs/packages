@@ -2,10 +2,6 @@
   "name": "backbone-react-component",
   "filename": "backbone-react-component-min.js",
   "description": "Backbone.React.Component is a wrapper for React.Component and brings all the power of Facebook's React to Backbone.js",
-  "author": {
-    "name": "José Magalhães",
-    "email": "magalhas@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/magalhas/backbone-react-component.git"
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "José Magalhães",
+      "email": "magalhas@gmail.com"
+    }
+  ]
 }

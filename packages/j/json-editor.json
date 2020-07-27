@@ -7,11 +7,6 @@
     "jsonschema",
     "editor"
   ],
-  "author": {
-    "name": "Jeremy Dorn",
-    "email": "jeremy@jeremydorn.com",
-    "url": "http://jeremydorn.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/json-editor/json-editor#readme",
   "repository": {
@@ -30,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeremy Dorn",
+      "email": "jeremy@jeremydorn.com",
+      "url": "http://jeremydorn.com"
+    }
+  ]
 }

@@ -15,5 +15,9 @@
     "url": "https://github.com/topcoat/icons.git"
   },
   "license": "Apache-2.0",
-  "author": "@dam"
+  "authors": [
+    {
+      "name": "@dam"
+    }
+  ]
 }

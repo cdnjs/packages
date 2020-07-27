@@ -2,9 +2,6 @@
   "name": "ng-i18next",
   "filename": "ng-i18next.min.js",
   "description": "AngularJS provider, filter and directive for i18next (i18next by Jan Mühlemann)",
-  "author": {
-    "name": "Andre Meyering"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andre Meyering"
+    }
+  ]
 }

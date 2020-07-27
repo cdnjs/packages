@@ -10,7 +10,6 @@
     "CKEditor",
     "AngularJS"
   ],
-  "author": "Vitalii Savchuk",
   "license": "BSD-3-Clause",
   "autoupdate": {
     "source": "git",
@@ -23,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vitalii Savchuk"
+    }
+  ]
 }

@@ -14,11 +14,6 @@
     "confirm",
     "js"
   ],
-  "author": {
-    "name": "Marcelo Dolce",
-    "email": "marcelodolza@gmail.com",
-    "homepage": "http://marcelodolza.com/"
-  },
   "license": "Apache-2.0",
   "homepage": "http://izitoast.marcelodolza.com/",
   "autoupdate": {
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Marcelo Dolce",
+      "email": "marcelodolza@gmail.com",
+      "url": "http://marcelodolza.com/"
+    }
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "name": "show-your-terms",
   "filename": "show-your-terms.min.js",
-  "author": "Kande Bonfim <kandebonfim@gmail.com>",
   "description": "Simple demos of your applications' terminal commands.",
   "homepage": "https://kandebonfim.github.io/show-your-terms/",
   "keywords": [
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kande Bonfim",
+      "email": "kandebonfim@gmail.com"
+    }
+  ]
 }

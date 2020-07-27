@@ -11,7 +11,6 @@
     "url": "https://github.com/germanysbestkeptsecret/Wookmark-jQuery"
   },
   "license": "MIT",
-  "author": "Christoph Ono <chri@sto.ph>",
   "autoupdate": {
     "source": "npm",
     "target": "wookmark",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Christoph Ono",
+      "email": "chri@sto.ph"
+    }
+  ]
 }

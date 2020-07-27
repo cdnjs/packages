@@ -13,7 +13,6 @@
     "flipbook",
     "panorama"
   ],
-  "author": "Alexander Graefenstein",
   "license": "MIT",
   "homepage": "http://spritespin.ginie.eu/index.html",
   "autoupdate": {
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alexander Graefenstein"
+    }
+  ]
 }

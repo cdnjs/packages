@@ -7,11 +7,6 @@
     "email",
     "spell check"
   ],
-  "author": {
-    "name": "Derrick Ko",
-    "url": "http://derrickko.com",
-    "email": "hello@derrickko.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/mailcheck/mailcheck.git"
@@ -28,5 +23,12 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Derrick Ko",
+      "url": "http://derrickko.com",
+      "email": "hello@derrickko.com"
+    }
+  ]
 }

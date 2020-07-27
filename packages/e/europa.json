@@ -1,11 +1,6 @@
 {
   "name": "europa",
   "description": "Library for converting HTML into valid Markdown",
-  "author": {
-    "name": "Alasdair Mercer",
-    "email": "mercer.alasdair@gmail.com",
-    "url": "https://not.ninja"
-  },
   "license": "MIT",
   "keywords": [
     "html",
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alasdair Mercer",
+      "email": "mercer.alasdair@gmail.com",
+      "url": "https://not.ninja"
+    }
+  ]
 }

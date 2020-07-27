@@ -24,10 +24,6 @@
     "url": "https://github.com/FNNDSC/ami"
   },
   "license": "Apache-2.0",
-  "author": {
-    "name": "Nicolas Rannou",
-    "url": "https://github.com/NicolasRannou"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "ami.js",
@@ -39,5 +35,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nicolas Rannou",
+      "url": "https://github.com/NicolasRannou"
+    }
+  ]
 }

@@ -3,10 +3,6 @@
   "filename": "antd.min.js",
   "description": "An UI design language",
   "homepage": "http://ant.design/",
-  "author": {
-    "name": "afc163",
-    "url": "https://github.com/afc163"
-  },
   "keywords": [
     "ant",
     "design",
@@ -34,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "afc163",
+      "url": "https://github.com/afc163"
+    }
+  ]
 }

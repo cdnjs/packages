@@ -9,10 +9,14 @@
   ],
   "authors": [
     {
-      "name": "Ryan Eastridge <ryan@eastridge.me> (http://eastridge.me)"
+      "name": "Ryan Eastridge",
+      "email": "ryan@eastridge.me",
+      "url": "http://eastridge.me"
     },
     {
-      "name": "Kevin Decker <kpdecker@gmail.com> (http://incaseofstairs.com)"
+      "name": "Kevin Decker",
+      "email": "kpdecker@gmail.com",
+      "url": "http://incaseofstairs.com"
     }
   ],
   "repository": {

@@ -5,7 +5,6 @@
     "type": "git",
     "url": "https://github.com/kotojs/kotojs.git"
   },
-  "author": "Nick Randall <nick.randall@domo.com>",
   "homepage": "http://kotojs.org",
   "license": "MIT",
   "filename": "koto.js",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nick Randall",
+      "email": "nick.randall@domo.com"
+    }
+  ]
 }

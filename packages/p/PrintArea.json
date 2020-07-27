@@ -25,5 +25,9 @@
     ]
   },
   "license": "MIT",
-  "author": "Chris Ritschard"
+  "authors": [
+    {
+      "name": "Chris Ritschard"
+    }
+  ]
 }

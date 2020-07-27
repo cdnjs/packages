@@ -10,10 +10,6 @@
     "onchange",
     "onpropertychange"
   ],
-  "author": {
-    "name": "Selvakumar Arumugam",
-    "url": "http://meetselva.github.com/attrchange/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/meetselva/attrchange.git"
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Selvakumar Arumugam",
+      "url": "http://meetselva.github.com/attrchange/"
+    }
+  ]
 }

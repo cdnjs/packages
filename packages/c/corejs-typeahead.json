@@ -10,10 +10,6 @@
     "type": "git",
     "url": "https://github.com/corejavascript/typeahead.js.git"
   },
-  "author": {
-    "name": "Twitter, Inc.",
-    "url": "https://twitter.com/twitteross"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -27,5 +23,11 @@
       }
     ]
   },
-  "filename": "bloodhound.min.js"
+  "filename": "bloodhound.min.js",
+  "authors": [
+    {
+      "name": "Twitter, Inc.",
+      "url": "https://twitter.com/twitteross"
+    }
+  ]
 }

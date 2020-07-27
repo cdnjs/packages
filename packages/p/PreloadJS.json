@@ -18,7 +18,6 @@
     "url": "git+https://github.com/CreateJS/PreloadJS.git"
   },
   "license": "MIT",
-  "author": "gskinner.com, inc.",
   "homepage": "https://createjs.com/preloadjs/",
   "autoupdate": {
     "source": "npm",
@@ -31,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "gskinner.com, inc."
+    }
+  ]
 }

@@ -2,10 +2,6 @@
   "name": "jQuery.x18n",
   "filename": "jquery.x18n.min.js",
   "description": "The jQuery adapter for the x18n internationalisation library.",
-  "author": {
-    "name": "Florian H.",
-    "url": "https://github.com/florian"
-  },
   "keywords": [
     "i18n",
     "jquery",
@@ -30,5 +26,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Florian H.",
+      "url": "https://github.com/florian"
+    }
+  ]
 }

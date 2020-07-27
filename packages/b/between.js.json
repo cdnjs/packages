@@ -1,5 +1,4 @@
 {
-  "author": "Alexander Buzin",
   "description": "Lightweight ES6 JavaScript tweening engine",
   "filename": "between.js",
   "homepage": "https://between.js.org/",
@@ -28,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alexander Buzin"
+    }
+  ]
 }

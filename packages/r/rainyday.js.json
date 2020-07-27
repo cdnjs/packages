@@ -8,10 +8,6 @@
     "rainy"
   ],
   "filename": "rainyday.min.js",
-  "author": {
-    "name": "Marek Brodziak",
-    "email": "marek.brodziak@gmail.com"
-  },
   "license": "GPLv2",
   "repository": {
     "type": "git",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Marek Brodziak",
+      "email": "marek.brodziak@gmail.com"
+    }
+  ]
 }

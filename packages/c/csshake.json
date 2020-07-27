@@ -11,7 +11,6 @@
     "transitions",
     "animations"
   ],
-  "author": "@elrumordelaluz",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "@elrumordelaluz"
+    }
+  ]
 }

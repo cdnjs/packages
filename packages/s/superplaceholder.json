@@ -3,11 +3,6 @@
   "filename": "superplaceholder.min.js",
   "description": "Super charge your input placeholders",
   "homepage": "https://kushagragour.in/lab/superplaceholderjs/",
-  "author": {
-    "name": "Kushagra Gour",
-    "email": "chinchang457@gmail.com",
-    "url": "http://kushagragour.in"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/chinchang/superplaceholder.js.git"
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kushagra Gour",
+      "email": "chinchang457@gmail.com",
+      "url": "http://kushagragour.in"
+    }
+  ]
 }

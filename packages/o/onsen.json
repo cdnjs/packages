@@ -3,10 +3,12 @@
   "filename": "js/onsenui.min.js",
   "authors": [
     {
-      "name": "Kruy Vanna <kruyvanna@gmail.com>"
+      "name": "Kruy Vanna",
+      "email": "kruyvanna@gmail.com"
     },
     {
-      "name": "Mitsunori KUBOTA <anatoo.jp@gmail.com>"
+      "name": "Mitsunori KUBOTA",
+      "email": "anatoo.jp@gmail.com"
     }
   ],
   "description": "HTML5 Mobile Framework & UI Components",

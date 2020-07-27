@@ -1,11 +1,6 @@
 {
   "name": "Trip.js",
   "filename": "trip.min.js",
-  "author": {
-    "name": "EragonJ",
-    "email": "eragonj@eragonj.me",
-    "url": "http://eragonj.me"
-  },
   "description": "Trip.js is a plugin that can help you make tutorial trips easily on website",
   "repository": {
     "type": "git",
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "EragonJ",
+      "email": "eragonj@eragonj.me",
+      "url": "http://eragonj.me"
+    }
+  ]
 }

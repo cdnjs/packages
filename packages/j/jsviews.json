@@ -2,10 +2,6 @@
   "name": "jsviews",
   "filename": "jsviews.min.js",
   "description": "Next-generation MVVM and MVP framework - built on top of JsRender templates. Bringing templates to life...",
-  "author": {
-    "name": "Boris Moore",
-    "url": "https://github.com/borismoore"
-  },
   "homepage": "http://www.jsviews.com/#jsviews",
   "repository": {
     "type": "git",
@@ -37,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Boris Moore",
+      "url": "https://github.com/borismoore"
+    }
+  ]
 }

@@ -2,7 +2,6 @@
   "name": "knockout-kendo",
   "filename": "knockout-kendo.min.js",
   "homepage": "http://kendo-labs.github.com/knockout-kendo/",
-  "author": "Ryan Niemeyer",
   "repository": {
     "type": "git",
     "url": "git://github.com/kendo-labs/knockout-kendo.git"
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ryan Niemeyer"
+    }
+  ]
 }

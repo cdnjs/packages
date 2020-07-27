@@ -1,9 +1,4 @@
 {
-  "author": {
-    "email": "ionden.tech@gmail.com",
-    "name": "Denis Ineshin",
-    "url": "IonDen"
-  },
   "description": "jQuery plugin for styling checkboxes and radio-buttons. With skin support",
   "homepage": "http://ionden.com/a/plugins/ion.checkRadio/en.html",
   "keywords": [
@@ -36,5 +31,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "ionden.tech@gmail.com",
+      "name": "Denis Ineshin",
+      "url": "IonDen"
+    }
+  ]
 }

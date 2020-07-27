@@ -12,5 +12,9 @@
     "type": "git",
     "url": "git://github.com/israelidanny/veinjs"
   },
-  "author": "Danny Povolotski"
+  "authors": [
+    {
+      "name": "Danny Povolotski"
+    }
+  ]
 }

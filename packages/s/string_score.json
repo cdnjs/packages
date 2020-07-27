@@ -12,7 +12,6 @@
     "type": "git",
     "url": "https://github.com/joshaven/string_score.git"
   },
-  "author": "Joshaven Potter <yourtech@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Joshaven Potter",
+      "email": "yourtech@gmail.com"
+    }
+  ]
 }

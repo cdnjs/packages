@@ -11,10 +11,6 @@
   ],
   "homepage": "https://d3js.org/d3-hexbin",
   "license": "BSD-3-Clause",
-  "author": {
-    "name": "Mike Bostock",
-    "url": "http://bost.ocks.org/mike"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/d3/d3-hexbin.git"
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mike Bostock",
+      "url": "http://bost.ocks.org/mike"
+    }
+  ]
 }

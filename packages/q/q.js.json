@@ -2,7 +2,6 @@
   "name": "q.js",
   "filename": "q.min.js",
   "description": "A library for promises (CommonJS/Promises/A,B,D)",
-  "author": "Kris Kowal <kris@cixar.com> (https://github.com/kriskowal)",
   "keywords": [
     "q",
     "promise",
@@ -33,5 +32,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kris Kowal",
+      "email": "kris@cixar.com",
+      "url": "https://github.com/kriskowal"
+    }
+  ]
 }

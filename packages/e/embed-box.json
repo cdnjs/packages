@@ -2,7 +2,6 @@
   "name": "embed-box",
   "filename": "embed-box.min.js",
   "license": "MIT",
-  "author": "Eager",
   "homepage": "http://embedbox.io",
   "description": "Simple install guidance for CMS plugins",
   "repository": {
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Eager"
+    }
+  ]
 }

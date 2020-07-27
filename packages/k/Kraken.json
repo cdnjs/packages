@@ -2,10 +2,6 @@
   "name": "Kraken",
   "filename": "main.min.css",
   "description": "A lightweight front-end boilerplate",
-  "author": {
-    "name": "Chris Ferdinandi",
-    "url": "http://gomakethings.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris Ferdinandi",
+      "url": "http://gomakethings.com"
+    }
+  ]
 }

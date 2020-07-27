@@ -14,10 +14,6 @@
     "time series",
     "time-series"
   ],
-  "author": {
-    "name": "Joe Walnes",
-    "url": "http://joewalnes.com/"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Joe Walnes",
+      "url": "http://joewalnes.com/"
+    }
+  ]
 }

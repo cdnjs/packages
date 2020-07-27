@@ -3,10 +3,6 @@
   "filename": "esprima.min.js",
   "description": "ECMAScript parsing infrastructure for multipurpose analysis",
   "homepage": "http://esprima.org",
-  "author": {
-    "name": "Ariya Hidayat",
-    "email": "ariya.hidayat@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jquery/esprima.git"
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ariya Hidayat",
+      "email": "ariya.hidayat@gmail.com"
+    }
+  ]
 }

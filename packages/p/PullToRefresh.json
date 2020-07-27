@@ -3,11 +3,6 @@
   "filename": "ptr.min.js",
   "title": "PullToRefresh",
   "description": "a JavaScript implementation of PullToRefresh without jQuery or other Frameworks under MIT-License",
-  "author": {
-    "name": "Simon Waldherr",
-    "email": "contact@simonwaldherr.de",
-    "url": "http://simon.waldherr.eu/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/SimonWaldherr/PullToRefresh.git"
@@ -20,5 +15,12 @@
     "css3",
     "html5"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Simon Waldherr",
+      "email": "contact@simonwaldherr.de",
+      "url": "http://simon.waldherr.eu/"
+    }
+  ]
 }

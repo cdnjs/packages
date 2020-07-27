@@ -12,7 +12,6 @@
     "vibrate",
     "shake"
   ],
-  "author": "Jack Rugile <jack@jackrugile.com>",
   "license": "MIT",
   "homepage": "https://jackrugile.com/jrumble",
   "autoupdate": {
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jack Rugile",
+      "email": "jack@jackrugile.com"
+    }
+  ]
 }

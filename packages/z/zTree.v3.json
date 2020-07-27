@@ -6,11 +6,6 @@
     "ui"
   ],
   "filename": "js/jquery.ztree.all.min.js",
-  "author": {
-    "name": "Zhang QiGang",
-    "email": "hunter.z@263.net",
-    "url": "https://github.com/zTree/zTree_v3"
-  },
   "license": "MIT",
   "homepage": "http://www.ztree.me/",
   "repository": {
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Zhang QiGang",
+      "email": "hunter.z@263.net",
+      "url": "https://github.com/zTree/zTree_v3"
+    }
+  ]
 }

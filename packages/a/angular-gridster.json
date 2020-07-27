@@ -8,7 +8,6 @@
     "gridster-like",
     "angular directives"
   ],
-  "author": "https://github.com/ManifestWebDesign/angular-gridster/graphs/contributors",
   "homepage": "https://manifestwebdesign.github.io/angular-gridster",
   "repository": {
     "type": "git",
@@ -38,5 +37,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "https://github.com/ManifestWebDesign/angular-gridster/graphs/contributors"
+    }
+  ]
 }

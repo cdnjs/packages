@@ -2,7 +2,6 @@
   "name": "date-fns",
   "filename": "date_fns.min.js",
   "description": "Modern JavaScript date utility library",
-  "author": "Sasha Koss <koss@nocorp.me>",
   "license": "MIT",
   "keywords": [
     "date",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sasha Koss",
+      "email": "koss@nocorp.me"
+    }
+  ]
 }

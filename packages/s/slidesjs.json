@@ -11,13 +11,15 @@
     "callback"
   ],
   "homepage": "http://slidesjs.com",
-  "author": {
-    "name": "Nathan Searles",
-    "email": "nsearles@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/nathansearles/Slides.git"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Nathan Searles",
+      "email": "nsearles@gmail.com"
+    }
+  ]
 }

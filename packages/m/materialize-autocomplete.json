@@ -10,10 +10,6 @@
     "autocomplete",
     "jquery"
   ],
-  "author": {
-    "name": "icefox0801",
-    "email": "icefox0801@hotmail.com"
-  },
   "license": "MIT",
   "homepage": "https://icefox0801.github.io/materialize-autocomplete/",
   "filename": "jquery.materialize-autocomplete.min.js",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "icefox0801",
+      "email": "icefox0801@hotmail.com"
+    }
+  ]
 }

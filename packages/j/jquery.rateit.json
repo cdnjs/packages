@@ -10,7 +10,6 @@
     "rateit",
     "npm"
   ],
-  "author": "Gidon Junge (https://twitter.com/gjunge)",
   "license": "MIT",
   "homepage": "https://gjunge.github.io/rateit.js/examples/",
   "autoupdate": {
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Gidon Junge",
+      "url": "https://twitter.com/gjunge"
+    }
+  ]
 }

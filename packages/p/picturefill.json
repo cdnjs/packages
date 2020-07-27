@@ -27,5 +27,10 @@
     "url": "git://github.com/scottjehl/picturefill.git"
   },
   "license": "MIT",
-  "author": "Scott Jehl <scottjehl@gmail.com>"
+  "authors": [
+    {
+      "name": "Scott Jehl",
+      "email": "scottjehl@gmail.com"
+    }
+  ]
 }

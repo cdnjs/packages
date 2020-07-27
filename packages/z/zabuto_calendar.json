@@ -15,10 +15,6 @@
     "ajax",
     "json"
   ],
-  "author": {
-    "name": "Anke Heijnen",
-    "url": "http://zabuto.com"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:zabuto/calendar.git"
@@ -34,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Anke Heijnen",
+      "url": "http://zabuto.com"
+    }
+  ]
 }

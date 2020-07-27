@@ -12,7 +12,6 @@
     "url": "git://github.com/eldarion/eldarion-ajax.git"
   },
   "license": "BSD-3-Clause",
-  "author": "Patrick Altman",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/eldarion/eldarion-ajax.git",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Patrick Altman"
+    }
+  ]
 }

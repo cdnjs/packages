@@ -30,6 +30,10 @@
       }
     ]
   },
-  "author": "Fabien Doiron",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fabien Doiron"
+    }
+  ]
 }

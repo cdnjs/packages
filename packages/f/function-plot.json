@@ -4,10 +4,6 @@
   "license": "MIT",
   "filename": "function-plot.js",
   "homepage": "http://maurizzzio.github.io/function-plot/",
-  "author": {
-    "name": "Mauricio Poppe",
-    "email": "mauricio.poppe@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maurizzzio/function-plot.git"
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mauricio Poppe",
+      "email": "mauricio.poppe@gmail.com"
+    }
+  ]
 }

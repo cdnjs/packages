@@ -16,7 +16,6 @@
     "type": "git",
     "url": "https://github.com/HackedByChinese/ng-idle.git"
   },
-  "author": "Mike Grabski <me@mikegrabski.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mike Grabski",
+      "email": "me@mikegrabski.com"
+    }
+  ]
 }

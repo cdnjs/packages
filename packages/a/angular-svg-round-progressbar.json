@@ -13,7 +13,6 @@
     "round",
     "svg"
   ],
-  "author": "crisbeto",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "crisbeto"
+    }
+  ]
 }

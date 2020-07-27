@@ -17,7 +17,6 @@
     "mobile-first",
     "responsive"
   ],
-  "author": "MDBootstrap",
   "license": "MIT",
   "homepage": "https://mdbootstrap.com/material-design-for-bootstrap/",
   "autoupdate": {
@@ -34,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "MDBootstrap"
+    }
+  ]
 }

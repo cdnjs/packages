@@ -24,5 +24,10 @@
       }
     ]
   },
-  "author": "Tapmodo <khallman@tapmodo.com>"
+  "authors": [
+    {
+      "name": "Tapmodo",
+      "email": "khallman@tapmodo.com"
+    }
+  ]
 }

@@ -13,10 +13,6 @@
     "bitpay",
     "cash-address"
   ],
-  "author": {
-    "name": "Emilio Almansi",
-    "email": "hi@ealmansi.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/ealmansi/bchaddrjs#readme",
   "repository": {
@@ -34,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Emilio Almansi",
+      "email": "hi@ealmansi.com"
+    }
+  ]
 }

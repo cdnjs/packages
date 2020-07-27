@@ -14,7 +14,6 @@
     "ngettext",
     "po"
   ],
-  "author": "guillaumepotier",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "guillaumepotier"
+    }
+  ]
 }

@@ -3,11 +3,6 @@
   "description": "Enhances standard form input fields helping users to select (or type) times.",
   "filename": "jquery.timepicker.min.js",
   "homepage": "http://timepicker.co",
-  "author": {
-    "name": "Willington Vega",
-    "email": "wvega@wvega.com",
-    "url": "http://wvega.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/wvega/timepicker.git"
@@ -32,6 +27,13 @@
     "dropdown",
     "input",
     "form"
+  ],
+  "authors": [
+    {
+      "name": "Willington Vega",
+      "email": "wvega@wvega.com",
+      "url": "http://wvega.com"
+    }
   ],
   "license": "(MIT OR GPL)"
 }

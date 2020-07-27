@@ -2,7 +2,6 @@
   "name": "jsface",
   "filename": "jsface.min.js",
   "description": "Small, fast, elegant, powerful, and cross platform JavaScript OOP library. Support main, singleton, super call, private, mixins, plugins, AOP and more.",
-  "author": "Tan Nhu <tnhu AT me . com>",
   "keywords": [
     "jsface",
     "JSFace",
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tan Nhu",
+      "email": "tnhu AT me . com"
+    }
+  ]
 }

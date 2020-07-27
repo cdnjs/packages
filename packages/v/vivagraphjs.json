@@ -11,7 +11,6 @@
     "drawing",
     "vivagraph"
   ],
-  "author": "Andrei Kashcha",
   "license": "BSD-3-Clause",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrei Kashcha"
+    }
+  ]
 }

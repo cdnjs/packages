@@ -16,6 +16,10 @@
     "slickgrid",
     "kogrid"
   ],
-  "author": "ng-grid Team",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ng-grid Team"
+    }
+  ]
 }

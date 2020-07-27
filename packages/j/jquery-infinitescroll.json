@@ -29,6 +29,10 @@
     "type": "git",
     "url": "git://github.com/metafizzy/infinite-scroll.git"
   },
-  "license": "(GPL-3.0 OR Commercial License)",
-  "author": "Metafizzy"
+  "authors": [
+    {
+      "name": "Metafizzy"
+    }
+  ],
+  "license": "(GPL-3.0 OR Commercial License)"
 }

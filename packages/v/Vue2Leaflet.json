@@ -2,7 +2,6 @@
   "name": "Vue2Leaflet",
   "filename": "vue2-leaflet.min.js",
   "description": "Vue2 leaflet library",
-  "author": "Mickael Bouchaud",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mickael Bouchaud"
+    }
+  ]
 }

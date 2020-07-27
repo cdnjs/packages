@@ -14,7 +14,6 @@
   },
   "homepage": "http://leafletjs.com",
   "license": "MIT",
-  "author": "Dave Leaver <danzel@localhost.geek.nz>",
   "autoupdate": {
     "source": "npm",
     "target": "leaflet.markercluster",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dave Leaver",
+      "email": "danzel@localhost.geek.nz"
+    }
+  ]
 }

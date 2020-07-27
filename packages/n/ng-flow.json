@@ -17,7 +17,6 @@
     "file upload",
     "upload"
   ],
-  "author": "Aidas Klimas",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -30,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Aidas Klimas"
+    }
+  ]
 }

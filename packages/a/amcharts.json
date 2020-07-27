@@ -8,7 +8,6 @@
     "charts"
   ],
   "homepage": "https://www.amcharts.com/",
-  "author": "amCharts <contact@amcharts.com>",
   "license": "Free and commercial",
   "repository": {
     "type": "git",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "amCharts",
+      "email": "contact@amcharts.com"
+    }
+  ]
 }

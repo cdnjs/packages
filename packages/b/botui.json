@@ -10,10 +10,6 @@
     "js",
     "ui"
   ],
-  "author": {
-    "name": "Moin Uddin",
-    "url": "https://moin.im"
-  },
   "homepage": "https://botui.org",
   "repository": {
     "type": "git",
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Moin Uddin",
+      "url": "https://moin.im"
+    }
+  ]
 }

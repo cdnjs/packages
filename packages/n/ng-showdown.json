@@ -4,10 +4,12 @@
   "description": "Official Showdown integration with AngularJS",
   "authors": [
     {
-      "name": "Estevão Santos (https://github.com/tivie)"
+      "name": "Estevão Santos",
+      "url": "https://github.com/tivie"
     },
     {
-      "name": "SyntaxRules (https://github.com/SyntaxRules)"
+      "name": "SyntaxRules",
+      "url": "https://github.com/SyntaxRules"
     }
   ],
   "keywords": [

@@ -6,7 +6,6 @@
     "type": "git",
     "url": "https://github.com/developit/preact-compat.git"
   },
-  "author": "Jason Miller <jason@developit.ca>",
   "keywords": [
     "preact",
     "react",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Miller",
+      "email": "jason@developit.ca"
+    }
+  ]
 }

@@ -18,7 +18,6 @@
     "type": "git",
     "url": "git://github.com/shakiba/planck.js.git"
   },
-  "author": "Ali Shakiba",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/shakiba/planck.js.git",
@@ -30,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ali Shakiba"
+    }
+  ]
 }

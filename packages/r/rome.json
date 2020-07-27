@@ -8,11 +8,6 @@
     "date picker",
     "time picker"
   ],
-  "author": {
-    "name": "Nicolas Bevacqua",
-    "email": "hello@bevacqua.io",
-    "url": "http://ponyfoo.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -29,5 +24,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/bevacqua/rome"
-  }
+  },
+  "authors": [
+    {
+      "name": "Nicolas Bevacqua",
+      "email": "hello@bevacqua.io",
+      "url": "http://ponyfoo.com"
+    }
+  ]
 }

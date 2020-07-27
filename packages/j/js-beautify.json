@@ -12,7 +12,6 @@
     "beautifier",
     "code-quality"
   ],
-  "author": "Einar Lielmanis <einar@jsbeautifier.org>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Einar Lielmanis",
+      "email": "einar@jsbeautifier.org"
+    }
+  ]
 }

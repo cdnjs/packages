@@ -9,10 +9,12 @@
   },
   "authors": [
     {
-      "name": "Ilya Birman <ilyabirman@ilyabirman.ru>"
+      "name": "Ilya Birman",
+      "email": "ilyabirman@ilyabirman.ru"
     },
     {
-      "name": "Evgeny Steblinsky <volter925@gmail.com>"
+      "name": "Evgeny Steblinsky",
+      "email": "volter925@gmail.com"
     }
   ],
   "license": "MIT",

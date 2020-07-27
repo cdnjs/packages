@@ -2,7 +2,6 @@
   "name": "foreach",
   "filename": "index.min.js",
   "description": "foreach component + npm package",
-  "author": "Manuel Stofer <manuel@takimata.ch>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Manuel Stofer",
+      "email": "manuel@takimata.ch"
+    }
+  ]
 }

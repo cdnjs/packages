@@ -8,11 +8,6 @@
     "icon",
     "svgicon"
   ],
-  "author": {
-    "name": "allenice",
-    "email": "994298628@qq.com",
-    "url": "http://blog.allenice233.com/"
-  },
   "license": "MIT",
   "homepage": "https://github.com/MMF-FE/vue-svgicon#readme",
   "repository": {
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "allenice",
+      "email": "994298628@qq.com",
+      "url": "http://blog.allenice233.com/"
+    }
+  ]
 }

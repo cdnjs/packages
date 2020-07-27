@@ -9,10 +9,6 @@
     "charts"
   ],
   "homepage": "http://nvd3.org/",
-  "author": {
-    "name": "Novus Partners",
-    "url": "https://github.com/novus"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/novus/nvd3.git"
@@ -29,5 +25,11 @@
       }
     ]
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Novus Partners",
+      "url": "https://github.com/novus"
+    }
+  ]
 }

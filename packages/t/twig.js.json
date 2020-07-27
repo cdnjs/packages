@@ -1,5 +1,4 @@
 {
-  "author": "John Roepke <john@justjohn.us> (http://john.sh/)",
   "name": "twig.js",
   "description": "JS port of the Twig templating language.",
   "filename": "twig.min.js",
@@ -26,5 +25,12 @@
       }
     ]
   },
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "authors": [
+    {
+      "name": "John Roepke",
+      "email": "john@justjohn.us",
+      "url": "http://john.sh/"
+    }
+  ]
 }

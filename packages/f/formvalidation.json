@@ -13,11 +13,6 @@
     "SemanticUI",
     "UIKit"
   ],
-  "author": {
-    "name": "Nguyen Huu Phuoc",
-    "email": "phuoc@huuphuoc.me",
-    "url": "https://twitter.com/nghuuphuoc"
-  },
   "license": "http://formvalidation.io/license/",
   "homepage": "http://formvalidation.io",
   "repository": {
@@ -36,5 +31,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nguyen Huu Phuoc",
+      "email": "phuoc@huuphuoc.me",
+      "url": "https://twitter.com/nghuuphuoc"
+    }
+  ]
 }

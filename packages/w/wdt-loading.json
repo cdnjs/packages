@@ -12,10 +12,6 @@
     "javascript",
     "wdt"
   ],
-  "author": {
-    "name": "Nedim Arabacı",
-    "url": "http://github.com/needim/"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nedim Arabacı",
+      "url": "http://github.com/needim/"
+    }
+  ]
 }

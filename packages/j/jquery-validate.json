@@ -32,9 +32,11 @@
     ]
   },
   "license": "MIT",
-  "author": {
-    "name": "Jörn Zaefferer",
-    "email": "joern.zaefferer@gmail.com",
-    "url": "http://bassistance.de"
-  }
+  "authors": [
+    {
+      "name": "Jörn Zaefferer",
+      "email": "joern.zaefferer@gmail.com",
+      "url": "http://bassistance.de"
+    }
+  ]
 }

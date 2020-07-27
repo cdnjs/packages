@@ -1,11 +1,6 @@
 {
   "name": "videojs-resolution-switcher",
   "filename": "videojs-resolution-switcher.min.js",
-  "author": {
-    "name": "Kasper Moskwiak",
-    "email": "kasper.moskwiak@gmail.com",
-    "url": "http://kspr.pl"
-  },
   "description": "Resolution switcher for video.js 5",
   "repository": {
     "type": "git",
@@ -34,5 +29,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kasper Moskwiak",
+      "email": "kasper.moskwiak@gmail.com",
+      "url": "http://kspr.pl"
+    }
+  ]
 }

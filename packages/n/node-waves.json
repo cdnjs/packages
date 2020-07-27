@@ -2,7 +2,6 @@
   "name": "node-waves",
   "filename": "waves.min.js",
   "description": "Click effect insipired by Google Material Design",
-  "author": "Alfiana E. Sibuea <alfian.sibuea@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/fians/Waves.git"
@@ -24,5 +23,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alfiana E. Sibuea",
+      "email": "alfian.sibuea@gmail.com"
+    }
+  ]
 }

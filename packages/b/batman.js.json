@@ -17,5 +17,11 @@
     "url": "https://github.com/batmanjs/batman"
   },
   "license": "MIT",
-  "author": "Nick Small <nick@shopify.com> (https://github.com/nickjs)"
+  "authors": [
+    {
+      "name": "Nick Small",
+      "email": "nick@shopify.com",
+      "url": "https://github.com/nickjs"
+    }
+  ]
 }

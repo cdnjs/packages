@@ -1,9 +1,4 @@
 {
-  "author": {
-    "email": "vincent.voyer@gmail.com",
-    "name": "Vincent Voyer",
-    "url": "http://github.com/vvo"
-  },
   "keywords": [
     "lazyload",
     "js",
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "vincent.voyer@gmail.com",
+      "name": "Vincent Voyer",
+      "url": "http://github.com/vvo"
+    }
+  ]
 }

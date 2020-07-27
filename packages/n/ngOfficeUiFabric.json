@@ -4,7 +4,6 @@
   "description": "Angular directives for Microsoft's Office UI Fabric.",
   "homepage": "http://ngOfficeUiFabric.com/",
   "license": "MIT",
-  "author": "Connell, Andrew <me@andrewconnell.com>",
   "keywords": [
     "angular",
     "directives",
@@ -29,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Connell, Andrew",
+      "email": "me@andrewconnell.com"
+    }
+  ]
 }

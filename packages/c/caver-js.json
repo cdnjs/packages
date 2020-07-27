@@ -1,8 +1,4 @@
 {
-  "author": {
-    "name": "Klaytn Team",
-    "url": "https://www.klaytn.com"
-  },
   "description": "caver-js is a JavaScript API library that allows developers to interact with a Klaytn node",
   "filename": "caver.min.js",
   "homepage": "https://github.com/klaytn/caver-js",
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Klaytn Team",
+      "url": "https://www.klaytn.com"
+    }
+  ]
 }

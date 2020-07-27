@@ -14,7 +14,6 @@
     "url": "https://github.com/styled-components/styled-components.git"
   },
   "license": "MIT",
-  "author": "Glen Maddern <@geelen>",
   "autoupdate": {
     "source": "npm",
     "target": "styled-components",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Glen Maddern",
+      "email": "@geelen"
+    }
+  ]
 }

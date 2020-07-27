@@ -27,9 +27,11 @@
       }
     ]
   },
-  "author": {
-    "name": "Jeremy Fry",
-    "email": "jeremy.m.fry@gmail.com",
-    "url": "http://www.jeremyfry.com"
-  }
+  "authors": [
+    {
+      "name": "Jeremy Fry",
+      "email": "jeremy.m.fry@gmail.com",
+      "url": "http://www.jeremyfry.com"
+    }
+  ]
 }

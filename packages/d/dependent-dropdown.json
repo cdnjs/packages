@@ -1,7 +1,6 @@
 {
   "name": "dependent-dropdown",
   "filename": "js/dependent-dropdown.min.js",
-  "author": "Kartik Visweswaran <kartikv2@gmail.com>",
   "homepage": "http://plugins.krajee.com/dependent-dropdown",
   "description": "A multi level dependent dropdown JQuery plugin that allows nested dependencies.",
   "repository": {
@@ -28,5 +27,11 @@
       }
     ]
   },
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Kartik Visweswaran",
+      "email": "kartikv2@gmail.com"
+    }
+  ]
 }

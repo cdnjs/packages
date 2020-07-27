@@ -2,11 +2,6 @@
   "name": "maphilight",
   "filename": "jquery.maphilight.min.js",
   "title": "maphilight",
-  "author": {
-    "name": "David Lynch",
-    "email": "kemayo@gmail.com",
-    "url": "http://davidlynch.org"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/kemayo/maphilight.git"
@@ -33,5 +28,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David Lynch",
+      "email": "kemayo@gmail.com",
+      "url": "http://davidlynch.org"
+    }
+  ]
 }

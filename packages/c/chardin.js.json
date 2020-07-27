@@ -8,11 +8,6 @@
     "instructions",
     "chardin"
   ],
-  "author": {
-    "name": "Pablo Fernandez",
-    "email": "heelhook@littleq.net",
-    "url": "http://heelhook.github.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/heelhook/chardin.js.git"
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Pablo Fernandez",
+      "email": "heelhook@littleq.net",
+      "url": "http://heelhook.github.com"
+    }
+  ]
 }

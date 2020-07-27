@@ -2,7 +2,6 @@
   "name": "react-ace",
   "filename": "react-ace.min.js",
   "description": "A react component for Ace Editor",
-  "author": "James Hrisho",
   "license": "MIT",
   "keywords": [
     "ace",
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "James Hrisho"
+    }
+  ]
 }

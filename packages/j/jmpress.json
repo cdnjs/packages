@@ -4,10 +4,6 @@
   "title": "jQuery.jmpress()",
   "description": "A jQuery plugin to build a website on the infinite canvas.",
   "homepage": "http://jmpressjs.github.com/jmpress.js",
-  "author": {
-    "name": "Kyle Robinson Young @shama & Tobias Koppers @sokra",
-    "url": "https://github.com/jmpressjs"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/jmpressjs/jmpress.js.git"
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kyle Robinson Young @shama & Tobias Koppers @sokra",
+      "url": "https://github.com/jmpressjs"
+    }
+  ]
 }

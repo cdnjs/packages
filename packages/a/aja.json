@@ -3,11 +3,6 @@
   "filename": "aja.min.js",
   "description": "Asynchronous JavaScript And JavaScript/JSON(P) : Ajax without XML",
   "homepage": "http://krampstudio.github.io/aja.js/",
-  "author": {
-    "name": "Bertrand Chevrier",
-    "email": "chevrier.bertrand@gmail.com",
-    "url": "https://github.com/krampstudio/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/krampstudio/aja.js.git"
@@ -33,5 +28,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Bertrand Chevrier",
+      "email": "chevrier.bertrand@gmail.com",
+      "url": "https://github.com/krampstudio/"
+    }
+  ]
 }

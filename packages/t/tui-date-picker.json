@@ -10,10 +10,6 @@
     "date-range-picker",
     "tui-date-picker"
   ],
-  "author": {
-    "name": "NHN. FE Development Lab",
-    "email": "dl_javascript@nhn.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/nhn/tui.date-picker#readme",
   "repository": {
@@ -32,5 +28,11 @@
       }
     ]
   },
-  "filename": "tui-date-picker.min.js"
+  "filename": "tui-date-picker.min.js",
+  "authors": [
+    {
+      "name": "NHN. FE Development Lab",
+      "email": "dl_javascript@nhn.com"
+    }
+  ]
 }

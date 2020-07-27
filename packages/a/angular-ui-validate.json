@@ -2,7 +2,6 @@
   "name": "angular-ui-validate",
   "filename": "validate.min.js",
   "description": "General-purpose validator for ngModel.",
-  "author": "https://github.com/angular-ui/ui-validate/graphs/contributors",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "https://github.com/angular-ui/ui-validate/graphs/contributors"
+    }
+  ]
 }

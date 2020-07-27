@@ -10,11 +10,6 @@
     "react",
     "localstorage"
   ],
-  "author": {
-    "name": "Samuel Reed",
-    "email": "sam@tixelated.com",
-    "url": "http://strml.net/"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +22,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Samuel Reed",
+      "email": "sam@tixelated.com",
+      "url": "http://strml.net/"
+    }
+  ]
 }

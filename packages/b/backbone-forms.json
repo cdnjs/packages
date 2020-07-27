@@ -11,9 +11,6 @@
     "url": "https://github.com/powmedia/backbone-forms"
   },
   "license": "MIT",
-  "author": {
-    "name": "Charles Davison"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "backbone-forms",
@@ -25,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Charles Davison"
+    }
+  ]
 }

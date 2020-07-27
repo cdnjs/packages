@@ -27,13 +27,16 @@
   },
   "authors": [
     {
-      "name": "Shaker Islam <sislam@theonion.com>"
+      "name": "Shaker Islam",
+      "email": "sislam@theonion.com"
     },
     {
-      "name": "Chris Sinchok <csinchok@theonion.com>"
+      "name": "Chris Sinchok",
+      "email": "csinchok@theonion.com"
     },
     {
-      "name": "Sean Bloomfield <sbloomfield@theonion.com>"
+      "name": "Sean Bloomfield",
+      "email": "sbloomfield@theonion.com"
     }
   ]
 }

@@ -24,5 +24,9 @@
     ]
   },
   "description": "A powerful and easy to use charting library for Ember.js.",
-  "author": "Addepar"
+  "authors": [
+    {
+      "name": "Addepar"
+    }
+  ]
 }

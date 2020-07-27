@@ -15,7 +15,6 @@
     "url": "https://github.com/ademilter/bricklayer"
   },
   "license": "MIT",
-  "author": "Adem İlter <ademilter@gmail.com>, Fatih Kadir Akın <fatihkadirakin@gmail.com>",
   "autoupdate": {
     "source": "npm",
     "target": "bricklayer",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Adem İlter <ademilter@gmail.com>, Fatih Kadir Akın",
+      "email": "fatihkadirakin@gmail.com"
+    }
+  ]
 }

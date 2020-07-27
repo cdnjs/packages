@@ -3,10 +3,6 @@
   "title": "jquery.businessHours",
   "filename": "jquery.businessHours.min.js",
   "homepage": "http://gendelf.github.io/jquery.businessHours/",
-  "author": {
-    "name": "Alex Padalka",
-    "web": "https://github.com/gEndelf"
-  },
   "license": "APACHE",
   "repository": {
     "type": "git",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alex Padalka",
+      "url": "https://github.com/gEndelf"
+    }
+  ]
 }

@@ -1,6 +1,5 @@
 {
   "name": "sanitize.css",
-  "author": "Zlatan Vasović",
   "description": "Minimal CSS normalization library",
   "keywords": [
     "css",
@@ -12,5 +11,10 @@
     "url": "https://github.com/ZDroid/sanitize.css"
   },
   "filename": "sanitize.min.css",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zlatan Vasović"
+    }
+  ]
 }

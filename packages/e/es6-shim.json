@@ -1,6 +1,5 @@
 {
   "name": "es6-shim",
-  "author": "Paul Miller (http://paulmillr.com)",
   "filename": "es6-shim.min.js",
   "description": "ECMAScript 6 (Harmony) compatibility shims for legacy JavaScript engines",
   "keywords": [
@@ -34,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Paul Miller",
+      "url": "http://paulmillr.com"
+    }
+  ]
 }

@@ -8,10 +8,6 @@
     "url": "git+https://github.com/fengyuanchen/distpicker.git"
   },
   "homepage": "https://fengyuanchen.github.io/distpicker",
-  "author": {
-    "name": "Fengyuan Chen",
-    "url": "http://chenfengyuan.com"
-  },
   "keywords": [
     "中国",
     "省份",
@@ -50,5 +46,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Fengyuan Chen",
+      "url": "http://chenfengyuan.com"
+    }
+  ]
 }

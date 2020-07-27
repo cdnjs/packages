@@ -2,10 +2,6 @@
   "name": "jquery-simulate",
   "description": "jQuery plugin for simulating browser mouse and keyboard events",
   "filename": "jquery.simulate.min.js",
-  "author": {
-    "name": "jQuery Foundation and other contributors",
-    "url": "https://github.com/jquery/jquery-simulate/blob/master/AUTHORS.txt"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/jquery/jquery-simulate.git"
@@ -29,5 +25,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "jQuery Foundation and other contributors",
+      "url": "https://github.com/jquery/jquery-simulate/blob/master/AUTHORS.txt"
+    }
+  ]
 }

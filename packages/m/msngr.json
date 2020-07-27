@@ -17,10 +17,6 @@
   },
   "license": "MIT",
   "homepage": "http://www.msngrjs.com/",
-  "author": {
-    "name": "Kris Siegel",
-    "url": "http://www.KrisSiegel.com/"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/KrisSiegel/msngr.js.git",
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kris Siegel",
+      "url": "http://www.KrisSiegel.com/"
+    }
+  ]
 }

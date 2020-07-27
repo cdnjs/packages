@@ -1,5 +1,4 @@
 {
-  "author": "imgix",
   "description": "Easily add \"zoom on hover\" functionality to your site's images. Lightweight, no-dependency JavaScript.",
   "filename": "Drift.min.js",
   "keywords": [
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "imgix"
+    }
+  ]
 }

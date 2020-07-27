@@ -3,7 +3,6 @@
   "title": "vue-multiselect",
   "license": "MIT",
   "homepage": "https://shentao.github.io/vue-multiselect/",
-  "author": "Damian Dulisz <damian.dulisz@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shentao/vue-multiselect.git"
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Damian Dulisz",
+      "email": "damian.dulisz@gmail.com"
+    }
+  ]
 }

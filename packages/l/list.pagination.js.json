@@ -28,5 +28,10 @@
     "type": "git",
     "url": "git://github.com/javve/list.pagination.js.git"
   },
-  "author": "Jonny Strömberg <jonny.stromberg@gmail.com>"
+  "authors": [
+    {
+      "name": "Jonny Strömberg",
+      "email": "jonny.stromberg@gmail.com"
+    }
+  ]
 }

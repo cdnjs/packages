@@ -10,10 +10,6 @@
     "angular",
     "slider"
   ],
-  "author": {
-    "name": "Rafal Zajac",
-    "email": "rzajac@gmail.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -26,5 +22,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rafal Zajac",
+      "email": "rzajac@gmail.com"
+    }
+  ]
 }

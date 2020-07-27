@@ -10,10 +10,6 @@
     "type": "git",
     "url": "https://github.com/rveciana/d3-composite-projections.git"
   },
-  "author": {
-    "name": "Roger Veciana i Rovira",
-    "url": "http://www.geoexamples.com"
-  },
   "license": "BSD-3-Clause",
   "homepage": "http://www.geoexamples.com/d3-composite-projections",
   "autoupdate": {
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Roger Veciana i Rovira",
+      "url": "http://www.geoexamples.com"
+    }
+  ]
 }

@@ -12,7 +12,6 @@
     "promise",
     "wrapper"
   ],
-  "author": "Ben Drucker <bvdrucker@gmail.com> (http://www.bendrucker.me)",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -25,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ben Drucker",
+      "email": "bvdrucker@gmail.com",
+      "url": "http://www.bendrucker.me"
+    }
+  ]
 }

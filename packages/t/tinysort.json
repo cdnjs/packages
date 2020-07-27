@@ -13,7 +13,6 @@
     "dom",
     "html"
   ],
-  "author": "Ron Valstar (http://www.sjeiti.com/)",
   "license": "MIT/GPL",
   "autoupdate": {
     "source": "git",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ron Valstar",
+      "url": "http://www.sjeiti.com/"
+    }
+  ]
 }

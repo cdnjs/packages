@@ -3,11 +3,6 @@
   "filename": "eventmaster.min.js",
   "description": "A simple, compact and consistent implementation that provides both Promise/Deferred/Flow pattern and Event/Notify/Observer/PubSub pattern",
   "homepage": "http://ozjs.org/EventMaster/",
-  "author": {
-    "name": "dexteryy",
-    "email": "dexter.yy@gmail.com",
-    "url": "https://github.com/dexteryy"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/dexteryy/EventMaster.git"
@@ -17,5 +12,12 @@
     "oz",
     "ozjs"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dexteryy",
+      "email": "dexter.yy@gmail.com",
+      "url": "https://github.com/dexteryy"
+    }
+  ]
 }

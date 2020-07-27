@@ -4,11 +4,6 @@
   "keywords": [
     "aurelia"
   ],
-  "author": {
-    "name": "Rob Eisenberg",
-    "email": "rob@bluespire.com",
-    "url": "http://robeisenberg.com/"
-  },
   "license": "MIT",
   "homepage": "http://aurelia.io",
   "repository": {
@@ -27,5 +22,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rob Eisenberg",
+      "email": "rob@bluespire.com",
+      "url": "http://robeisenberg.com/"
+    }
+  ]
 }

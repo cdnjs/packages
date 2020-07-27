@@ -20,10 +20,14 @@
     "url": "https://github.com/23/resumable.js"
   },
   "license": "MIT",
-  "author": "https://github.com/23/resumable.js/graphs/contributors",
   "keywords": [
     "html5",
     "file",
     "upload"
+  ],
+  "authors": [
+    {
+      "name": "https://github.com/23/resumable.js/graphs/contributors"
+    }
   ]
 }

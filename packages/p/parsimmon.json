@@ -1,5 +1,4 @@
 {
-  "author": "Jeanine Adkisson",
   "description": "A monadic LL(infinity) parser combinator library",
   "filename": "parsimmon.umd.min.js",
   "keywords": [
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeanine Adkisson"
+    }
+  ]
 }

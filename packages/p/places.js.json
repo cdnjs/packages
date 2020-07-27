@@ -2,7 +2,6 @@
   "name": "places.js",
   "filename": "places.min.js",
   "description": "🌐 The easiest way to add fast geo search to your website.",
-  "author": "Algolia (https://www.algolia.com)",
   "homepage": "https://community.algolia.com/places",
   "repository": {
     "type": "git",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Algolia",
+      "url": "https://www.algolia.com"
+    }
+  ]
 }

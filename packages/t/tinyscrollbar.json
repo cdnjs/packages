@@ -1,8 +1,4 @@
 {
-  "author": {
-    "email": "wieringen@gmail.com",
-    "name": "Maarten Baijs"
-  },
   "description": "A lightweight cross browser jQuery based scrollbar.",
   "homepage": "http://www.baijs.com/tinyscrollbar",
   "keywords": [
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "wieringen@gmail.com",
+      "name": "Maarten Baijs"
+    }
+  ]
 }

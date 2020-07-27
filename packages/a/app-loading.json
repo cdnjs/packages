@@ -7,7 +7,6 @@
     "progress",
     "loading"
   ],
-  "author": "AprilOrange <aprilorange.net@icloud.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "AprilOrange",
+      "email": "aprilorange.net@icloud.com"
+    }
+  ]
 }

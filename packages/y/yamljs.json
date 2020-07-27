@@ -8,7 +8,6 @@
     "yaml2json",
     "json2yaml"
   ],
-  "author": "Jeremy Faivre <contact@jeremyfa.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeremy Faivre",
+      "email": "contact@jeremyfa.com"
+    }
+  ]
 }

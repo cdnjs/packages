@@ -6,7 +6,6 @@
     "pusher",
     "socket.io"
   ],
-  "author": "Taylor Otwell",
   "license": "MIT",
   "homepage": "https://github.com/laravel/echo",
   "repository": {
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Taylor Otwell"
+    }
+  ]
 }

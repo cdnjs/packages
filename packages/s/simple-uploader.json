@@ -11,7 +11,6 @@
     "type": "git",
     "url": "https://github.com/mycolorway/simple-uploader.git"
   },
-  "author": "farthinker",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "farthinker"
+    }
+  ]
 }

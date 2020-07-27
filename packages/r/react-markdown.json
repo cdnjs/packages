@@ -7,7 +7,6 @@
     "type": "git",
     "url": "git+https://github.com/rexxars/react-markdown.git"
   },
-  "author": "Espen Hovlandsdal <rexxars@gmail.com> (https://espen.codes/)",
   "license": "MIT",
   "keywords": [
     "commonmark",
@@ -26,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Espen Hovlandsdal",
+      "email": "rexxars@gmail.com",
+      "url": "https://espen.codes/"
+    }
+  ]
 }

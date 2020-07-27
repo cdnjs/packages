@@ -6,7 +6,6 @@
     "type": "git",
     "url": "https://github.com/colourgarden/avalanche.git"
   },
-  "author": "Tom Hare <tom@hare.me>",
   "license": "MIT",
   "keywords": [
     "css",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tom Hare",
+      "email": "tom@hare.me"
+    }
+  ]
 }

@@ -8,10 +8,6 @@
     "ThemeRoller",
     "multiple select"
   ],
-  "author": {
-    "name": "Eric Hynds",
-    "url": "https://github.com/ehynds"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ehynds/jquery-ui-multiselect-widget"
@@ -34,5 +30,11 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Eric Hynds",
+      "url": "https://github.com/ehynds"
+    }
+  ],
   "license": "(MIT OR GPL-2.0)"
 }

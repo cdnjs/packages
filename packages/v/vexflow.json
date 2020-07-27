@@ -6,11 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/0xfe/vexflow.git"
   },
-  "author": {
-    "name": "Mohit Muthanna Cheppudira",
-    "email": "mohit@muthanna.com",
-    "url": "https://muthanna.com"
-  },
   "license": "MIT",
   "homepage": "http://vexflow.com",
   "keywords": [
@@ -36,5 +31,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mohit Muthanna Cheppudira",
+      "email": "mohit@muthanna.com",
+      "url": "https://muthanna.com"
+    }
+  ]
 }

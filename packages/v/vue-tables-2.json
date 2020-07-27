@@ -13,7 +13,6 @@
     "table",
     "grid"
   ],
-  "author": "Matanya Fishaimer <matfish2@gmail.com>",
   "license": "GPL-3.0-only",
   "autoupdate": {
     "source": "git",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Matanya Fishaimer",
+      "email": "matfish2@gmail.com"
+    }
+  ]
 }

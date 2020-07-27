@@ -9,11 +9,6 @@
     "reusable",
     "chart"
   ],
-  "author": {
-    "name": "Mariano Carballal",
-    "email": "marianocarballal@gmail.com",
-    "url": "https://github.com/topicus"
-  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/NuCivic/react-nvd3.git"
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mariano Carballal",
+      "email": "marianocarballal@gmail.com",
+      "url": "https://github.com/topicus"
+    }
+  ]
 }

@@ -10,7 +10,6 @@
   ],
   "homepage": "https://thdoan.github.io/magnify/",
   "license": "MIT",
-  "author": "T. H. Doan <thdoan@gmail.com> (http://www.tohodo.com/)",
   "filename": "js/jquery.magnify.min.js",
   "repository": {
     "type": "git",
@@ -34,5 +33,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "T. H. Doan",
+      "email": "thdoan@gmail.com",
+      "url": "http://www.tohodo.com/"
+    }
+  ]
 }

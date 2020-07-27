@@ -11,11 +11,6 @@
     "input",
     "responsive"
   ],
-  "author": {
-    "name": "Amsul",
-    "email": "reach@amsul.ca",
-    "url": "http://amsul.ca"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/amsul/pickadate.js.git"
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Amsul",
+      "email": "reach@amsul.ca",
+      "url": "http://amsul.ca"
+    }
+  ]
 }

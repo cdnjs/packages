@@ -14,7 +14,6 @@
     "url": "https://github.com/shobhitsharma/embedo.git"
   },
   "homepage": "https://shobhitsharma.github.io/embedo/",
-  "author": "Shobhit Sharma <hi@shobh.it>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/shobhitsharma/embedo.git",
@@ -27,5 +26,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Shobhit Sharma",
+      "email": "hi@shobh.it"
+    }
+  ]
 }

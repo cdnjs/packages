@@ -12,6 +12,10 @@
     "knockout-bootstrap",
     "bindings"
   ],
-  "author": "Bill Pullen",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bill Pullen"
+    }
+  ]
 }

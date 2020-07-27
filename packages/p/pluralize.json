@@ -14,11 +14,6 @@
     "singularize",
     "inflection"
   ],
-  "author": {
-    "name": "Blake Embrey",
-    "email": "hello@blakeembrey.com",
-    "url": "http://blakeembrey.me"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Blake Embrey",
+      "email": "hello@blakeembrey.com",
+      "url": "http://blakeembrey.me"
+    }
+  ]
 }

@@ -13,7 +13,6 @@
     "tunajs",
     "tuna.js"
   ],
-  "author": "Oskar Eriksson",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Oskar Eriksson"
+    }
+  ]
 }

@@ -1,5 +1,4 @@
 {
-  "author": "Fred Heusschen <info@frebsite.nl>",
   "description": "The best javascript plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.",
   "filename": "mmenu.js",
   "keywords": [
@@ -34,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Fred Heusschen",
+      "email": "info@frebsite.nl"
+    }
+  ]
 }

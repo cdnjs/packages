@@ -12,7 +12,6 @@
     "tree",
     "list"
   ],
-  "author": "fer <fer@ferqwerty.com>",
   "license": "MIT",
   "homepage": "https://fer.github.io/ion-tree-list/",
   "autoupdate": {
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "fer",
+      "email": "fer@ferqwerty.com"
+    }
+  ]
 }

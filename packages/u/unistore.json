@@ -11,7 +11,6 @@
     "subscription",
     "architecture"
   ],
-  "author": "Jason Miller <jason@developit.ca>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -34,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Miller",
+      "email": "jason@developit.ca"
+    }
+  ]
 }

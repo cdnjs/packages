@@ -1,5 +1,4 @@
 {
-  "author": "Spike Brehm (https://github.com/spikebrehm)",
   "description": "Give your JavaScript the ability to speak many languages.",
   "filename": "index.js",
   "homepage": "https://github.com/airbnb/polyglot.js",
@@ -29,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Spike Brehm",
+      "url": "https://github.com/spikebrehm"
+    }
+  ]
 }

@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/protonet/jquery.inview.git"
   },
-  "author": "Christopher Blum <christopher.blum@spellboy.com>",
   "keywords": [
     "jquery",
     "inview"
@@ -23,5 +22,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Christopher Blum",
+      "email": "christopher.blum@spellboy.com"
+    }
+  ]
 }

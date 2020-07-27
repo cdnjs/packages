@@ -2,7 +2,6 @@
   "name": "shoelace-css",
   "description": "A back to the basics CSS starter kit.",
   "filename": "shoelace.css",
-  "author": "Cory LaViska",
   "homepage": "https://shoelace.style/",
   "license": "MIT",
   "repository": {
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Cory LaViska"
+    }
+  ]
 }

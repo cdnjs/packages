@@ -9,10 +9,14 @@
   },
   "authors": [
     {
-      "name": "Ricardo Tomasi @ricardobeat <ricardobeat@gmail.com> (https://github.com/ricardobeat)"
+      "name": "Ricardo Tomasi @ricardobeat",
+      "email": "ricardobeat@gmail.com",
+      "url": "https://github.com/ricardobeat"
     },
     {
-      "name": "Jean Carlo Emer @jcemer <jeancarloemer@gmail.com> (https://github.com/jcemer)"
+      "name": "Jean Carlo Emer @jcemer",
+      "email": "jeancarloemer@gmail.com",
+      "url": "https://github.com/jcemer"
     }
   ],
   "keywords": [

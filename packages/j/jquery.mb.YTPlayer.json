@@ -11,11 +11,6 @@
     "player",
     "custom"
   ],
-  "author": {
-    "name": "Pupunzi (Matteo Bicocchi)",
-    "email": "matteo@open-lab.com",
-    "url": "http://pupunzi.com"
-  },
   "homepage": "http://pupunzi.open-lab.com/mb-jquery-components/jquery-mb-ytplayer/",
   "autoupdate": {
     "source": "git",
@@ -33,5 +28,12 @@
     "type": "git",
     "url": "git://github.com/pupunzi/jquery.mb.YTPlayer.git"
   },
+  "authors": [
+    {
+      "name": "Pupunzi (Matteo Bicocchi)",
+      "email": "matteo@open-lab.com",
+      "url": "http://pupunzi.com"
+    }
+  ],
   "license": "(MIT OR GPL-2.0)"
 }

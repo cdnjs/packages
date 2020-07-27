@@ -2,7 +2,6 @@
   "name": "eModal",
   "filename": "eModal.min.js",
   "description": "Easy Modal for bootstrap, is a simple way to create modal dialogs using javaScript.",
-  "author": "Samuel Ribeiro Pinto <samuel@maispc.com>",
   "keywords": [
     "bootstrap",
     "modal",
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Samuel Ribeiro Pinto",
+      "email": "samuel@maispc.com"
+    }
+  ]
 }

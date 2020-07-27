@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/mobxjs/mobx.git"
   },
-  "author": "Michel Weststrate",
   "license": "MIT",
   "homepage": "https://mobxjs.github.io/mobx",
   "keywords": [
@@ -34,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Michel Weststrate"
+    }
+  ]
 }

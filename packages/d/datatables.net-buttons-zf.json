@@ -13,10 +13,6 @@
     "table",
     "Foundation"
   ],
-  "author": {
-    "name": "SpryMedia Ltd",
-    "url": "http://datatables.net"
-  },
   "license": "MIT",
   "homepage": "https://datatables.net",
   "repository": {
@@ -41,5 +37,11 @@
       }
     ]
   },
-  "filename": "buttons.foundation.min.js"
+  "filename": "buttons.foundation.min.js",
+  "authors": [
+    {
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
+    }
+  ]
 }

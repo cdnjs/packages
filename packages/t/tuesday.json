@@ -1,10 +1,6 @@
 {
   "name": "tuesday",
   "filename": "tuesday.min.css",
-  "author": {
-    "name": "Shakr Media Co., Ltd.",
-    "url": "http://www.shakr.com"
-  },
   "description": "A quirky CSS Animation Library by Shakr.",
   "keywords": [
     "tuesday",
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Shakr Media Co., Ltd.",
+      "url": "http://www.shakr.com"
+    }
+  ]
 }

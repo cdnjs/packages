@@ -3,10 +3,6 @@
   "filename": "crafty-min.js",
   "homepage": "http://craftyjs.com/",
   "title": "Crafty game framework",
-  "author": {
-    "name": "Louis Stowasser",
-    "url": "http://craftyjs.com/"
-  },
   "license": "(MIT OR GPL)",
   "description": "Crafty is a modern component and event based framework for javascript games that targets DOM and canvas.",
   "keywords": [
@@ -28,5 +24,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/craftyjs/Crafty.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Louis Stowasser",
+      "url": "http://craftyjs.com/"
+    }
+  ]
 }

@@ -12,7 +12,6 @@
     "approve"
   ],
   "homepage": "http://charlgottschalk.co.za/projects/approvejs",
-  "author": "Charl Gottschalk (http://charlgottschalk.co.za)",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Charl Gottschalk",
+      "url": "http://charlgottschalk.co.za"
+    }
+  ]
 }

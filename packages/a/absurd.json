@@ -12,11 +12,6 @@
     "url": "https://github.com/krasimir/absurd.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Krasimir Tsonev",
-    "email": "info@krasimirtsonev.com",
-    "url": "http://krasimirtsonev.com"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "absurd",
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Krasimir Tsonev",
+      "email": "info@krasimirtsonev.com",
+      "url": "http://krasimirtsonev.com"
+    }
+  ]
 }

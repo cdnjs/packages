@@ -30,5 +30,10 @@
       }
     ]
   },
-  "author": "prrashi <prashanth.pamidi@gmail.com>"
+  "authors": [
+    {
+      "name": "prrashi",
+      "email": "prashanth.pamidi@gmail.com"
+    }
+  ]
 }

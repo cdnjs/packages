@@ -27,13 +27,16 @@
   },
   "authors": [
     {
-      "name": "Max Lynch <max@drifty.com>"
+      "name": "Max Lynch",
+      "email": "max@drifty.com"
     },
     {
-      "name": "Adam Bradley <adam@drifty.com>"
+      "name": "Adam Bradley",
+      "email": "adam@drifty.com"
     },
     {
-      "name": "Ben Sperry <ben@drifty.com>"
+      "name": "Ben Sperry",
+      "email": "ben@drifty.com"
     }
   ]
 }

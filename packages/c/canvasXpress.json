@@ -3,7 +3,6 @@
   "filename": "canvasXpress.min.js",
   "description": "A package to create visualizations in CanvasXpress",
   "homepage": "http://canvasxpress.org/html/index.html",
-  "author": "Isaac Neuhaus <imnphd@gmail.com>",
   "keywords": [
     "canvas",
     "visualization",
@@ -31,5 +30,11 @@
       }
     ]
   },
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Isaac Neuhaus",
+      "email": "imnphd@gmail.com"
+    }
+  ]
 }

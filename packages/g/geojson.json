@@ -6,7 +6,6 @@
     "geojson",
     "geojson.js"
   ],
-  "author": "Casey Cesari",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -23,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Casey Cesari"
+    }
+  ]
 }

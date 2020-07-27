@@ -24,7 +24,6 @@
     "type": "git",
     "url": "git://github.com/keicheng/kule.lazy.git"
   },
-  "author": "Kei Cheng",
   "license": "MIT",
   "homepage": "http://www.kule.tw",
   "autoupdate": {
@@ -38,5 +37,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kei Cheng"
+    }
+  ]
 }

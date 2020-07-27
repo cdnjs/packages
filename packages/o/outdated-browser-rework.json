@@ -1,5 +1,4 @@
 {
-  "author": "Mike MacCana",
   "description": "Detects outdated browsers and asks users to upgrade to a new version. Handles mobile devices!",
   "filename": "outdated-browser-rework.min.js",
   "keywords": [
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mike MacCana"
+    }
+  ]
 }

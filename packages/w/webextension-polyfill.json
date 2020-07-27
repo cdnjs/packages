@@ -2,7 +2,6 @@
   "name": "webextension-polyfill",
   "description": "A lightweight polyfill library for Promise-based WebExtension APIs in Chrome.",
   "keywords": [],
-  "author": "Mozilla",
   "license": "MPL-2.0",
   "homepage": "https://github.com/mozilla/webextension-polyfill",
   "repository": {
@@ -21,5 +20,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mozilla"
+    }
+  ]
 }

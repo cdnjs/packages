@@ -14,7 +14,6 @@
     "type": "git",
     "url": "http://github.com/userpixel/micromustache.git"
   },
-  "author": "Alex Ewerlöf",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alex Ewerlöf"
+    }
+  ]
 }

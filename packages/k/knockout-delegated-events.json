@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git://github.com/rniemeyer/knockout-delegatedEvents.git"
   },
-  "author": "Ryan Niemeyer <rniemeyer@gmail.com> (http://knockmeout.net)",
   "license": "MIT",
   "keywords": [
     "event",
@@ -25,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ryan Niemeyer",
+      "email": "rniemeyer@gmail.com",
+      "url": "http://knockmeout.net"
+    }
+  ]
 }

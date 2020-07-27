@@ -9,10 +9,6 @@
     "attachement",
     "facebook"
   ],
-  "author": {
-    "name": "Stephan Fischer",
-    "url": "https://github.com/stephan-fischer"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/stephan-fischer/jQuery-LiveUrl.git",
@@ -29,5 +25,11 @@
     "type": "git",
     "url": "git://github.com/stephan-fischer/jQuery-LiveUrl.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stephan Fischer",
+      "url": "https://github.com/stephan-fischer"
+    }
+  ]
 }

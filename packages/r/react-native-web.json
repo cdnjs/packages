@@ -7,9 +7,6 @@
     "react-native",
     "web"
   ],
-  "author": {
-    "name": "Nicolas Gallagher"
-  },
   "license": "MIT",
   "homepage": "https://github.com/necolas/react-native-web#readme",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nicolas Gallagher"
+    }
+  ]
 }

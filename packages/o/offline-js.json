@@ -3,10 +3,12 @@
   "description": "Automatically detect when a browser is offline",
   "authors": [
     {
-      "name": "Adam Schwartz <adam.flynn.schwartz@gmail.com>"
+      "name": "Adam Schwartz",
+      "email": "adam.flynn.schwartz@gmail.com"
     },
     {
-      "name": "Zack Bloom <zackbloom@gmail.com>"
+      "name": "Zack Bloom",
+      "email": "zackbloom@gmail.com"
     }
   ],
   "repository": {

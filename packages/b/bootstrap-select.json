@@ -4,10 +4,6 @@
   "filename": "js/bootstrap-select.min.js",
   "description": "Bootstrap-select is a jQuery plugin that overhauls select elements to improve their appearance and expand their functionality.",
   "homepage": "https://developer.snapappointments.com/bootstrap-select",
-  "author": {
-    "name": "Casey Holzer",
-    "url": "https://github.com/caseyjhol"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/snapappointments/bootstrap-select.git"
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Casey Holzer",
+      "url": "https://github.com/caseyjhol"
+    }
+  ]
 }

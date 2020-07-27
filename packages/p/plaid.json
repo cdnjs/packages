@@ -5,7 +5,6 @@
     "plaid",
     "plaid.com"
   ],
-  "author": "Plaid",
   "license": "MIT",
   "homepage": "https://github.com/plaid/plaid-node#readme",
   "repository": {
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Plaid"
+    }
+  ]
 }

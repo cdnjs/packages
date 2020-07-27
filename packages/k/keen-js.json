@@ -5,37 +5,48 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Dustin Larimer <dustin@keen.io>"
+      "name": "Dustin Larimer",
+      "email": "dustin@keen.io"
     },
     {
-      "name": "André Luis Leal Cardoso Junior <andrehjr@gmail.com>"
+      "name": "André Luis Leal Cardoso Junior",
+      "email": "andrehjr@gmail.com"
     },
     {
-      "name": "Sean Dokko <sean@keen.io>"
+      "name": "Sean Dokko",
+      "email": "sean@keen.io"
     },
     {
-      "name": "Jordan Klassen <forivall@gmail.com>"
+      "name": "Jordan Klassen",
+      "email": "forivall@gmail.com"
     },
     {
-      "name": "Josh Dzielak <josh@keen.io>"
+      "name": "Josh Dzielak",
+      "email": "josh@keen.io"
     },
     {
-      "name": "Ryan Spraetz <ryan@keen.io>"
+      "name": "Ryan Spraetz",
+      "email": "ryan@keen.io"
     },
     {
-      "name": "Dan Kador <dan@keen.io>"
+      "name": "Dan Kador",
+      "email": "dan@keen.io"
     },
     {
-      "name": "Cory Watson <github@onemogin.com>"
+      "name": "Cory Watson",
+      "email": "github@onemogin.com"
     },
     {
-      "name": "Joshua Coats <joshua@keen.io>"
+      "name": "Joshua Coats",
+      "email": "joshua@keen.io"
     },
     {
-      "name": "Micah Wolfe <micah@keen.io>"
+      "name": "Micah Wolfe",
+      "email": "micah@keen.io"
     },
     {
-      "name": "Tim Schiller <timothy.schiller@gmail.com>"
+      "name": "Tim Schiller",
+      "email": "timothy.schiller@gmail.com"
     }
   ],
   "keywords": [

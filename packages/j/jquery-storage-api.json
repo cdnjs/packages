@@ -1,10 +1,6 @@
 {
   "name": "jquery-storage-api",
   "filename": "jquery.storageapi.min.js",
-  "author": {
-    "name": "Julien Maurel",
-    "url": "https://github.com/julien-maurel"
-  },
   "license": "MIT",
   "description": "jQuery Storage API is a plugin that simplify access to storages (HTML5) & cookies, add namespace storage functionality and provide compatiblity for old browsers with cookies!",
   "keywords": [
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Julien Maurel",
+      "url": "https://github.com/julien-maurel"
+    }
+  ]
 }

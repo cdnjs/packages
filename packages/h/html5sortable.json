@@ -3,11 +3,6 @@
   "filename": "html5sortable.min.js",
   "license": "MIT",
   "description": "Lightweight jQuery plugin to create sortable lists and grids using native HTML5 drag and drop API.",
-  "author": {
-    "name": "Alexandru Badiu",
-    "email": "andu@ctrlz.ro",
-    "url": "http://alexandrubadiu.ro"
-  },
   "keywords": [
     "jquery",
     "sortable",
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alexandru Badiu",
+      "email": "andu@ctrlz.ro",
+      "url": "http://alexandrubadiu.ro"
+    }
+  ]
 }

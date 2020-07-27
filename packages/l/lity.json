@@ -2,10 +2,6 @@
   "name": "lity",
   "filename": "lity.min.js",
   "description": "Lightweight responsive lightbox.",
-  "author": {
-    "name": "Jan Sorgalla",
-    "url": "http://sorgalla.com"
-  },
   "homepage": "http://sorgalla.com/lity/",
   "repository": {
     "type": "git",
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jan Sorgalla",
+      "url": "http://sorgalla.com"
+    }
+  ]
 }

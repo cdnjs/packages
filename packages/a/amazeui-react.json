@@ -16,7 +16,6 @@
     "react-amazeui",
     "web-components"
   ],
-  "author": "AllMobilize, Inc.",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -29,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "AllMobilize, Inc."
+    }
+  ]
 }

@@ -28,7 +28,9 @@
     ]
   },
   "license": "MIT",
-  "author": {
-    "name": "Jonathan Peterson"
-  }
+  "authors": [
+    {
+      "name": "Jonathan Peterson"
+    }
+  ]
 }

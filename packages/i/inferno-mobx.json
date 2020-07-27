@@ -3,10 +3,6 @@
   "license": "MIT",
   "filename": "inferno-mobx.min.js",
   "description": "Official Inferno bindings for Mobx",
-  "author": {
-    "name": "Ryan Megidov",
-    "email": "ryan@megidov.com"
-  },
   "homepage": "https://infernojs.org/",
   "keywords": [
     "babel",
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ryan Megidov",
+      "email": "ryan@megidov.com"
+    }
+  ]
 }

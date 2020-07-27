@@ -4,7 +4,6 @@
   "license": "MIT",
   "homepage": "https://skeleton-framework.github.io",
   "description": "A simple responsive framework for mobile friendly development.",
-  "author": "Skeleton Framework",
   "repository": {
     "type": "git",
     "url": "https://github.com/skeleton-framework/skeleton-framework.git"
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Skeleton Framework"
+    }
+  ]
 }

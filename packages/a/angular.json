@@ -10,9 +10,6 @@
     "web-framework",
     "web-performance"
   ],
-  "author": {
-    "name": "Angular"
-  },
   "license": "MIT",
   "homepage": "https://github.com/angular/angular#readme",
   "repository": {
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Angular"
+    }
+  ]
 }

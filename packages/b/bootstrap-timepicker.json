@@ -4,10 +4,6 @@
   "description": "Timepicker widget for Twitter Bootstrap",
   "license": "MIT",
   "homepage": "https://jdewit.github.io/bootstrap-timepicker/",
-  "author": {
-    "name": "Joris de Wit",
-    "email": "joris.w.dewit@gmail.com"
-  },
   "keywords": [
     "widget",
     "timepicker",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Joris de Wit",
+      "email": "joris.w.dewit@gmail.com"
+    }
+  ]
 }

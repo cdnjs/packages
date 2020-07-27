@@ -17,9 +17,6 @@
     "url": "https://github.com/ractivejs/ractive.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Rich Harris"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "ractive",
@@ -32,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rich Harris"
+    }
+  ]
 }

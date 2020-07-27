@@ -12,7 +12,6 @@
     "tree-like",
     "tree-view"
   ],
-  "author": "dabeng <dabeng413@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/dabeng/OrgChart.git"
@@ -41,5 +40,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dabeng",
+      "email": "dabeng413@gmail.com"
+    }
+  ]
 }

@@ -14,7 +14,6 @@
     "html",
     "material"
   ],
-  "author": "Kamil Kisiela <mys.sterowiec@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kamil Kisiela",
+      "email": "mys.sterowiec@gmail.com"
+    }
+  ]
 }

@@ -10,7 +10,6 @@
     "sidebar",
     "simple"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net/)",
   "license": "MIT",
   "filename": "jquery.sidebar.min.js",
   "autoupdate": {
@@ -24,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ionică Bizău",
+      "email": "bizauionica@gmail.com",
+      "url": "http://ionicabizau.net/"
+    }
+  ]
 }

@@ -2,10 +2,6 @@
   "name": "Zebra_datepicker",
   "filename": "zebra_datepicker.min.js",
   "homepage": "https://www.stefangabos.ro/jquery/zebra-datepicker/",
-  "author": {
-    "name": "Stefan Gabos",
-    "email": "contact@stefangabos.ro"
-  },
   "description": "A super-lightweight, highly configurable, cross-browser date picker jQuery plugin",
   "repository": {
     "type": "git",
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stefan Gabos",
+      "email": "contact@stefangabos.ro"
+    }
+  ]
 }

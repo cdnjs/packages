@@ -1,11 +1,6 @@
 {
   "name": "json2html",
   "filename": "json2html.min.js",
-  "author": {
-    "name": "Chad Brown",
-    "email": "info@json2html.com",
-    "url": "http://json2html.com"
-  },
   "description": "json2html - HTML Templating using JSON2HTML",
   "homepage": "http://json2html.com",
   "repository": {
@@ -33,5 +28,12 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Chad Brown",
+      "email": "info@json2html.com",
+      "url": "http://json2html.com"
+    }
+  ]
 }

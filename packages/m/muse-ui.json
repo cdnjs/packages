@@ -8,10 +8,6 @@
     "vue2",
     "vue"
   ],
-  "author": {
-    "name": "myronliu347",
-    "email": "myronliu347@gmail.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/museui/muse-ui#readme",
   "repository": {
@@ -36,5 +32,11 @@
       }
     ]
   },
-  "filename": "muse-ui.common.js"
+  "filename": "muse-ui.common.js",
+  "authors": [
+    {
+      "name": "myronliu347",
+      "email": "myronliu347@gmail.com"
+    }
+  ]
 }

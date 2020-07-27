@@ -13,7 +13,6 @@
     "@media",
     "css"
   ],
-  "author": "Jack <jack@ofspades.com>",
   "license": "CC-BY-SA-4.0",
   "autoupdate": {
     "source": "npm",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jack",
+      "email": "jack@ofspades.com"
+    }
+  ]
 }

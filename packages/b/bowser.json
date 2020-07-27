@@ -2,7 +2,6 @@
   "name": "bowser",
   "filename": "bowser.min.js",
   "description": "Lightweight browser detector",
-  "author": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lancedikson/bowser.git"
@@ -29,5 +28,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dustin Diaz",
+      "email": "dustin@dustindiaz.com",
+      "url": "http://dustindiaz.com"
+    }
+  ]
 }

@@ -3,10 +3,6 @@
   "filename": "rxjs.umd.min.js",
   "title": "Reactive Extensions for JavaScript (RxJS)",
   "description": "Library for composing asynchronous and event-based operations in JavaScript",
-  "author": {
-    "name": "Cloud Programmability Team",
-    "url": "https://github.com/Reactive-Extensions/RxJS/blob/master/authors.txt"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Reactive-Extensions/RxJS.git"
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Cloud Programmability Team",
+      "url": "https://github.com/Reactive-Extensions/RxJS/blob/master/authors.txt"
+    }
+  ]
 }

@@ -3,7 +3,6 @@
   "filename": "mm-foundation.min.js",
   "description": "Angular components for Foundation",
   "homepage": "http://pineconellc.github.io/angular-foundation/",
-  "author": "Pinecone, LLC",
   "keywords": [
     "angular",
     "foundation"
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Pinecone, LLC"
+    }
+  ]
 }

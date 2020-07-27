@@ -14,7 +14,6 @@
     "datepicker",
     "timepicker"
   ],
-  "author": "ankurk91",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "ankurk91"
+    }
+  ]
 }

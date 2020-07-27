@@ -12,7 +12,6 @@
     "acceleration",
     "performance"
   ],
-  "author": "Dolphin Wood <dolphin.w.e@gmail.com>",
   "license": "MIT",
   "homepage": "https://idiotwu.github.io/smooth-scrollbar/",
   "autoupdate": {
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dolphin Wood",
+      "email": "dolphin.w.e@gmail.com"
+    }
+  ]
 }

@@ -12,7 +12,6 @@
     "type": "git",
     "url": "https://github.com/zohararad/audio5js.git"
   },
-  "author": "Zohar Arad <zohar@zohararad.com> (http://zohararad.com)",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Zohar Arad",
+      "email": "zohar@zohararad.com",
+      "url": "http://zohararad.com"
+    }
+  ]
 }

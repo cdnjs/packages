@@ -3,10 +3,6 @@
   "filename": "FlipDiv.min.js",
   "description": "A space efficient 3D menu with CSS transitions.",
   "homepage": "http://kireerik.github.io/FlipDiv/demo/",
-  "author": {
-    "name": "Erik Engi",
-    "email": "kireerike@gmail.com"
-  },
   "keywords": [
     "FlipDiv",
     "menu",
@@ -31,5 +27,11 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/kireerik/FlipDiv"
-  }
+  },
+  "authors": [
+    {
+      "name": "Erik Engi",
+      "email": "kireerike@gmail.com"
+    }
+  ]
 }

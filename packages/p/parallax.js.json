@@ -26,5 +26,11 @@
       }
     ]
   },
-  "author": "Mike Greiling <mike@pixelcog.com> (http://pixelcog.com)"
+  "authors": [
+    {
+      "name": "Mike Greiling",
+      "email": "mike@pixelcog.com",
+      "url": "http://pixelcog.com"
+    }
+  ]
 }

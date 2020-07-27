@@ -23,5 +23,10 @@
     "type": "git",
     "url": "git+https://github.com/theori-io/pwnjs.git"
   },
-  "author": "Brian Pak <brianairb@gmail.com>"
+  "authors": [
+    {
+      "name": "Brian Pak",
+      "email": "brianairb@gmail.com"
+    }
+  ]
 }

@@ -1,5 +1,4 @@
 {
-  "author": "Alexander Early <alexander.early@gmail.com>",
   "description": "Utilities for treating frozen JavaScript objects as persistent immutable collections.",
   "filename": "icepick.min.js",
   "homepage": "https://github.com/aearly/icepick",
@@ -37,5 +36,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alexander Early",
+      "email": "alexander.early@gmail.com"
+    }
+  ]
 }

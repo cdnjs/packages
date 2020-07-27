@@ -7,7 +7,6 @@
     "url": "git://github.com/notwaldorf/emoji-translate.git"
   },
   "license": "MIT",
-  "author": "Monica Dinculescu <noms@google.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/notwaldorf/emoji-translate.git",
@@ -25,5 +24,11 @@
     "emoji",
     "translate"
   ],
-  "homepage": "http://meowni.ca/emoji-translate/"
+  "homepage": "http://meowni.ca/emoji-translate/",
+  "authors": [
+    {
+      "name": "Monica Dinculescu",
+      "email": "noms@google.com"
+    }
+  ]
 }

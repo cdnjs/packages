@@ -10,7 +10,6 @@
     "vue",
     "async"
   ],
-  "author": "Evan You",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -23,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Evan You"
+    }
+  ]
 }

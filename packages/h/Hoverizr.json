@@ -3,11 +3,6 @@
   "filename": "jquery.hoverizr.min.js",
   "description": "An image manipulation and overlay plugin for jQuery",
   "homepage": "http://www.iliasiovis.com/hoverizr",
-  "author": {
-    "name": "Ilias Iovis",
-    "email": "info@iliasiovis.com",
-    "url": "http://www.iliasiovis.com/"
-  },
   "keywords": [
     "hoverizr",
     "hover"
@@ -29,5 +24,12 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/iliasiovis/Hoverizr"
-  }
+  },
+  "authors": [
+    {
+      "name": "Ilias Iovis",
+      "email": "info@iliasiovis.com",
+      "url": "http://www.iliasiovis.com/"
+    }
+  ]
 }

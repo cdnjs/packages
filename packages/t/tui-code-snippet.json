@@ -7,10 +7,6 @@
     "utility",
     "code-snippet"
   ],
-  "author": {
-    "name": "NHN. FE Development Lab",
-    "email": "dl_javascript@nhn.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/nhn/tui.code-snippet#readme",
   "repository": {
@@ -29,5 +25,11 @@
       }
     ]
   },
-  "filename": "tui-code-snippet.js"
+  "filename": "tui-code-snippet.js",
+  "authors": [
+    {
+      "name": "NHN. FE Development Lab",
+      "email": "dl_javascript@nhn.com"
+    }
+  ]
 }

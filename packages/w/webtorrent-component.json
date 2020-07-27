@@ -2,7 +2,6 @@
   "name": "webtorrent-component",
   "filename": "webtorrent-component.min.js",
   "description": "WebTorrent HTML element.",
-  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mikeal Rogers",
+      "email": "mikeal.rogers@gmail.com"
+    }
+  ]
 }

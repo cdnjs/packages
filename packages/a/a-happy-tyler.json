@@ -5,10 +5,6 @@
     "tyler",
     "happy"
   ],
-  "author": {
-    "name": "Tyler Caslin",
-    "email": "tylercaslin47@gmail.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -26,5 +22,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tyler Caslin",
+      "email": "tylercaslin47@gmail.com"
+    }
+  ]
 }

@@ -9,7 +9,6 @@
     "algebra",
     "library"
   ],
-  "author": "Arthur Guiot",
   "license": "MIT",
   "homepage": "https://theorem.js.org",
   "repository": {
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Arthur Guiot"
+    }
+  ]
 }

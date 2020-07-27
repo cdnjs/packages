@@ -8,7 +8,6 @@
     "artDialog",
     "html5"
   ],
-  "author": "aui",
   "repository": {
     "type": "git",
     "url": "https://github.com/aui/artDialog.git"
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "aui"
+    }
+  ]
 }

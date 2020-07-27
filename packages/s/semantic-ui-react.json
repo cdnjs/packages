@@ -11,7 +11,6 @@
     "React"
   ],
   "homepage": "http://react.semantic-ui.com",
-  "author": "Technology Advice <devteam@technologyadvice.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Technology Advice",
+      "email": "devteam@technologyadvice.com"
+    }
+  ]
 }

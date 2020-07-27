@@ -2,10 +2,6 @@
   "name": "oclazyload",
   "description": "Load modules on demand (lazy load) with angularJS",
   "filename": "ocLazyLoad.min.js",
-  "author": {
-    "name": "Olivier Combe",
-    "email": "olivier.combe@gmail.com"
-  },
   "license": "MIT",
   "homepage": "https://oclazyload.readme.io",
   "repository": {
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Olivier Combe",
+      "email": "olivier.combe@gmail.com"
+    }
+  ]
 }

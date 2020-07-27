@@ -6,7 +6,6 @@
     "jQuery",
     "plugins"
   ],
-  "author": "SpryMedia Ltd and contributors",
   "license": "MIT",
   "homepage": "https://datatables.net/plug-ins",
   "repository": {
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "SpryMedia Ltd and contributors"
+    }
+  ]
 }

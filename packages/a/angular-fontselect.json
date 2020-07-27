@@ -2,7 +2,6 @@
   "name": "angular-fontselect",
   "filename": "angular-fontselect.min.js",
   "description": "A fontselect directive for AngularJS",
-  "author": "Jimdo GmbH",
   "keywords": [
     "fonts",
     "directive",
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jimdo GmbH"
+    }
+  ]
 }

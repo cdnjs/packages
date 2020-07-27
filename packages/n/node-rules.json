@@ -14,10 +14,6 @@
     "forward chaining rule engine",
     "inference system"
   ],
-  "author": {
-    "name": "Mithun Satheesh",
-    "email": "mithunsatish@gmail.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/mithunsatheesh/node-rules#readme",
   "repository": {
@@ -36,5 +32,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mithun Satheesh",
+      "email": "mithunsatish@gmail.com"
+    }
+  ]
 }

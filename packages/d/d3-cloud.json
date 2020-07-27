@@ -10,10 +10,6 @@
     "canvas"
   ],
   "homepage": "https://www.jasondavies.com/wordcloud/",
-  "author": {
-    "name": "Jason Davies",
-    "url": "http://www.jasondavies.com/"
-  },
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Davies",
+      "url": "http://www.jasondavies.com/"
+    }
+  ]
 }

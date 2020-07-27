@@ -7,7 +7,6 @@
     "type": "git",
     "url": "https://github.com/neveldo/jQuery-Mapael.git"
   },
-  "author": "Vincent Brouté <contact@vincentbroute.fr> (http://www.vincentbroute.fr/)",
   "license": "MIT",
   "keywords": [
     "jquery",
@@ -31,5 +30,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vincent Brouté",
+      "email": "contact@vincentbroute.fr",
+      "url": "http://www.vincentbroute.fr/"
+    }
+  ]
 }

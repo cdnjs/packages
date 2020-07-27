@@ -14,7 +14,6 @@
     "scale",
     "crop"
   ],
-  "author": "Oliver Moran <oliver.moran@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -37,5 +36,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Oliver Moran",
+      "email": "oliver.moran@gmail.com"
+    }
+  ]
 }

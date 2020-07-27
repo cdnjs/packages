@@ -12,11 +12,6 @@
     "whatsapp",
     "skype"
   ],
-  "author": {
-    "name": "Matteo Manzinello",
-    "email": "matteo@manzinello.dev",
-    "url": "https://matteomanzinello.com"
-  },
   "license": "MIT",
   "homepage": "https://mailgo.js.org",
   "repository": {
@@ -35,5 +30,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Matteo Manzinello",
+      "email": "matteo@manzinello.dev",
+      "url": "https://matteomanzinello.com"
+    }
+  ]
 }

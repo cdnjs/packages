@@ -15,7 +15,6 @@
     "title",
     "notification"
   ],
-  "author": "kenny wang jaywcjlove <398188662@qq.com>",
   "homepage": "https://wangchujiang.com/iNotify/ ",
   "autoupdate": {
     "source": "git",
@@ -41,5 +40,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "kenny wang jaywcjlove",
+      "email": "398188662@qq.com"
+    }
+  ]
 }

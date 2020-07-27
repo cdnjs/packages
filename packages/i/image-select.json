@@ -2,7 +2,6 @@
   "name": "image-select",
   "filename": "ImageSelect.jquery.min.js",
   "description": "Image Select is an extension of Chosen, a jQuery plugin that makes long, unwieldy select boxes much more user-friendly. It provides image support for Single and Multi select HTML tags",
-  "author": "Web Semantics, Inc. <hi@websemantics.ca>",
   "homepage": "https://websemantics.github.io/Image-Select/",
   "keywords": [
     "image",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Web Semantics, Inc.",
+      "email": "hi@websemantics.ca"
+    }
+  ]
 }

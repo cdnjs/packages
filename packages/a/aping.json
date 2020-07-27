@@ -12,7 +12,6 @@
     "api",
     "json"
   ],
-  "author": "Jonathan Hornung <jonathan.hornung@gmail.com>",
   "license": "MIT",
   "homepage": "https://aping.readme.io/",
   "autoupdate": {
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jonathan Hornung",
+      "email": "jonathan.hornung@gmail.com"
+    }
+  ]
 }

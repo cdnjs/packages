@@ -10,10 +10,6 @@
     "table",
     "DataTables"
   ],
-  "author": {
-    "name": "SpryMedia Ltd",
-    "url": "http://datatables.net"
-  },
   "license": "MIT",
   "homepage": "https://datatables.net",
   "repository": {
@@ -32,5 +28,11 @@
       }
     ]
   },
-  "filename": "dataTables.keyTable.min.js"
+  "filename": "dataTables.keyTable.min.js",
+  "authors": [
+    {
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
+    }
+  ]
 }

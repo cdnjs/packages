@@ -18,7 +18,6 @@
     "cli",
     "command"
   ],
-  "author": "Amit Gupta (https://github.com/amitguptagwl)",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -31,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Amit Gupta",
+      "url": "https://github.com/amitguptagwl"
+    }
+  ]
 }

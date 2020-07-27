@@ -17,7 +17,6 @@
     "url": "https://github.com/fancyapps/fancybox"
   },
   "license": "GPL-3.0",
-  "author": "Jānis Skarnelis",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/fancyapps/fancybox.git",
@@ -29,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jānis Skarnelis"
+    }
+  ]
 }

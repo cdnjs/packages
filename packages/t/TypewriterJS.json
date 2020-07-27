@@ -13,7 +13,6 @@
     "url": "git://github.com/tameemsafi/typewriterjs"
   },
   "license": "MIT",
-  "author": "Tameem Safi <@tameemsafi> (https://safi.me.uk/)",
   "autoupdate": {
     "source": "npm",
     "target": "typewriter-effect",
@@ -25,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tameem Safi",
+      "email": "@tameemsafi",
+      "url": "https://safi.me.uk/"
+    }
+  ]
 }

@@ -3,7 +3,6 @@
   "filename": "js/drawer.min.js",
   "description": "Flexible drawer menu using jQuery, iScroll and CSS.",
   "homepage": "http://git.blivesta.com/drawer",
-  "author": "blivesta",
   "keywords": [
     "css",
     "js",
@@ -29,5 +28,10 @@
     "type": "git",
     "url": "git://github.com/blivesta/drawer.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "blivesta"
+    }
+  ]
 }

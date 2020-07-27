@@ -2,10 +2,6 @@
   "name": "barman",
   "filename": "barman.min.js",
   "description": "A small library to brew JavaScript objects.",
-  "author": {
-    "name": "Diego Fernandez",
-    "url": "https://github.com/dfernandez79"
-  },
   "keywords": [
     "traits",
     "oop",
@@ -17,5 +13,11 @@
     "type": "git",
     "url": "git://github.com/dfernandez79/barman.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Diego Fernandez",
+      "url": "https://github.com/dfernandez79"
+    }
+  ]
 }

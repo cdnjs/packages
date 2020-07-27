@@ -2,11 +2,6 @@
   "name": "ng-bs-daterangepicker",
   "filename": "ng-bs-daterangepicker.min.js",
   "description": "AngularJS directive for bootstrap-daterangepicker",
-  "author": {
-    "name": "Luis Farzati",
-    "email": "lfarzati@gmail.com",
-    "url": "http://github.com/luisfarzati"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/luisfarzati/ng-bs-daterangepicker.git"
@@ -39,5 +34,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Luis Farzati",
+      "email": "lfarzati@gmail.com",
+      "url": "http://github.com/luisfarzati"
+    }
+  ]
 }

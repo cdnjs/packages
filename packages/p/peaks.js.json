@@ -7,7 +7,6 @@
     "type": "git",
     "url": "git+https://github.com/bbc/peaks.js.git"
   },
-  "author": "BBC <appadmin@bbc.co.uk> (http://www.bbc.co.uk/opensource/)",
   "license": "LGPL-3.0",
   "keywords": [
     "audio",
@@ -29,5 +28,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "BBC",
+      "email": "appadmin@bbc.co.uk",
+      "url": "http://www.bbc.co.uk/opensource/"
+    }
+  ]
 }

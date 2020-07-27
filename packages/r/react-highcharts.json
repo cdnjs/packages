@@ -1,9 +1,6 @@
 {
   "name": "react-highcharts",
   "description": "React wrapper for highcharts",
-  "author": {
-    "name": "Kirill Cherkashin"
-  },
   "filename": "ReactHighcharts.js",
   "license": "MIT",
   "repository": {
@@ -27,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kirill Cherkashin"
+    }
+  ]
 }

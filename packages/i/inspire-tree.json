@@ -12,10 +12,6 @@
     "javascript-based",
     "tree"
   ],
-  "author": {
-    "name": "Mike Botsko",
-    "url": "https://github.com/viveleroi"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "inspire-tree",
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mike Botsko",
+      "url": "https://github.com/viveleroi"
+    }
+  ]
 }

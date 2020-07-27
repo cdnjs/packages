@@ -5,7 +5,6 @@
     "type": "git",
     "url": "https://github.com/danishkhan/NicEdit.git"
   },
-  "author": "Danish Khan",
   "homepage": "http://nicedit.com/",
   "license": "MIT",
   "filename": "nicEdit.min.js",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Danish Khan"
+    }
+  ]
 }

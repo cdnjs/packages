@@ -17,7 +17,6 @@
     "url": "git@github.com:i-break-codes/logerr.git"
   },
   "license": "MIT",
-  "author": "i-break-codes <vaibhav@browserstack.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/i-break-codes/logerr.git",
@@ -29,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "i-break-codes",
+      "email": "vaibhav@browserstack.com"
+    }
+  ]
 }

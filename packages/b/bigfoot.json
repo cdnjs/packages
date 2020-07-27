@@ -2,7 +2,6 @@
   "name": "bigfoot",
   "filename": "bigfoot.min.js",
   "homepage": "http://www.bigfootjs.com",
-  "author": "Chris Sauve <chris@pxldot.com>",
   "description": "A jQuery plugin for creating exceptional HTML footnotes.",
   "keywords": [
     "jquery",
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris Sauve",
+      "email": "chris@pxldot.com"
+    }
+  ]
 }

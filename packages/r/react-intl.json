@@ -25,5 +25,10 @@
     "type": "git",
     "url": "https://github.com/yahoo/react-intl"
   },
-  "author": "Caridy Patino <caridy@gmail.com>"
+  "authors": [
+    {
+      "name": "Caridy Patino",
+      "email": "caridy@gmail.com"
+    }
+  ]
 }

@@ -2,11 +2,6 @@
   "name": "flex-layout-attribute",
   "filename": "css/flex-layout-attribute.min.css",
   "description": "HTML layout helper based on CSS flexbox specification.",
-  "author": {
-    "name": "Stefan Kovac",
-    "email": "stef@progressivered.com",
-    "web": "http://progressivered.com/"
-  },
   "license": "MIT",
   "homepage": "http://progressivered.com/fla/",
   "repository": {
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stefan Kovac",
+      "email": "stef@progressivered.com",
+      "url": "http://progressivered.com/"
+    }
+  ]
 }

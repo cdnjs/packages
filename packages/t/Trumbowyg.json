@@ -4,11 +4,6 @@
   "description": "A lightweight WYSIWYG editor",
   "filename": "trumbowyg.min.js",
   "homepage": "https://alex-d.github.io/Trumbowyg",
-  "author": {
-    "name": "Alexandre Demode (Alex-D)",
-    "email": "contact@alex-d.fr",
-    "url": "http://alex-d.fr"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Alex-D/Trumbowyg.git"
@@ -31,5 +26,12 @@
     "wysiwyg",
     "javascript",
     "richtext"
+  ],
+  "authors": [
+    {
+      "name": "Alexandre Demode (Alex-D)",
+      "email": "contact@alex-d.fr",
+      "url": "http://alex-d.fr"
+    }
   ]
 }

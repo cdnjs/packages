@@ -11,8 +11,10 @@
     "url": "https://github.com/melonjs/melonJS.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "melonJS",
-    "email": "contact@melonjs.org"
-  }
+  "authors": [
+    {
+      "name": "melonJS",
+      "email": "contact@melonjs.org"
+    }
+  ]
 }

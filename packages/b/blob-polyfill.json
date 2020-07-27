@@ -10,11 +10,6 @@
     "blob",
     "polyfill"
   ],
-  "author": {
-    "name": "Eli Grey",
-    "email": "me@eligrey.com",
-    "url": "http://eligrey.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +22,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Eli Grey",
+      "email": "me@eligrey.com",
+      "url": "http://eligrey.com"
+    }
+  ]
 }

@@ -28,5 +28,10 @@
     "url": "https://github.com/selectize/selectize.js"
   },
   "license": "Apache-2.0",
-  "author": "Brian Reavis <brian@thirdroute.com>"
+  "authors": [
+    {
+      "name": "Brian Reavis",
+      "email": "brian@thirdroute.com"
+    }
+  ]
 }

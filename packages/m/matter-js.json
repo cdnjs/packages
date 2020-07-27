@@ -3,7 +3,6 @@
   "filename": "matter.min.js",
   "license": "MIT",
   "homepage": "http://brm.io/matter-js/",
-  "author": "Liam Brummitt <liam@brm.io> (http://brm.io/)",
   "description": "a 2D rigid body physics engine for the web",
   "repository": {
     "type": "git",
@@ -30,5 +29,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Liam Brummitt",
+      "email": "liam@brm.io",
+      "url": "http://brm.io/"
+    }
+  ]
 }

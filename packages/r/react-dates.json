@@ -2,10 +2,6 @@
   "name": "react-dates",
   "description": "A responsive and accessible date range picker component built with React",
   "keywords": [],
-  "author": {
-    "name": "Maja Wichrowska",
-    "email": "maja.wichrowska@airbnb.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/airbnb/react-dates#readme",
   "repository": {
@@ -24,5 +20,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Maja Wichrowska",
+      "email": "maja.wichrowska@airbnb.com"
+    }
+  ]
 }

@@ -11,10 +11,6 @@
     "virtual dom",
     "hyperscript"
   ],
-  "author": {
-    "name": "Jason Miller",
-    "email": "jason@developit.ca"
-  },
   "license": "Apache-2.0",
   "homepage": "https://github.com/developit/htm",
   "repository": {
@@ -39,5 +35,11 @@
       }
     ]
   },
-  "filename": "htm.js"
+  "filename": "htm.js",
+  "authors": [
+    {
+      "name": "Jason Miller",
+      "email": "jason@developit.ca"
+    }
+  ]
 }

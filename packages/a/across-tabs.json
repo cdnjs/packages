@@ -17,11 +17,6 @@
     "umd",
     "commonjs"
   ],
-  "author": {
-    "name": "Varun Malhotra",
-    "email": "varun2902@gmail.com",
-    "website": "http://varunmalhotra.xyz"
-  },
   "homepage": "http://engineering.wingify.com/across-tabs/introduction.html",
   "license": "MIT",
   "autoupdate": {
@@ -35,5 +30,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Varun Malhotra",
+      "email": "varun2902@gmail.com",
+      "url": "http://varunmalhotra.xyz"
+    }
+  ]
 }

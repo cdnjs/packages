@@ -13,7 +13,6 @@
     "polyfill",
     "external"
   ],
-  "author": "Keyamoon (https://github.com/Keyamoon)",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Keyamoon",
+      "url": "https://github.com/Keyamoon"
+    }
+  ]
 }

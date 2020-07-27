@@ -12,11 +12,6 @@
     "wrapper",
     "data"
   ],
-  "author": {
-    "name": "Jason Dobry",
-    "url": "http://www.pseudobry.com",
-    "email": "jason.dobry@gmail.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -30,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Dobry",
+      "url": "http://www.pseudobry.com",
+      "email": "jason.dobry@gmail.com"
+    }
+  ]
 }

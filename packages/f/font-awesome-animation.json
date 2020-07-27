@@ -1,7 +1,6 @@
 {
   "name": "font-awesome-animation",
   "filename": "font-awesome-animation.min.css",
-  "author": "l-lin",
   "description": "Simple animations using some CSS3 I found on the web. Best used on glyphicons like",
   "repository": {
     "type": "git",
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "l-lin"
+    }
+  ]
 }

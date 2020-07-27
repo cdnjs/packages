@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git://github.com/vladimirhumeniuk/equalizecss.git"
   },
-  "author": "Vladimir Humeniuk",
   "license": "MIT",
   "keywords": [
     "html",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vladimir Humeniuk"
+    }
+  ]
 }

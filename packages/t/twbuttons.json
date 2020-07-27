@@ -16,7 +16,6 @@
     "url": "git://github.com/onokumus/twbuttons.git"
   },
   "homepage": "https://onokumus.github.io/twbuttons/",
-  "author": "Osman Nuri Okumuş <onokumus@gmail.com> (https://github.com/onokumus)",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/onokumus/twbuttons.git",
@@ -28,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Osman Nuri Okumuş",
+      "email": "onokumus@gmail.com",
+      "url": "https://github.com/onokumus"
+    }
+  ]
 }

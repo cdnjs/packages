@@ -9,10 +9,15 @@
     "rest",
     "api-client"
   ],
-  "author": "Gregor Martynus (https://github.com/gr2m)",
   "repository": {
     "type": "git",
     "url": "https://github.com/octokit/rest.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gregor Martynus",
+      "url": "https://github.com/gr2m"
+    }
+  ]
 }

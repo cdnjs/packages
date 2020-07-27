@@ -7,7 +7,6 @@
     "type": "git",
     "url": "https://github.com/devmark/angular-slick-carousel.git"
   },
-  "author": "DevMark",
   "license": "MIT",
   "keywords": [
     "angular",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "DevMark"
+    }
+  ]
 }

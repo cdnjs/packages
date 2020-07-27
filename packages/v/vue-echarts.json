@@ -5,10 +5,6 @@
     "ECharts",
     "Vue.js"
   ],
-  "author": {
-    "name": "Justineo",
-    "url": "justice360@gmail.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/ecomfe/vue-echarts#readme",
   "repository": {
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Justineo",
+      "url": "justice360@gmail.com"
+    }
+  ]
 }

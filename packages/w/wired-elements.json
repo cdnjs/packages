@@ -10,11 +10,6 @@
     "hand drawn",
     "wireframe"
   ],
-  "author": {
-    "name": "Preet Shihn",
-    "email": "preetshihn@gmail.com",
-    "url": "https://twitter.com/preetster"
-  },
   "license": "MIT",
   "homepage": "https://github.com/wiredjs/wired-elements#readme",
   "repository": {
@@ -33,5 +28,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Preet Shihn",
+      "email": "preetshihn@gmail.com",
+      "url": "https://twitter.com/preetster"
+    }
+  ]
 }

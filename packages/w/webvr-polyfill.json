@@ -10,13 +10,16 @@
   },
   "authors": [
     {
-      "name": "Boris Smus <boris@smus.com>"
+      "name": "Boris Smus",
+      "email": "boris@smus.com"
     },
     {
-      "name": "Brandon Jones <tojiro@gmail.com>"
+      "name": "Brandon Jones",
+      "email": "tojiro@gmail.com"
     },
     {
-      "name": "Jordan Santell <jordan@jsantell.com>"
+      "name": "Jordan Santell",
+      "email": "jordan@jsantell.com"
     }
   ],
   "keywords": [

@@ -17,7 +17,6 @@
     "mobile-first",
     "responsive"
   ],
-  "author": "MDBootstrap",
   "license": "MIT",
   "homepage": "https://mdbootstrap.com/docs/standard/",
   "autoupdate": {
@@ -43,5 +42,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "MDBootstrap"
+    }
+  ]
 }

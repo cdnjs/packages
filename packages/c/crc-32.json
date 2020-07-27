@@ -1,6 +1,5 @@
 {
   "name": "crc-32",
-  "author": "sheetjs",
   "description": "Pure-JS CRC-32",
   "keywords": [
     "crc32",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "sheetjs"
+    }
+  ]
 }

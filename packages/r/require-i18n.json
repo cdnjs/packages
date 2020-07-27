@@ -10,7 +10,6 @@
     "type": "git",
     "url": "https://github.com/requirejs/i18n"
   },
-  "author": "jrburke <jrburke@gmail.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/requirejs/i18n.git",
@@ -23,5 +22,11 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "jrburke",
+      "email": "jrburke@gmail.com"
+    }
+  ],
   "license": "(BSD OR MIT)"
 }

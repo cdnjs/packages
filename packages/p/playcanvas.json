@@ -1,5 +1,4 @@
 {
-  "author": "PlayCanvas <support@playcanvas.com>",
   "description": "PlayCanvas WebGL game engine",
   "filename": "playcanvas.min.js",
   "homepage": "https://playcanvas.com",
@@ -32,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "PlayCanvas",
+      "email": "support@playcanvas.com"
+    }
+  ]
 }

@@ -10,11 +10,6 @@
     "glyphs"
   ],
   "homepage": "http://vorillaz.github.io/devicons/",
-  "author": {
-    "name": "Theodore Vorillas",
-    "email": "sayhi@vorillaz.com",
-    "web": "http://twitter.com/vorillas"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/vorillaz/devicons.git"
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Theodore Vorillas",
+      "email": "sayhi@vorillaz.com",
+      "url": "http://twitter.com/vorillas"
+    }
+  ]
 }

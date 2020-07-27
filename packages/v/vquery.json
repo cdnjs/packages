@@ -24,7 +24,6 @@
     "zepto",
     "micro"
   ],
-  "author": "Jason Hicks <jaszhix@gmail.com>",
   "license": "CC-BY-4.0",
   "autoupdate": {
     "source": "git",
@@ -37,5 +36,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Hicks",
+      "email": "jaszhix@gmail.com"
+    }
+  ]
 }

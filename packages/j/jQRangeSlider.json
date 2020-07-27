@@ -33,9 +33,11 @@
     "type": "git",
     "url": "https://github.com/ghusse/jQRangeSlider"
   },
-  "author": {
-    "name": "Guillaume Gautreau",
-    "url": "http://www.ghusse.com",
-    "email": "guillaume+jqrangeslider@ghusse.com"
-  }
+  "authors": [
+    {
+      "name": "Guillaume Gautreau",
+      "url": "http://www.ghusse.com",
+      "email": "guillaume+jqrangeslider@ghusse.com"
+    }
+  ]
 }

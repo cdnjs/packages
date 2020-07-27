@@ -2,7 +2,6 @@
   "name": "angular-pdf-viewer",
   "description": "An AngularJS directive to display PDFs",
   "keywords": [],
-  "author": "Varun Vachhar",
   "license": "MIT",
   "homepage": "https://github.com/winkerVSbecks/angular-pdf-viewer",
   "repository": {
@@ -21,5 +20,10 @@
       }
     ]
   },
-  "filename": "angular-pdf-viewer.min.js"
+  "filename": "angular-pdf-viewer.min.js",
+  "authors": [
+    {
+      "name": "Varun Vachhar"
+    }
+  ]
 }

@@ -27,7 +27,6 @@
     "google",
     "googleplay"
   ],
-  "author": "Vladimir Kharlampidi",
   "license": "MIT",
   "homepage": "https://framework7.io",
   "autoupdate": {
@@ -41,5 +40,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vladimir Kharlampidi"
+    }
+  ]
 }

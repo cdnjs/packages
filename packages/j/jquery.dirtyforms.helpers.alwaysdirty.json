@@ -1,7 +1,6 @@
 {
   "name": "jquery.dirtyforms.helpers.alwaysdirty",
   "filename": "jquery.dirtyforms.helpers.alwaysdirty.min.js",
-  "author": "Mal Curtis <mal@mal.co.nz>",
   "description": "Dirty Forms is a jQuery plugin to help prevent users from losing data when editing forms.",
   "keywords": [
     "dirty",
@@ -31,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mal Curtis",
+      "email": "mal@mal.co.nz"
+    }
+  ]
 }

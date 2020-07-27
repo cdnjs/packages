@@ -1,7 +1,6 @@
 {
   "name": "lazyad-loader",
   "description": "Deliver synchronous ads asynchronously with RWD support without modifying the ad code.",
-  "author": "James Wragg <james.wragg@madgex.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/madgex/lazy-ads.git"
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "James Wragg",
+      "email": "james.wragg@madgex.com"
+    }
+  ]
 }

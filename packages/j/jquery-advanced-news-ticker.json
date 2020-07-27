@@ -16,10 +16,6 @@
     "jquery",
     "vertical"
   ],
-  "author": {
-    "name": "risq",
-    "url": "https://github.com/risq"
-  },
   "license": "GPL-2.0",
   "repository": {
     "type": "git",
@@ -37,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "risq",
+      "url": "https://github.com/risq"
+    }
+  ]
 }

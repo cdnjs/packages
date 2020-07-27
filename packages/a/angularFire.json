@@ -28,5 +28,11 @@
       }
     ]
   },
-  "author": "Firebase <support@firebase.com> (https://www.firebase.com/)"
+  "authors": [
+    {
+      "name": "Firebase",
+      "email": "support@firebase.com",
+      "url": "https://www.firebase.com/"
+    }
+  ]
 }

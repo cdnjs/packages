@@ -11,7 +11,6 @@
     "media",
     "queries"
   ],
-  "author": "Jeremy Fields <jeremy.fields@viget.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeremy Fields",
+      "email": "jeremy.fields@viget.com"
+    }
+  ]
 }

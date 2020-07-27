@@ -37,5 +37,10 @@
     ]
   },
   "license": "MIT",
-  "author": "Juri Vasylenko <juri.v@ramotion.com>"
+  "authors": [
+    {
+      "name": "Juri Vasylenko",
+      "email": "juri.v@ramotion.com"
+    }
+  ]
 }

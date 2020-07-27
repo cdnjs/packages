@@ -2,7 +2,6 @@
   "name": "feather-icons",
   "filename": "feather.min.js",
   "description": "Simply beautiful open source icons",
-  "author": "Cole Bemis <cole@colebemis.com> (http://colebemis.com)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -26,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Cole Bemis",
+      "email": "cole@colebemis.com",
+      "url": "http://colebemis.com"
+    }
+  ]
 }

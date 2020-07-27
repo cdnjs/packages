@@ -1,9 +1,5 @@
 {
   "name": "angular-toastr",
-  "author": {
-    "name": "Jesus Rodriguez",
-    "email": "Foxandxss@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Foxandxss/angular-toastr.git"
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jesus Rodriguez",
+      "email": "Foxandxss@gmail.com"
+    }
+  ]
 }

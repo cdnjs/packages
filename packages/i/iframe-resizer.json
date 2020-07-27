@@ -40,5 +40,10 @@
     "type": "git",
     "url": "https://github.com/davidjbradshaw/iframe-resizer"
   },
-  "author": "David J. Bradshaw <dave@bradshaw.net>"
+  "authors": [
+    {
+      "name": "David J. Bradshaw",
+      "email": "dave@bradshaw.net"
+    }
+  ]
 }

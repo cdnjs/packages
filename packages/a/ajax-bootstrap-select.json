@@ -3,10 +3,6 @@
   "filename": "js/ajax-bootstrap-select.min.js",
   "title": "Ajax Bootstrap Select",
   "description": "Extends existing [Bootstrap Select] implementations by adding the ability to search via AJAX requests as you type. Originally for CROSCON.",
-  "author": {
-    "name": "Adam Heim",
-    "url": "https://github.com/truckingsim"
-  },
   "keywords": [
     "bootstrap",
     "bootstrap-select",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Adam Heim",
+      "url": "https://github.com/truckingsim"
+    }
+  ]
 }

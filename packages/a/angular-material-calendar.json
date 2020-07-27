@@ -20,10 +20,12 @@
   },
   "authors": [
     {
-      "name": "Brad Berger <brad@bradb.net>"
+      "name": "Brad Berger",
+      "email": "brad@bradb.net"
     },
     {
-      "name": "Gavin Barron <gavin.barron@teamintergen.com>"
+      "name": "Gavin Barron",
+      "email": "gavin.barron@teamintergen.com"
     }
   ],
   "autoupdate": {

@@ -1,5 +1,4 @@
 {
-  "author": "Dylan Greene <dylang@gmail.com>",
   "description": "Amazingly short non-sequential url-friendly unique id generator.",
   "filename": "index.js",
   "homepage": "https://github.com/dylang/shortid#readme",
@@ -31,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dylan Greene",
+      "email": "dylang@gmail.com"
+    }
+  ]
 }

@@ -15,7 +15,6 @@
     "type": "git",
     "url": "git://github.com/zzarcon/focusable.git"
   },
-  "author": "zzarcon",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -28,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "zzarcon"
+    }
+  ]
 }

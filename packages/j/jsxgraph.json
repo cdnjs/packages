@@ -10,11 +10,6 @@
     "calculus"
   ],
   "homepage": "https://jsxgraph.org/",
-  "author": {
-    "name": "Alfred Wassermann",
-    "email": "alfred.wassermann@uni-bayreuth.de",
-    "url": "https://www.dmi.uni-bayreuth.de/de/team/wassermann/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jsxgraph/jsxgraph.git"
@@ -32,5 +27,12 @@
     ]
   },
   "namespace": "JXG",
+  "authors": [
+    {
+      "name": "Alfred Wassermann",
+      "email": "alfred.wassermann@uni-bayreuth.de",
+      "url": "https://www.dmi.uni-bayreuth.de/de/team/wassermann/"
+    }
+  ],
   "license": "(MIT OR LGPL-3.0)"
 }

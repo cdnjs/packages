@@ -3,7 +3,6 @@
   "filename": "draggable.min.js",
   "license": "MIT",
   "description": "The JavaScript Drag & Drop library your grandparents warned you about.",
-  "author": "Shopify <dev@shopify.com>",
   "homepage": "https://shopify.github.io/draggable/",
   "repository": {
     "type": "git",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Shopify",
+      "email": "dev@shopify.com"
+    }
+  ]
 }

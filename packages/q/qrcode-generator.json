@@ -2,7 +2,6 @@
   "name": "qrcode-generator",
   "filename": "qrcode.min.js",
   "description": "QR Code Generator implementation in JavaScript.",
-  "author": "Kazuhiko Arase",
   "homepage": "https://kazuhikoarase.github.io/qrcode-generator/",
   "repository": {
     "type": "git",
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kazuhiko Arase"
+    }
+  ]
 }

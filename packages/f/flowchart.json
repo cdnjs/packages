@@ -1,5 +1,4 @@
 {
-  "author": "adrai",
   "name": "flowchart",
   "filename": "flowchart.min.js",
   "repository": {
@@ -25,5 +24,10 @@
       }
     ]
   },
-  "description": "Draws simple SVG flow chart diagrams from textual representation of the diagram"
+  "description": "Draws simple SVG flow chart diagrams from textual representation of the diagram",
+  "authors": [
+    {
+      "name": "adrai"
+    }
+  ]
 }

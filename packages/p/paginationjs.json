@@ -12,7 +12,6 @@
     "jquery.pagination",
     "jquery pagination"
   ],
-  "author": "superRaytin",
   "license": "MIT",
   "homepage": "http://paginationjs.com",
   "filename": "pagination.min.js",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "superRaytin"
+    }
+  ]
 }

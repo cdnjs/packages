@@ -1,7 +1,6 @@
 {
   "name": "pell",
   "description": "pell - the simplest and smallest WYSIWYG text editor for web, with no dependencies",
-  "author": "Jared Reich",
   "filename": "pell.min.js",
   "repository": {
     "type": "git",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jared Reich"
+    }
+  ]
 }

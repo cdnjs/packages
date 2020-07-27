@@ -8,7 +8,6 @@
     "picker",
     "emojionearea"
   ],
-  "author": "Andrey Izman <izmanw@gmail.com>",
   "homepage": "https://mervick.github.io/emojionearea/",
   "repository": {
     "type": "git",
@@ -32,5 +31,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrey Izman",
+      "email": "izmanw@gmail.com"
+    }
+  ]
 }

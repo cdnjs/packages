@@ -1,7 +1,6 @@
 {
   "name": "Iframe-Height-Jquery-Plugin",
   "filename": "iframeheight.min.js",
-  "author": "Ilker Guller <me@ilkerguller.com> (http://ilkerguller.com)",
   "description": "This plugin can get contents of iframe and set height of iframe automatically. Also it has cross-domain fix",
   "keywords": [
     "jquery",
@@ -26,5 +25,12 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Ilker Guller",
+      "email": "me@ilkerguller.com",
+      "url": "http://ilkerguller.com"
+    }
+  ],
   "license": "(MIT OR GPL-3.0)"
 }

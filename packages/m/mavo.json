@@ -6,7 +6,6 @@
     "type": "git",
     "url": "https://github.com/mavoweb/mavo.git"
   },
-  "author": "Lea Verou",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mavoweb/mavo/issues"
@@ -23,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Lea Verou"
+    }
+  ]
 }

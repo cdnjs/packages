@@ -17,7 +17,6 @@
     "url": "https://github.com/chriso/validator.js.git"
   },
   "license": "MIT",
-  "author": "Chris O'Hara <cohara87@gmail.com>",
   "autoupdate": {
     "source": "npm",
     "target": "validator",
@@ -29,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris O'Hara",
+      "email": "cohara87@gmail.com"
+    }
+  ]
 }
