@@ -7,10 +7,6 @@
     "analytics",
     "visualization"
   ],
-  "author": {
-    "name": "Mike Bostock",
-    "url": "http://bost.ocks.org/mike"
-  },
   "homepage": "https://crossfilter.github.io/crossfilter/",
   "repository": {
     "type": "git",
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mike Bostock",
+      "url": "http://bost.ocks.org/mike"
+    }
+  ]
 }

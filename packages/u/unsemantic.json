@@ -25,6 +25,10 @@
     "type": "git",
     "url": "https://github.com/nathansmith/unsemantic/"
   },
-  "author": "Nathan Smith",
+  "authors": [
+    {
+      "name": "Nathan Smith"
+    }
+  ],
   "license": "(GPL OR MIT)"
 }

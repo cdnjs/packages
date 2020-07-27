@@ -2,7 +2,6 @@
   "name": "interpolate.js",
   "filename": "interpolate.min.js",
   "description": "Map an Object against a template String",
-  "author": "@toddmotto",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -22,5 +21,10 @@
   },
   "keywords": [
     "interpolate.js"
+  ],
+  "authors": [
+    {
+      "name": "@toddmotto"
+    }
   ]
 }

@@ -2,7 +2,6 @@
   "name": "json-formatter",
   "filename": "json-formatter.min.js",
   "description": "Angular Publishable Directive Boilerplate",
-  "author": "Mohsen Azimi",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mohsen Azimi"
+    }
+  ]
 }

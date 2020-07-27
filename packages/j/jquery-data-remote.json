@@ -12,7 +12,6 @@
     "data",
     "remote"
   ],
-  "author": "Chris O'Donnell",
   "license": "MIT",
   "filename": "jquery.data-remote.min.js",
   "autoupdate": {
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris O'Donnell"
+    }
+  ]
 }

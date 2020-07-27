@@ -9,7 +9,6 @@
     "coco",
     "javascript"
   ],
-  "author": "George Zahariev <z@georgezahariev.com>",
   "homepage": "http://livescript.net",
   "repository": {
     "type": "git",
@@ -27,5 +26,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "George Zahariev",
+      "email": "z@georgezahariev.com"
+    }
+  ]
 }

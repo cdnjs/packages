@@ -8,9 +8,6 @@
     "animation",
     "spring"
   ],
-  "author": {
-    "name": "Paul Henschel"
-  },
   "license": "MIT",
   "homepage": "https://github.com/drcmda/react-spring#readme",
   "repository": {
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Paul Henschel"
+    }
+  ]
 }

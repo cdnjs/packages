@@ -12,7 +12,6 @@
     "file-upload",
     "javascript"
   ],
-  "author": "danial.farid@gmail.com",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "danial.farid@gmail.com"
+    }
+  ]
 }

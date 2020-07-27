@@ -2,11 +2,6 @@
   "name": "clockpicker",
   "filename": "jquery-clockpicker.min.js",
   "description": "A clock-style timepicker for Bootstrap (or jQuery)",
-  "author": {
-    "name": "Wang Shenwei",
-    "email": "wangshenwei@qq.com",
-    "url": "http://wangshenwei.com/"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/weareoutman/clockpicker.git",
@@ -29,5 +24,12 @@
     "clockpicker",
     "clock style"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wang Shenwei",
+      "email": "wangshenwei@qq.com",
+      "url": "http://wangshenwei.com/"
+    }
+  ]
 }

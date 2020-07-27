@@ -1,5 +1,4 @@
 {
-  "author": "Rob Evans - Irrelon Software Limited",
   "name": "forerunnerdb",
   "description": "A NoSQL document store database for browsers and Node.js.",
   "keywords": [
@@ -47,5 +46,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rob Evans - Irrelon Software Limited"
+    }
+  ]
 }

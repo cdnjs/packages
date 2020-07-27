@@ -9,10 +9,6 @@
     "prism.js",
     "highlight"
   ],
-  "author": {
-    "name": "Lea Verou",
-    "web": "http://lea.verou.me"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Lea Verou",
+      "url": "http://lea.verou.me"
+    }
+  ]
 }

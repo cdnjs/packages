@@ -1,7 +1,6 @@
 {
   "name": "js-polyfills",
   "filename": "polyfill.min.js",
-  "author": "Joshua Bell <inexorabletash@gmail.com>",
   "description": "Collection of Web polyfills.",
   "repository": {
     "type": "git",
@@ -23,5 +22,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Joshua Bell",
+      "email": "inexorabletash@gmail.com"
+    }
+  ]
 }

@@ -20,7 +20,6 @@
     "mapzen",
     "here"
   ],
-  "author": "Per Liedman <per@liedman.net>",
   "license": "BSD-2-Clause",
   "homepage": "http://www.liedman.net/leaflet-control-geocoder/",
   "autoupdate": {
@@ -34,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Per Liedman",
+      "email": "per@liedman.net"
+    }
+  ]
 }

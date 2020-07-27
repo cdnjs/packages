@@ -1,10 +1,6 @@
 {
   "name": "webshim",
   "filename": "minified/polyfiller.js",
-  "author": {
-    "name": "Alexander Farkas",
-    "url": "https://github.com/aFarkas/"
-  },
   "keywords": [
     "webshims",
     "polyfill",
@@ -37,5 +33,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/aFarkas/webshim.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Alexander Farkas",
+      "url": "https://github.com/aFarkas/"
+    }
+  ]
 }

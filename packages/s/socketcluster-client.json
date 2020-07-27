@@ -26,5 +26,10 @@
     ]
   },
   "license": "MIT",
-  "author": "Jonathan Gros-Dubois <grosjona@yahoo.com.au>"
+  "authors": [
+    {
+      "name": "Jonathan Gros-Dubois",
+      "email": "grosjona@yahoo.com.au"
+    }
+  ]
 }

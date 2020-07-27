@@ -27,9 +27,11 @@
     ]
   },
   "license": "MIT",
-  "author": {
-    "name": "GeoDataSource",
-    "email": "support@geodatasource.com",
-    "url": "https://www.geodatasource.com/"
-  }
+  "authors": [
+    {
+      "name": "GeoDataSource",
+      "email": "support@geodatasource.com",
+      "url": "https://www.geodatasource.com/"
+    }
+  ]
 }

@@ -6,7 +6,6 @@
     "type": "git",
     "url": "https://github.com/mozilla/vtt.js.git"
   },
-  "author": "Andreas Gal <gal@mozilla.com>",
   "keywords": [
     "vtt",
     "webvtt",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andreas Gal",
+      "email": "gal@mozilla.com"
+    }
+  ]
 }

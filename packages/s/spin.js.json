@@ -7,7 +7,6 @@
   ],
   "description": "An animated CSS3 loading spinner with VML fallback for IE.",
   "homepage": "http://fgnass.github.com/spin.js/",
-  "author": "Felix Gnass (http://fgnass.github.com/)",
   "repository": {
     "type": "git",
     "url": "git://github.com/fgnass/spin.js.git"
@@ -24,5 +23,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Felix Gnass",
+      "url": "http://fgnass.github.com/"
+    }
+  ]
 }

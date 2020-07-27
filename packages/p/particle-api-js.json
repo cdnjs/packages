@@ -6,10 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/spark/particle-api-js.git"
   },
-  "author": {
-    "name": "Emily Rose",
-    "email": "nexxy@particle.io"
-  },
   "keywords": [
     "particle",
     "library",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Emily Rose",
+      "email": "nexxy@particle.io"
+    }
+  ]
 }

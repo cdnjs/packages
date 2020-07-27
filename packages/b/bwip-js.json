@@ -1,5 +1,4 @@
 {
-  "author": "Mark Warren <mwarren@metafloor.com>",
   "description": "Barcode generator supporting over 90 types and standards.",
   "filename": "bwip-js-min.js",
   "homepage": "http://bwip-js.metafloor.com/",
@@ -53,5 +52,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mark Warren",
+      "email": "mwarren@metafloor.com"
+    }
+  ]
 }

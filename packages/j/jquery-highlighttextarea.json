@@ -1,10 +1,6 @@
 {
   "name": "jquery-highlighttextarea",
   "filename": "jquery.highlighttextarea.min.js",
-  "author": {
-    "name": "Gary Sieling",
-    "homepage": "https://www.garysieling.com/blog"
-  },
   "description": "Allows highlighting words and sentences in textareas",
   "keywords": [
     "textarea",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Gary Sieling",
+      "url": "https://www.garysieling.com/blog"
+    }
+  ]
 }

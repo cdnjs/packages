@@ -2,10 +2,6 @@
   "name": "rxjs-dom",
   "filename": "rx.dom.min.js",
   "description": "Library for using DOM elements as well as Ajax requests",
-  "author": {
-    "name": "MS Open Tech",
-    "url": "https://github.com/Reactive-Extensions/rxjs-dom/blob/master/authors.txt"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Reactive-Extensions/rxjs-dom.git"
@@ -35,5 +31,11 @@
       }
     ]
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "MS Open Tech",
+      "url": "https://github.com/Reactive-Extensions/rxjs-dom/blob/master/authors.txt"
+    }
+  ]
 }

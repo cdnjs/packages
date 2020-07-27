@@ -16,7 +16,6 @@
     "graphics",
     "lightweight"
   ],
-  "author": "AnyChart",
   "license": "BSD-3-Clause",
   "homepage": "http://www.graphicsjs.org/",
   "autoupdate": {
@@ -30,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "AnyChart"
+    }
+  ]
 }

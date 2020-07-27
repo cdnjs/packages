@@ -19,10 +19,6 @@
     "getusermedia",
     "imageprocessing"
   ],
-  "author": {
-    "name": "Christoph Oberhofer",
-    "email": "ch.oberhofer@gmail.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -35,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Christoph Oberhofer",
+      "email": "ch.oberhofer@gmail.com"
+    }
+  ]
 }

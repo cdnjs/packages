@@ -2,10 +2,6 @@
   "name": "gumshoe",
   "filename": "gumshoe.min.js",
   "description": "A simple, framework-agnostic scrollspy script.",
-  "author": {
-    "name": "Chris Ferdinandi",
-    "url": "http://gomakethings.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -25,5 +21,11 @@
   },
   "keywords": [
     "gumshoe"
+  ],
+  "authors": [
+    {
+      "name": "Chris Ferdinandi",
+      "url": "http://gomakethings.com"
+    }
   ]
 }

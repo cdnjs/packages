@@ -17,7 +17,6 @@
     "web-components"
   ],
   "homepage": "http://amazeui.org",
-  "author": "Allmobilize, Inc.",
   "repository": {
     "type": "git",
     "url": "https://github.com/amazeui/amazeui.git"
@@ -34,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Allmobilize, Inc."
+    }
+  ]
 }

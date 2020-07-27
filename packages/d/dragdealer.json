@@ -13,7 +13,6 @@
     "JavaScript"
   ],
   "homepage": "https://skidding.github.io/dragdealer/",
-  "author": "Ovidiu Cherecheș",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/skidding/dragdealer.git",
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ovidiu Cherecheș"
+    }
+  ]
 }

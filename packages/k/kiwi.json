@@ -1,7 +1,6 @@
 {
   "name": "kiwi",
   "description": "Simple, modular, fast and lightweight template engine, based on jQuery templates syntax.",
-  "author": "Pierre Matri <pierre.matri@coolony.com>",
   "filename": "kiwi.min.js",
   "keywords": [
     "kiwi",
@@ -16,5 +15,11 @@
     "type": "git",
     "url": "git://github.com/coolony/kiwi"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pierre Matri",
+      "email": "pierre.matri@coolony.com"
+    }
+  ]
 }

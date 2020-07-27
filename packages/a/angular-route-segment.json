@@ -27,9 +27,11 @@
     "url": "https://github.com/artch/angular-route-segment.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Artem Chivchalov",
-    "url": "https://github.com/artch",
-    "email": "chivchalov@gmail.com"
-  }
+  "authors": [
+    {
+      "name": "Artem Chivchalov",
+      "url": "https://github.com/artch",
+      "email": "chivchalov@gmail.com"
+    }
+  ]
 }

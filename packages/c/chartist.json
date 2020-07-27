@@ -2,7 +2,6 @@
   "name": "chartist",
   "filename": "chartist.min.js",
   "description": "Simple, responsive charts",
-  "author": "Gion Kunz",
   "homepage": "https://gionkunz.github.io/chartist-js",
   "repository": {
     "type": "git",
@@ -29,5 +28,10 @@
       }
     ]
   },
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "authors": [
+    {
+      "name": "Gion Kunz"
+    }
+  ]
 }

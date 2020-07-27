@@ -25,5 +25,9 @@
     "type": "git",
     "url": "https://github.com/GoogleChrome/dialog-polyfill"
   },
-  "author": "The Chromium Authors"
+  "authors": [
+    {
+      "name": "The Chromium Authors"
+    }
+  ]
 }

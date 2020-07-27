@@ -6,10 +6,6 @@
     "type": "git",
     "url": "https://github.com/js-data/js-data-localstorage.git"
   },
-  "author": {
-    "name": "Jason Dobry",
-    "email": "jason.dobry@gmail.com"
-  },
   "keywords": [
     "data",
     "datastore",
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason Dobry",
+      "email": "jason.dobry@gmail.com"
+    }
+  ]
 }

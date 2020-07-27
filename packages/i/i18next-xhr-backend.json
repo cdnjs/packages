@@ -13,7 +13,6 @@
     "url": "https://github.com/i18next/i18next-xhr-backend.git"
   },
   "license": "MIT",
-  "author": "Jan Mühlemann <jan.muehlemann@gmail.com> (https://github.com/jamuhl)",
   "autoupdate": {
     "source": "npm",
     "target": "i18next-xhr-backend",
@@ -25,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jan Mühlemann",
+      "email": "jan.muehlemann@gmail.com",
+      "url": "https://github.com/jamuhl"
+    }
+  ]
 }

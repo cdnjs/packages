@@ -1,7 +1,6 @@
 {
   "name": "jquery.dirtyforms.helpers.tinymce",
   "filename": "jquery.dirtyforms.helpers.tinymce.min.js",
-  "author": "Mal Curtis <mal@mal.co.nz>",
   "description": "Dirty Forms is a jQuery plugin to help prevent users from losing data when editing forms.",
   "keywords": [
     "tinymce",
@@ -32,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mal Curtis",
+      "email": "mal@mal.co.nz"
+    }
+  ]
 }

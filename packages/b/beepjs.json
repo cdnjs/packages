@@ -2,11 +2,6 @@
   "name": "beepjs",
   "filename": "beep.min.js",
   "description": "Makes browser beep.",
-  "author": {
-    "name": "Neuman Vong",
-    "email": "neuman@ashmoremusic.com",
-    "url": "https://github.com/luciferous"
-  },
   "keywords": [
     "beep",
     "beepjs"
@@ -27,5 +22,12 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/luciferous/beepjs"
-  }
+  },
+  "authors": [
+    {
+      "name": "Neuman Vong",
+      "email": "neuman@ashmoremusic.com",
+      "url": "https://github.com/luciferous"
+    }
+  ]
 }

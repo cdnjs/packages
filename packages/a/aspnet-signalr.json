@@ -1,10 +1,6 @@
 {
   "name": "aspnet-signalr",
   "description": "ASP.NET Core SignalR is an open-source library that simplifies adding real-time web functionality to apps. Real-time web functionality enables server-side code to push content to clients instantly.",
-  "author": {
-    "name": "Microsoft",
-    "url": "https://www.microsoft.com"
-  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Microsoft",
+      "url": "https://www.microsoft.com"
+    }
+  ]
 }

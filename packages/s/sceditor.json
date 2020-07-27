@@ -3,7 +3,6 @@
   "description": "A lightweight HTML and BBCode WYSIWYG editor.",
   "homepage": "http://www.sceditor.com/",
   "license": "MIT",
-  "author": "Sam Clarke <sam@samclarke.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/samclarke/SCEditor.git"
@@ -29,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sam Clarke",
+      "email": "sam@samclarke.com"
+    }
+  ]
 }

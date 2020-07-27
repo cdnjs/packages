@@ -2,10 +2,6 @@
   "name": "social-sharing",
   "filename": "css/social-sharing.min.css",
   "description": "Social sharing links and buttons without the bloat",
-  "author": {
-    "name": "Chris Ferdinandi",
-    "url": "http://gomakethings.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -26,5 +22,11 @@
   "keywords": [
     "social",
     "sharing"
+  ],
+  "authors": [
+    {
+      "name": "Chris Ferdinandi",
+      "url": "http://gomakethings.com"
+    }
   ]
 }

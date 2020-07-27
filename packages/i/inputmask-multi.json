@@ -7,10 +7,6 @@
     "type": "git",
     "url": "https://github.com/andr-04/inputmask-multi.git"
   },
-  "author": {
-    "name": "Andrey Egorov",
-    "url": "https://github.com/andr-04"
-  },
   "keywords": [
     "inputmask",
     "phone",
@@ -35,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrey Egorov",
+      "url": "https://github.com/andr-04"
+    }
+  ]
 }

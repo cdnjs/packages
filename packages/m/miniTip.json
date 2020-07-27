@@ -7,10 +7,6 @@
     "tip",
     "ui"
   ],
-  "author": {
-    "name": "James Simpson",
-    "url": "http://goldfirestudios.com"
-  },
   "homepage": "http://goldfirestudios.com/blog/81/miniTip-jQuery-Plugin",
   "repository": {
     "type": "git",
@@ -28,5 +24,11 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "James Simpson",
+      "url": "http://goldfirestudios.com"
+    }
+  ],
   "license": "(MIT OR GPL)"
 }

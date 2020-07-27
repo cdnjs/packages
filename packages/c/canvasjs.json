@@ -7,6 +7,10 @@
     "canvas",
     "charts"
   ],
-  "author": "fenopix",
-  "license": "Creative Commons Attribution-NonCommercial 3.0"
+  "license": "Creative Commons Attribution-NonCommercial 3.0",
+  "authors": [
+    {
+      "name": "fenopix"
+    }
+  ]
 }

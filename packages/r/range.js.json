@@ -1,8 +1,4 @@
 {
-  "author": {
-    "email": "jscoderr@gmail.com",
-    "name": "Florian H."
-  },
   "description": "JavaScript's missing range function.",
   "license": "MIT",
   "name": "range.js",
@@ -25,5 +21,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "jscoderr@gmail.com",
+      "name": "Florian H."
+    }
+  ]
 }

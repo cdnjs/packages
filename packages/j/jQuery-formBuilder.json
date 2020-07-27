@@ -8,7 +8,6 @@
     "form builder",
     "form create"
   ],
-  "author": "Kevin Chappell <kevin.b.chappell@gmail.com>",
   "license": "MIT",
   "homepage": "https://formbuilder.online/",
   "repository": {
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kevin Chappell",
+      "email": "kevin.b.chappell@gmail.com"
+    }
+  ]
 }

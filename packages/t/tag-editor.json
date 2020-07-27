@@ -10,11 +10,6 @@
     "tagging",
     "jQuery"
   ],
-  "author": {
-    "name": "Simon Steinberger",
-    "url": "https://pixabay.com/users/Simon/",
-    "email": "simon@pixabay.com"
-  },
   "homepage": "https://goodies.pixabay.com/jquery/tag-editor/demo.html",
   "repository": {
     "type": "git",
@@ -32,5 +27,12 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Simon Steinberger",
+      "url": "https://pixabay.com/users/Simon/",
+      "email": "simon@pixabay.com"
+    }
+  ]
 }

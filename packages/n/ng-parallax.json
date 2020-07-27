@@ -11,7 +11,6 @@
     "angularjs",
     "royston"
   ],
-  "author": "Allen Royston <allen.acr@gmail.com> (httphttps://allenroyston.herokuapp.com/#/home/)",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Allen Royston",
+      "email": "allen.acr@gmail.com",
+      "url": "httphttps://allenroyston.herokuapp.com/#/home/"
+    }
+  ]
 }

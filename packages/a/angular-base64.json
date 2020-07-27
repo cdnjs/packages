@@ -10,7 +10,6 @@
     "encode",
     "decode"
   ],
-  "author": "Nick Galbreath",
   "repository": {
     "type": "git",
     "url": "https://github.com/ninjatronic/angular-base64.git"
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nick Galbreath"
+    }
+  ]
 }

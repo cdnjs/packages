@@ -12,10 +12,6 @@
     "sunrise",
     "city"
   ],
-  "author": {
-    "name": "Michael Lynch",
-    "url": "http://michaelynch.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/michael-lynch/open-weather.git"
@@ -38,5 +34,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael Lynch",
+      "url": "http://michaelynch.com"
+    }
+  ]
 }

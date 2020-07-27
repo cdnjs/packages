@@ -11,7 +11,6 @@
     "console.log",
     "cross-browser"
   ],
-  "author": "Ben Alman",
   "homepage": "http://benalman.com/projects/javascript-debug-console-log",
   "autoupdate": {
     "source": "git",
@@ -25,5 +24,10 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Ben Alman"
+    }
+  ],
   "license": "(MIT OR GPL-2.0)"
 }

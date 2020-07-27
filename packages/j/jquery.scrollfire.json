@@ -19,7 +19,6 @@
     "waypoint",
     "infinite"
   ],
-  "author": "Wil Neeley <william.neeley@gmail.com> (https://github.com/Xaxis)",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -32,5 +31,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Wil Neeley",
+      "email": "william.neeley@gmail.com",
+      "url": "https://github.com/Xaxis"
+    }
+  ]
 }

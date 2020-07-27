@@ -20,11 +20,6 @@
     "constructor",
     "oop"
   ],
-  "author": {
-    "name": "Aadit M Shah",
-    "email": "aaditmshah@fastmail.fm",
-    "url": "http://aaditmshah.github.io/"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -41,5 +36,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Aadit M Shah",
+      "email": "aaditmshah@fastmail.fm",
+      "url": "http://aaditmshah.github.io/"
+    }
+  ]
 }

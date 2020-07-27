@@ -2,11 +2,6 @@
   "name": "blanket.js",
   "filename": "blanket.min.js",
   "description": "seamless js code coverage",
-  "author": {
-    "name": "Alex-Seville",
-    "email": "hi@alexanderseville.com",
-    "url": "http://blanketjs.org"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/alex-seville/blanket.git"
@@ -14,5 +9,12 @@
   "keywords": [
     "coverage"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alex-Seville",
+      "email": "hi@alexanderseville.com",
+      "url": "http://blanketjs.org"
+    }
+  ]
 }

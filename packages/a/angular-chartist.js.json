@@ -11,7 +11,6 @@
     "chartist.js",
     "directive"
   ],
-  "author": "Will <will.soto9+github@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Will",
+      "email": "will.soto9+github@gmail.com"
+    }
+  ]
 }

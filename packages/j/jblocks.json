@@ -1,10 +1,6 @@
 {
   "name": "jblocks",
   "description": "A tiny JavaScript library helps to create UI components",
-  "author": {
-    "name": "Vit Karpov",
-    "email": "viktor.s.karpov@gmail.com"
-  },
   "license": "MIT",
   "filename": "index.min.js",
   "repository": {
@@ -26,5 +22,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vit Karpov",
+      "email": "viktor.s.karpov@gmail.com"
+    }
+  ]
 }

@@ -7,7 +7,6 @@
     "javascript",
     "maps"
   ],
-  "author": "amCharts <contact@amcharts.com>",
   "homepage": "https://www.amcharts.com/",
   "license": "(Custom OR Commercial License)",
   "repository": {
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "amCharts",
+      "email": "contact@amcharts.com"
+    }
+  ]
 }

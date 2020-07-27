@@ -1,10 +1,6 @@
 {
   "name": "react-instantsearch",
   "filename": "Core.min.js",
-  "author": {
-    "name": "Algolia, Inc.",
-    "url": "https://www.algolia.com"
-  },
   "description": "⚡ Lightning-fast search for React and React Native apps, by Algolia",
   "keywords": [
     "react",
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Algolia, Inc.",
+      "url": "https://www.algolia.com"
+    }
+  ]
 }

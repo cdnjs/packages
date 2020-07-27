@@ -14,11 +14,6 @@
     "cookbook",
     "functional"
   ],
-  "author": {
-    "name": "Vladimir Gorej",
-    "email": "vladimir.gorej@gmail.com",
-    "url": "https://www.linkedin.com/in/vladimirgorej/"
-  },
   "license": "BSD-3-Clause",
   "homepage": "https://github.com/char0n/ramda-adjunct",
   "repository": {
@@ -37,5 +32,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Vladimir Gorej",
+      "email": "vladimir.gorej@gmail.com",
+      "url": "https://www.linkedin.com/in/vladimirgorej/"
+    }
+  ]
 }

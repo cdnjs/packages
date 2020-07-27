@@ -27,5 +27,11 @@
     "url": "git://github.com/goldfire/howler.js.git"
   },
   "license": "MIT",
-  "author": "James Simpson <james@goldfirestudios.com> (http://goldfirestudios.com)"
+  "authors": [
+    {
+      "name": "James Simpson",
+      "email": "james@goldfirestudios.com",
+      "url": "http://goldfirestudios.com"
+    }
+  ]
 }

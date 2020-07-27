@@ -2,7 +2,6 @@
   "name": "morpheus",
   "filename": "morpheus.min.js",
   "description": "A Brilliant Animator",
-  "author": "Dustin Diaz <polvero@gmail.com> (http://dustindiaz.com)",
   "keywords": [
     "ender",
     "animation",
@@ -33,5 +32,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dustin Diaz",
+      "email": "polvero@gmail.com",
+      "url": "http://dustindiaz.com"
+    }
+  ]
 }

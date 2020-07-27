@@ -18,11 +18,6 @@
     "less",
     "stylus"
   ],
-  "author": {
-    "name": "Kenan Gündoğan",
-    "email": "kenangundogann@gmail.com",
-    "url": "http://www.fontisto.com"
-  },
   "license": "MIT",
   "homepage": "http://www.fontisto.com",
   "repository": {
@@ -41,5 +36,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kenan Gündoğan",
+      "email": "kenangundogann@gmail.com",
+      "url": "http://www.fontisto.com"
+    }
+  ]
 }

@@ -26,5 +26,9 @@
     "type": "git",
     "url": "https://github.com/garand/sticky"
   },
-  "author": "Anthony Garand"
+  "authors": [
+    {
+      "name": "Anthony Garand"
+    }
+  ]
 }

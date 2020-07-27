@@ -11,7 +11,6 @@
     "web",
     "bookmarkable"
   ],
-  "author": "Benjamin balupton Lupton {@link http://balupton.com}",
   "license": "MIT",
   "homepage": "http://balupton.github.io/jquery-ajaxy/demo/",
   "autoupdate": {
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Benjamin balupton Lupton {@link http://balupton.com}"
+    }
+  ]
 }

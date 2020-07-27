@@ -7,9 +7,15 @@
     "type": "git",
     "url": "https://github.com/gulpjs/gulp.git"
   },
-  "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
   "license": "MIT",
   "keywords": [
     "gulp"
+  ],
+  "authors": [
+    {
+      "name": "Fractal",
+      "email": "contact@wearefractal.com",
+      "url": "http://wearefractal.com/"
+    }
   ]
 }

@@ -10,7 +10,6 @@
     "lego",
     "legofy"
   ],
-  "author": "Adam Timberlake <adam.timberlake@gmail.com>",
   "license": "MIT",
   "homepage": "https://legofy.herokuapp.com",
   "autoupdate": {
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Adam Timberlake",
+      "email": "adam.timberlake@gmail.com"
+    }
+  ]
 }

@@ -4,7 +4,8 @@
   "description": "Miscellaneous plugins for Leaflet library for services that need to display route information and need satellite imagery from different providers",
   "authors": [
     {
-      "name": "brunob <brunobergot@gmail.com>"
+      "name": "brunob",
+      "email": "brunobergot@gmail.com"
     },
     {
       "name": "Pavel Shramov"

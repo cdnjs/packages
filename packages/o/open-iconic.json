@@ -13,11 +13,6 @@
     "webp"
   ],
   "homepage": "https://useiconic.com/open",
-  "author": {
-    "name": "Iconic",
-    "email": "yourfriends@useiconic.com",
-    "web": "http://useiconic.com/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/iconic/open-iconic.git"
@@ -38,5 +33,12 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Iconic",
+      "email": "yourfriends@useiconic.com",
+      "url": "http://useiconic.com/"
+    }
+  ],
   "license": "(MIT OR OFL-1.1)"
 }

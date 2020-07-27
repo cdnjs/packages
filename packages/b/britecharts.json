@@ -14,7 +14,6 @@
     "visualization"
   ],
   "homepage": "https://eventbrite.github.io/britecharts/",
-  "author": "Eventbrite",
   "repository": {
     "type": "git",
     "url": "https://github.com/eventbrite/britecharts.git"
@@ -30,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Eventbrite"
+    }
+  ]
 }

@@ -2,10 +2,6 @@
   "name": "jquery-tiny-pubsub",
   "filename": "ba-tiny-pubsub.min.js",
   "description": "A really, really, REALLY tiny pub/sub implementation for jQuery.",
-  "author": {
-    "name": "\"Cowboy\" Ben Alman",
-    "url": "http://benalman.com/"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/cowboy/jquery-tiny-pubsub.git"
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "\"Cowboy\" Ben Alman",
+      "url": "http://benalman.com/"
+    }
+  ]
 }

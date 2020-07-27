@@ -2,10 +2,6 @@
   "name": "react-widgets",
   "description": "An à la carte set of polished, extensible, and accessible inputs built for React",
   "filename": "react-widgets.js",
-  "author": {
-    "name": "Jason",
-    "email": "monastic.panic@gmail.com"
-  },
   "keywords": [
     "react",
     "widgets",
@@ -41,5 +37,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jason",
+      "email": "monastic.panic@gmail.com"
+    }
+  ]
 }

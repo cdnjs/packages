@@ -2,7 +2,6 @@
   "name": "should.js",
   "description": "test framework agnostic BDD-style assertions",
   "filename": "should.min.js",
-  "author": "TJ Holowaychuk <tj@vision-media.ca> and contributors",
   "repository": {
     "type": "git",
     "url": "https://github.com/shouldjs/should.js.git"
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    }
+  ]
 }

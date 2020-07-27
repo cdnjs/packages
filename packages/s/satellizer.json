@@ -6,11 +6,6 @@
     "type": "git",
     "url": "https://github.com/sahat/satellizer.git"
   },
-  "author": {
-    "name": "Sahat Yalkabov",
-    "email": "sahat@me.com",
-    "url": "http://sahatyalkabov.com"
-  },
   "license": "MIT",
   "keywords": [
     "authentication",
@@ -37,5 +32,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sahat Yalkabov",
+      "email": "sahat@me.com",
+      "url": "http://sahatyalkabov.com"
+    }
+  ]
 }

@@ -3,10 +3,6 @@
   "filename": "inferno-compat.min.js",
   "license": "MIT",
   "description": "Provides a compatibility with React codebases",
-  "author": {
-    "name": "Dominic Gannaway",
-    "email": "dg@domgan.com"
-  },
   "homepage": "https://infernojs.org/",
   "keywords": [
     "babel",
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dominic Gannaway",
+      "email": "dg@domgan.com"
+    }
+  ]
 }

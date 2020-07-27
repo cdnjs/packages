@@ -2,9 +2,6 @@
   "name": "angular-moment",
   "filename": "angular-moment.min.js",
   "description": "Angular.JS directives for Moment.JS (timeago alternative)",
-  "author": {
-    "name": "Uri Shaked"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/urish/angular-moment.git"
@@ -28,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Uri Shaked"
+    }
+  ]
 }

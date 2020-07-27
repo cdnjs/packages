@@ -22,7 +22,11 @@
       }
     ]
   },
-  "author": "Steve Whiteley",
   "homepage": "http://teletype.rocks/",
+  "authors": [
+    {
+      "name": "Steve Whiteley"
+    }
+  ],
   "license": "(MIT OR GPL-2.0)"
 }

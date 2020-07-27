@@ -1,9 +1,6 @@
 {
   "filename": "numeric.min.js",
   "name": "numeric",
-  "author": {
-    "name": "Sébastien Loisel"
-  },
   "description": "Numerical analysis in javascript",
   "keywords": [
     "numeric",
@@ -15,5 +12,10 @@
     "type": "git",
     "url": "https://github.com/sloisel/numeric.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sébastien Loisel"
+    }
+  ]
 }

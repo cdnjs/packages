@@ -12,10 +12,6 @@
     "type": "git",
     "url": "git://github.com/tuxsudo/letterfx.git"
   },
-  "author": {
-    "name": "Jared Anderson",
-    "url": "http://twitter.com/tuxsudo"
-  },
   "homepage": "https://tuxsudo.com/code/project/letterfx",
   "autoupdate": {
     "source": "git",
@@ -29,5 +25,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jared Anderson",
+      "url": "http://twitter.com/tuxsudo"
+    }
+  ]
 }

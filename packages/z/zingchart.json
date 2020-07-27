@@ -14,9 +14,6 @@
     "charts",
     "html5"
   ],
-  "author": {
-    "name": "ZingChart"
-  },
   "license": "ZingChart Branded License",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "ZingChart"
+    }
+  ]
 }

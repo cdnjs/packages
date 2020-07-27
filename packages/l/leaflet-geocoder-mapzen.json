@@ -20,7 +20,8 @@
       "name": "Harish Krishna"
     },
     {
-      "name": "Lou Huang <lou@mapzen.com>"
+      "name": "Lou Huang",
+      "email": "lou@mapzen.com"
     }
   ],
   "autoupdate": {

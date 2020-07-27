@@ -10,10 +10,6 @@
     "type": "git",
     "url": "git://github.com/witoldsz/angular-http-auth.git"
   },
-  "author": {
-    "name": "Witold Szczerba",
-    "url": "https://github.com/witoldsz"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -26,5 +22,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Witold Szczerba",
+      "url": "https://github.com/witoldsz"
+    }
+  ]
 }

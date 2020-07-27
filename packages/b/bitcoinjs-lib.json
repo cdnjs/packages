@@ -9,10 +9,16 @@
     "client",
     "library"
   ],
-  "author": "Stefan Thomas <justmoon@members.fsf.org> (http://www.justmoon.net)",
   "repository": {
     "type": "git",
     "url": "https://github.com/bitcoinjs/bitcoinjs-lib.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stefan Thomas",
+      "email": "justmoon@members.fsf.org",
+      "url": "http://www.justmoon.net"
+    }
+  ]
 }

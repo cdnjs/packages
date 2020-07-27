@@ -2,7 +2,6 @@
   "name": "jQuery.highlightRegex",
   "filename": "highlightRegex.min.js",
   "homepage": "https://jbr.github.io/jQuery.highlightRegex",
-  "author": "Jacob Rothstein <hi@jbr.me>",
   "description": "Regular-expression highlighter for jQuery",
   "keywords": [
     "jQuery",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jacob Rothstein",
+      "email": "hi@jbr.me"
+    }
+  ]
 }

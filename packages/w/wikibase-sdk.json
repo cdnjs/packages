@@ -10,7 +10,6 @@
     "sparql",
     "wbk"
   ],
-  "author": "maxlath",
   "license": "MIT",
   "homepage": "https://github.com/maxlath/wikibase-sdk",
   "repository": {
@@ -29,5 +28,10 @@
       }
     ]
   },
-  "filename": "wikibase-sdk.min.js"
+  "filename": "wikibase-sdk.min.js",
+  "authors": [
+    {
+      "name": "maxlath"
+    }
+  ]
 }

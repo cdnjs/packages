@@ -14,7 +14,6 @@
     "saas",
     "pass"
   ],
-  "author": "Dustin Higginbotham <dustin@6px.io> (https://6px.io)",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -28,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dustin Higginbotham",
+      "email": "dustin@6px.io",
+      "url": "https://6px.io"
+    }
+  ]
 }

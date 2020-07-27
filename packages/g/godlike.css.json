@@ -2,7 +2,6 @@
   "name": "godlike.css",
   "filename": "godlike.min.css",
   "description": "CSS for layout standardization and usability of web applications",
-  "author": "1000.tech <info@1000.tech>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/1000tech/godlike.css.git"
@@ -29,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "1000.tech",
+      "email": "info@1000.tech"
+    }
+  ]
 }

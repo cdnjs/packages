@@ -31,7 +31,6 @@
     "DOM",
     "browser"
   ],
-  "author": "Ruy Adorno (http://ruyadorno.com)",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -44,5 +43,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ruy Adorno",
+      "url": "http://ruyadorno.com"
+    }
+  ]
 }

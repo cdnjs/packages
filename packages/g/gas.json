@@ -1,5 +1,4 @@
 {
-  "author": "Eduardo Cereto Carvalho (http://www.cardinalpath.com)",
   "name": "gas",
   "filename": "gas.min.js",
   "description": "Google Analytics on Steroids",
@@ -11,5 +10,11 @@
     "type": "git",
     "url": "git://github.com/CardinalPath/gas.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Eduardo Cereto Carvalho",
+      "url": "http://www.cardinalpath.com"
+    }
+  ]
 }

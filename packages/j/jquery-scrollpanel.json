@@ -3,7 +3,6 @@
   "filename": "jquery-scrollpanel.min.js",
   "description": "a simple vertical scrollpanel",
   "homepage": "http://larsjung.de/jquery-scrollpanel/",
-  "author": "Lars Jung <lrsjng@gmail.com> (http://larsjung.de)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -24,5 +23,12 @@
   "keywords": [
     "jquery",
     "scrollpanel"
+  ],
+  "authors": [
+    {
+      "name": "Lars Jung",
+      "email": "lrsjng@gmail.com",
+      "url": "http://larsjung.de"
+    }
   ]
 }

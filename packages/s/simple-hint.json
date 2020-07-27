@@ -3,10 +3,6 @@
   "filename": "simple-hint.min.css",
   "description": "CSS-only tooltip packed with a variety of features.",
   "homepage": "https://catc.github.io/simple-hint/",
-  "author": {
-    "name": "Catalin Covic",
-    "url": "https://github.com/catc"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/catc/simple-hint.git"
@@ -28,5 +24,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Catalin Covic",
+      "url": "https://github.com/catc"
+    }
+  ]
 }

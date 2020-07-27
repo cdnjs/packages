@@ -2,11 +2,6 @@
   "name": "blockadblock",
   "filename": "blockadblock.min.js",
   "description": "Detects ad blockers (AdBlock, ...)",
-  "author": {
-    "name": "Valentin Allaire",
-    "email": "valentin.allaire@sitexw.fr",
-    "url": "http://sitexw.fr/"
-  },
   "license": "MIT",
   "keywords": [
     "adblock",
@@ -33,5 +28,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Valentin Allaire",
+      "email": "valentin.allaire@sitexw.fr",
+      "url": "http://sitexw.fr/"
+    }
+  ]
 }

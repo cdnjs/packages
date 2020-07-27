@@ -12,7 +12,6 @@
     "url": "https://github.com/cpettitt/dagre.git"
   },
   "license": "MIT",
-  "author": "Chris Pettitt <cpettitt@gmail.com>",
   "autoupdate": {
     "source": "npm",
     "target": "dagre",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris Pettitt",
+      "email": "cpettitt@gmail.com"
+    }
+  ]
 }

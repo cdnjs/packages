@@ -17,7 +17,6 @@
     "ui"
   ],
   "license": "MIT",
-  "author": "jr314159",
   "autoupdate": {
     "source": "npm",
     "target": "angular-chosen-localytics",
@@ -29,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "jr314159"
+    }
+  ]
 }

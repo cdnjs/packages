@@ -3,10 +3,6 @@
   "filename": "ix.min.js",
   "description": "Library for composing asynchronous and event-based operations in JavaScript",
   "homepage": "http://rx.codeplex.com",
-  "author": {
-    "name": "Cloud Programmability Team",
-    "url": "https://github.com/Reactive-Extensions/IxJS/blob/master/authors.txt"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Reactive-Extensions/IxJS.git"
@@ -17,5 +13,11 @@
     "Query",
     "Enumerable"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Cloud Programmability Team",
+      "url": "https://github.com/Reactive-Extensions/IxJS/blob/master/authors.txt"
+    }
+  ]
 }

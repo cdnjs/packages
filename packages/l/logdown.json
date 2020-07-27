@@ -1,5 +1,4 @@
 {
-  "author": "Caio Gondim <me@caiogondim.com> (https://caiogondim.com)",
   "description": "Debug utility with markdown support that runs on browser and server",
   "filename": "logdown.min.js",
   "homepage": "https://caiogondim.github.io/logdown.js/",
@@ -29,5 +28,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Caio Gondim",
+      "email": "me@caiogondim.com",
+      "url": "https://caiogondim.com"
+    }
+  ]
 }

@@ -1,5 +1,4 @@
 {
-  "author": "GitHub, Inc.",
   "description": "Primer is the CSS framework that powers GitHub.",
   "filename": "primer.css",
   "homepage": "https://primer.style/css",
@@ -31,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "GitHub, Inc."
+    }
+  ]
 }

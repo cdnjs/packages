@@ -3,10 +3,6 @@
   "filename": "dflow.min.js",
   "description": "is a minimal Dataflow programming engine",
   "homepage": "http://g14n.info/dflow",
-  "author": {
-    "name": "Gianluca Casati",
-    "url": "http://g14n.info"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Gianluca Casati",
+      "url": "http://g14n.info"
+    }
+  ]
 }

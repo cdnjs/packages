@@ -2,10 +2,6 @@
   "name": "motion.js",
   "description": "MotionJs is an easy to use, cross-browser CSS3 library for creating animations in web.",
   "filename": "motion.min.js",
-  "author": {
-    "name": "Afshin Mehrabani",
-    "url": "https://github.com/afshinm"
-  },
   "keywords": [
     "cross-browser",
     "css3",
@@ -27,5 +23,11 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/usablica/motion.js"
-  }
+  },
+  "authors": [
+    {
+      "name": "Afshin Mehrabani",
+      "url": "https://github.com/afshinm"
+    }
+  ]
 }

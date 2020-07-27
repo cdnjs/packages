@@ -1,6 +1,5 @@
 {
   "name": "jsondiffpatch",
-  "author": "Benjamin Eidelman <beneidel@gmail.com>",
   "filename": "jsondiffpatch.min.js",
   "description": "Diff & Patch for Javascript objects",
   "repository": {
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Benjamin Eidelman",
+      "email": "beneidel@gmail.com"
+    }
+  ]
 }

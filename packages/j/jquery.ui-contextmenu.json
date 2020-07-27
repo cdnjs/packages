@@ -14,11 +14,6 @@
     "right-click",
     "right-click-menu"
   ],
-  "author": {
-    "name": "Martin Wendt",
-    "email": "jquery@wwwendt.de",
-    "url": "http://careers.stackoverflow.com/martin-wendt"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mar10/jquery-ui-contextmenu"
@@ -36,5 +31,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Martin Wendt",
+      "email": "jquery@wwwendt.de",
+      "url": "http://careers.stackoverflow.com/martin-wendt"
+    }
+  ]
 }

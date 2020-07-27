@@ -1,7 +1,6 @@
 {
   "name": "native-promise-only",
   "filename": "npo.js",
-  "author": "Kyle Simpson <getify@gmail.com>",
   "description": "Native Promise Only: A polyfill for native ES6 Promises **only**, nothing else.",
   "keywords": [
     "ES6",
@@ -31,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kyle Simpson",
+      "email": "getify@gmail.com"
+    }
+  ]
 }

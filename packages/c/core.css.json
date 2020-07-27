@@ -3,7 +3,6 @@
   "filename": "css/core.min.css",
   "description": "A lightweight foundation for building responsive websites.",
   "homepage": "http://corecss.io/",
-  "author": "Alec Rios",
   "keywords": [
     "lightweight",
     "responsive",
@@ -28,5 +27,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alec Rios"
+    }
+  ]
 }

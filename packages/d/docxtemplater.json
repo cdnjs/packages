@@ -1,7 +1,6 @@
 {
   "name": "docxtemplater",
   "filename": "docxtemplater.min.js",
-  "author": "Edgar Hipp",
   "homepage": "https://docxtemplater.com/",
   "description": ".docx generator working with templates and data (like Mustache)",
   "keywords": [
@@ -26,5 +25,10 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Edgar Hipp"
+    }
+  ],
   "license": "(MIT OR GPL-3.0)"
 }

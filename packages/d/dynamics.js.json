@@ -2,7 +2,6 @@
   "name": "dynamics.js",
   "description": "Javascript library to create physics-related animations",
   "homepage": "http://dynamicsjs.com",
-  "author": "Michael Villar <me@michaelvillar.com> (http://twitter.com/michaelvillar)",
   "repository": {
     "type": "git",
     "url": "https://github.com/michaelvillar/dynamics.js"
@@ -28,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Michael Villar",
+      "email": "me@michaelvillar.com",
+      "url": "http://twitter.com/michaelvillar"
+    }
+  ]
 }

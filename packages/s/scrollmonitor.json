@@ -1,7 +1,6 @@
 {
   "name": "scrollmonitor",
   "filename": "scrollMonitor.js",
-  "author": "Stu Kabakoff <stukabakoff@gmail.com>",
   "description": "A simple and fast API to monitor elements as you scroll ",
   "repository": {
     "type": "git",
@@ -25,5 +24,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stu Kabakoff",
+      "email": "stukabakoff@gmail.com"
+    }
+  ]
 }

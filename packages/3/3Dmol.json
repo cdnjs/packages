@@ -10,7 +10,6 @@
     "3Dmol.js",
     "webGL"
   ],
-  "author": "David Koes and contributors",
   "homepage": "http://3dmol.csb.pitt.edu",
   "license": "BSD-3-Clause",
   "autoupdate": {
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David Koes and contributors"
+    }
+  ]
 }

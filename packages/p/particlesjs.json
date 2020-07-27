@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/marcbruederlin/particles.js"
   },
-  "author": "Marc Brüderlin <hello@marcbruederlin.com>",
   "license": "MIT",
   "homepage": "https://marcbruederlin.github.io/particles.js/",
   "keywords": [
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Marc Brüderlin",
+      "email": "hello@marcbruederlin.com"
+    }
+  ]
 }

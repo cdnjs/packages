@@ -2,10 +2,6 @@
   "name": "vue-clipboard2",
   "filename": "vue-clipboard.min.js",
   "description": "A Vuejs2 binding for clipboard.js",
-  "author": {
-    "name": "Inndy",
-    "url": "https://www.inndy.tw/"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Inndy",
+      "url": "https://www.inndy.tw/"
+    }
+  ]
 }

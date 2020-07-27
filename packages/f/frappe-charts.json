@@ -16,7 +16,6 @@
     "charts",
     "zero-dependencies"
   ],
-  "author": "Prateeksha Singh (https://github.com/pratu16x7)",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Prateeksha Singh",
+      "url": "https://github.com/pratu16x7"
+    }
+  ]
 }

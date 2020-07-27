@@ -2,7 +2,6 @@
   "name": "egjs-jquery-pauseresume",
   "filename": "pauseresume.min.js",
   "description": "Pauses and resumes animation executed by the jQuery animate() method",
-  "author": "NAVER Corp.",
   "license": "MIT",
   "keywords": [
     "egjs",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "NAVER Corp."
+    }
+  ]
 }

@@ -9,10 +9,6 @@
     "album",
     "masonry"
   ],
-  "author": {
-    "name": "Ed Lea",
-    "url": "http://edlea.com"
-  },
   "license": "MIT",
   "homepage": "http://collageplus.edlea.com/",
   "repository": {
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ed Lea",
+      "url": "http://edlea.com"
+    }
+  ]
 }

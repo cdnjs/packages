@@ -24,5 +24,9 @@
     "type": "git",
     "url": "git://github.com/Imaginea/uvCharts.git"
   },
-  "author": "opensource@imaginea.com"
+  "authors": [
+    {
+      "name": "opensource@imaginea.com"
+    }
+  ]
 }

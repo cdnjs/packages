@@ -16,11 +16,6 @@
     "touch",
     "drag"
   ],
-  "author": {
-    "name": "Sachin N",
-    "email": "sachi77n@gmail.com",
-    "url": "https://github.com/sachinchoolur"
-  },
   "license": "GPLv3",
   "homepage": "http://sachinchoolur.github.io/lightgallery.js/",
   "repository": {
@@ -39,5 +34,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sachin N",
+      "email": "sachi77n@gmail.com",
+      "url": "https://github.com/sachinchoolur"
+    }
+  ]
 }

@@ -2,7 +2,6 @@
   "name": "prettyPhoto",
   "filename": "js/jquery.prettyPhoto.min.js",
   "description": "prettyPhoto is a jQuery based lightbox clone. Not only does it support images, it also add support for videos, flash, YouTube, iFrames. It’s a full blown media lightbox. The setup is easy and quick, plus the script is compatible in every major browser.",
-  "author": "Stephane Caron <caronstephane1@gmail.com>",
   "keywords": [
     "jQuery",
     "lightbox",
@@ -29,5 +28,11 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Stephane Caron",
+      "email": "caronstephane1@gmail.com"
+    }
+  ],
   "license": "(CC-BY-2.5 OR GPL-2.0)"
 }

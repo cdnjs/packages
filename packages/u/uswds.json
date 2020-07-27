@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/18F/web-design-standards.git"
   },
-  "author": "18F",
   "license": "SEE LICENSE in LICENSE.md",
   "keywords": [
     "uswds"
@@ -22,5 +21,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "18F"
+    }
+  ]
 }

@@ -2,10 +2,6 @@
   "name": "bootflat",
   "description": "BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.2.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.",
   "filename": "css/bootflat.min.css",
-  "author": {
-    "name": "Flathemes",
-    "email": "info@flathemes.com"
-  },
   "homepage": "http://bootflat.github.com/",
   "keywords": [
     "mobile",
@@ -36,5 +32,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Flathemes",
+      "email": "info@flathemes.com"
+    }
+  ]
 }

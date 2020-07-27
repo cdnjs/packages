@@ -14,7 +14,6 @@
     "iterator",
     "generator"
   ],
-  "author": "Kyle Simpson <getify@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kyle Simpson",
+      "email": "getify@gmail.com"
+    }
+  ]
 }

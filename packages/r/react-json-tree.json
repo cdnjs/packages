@@ -1,5 +1,4 @@
 {
-  "author": "Shu Uesugi <shu@chibicode.com> (http://github.com/chibicode)",
   "description": "React JSON Viewer Component, Extracted from redux-devtools",
   "filename": "react-json-tree.min.js",
   "homepage": "https://github.com/reduxjs/redux-devtools",
@@ -24,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Shu Uesugi",
+      "email": "shu@chibicode.com",
+      "url": "http://github.com/chibicode"
+    }
+  ]
 }

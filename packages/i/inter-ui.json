@@ -8,10 +8,6 @@
     "font",
     "font family"
   ],
-  "author": {
-    "name": "Rasmus Andersson",
-    "url": "https://rsms.me"
-  },
   "license": "OFL-1.1",
   "homepage": "https://github.com/philipbelesky/inter-ui#readme",
   "repository": {
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rasmus Andersson",
+      "url": "https://rsms.me"
+    }
+  ]
 }

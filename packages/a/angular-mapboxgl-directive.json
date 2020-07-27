@@ -14,7 +14,6 @@
     "javascript",
     "cli"
   ],
-  "author": "https://github.com/Naimikan/angular-mapboxgl-directive/graphs/contributors",
   "license": "MIT",
   "homepage": "https://naimikan.github.io/angular-mapboxgl-directive/",
   "autoupdate": {
@@ -28,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "https://github.com/Naimikan/angular-mapboxgl-directive/graphs/contributors"
+    }
+  ]
 }

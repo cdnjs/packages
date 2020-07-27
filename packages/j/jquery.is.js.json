@@ -2,11 +2,6 @@
   "name": "jquery.is.js",
   "license": "MIT",
   "filename": "jquery.is.min.js",
-  "author": {
-    "name": "Ragnar Þór Valgeirsson (rthor)",
-    "email": "ragnar.valgeirsson@gmail.com",
-    "url": "http://rthor.is"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/rthor/isjs.git"
@@ -16,5 +11,12 @@
     "test",
     "simple"
   ],
-  "description": "Check your data against regular expressions or known keywords."
+  "description": "Check your data against regular expressions or known keywords.",
+  "authors": [
+    {
+      "name": "Ragnar Þór Valgeirsson (rthor)",
+      "email": "ragnar.valgeirsson@gmail.com",
+      "url": "http://rthor.is"
+    }
+  ]
 }

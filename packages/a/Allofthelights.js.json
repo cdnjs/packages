@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/Pierrinho/Allofthelights.js.git"
   },
-  "author": "Pierrinho",
   "homepage": "http://www.megaptery.com/allofthelights/",
   "keywords": [
     "Allofthelights",
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Pierrinho"
+    }
+  ]
 }

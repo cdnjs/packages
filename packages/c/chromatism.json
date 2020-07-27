@@ -17,7 +17,6 @@
     "url": "https://github.com/toish/chromatism.git"
   },
   "license": "ISC",
-  "author": "Toish <toish@toi.sh>",
   "autoupdate": {
     "source": "npm",
     "target": "chromatism",
@@ -29,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Toish",
+      "email": "toish@toi.sh"
+    }
+  ]
 }

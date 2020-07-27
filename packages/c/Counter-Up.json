@@ -2,10 +2,6 @@
   "name": "Counter-Up",
   "filename": "jquery.counterup.min.js",
   "description": "A lightweight jQuery plugin that counts up to a targeted number when the number becomes visible.",
-  "author": {
-    "name": "Benjamin Intal",
-    "url": "https://github.com/bfintal/"
-  },
   "license": "GPL-2.0",
   "keywords": [
     "jquery",
@@ -35,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Benjamin Intal",
+      "url": "https://github.com/bfintal/"
+    }
+  ]
 }

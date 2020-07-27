@@ -8,10 +8,6 @@
     "organization chart",
     "tree-like"
   ],
-  "author": {
-    "name": "dabeng",
-    "email": "dabeng413@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/dabeng/OrgChart.js.git"
@@ -34,5 +30,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dabeng",
+      "email": "dabeng413@gmail.com"
+    }
+  ]
 }

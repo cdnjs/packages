@@ -1,10 +1,6 @@
 {
   "name": "remark",
   "homepage": "https://remarkjs.com",
-  "author": {
-    "name": "Ole Petter Bang",
-    "url": "https://github.com/gnab"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/gnab/remark.git"
@@ -29,5 +25,11 @@
       }
     ]
   },
-  "filename": "remark.min.js"
+  "filename": "remark.min.js",
+  "authors": [
+    {
+      "name": "Ole Petter Bang",
+      "url": "https://github.com/gnab"
+    }
+  ]
 }

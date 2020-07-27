@@ -1,7 +1,6 @@
 {
   "name": "formulajs",
   "filename": "formula.min.js",
-  "author": "Ismael Ghalimi <ismael@stoic.com>",
   "license": "MIT",
   "keywords": [
     "excel",
@@ -25,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ismael Ghalimi",
+      "email": "ismael@stoic.com"
+    }
+  ]
 }

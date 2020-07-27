@@ -1,5 +1,4 @@
 {
-  "author": "Chris Rudmin",
   "description": "A library for recording opus encoded audio",
   "filename": "recorder.min.js",
   "keywords": [
@@ -45,5 +44,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris Rudmin"
+    }
+  ]
 }

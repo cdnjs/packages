@@ -16,7 +16,6 @@
     "user-interface"
   ],
   "license": "MIT",
-  "author": "Justin Manley",
   "autoupdate": {
     "source": "npm",
     "target": "leaflet-toolbar",
@@ -28,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Justin Manley"
+    }
+  ]
 }

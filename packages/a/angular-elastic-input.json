@@ -12,10 +12,6 @@
     "url": "git://github.com/jacek-pulit/angular-elastic-input.git"
   },
   "homepage": "https://jacek-pulit.github.io/angular-elastic-input/",
-  "author": {
-    "name": "jacek-pulit",
-    "url": "https://github.com/jacek-pulit"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "jacek-pulit",
+      "url": "https://github.com/jacek-pulit"
+    }
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "name": "chess.js",
   "description": "A Javascript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection",
-  "author": "Jeff Hlywa <jhlywa@gmail.com> (https://github.com/jhlywa)",
   "license": "BSD-2-Clause",
   "keywords": [
     "chess"
@@ -22,5 +21,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeff Hlywa",
+      "email": "jhlywa@gmail.com",
+      "url": "https://github.com/jhlywa"
+    }
+  ]
 }

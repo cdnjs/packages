@@ -13,10 +13,6 @@
     "url": "https://github.com/defunkt/facebox"
   },
   "license": "MIT",
-  "author": {
-    "name": "Chris Wanstrath",
-    "url": "https://github.com/defunkt"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/defunkt/facebox.git",
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris Wanstrath",
+      "url": "https://github.com/defunkt"
+    }
+  ]
 }

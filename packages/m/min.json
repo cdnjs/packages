@@ -3,7 +3,8 @@
   "filename": "entireframework.min.css",
   "authors": [
     {
-      "name": "Owen Versteeg <me@owenversteeg.com>"
+      "name": "Owen Versteeg",
+      "email": "me@owenversteeg.com"
     },
     {
       "name": "Scott O'Hara"

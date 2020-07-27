@@ -1,10 +1,6 @@
 {
   "name": "ckeditor5",
   "description": "The development environment of CKEditor 5 – the best browser-based rich text editor.",
-  "author": {
-    "name": "CKSource",
-    "url": "http://cksource.com/"
-  },
   "license": "GPL-2.0-or-later",
   "repository": {
     "type": "git",
@@ -40,5 +36,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "CKSource",
+      "url": "http://cksource.com/"
+    }
+  ]
 }

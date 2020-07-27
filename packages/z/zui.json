@@ -16,7 +16,6 @@
     "type": "git",
     "url": "https://github.com/easysoft/zui.git"
   },
-  "author": "cnezsoft.com",
   "license": "MIT",
   "homepage": "http://zui.sexy",
   "autoupdate": {
@@ -30,5 +29,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "cnezsoft.com"
+    }
+  ]
 }

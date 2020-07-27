@@ -13,10 +13,6 @@
     "type": "git",
     "url": "git://github.com/needim/noty.git"
   },
-  "author": {
-    "name": "Nedim Arabacı",
-    "url": "https://ned.im"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nedim Arabacı",
+      "url": "https://ned.im"
+    }
+  ]
 }

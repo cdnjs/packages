@@ -1,5 +1,4 @@
 {
-  "author": "Christian Rodriguez Cisneros <rcchristiane@gmail.com>",
   "description": "MomentJS plugin to use business days",
   "filename": "index.js",
   "homepage": "https://github.com/kalmecak/moment-business-days",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Christian Rodriguez Cisneros",
+      "email": "rcchristiane@gmail.com"
+    }
+  ]
 }

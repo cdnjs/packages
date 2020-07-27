@@ -38,9 +38,11 @@
     "type": "git",
     "url": "https://github.com/greensock/GSAP"
   },
-  "author": {
-    "name": "Jack Doyle",
-    "url": "https://greensock.com"
-  },
+  "authors": [
+    {
+      "name": "Jack Doyle",
+      "url": "https://greensock.com"
+    }
+  ],
   "license": "Standard 'No Charge' GreenSock License"
 }

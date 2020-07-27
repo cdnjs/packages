@@ -28,9 +28,6 @@
     "slider",
     "throbber"
   ],
-  "author": {
-    "name": "Jarosław Foksa"
-  },
   "license": "MIT",
   "homepage": "https://xel-toolkit.org/",
   "repository": {
@@ -50,5 +47,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jarosław Foksa"
+    }
+  ]
 }

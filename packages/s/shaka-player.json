@@ -5,7 +5,6 @@
     "type": "git",
     "url": "https://github.com/google/shaka-player"
   },
-  "author": "Google",
   "license": "Apache License 2.0",
   "filename": "shaka-player.compiled.js",
   "keywords": [
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Google"
+    }
+  ]
 }

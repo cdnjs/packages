@@ -1,7 +1,6 @@
 {
   "name": "ng-quill",
   "description": "Angular directive for rich text editor Quill",
-  "author": "Bengt Weiße <bengtler@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Bengt Weiße",
+      "email": "bengtler@gmail.com"
+    }
+  ]
 }

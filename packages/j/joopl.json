@@ -8,10 +8,14 @@
     "oop",
     "object-oriented"
   ],
-  "author": "Matias Fidemraizer",
   "repository": {
     "type": "git",
     "url": "https://github.com/mfidemraizer/joopl.git"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Matias Fidemraizer"
+    }
+  ]
 }

@@ -8,10 +8,6 @@
   ],
   "homepage": "http://www.github.com/cburgmer/rasterizeHTML.js",
   "license": "MIT",
-  "author": {
-    "name": "Christoph Burgmer",
-    "email": "christoph.burgmer@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/cburgmer/rasterizeHTML.js.git"
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Christoph Burgmer",
+      "email": "christoph.burgmer@gmail.com"
+    }
+  ]
 }

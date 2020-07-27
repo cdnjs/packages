@@ -12,11 +12,6 @@
     "projection",
     "leaflet"
   ],
-  "author": {
-    "name": "Per Liedman",
-    "email": "per.liedman@kartena.se",
-    "url": "https://github.com/perliedman/"
-  },
   "license": "BSD-2-Clause",
   "homepage": "http://kartena.github.io/Proj4Leaflet/",
   "autoupdate": {
@@ -30,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Per Liedman",
+      "email": "per.liedman@kartena.se",
+      "url": "https://github.com/perliedman/"
+    }
+  ]
 }

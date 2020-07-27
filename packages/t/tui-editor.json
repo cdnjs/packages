@@ -14,7 +14,6 @@
     "jquery-plugin"
   ],
   "homepage": "http://ui.toast.com/tui-editor/",
-  "author": "NHN Ent. FE Development Lab <dl_javascript@nhnent.com> (https://nhnent.github.io/tui.editor/)",
   "repository": {
     "type": "git",
     "url": "https://github.com/nhnent/tui.editor.git"
@@ -31,5 +30,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "NHN Ent. FE Development Lab",
+      "email": "dl_javascript@nhnent.com",
+      "url": "https://nhnent.github.io/tui.editor/"
+    }
+  ]
 }

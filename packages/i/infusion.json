@@ -2,7 +2,6 @@
   "name": "infusion",
   "description": "Infusion is an application framework for developing flexible stuff with JavaScript",
   "filename": "infusion-all.min.js",
-  "author": "Fluid Project",
   "homepage": "http://www.fluidproject.org/",
   "keywords": [
     "infusion",
@@ -30,5 +29,10 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Fluid Project"
+    }
+  ],
   "license": "(BSD-3-Clause OR ECL-2.0)"
 }

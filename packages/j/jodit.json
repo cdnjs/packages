@@ -10,7 +10,6 @@
     "jodit"
   ],
   "license": "MIT",
-  "author": "Chupurnov <chupurnov@gmail.com> (http://xdsoft.net/)",
   "repository": {
     "type": "git",
     "url": "https://github.com/xdan/jodit.git"
@@ -26,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chupurnov",
+      "email": "chupurnov@gmail.com",
+      "url": "http://xdsoft.net/"
+    }
+  ]
 }

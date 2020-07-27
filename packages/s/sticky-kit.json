@@ -6,10 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/leafo/sticky-kit.git"
   },
-  "author": {
-    "name": "leafo",
-    "email": "leafot@gmail.com"
-  },
   "license": "MIT",
   "keywords": [
     "sticky",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "leafo",
+      "email": "leafot@gmail.com"
+    }
+  ]
 }

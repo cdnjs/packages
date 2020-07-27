@@ -14,7 +14,6 @@
     "ab",
     "split testing"
   ],
-  "author": "Guy Aridor",
   "license": "BSD-3-Clause",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Guy Aridor"
+    }
+  ]
 }

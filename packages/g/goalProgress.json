@@ -13,7 +13,6 @@
     "jQuery",
     "animated"
   ],
-  "author": "tinacious",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "tinacious"
+    }
+  ]
 }

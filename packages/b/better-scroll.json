@@ -7,10 +7,6 @@
     "javascript",
     "ios"
   ],
-  "author": {
-    "name": "huangyi",
-    "email": "ustbhuangyi@gmail.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/ustbhuangyi/better-scroll",
   "repository": {
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "huangyi",
+      "email": "ustbhuangyi@gmail.com"
+    }
+  ]
 }

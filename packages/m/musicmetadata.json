@@ -19,7 +19,6 @@
     "type": "git",
     "url": "git://github.com/leetreveil/musicmetadata.git"
   },
-  "author": "Lee Treveil",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -32,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Lee Treveil"
+    }
+  ]
 }

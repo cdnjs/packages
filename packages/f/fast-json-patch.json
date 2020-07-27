@@ -12,11 +12,6 @@
     "url": "https://github.com/Starcounter-Jack/JSON-Patch"
   },
   "license": "MIT",
-  "author": {
-    "name": "Joachim Wester",
-    "email": "joachimwester@me.com",
-    "url": "http://www.starcounter.com/"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "fast-json-patch",
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Joachim Wester",
+      "email": "joachimwester@me.com",
+      "url": "http://www.starcounter.com/"
+    }
+  ]
 }

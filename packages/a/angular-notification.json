@@ -11,7 +11,6 @@
     "notification",
     "service"
   ],
-  "author": "Greg Bergé <berge.greg@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Greg Bergé",
+      "email": "berge.greg@gmail.com"
+    }
+  ]
 }

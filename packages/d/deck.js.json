@@ -2,11 +2,6 @@
   "name": "deck.js",
   "filename": "core/deck.core.min.js",
   "description": "Modern HTML Presentations",
-  "author": {
-    "name": "Caleb Troughton",
-    "email": "caleb@imakewebthings.com",
-    "url": "http://imakewebthings.com"
-  },
   "keywords": [
     "deck",
     "Presentation"
@@ -31,5 +26,12 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/imakewebthings/deck.js.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Caleb Troughton",
+      "email": "caleb@imakewebthings.com",
+      "url": "http://imakewebthings.com"
+    }
+  ]
 }

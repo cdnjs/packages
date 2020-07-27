@@ -6,7 +6,6 @@
     "guid",
     "rfc4122"
   ],
-  "author": "uuidjs contributors",
   "license": "MIT",
   "homepage": "https://github.com/uuidjs/uuid#readme",
   "repository": {
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "uuidjs contributors"
+    }
+  ]
 }

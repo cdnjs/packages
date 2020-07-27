@@ -7,10 +7,6 @@
     "url": "https://github.com/sunstorymvp/antimoderate.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Jett LaRue",
-    "url": "https://jettlarue.com"
-  },
   "keywords": [
     "antimoderate",
     "image",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jett LaRue",
+      "url": "https://jettlarue.com"
+    }
+  ]
 }

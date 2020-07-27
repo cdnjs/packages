@@ -1,5 +1,4 @@
 {
-  "author": "Palantir Technologies",
   "description": "A React UI toolkit for the web.",
   "filename": "core.bundle.js",
   "homepage": "http://blueprintjs.com/",
@@ -34,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Palantir Technologies"
+    }
+  ]
 }

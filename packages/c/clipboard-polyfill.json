@@ -18,7 +18,6 @@
     "getData",
     "polyfill"
   ],
-  "author": "Lucas Garron <code@garron.net> (https://garron.net/)",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -31,5 +30,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Lucas Garron",
+      "email": "code@garron.net",
+      "url": "https://garron.net/"
+    }
+  ]
 }

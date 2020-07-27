@@ -15,11 +15,6 @@
     "type": "git",
     "url": "git+ssh://git@github.com/monospaced/hamster.js.git"
   },
-  "author": {
-    "name": "Scott Boyle",
-    "email": "scott@monospaced.com",
-    "url": "http://scottboyle.co.uk/about"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "hamsterjs",
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Scott Boyle",
+      "email": "scott@monospaced.com",
+      "url": "http://scottboyle.co.uk/about"
+    }
+  ]
 }

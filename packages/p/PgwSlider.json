@@ -20,7 +20,6 @@
     "jquery-plugin",
     "zepto"
   ],
-  "author": "Jonathan M. Piat",
   "license": "GPL-3.0",
   "autoupdate": {
     "source": "git",
@@ -33,5 +32,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jonathan M. Piat"
+    }
+  ]
 }

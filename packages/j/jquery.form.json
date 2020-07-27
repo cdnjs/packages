@@ -17,7 +17,6 @@
     "type": "git",
     "url": "https://github.com/jquery-form/form.git"
   },
-  "author": "Kevin Morris",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jquery-form/form.git",
@@ -36,5 +35,10 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Kevin Morris"
+    }
+  ],
   "license": "(MIT OR LGPL-2.1)"
 }

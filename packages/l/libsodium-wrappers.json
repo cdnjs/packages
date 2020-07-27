@@ -18,7 +18,6 @@
     "blake2",
     "siphash"
   ],
-  "author": "Ahmad Ben Mrad (@BatikhSouri)",
   "license": "ISC",
   "autoupdate": {
     "source": "git",
@@ -31,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ahmad Ben Mrad (@BatikhSouri)"
+    }
+  ]
 }

@@ -8,10 +8,6 @@
     "position",
     "animation"
   ],
-  "author": {
-    "name": "Yair Even Or",
-    "url": "http://dropthebit.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -28,5 +24,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/yairEO/stickyfloat.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Yair Even Or",
+      "url": "http://dropthebit.com"
+    }
+  ]
 }

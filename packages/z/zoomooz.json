@@ -12,11 +12,6 @@
     "lightbox"
   ],
   "homepage": "http://janne.aukia.com/zoomooz",
-  "author": {
-    "name": "Janne Aukia",
-    "email": "janne@aukia.com",
-    "url": "https://github.com/jaukia"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jaukia/zoomooz.git",
@@ -33,5 +28,12 @@
     "type": "git",
     "url": "git://github.com/jaukia/zoomooz.git"
   },
+  "authors": [
+    {
+      "name": "Janne Aukia",
+      "email": "janne@aukia.com",
+      "url": "https://github.com/jaukia"
+    }
+  ],
   "license": "(MIT OR GPL-2.0)"
 }

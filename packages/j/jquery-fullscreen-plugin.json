@@ -5,10 +5,6 @@
   "keywords": [
     "fullscreen"
   ],
-  "author": {
-    "name": "Klaus Reimer",
-    "email": "k@ailis.de"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/code-lts/jquery-fullscreen-plugin.git"
@@ -25,5 +21,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Klaus Reimer",
+      "email": "k@ailis.de"
+    }
+  ]
 }

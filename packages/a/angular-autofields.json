@@ -11,10 +11,6 @@
     "generate"
   ],
   "license": "MIT",
-  "author": {
-    "name": "Justin Maier",
-    "email": "just.maier@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/justmaier/angular-autoFields-bootstrap.git"
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Justin Maier",
+      "email": "just.maier@gmail.com"
+    }
+  ]
 }

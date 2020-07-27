@@ -14,11 +14,6 @@
       }
     ]
   },
-  "author": {
-    "name": "Corey Frang",
-    "email": "gnarf37@gmail.com",
-    "url": "https://github.com/gnarf"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/gnarf/jquery-requestAnimationFrame.git"
@@ -26,5 +21,12 @@
   "license": "MIT",
   "keywords": [
     "animation"
+  ],
+  "authors": [
+    {
+      "name": "Corey Frang",
+      "email": "gnarf37@gmail.com",
+      "url": "https://github.com/gnarf"
+    }
   ]
 }

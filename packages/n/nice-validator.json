@@ -12,10 +12,6 @@
     "nice-validator"
   ],
   "homepage": "http://validator.niceue.com/",
-  "author": {
-    "name": "Jony Zhang",
-    "email": "niceue@live.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jony Zhang",
+      "email": "niceue@live.com"
+    }
+  ]
 }

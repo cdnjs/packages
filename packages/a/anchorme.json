@@ -1,5 +1,4 @@
 {
-  "author": "Alex Corvi <alex@arrayy.com>",
   "description": "A library to convert URLs to a clickable HTML anchor elements",
   "filename": "anchorme.min.js",
   "homepage": "http://alexcorvi.github.io/anchorme.js/",
@@ -32,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Alex Corvi",
+      "email": "alex@arrayy.com"
+    }
+  ]
 }

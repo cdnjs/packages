@@ -7,10 +7,6 @@
     "type": "git",
     "url": "git://github.com/cognitom/ikki.git"
   },
-  "author": {
-    "name": "Tsutomu Kawamura",
-    "email": "cognitom@gmail.com"
-  },
   "license": "MIT",
   "keywords": [
     "riot",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tsutomu Kawamura",
+      "email": "cognitom@gmail.com"
+    }
+  ]
 }

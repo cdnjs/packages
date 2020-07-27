@@ -33,5 +33,10 @@
     ]
   },
   "license": "MIT",
-  "author": "Brian Cavalier <brian@hovercraftstudios.com>"
+  "authors": [
+    {
+      "name": "Brian Cavalier",
+      "email": "brian@hovercraftstudios.com"
+    }
+  ]
 }

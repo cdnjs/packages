@@ -10,7 +10,6 @@
     "javascript",
     "lightbox"
   ],
-  "author": "imgix",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -23,5 +22,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "imgix"
+    }
+  ]
 }

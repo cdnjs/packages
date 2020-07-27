@@ -7,10 +7,6 @@
     "banner",
     "EU-cookie-law"
   ],
-  "author": {
-    "name": "Good Code and Cookie Banner contributors",
-    "url": "https://github.com/dobarkod/cookie-banner/graphs/contributors"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/dobarkod/cookie-banner"
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Good Code and Cookie Banner contributors",
+      "url": "https://github.com/dobarkod/cookie-banner/graphs/contributors"
+    }
+  ]
 }

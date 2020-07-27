@@ -14,10 +14,12 @@
   },
   "authors": [
     {
-      "name": "Art Gibson <art@embed.ly>"
+      "name": "Art Gibson",
+      "email": "art@embed.ly"
     },
     {
-      "name": "Sean Creeley <sean@embed.ly>"
+      "name": "Sean Creeley",
+      "email": "sean@embed.ly"
     }
   ],
   "homepage": "https://embedly.github.io/embedly-jquery/",

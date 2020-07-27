@@ -1,10 +1,6 @@
 {
   "name": "qoopido.js",
   "description": "Modular library of dry, extendable and AMD compatible JavaScript modules",
-  "author": {
-    "name": "Dirk Lueth",
-    "email": "info@qoopido.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/dlueth/qoopido.js.git"
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dirk Lueth",
+      "email": "info@qoopido.com"
+    }
+  ]
 }

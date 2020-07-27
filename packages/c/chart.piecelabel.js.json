@@ -5,7 +5,6 @@
     "chart",
     "label"
   ],
-  "author": "Chen, Yi-Cyuan <emn178@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/emn178/Chart.PieceLabel.js",
   "repository": {
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chen, Yi-Cyuan",
+      "email": "emn178@gmail.com"
+    }
+  ]
 }

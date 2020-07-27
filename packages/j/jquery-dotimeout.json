@@ -2,7 +2,6 @@
   "filename": "jquery.ba-dotimeout.min.js",
   "name": "jquery-dotimeout",
   "description": "jQuery doTimeout takes the work out of delayed code execution, including interval and timeout management, polling loops and debouncing.",
-  "author": "cowboy",
   "keywords": [
     "setTimeout",
     "doTimeout",
@@ -24,5 +23,10 @@
     "type": "git",
     "url": "git://github.com/cowboy/jquery-dotimeout.git"
   },
+  "authors": [
+    {
+      "name": "cowboy"
+    }
+  ],
   "license": "(MIT OR GPL-2.0)"
 }

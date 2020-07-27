@@ -12,7 +12,6 @@
     "text"
   ],
   "homepage": "https://mir3z.github.io/texthighlighter/",
-  "author": "mirz <mirz.hq@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -31,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "mirz",
+      "email": "mirz.hq@gmail.com"
+    }
+  ]
 }

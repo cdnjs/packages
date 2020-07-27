@@ -11,7 +11,12 @@
     "animate",
     "scroll"
   ],
-  "author": "botelho <http://tympanus.net/codrops>",
   "license": "MIT",
-  "homepage": "http://tympanus.net/codrops/2013/06/06/on-scroll-animated-header/"
+  "homepage": "http://tympanus.net/codrops/2013/06/06/on-scroll-animated-header/",
+  "authors": [
+    {
+      "name": "botelho",
+      "email": "http://tympanus.net/codrops"
+    }
+  ]
 }

@@ -8,11 +8,6 @@
   },
   "homepage": "http://formstone.it/",
   "license": "MIT",
-  "author": {
-    "name": "Ben Plum",
-    "email": "mr@benplum.com",
-    "url": "http://www.benplum.com"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/Formstone/Formstone.git",
@@ -27,5 +22,12 @@
   },
   "keywords": [
     "formstone"
+  ],
+  "authors": [
+    {
+      "name": "Ben Plum",
+      "email": "mr@benplum.com",
+      "url": "http://www.benplum.com"
+    }
   ]
 }

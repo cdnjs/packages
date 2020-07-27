@@ -1,7 +1,6 @@
 {
   "name": "hydna",
   "filename": "hydna.min.js",
-  "author": "Johan Dahlberg",
   "description": "A multi-transport Hydna client library with support for WebSockets, Flash and Comet",
   "homepage": "https://www.hydna.com",
   "keywords": [
@@ -32,5 +31,10 @@
     "type": "git",
     "url": "https://github.com/hydna/hydnajs.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Johan Dahlberg"
+    }
+  ]
 }

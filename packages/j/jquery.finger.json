@@ -18,10 +18,6 @@
     "mobile",
     "tablet"
   ],
-  "author": {
-    "name": "Nicolas Gryman",
-    "email": "ngryman@gmail.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -38,5 +34,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nicolas Gryman",
+      "email": "ngryman@gmail.com"
+    }
+  ]
 }

@@ -12,7 +12,6 @@
     "reset",
     "mini"
   ],
-  "author": "Jeremy Thomas <bbxdesign@gmail.com> (http://jgthms.com)",
   "license": "MIT",
   "filename": "minireset.min.css",
   "autoupdate": {
@@ -26,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeremy Thomas",
+      "email": "bbxdesign@gmail.com",
+      "url": "http://jgthms.com"
+    }
+  ]
 }

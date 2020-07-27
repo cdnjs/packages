@@ -6,7 +6,6 @@
     "internationalization",
     "i18n"
   ],
-  "author": "James A. Rosen <james.a.rosen@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/jamesarosen/ember-i18n.git"
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "James A. Rosen",
+      "email": "james.a.rosen@gmail.com"
+    }
+  ]
 }

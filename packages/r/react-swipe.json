@@ -9,10 +9,6 @@
     "swipe",
     "react-component"
   ],
-  "author": {
-    "name": "Dmitri Voronianski",
-    "email": "dmitri.voronianski@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/voronianski/react-swipe.git"
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dmitri Voronianski",
+      "email": "dmitri.voronianski@gmail.com"
+    }
+  ]
 }

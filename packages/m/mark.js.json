@@ -15,10 +15,6 @@
   ],
   "license": "MIT",
   "homepage": "https://markjs.io/",
-  "author": {
-    "name": "Julian Motz",
-    "url": "https://github.com/julmot"
-  },
   "description": "A keyword highlighter for search terms or regular expressions",
   "filename": "mark.min.js",
   "repository": {
@@ -36,5 +32,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Julian Motz",
+      "url": "https://github.com/julmot"
+    }
+  ]
 }

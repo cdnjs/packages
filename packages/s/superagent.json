@@ -9,7 +9,6 @@
     "request",
     "agent"
   ],
-  "author": "TJ Holowaychuk <tj@vision-media.ca>",
   "repository": {
     "type": "git",
     "url": "git://github.com/visionmedia/superagent.git"
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    }
+  ]
 }

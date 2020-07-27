@@ -1,10 +1,6 @@
 {
   "name": "inferno-create-element",
   "filename": "inferno-create-element.min.js",
-  "author": {
-    "email": "dg@domgan.com",
-    "name": "Dominic Gannaway"
-  },
   "description": "Provides methods to create Inferno VNodes",
   "homepage": "https://infernojs.org/",
   "repository": {
@@ -31,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "dg@domgan.com",
+      "name": "Dominic Gannaway"
+    }
+  ]
 }

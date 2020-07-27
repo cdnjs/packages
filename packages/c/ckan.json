@@ -7,7 +7,6 @@
     "Catalog",
     "DataStore API"
   ],
-  "author": "Open Knowledge Foundation <labs@okfn.org>",
   "repository": {
     "type": "git",
     "url": "git://github.com/okfn/ckan.js"
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Open Knowledge Foundation",
+      "email": "labs@okfn.org"
+    }
+  ]
 }

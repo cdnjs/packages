@@ -11,7 +11,6 @@
     "http",
     "universal"
   ],
-  "author": "Tinpee <tinpee.dev@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tinpee",
+      "email": "tinpee.dev@gmail.com"
+    }
+  ]
 }

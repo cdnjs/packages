@@ -14,7 +14,6 @@
     "type": "git",
     "url": "https://github.com/zurb/foundation-sites.git"
   },
-  "author": "ZURB <foundation@zurb.com> (http://foundation.zurb.com)",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/zurb/foundation-sites.git",
@@ -26,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "ZURB",
+      "email": "foundation@zurb.com",
+      "url": "http://foundation.zurb.com"
+    }
+  ]
 }

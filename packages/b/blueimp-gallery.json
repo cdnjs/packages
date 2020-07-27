@@ -21,10 +21,6 @@
     "slideshow",
     "fullscreen"
   ],
-  "author": {
-    "name": "Sebastian Tschan",
-    "url": "https://blueimp.net"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/blueimp/Gallery.git"
@@ -43,5 +39,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sebastian Tschan",
+      "url": "https://blueimp.net"
+    }
+  ]
 }

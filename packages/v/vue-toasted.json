@@ -2,7 +2,6 @@
   "name": "vue-toasted",
   "filename": "vue-toasted.min.js",
   "description": "Responsive Touch Compatible Toast plugin for VueJS 2+",
-  "author": "Shakeeb Sadikeen <shakee.zats@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -32,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Shakeeb Sadikeen",
+      "email": "shakee.zats@gmail.com"
+    }
+  ]
 }

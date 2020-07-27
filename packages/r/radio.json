@@ -3,7 +3,6 @@
   "filename": "radio.min.js",
   "description": "A small dependency-free publish/subscribe (pub/sub) javascript library",
   "homepage": "http://radio.uxder.com/",
-  "author": "Scott Murphy, @hellocreation",
   "keywords": [
     "pubsub",
     "pub/sub",
@@ -28,5 +27,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Scott Murphy, @hellocreation"
+    }
+  ]
 }

@@ -2,11 +2,6 @@
   "name": "playlyfe-js-sdk",
   "filename": "playlyfe-js-sdk.min.js",
   "description": "Playlyfe Javascript SDK for browser-based apps",
-  "author": {
-    "name": "Johny Jose",
-    "email": "johny@playlyfe.com",
-    "url": "http://blog.playlyfe.com"
-  },
   "keywords": [
     "playlyfe",
     "auth",
@@ -34,5 +29,12 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Johny Jose",
+      "email": "johny@playlyfe.com",
+      "url": "http://blog.playlyfe.com"
+    }
+  ]
 }

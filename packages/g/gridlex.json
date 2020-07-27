@@ -2,7 +2,6 @@
   "name": "gridlex",
   "description": "Just a Flexbox Grid System",
   "filename": "gridlex.min.css",
-  "author": "https://github.com/devlint",
   "repository": {
     "type": "git",
     "url": "git@github.com:devlint/gridlex.git"
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "https://github.com/devlint"
+    }
+  ]
 }

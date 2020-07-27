@@ -2,11 +2,6 @@
   "name": "numbro",
   "description": "Format and manipulate numbers.",
   "homepage": "http://numbrojs.com",
-  "author": {
-    "name": "Benjamin Van Ryseghem",
-    "email": "benjamin@vanryseghem.com",
-    "url": "https://benjamin.vanryseghem.com"
-  },
   "keywords": [
     "numeral",
     "numbro",
@@ -33,5 +28,12 @@
     ]
   },
   "filename": "numbro.min.js",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Benjamin Van Ryseghem",
+      "email": "benjamin@vanryseghem.com",
+      "url": "https://benjamin.vanryseghem.com"
+    }
+  ]
 }

@@ -35,5 +35,10 @@
       }
     ]
   },
-  "author": "Mauricio Santos <mauriciosantoss@gmail.com>"
+  "authors": [
+    {
+      "name": "Mauricio Santos",
+      "email": "mauriciosantoss@gmail.com"
+    }
+  ]
 }

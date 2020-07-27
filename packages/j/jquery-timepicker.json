@@ -1,10 +1,6 @@
 {
   "name": "jquery-timepicker",
   "filename": "jquery.timepicker.min.css",
-  "author": {
-    "name": "Jon Thornton",
-    "url": "https://github.com/jonthornton"
-  },
   "description": "A jQuery timepicker plugin inspired by Google Calendar. It supports both mouse and keyboard navigation.",
   "keywords": [
     "timepicker",
@@ -30,5 +26,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jon Thornton",
+      "url": "https://github.com/jonthornton"
+    }
+  ]
 }

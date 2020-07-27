@@ -24,6 +24,12 @@
     "type": "github",
     "url": "https://github.com/tommoor/tinycon"
   },
-  "author": "Tom Moor <tom.moor@gmail.com> (http://tommoor.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tom Moor",
+      "email": "tom.moor@gmail.com",
+      "url": "http://tommoor.com"
+    }
+  ]
 }

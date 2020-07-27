@@ -3,11 +3,6 @@
   "filename": "asmcrypto.all.es5.min.js",
   "description": "Asm.js implementation of WebCrypto API",
   "license": "MIT",
-  "author": {
-    "name": "Artem S Vybornov",
-    "email": "vybornov@gmail.com",
-    "web": "https://github.com/vibornoff"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/vibornoff/asmcrypto.js.git"
@@ -45,5 +40,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Artem S Vybornov",
+      "email": "vybornov@gmail.com",
+      "url": "https://github.com/vibornoff"
+    }
+  ]
 }

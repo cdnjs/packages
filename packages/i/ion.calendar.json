@@ -11,11 +11,6 @@
     "momentjs",
     "multilanguage"
   ],
-  "author": {
-    "name": "IonDen",
-    "url": "https://github.com/IonDen",
-    "email": "denis.ineshin@gmail.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -34,5 +29,12 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/IonDen/ion.calendar.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "IonDen",
+      "url": "https://github.com/IonDen",
+      "email": "denis.ineshin@gmail.com"
+    }
+  ]
 }

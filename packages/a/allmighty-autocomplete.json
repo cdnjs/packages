@@ -10,7 +10,12 @@
     "autocomplete",
     "angularjs"
   ],
-  "author": "Goscha Graf <justgoscha@gmail.com>",
   "license": "MIT",
-  "homepage": "http://www.justgoscha.com/allmighty-autocomplete/"
+  "homepage": "http://www.justgoscha.com/allmighty-autocomplete/",
+  "authors": [
+    {
+      "name": "Goscha Graf",
+      "email": "justgoscha@gmail.com"
+    }
+  ]
 }

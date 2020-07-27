@@ -7,10 +7,6 @@
     "timezone",
     "offset"
   ],
-  "author": {
-    "name": "Sonny T.",
-    "url": "https://sonnyt.com"
-  },
   "homepage": "http://sonnyt.com/downCount-plugin/",
   "autoupdate": {
     "source": "git",
@@ -28,5 +24,11 @@
     "type": "git",
     "url": "git://github.com/sonnyt/downCount.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sonny T.",
+      "url": "https://sonnyt.com"
+    }
+  ]
 }

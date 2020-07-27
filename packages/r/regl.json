@@ -20,7 +20,6 @@
     "reactive",
     "functional"
   ],
-  "author": "Mikola Lysenko",
   "license": "MIT",
   "homepage": "http://regl.party/",
   "autoupdate": {
@@ -34,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mikola Lysenko"
+    }
+  ]
 }

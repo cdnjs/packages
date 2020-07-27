@@ -24,10 +24,6 @@
     "jquery-plugin"
   ],
   "homepage": "http://papaparse.com",
-  "author": {
-    "name": "Matthew Holt",
-    "url": "https://twitter.com/mholt6"
-  },
   "filename": "papaparse.min.js",
   "autoupdate": {
     "source": "git",
@@ -45,5 +41,11 @@
     "type": "git",
     "url": "git://github.com/mholt/PapaParse.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matthew Holt",
+      "url": "https://twitter.com/mholt6"
+    }
+  ]
 }

@@ -3,7 +3,6 @@
   "filename": "videojs.ima.min.js",
   "description": "IMA SDK Plugin for Video.js ",
   "license": "Apache-2.0",
-  "author": "Google Inc.",
   "repository": {
     "type": "git",
     "url": "https://github.com/googleads/videojs-ima"
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Google Inc."
+    }
+  ]
 }

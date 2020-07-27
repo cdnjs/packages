@@ -2,11 +2,6 @@
   "name": "squel",
   "description": "SQL query string builder",
   "filename": "squel.min.js",
-  "author": {
-    "name": "Ramesh Nair",
-    "email": "ram@hiddentao.com",
-    "url": "http://www.hiddentao.com/"
-  },
   "homepage": "https://hiddentao.com/squel/",
   "license": "MIT",
   "keywords": [
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ramesh Nair",
+      "email": "ram@hiddentao.com",
+      "url": "http://www.hiddentao.com/"
+    }
+  ]
 }

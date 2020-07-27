@@ -12,5 +12,9 @@
     "type": "git",
     "url": "https://github.com/kevinburke/doony"
   },
-  "author": "Kevin Burke"
+  "authors": [
+    {
+      "name": "Kevin Burke"
+    }
+  ]
 }

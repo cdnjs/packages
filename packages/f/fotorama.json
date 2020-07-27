@@ -14,10 +14,6 @@
     "content",
     "video"
   ],
-  "author": {
-    "name": "Artem Polikarpov",
-    "url": "https://github.com/artpolikarpov/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/artpolikarpov/"
@@ -35,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Artem Polikarpov",
+      "url": "https://github.com/artpolikarpov/"
+    }
+  ]
 }

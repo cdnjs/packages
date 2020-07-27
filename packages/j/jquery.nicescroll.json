@@ -35,8 +35,10 @@
       }
     ]
   },
-  "author": {
-    "name": "InuYaksa",
-    "url": "https://github.com/inuyaksa"
-  }
+  "authors": [
+    {
+      "name": "InuYaksa",
+      "url": "https://github.com/inuyaksa"
+    }
+  ]
 }

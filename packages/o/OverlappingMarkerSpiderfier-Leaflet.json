@@ -25,6 +25,10 @@
     "Leaflet",
     "map"
   ],
-  "author": "George MacKerron",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "George MacKerron"
+    }
+  ]
 }

@@ -3,7 +3,6 @@
   "filename": "slimscroll.min.js",
   "description": "A javascript library for filtering json object and rendering html",
   "license": "MIT",
-  "author": "Mr_Green",
   "homepage": "http://www.uxrim.com/slim-scroll/",
   "keywords": [
     "slim-scroll",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mr_Green"
+    }
+  ]
 }

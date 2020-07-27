@@ -2,9 +2,6 @@
   "name": "jquery.lifestream",
   "description": "jQuery plugin to show a stream of your online activity.",
   "keywords": [],
-  "author": {
-    "name": "Christian Vuerings"
-  },
   "license": "ISC",
   "homepage": "https://github.com/christianvuerings/jquery-lifestream#readme",
   "repository": {
@@ -29,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Christian Vuerings"
+    }
+  ]
 }

@@ -24,13 +24,15 @@
     "properties",
     "observer"
   ],
-  "author": {
-    "name": "Darcy Clarke",
-    "url": "http://darcyclarke.me"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/darcyclarke/Watch.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Darcy Clarke",
+      "url": "http://darcyclarke.me"
+    }
+  ]
 }

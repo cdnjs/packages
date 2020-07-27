@@ -22,10 +22,6 @@
     "sprite",
     "audio sprite"
   ],
-  "author": {
-    "name": "Adi Reddy Mora",
-    "email": "adiinteractive@gmail.com"
-  },
   "license": "MIT",
   "homepage": "http://www.waudjs.com",
   "autoupdate": {
@@ -39,5 +35,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Adi Reddy Mora",
+      "email": "adiinteractive@gmail.com"
+    }
+  ]
 }

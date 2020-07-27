@@ -1,5 +1,4 @@
 {
-  "author": "Dom Christie",
   "description": "A library that converts HTML to Markdown",
   "filename": "turndown.js",
   "homepage": "https://domchristie.github.io/turndown/",
@@ -29,5 +28,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dom Christie"
+    }
+  ]
 }

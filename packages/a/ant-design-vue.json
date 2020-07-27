@@ -1,5 +1,4 @@
 {
-  "author": "tangjinzhou <415800467@qq.com>",
   "description": "An enterprise-class UI design language and Vue-based implementation",
   "filename": "antd.min.js",
   "homepage": "https://www.antdv.com",
@@ -32,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "tangjinzhou",
+      "email": "415800467@qq.com"
+    }
+  ]
 }

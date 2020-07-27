@@ -17,7 +17,6 @@
     "type": "git",
     "url": "git+https://github.com/ymc-thzi/clickspark.js.git"
   },
-  "author": "Thomas Zinnbauer",
   "license": "MIT",
   "homepage": "http://www.ymc.ch/sandbox/clickspark/demo.html",
   "autoupdate": {
@@ -31,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Thomas Zinnbauer"
+    }
+  ]
 }

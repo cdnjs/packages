@@ -8,11 +8,6 @@
     "screenshot",
     "html5"
   ],
-  "author": {
-    "name": "Niklas von Hertzen",
-    "email": "niklasvh@gmail.com",
-    "url": "http://hertzen.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -32,5 +27,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/niklasvh/html2canvas.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Niklas von Hertzen",
+      "email": "niklasvh@gmail.com",
+      "url": "http://hertzen.com"
+    }
+  ]
 }

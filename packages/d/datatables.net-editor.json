@@ -5,10 +5,6 @@
     "DataTables",
     "Editor"
   ],
-  "author": {
-    "name": "SpryMedia Ltd",
-    "url": "http://datatables.net"
-  },
   "license": "SEE LICENSE IN License.md",
   "homepage": "https://datatables.net",
   "repository": {
@@ -27,5 +23,11 @@
       }
     ]
   },
-  "filename": "dataTables.editor.min.js"
+  "filename": "dataTables.editor.min.js",
+  "authors": [
+    {
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
+    }
+  ]
 }

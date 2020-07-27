@@ -3,10 +3,6 @@
   "filename": "jquery.infieldLabel.min.js",
   "description": "A jQuery plugin that creates a compact, text-over-input, form layout while using semabtic HTML and preserving usability and accessibility.",
   "license": "MIT",
-  "author": {
-    "email": "jeremy.fields@viget.com",
-    "name": "Jeremy Fields"
-  },
   "keywords": [
     "ui",
     "dom",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "jeremy.fields@viget.com",
+      "name": "Jeremy Fields"
+    }
+  ]
 }

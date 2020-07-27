@@ -17,10 +17,6 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": {
-    "name": "Philip Klauzinski",
-    "url": "http://gui.ninja"
-  },
   "license": "MIT",
   "homepage": "http://jscroll.com",
   "autoupdate": {
@@ -34,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Philip Klauzinski",
+      "url": "http://gui.ninja"
+    }
+  ]
 }

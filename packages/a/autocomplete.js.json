@@ -11,7 +11,6 @@
     "url": "https://github.com/algolia/autocomplete.js.git"
   },
   "filename": "autocomplete.jquery.min.js",
-  "author": "Algolia Team <support@algolia.com>",
   "autoupdate": {
     "source": "npm",
     "target": "autocomplete.js",
@@ -23,5 +22,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Algolia Team",
+      "email": "support@algolia.com"
+    }
+  ]
 }

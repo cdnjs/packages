@@ -4,19 +4,24 @@
   "homepage": "http://ct.de/-2467514",
   "authors": [
     {
-      "name": "Ines Pauer <ipa@heise.de>"
+      "name": "Ines Pauer",
+      "email": "ipa@heise.de"
     },
     {
-      "name": "Philipp Busse <pmb@heise.de>"
+      "name": "Philipp Busse",
+      "email": "pmb@heise.de"
     },
     {
-      "name": "Sebastian Hilbig <seh@heise.de>"
+      "name": "Sebastian Hilbig",
+      "email": "seh@heise.de"
     },
     {
-      "name": "Erich Kramer <km@heise.de>"
+      "name": "Erich Kramer",
+      "email": "km@heise.de"
     },
     {
-      "name": "Deniz Sesli <dzs@heise.de>"
+      "name": "Deniz Sesli",
+      "email": "dzs@heise.de"
     }
   ],
   "description": "Shariff enables website users to share their favorite content without compromising their privacy.",

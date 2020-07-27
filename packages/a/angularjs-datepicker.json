@@ -15,11 +15,6 @@
     "url": "https://github.com/720kb/angular-datepicker.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Filippo Oretti",
-    "email": "filippo.oretti@gmail.com",
-    "url": "https://github.com/45kb"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "angularjs-datepicker",
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Filippo Oretti",
+      "email": "filippo.oretti@gmail.com",
+      "url": "https://github.com/45kb"
+    }
+  ]
 }

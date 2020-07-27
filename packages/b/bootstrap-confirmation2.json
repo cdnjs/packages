@@ -1,5 +1,4 @@
 {
-  "author": "Nimit Suwannagate & Damien \"Mistic\" Sorel",
   "description": "Bootstrap plugin for on-place confirm boxes using Popover",
   "filename": "bootstrap-confirmation.min.js",
   "homepage": "http://bootstrap-confirmation.js.org",
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nimit Suwannagate & Damien \"Mistic\" Sorel"
+    }
+  ]
 }

@@ -11,7 +11,6 @@
     "emojify",
     "javascript"
   ],
-  "author": "Hassan Khan",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Hassan Khan"
+    }
+  ]
 }

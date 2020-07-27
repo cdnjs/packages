@@ -9,7 +9,6 @@
     "meeting",
     "event"
   ],
-  "author": "BunKat <bill@bunkat.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/bunkat/schedule.git"
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "BunKat",
+      "email": "bill@bunkat.com"
+    }
+  ]
 }

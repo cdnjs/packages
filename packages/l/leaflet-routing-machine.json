@@ -11,10 +11,6 @@
     "routing",
     "osrm"
   ],
-  "author": {
-    "name": "Per Liedman",
-    "email": "per@liedman.net"
-  },
   "license": "ISC",
   "homepage": "http://www.liedman.net/leaflet-routing-machine/",
   "autoupdate": {
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Per Liedman",
+      "email": "per@liedman.net"
+    }
+  ]
 }

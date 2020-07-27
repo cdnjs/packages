@@ -17,7 +17,6 @@
     "embeds",
     "padding-top"
   ],
-  "author": "Jeff Wainwright <jjwainwright2@gmail.com> (https://jeffry.in)",
   "homepage": "https://dollarshaveclub.github.io/reframe.js/",
   "license": "MIT",
   "autoupdate": {
@@ -31,5 +30,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jeff Wainwright",
+      "email": "jjwainwright2@gmail.com",
+      "url": "https://jeffry.in"
+    }
+  ]
 }

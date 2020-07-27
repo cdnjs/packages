@@ -2,7 +2,6 @@
   "name": "angular-ui-sortable",
   "filename": "sortable.min.js",
   "description": "This directive allows you to jQueryUI Sortable.",
-  "author": "https://github.com/angular-ui/ui-sortable/graphs/contributors",
   "license": "MIT",
   "homepage": "http://angular-ui.github.com",
   "repository": {
@@ -26,5 +25,10 @@
     "angular",
     "ui",
     "sortable"
+  ],
+  "authors": [
+    {
+      "name": "https://github.com/angular-ui/ui-sortable/graphs/contributors"
+    }
   ]
 }

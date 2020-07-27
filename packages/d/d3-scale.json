@@ -10,10 +10,6 @@
   ],
   "homepage": "https://d3js.org/d3-scale/",
   "license": "BSD-3-Clause",
-  "author": {
-    "name": "Mike Bostock",
-    "url": "https://bost.ocks.org/mike"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/d3/d3-scale.git"
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mike Bostock",
+      "url": "https://bost.ocks.org/mike"
+    }
+  ]
 }

@@ -19,7 +19,6 @@
     "gantt-chart",
     "javascript-gantt"
   ],
-  "author": "Faris Ansari",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -32,5 +31,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Faris Ansari"
+    }
+  ]
 }

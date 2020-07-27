@@ -2,11 +2,6 @@
   "name": "minimap",
   "filename": "minimap.min.js",
   "description": "A preview of full web page",
-  "author": {
-    "name": "Prince John Wesley",
-    "email": "princejohnwesley@gmail.com",
-    "url": "http://www.toolitup.com"
-  },
   "license": "MIT",
   "homepage": "http://www.toolitup.com/minimap.html",
   "keywords": [
@@ -29,5 +24,12 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/princejwesley/minimap.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Prince John Wesley",
+      "email": "princejohnwesley@gmail.com",
+      "url": "http://www.toolitup.com"
+    }
+  ]
 }

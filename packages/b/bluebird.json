@@ -14,11 +14,6 @@
     "url": "git://github.com/petkaantonov/bluebird.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Petka Antonov",
-    "email": "petka_antonov@hotmail.com",
-    "url": "https://github.com/petkaantonov/"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "bluebird",
@@ -30,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Petka Antonov",
+      "email": "petka_antonov@hotmail.com",
+      "url": "https://github.com/petkaantonov/"
+    }
+  ]
 }

@@ -27,10 +27,6 @@
     "type": "git",
     "url": "https://github.com/SkidX/tweene.git"
   },
-  "author": {
-    "name": "Federico Orru'",
-    "url": "http://buzzler.com"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "tweene",
@@ -42,5 +38,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Federico Orru'",
+      "url": "http://buzzler.com"
+    }
+  ]
 }

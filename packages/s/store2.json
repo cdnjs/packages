@@ -9,11 +9,6 @@
     "namespace",
     "store"
   ],
-  "author": {
-    "name": "Nathan Bubna",
-    "email": "nathan@esha.com",
-    "url": "http://www.esha.com/"
-  },
   "repository": {
     "type": "git",
     "url": "http://github.com/nbubna/store.git"
@@ -30,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nathan Bubna",
+      "email": "nathan@esha.com",
+      "url": "http://www.esha.com/"
+    }
+  ]
 }

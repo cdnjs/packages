@@ -14,10 +14,6 @@
     "url": "git+https://github.com/andreypopp/react-textarea-autosize.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Andrey Popp",
-    "email": "8mayday@gmail.com"
-  },
   "homepage": "https://andreypopp.github.io/react-textarea-autosize/",
   "autoupdate": {
     "source": "npm",
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrey Popp",
+      "email": "8mayday@gmail.com"
+    }
+  ]
 }

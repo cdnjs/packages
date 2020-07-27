@@ -6,10 +6,6 @@
     "search",
     "site-search"
   ],
-  "author": {
-    "name": "Tipue",
-    "url": "http://www.tipue.com"
-  },
   "license": "MIT",
   "homepage": "http://www.tipue.com/search/",
   "autoupdate": {
@@ -27,5 +23,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Tipue/Tipue-Search.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Tipue",
+      "url": "http://www.tipue.com"
+    }
+  ]
 }

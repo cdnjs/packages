@@ -15,7 +15,6 @@
   ],
   "license": "MIT",
   "homepage": "https://khan4019.github.io/tree-grid-directive/test/treeGrid.html",
-  "author": "Md Khan",
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/khan4019/tree-grid-directive.git",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Md Khan"
+    }
+  ]
 }

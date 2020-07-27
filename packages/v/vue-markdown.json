@@ -6,7 +6,6 @@
     "markdown",
     "vue-markdown"
   ],
-  "author": "miaolz123",
   "license": "MIT",
   "homepage": "https://github.com/miaolz123/vue-markdown#readme",
   "repository": {
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "miaolz123"
+    }
+  ]
 }

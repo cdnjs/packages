@@ -9,7 +9,6 @@
     "feed"
   ],
   "license": "MIT",
-  "author": "Michael Lynch <mikethomaslynch@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/michael-lynch/instagram-lite"
@@ -31,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Michael Lynch",
+      "email": "mikethomaslynch@gmail.com"
+    }
+  ]
 }

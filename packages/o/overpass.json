@@ -11,7 +11,6 @@
     "type": "git",
     "url": "https://github.com/RedHatBrand/Overpass"
   },
-  "author": "Red Hat Brand Team <@RedHatBrand> (https://brand.redhat.com/)",
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/RedHatBrand/Overpass.git",
@@ -24,5 +23,12 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Red Hat Brand Team",
+      "email": "@RedHatBrand",
+      "url": "https://brand.redhat.com/"
+    }
+  ],
   "license": "(LGPL-2.1 OR OFL-1.1)"
 }

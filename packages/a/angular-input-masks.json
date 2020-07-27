@@ -11,7 +11,6 @@
     "mask",
     "angularjs"
   ],
-  "author": "igor.rafael@gmail.com",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "igor.rafael@gmail.com"
+    }
+  ]
 }

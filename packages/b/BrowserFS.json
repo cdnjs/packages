@@ -7,7 +7,6 @@
     "node",
     "storage"
   ],
-  "author": "John Vilk <jvilk@cs.umass.edu> (http://people.cs.umass.edu/~jvilk)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -24,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "John Vilk",
+      "email": "jvilk@cs.umass.edu",
+      "url": "http://people.cs.umass.edu/~jvilk"
+    }
+  ]
 }

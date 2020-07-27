@@ -25,5 +25,10 @@
     "url": "git://github.com/kumailht/gridforms.git"
   },
   "license": "MIT",
-  "author": "Kumail Hunaid <contact@kumailht.com>"
+  "authors": [
+    {
+      "name": "Kumail Hunaid",
+      "email": "contact@kumailht.com"
+    }
+  ]
 }

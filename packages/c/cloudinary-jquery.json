@@ -1,9 +1,4 @@
 {
-  "author": {
-    "email": "info@cloudinary.com",
-    "homepage": "https://cloudinary.com",
-    "name": "Cloudinary"
-  },
   "description": "Cloudinary Client Side JS library. Cloudinary streamlines your web application’s image manipulation needs. Cloudinary's cloud-based servers automate image uploading, resizing, cropping, optimizing, sprite generation and more.",
   "filename": "cloudinary-jquery.min.js",
   "homepage": "https://cloudinary.com/documentation/jquery_integration",
@@ -61,5 +56,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "info@cloudinary.com",
+      "name": "Cloudinary",
+      "url": "https://cloudinary.com"
+    }
+  ]
 }

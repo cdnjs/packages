@@ -3,11 +3,6 @@
   "filename": "dollar.min.js",
   "description": "A jQuery-compatible and non-All-in-One library which is more \"Zepto\" than Zepto.js",
   "homepage": "http://ozjs.org/DollarJS/",
-  "author": {
-    "name": "dexteryy",
-    "email": "dexter.yy@gmail.com",
-    "url": "https://github.com/dexteryy"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/dexteryy/DollarJS.git"
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "dexteryy",
+      "email": "dexter.yy@gmail.com",
+      "url": "https://github.com/dexteryy"
+    }
+  ]
 }

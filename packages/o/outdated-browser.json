@@ -6,7 +6,6 @@
     "type": "git",
     "url": "https://github.com/burocratik/outdated-browser.git"
   },
-  "author": "Bürocratik",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/burocratik/outdated-browser.git",
@@ -26,5 +25,10 @@
   "keywords": [
     "outdated",
     "browser"
+  ],
+  "authors": [
+    {
+      "name": "Bürocratik"
+    }
   ]
 }

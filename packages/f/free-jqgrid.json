@@ -20,7 +20,6 @@
     "grouping",
     "searching"
   ],
-  "author": "Oleg Kiriljuk <oleg.kiriljuk@ok-soft-gmbh.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -33,5 +32,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Oleg Kiriljuk",
+      "email": "oleg.kiriljuk@ok-soft-gmbh.com"
+    }
+  ]
 }

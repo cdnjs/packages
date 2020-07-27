@@ -9,11 +9,6 @@
     "crop",
     "cropper"
   ],
-  "author": {
-    "name": "Michał Wojciechowski",
-    "email": "odyniec@odyniec.net",
-    "url": "http://odyniec.net/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/odyniec/imgareaselect"
@@ -30,5 +25,12 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Michał Wojciechowski",
+      "email": "odyniec@odyniec.net",
+      "url": "http://odyniec.net/"
+    }
+  ],
   "license": "(GPL-2.0 OR MIT)"
 }

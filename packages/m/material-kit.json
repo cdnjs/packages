@@ -3,7 +3,6 @@
   "description": "A Badass Bootstrap UI Kit based on Material Design",
   "filename": "js/material-kit.min.js",
   "homepage": "https://www.creative-tim.com/product/material-kit",
-  "author": "creative-tim",
   "keywords": [
     "material",
     "bootstrap",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "creative-tim"
+    }
+  ]
 }

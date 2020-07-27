@@ -15,7 +15,6 @@
     "type": "git",
     "url": "https://github.com/muicss/mui.git"
   },
-  "author": "Andres Morey <andres@muicss.com>",
   "autoupdate": {
     "source": "npm",
     "target": "muicss",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andres Morey",
+      "email": "andres@muicss.com"
+    }
+  ]
 }

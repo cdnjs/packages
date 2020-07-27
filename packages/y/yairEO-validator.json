@@ -9,10 +9,6 @@
     "input"
   ],
   "homepage": "https://yaireo.github.io/validator/",
-  "author": {
-    "name": "Yair Even Or",
-    "url": "http://dropthebit.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Yair Even Or",
+      "url": "http://dropthebit.com"
+    }
+  ]
 }

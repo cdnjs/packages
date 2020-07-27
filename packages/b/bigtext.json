@@ -5,7 +5,6 @@
     "grunt",
     "typography"
   ],
-  "author": "Zach Leatherman <zachleatherman@gmail.com> (http://zachleat.com)",
   "license": "MIT",
   "homepage": "https://github.com/zachleat/bigtext",
   "repository": {
@@ -24,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Zach Leatherman",
+      "email": "zachleatherman@gmail.com",
+      "url": "http://zachleat.com"
+    }
+  ]
 }

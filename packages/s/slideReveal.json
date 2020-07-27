@@ -7,11 +7,6 @@
     "jquery-plugin"
   ],
   "homepage": "https://nnattawat.github.io/slideReveal",
-  "author": {
-    "name": "Nattawat Nonsung",
-    "email": "armmer1@gmail.com",
-    "url": "https://github.com/nnattawat"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/nnattawat/slideReveal.git"
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nattawat Nonsung",
+      "email": "armmer1@gmail.com",
+      "url": "https://github.com/nnattawat"
+    }
+  ]
 }

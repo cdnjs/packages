@@ -1,5 +1,4 @@
 {
-  "author": "Digital Surgeons",
   "description": "Social sharing for developers",
   "filename": "openshare.min.js",
   "keywords": [
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Digital Surgeons"
+    }
+  ]
 }

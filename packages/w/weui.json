@@ -10,10 +10,6 @@
     "mobile"
   ],
   "filename": "style/weui.min.css",
-  "author": {
-    "name": "wechat ui team",
-    "url": "https://github.com/weui"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/weui/weui.git"
@@ -30,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "wechat ui team",
+      "url": "https://github.com/weui"
+    }
+  ]
 }

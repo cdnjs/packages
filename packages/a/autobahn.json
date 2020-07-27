@@ -15,7 +15,6 @@
     "data-service",
     "data-monetization"
   ],
-  "author": "Crossbar.io Technologies GmbH",
   "license": "MIT",
   "homepage": "https://github.com/crossbario/autobahn-js#readme",
   "repository": {
@@ -34,5 +33,10 @@
       }
     ]
   },
-  "filename": "autobahn.min.js"
+  "filename": "autobahn.min.js",
+  "authors": [
+    {
+      "name": "Crossbar.io Technologies GmbH"
+    }
+  ]
 }

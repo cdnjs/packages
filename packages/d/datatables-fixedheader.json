@@ -10,7 +10,6 @@
     "table",
     "DataTables"
   ],
-  "author": "SpryMedia Ltd (http://datatables.net)",
   "license": "MIT",
   "homepage": "https://datatables.net",
   "repository": {
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
+    }
+  ]
 }

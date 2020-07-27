@@ -21,7 +21,6 @@
     "magic-trackpad",
     "apple-pencil"
   ],
-  "author": "Stuart Yamartino",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -34,5 +33,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Stuart Yamartino"
+    }
+  ]
 }

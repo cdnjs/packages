@@ -21,7 +21,6 @@
     "url": "git+https://github.com/RobinCK/vue-ls.git"
   },
   "homepage": "https://robinck.github.io/vue-ls/",
-  "author": "Igor Ognichenko <ognichenko.igor@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -34,5 +33,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Igor Ognichenko",
+      "email": "ognichenko.igor@gmail.com"
+    }
+  ]
 }

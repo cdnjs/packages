@@ -15,8 +15,10 @@
     "url": "https://github.com/headjs/headjs"
   },
   "license": "MIT",
-  "author": {
-    "name": "Various contributors",
-    "url": "http://headjs.com"
-  }
+  "authors": [
+    {
+      "name": "Various contributors",
+      "url": "http://headjs.com"
+    }
+  ]
 }

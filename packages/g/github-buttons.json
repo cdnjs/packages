@@ -7,11 +7,6 @@
     "frontend",
     "component"
   ],
-  "author": {
-    "name": "なつき",
-    "email": "i@ntk.me",
-    "url": "https://ntk.me/"
-  },
   "license": "BSD-2-Clause",
   "homepage": "https://buttons.github.io/",
   "repository": {
@@ -30,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "なつき",
+      "email": "i@ntk.me",
+      "url": "https://ntk.me/"
+    }
+  ]
 }

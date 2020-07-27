@@ -2,10 +2,6 @@
   "name": "rangeslider.js",
   "description": "Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type=\"range\"> slider element",
   "filename": "rangeslider.min.css",
-  "author": {
-    "name": "André Ruffert",
-    "url": "http://andreruffert.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/andreruffert/rangeslider.js.git"
@@ -32,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "André Ruffert",
+      "url": "http://andreruffert.com"
+    }
+  ]
 }

@@ -2,9 +2,6 @@
   "name": "Fort.js",
   "filename": "fort.min.js",
   "description": "Modern progress bar for form completion.",
-  "author": {
-    "name": "Idris Khenchil"
-  },
   "keywords": [
     "fort",
     "fort.js"
@@ -13,5 +10,10 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/idriskhenchil/Fort.js"
-  }
+  },
+  "authors": [
+    {
+      "name": "Idris Khenchil"
+    }
+  ]
 }

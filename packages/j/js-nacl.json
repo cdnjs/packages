@@ -2,7 +2,6 @@
   "name": "js-nacl",
   "filename": "nacl_factory.min.js",
   "description": "Emscripten-compiled Javascript version of NaCl, the Networking and Cryptography library.",
-  "author": "Tony Garnock-Jones",
   "keywords": [
     "encryption",
     "high-level",
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tony Garnock-Jones"
+    }
+  ]
 }

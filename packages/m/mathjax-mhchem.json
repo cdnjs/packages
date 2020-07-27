@@ -8,7 +8,6 @@
     "Chemistry"
   ],
   "license": "Apache-2.0",
-  "author": "Martin Hensel",
   "repository": {
     "type": "git",
     "url": "git://github.com/mhchem/MathJax-mhchem.git"
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Martin Hensel"
+    }
+  ]
 }

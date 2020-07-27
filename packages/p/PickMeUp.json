@@ -8,11 +8,6 @@
     "calendar"
   ],
   "homepage": "https://nazar-pc.github.io/PickMeUp/",
-  "author": {
-    "name": "Nazar Mokrynskyi",
-    "email": "nazar@mokrynskyi.com",
-    "url": "https://cleverstyle.org"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/nazar-pc/PickMeUp.git"
@@ -35,5 +30,12 @@
       }
     ]
   },
-  "license": "0BSD"
+  "license": "0BSD",
+  "authors": [
+    {
+      "name": "Nazar Mokrynskyi",
+      "email": "nazar@mokrynskyi.com",
+      "url": "https://cleverstyle.org"
+    }
+  ]
 }

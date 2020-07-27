@@ -1,7 +1,6 @@
 {
   "name": "operative",
   "description": "Operative: Inline Web-Worker Helper",
-  "author": "James Padolsey (http://git.io/padolsey)",
   "keywords": [],
   "repository": {
     "type": "git",
@@ -20,5 +19,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "James Padolsey",
+      "url": "http://git.io/padolsey"
+    }
+  ]
 }

@@ -11,7 +11,6 @@
     "es2015",
     "lightweight"
   ],
-  "author": "Dominic Gannaway",
   "license": "ISC",
   "autoupdate": {
     "source": "npm",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dominic Gannaway"
+    }
+  ]
 }

@@ -10,7 +10,6 @@
     "angular",
     "filemanager"
   ],
-  "author": "Jonas Sciangula Street",
   "license": "MIT",
   "homepage": "http://angular-filemanager.zendelsolutions.com/",
   "autoupdate": {
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jonas Sciangula Street"
+    }
+  ]
 }

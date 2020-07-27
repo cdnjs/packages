@@ -2,7 +2,6 @@
   "name": "jQuery.scrollSpeed",
   "filename": "jQuery.scrollSpeed.min.js",
   "description": "Extension for custom scrolling speed and easing",
-  "author": "Nathan Rutzky",
   "homepage": "https://code.nath.co/scrollSpeed",
   "repository": {
     "type": "git",
@@ -12,6 +11,11 @@
     "jquery",
     "scrolling",
     "easing"
+  ],
+  "authors": [
+    {
+      "name": "Nathan Rutzky"
+    }
   ],
   "license": "(MIT OR CC0-1.0)"
 }

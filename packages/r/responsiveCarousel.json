@@ -13,11 +13,6 @@
     "swipe",
     "keyboard"
   ],
-  "author": {
-    "name": "Basilio Cáceres",
-    "email": "basilio.caceres@gmail.com",
-    "url": "http://isotipo.net"
-  },
   "license": "MIT",
   "homepage": "https://basilio.github.io/responsiveCarousel/",
   "autoupdate": {
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Basilio Cáceres",
+      "email": "basilio.caceres@gmail.com",
+      "url": "http://isotipo.net"
+    }
+  ]
 }

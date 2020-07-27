@@ -6,7 +6,6 @@
     "type": "git",
     "url": "https://github.com/paulmillr/console-polyfill"
   },
-  "author": "Paul Miller (paulmillr.com)",
   "license": "MIT",
   "keywords": [
     "console",
@@ -23,5 +22,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Paul Miller",
+      "url": "paulmillr.com"
+    }
+  ]
 }

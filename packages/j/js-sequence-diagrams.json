@@ -1,6 +1,5 @@
 {
   "name": "js-sequence-diagrams",
-  "author": "Andrew Brampton (bramp.net)",
   "homepage": "http://bramp.github.io/js-sequence-diagrams/",
   "filename": "sequence-diagram-min.js",
   "description": "Generates UML sequence diagrams from simple text",
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrew Brampton",
+      "url": "bramp.net"
+    }
+  ]
 }

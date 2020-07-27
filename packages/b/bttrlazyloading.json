@@ -26,5 +26,9 @@
     "type": "git",
     "url": "https://github.com/shprink/BttrLazyLoading"
   },
-  "author": "Julien Renaux"
+  "authors": [
+    {
+      "name": "Julien Renaux"
+    }
+  ]
 }

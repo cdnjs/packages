@@ -28,5 +28,10 @@
       }
     ]
   },
-  "author": "Túbal Martín <tubalmartin@gmail.com>"
+  "authors": [
+    {
+      "name": "Túbal Martín",
+      "email": "tubalmartin@gmail.com"
+    }
+  ]
 }

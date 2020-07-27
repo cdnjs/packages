@@ -8,7 +8,6 @@
     "unit",
     "testing"
   ],
-  "author": "Jonathan Sharp (http://jdsharp.com/)",
   "homepage": "http://code.appendto.com/plugins/jquery-mockjax/",
   "license": "(MIT OR GPLv2)",
   "autoupdate": {
@@ -26,5 +25,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jakerella/jquery-mockjax.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Jonathan Sharp",
+      "url": "http://jdsharp.com/"
+    }
+  ]
 }

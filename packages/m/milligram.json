@@ -8,7 +8,6 @@
     "url": "git@github.com:milligram/milligram.git"
   },
   "license": "MIT",
-  "author": "CJ Patoilo <cjpatoilo@gmail.com>",
   "keywords": [
     "boilerplate",
     "bootstrap",
@@ -41,5 +40,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "CJ Patoilo",
+      "email": "cjpatoilo@gmail.com"
+    }
+  ]
 }

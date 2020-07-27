@@ -3,10 +3,6 @@
   "filename": "foonav.min.js",
   "description": "FooNav.js - Simple Navigation Plugin",
   "homepage": "https://fooplugins.com",
-  "author": {
-    "name": "FooPlugins",
-    "url": "http://fooplugins.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/fooplugins/foonav.git"
@@ -28,5 +24,11 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "FooPlugins",
+      "url": "http://fooplugins.com"
+    }
+  ]
 }

@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/kingpixil/wing.git"
   },
-  "author": "Kabir Shah",
   "license": "MIT",
   "homepage": "http://usewing.ml",
   "keywords": [
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kabir Shah"
+    }
+  ]
 }

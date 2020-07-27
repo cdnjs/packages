@@ -7,11 +7,6 @@
     "type": "git",
     "url": "https://github.com/paulhodel/jexcel.git"
   },
-  "author": {
-    "name": "Paul Hodel",
-    "email": "<paul.hodel@gmail.com>",
-    "url": "https://www.linkedin.com/in/paulhodel"
-  },
   "keywords": [
     "jquery-plugin",
     "spreadsheet",
@@ -36,5 +31,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Paul Hodel",
+      "email": "<paul.hodel@gmail.com>",
+      "url": "https://www.linkedin.com/in/paulhodel"
+    }
+  ]
 }

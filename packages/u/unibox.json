@@ -6,10 +6,6 @@
     "search",
     "suggestion"
   ],
-  "author": {
-    "name": "David Urbansky",
-    "url": "https://github.com/ddsky/unibox"
-  },
   "license": "MIT",
   "homepage": "https://spoonacular.com/meal-planner",
   "repository": {
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "David Urbansky",
+      "url": "https://github.com/ddsky/unibox"
+    }
+  ]
 }

@@ -6,7 +6,6 @@
     "url": "git+https://github.com/staltz/xstream.git"
   },
   "homepage": "http://staltz.com/xstream/",
-  "author": "Andre Staltz <andre+npm@staltz.com> (http://andre.staltz.com/)",
   "license": "MIT",
   "keywords": [
     "xstream",
@@ -25,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andre Staltz",
+      "email": "andre+npm@staltz.com",
+      "url": "http://andre.staltz.com/"
+    }
+  ]
 }

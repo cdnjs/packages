@@ -2,11 +2,6 @@
   "name": "deb.js",
   "filename": "deb.min.js",
   "description": "Minimalistic JavaScript library for debugging in the browser",
-  "author": {
-    "name": "Krasimir Tsonev",
-    "email": "info@krasimirtsonev.com",
-    "url": "http://krasimirtsonev.com"
-  },
   "license": "MIT",
   "keywords": [
     "javascript",
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Krasimir Tsonev",
+      "email": "info@krasimirtsonev.com",
+      "url": "http://krasimirtsonev.com"
+    }
+  ]
 }

@@ -12,10 +12,6 @@
     "image",
     "preview"
   ],
-  "author": {
-    "name": "PQINA",
-    "url": "https://pqina.nl/"
-  },
   "license": "MIT",
   "homepage": "https://pqina.nl/filepond/",
   "repository": {
@@ -34,5 +30,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "PQINA",
+      "url": "https://pqina.nl/"
+    }
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "name": "flat-ui",
   "description": "Flat UI Free is a beautiful theme for Bootstrap. We have redesigned many of its components to look flat in every pixel",
-  "author": "Designmodo, Inc.",
   "license": "CC BY 3.0 and MIT",
   "homepage": "http://designmodo.github.io/Flat-UI/",
   "keywords": [
@@ -25,5 +24,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Designmodo, Inc."
+    }
+  ]
 }

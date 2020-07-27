@@ -21,10 +21,6 @@
     "type": "git",
     "url": "https://github.com/MikeMcl/decimal.js.git"
   },
-  "author": {
-    "name": "Michael Mclaughlin",
-    "email": "M8ch88l@gmail.com"
-  },
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -38,5 +34,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Michael Mclaughlin",
+      "email": "M8ch88l@gmail.com"
+    }
+  ]
 }

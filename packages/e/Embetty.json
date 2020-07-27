@@ -1,8 +1,4 @@
 {
-  "author": {
-    "email": "pmb@heise.de",
-    "name": "Philipp Busse"
-  },
   "description": "Embetty displays remote content like tweets or videos without compromising your privacy.",
   "filename": "embetty.js",
   "homepage": "https://heiseonline.github.io/embetty/",
@@ -28,5 +24,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "pmb@heise.de",
+      "name": "Philipp Busse"
+    }
+  ]
 }

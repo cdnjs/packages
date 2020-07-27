@@ -1,6 +1,5 @@
 {
   "name": "Ripple.js",
-  "author": "Jacob Kelley",
   "filename": "ripple.min.js",
   "description": "Adds Material style ripple to buttons, links",
   "repository": {
@@ -28,5 +27,10 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jacob Kelley"
+    }
+  ]
 }

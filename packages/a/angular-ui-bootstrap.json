@@ -7,7 +7,6 @@
     "bootstrap",
     "ui"
   ],
-  "author": "https://github.com/angular-ui/bootstrap/graphs/contributors",
   "license": "MIT",
   "homepage": "http://angular-ui.github.io/bootstrap/",
   "repository": {
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "https://github.com/angular-ui/bootstrap/graphs/contributors"
+    }
+  ]
 }

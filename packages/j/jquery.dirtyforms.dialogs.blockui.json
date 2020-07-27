@@ -1,7 +1,6 @@
 {
   "name": "jquery.dirtyforms.dialogs.blockui",
   "filename": "jquery.dirtyforms.dialogs.blockui.min.js",
-  "author": "Shad Storhaug <shad@shadstorhaug.com>",
   "description": "Dirty Forms is a jQuery plugin to help prevent users from losing data when editing forms.",
   "keywords": [
     "blockui",
@@ -32,5 +31,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Shad Storhaug",
+      "email": "shad@shadstorhaug.com"
+    }
+  ]
 }

@@ -17,10 +17,6 @@
     "type": "git",
     "url": "https://github.com/shuhei/material-colors.git"
   },
-  "author": {
-    "name": "Shuhei Kagawa",
-    "email": "shuhei.kagawa@gmail.com"
-  },
   "license": "ISC",
   "autoupdate": {
     "source": "npm",
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Shuhei Kagawa",
+      "email": "shuhei.kagawa@gmail.com"
+    }
+  ]
 }

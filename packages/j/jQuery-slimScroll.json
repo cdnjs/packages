@@ -12,10 +12,6 @@
     "ui"
   ],
   "homepage": "http://rocha.la/jQuery-slimScroll/",
-  "author": {
-    "name": "Piotr Rochala",
-    "url": "http://rocha.la/"
-  },
   "license": "(MIT OR GPL)",
   "autoupdate": {
     "source": "git",
@@ -33,5 +29,11 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/rochal/jQuery-slimScroll.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "Piotr Rochala",
+      "url": "http://rocha.la/"
+    }
+  ]
 }

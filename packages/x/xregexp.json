@@ -12,7 +12,6 @@
     "url": "https://github.com/slevithan/XRegExp.git"
   },
   "license": "MIT",
-  "author": "Steven Levithan <steves_list@hotmail.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/slevithan/XRegExp.git",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Steven Levithan",
+      "email": "steves_list@hotmail.com"
+    }
+  ]
 }

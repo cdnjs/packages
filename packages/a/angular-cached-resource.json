@@ -1,7 +1,6 @@
 {
   "name": "angular-cached-resource",
   "description": "An AngularJS module to interact with RESTful resources, even when browser is offline",
-  "author": "Max Edmands <max@goodeggs.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/goodeggs/angular-cached-resource.git"
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Max Edmands",
+      "email": "max@goodeggs.com"
+    }
+  ]
 }

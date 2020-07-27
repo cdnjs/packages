@@ -14,7 +14,6 @@
     "markdown",
     "editor"
   ],
-  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -27,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nicolas Bevacqua",
+      "email": "nicolasbevacqua@gmail.com",
+      "url": "http://bevacqua.io/"
+    }
+  ]
 }

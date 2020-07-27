@@ -7,10 +7,6 @@
     "templates",
     "templating"
   ],
-  "author": {
-    "name": "Sebastian Tschan",
-    "url": "https://blueimp.net"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/blueimp/JavaScript-Templates.git"
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Sebastian Tschan",
+      "url": "https://blueimp.net"
+    }
+  ]
 }

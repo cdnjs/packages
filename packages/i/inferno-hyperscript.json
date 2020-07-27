@@ -3,11 +3,6 @@
   "filename": "inferno-hyperscript.min.js",
   "license": "MIT",
   "description": "Bridging hyperscript to InfernoJS",
-  "author": {
-    "name": "Terin Stock",
-    "email": "terinjokes@gmail.com",
-    "url": "https://terinstock.com/"
-  },
   "homepage": "https://infernojs.org/",
   "keywords": [
     "inferno",
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Terin Stock",
+      "email": "terinjokes@gmail.com",
+      "url": "https://terinstock.com/"
+    }
+  ]
 }

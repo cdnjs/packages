@@ -3,7 +3,6 @@
   "filename": "jquery-confirm.min.js",
   "description": "A jQuery plugin that provides great set of features like, Auto-close, Ajax-loading, background-dismiss, themes and more.",
   "homepage": "http://craftpip.github.io/jquery-confirm/",
-  "author": "Boniface Periera (http://github.com/craftpip/)",
   "repository": {
     "type": "git",
     "url": "https://github.com/craftpip/jquery-confirm.git"
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Boniface Periera",
+      "url": "http://github.com/craftpip/"
+    }
+  ]
 }

@@ -27,10 +27,12 @@
   },
   "authors": [
     {
-      "name": "Andrei Tuputcyn <Andrew.Tupitsin@gmail.com>"
+      "name": "Andrei Tuputcyn",
+      "email": "Andrew.Tupitsin@gmail.com"
     },
     {
-      "name": "Vitaly Puzrin <vitaly@rcdesign.ru>"
+      "name": "Vitaly Puzrin",
+      "email": "vitaly@rcdesign.ru"
     }
   ]
 }

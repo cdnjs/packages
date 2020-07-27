@@ -1,9 +1,4 @@
 {
-  "author": {
-    "email": "hello@jonsuh.com",
-    "name": "Jonathan Suh",
-    "url": "https://jonsuh.com/hamburgers"
-  },
   "description": "Collection of tasty CSS-animated hamburger icons. Includes Sass files (modular and customizable), so cook up your own hamburger.",
   "keywords": [
     "css",
@@ -31,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "email": "hello@jonsuh.com",
+      "name": "Jonathan Suh",
+      "url": "https://jonsuh.com/hamburgers"
+    }
+  ]
 }

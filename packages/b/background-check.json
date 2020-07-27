@@ -24,8 +24,10 @@
       }
     ]
   },
-  "author": {
-    "name": "Kenneth Cachia",
-    "url": "http://kennethcachia.com/"
-  }
+  "authors": [
+    {
+      "name": "Kenneth Cachia",
+      "url": "http://kennethcachia.com/"
+    }
+  ]
 }

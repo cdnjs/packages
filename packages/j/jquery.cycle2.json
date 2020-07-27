@@ -25,5 +25,10 @@
       }
     ]
   },
-  "author": "malsup <malsup@gmail.com>"
+  "authors": [
+    {
+      "name": "malsup",
+      "email": "malsup@gmail.com"
+    }
+  ]
 }

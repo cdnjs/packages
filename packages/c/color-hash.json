@@ -1,5 +1,4 @@
 {
-  "author": "Zeno Zeng",
   "description": "Generate color based on the given string (using HSL color space and BKDRHash).",
   "filename": "color-hash.js",
   "homepage": "https://zenozeng.github.io/color-hash/demo/",
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Zeno Zeng"
+    }
+  ]
 }

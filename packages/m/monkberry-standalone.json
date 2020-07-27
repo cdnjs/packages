@@ -9,7 +9,6 @@
   "keywords": [
     "monkberry"
   ],
-  "author": "Anton Medvedev <anton@medv.io>",
   "license": "MIT",
   "homepage": "http://monkberry.js.org",
   "autoupdate": {
@@ -23,5 +22,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Anton Medvedev",
+      "email": "anton@medv.io"
+    }
+  ]
 }

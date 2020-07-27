@@ -2,7 +2,6 @@
   "name": "angular-datatables",
   "description": "Angular module that provides a datatable directive along with datatable options helpers.",
   "filename": "angular-datatables.js",
-  "author": "l-lin",
   "keywords": [
     "datatable",
     "angular"
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "l-lin"
+    }
+  ]
 }

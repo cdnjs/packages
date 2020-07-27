@@ -8,7 +8,6 @@
     "mvc",
     "browser"
   ],
-  "author": "Leo Horie <leohorie@hotmail.com> (http://lhorie.blogspot.com/)",
   "repository": {
     "type": "git",
     "url": "https://github.com/MithrilJS/mithril.js.git"
@@ -27,5 +26,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Leo Horie",
+      "email": "leohorie@hotmail.com",
+      "url": "http://lhorie.blogspot.com/"
+    }
+  ]
 }

@@ -7,10 +7,6 @@
     "switch",
     "button"
   ],
-  "author": {
-    "name": "euvl",
-    "email": "yev.vlasenko@gmail.com"
-  },
   "license": "MIT",
   "homepage": "https://github.com/euvl/vue-js-toggle-button#readme",
   "repository": {
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "euvl",
+      "email": "yev.vlasenko@gmail.com"
+    }
+  ]
 }

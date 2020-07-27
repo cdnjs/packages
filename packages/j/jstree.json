@@ -3,11 +3,6 @@
   "filename": "jstree.min.js",
   "description": "jQuery tree plugin",
   "homepage": "http://jstree.com",
-  "author": {
-    "name": "Ivan Bozhanov",
-    "email": "jstree@jstree.com",
-    "url": "http://vakata.com"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/vakata/jstree.git"
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ivan Bozhanov",
+      "email": "jstree@jstree.com",
+      "url": "http://vakata.com"
+    }
+  ]
 }

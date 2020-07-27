@@ -11,10 +11,6 @@
     "type": "git",
     "url": "git://github.com/mahnunchik/markerclustererplus.git"
   },
-  "author": {
-    "name": "mahnunchik",
-    "url": "https://github.com/mahnunchik"
-  },
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "mahnunchik",
+      "url": "https://github.com/mahnunchik"
+    }
+  ]
 }

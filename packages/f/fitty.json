@@ -9,7 +9,6 @@
     "rescale",
     "resize"
   ],
-  "author": "Rik Schennink <rik@pqina.nl> (https://pqina.nl/)",
   "license": "MIT",
   "homepage": "https://github.com/rikschennink/fitty",
   "repository": {
@@ -28,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rik Schennink",
+      "email": "rik@pqina.nl",
+      "url": "https://pqina.nl/"
+    }
+  ]
 }

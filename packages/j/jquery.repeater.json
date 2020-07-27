@@ -12,7 +12,6 @@
     "multiple",
     "form"
   ],
-  "author": "Brian Detering <BDeterin@gmail.com> (http://www.briandetering.net/)",
   "license": "MIT",
   "homepage": "http://briandetering.net/repeater",
   "autoupdate": {
@@ -26,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Brian Detering",
+      "email": "BDeterin@gmail.com",
+      "url": "http://www.briandetering.net/"
+    }
+  ]
 }

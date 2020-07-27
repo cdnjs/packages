@@ -3,7 +3,6 @@
   "filename": "bootstrap-rating.min.js",
   "description": "A small jQuery plugin that turns an input field into a highly customizable rating component",
   "homepage": "http://dreyescat.github.io/bootstrap-rating/",
-  "author": "dreyescat",
   "keywords": [
     "rating",
     "jquery",
@@ -28,5 +27,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "dreyescat"
+    }
+  ]
 }

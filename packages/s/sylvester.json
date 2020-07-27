@@ -3,7 +3,6 @@
   "filename": "sylvester.min.js",
   "description": "Vector and Matrix math for JavaScript",
   "homepage": "http://sylvester.jcoglan.com/",
-  "author": "James Coglan <jcoglan@gmail.com> (http://jcoglan.com/)",
   "keywords": [
     "vector",
     "matrix",
@@ -14,5 +13,12 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/jcoglan/sylvester.git"
-  }
+  },
+  "authors": [
+    {
+      "name": "James Coglan",
+      "email": "jcoglan@gmail.com",
+      "url": "http://jcoglan.com/"
+    }
+  ]
 }

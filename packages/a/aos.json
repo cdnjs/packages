@@ -3,7 +3,6 @@
   "filename": "aos.js",
   "description": "Animate on scroll library",
   "homepage": "https://michalsnik.github.io/aos/",
-  "author": "Michał Sajnóg <michal.sajnog@hotmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -30,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Michał Sajnóg",
+      "email": "michal.sajnog@hotmail.com"
+    }
+  ]
 }

@@ -2,7 +2,6 @@
   "name": "popmotion",
   "filename": "popmotion.global.min.js",
   "description": "The JavaScript motion engine. Handles animation, physics, and input tracking.",
-  "author": "Matt Perry <sirhound@popmotion.io>",
   "homepage": "http://popmotion.io",
   "repository": {
     "type": "git",
@@ -40,5 +39,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Matt Perry",
+      "email": "sirhound@popmotion.io"
+    }
+  ]
 }

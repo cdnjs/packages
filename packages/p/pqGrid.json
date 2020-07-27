@@ -1,11 +1,6 @@
 {
   "name": "pqGrid",
   "filename": "pqgrid.min.js",
-  "author": {
-    "name": "Paramvir Dhindsa",
-    "email": "pdhindsa@paramquery.com",
-    "url": "http://www.paramquery.com/"
-  },
   "license": "GPL-3.0",
   "description": "Data grid inspired by MS Excel, provides sorting, filtering, paging, grouping, nesting, rows and cell selections, frozen rows, frozen columns, Add, delete, update, search, can display HTML, JSON, Array, XML, inline editing, validations, virtual rendering, virtual scrolling, cross browser, cross platform, Themeroller ready with 24 ready to use themes.",
   "homepage": "http://paramquery.com/",
@@ -48,5 +43,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Paramvir Dhindsa",
+      "email": "pdhindsa@paramquery.com",
+      "url": "http://www.paramquery.com/"
+    }
+  ]
 }

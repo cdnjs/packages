@@ -1,5 +1,4 @@
 {
-  "author": "Andrea Giammarchi",
   "description": "A Fast & Light Virtual DOM Alternative",
   "filename": "min.js",
   "homepage": "https://viperhtml.js.org/hyper.html",
@@ -35,5 +34,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andrea Giammarchi"
+    }
+  ]
 }

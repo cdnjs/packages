@@ -2,7 +2,6 @@
   "name": "jquery.photocols",
   "filename": "jquery.photocols.min.js",
   "description": "Photocols: A photo navigation for jQuery",
-  "author": "Dailos Medina <dailos@2coders.com>",
   "homepage": "http://2coders.com",
   "repository": {
     "type": "git",
@@ -23,5 +22,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dailos Medina",
+      "email": "dailos@2coders.com"
+    }
+  ]
 }

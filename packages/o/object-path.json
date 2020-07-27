@@ -1,5 +1,4 @@
 {
-  "author": "Mario Casciaro",
   "description": "Access deep object properties using a path",
   "filename": "index.js",
   "homepage": "https://github.com/mariocasciaro/object-path",
@@ -37,5 +36,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mario Casciaro"
+    }
+  ]
 }

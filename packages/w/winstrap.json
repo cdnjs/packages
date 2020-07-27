@@ -25,6 +25,10 @@
       }
     ]
   },
-  "author": "Microsoft",
+  "authors": [
+    {
+      "name": "Microsoft"
+    }
+  ],
   "license": "(MIT OR OFL-1.1)"
 }

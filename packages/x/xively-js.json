@@ -9,14 +9,16 @@
     "jquery"
   ],
   "homepage": "http://xively.github.com/xively-js/",
-  "author": {
-    "name": "Pete Correia",
-    "email": "support@xively.com",
-    "url": "https://xively.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/xively/xively-js.git"
   },
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Pete Correia",
+      "email": "support@xively.com",
+      "url": "https://xively.com"
+    }
+  ]
 }

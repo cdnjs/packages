@@ -3,10 +3,6 @@
   "filename": "motio.min.js",
   "description": "Small JavaScript library for sprite based animations and panning",
   "homepage": "http://darsa.in/motio",
-  "author": {
-    "name": "darsain",
-    "url": "https://github.com/darsain"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/darsain/motio.git"
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "darsain",
+      "url": "https://github.com/darsain"
+    }
+  ]
 }

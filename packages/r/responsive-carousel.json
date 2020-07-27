@@ -1,8 +1,4 @@
 {
-  "author": {
-    "name": "Filament Group, Inc.",
-    "url": "https://filamentgroup.com"
-  },
   "description": "A jQuery-based script for responsive carousels that work with mouse, touch, and keyboard",
   "filename": "responsive-carousel.js",
   "homepage": "https://master-origin-responsive-carousel.fgview.com/test/functional/flip-auto.html",
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Filament Group, Inc.",
+      "url": "https://filamentgroup.com"
+    }
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "name": "angular-utf8-base64",
   "filename": "angular-utf8-base64.min.js",
-  "author": "stranger82",
   "license": "MIT",
   "description": "Base64 encoding/decoding with UTF8 support for AngularJS Apps",
   "repository": {
@@ -24,5 +23,10 @@
     "angular",
     "utf8",
     "base64"
+  ],
+  "authors": [
+    {
+      "name": "stranger82"
+    }
   ]
 }

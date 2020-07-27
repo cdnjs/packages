@@ -12,7 +12,6 @@
     "wicked-good-xpath",
     "xpath"
   ],
-  "author": "Google Inc.",
   "license": "MIT",
   "homepage": "https://github.com/google/wicked-good-xpath",
   "repository": {
@@ -31,5 +30,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Google Inc."
+    }
+  ]
 }

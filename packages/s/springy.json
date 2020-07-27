@@ -6,11 +6,6 @@
     "type": "git",
     "url": "https://github.com/dhotson/springy"
   },
-  "author": {
-    "name": "Dennis Hotson",
-    "email": "dennis.hotson@gmail.com",
-    "url": "http://dhotson.tumblr.com"
-  },
   "homepage": "http://getspringy.com/",
   "keywords": [
     "graph",
@@ -29,5 +24,12 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dennis Hotson",
+      "email": "dennis.hotson@gmail.com",
+      "url": "http://dhotson.tumblr.com"
+    }
+  ]
 }

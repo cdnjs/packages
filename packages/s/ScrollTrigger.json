@@ -14,7 +14,6 @@
     "url": "git://github.com/terwanerik/ScrollTrigger"
   },
   "license": "MIT",
-  "author": "Erik Terwan <erik@erikterwan.com>",
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/terwanerik/ScrollTrigger.git",
@@ -26,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Erik Terwan",
+      "email": "erik@erikterwan.com"
+    }
+  ]
 }

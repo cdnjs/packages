@@ -11,7 +11,6 @@
     "url": "git://github.com/versatica/JsSIP.git"
   },
   "license": "MIT",
-  "author": "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)",
   "autoupdate": {
     "source": "npm",
     "target": "jssip",
@@ -24,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "José Luis Millán",
+      "email": "jmillan@aliax.net",
+      "url": "https://github.com/jmillan"
+    }
+  ]
 }

@@ -10,5 +10,10 @@
     "url": "https://github.com/locks/ember-localstorage-adapter"
   },
   "license": "MIT",
-  "author": "Ryan Florence <rpflorence@gmail.com>"
+  "authors": [
+    {
+      "name": "Ryan Florence",
+      "email": "rpflorence@gmail.com"
+    }
+  ]
 }

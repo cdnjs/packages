@@ -26,5 +26,9 @@
     ]
   },
   "license": "MIT",
-  "author": "atifazam"
+  "authors": [
+    {
+      "name": "atifazam"
+    }
+  ]
 }

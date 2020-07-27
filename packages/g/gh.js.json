@@ -10,7 +10,6 @@
     "api",
     "wrapper"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
   "license": "MIT",
   "filename": "gh.min.js",
   "autoupdate": {
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ionică Bizău",
+      "email": "bizauionica@gmail.com"
+    }
+  ]
 }

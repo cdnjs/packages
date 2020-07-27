@@ -19,10 +19,6 @@
     "difftohtml",
     "colorized"
   ],
-  "author": {
-    "name": "Rodrigo Fernandes",
-    "email": "rtfrodrigo@gmail.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://www.github.com/rtfpessoa/diff2html.git"
@@ -39,5 +35,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Rodrigo Fernandes",
+      "email": "rtfrodrigo@gmail.com"
+    }
+  ]
 }

@@ -13,11 +13,6 @@
     "url": "https://github.com/stamen/modestmaps-js.git"
   },
   "license": "BSD-2-Clause",
-  "author": {
-    "name": "Tom Carden",
-    "email": "tom@tom-carden.co.uk",
-    "url": "http://www.tom-carden.co.uk/"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "modestmaps",
@@ -29,5 +24,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Tom Carden",
+      "email": "tom@tom-carden.co.uk",
+      "url": "http://www.tom-carden.co.uk/"
+    }
+  ]
 }

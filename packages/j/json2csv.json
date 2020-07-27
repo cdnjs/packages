@@ -11,11 +11,6 @@
     "parse"
   ],
   "homepage": "http://www.mircozeiss.com/json2csv/",
-  "author": {
-    "name": "Mirco Zeiss",
-    "email": "mirco.zeiss@gmail.com",
-    "twitter": "zeMirco"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -32,5 +27,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Mirco Zeiss",
+      "email": "mirco.zeiss@gmail.com",
+      "url": "https://twitter.com/zeMirco"
+    }
+  ]
 }

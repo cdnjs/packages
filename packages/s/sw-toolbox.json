@@ -8,7 +8,6 @@
     "collection",
     "toolbox"
   ],
-  "author": "Google's Web DevRel Team",
   "repository": {
     "type": "git",
     "url": "https://github.com/GoogleChrome/sw-toolbox.git"
@@ -26,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Google's Web DevRel Team"
+    }
+  ]
 }

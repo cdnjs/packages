@@ -1,6 +1,5 @@
 {
   "name": "angular-hotkeys",
-  "author": "Wes Cruver",
   "license": "MIT",
   "description": "Automatic keyboard shortcuts for your Angular Apps",
   "homepage": "https://chieffancypants.github.io/angular-hotkeys",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Wes Cruver"
+    }
+  ]
 }

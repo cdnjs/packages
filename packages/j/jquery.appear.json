@@ -7,11 +7,6 @@
     "appear",
     "disappear"
   ],
-  "author": {
-    "name": "Andrey Sidorov",
-    "email": "takandar@gmail.com",
-    "url": "https://github.com/morr/jquery.appear/blob/master/AUTHORS.txt"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/morr/jquery.appear"
@@ -28,5 +23,12 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrey Sidorov",
+      "email": "takandar@gmail.com",
+      "url": "https://github.com/morr/jquery.appear/blob/master/AUTHORS.txt"
+    }
+  ]
 }

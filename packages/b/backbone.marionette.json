@@ -14,11 +14,6 @@
     "url": "https://github.com/marionettejs/backbone.marionette"
   },
   "license": "MIT",
-  "author": {
-    "name": "Derick Bailey",
-    "email": "derickbailey@gmail.com",
-    "url": "http://derickbailey.lostechies.com"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "backbone.marionette",
@@ -30,5 +25,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Derick Bailey",
+      "email": "derickbailey@gmail.com",
+      "url": "http://derickbailey.lostechies.com"
+    }
+  ]
 }

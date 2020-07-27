@@ -30,5 +30,10 @@
     "type": "git",
     "url": "git://github.com/javve/list.js.git"
   },
-  "author": "Jonny Strömberg <jonny.stromberg@gmail.com>"
+  "authors": [
+    {
+      "name": "Jonny Strömberg",
+      "email": "jonny.stromberg@gmail.com"
+    }
+  ]
 }

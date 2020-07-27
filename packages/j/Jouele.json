@@ -2,7 +2,6 @@
   "name": "Jouele",
   "filename": "jouele.js",
   "description": "Jouele is a simple and beautiful audio player for the web. ",
-  "author": "Ilya Birman",
   "keywords": [
     "jquery",
     "jouele",
@@ -27,5 +26,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Ilya Birman"
+    }
+  ]
 }

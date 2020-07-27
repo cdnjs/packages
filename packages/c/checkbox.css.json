@@ -14,7 +14,6 @@
     "type": "git",
     "url": "https://github.com/720kb/checkbox.css.git"
   },
-  "author": "Filippo Oretti <filippo.oretti@gmail.com>",
   "license": "MIT",
   "homepage": "https://720kb.github.io/checkbox.css",
   "autoupdate": {
@@ -28,5 +27,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Filippo Oretti",
+      "email": "filippo.oretti@gmail.com"
+    }
+  ]
 }

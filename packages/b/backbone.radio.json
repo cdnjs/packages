@@ -13,11 +13,6 @@
     "architecture",
     "spa"
   ],
-  "author": {
-    "name": "Jmeas",
-    "email": "jellyes2@gmail.com",
-    "web": "http://jmeas.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -34,5 +29,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Jmeas",
+      "email": "jellyes2@gmail.com",
+      "url": "http://jmeas.com"
+    }
+  ]
 }

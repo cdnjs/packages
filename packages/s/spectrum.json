@@ -3,11 +3,6 @@
   "filename": "spectrum.min.js",
   "description": "Spectrum: the no hassle jQuery colorpicker",
   "homepage": "http://bgrins.github.com/spectrum",
-  "author": {
-    "name": "Brian Grinstead",
-    "email": "briangrinstead@gmail.com",
-    "url": "http://briangrinstead.com/"
-  },
   "keywords": [
     "color",
     "colorpicker",
@@ -31,5 +26,12 @@
     "type": "git",
     "url": "git://github.com/bgrins/spectrum.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Brian Grinstead",
+      "email": "briangrinstead@gmail.com",
+      "url": "http://briangrinstead.com/"
+    }
+  ]
 }

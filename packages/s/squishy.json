@@ -2,7 +2,6 @@
   "name": "squishy",
   "filename": "squishy.min.js",
   "homepage": "http://www.cmsauve.com/projects/squishy",
-  "author": "Chris Sauve <chris@pxldot.com>",
   "description": "A jQuery plugin to size text such that it completely fills its container.",
   "keywords": [
     "jquery",
@@ -27,5 +26,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Chris Sauve",
+      "email": "chris@pxldot.com"
+    }
+  ]
 }

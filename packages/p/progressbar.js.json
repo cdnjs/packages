@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git://github.com/kimmobrunfeldt/progressbar.js.git"
   },
-  "author": "Kimmo Brunfeldt <kimmobrunfeldt@gmail.com> (http://kimmobrunfeldt.github.io/)",
   "license": "MIT",
   "homepage": "https://kimmobrunfeldt.github.io/progressbar.js/",
   "keywords": [
@@ -35,5 +34,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Kimmo Brunfeldt",
+      "email": "kimmobrunfeldt@gmail.com",
+      "url": "http://kimmobrunfeldt.github.io/"
+    }
+  ]
 }

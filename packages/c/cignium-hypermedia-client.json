@@ -7,7 +7,6 @@
     "url": "git+https://github.com/cignium/hypermedia-client.git"
   },
   "license": "MIT",
-  "author": "hfjallemark <hans.fjallemark@cignium.com>",
   "keywords": [
     "cignium",
     "hypermedia",
@@ -24,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "hfjallemark",
+      "email": "hans.fjallemark@cignium.com"
+    }
+  ]
 }

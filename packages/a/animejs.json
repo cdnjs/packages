@@ -15,7 +15,6 @@
     "SVG",
     "canvas"
   ],
-  "author": "Julian Garnier <hello@julian.gr>",
   "license": "MIT",
   "homepage": "http://anime-js.com",
   "autoupdate": {
@@ -29,5 +28,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Julian Garnier",
+      "email": "hello@julian.gr"
+    }
+  ]
 }

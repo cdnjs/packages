@@ -10,10 +10,6 @@
     "jscolor",
     "web color"
   ],
-  "author": {
-    "name": "EastDesire",
-    "url": "https://github.com/EastDesire"
-  },
   "license": "GPL-3.0",
   "homepage": "http://jscolor.com/",
   "autoupdate": {
@@ -27,5 +23,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "EastDesire",
+      "url": "https://github.com/EastDesire"
+    }
+  ]
 }

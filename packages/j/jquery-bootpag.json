@@ -14,8 +14,10 @@
     "url": "https://github.com/botmonster/jquery-bootpag"
   },
   "license": "MIT",
-  "author": {
-    "name": "Botmonster",
-    "url": "http://blog.botmonster.com"
-  }
+  "authors": [
+    {
+      "name": "Botmonster",
+      "url": "http://blog.botmonster.com"
+    }
+  ]
 }

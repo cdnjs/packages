@@ -2,10 +2,6 @@
   "name": "jQuery.my",
   "description": "A lightweight jQuery plugin for complex two-way data binding in real time.",
   "homepage": "http://jquerymy.com/",
-  "author": {
-    "name": "ermouth",
-    "email": "ermouth@gmail.com"
-  },
   "filename": "jquerymy.min.js",
   "keywords": [
     "MVVM",
@@ -33,5 +29,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "ermouth",
+      "email": "ermouth@gmail.com"
+    }
+  ]
 }

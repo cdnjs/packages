@@ -12,11 +12,6 @@
     "url": "https://github.com/jmespath/jmespath.js.git"
   },
   "license": "Apache-2.0",
-  "author": {
-    "name": "James Saryerwinnie",
-    "email": "js@jamesls.com",
-    "url": "http://jamesls.com/"
-  },
   "autoupdate": {
     "source": "npm",
     "target": "jmespath",
@@ -28,5 +23,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "James Saryerwinnie",
+      "email": "js@jamesls.com",
+      "url": "http://jamesls.com/"
+    }
+  ]
 }

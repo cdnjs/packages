@@ -29,5 +29,10 @@
     ]
   },
   "license": "MIT",
-  "author": "Ahmed Radwan <ahmedrad@gmail.com>"
+  "authors": [
+    {
+      "name": "Ahmed Radwan",
+      "email": "ahmedrad@gmail.com"
+    }
+  ]
 }

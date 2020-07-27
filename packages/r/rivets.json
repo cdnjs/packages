@@ -11,10 +11,6 @@
     "engine",
     "ui"
   ],
-  "author": {
-    "name": "Michael Richards",
-    "email": "mike22e@gmail.com"
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mikeric/rivets.git",
@@ -30,5 +26,11 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/mikeric/rivets"
-  }
+  },
+  "authors": [
+    {
+      "name": "Michael Richards",
+      "email": "mike22e@gmail.com"
+    }
+  ]
 }

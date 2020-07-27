@@ -28,9 +28,11 @@
     "type": "git",
     "url": "https://github.com/chinchang/hint.css"
   },
-  "author": {
-    "name": "Kushagra Gour",
-    "email": "chinchang457@gmail.com",
-    "url": "http://kushagragour.in"
-  }
+  "authors": [
+    {
+      "name": "Kushagra Gour",
+      "email": "chinchang457@gmail.com",
+      "url": "http://kushagragour.in"
+    }
+  ]
 }

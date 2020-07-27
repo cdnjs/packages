@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/talonbragg/Custom-Markup.git"
   },
-  "author": "Talon Bragg and Shreyas Lad",
   "license": "MIT",
   "homepage": "https://www.custommarkup.ml",
   "autoupdate": {
@@ -24,5 +23,10 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Talon Bragg and Shreyas Lad"
+    }
+  ]
 }

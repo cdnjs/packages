@@ -2,10 +2,6 @@
   "name": "cuid",
   "filename": "browser-cuid.min.js",
   "description": "Collision-resistant ids optimized for horizontal scaling and performance. For node and browsers.",
-  "author": {
-    "name": "Eric Elliott",
-    "url": "https://ericelliottjs.com"
-  },
   "keywords": [
     "id",
     "guid",
@@ -29,5 +25,11 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Eric Elliott",
+      "url": "https://ericelliottjs.com"
+    }
+  ]
 }

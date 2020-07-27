@@ -2,11 +2,6 @@
   "name": "cachep2p",
   "filename": "cachep2p.min.js",
   "description": "The Peer to Peer Cache for the Masses",
-  "author": {
-    "name": "Carlos Guerrero",
-    "email": "carlos@carlosguerrero.com",
-    "url": "https://cachep2p.com"
-  },
   "homepage": "https://cachep2p.com",
   "keywords": [
     "cache",
@@ -46,5 +41,12 @@
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Carlos Guerrero",
+      "email": "carlos@carlosguerrero.com",
+      "url": "https://cachep2p.com"
+    }
+  ]
 }

@@ -28,6 +28,11 @@
     "type": "git",
     "url": "https://github.com/wheely/ember-dialog"
   },
-  "author": "Milkov V. Vladimir <v.v.milkov@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Milkov V. Vladimir",
+      "email": "v.v.milkov@gmail.com"
+    }
+  ]
 }

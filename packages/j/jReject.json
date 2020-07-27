@@ -7,10 +7,6 @@
     "reject",
     "popup"
   ],
-  "author": {
-    "name": "Steven Bower",
-    "url": "https://github.com/BluSyn"
-  },
   "homepage": "http://jreject.turnwheel.com",
   "repository": {
     "type": "git",
@@ -31,5 +27,11 @@
       }
     ]
   },
+  "authors": [
+    {
+      "name": "Steven Bower",
+      "url": "https://github.com/BluSyn"
+    }
+  ],
   "license": "(MIT OR GPL-2.0)"
 }
