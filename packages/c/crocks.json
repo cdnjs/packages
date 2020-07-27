@@ -11,9 +11,6 @@
     "Functor"
   ],
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/evilsoft/crocks/issues"
-  },
   "homepage": "https://crocks.dev",
   "repository": {
     "type": "git",

@@ -1,7 +1,4 @@
 {
-  "bugs": {
-    "url": "https://github.com/QuickGroup/QCObjects/issues"
-  },
   "description": "QCObjects a Quickcorp Objects Library - Cross Browser Javascript Framework for MVC Patterns",
   "filename": "QCObjects.js",
   "homepage": "https://github.com/QuickGroup/QCObjects#readme",

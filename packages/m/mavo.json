@@ -7,9 +7,6 @@
     "url": "https://github.com/mavoweb/mavo.git"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mavoweb/mavo/issues"
-  },
   "homepage": "https://mavo.io",
   "autoupdate": {
     "source": "npm",

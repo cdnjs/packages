@@ -13,9 +13,6 @@
     "jquery"
   ],
   "license": "https://aka.ms/jquery-ajax-license",
-  "bugs": {
-    "url": "https://github.com/aspnet/jquery-ajax-unobtrusive/issues"
-  },
   "homepage": "https://github.com/aspnet/jquery-ajax-unobtrusive",
   "filename": "jquery.unobtrusive-ajax.min.js",
   "autoupdate": {
