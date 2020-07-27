@@ -1,7 +1,11 @@
 {
   "name": "chartist-plugin-tooltip",
   "description": "Tooltip plugin for Chartist.js.",
-  "keywords": [],
+  "keywords": [
+    "chartist",
+    "tooltip",
+    "tooltips"
+  ],
   "author": {
     "name": "Kees Kluskens",
     "email": "kees@codeyellow.nl"
