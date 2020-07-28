@@ -13,7 +13,6 @@
     "bitpay",
     "cash-address"
   ],
-  "filename": "bchaddrjs-0.4.9.min.js",
   "license": "MIT",
   "homepage": "https://github.com/ealmansi/bchaddrjs#readme",
   "repository": {
