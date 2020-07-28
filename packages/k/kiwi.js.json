@@ -1,7 +1,13 @@
 {
   "name": "kiwi.js",
   "description": "Kiwi.js is a Javascript/Typescript library for creating HTML5 games.",
-  "keywords": [],
+  "keywords": [
+    "game",
+    "library",
+    "html5",
+    "typescript",
+    "javascript"
+  ],
   "license": "MIT",
   "homepage": "http://kiwijs.org/",
   "repository": {

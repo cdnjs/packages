@@ -2,7 +2,16 @@
   "description": "This library provides the ability to process messages passed onto a dataLayer queue.",
   "filename": "data-layer-helper.js",
   "homepage": "https://github.com/google/data-layer-helper#readme",
-  "keywords": [],
+  "keywords": [
+    "javascript",
+    "tool",
+    "utility",
+    "queue",
+    "message",
+    "data",
+    "layer",
+    "datalayer"
+  ],
   "license": "Apache-2.0",
   "name": "data-layer-helper",
   "repository": {

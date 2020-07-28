@@ -7,7 +7,14 @@
     "type": "git",
     "url": "git://github.com/trentrichardson/jQuery-Impromptu.git"
   },
-  "keywords": [],
+  "keywords": [
+    "impromptu",
+    "prompt",
+    "alert",
+    "modal",
+    "overlay",
+    "confirm"
+  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/trentrichardson/jQuery-Impromptu.git",

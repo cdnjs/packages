@@ -1,7 +1,12 @@
 {
   "name": "fluentui-react",
   "description": "Reusable React components for building web experiences.",
-  "keywords": [],
+  "keywords": [
+    "react",
+    "react-components",
+    "office-ui-fabric",
+    "microsoft"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/microsoft/fluentui#readme",
   "repository": {

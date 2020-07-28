@@ -13,7 +13,9 @@
   },
   "description": "Say hi to Sven",
   "filename": "index.js",
-  "keywords": [],
+  "keywords": [
+    "hello"
+  ],
   "license": "MIT",
   "name": "hi-sven",
   "repository": {
