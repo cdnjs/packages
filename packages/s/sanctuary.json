@@ -6,6 +6,10 @@
     "type": "git",
     "url": "git://github.com/sanctuary-js/sanctuary.git"
   },
+  "keywords": [
+    "functional",
+    "programming"
+  ],
   "filename": "bundle.js",
   "autoupdate": {
     "source": "git",

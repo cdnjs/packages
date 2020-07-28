@@ -1,7 +1,11 @@
 {
   "name": "yaml-js",
   "description": "Pure Javascript YAML loader and dumper, ported from PyYAML",
-  "keywords": [],
+  "keywords": [
+    "yaml",
+    "javascript",
+    "parser"
+  ],
   "license": "WTFPL",
   "homepage": "https://github.com/connec/yaml-js#readme",
   "repository": {

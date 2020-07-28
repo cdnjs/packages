@@ -2,7 +2,11 @@
   "name": "wow",
   "filename": "wow.min.js",
   "description": "Reveal CSS animation as you scroll down a page",
-  "keywords": [],
+  "keywords": [
+    "scroll",
+    "animation",
+    "reveal"
+  ],
   "homepage": "http://mynameismatthieu.com/WOW/",
   "repository": {
     "type": "git",

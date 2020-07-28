@@ -1,7 +1,10 @@
 {
   "name": "react-dates",
   "description": "A responsive and accessible date range picker component built with React",
-  "keywords": [],
+  "keywords": [
+    "datepicker",
+    "react"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/airbnb/react-dates#readme",
   "repository": {

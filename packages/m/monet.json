@@ -1,7 +1,10 @@
 {
   "name": "monet",
   "description": "Monadic types library for JavaScript",
-  "keywords": [],
+  "keywords": [
+    "javascript",
+    "types"
+  ],
   "license": "MIT",
   "homepage": "https://monet.github.io/monet.js/",
   "repository": {
