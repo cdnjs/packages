@@ -1,7 +1,9 @@
 {
   "name": "base32",
   "description": "Base32 encoding and decoding",
-  "keywords": [],
+  "keywords": [
+    "base32"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/agnoster/base32-js",
   "repository": {
