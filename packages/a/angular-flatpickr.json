@@ -1,7 +1,11 @@
 {
   "name": "angular-flatpickr",
   "description": "angular directive for flatpickr",
-  "keywords": [],
+  "keywords": [
+    "date-picker",
+    "angular",
+    "flatpickr"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/archsaber/angular-flatpickr#readme",
   "repository": {

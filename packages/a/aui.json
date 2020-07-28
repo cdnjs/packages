@@ -19,7 +19,7 @@
     "fileMap": [
       {
         "basePath": "dist",
-        "files": []
+        "files": ["*"]
       }
     ]
   }

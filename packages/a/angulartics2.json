@@ -22,6 +22,7 @@
     "amplitude",
     "baidu"
   ],
+  "filename": "angulartics2-core.d.ts",
   "license": "MIT",
   "name": "angulartics2",
   "repository": {

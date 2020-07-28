@@ -1,13 +1,22 @@
 {
   "description": "Abstract nodes for ant design icons.",
   "homepage": "https://github.com/ant-design/ant-design-icons/",
-  "keywords": [],
+  "keywords": [
+    "angular",
+    "icons",
+    "svg-icons",
+    "react",
+    "vue",
+    "antd",
+    "ant-design"
+  ],
   "license": "MIT",
   "name": "ant-design-icons-svg",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ant-design/ant-design-icons.git"
   },
+  "filename": "filled/account-book.svg",
   "autoupdate": {
     "source": "npm",
     "target": "@ant-design/icons-svg",
@@ -19,10 +28,5 @@
         ]
       }
     ]
-  },
-  "authors": [
-    {
-      "name": ""
-    }
-  ]
+  }
 }
