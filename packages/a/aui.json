@@ -19,7 +19,9 @@
     "fileMap": [
       {
         "basePath": "dist",
-        "files": ["*"]
+        "files": [
+          "**/*.@(js|css|eot|ttf|woff|svg)?(.map)"
+        ]
       }
     ]
   }
