@@ -1,13 +1,18 @@
 {
   "name": "chessboard-js",
   "description": "JavaScript chessboard widget",
-  "keywords": [],
+  "keywords": [
+    "chess",
+    "chessboard",
+    "jquery"
+  ],
   "license": "MIT",
   "homepage": "https://chessboardjs.com",
   "repository": {
     "type": "git",
     "url": "git://github.com/oakmac/chessboardjs.git"
   },
+  "filename": "chessboard-1.0.0.min.js",
   "autoupdate": {
     "source": "npm",
     "target": "@chrisoakman/chessboardjs",

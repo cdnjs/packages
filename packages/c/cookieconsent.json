@@ -1,7 +1,11 @@
 {
   "name": "cookieconsent",
   "description": "Osano cookie consent tool.",
-  "keywords": [],
+  "keywords": [
+    "cookieconsent",
+    "cookie",
+    "law"
+  ],
   "license": "MIT",
   "homepage": "http://cookieconsent.osano.com/",
   "repository": {
