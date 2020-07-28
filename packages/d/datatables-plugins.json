@@ -6,6 +6,7 @@
     "jQuery",
     "plugins"
   ],
+  "filename": "media/js/dataTables.dataTables.min.js",
   "license": "MIT",
   "homepage": "https://datatables.net/plug-ins",
   "repository": {

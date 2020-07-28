@@ -1,7 +1,7 @@
 {
   "name": "snap.js",
   "filename": "snap.min.js",
-  "description": "",
+  "description": "A library used to create beautiful mobile shelfs.",
   "homepage": "",
   "repository": {
     "type": "git",

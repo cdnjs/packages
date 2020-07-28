@@ -9,7 +9,6 @@
     "mobx"
   ],
   "license": "MIT",
-  "homepage": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/mobxjs/serializr.git"
