@@ -22,7 +22,7 @@
     "amplitude",
     "baidu"
   ],
-  "filename": "angulartics2-core.d.ts",
+  "filename": "bundles/angulartics2.umd.min.js",
   "license": "MIT",
   "name": "angulartics2",
   "repository": {
