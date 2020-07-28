@@ -16,7 +16,6 @@
     "type": "git",
     "url": "git+https://github.com/ant-design/ant-design-icons.git"
   },
-  "filename": "filled/account-book.svg",
   "autoupdate": {
     "source": "npm",
     "target": "@ant-design/icons-svg",
