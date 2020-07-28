@@ -1,7 +1,13 @@
 {
   "name": "shifty",
   "description": "A teeny tiny tweening engine in JavaScript.",
-  "keywords": [],
+  "keywords": [
+    "tweening-engine",
+    "animation",
+    "javascript",
+    "shifty",
+    "tweening"
+  ],
   "license": "MIT",
   "homepage": "http://jeremyckahn.github.io/shifty/doc/",
   "repository": {

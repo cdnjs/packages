@@ -1,7 +1,10 @@
 {
   "name": "operative",
   "description": "Operative: Inline Web-Worker Helper",
-  "keywords": [],
+  "keywords": [
+    "worker",
+    "web-worker"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/padolsey/operative.git"

@@ -2,7 +2,21 @@
   "description": "Drag and Drop for React",
   "filename": "umd/ReactDnD.min.js",
   "homepage": "https://github.com/react-dnd/react-dnd#readme",
-  "keywords": [],
+  "keywords": [
+    "react",
+    "reactjs",
+    "file",
+    "drag",
+    "drop",
+    "html5",
+    "draggable",
+    "droppable",
+    "drag-and-drop",
+    "dnd",
+    "javascript",
+    "react-component",
+    "hoc"
+  ],
   "license": "MIT",
   "name": "react-dnd",
   "repository": {

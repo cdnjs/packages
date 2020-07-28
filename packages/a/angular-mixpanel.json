@@ -6,7 +6,6 @@
     "angular",
     "mixpanel"
   ],
-  "homepage": "",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/kuhnza/angular-mixpanel.git",

@@ -1,7 +1,10 @@
 {
   "name": "scatterjs",
   "description": "Importable JavaScript library that allows web applications to directly interface with Scatter Desktop, Classic and Mobile. ",
-  "keywords": [],
+  "keywords": [
+    "scatter",
+    "blockchain"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/GetScatter/scatter-js",
   "repository": {

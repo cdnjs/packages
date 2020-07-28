@@ -1,7 +1,11 @@
 {
   "name": "chartist-plugin-tooltip",
   "description": "Tooltip plugin for Chartist.js.",
-  "keywords": [],
+  "keywords": [
+    "chartist",
+    "tooltip",
+    "tooltips"
+  ],
   "license": "ISC",
   "homepage": "https://github.com/CodeYellowBV/chartist-plugin-tooltip#readme",
   "repository": {

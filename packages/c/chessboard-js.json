@@ -1,7 +1,11 @@
 {
   "name": "chessboard-js",
   "description": "JavaScript chessboard widget",
-  "keywords": [],
+  "keywords": [
+    "chess",
+    "chessboard",
+    "jquery"
+  ],
   "license": "MIT",
   "homepage": "https://chessboardjs.com",
   "repository": {

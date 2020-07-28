@@ -2,7 +2,11 @@
   "description": "Solid CSS Styling",
   "filename": "solid.latest.css",
   "homepage": "https://github.com/buzzfeed/solid",
-  "keywords": [],
+  "keywords": [
+    "css",
+    "framework",
+    "buzzfeed"
+  ],
   "license": "ISC",
   "name": "bf-solid",
   "repository": {

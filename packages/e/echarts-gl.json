@@ -1,6 +1,13 @@
 {
   "name": "echarts-gl",
   "description": "Extension pack of ECharts providing 3D plots and globe visualization",
+  "keywords": [
+    "echarts",
+    "webgl",
+    "javascript",
+    "visualization"
+  ],
+  "filename": "echarts-gl.min.js",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/ecomfe/echarts-gl.git",

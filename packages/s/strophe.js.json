@@ -25,10 +25,5 @@
     "message",
     "browser"
   ],
-  "license": "MIT",
-  "authors": [
-    {
-      "name": ""
-    }
-  ]
+  "license": "MIT"
 }

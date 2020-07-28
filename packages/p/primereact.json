@@ -19,6 +19,7 @@
     "responsive-components",
     "flex-galleria"
   ],
+  "filename": "accordion.min.js",
   "license": "MIT",
   "homepage": "https://www.primefaces.org/primereact/",
   "repository": {

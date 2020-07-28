@@ -1,7 +1,16 @@
 {
   "name": "deeplearn",
   "description": "Hardware-accelerated JavaScript library for machine intelligence",
-  "keywords": [],
+  "keywords": [
+    "deep-learning",
+    "typescript",
+    "webgl",
+    "javascript",
+    "machine-learning",
+    "neural-network",
+    "deep-neural-networks",
+    "gpu-acceleration"
+  ],
   "license": "Apache-2.0",
   "homepage": "https://github.com/PAIR-code/deeplearnjs#readme",
   "repository": {
@@ -20,10 +29,5 @@
         ]
       }
     ]
-  },
-  "authors": [
-    {
-      "name": ""
-    }
-  ]
+  }
 }

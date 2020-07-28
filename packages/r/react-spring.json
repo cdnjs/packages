@@ -8,6 +8,7 @@
     "animation",
     "spring"
   ],
+  "filename": "web.cjs.js",
   "license": "MIT",
   "homepage": "https://github.com/drcmda/react-spring#readme",
   "repository": {
