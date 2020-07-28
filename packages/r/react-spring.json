@@ -8,6 +8,7 @@
     "animation",
     "spring"
   ],
+  "filename": "konva.cjs.d.ts",
   "license": "MIT",
   "homepage": "https://github.com/drcmda/react-spring#readme",
   "repository": {
