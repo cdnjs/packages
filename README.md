@@ -90,7 +90,7 @@ We also have [Open Collective](https://opencollective.com/cdnjs) and [Patreon](h
 
 ## Contributing
 
-To contribute to cdnjs, please refer to our [CONTRIBUTING.md](https://github.com/cdnjs/packages/blob/master/CONTRIBUTING.md) document. This contains most of the information you might need to get involved either with adding a libarry to cdnjs or helping the project grow in other ways! If you need further information, please [create an issue](https://github.com/cdnjs/packages/issues/new).
+To contribute to cdnjs, please refer to our [CONTRIBUTING.md](https://github.com/cdnjs/packages/blob/master/CONTRIBUTING.md) document. This contains most of the information you might need to get involved either with adding a library to cdnjs or helping the project grow in other ways! If you need further information, please [create an issue](https://github.com/cdnjs/packages/issues/new).
 
 **Working on your first Pull Request?** Learn how from this *free* series: [An Introduction to Open Source ](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
 
