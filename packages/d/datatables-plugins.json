@@ -20,7 +20,7 @@
       {
         "basePath": "",
         "files": [
-          "*/**/*"
+          "*/**/*.@(js|css|scss|lang|png)"
         ]
       }
     ]
