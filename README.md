@@ -58,7 +58,7 @@ Currently, cdnjs is the #1 free and open source CDN built to make life easier fo
 
 For the full set of library assets that are hosted on cdnjs, please take a look at the robot-only [`cdnjs/cdnjs`](https://github.com/cdnjs/cdnjs) repository.
 
-For our website, please refer to the [`cdnjs/new-website`](https://github.com/cdnjs/new-website) repository.
+For our website, please refer to the [`cdnjs/static-website`](https://github.com/cdnjs/static-website) repository.
 
 For the cdnjs API, please refer to the [`cdnjs/api-server`](https://github.com/cdnjs/api-server) repository.
 
