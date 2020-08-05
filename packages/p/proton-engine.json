@@ -1,0 +1,36 @@
+{
+  "name": "proton-engine",
+  "description": "Proton is a simple and powerful javascript particle animation engine.",
+  "keywords": [
+    "particle",
+    "particles",
+    "canvas",
+    "canvas-particle",
+    "webgl"
+  ],
+  "authors": [
+    {
+      "name": "anonymous namespace",
+      "email": "ajiemath@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "http://drawcall.github.io/Proton",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drawcall/Proton.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "proton-engine",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "proton.min.js"
+}
