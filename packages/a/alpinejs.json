@@ -1,7 +1,11 @@
 {
   "name": "alpinejs",
-  "description": "![npm bundle size](https://img.shields.io/bundlephobia/minzip/alpinejs)",
-  "keywords": [],
+  "description": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+  "keywords": [
+    "framework",
+    "reactive",
+    "declarative"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/alpinejs/alpine#readme",
   "repository": {
