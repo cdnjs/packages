@@ -61,6 +61,8 @@ Each cdnjs library has a JSON file. This file contains required and sometimes op
     - `basePath` is the path in the git repository or NPM package that we will start exploring from
     - `files` indicates the file(s) to copy and can be named (e.g. `lodash.min.js`) or [globs](https://do.co/glob-tool) (e.g. `*.js`).
 
+*Note: If a globstar or wildcard is used in `files`, please ensure it is restricted, such as with extensions (e.g. `**/*.js`). This is to help reduce the chance of abuse of cdnjs and to help reduce the chance we copy files we don't need, causing space issues (see [#186](https://github.com/cdnjs/packages/issues/186)).*
+
 #### NPM-based auto-update example
 
 ```js
@@ -71,7 +73,8 @@ Each cdnjs library has a JSON file. This file contains required and sometimes op
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js",
+          "utils/*.js"
         ]
       }
     ]
@@ -98,7 +101,7 @@ The example parses the `function-plot` tarball, which has this structure:
 | |__...
 ```
 
-The auto-update process will locate `dist` (specified in `basePath`) and copy `**/*` (specified in `files`) to cdnjs, removing the `dist` path. The resulting files in cdnjs will be:
+The auto-update process will locate `dist` (specified in `basePath`) and copy all files matching the specified glob patterns (`*.js` & `utils/*.js`) to cdnjs, removing the `dist` path. The resulting files in cdnjs will be:
 
 ```text
 |__ajax
@@ -122,7 +125,7 @@ The auto-update process will locate `dist` (specified in `basePath`) and copy `*
       {
         "basePath": "lib",
         "files": [
-          "*"
+          "*.js"
         ]
       }
     ]
@@ -166,7 +169,7 @@ The example parses the `mikehostetler/amplify` git repository, which has this st
 |__testswarm.json
 ```
 
-The auto-update process will locate `lib` (specified in `basePath`) and copy `*` (specified in `files`) to cdnjs, removing the `lib` path. The resulting files in cdnjs will be:
+The auto-update process will locate `lib` (specified in `basePath`) and copy all files matching the glob `*.js` (specified in `files`) to cdnjs, removing the `lib` path. The resulting files in cdnjs will be:
 
 ```text
 |__ajax

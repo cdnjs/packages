@@ -58,7 +58,7 @@ Currently, cdnjs is the #1 free and open source CDN built to make life easier fo
 
 For the full set of library assets that are hosted on cdnjs, please take a look at the robot-only [`cdnjs/cdnjs`](https://github.com/cdnjs/cdnjs) repository.
 
-For our website, please refer to the [`cdnjs/new-website`](https://github.com/cdnjs/new-website) repository.
+For our website, please refer to the [`cdnjs/static-website`](https://github.com/cdnjs/static-website) repository.
 
 For the cdnjs API, please refer to the [`cdnjs/api-server`](https://github.com/cdnjs/api-server) repository.
 
@@ -90,7 +90,7 @@ We also have [Open Collective](https://opencollective.com/cdnjs) and [Patreon](h
 
 ## Contributing
 
-To contribute to cdnjs, please refer to our [CONTRIBUTING.md](https://github.com/cdnjs/packages/blob/master/CONTRIBUTING.md) document. This contains most of the information you might need to get involved either with adding a libarry to cdnjs or helping the project grow in other ways! If you need further information, please [create an issue](https://github.com/cdnjs/packages/issues/new).
+To contribute to cdnjs, please refer to our [CONTRIBUTING.md](https://github.com/cdnjs/packages/blob/master/CONTRIBUTING.md) document. This contains most of the information you might need to get involved either with adding a library to cdnjs or helping the project grow in other ways! If you need further information, please [create an issue](https://github.com/cdnjs/packages/issues/new).
 
 **Working on your first Pull Request?** Learn how from this *free* series: [An Introduction to Open Source ](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
 
@@ -116,10 +116,14 @@ Please see the GitHub provided contributors page: [github.com/cdnjs/packages/gra
 
 cdnjs wouldn't be the success that it is today without our sponsors' kind support. These companies currently support cdnjs:
 
-* [Cloudflare](https://www.cloudflare.com/?utm_source=cdnjs&utm_medium=link&utm_campaign=cdnjs)
-* [DigitalOcean](https://www.digitalocean.com/?utm_source=cdnjs&utm_medium=link&utm_campaign=cdnjs)
-* [Algolia](https://www.algolia.com/?utm_source=cdnjs&utm_medium=link&utm_campaign=cdnjs)
-* [Heroku](https://www.heroku.com/?utm_source=cdnjs&utm_medium=link&utm_campaign=cdnjs)
+* [Cloudflare](https://www.cloudflare.com/?utm_source=cdnjs&utm_medium=link&utm_campaign=cdnjs_readme)
+* [Algolia](https://www.algolia.com/?utm_source=cdnjs&utm_medium=link&utm_campaign=cdnjs_readme)
+* [DigitalOcean](https://www.digitalocean.com/?utm_source=cdnjs&utm_medium=link&utm_campaign=cdnjs_readme)
+* [Heroku](https://www.heroku.com/?utm_source=cdnjs&utm_medium=link&utm_campaign=cdnjs_readme)
+* [Statuspage](https://www.statuspage.io/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_readme)
+* [Discourse](https://www.discourse.org/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_readme)
+* [SolarWinds](https://www.solarwinds.com/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_readme)
+* [Sentry](https://sentry.io/welcome/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_readme)
 
 If you are interested in becoming a sponsor, please feel free to contact us!
 
