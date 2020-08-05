@@ -1,0 +1,29 @@
+{
+  "name": "alpinejs",
+  "description": "![npm bundle size](https://img.shields.io/bundlephobia/minzip/alpinejs)",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "https://github.com/alpinejs/alpine#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alpinejs/alpine.git"
+  },
+  "authors": [
+    {
+      "name": "Caleb Porzio"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "alpinejs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "alpine.js"
+}
