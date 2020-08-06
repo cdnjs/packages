@@ -26,10 +26,7 @@
       {
         "basePath": "dist",
         "files": [
-          "lit-grid-layout.js",
-          "lit-grid-item.js",
-          "lit-draggable.js",
-          "lit-resizable.js"
+          "*.js",
         ]
       }
     ]
