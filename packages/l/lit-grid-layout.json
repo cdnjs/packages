@@ -27,7 +27,7 @@
       {
         "basePath": "dist",
         "files": [
-          "*.js",
+          "*.js"
         ]
       }
     ]
