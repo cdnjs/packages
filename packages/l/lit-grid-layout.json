@@ -1,6 +1,10 @@
 {
   "name": "lit-grid-layout",
-  "author": "Zack Arnett",
+  "authors": [
+    {
+      "name": "Zack Arnett"
+    }
+  ],
   "license": "MIT",
   "description": "A Grid Layout for Lit Element",
   "keywords": [
