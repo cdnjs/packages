@@ -15,7 +15,10 @@
     "lit-element"
   ],
   "homepage": "https://github.com/zsarnett/Lit-Grid-Layout",
-  "repository": "https://github.com/zsarnett/Lit-Grid-Layout",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsarnett/Lit-Grid-Layout.git"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "lit-grid-layout",
