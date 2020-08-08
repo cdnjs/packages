@@ -1,0 +1,36 @@
+{
+  "name": "polyavatar",
+  "description": "Simple plugin to generate polygonal avatars with customization options.",
+  "homepage": "https://programad.github.io/polyavatar/",
+  "filename": "polyavatar.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/programad/polyavatar.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "polyavatar",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "license": "MIT",
+  "keywords": [
+    "avatar",
+    "vanilla",
+    "polygon",
+    "canvas",
+    "vanillajs"
+  ],
+  "authors": [
+    {
+      "name": "Daniel Gomes",
+      "email": "programad@gmail.com"
+    }
+  ]
+}
