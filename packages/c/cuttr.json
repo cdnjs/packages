@@ -13,11 +13,9 @@
     "content",
     "shorten",
     "javascript",
-    "text",
     "string",
     "shave",
     "trim",
-    "line",
     "clampin",
     "dotdotdot",
     "multiline",
@@ -37,7 +35,8 @@
   },
   "authors": [
     {
-      "name": "DEVSK https://github.com/d-e-v-s-k/"
+      "name": "DEVSK",
+      "url": "https://github.com/d-e-v-s-k/"
     }
   ],
   "autoupdate": {
