@@ -1,5 +1,5 @@
 {
-  "name": "polyavatar.js",
+  "name": "polyavatar",
   "description": "Simple plugin to generate polygonal avatars with customization options.",
   "homepage": "https://programad.github.io/polyavatar/",
   "filename": "polyavatar.min.js",
