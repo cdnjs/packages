@@ -1,0 +1,33 @@
+{
+  "name": "alpinejs",
+  "description": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+  "keywords": [
+    "framework",
+    "reactive",
+    "declarative"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alpinejs/alpine#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alpinejs/alpine.git"
+  },
+  "authors": [
+    {
+      "name": "Caleb Porzio"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "alpinejs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "alpine.js"
+}
