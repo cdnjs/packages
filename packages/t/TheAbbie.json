@@ -1,0 +1,32 @@
+{
+  "name": "TheAbbie",
+  "filename": "index.js",
+  "description": "a pseudo-introvert, a web developer, and a maker",
+  "homepage": "https://theabbie.github.io",
+  "keywords": [
+    "theabbie"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theabbie/theabbie"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "theabbie",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Abhishek Chaudhary",
+      "url": "https://theabbie.github.io"
+    }
+  ]
+}
