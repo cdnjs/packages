@@ -1,0 +1,55 @@
+{
+  "name": "cuttr",
+  "description": "Cuttr is a javascript / jQuery plugin that truncates multi-line text content with multiple truncation methods and custom ellipsis.",
+  "keywords": [
+    "ellipsis",
+    "truncate",
+    "truncation",
+    "truncated",
+    "truncating",
+    "semantic",
+    "js",
+    "jquery",
+    "content",
+    "shorten",
+    "javascript",
+    "string",
+    "shave",
+    "trim",
+    "clampin",
+    "dotdotdot",
+    "multiline",
+    "multi",
+    "line",
+    "text",
+    "text-overflow",
+    "overflow",
+    "dots",
+    "cuttr"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://cuttr.kulahs.de",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/d-e-v-s-k/cuttr-js.git"
+  },
+  "authors": [
+    {
+      "name": "DEVSK",
+      "url": "https://github.com/d-e-v-s-k/"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "cuttr",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "cuttr.min.js"
+}
