@@ -1,0 +1,35 @@
+{
+  "name": "lit-grid-layout",
+  "filename": "lit-grid-layout.js",
+  "authors": [
+    {
+      "name": "Zack Arnett"
+    }
+  ],
+  "license": "MIT",
+  "description": "A Grid Layout for Lit Element",
+  "keywords": [
+    "typescript",
+    "javascript",
+    "grid",
+    "layout",
+    "lit-element"
+  ],
+  "homepage": "https://github.com/zsarnett/Lit-Grid-Layout",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsarnett/Lit-Grid-Layout.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "lit-grid-layout",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*@(.js|.ts)?(.map)"
+        ]
+      }
+    ]
+  }
+}
