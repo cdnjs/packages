@@ -1,0 +1,36 @@
+{
+  "name": "Scrollto.js",
+  "filename": "scrollto.js",
+  "description": "Scrolls the page to the given element using pure HTML (no code). Developed with Pure Javascript, without jquery or other libraries.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tpereira-com-br/scrollto.js.git"
+  },
+  "license": "GPL-3.0",
+  "keywords": [
+    "scrollto",
+    "purejavascript",
+    "nojquery",
+    "scroll to element",
+    "rola até o elemento"
+
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/tpereira-com-br/scrollto.js.git",
+    "fileMap": [
+      {
+        "basePath": "src/currentversion/minified",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Thiago Costa Pereira",
+      "email": "contato@tpereira.com"
+    }
+  ]
+}
