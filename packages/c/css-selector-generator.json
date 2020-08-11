@@ -1,7 +1,13 @@
 {
   "name": "css-selector-generator",
   "description": "JavaScript object that creates unique CSS selector for given element.",
-  "keywords": [],
+  "keywords": [
+    "css",
+    "selector",
+    "dom",
+    "javascript",
+    "html"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/fczbkk/css-selector-generator/",
   "repository": {
