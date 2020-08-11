@@ -9,7 +9,7 @@
   "license": "GPL-3.0",
   "keywords": [
     "scrollto",
-    "purejavascript"
+    "purejavascript",
     "nojquery",
     "scroll to element",
     "rola até o elemento"
