@@ -1,6 +1,6 @@
 {
   "name": "jspdf",
-  "filename": "jspdf.min.js",
+  "filename": "jspdf.umd.min.js",
   "description": "PDF Document creation from JavaScript",
   "homepage": "http://parall.ax/products/jspdf",
   "keywords": [
