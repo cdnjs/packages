@@ -35,7 +35,7 @@
       {
         "basePath": "",
         "files": [
-          "minified.js?(.map)",
+          "minified.js?(.map)"
         ]
       }
     ]
