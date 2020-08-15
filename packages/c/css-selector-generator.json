@@ -1,0 +1,37 @@
+{
+  "name": "css-selector-generator",
+  "description": "JavaScript object that creates unique CSS selector for given element.",
+  "keywords": [
+    "css",
+    "selector",
+    "dom",
+    "javascript",
+    "html"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/fczbkk/css-selector-generator/",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fczbkk/css-selector-generator.git"
+  },
+  "authors": [
+    {
+      "name": "Riki Fridrich",
+      "email": "riki@fczbkk.com",
+      "url": "http://fczbkk.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "css-selector-generator",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}
