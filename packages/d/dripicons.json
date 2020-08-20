@@ -1,7 +1,11 @@
 {
   "name": "dripicons",
   "description": "A completely free vector line-icon font by Amit Jakhu",
-  "keywords": [],
+  "keywords": [
+    "vector",
+    "line",
+    "icons"
+  ],
   "license": "CC BY-SA 4.0",
   "homepage": "http://demo.amitjakhu.com/dripicons/",
   "repository": {
@@ -22,7 +26,7 @@
       {
         "basePath": "webfont",
         "files": [
-          "*.css",
+          "webfont.css",
           "img/*.png",
           "fonts/*.@(eot|svg|ttf|woff)"
         ]
