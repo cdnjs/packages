@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/zloirock/core-js.git"
   },
-  "filename": "core.min.js",
+  "filename": "minified.js",
   "license": "MIT",
   "keywords": [
     "ES5",
@@ -29,21 +29,13 @@
     "Date formatting"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/zloirock/core-js.git",
+    "source": "npm",
+    "target": "core-js-bundle",
     "fileMap": [
       {
-        "basePath": "client",
+        "basePath": "",
         "files": [
-          "core.js",
-          "core.min.js",
-          "core.min.js.map",
-          "library.js",
-          "library.min.js",
-          "library.min.js.map",
-          "shim.js",
-          "shim.min.js",
-          "shim.min.js.map"
+          "minified.js?(.map)"
         ]
       }
     ]
