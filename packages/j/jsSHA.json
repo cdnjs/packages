@@ -27,9 +27,9 @@
     "target": "git://github.com/Caligatio/jsSHA.git",
     "fileMap": [
       {
-        "basePath": "src",
+        "basePath": "dist",
         "files": [
-          "*.js"
+          "*.@(@(js|mjs)?(.map)|d.ts)"
         ]
       }
     ]
