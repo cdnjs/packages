@@ -1,0 +1,37 @@
+{
+  "name": "dsbridge",
+  "description": "Javascript Initialization code of DSBridge",
+  "keywords": [
+    "dsbridge",
+    "javascript-bridge",
+    "jsbridge",
+    "webviewjavascriptbridge",
+    "support-x5"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/wendux",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendux/DSBridge-Android.git"
+  },
+  "authors": [
+    {
+      "name": "wendux",
+      "email": "824783146@qq.com",
+      "url": "https://github.com/wendux/"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "dsbridge",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "dsbridge.js"
+}
