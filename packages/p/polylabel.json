@@ -1,0 +1,26 @@
+{
+  "name": "polylabel",
+  "description": "A JS library for finding optimal label position inside a polygon",
+  "keywords": [],
+  "license": "ISC",
+  "homepage": "",
+  "repository": {},
+  "authors": [
+    {
+      "name": "Vladimir Agafonkin"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "polylabel",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "polylabel.js"
+}
