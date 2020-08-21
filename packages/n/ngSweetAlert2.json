@@ -1,0 +1,38 @@
+{
+  "name": "ngSweetAlert2",
+  "filename": "SweetAlert2.min.js",
+  "description": "AngularJS wrapper for SweetAlert2. SweetAlert2 is a beautiful replacement for Javascript Alert.",
+  "homepage": "https://github.com/recepuncu/ngSweetAlert2",
+  "keywords": [
+    "ngSweetAlert2",
+    "angular",
+    "AngularJs",
+    "sweetalert2",
+    "sweet",
+    "alert"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:recepuncu/ngSweetAlert2.git"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "angularjs-sweetalert2",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/*.!(zip)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Recep Uncu",
+      "email": "reepuncu@gmail.com",
+      "url": "http://recepuncu.github.io"
+    }
+  ]
+}
