@@ -18,9 +18,9 @@
         "source": "npm",
         "target": "angularjs-sweetalert2",
         "fileMap": [{
-                "basePath": "dist",
+                "basePath": "",
                 "files": [
-                    "**/*"
+                    "SweetAlert2*.js",
                 ]
             }
         ]
