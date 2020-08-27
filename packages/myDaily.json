@@ -1,0 +1,31 @@
+{
+  "name": "dialyRecord",
+  "description": "dialyLearningRecord",
+  "filename": "firstTest.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PlutoPole/dailyRercord.git"
+  },
+  "keywords": [
+  "none"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/PlutoPole/dailyRercord.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.html"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Pluto_Pole"
+    }
+  ]
+}
