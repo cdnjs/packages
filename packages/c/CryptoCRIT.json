@@ -1,0 +1,40 @@
+{
+  "name": "cryptocrit",
+  "filename": "index.js",
+  "description": "An open-source Cryptocurrency project",
+  "homepage": "https://github.com/rgab1508/CryptoCRIT",
+  "keywords": [
+    "CryptoCRIT"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rgab1508/CryptoCRIT"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "cryptocrit",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Abhishek Chaudhary",
+      "url": "https://theabbie.github.io"
+    },
+    {
+      "name": "Gabriel Rajendran",
+      "url": "https://github.com/rgab1508"
+    },
+    {
+      "name": "Aditya Unnikrishnan",
+      "url": "https://github.com/CharieBlastX7"
+    }
+  ]
+}
