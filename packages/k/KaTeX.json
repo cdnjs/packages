@@ -14,16 +14,14 @@
     "url": "git://github.com/Khan/KaTeX.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/Khan/KaTeX.git",
+    "source": "npm",
+    "target": "katex",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "katex.min.js",
-          "katex.min.css",
-          "contrib/!(*.mjs)",
-          "fonts/*"
+          "**/*.@(js|mjs|css)",
+          "fonts/*.@(tff|woff|woff2)"
         ]
       }
     ]
