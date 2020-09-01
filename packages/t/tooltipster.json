@@ -1,6 +1,6 @@
 {
   "name": "tooltipster",
-  "filename": "js/jquery.tooltipster.min.js",
+  "filename": "js/tooltipster.bundle.min.js",
   "description": "Tooltipster is a jQuery tooltip plugin.",
   "homepage": "http://iamceege.github.io/tooltipster/",
   "keywords": [
