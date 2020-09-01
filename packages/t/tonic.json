@@ -1,0 +1,43 @@
+{
+  "name": "tonic",
+  "description": "A composable component inspired by React.",
+  "keywords": [
+    "tonic",
+    "web-components",
+    "web",
+    "components",
+    "html"
+  ],
+  "license": "MIT",
+  "homepage": "https://tonic.technology/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/optoolco/tonic.git"
+  },
+  "authors": [
+    {
+      "name": "Raynos",
+      "email": "raynos2@gmail.com",
+      "url": "https://github.com/optoolco/tonic/issues"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@optoolco/tonic",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}
