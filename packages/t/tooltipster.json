@@ -16,9 +16,9 @@
     "target": "git://github.com/iamceege/tooltipster.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "js/*.js",
+          "js/**/*.js",
           "css/**/*.css"
         ]
       }
