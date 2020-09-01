@@ -30,6 +30,12 @@
         "files": [
           "index.js"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
       }
     ]
   },
