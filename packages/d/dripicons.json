@@ -34,7 +34,7 @@
       {
         "basePath": "",
         "files": [
-          "svg/*.svg"
+          "SVG/*.svg"
         ]
       }
     ]
