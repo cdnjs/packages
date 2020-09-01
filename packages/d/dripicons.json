@@ -1,0 +1,43 @@
+{
+  "name": "dripicons",
+  "description": "A completely free vector line-icon font by Amit Jakhu",
+  "keywords": [
+    "vector",
+    "line",
+    "icons"
+  ],
+  "license": "CC BY-SA 4.0",
+  "homepage": "http://demo.amitjakhu.com/dripicons/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haydenbleasel/dripicons.git"
+  },
+  "authors": [
+    {
+      "name": "Hayden Bleasel",
+      "email": "haydenbleasel@gmail.com",
+      "url": "http://haydenbleasel.com/"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "dripicons",
+    "fileMap": [
+      {
+        "basePath": "webfont",
+        "files": [
+          "webfont.css",
+          "img/*.png",
+          "fonts/*.@(eot|svg|ttf|woff)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "SVG/*.svg"
+        ]
+      }
+    ]
+  },
+  "filename": "webfont.css"
+}
