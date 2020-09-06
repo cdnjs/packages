@@ -1,0 +1,34 @@
+{
+  "name": "hexo-theme-next",
+  "description": "Elegant and powerful theme for Hexo.",
+  "keywords": [
+    "hexo",
+    "theme",
+    "next"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "homepage": "https://theme-next.js.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/next-theme/hexo-theme-next.git"
+  },
+  "authors": [
+    {
+      "name": "NexT",
+      "email": "support@theme-next.org",
+      "url": "https://theme-next.js.org"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "hexo-theme-next",
+    "fileMap": [
+      {
+        "basePath": "source/js",
+        "files": [
+          "**/*.js"
+        ]
+      }
+    ]
+  }
+}
