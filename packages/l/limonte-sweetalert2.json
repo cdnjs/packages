@@ -16,13 +16,13 @@
     "prompt"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/sweetalert2/sweetalert2.git",
+    "source": "npm",
+    "target": "sweetalert2",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/!(*.gz)"
+          "**/*.@(js|css)"
         ]
       }
     ]
