@@ -15,13 +15,13 @@
     "type": "git",
     "url": "git+https://github.com/onsip/SIP.js.git"
   },
-  "filename": "index.js",
+  "filename": "sip.min.js",
   "autoupdate": {
-    "source": "npm",
-    "target": "sip.js",
+    "source": "git",
+    "target": "git://github.com/onsip/SIP.js.git",
     "fileMap": [
       {
-        "basePath": "lib",
+        "basePath": "dist",
         "files": [
           "*.js"
         ]
