@@ -1,0 +1,48 @@
+{
+  "name": "otpauth",
+  "description": "One Time Password (HOTP/TOTP) library for Node.js, Deno and browsers.",
+  "keywords": [
+    "otp",
+    "hotp",
+    "totp",
+    "one time password",
+    "2fa",
+    "2 factor",
+    "two factor",
+    "two-factor",
+    "2step",
+    "2 step",
+    "two step",
+    "two-step",
+    "auth",
+    "authenticator",
+    "google authenticator"
+  ],
+  "authors": [
+    {
+      "name": "Héctor Molinero Fernández",
+      "email": "hector@molinero.dev",
+      "url": "https://hector.molinero.dev"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hectorm/otpauth",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hectorm/otpauth.git"
+  },
+  "filename": "dist/otpauth.cjs.min.js",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/hectorm/otpauth.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "dist/*",
+          "types/*"
+        ]
+      }
+    ]
+  }
+}
