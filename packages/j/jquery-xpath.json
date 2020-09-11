@@ -7,7 +7,7 @@
     "xpath2",
     "jquery-plugin"
   ],
-  "license": null,
+  "license": "MIT",
   "homepage": "https://github.com/ilinsky/jquery-xpath",
   "repository": {
     "type": "git",
