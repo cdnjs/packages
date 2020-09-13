@@ -1,0 +1,36 @@
+{
+  "name": "vuejs-storage",
+  "description": "Vue.js and Vuex plugin to persistence data with localStorage/sessionStorage",
+  "keywords": [
+    "vue",
+    "vuex",
+    "localStorage",
+    "sessionStorage",
+    "persistence"
+  ],
+  "license": "MIT",
+  "filename": "vuejs-storage.umd.min.js",
+  "homepage": "https://github.com/maple3142/vuejs-storage",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maple3142/vuejs-storage.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "vuejs-storage",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "maple3142",
+      "url": "https://maple3142.net/"
+    }
+  ]
+}
