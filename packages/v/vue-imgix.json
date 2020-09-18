@@ -1,26 +1,26 @@
 {
-	"name": "vue-imgix",
-	"description": "A simple yet powerful integration between Vue and Imgix",
-	"author": "Frederick Fogerty <frederick.fogerty@gmail.com> (https://github.com/frederickfogerty)",
-	"license": "BSD-2-Clause",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/imgix/vue-imgix.git"
-	},
-	"homepage": "https://github.com/imgix/vue-imgix#readme",
+  "name": "vue-imgix",
+  "filename": "vue-imgix.min.js",
+  "description": "A simple yet powerful integration between Vue and Imgix",
+  "authors": [
+    "Frederick Fogerty <frederick.fogerty@gmail.com> (https://github.com/frederickfogerty)"
+  ],
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imgix/vue-imgix.git"
+  },
+  "homepage": "https://github.com/imgix/vue-imgix#readme",
   "autoupdate": {
     "source": "npm",
     "target": "vue-imgix",
     "fileMap": [
       {
         "basePath": "dist",
-        "files": [
-          "*.js"
-        ]
+        "files": ["*.js"]
       }
     ]
   },
-	"filename": "vue-imgix.min.js", 
   "keywords": [
     "vue",
     "imgix",
