@@ -3,7 +3,10 @@
   "filename": "vue-imgix.min.js",
   "description": "A simple yet powerful integration between Vue and Imgix",
   "authors": [
-    "Frederick Fogerty <frederick.fogerty@gmail.com> (https://github.com/frederickfogerty)"
+    {
+      "name": "Frederick Fogerty",
+      "url": "https://github.com/frederickfogerty"
+    }
   ],
   "license": "BSD-2-Clause",
   "repository": {
