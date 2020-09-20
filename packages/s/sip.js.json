@@ -17,8 +17,8 @@
   },
   "filename": "sip.min.js",
   "autoupdate": {
-    "source": "npm",
-    "target": "sip.js",
+    "source": "git",
+    "target": "git://github.com/onsip/SIP.js.git",
     "fileMap": [
       {
         "basePath": "dist",
