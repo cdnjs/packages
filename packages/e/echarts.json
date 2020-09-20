@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ecomfe/echarts.git",
+    "target": "git://github.com/apache/incubator-echarts.git",
     "fileMap": [
       {
         "basePath": "dist",
@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ecomfe/echarts"
+    "url": "git://github.com/apache/incubator-echarts"
   },
-  "homepage": "http://echarts.baidu.com",
-  "license": "BSD",
+  "homepage": "http://echarts.apache.org",
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "Kener",
