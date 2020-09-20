@@ -1,0 +1,51 @@
+{
+  "name": "body-scroll-lock",
+  "description": "Enables body scroll locking (for iOS Mobile and Tablet, Android, desktop Safari/Chrome/Firefox) without breaking scrolling of a target element (eg. modal/lightbox/flyouts/nav-menus)",
+  "keywords": [
+    "body scroll",
+    "body scroll lock",
+    "react scroll lock",
+    "react scroll",
+    "scroll",
+    "lock",
+    "freeze",
+    "toggle",
+    "disable",
+    "overflow",
+    "modal",
+    "lightbox",
+    "react",
+    "vanilla-js",
+    "angular",
+    "vue",
+    "ios",
+    "mobile",
+    "desktop",
+    "tablet",
+    "bsl"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willmcpo/body-scroll-lock.git"
+  },
+  "authors": [
+    {
+      "name": "Will Po"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "body-scroll-lock",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "bodyScrollLock.min.js"
+}
