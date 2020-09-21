@@ -1,6 +1,6 @@
 {
   "name": "nipplejs",
-  "filename": "nipplejs.min.js",
+  "filename": "nipplejs.js",
   "description": "A virtual joystick for touch capable interfaces",
   "license": "MIT",
   "repository": {
