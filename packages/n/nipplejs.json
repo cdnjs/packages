@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/yoannmoinet/nipplejs.git"
   },
-  "homepage": "https://yoannmoinet.github.io/nipplejs",
+  "homepage": "https://yoannmoi.net/nipplejs",
   "keywords": [
     "virtual",
     "joystick",
@@ -28,7 +28,7 @@
   "authors": [
     {
       "name": "Yoann Moinet",
-      "email": "yoann.moinet@gmail.com"
+      "email": "yo@nnmoi.net"
     }
   ]
 }
