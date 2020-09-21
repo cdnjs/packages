@@ -37,10 +37,15 @@
     "target": "git://github.com/hectorm/otpauth.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "dist/*",
-          "types/*"
+          "*.js?(.map)"
+        ]
+      },
+      {
+        "basePath": "types",
+        "files": [
+          "*.d.ts"
         ]
       }
     ]
