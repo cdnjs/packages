@@ -22,7 +22,13 @@
       {
         "basePath": "dist",
         "files": [
-          "*.js"
+          "*.js?(.map)"
+        ]
+      },
+      {
+        "basePath": "types",
+        "files": [
+          "*.d.ts"
         ]
       }
     ]
