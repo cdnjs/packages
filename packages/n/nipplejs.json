@@ -20,7 +20,7 @@
       {
         "basePath": "dist",
         "files": [
-          "nipple.js"
+          "**/*"
         ]
       }
     ]
