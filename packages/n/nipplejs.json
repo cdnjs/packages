@@ -14,13 +14,13 @@
     "touch"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "https://github.com/yoannmoinet/nipplejs.git",
+    "source": "npm",
+    "target": "nipplejs",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "nipple.js"
         ]
       }
     ]
