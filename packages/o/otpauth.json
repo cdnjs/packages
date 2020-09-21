@@ -31,7 +31,7 @@
     "type": "git",
     "url": "https://github.com/hectorm/otpauth.git"
   },
-  "filename": "dist/otpauth.cjs.min.js",
+  "filename": "otpauth.cjs.min.js",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/hectorm/otpauth.git",
