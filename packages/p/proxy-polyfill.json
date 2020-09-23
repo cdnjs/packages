@@ -1,0 +1,34 @@
+{
+  "name": "proxy-polyfill",
+  "description": "Polyfill for the Proxy object",
+  "keywords": [
+    "polyfill",
+    "html5",
+    "proxy",
+    "es6"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/GoogleChrome/proxy-polyfill#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoogleChrome/proxy-polyfill.git"
+  },
+  "authors": [
+    {
+      "name": "The Chromium Authors"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "proxy-polyfill",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "proxy.min.js"
+        ]
+      }
+    ]
+  },
+  "filename": "proxy.min.js"
+}
