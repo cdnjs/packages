@@ -1,0 +1,42 @@
+{
+	"name": "Easy Toggle State",
+	"description": "A tiny JavaScript library to easily toggle the state of any HTML element in any contexts, and create UI components in no time.",
+	"keywords": [
+		"toggle",
+		"switch",
+		"accessibility",
+		"ui components",
+		"dropdown",
+		"modal",
+		"tooltip",
+		"navigation button",
+		"lightbox",
+		"tabs",
+		"checkbox",
+		"radio"
+	],
+	"license": "MIT",
+	"homepage": "https://twikito.github.io/easy-toggle-state/",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Twikito/easy-toggle-state.git"
+	},
+	"author": [
+		{
+			"name": "Matthieu Bué",
+			"url": "https://github.com/Twikito"
+		}
+	],
+	"autoupdate": {
+		"source": "git",
+		"target": "git://github.com/Twikito/easy-toggle-state.git",
+		"fileMap": [
+			{
+				"basePath": "dist",
+				"files": [
+					"*.js"
+				]
+			}
+		]
+  }
+}
