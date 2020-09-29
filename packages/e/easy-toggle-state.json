@@ -38,5 +38,6 @@
 				]
 			}
 		]
-  }
+	},
+	"filename": "easy-toggle-state.es6.min.js"
 }
