@@ -21,7 +21,7 @@
 		"type": "git",
 		"url": "git+https://github.com/Twikito/easy-toggle-state.git"
 	},
-	"author": [
+	"authors": [
 		{
 			"name": "Matthieu Bué",
 			"url": "https://github.com/Twikito"
