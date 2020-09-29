@@ -1,5 +1,5 @@
 {
-	"name": "Easy Toggle State",
+	"name": "easy-toggle-state",
 	"description": "A tiny JavaScript library to easily toggle the state of any HTML element in any contexts, and create UI components in no time.",
 	"keywords": [
 		"toggle",
