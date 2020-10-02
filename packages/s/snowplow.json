@@ -1,5 +1,5 @@
 {
-  "name": "Snowplow JavaScript Tracker",
+  "name": "Snowplow",
   "filename": "sp.js",
   "description": "Snowplow is a data delivery platform that collects and operationalizes behavioral data, at scale.",
   "homepage": "http://snowplowanalytics.com/",

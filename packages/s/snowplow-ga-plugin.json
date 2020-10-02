@@ -1,5 +1,5 @@
 {
-  "name": "Snowplow Google Analytics Plugin",
+  "name": "snowplow-ga-plugin",
   "filename": "sp-ga-plugin.js",
   "description": "A Google Analytics plugin to send GA events to a Snowplow data collection pipeline.",
   "homepage": "http://snowplowanalytics.com/",
