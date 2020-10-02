@@ -15,6 +15,7 @@
     "target": "git://github.com/snowplow/sp-js-assets.git",
     "fileMap": [
       {
+        "basePath": "",
         "files": [
           "sp.js"
         ]

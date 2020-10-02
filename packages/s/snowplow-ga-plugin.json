@@ -17,6 +17,7 @@
     "target": "git://github.com/snowplow-incubator/snowplow-google-analytics-plugin.git",
     "fileMap": [
       {
+        "basePath": "",
         "files": [
           "sp-ga-plugin.js"
         ]
