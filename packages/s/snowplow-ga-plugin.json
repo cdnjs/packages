@@ -1,0 +1,37 @@
+{
+  "name": "Snowplow Google Analytics Plugin",
+  "filename": "sp-ga-plugin.js",
+  "description": "A Google Analytics plugin to send GA events to a Snowplow data collection pipeline.",
+  "homepage": "http://snowplowanalytics.com/",
+  "keywords": [
+    "snowplow",
+    "sp.js",
+    "ga",
+    "google",
+    "analytics",
+    "data",
+    "tracking"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/snowplow-incubator/snowplow-google-analytics-plugin.git",
+    "fileMap": [
+      {
+        "files": [
+          "sp-ga-plugin.js"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snowplow-incubator/snowplow-google-analytics-plugin"
+  },
+  "authors": [
+    {
+      "name": "Snowplow Analytics",
+      "url": "http://snowplowanalytics.com/"
+    }
+  ],
+  "license": "Simplified BSD"
+}

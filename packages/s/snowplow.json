@@ -1,0 +1,35 @@
+{
+  "name": "Snowplow JavaScript Tracker",
+  "filename": "sp.js",
+  "description": "Snowplow is a data delivery platform that collects and operationalizes behavioral data, at scale.",
+  "homepage": "http://snowplowanalytics.com/",
+  "keywords": [
+    "snowplow",
+    "sp.js",
+    "analytics",
+    "data",
+    "tracking"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/snowplow/sp-js-assets.git",
+    "fileMap": [
+      {
+        "files": [
+          "sp.js"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snowplow/sp-js-assets"
+  },
+  "authors": [
+    {
+      "name": "Snowplow Analytics",
+      "url": "http://snowplowanalytics.com/"
+    }
+  ],
+  "license": "Simplified BSD"
+}
