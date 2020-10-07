@@ -1,0 +1,38 @@
+{
+  "name": "web3-arkane-provider",
+  "description": "Arkane-enabled Web3 Provider for the web",
+  "keywords": [
+    "ethereum",
+    "hd",
+    "wallet",
+    "mnemonic",
+    "provider",
+    "arkane",
+    "truffle"
+  ],
+  "license": "MIT",
+  "homepage": "https://arkane.network",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkaneNetwork/web3-arkane-provider.git"
+  },
+  "authors": [
+    {
+      "name": "Davy Van Roy",
+      "email": "davy.van.roy@arkane.network"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@arkane-network/web3-arkane-provider",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "web3-arkane-provider.js"
+}
