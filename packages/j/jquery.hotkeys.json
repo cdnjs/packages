@@ -1,0 +1,36 @@
+{
+  "name": "jquery.hotkeys",
+  "description": "**jQuery Hotkeys** is a plug-in that lets you easily add and remove handlers for keyboard events anywhere in your code supporting almost any key combination.",
+  "keywords": [
+    "jquery",
+    "hotkeys",
+    "keyboard",
+    "events",
+    "key",
+    "bindings"
+  ],
+  "license": "MIT or GPL Version 2",
+  "homepage": "https://github.com/jeresig/jquery.hotkeys#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeresig/jquery.hotkeys.git"
+  },
+  "authors": [
+    {
+      "name": "John Resig"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery.hotkeys",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery.hotkeys.js"
+        ]
+      }
+    ]
+  },
+  "filename": "jquery.hotkeys.js"
+}
