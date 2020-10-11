@@ -30,10 +30,15 @@
     "target": "git@github.com:jsanahuja/InstagramFeed.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "dist/InstagramFeed.min.js",
-          "src/InstagramFeed.js"
+          "InstagramFeed.min.js"
+        ]
+      },
+      {
+        "basePath": "src",
+        "files": [
+          "InstagramFeed.js"
         ]
       }
     ]
