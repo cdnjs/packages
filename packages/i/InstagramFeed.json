@@ -27,7 +27,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git@github.com:jsanahuja/InstagramFeed.git",
+    "target": "git://github.com/jsanahuja/InstagramFeed.git",
     "fileMap": [
       {
         "basePath": "dist",
