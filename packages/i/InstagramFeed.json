@@ -1,7 +1,7 @@
 {
   "name": "InstagramFeed",
   "description": "Instagram Feed without access token. Not using the Instagram API",
-  "filename": "dist/InstagramFeed.min.js",
+  "filename": "InstagramFeed.min.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/jsanahuja/InstagramFeed.git"
