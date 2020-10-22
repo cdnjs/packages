@@ -1,0 +1,38 @@
+{
+  "name": "@chatui/core",
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@chatui/core",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*.css"
+        ]
+      }
+    ]
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "chat",
+    "chat-ui"
+  ],
+  "homepage": "https://chatui.io/",
+  "bugs": {
+    "url": "https://github.com/alibaba/ChatUI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alibaba/ChatUI"
+  },
+  "authors": [
+    {
+      "name": "akai",
+      "url": "https://github.com/akai"
+    }
+  ],
+  "license": "MIT"
+}
