@@ -1,0 +1,38 @@
+{
+  "name": "gridjs",
+  "filename": "dist/gridjs.production.min.js",
+  "description": "Grid.js is a Free and open-source HTML table plugin written in TypeScript. It works with most JavaScript frameworks, including React, Angular, Vue and VanillaJs.",
+  "keywords": [
+    "gridjs",
+    "grid",
+    "table",
+    "sort",
+    "filter",
+    "search"
+  ],
+  "homepage": "https://github.com/grid-js/gridjs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grid-js/gridjs.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "gridjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*",
+          "themes/*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Afshin Mehrabani",
+      "email": "afshin.meh@gmail.com"
+    }
+  ]
+}
