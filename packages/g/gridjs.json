@@ -1,6 +1,6 @@
 {
   "name": "gridjs",
-  "filename": "dist/gridjs.production.min.js",
+  "filename": "gridjs.production.min.js",
   "description": "Grid.js is a Free and open-source HTML table plugin written in TypeScript. It works with most JavaScript frameworks, including React, Angular, Vue and VanillaJs.",
   "keywords": [
     "gridjs",
