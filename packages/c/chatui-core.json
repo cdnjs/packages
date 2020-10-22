@@ -1,5 +1,6 @@
 {
-  "name": "@chatui/core",
+  "name": "chatui-core",
+  "description": "The React library for Chatbot UI",
   "filename": "index.js",
   "autoupdate": {
     "source": "npm",
@@ -21,9 +22,6 @@
     "chat-ui"
   ],
   "homepage": "https://chatui.io/",
-  "bugs": {
-    "url": "https://github.com/alibaba/ChatUI/issues"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/alibaba/ChatUI"
