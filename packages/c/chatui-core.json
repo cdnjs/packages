@@ -1,0 +1,36 @@
+{
+  "name": "chatui-core",
+  "description": "The React library for Chatbot UI",
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@chatui/core",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*.css"
+        ]
+      }
+    ]
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "chat",
+    "chat-ui"
+  ],
+  "homepage": "https://chatui.io/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alibaba/ChatUI"
+  },
+  "authors": [
+    {
+      "name": "akai",
+      "url": "https://github.com/akai"
+    }
+  ],
+  "license": "MIT"
+}
