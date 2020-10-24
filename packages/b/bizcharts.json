@@ -1,0 +1,32 @@
+{
+  "name": "bizcharts",
+  "description": "bizcharts",
+  "keywords": [
+    "bizcharts",
+    "g2"
+  ],
+  "license": "MIT",
+  "homepage": "https://bizcharts.net",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alibaba/BizCharts.git"
+  },
+  "authors": [
+    {
+      "name": "leannechn"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "bizcharts",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "BizCharts.min.js"
+}
