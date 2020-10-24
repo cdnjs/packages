@@ -44,7 +44,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js?(.map)"
         ]
       }
     ]
