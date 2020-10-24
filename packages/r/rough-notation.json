@@ -1,0 +1,33 @@
+{
+  "name": "rough-notation",
+  "description": "Create and animate hand-drawn annotations on a web page",
+  "keywords": [
+    "annotate",
+    "rough",
+    "sketchy"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/pshihn/rough-notation#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshihn/rough-notation.git"
+  },
+  "authors": [
+    {
+      "name": "Preet Shihn"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "rough-notation",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "rough-notation.*"
+        ]
+      }
+    ]
+  },
+  "filename": "rough-notation.cjs.js"
+}
