@@ -23,8 +23,8 @@
       {
         "basePath": "dist",
         "files": [
-          "*",
-          "themes/*"
+          "*.@(js?(.map)|d.ts)",
+          "theme/*.css?(.map)"
         ]
       }
     ]
