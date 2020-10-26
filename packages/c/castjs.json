@@ -12,13 +12,13 @@
     "source": "git",
     "target": "git://github.com/castjs/castjs.git",
     "fileMap": [
-    {
-      "basePath": "",
-      "files": [
-      "cast.js",
-      "cast.min.js"
-      ]
-    }
+      {
+        "basePath": "",
+        "files": [
+          "cast.js",
+          "cast.min.js"
+        ]
+      }
     ]
   },
   "license": "MIT",
@@ -28,8 +28,8 @@
   },
   "authors": [
     {
-    "name": "Fenny",
-    "url": "https://github.com/fenny"
+      "name": "Fenny",
+      "url": "https://github.com/fenny"
     }
   ]
 }
