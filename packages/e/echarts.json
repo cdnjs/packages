@@ -24,6 +24,12 @@
         "files": [
           "**/*"
         ]
+      },
+      {
+        "basePath": "theme",
+        "files": [
+          "**/*.js"
+        ]
       }
     ]
   },
