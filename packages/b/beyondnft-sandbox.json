@@ -1,0 +1,36 @@
+{
+  "name": "beyondnft-sandbox",
+  "filename": "sandbox.min.js",
+  "description": "Sandbox to load and run Interactive NFTs",
+  "homepage": "https://beyondnft.io/",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeyondNFT/sandbox/"
+  },
+  "keywords": [
+    "ethereum",
+    "nft",
+    "interactive",
+    "sandbox",
+    "beyondnft"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@beyondnft/sandbox",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Simon Fremaux",
+      "email": "simon.fremaux@gmail.com"
+    }
+  ]
+}
