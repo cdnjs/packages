@@ -1,0 +1,36 @@
+{
+  "name": "beyondnft-embeddable",
+  "filename": "embeddable.es.min.js",
+  "description": "Easily embed interactive NFTs in your website.",
+  "homepage": "https://beyondnft.io/",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeyondNFT/embeddable/"
+  },
+  "keywords": [
+    "ethereum",
+    "nft",
+    "interactive",
+    "embeddable",
+    "beyondnft"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@beyondnft/sandbox",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Simon Fremaux",
+      "email": "simon.fremaux@gmail.com"
+    }
+  ]
+}
