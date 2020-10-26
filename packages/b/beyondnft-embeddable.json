@@ -17,20 +17,16 @@
   ],
   "autoupdate": {
     "source": "npm",
-    "target": "@beyondnft/sandbox",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      }
-    ]
+    "target": "@beyondnft/embeddable",
+    "fileMap": [{
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }]
   },
-  "authors": [
-    {
-      "name": "Simon Fremaux",
-      "email": "simon.fremaux@gmail.com"
-    }
-  ]
+  "authors": [{
+    "name": "Simon Fremaux",
+    "email": "simon.fremaux@gmail.com"
+  }]
 }
