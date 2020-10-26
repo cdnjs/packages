@@ -1,11 +1,12 @@
 {
   "name": "echarts",
-  "description": "A powerful charting and visualization library for browser",
+  "description": "A powerful, interactive charting and data visualization library for browser",
   "filename": "echarts.min.js",
   "keywords": [
-    "baidu",
+    "apache",
     "echarts",
     "canvas",
+    "svg",
     "data visualization"
   ],
   "autoupdate": {
@@ -14,6 +15,12 @@
     "fileMap": [
       {
         "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "i18n",
         "files": [
           "**/*"
         ]
