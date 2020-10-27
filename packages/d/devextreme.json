@@ -1,46 +1,55 @@
 {
-    "name": "devextreme",
-    "description": "HTML5 JavaScript Component Suite for Responsive Web Development",
-    "keywords": [
-      "html5",
-      "controls",
-      "widgets",
-      "components",
-      "jquery",
-      "knockout",
-      "angular",
-      "web",
-      "ui",
-      "datagrid",
-      "pivotgrid",
-      "scheduler",
-      "treelist",
-      "chart"
-    ],
-    "homepage": "https://js.devexpress.com/",
-    "license": "https://js.devexpress.com/Licensing/",
-    "authors": [
-      {
-        "name": "Developer Express Inc.",
-        "email": "management@devexpress.com",
-        "url": "https://www.devexpress.com/"
-      }
-    ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/DevExpress/DevExtreme.git"
-    },
-    "autoupdate": {
-      "source": "npm",
-      "target": "devextreme",
-      "fileMap": [
-        {
-          "basePath": "dist",
-          "files": [
-            "js/*.js",
-            "css/*.css"
-          ]
-        }
-      ]
+  "name": "devextreme",
+  "description": "HTML5 JavaScript Component Suite for Responsive Web Development",
+  "keywords": [
+    "html5",
+    "controls",
+    "widgets",
+    "components",
+    "jquery",
+    "knockout",
+    "angular",
+    "web",
+    "ui",
+    "datagrid",
+    "pivotgrid",
+    "scheduler",
+    "treelist",
+    "chart"
+  ],
+  "homepage": "https://js.devexpress.com/",
+  "license": "https://js.devexpress.com/Licensing/",
+  "authors": [
+    {
+      "name": "Developer Express Inc.",
+      "email": "management@devexpress.com",
+      "url": "https://www.devexpress.com/"
     }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevExpress/DevExtreme.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "devextreme",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "js/*.js",
+          "js/localization/*.js",
+          "js/vectormap-data/*.js",
+
+          "css/*.css",
+          "css/fonts/*.ttf",
+          "css/fonts/*.woff",
+          "css/fonts/*.woff2",
+          "css/icons/*.ttf",
+          "css/icons/*.woff",
+          "css/icons/*.woff2"
+        ]
+      }
+    ]
   }
+}
