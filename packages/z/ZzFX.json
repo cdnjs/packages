@@ -1,0 +1,44 @@
+{
+  "name": "ZzFX",
+  "description": "A Tiny JS Sound FX System - Zuper Zmall Zound Zynth",
+  "filename": "ZzFX.micro.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KilledByAPixel/ZzFX.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sound",
+    "sounds",
+    "sound effect",
+    "sound effect engine",
+    "sound system",
+    "music",
+    "musical note",
+    "play sounds"
+  ],
+  "authors": [
+    {
+      "name": "Frank Force",
+      "email": "frankforce@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/KilledByAPixel/ZzFX.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "ZzFX.micro.js"
+        ]
+      },
+      {
+        "basePath": "src",
+        "files": [
+          "ZzFX.js"
+        ]
+      }
+    ]
+  }
+}
