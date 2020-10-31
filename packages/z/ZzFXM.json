@@ -1,0 +1,45 @@
+{
+  "name": "ZzFXM",
+  "description": "A super small music generator for use in size-limited JavaScript productions",
+  "filename": "zzfxm.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keithclark/ZzFXM.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sound",
+    "sounds",
+    "music",
+    "music tracks",
+    "music renderer",
+    "music generator",
+    "patterns",
+    "play sounds",
+    "instruments",
+    "audio data",
+    "song data",
+    "music data",
+    "composing songs"
+  ],
+  "authors": [
+    {
+      "name": "Keith Clark",
+      "url": "http://keithclark.co.uk"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/keithclark/ZzFXM.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "zzfx.js",
+          "zzfxm.js",
+          "zzfxm.min.js"
+        ]
+      }
+    ]
+  }
+}
