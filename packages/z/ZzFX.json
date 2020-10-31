@@ -28,14 +28,9 @@
     "target": "git://github.com/KilledByAPixel/ZzFX.git",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "ZzFX.micro.js"
-        ]
-      },
-      {
-        "basePath": "src",
-        "files": [
+          "ZzFX.micro.js",
           "ZzFX.js"
         ]
       }
