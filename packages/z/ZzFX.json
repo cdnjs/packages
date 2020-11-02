@@ -30,8 +30,7 @@
       {
         "basePath": "",
         "files": [
-          "ZzFX.micro.js",
-          "ZzFX.js"
+          "ZzFX.*.js"
         ]
       }
     ]
