@@ -1,0 +1,30 @@
+{
+  "name": "ably",
+  "filename": "ably.min.js",
+  "description": "Realtime client library for Ably, the realtime messaging service",
+  "homepage": "http://ably.com/",
+  "keywords": [
+    "ably",
+    "realtime",
+    "websockets",
+    "pubsub",
+    "messaging"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ably/ably-js.git"
+  },
+  "license": "Apache-2.0",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ably",
+    "fileMap": [
+      {
+        "basePath": "browser/static",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
+}
