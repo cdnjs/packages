@@ -1,0 +1,35 @@
+{
+  "name": "castjs",
+  "filename": "cast.min.js",
+  "description": "📺 Chromecast Sender Library for the Browser",
+  "homepage": "https://castjs.io",
+  "keywords": [
+    "chromecast",
+    "casting",
+    "sender"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/castjs/castjs.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "cast.js",
+          "cast.min.js"
+        ]
+      }
+    ]
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/castjs/castjs.git"
+  },
+  "authors": [
+    {
+      "name": "Fenny",
+      "url": "https://github.com/fenny"
+    }
+  ]
+}
