@@ -22,5 +22,18 @@
     {
       "name": "Andrey Yamanov <tenphi@gmail.com>"
     }
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "numl",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "dev/*.js"
+        ]
+      }
+    ]
+  }
 }
