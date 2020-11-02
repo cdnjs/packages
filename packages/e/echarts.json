@@ -20,15 +20,10 @@
         ]
       },
       {
-        "basePath": "i18n",
+        "basePath": "",
         "files": [
-          "*.js"
-        ]
-      },
-      {
-        "basePath": "theme",
-        "files": [
-          "**/*.js"
+          "i18n/*.js",
+          "theme/**/*.js"
         ]
       }
     ]
