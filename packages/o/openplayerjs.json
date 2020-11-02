@@ -1,6 +1,6 @@
 {
     "name":"openplayerjs",
-    "filename":"openplayerjs.min.js",
+    "filename":"openplayer.min.js",
     "description":"Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads.",
     "homepage":"https://www.openplayerjs.com/",
     "keywords":[
