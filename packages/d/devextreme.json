@@ -1,5 +1,6 @@
 {
   "name": "devextreme",
+  "filename": "js/dx.all.js",
   "description": "HTML5 JavaScript Component Suite for Responsive Web Development",
   "keywords": [
     "html5",
@@ -37,17 +38,11 @@
       {
         "basePath": "dist",
         "files": [
-          "js/*.js",
+          "js/!(*.debug).js",
           "js/localization/*.js",
           "js/vectormap-data/*.js",
-
           "css/*.css",
-          "css/fonts/*.ttf",
-          "css/fonts/*.woff",
-          "css/fonts/*.woff2",
-          "css/icons/*.ttf",
-          "css/icons/*.woff",
-          "css/icons/*.woff2"
+          "css/@(fonts|icons)/*.@(ttf|woff|woff2)"
         ]
       }
     ]
