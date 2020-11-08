@@ -17,13 +17,16 @@
   },
   "filename": "js/jquery.keyboard.min.js",
   "autoupdate": {
-    "source": "npm",
-    "target": "virtual-keyboard",
+    "source": "git",
+    "target": "git://github.com/Mottie/keyboard.git",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "js/*.js",
+          "css/*.css",
+          "languages/*.js",
+          "layouts/*.js"
         ]
       }
     ]
