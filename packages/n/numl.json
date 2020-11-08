@@ -1,0 +1,39 @@
+{
+  "name": "numl",
+  "description": "An open-source Library of Web Components and a Runtime CSS Framework for rapidly building UI that follows your Design System.",
+  "filename": "index.js",
+  "homepage": "https://numl.design",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/numldesign/numl.git"
+  },
+  "keywords": [
+    "markup-language",
+    "design system",
+    "css-generator",
+    "web-components",
+    "ui-components",
+    "themes",
+    "framework",
+    "uikit"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrey Yamanov <tenphi@gmail.com>"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "numl",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "dev/*.js"
+        ]
+      }
+    ]
+  }
+}
