@@ -30,7 +30,7 @@
       {
         "basePath": "",
         "files": [
-          "ZzFX.*.js"
+          "ZzFX?(.*).js"
         ]
       }
     ]
