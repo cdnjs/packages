@@ -36,8 +36,10 @@
         "files": ["**/*"]
       },
       {
-        "basePath": "types",
-        "files": ["**/*"]
+        "basePath": "",
+        "files": [
+          "types/**/*.d.ts"
+        ]
       }
     ]
   },
