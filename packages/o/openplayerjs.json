@@ -38,10 +38,6 @@
       {
         "basePath": "types",
         "files": ["**/*"]
-      },
-      {
-        "basePath": "docs",
-        "files": ["**/*"]
       }
     ]
   },
