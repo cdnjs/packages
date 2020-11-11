@@ -27,7 +27,7 @@
       {
         "basePath": "js",
         "files": [
-          "js/*.js"
+          "*.js"
         ]
       }
     ]
