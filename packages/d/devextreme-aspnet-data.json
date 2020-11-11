@@ -4,7 +4,11 @@
   "description": "DevExtreme data layer extension for ASP.NET",
   "homepage": "https://github.com/DevExpress/DevExtreme.AspNet.Data",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "devextreme",
+    "data",
+    "asp.net"
+  ],
   "authors": [
     {
       "name": "Developer Express Inc.",
