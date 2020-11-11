@@ -17,6 +17,10 @@
       "url": "https://www.devexpress.com/"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevExpress/DevExtreme.git"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "devexpress-gantt",
