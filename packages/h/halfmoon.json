@@ -21,14 +21,10 @@
     "target": "git://github.com/halfmoonui/halfmoon.git",
     "fileMap": [
       {
-        "basePath": "/",
+        "basePath": "",
         "files": [
-          "js/halfmoon.min.js",
-          "js/halfmoon.js",
-          "css/halfmoon.min.css",
-          "css/halfmoon.css",
-          "css/halfmoon-variables.min.css",
-          "css/halfmoon-variables.css"
+          "js/*.js",
+          "css/*.css"
         ]
       }
     ]
