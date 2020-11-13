@@ -5,7 +5,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/halfmoonui/halfmoon.git"
-  },
+  },  
+  "homepage": "https://www.gethalfmoon.com/",
   "keywords": [
     "css",
     "responsive",
