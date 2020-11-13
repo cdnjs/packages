@@ -1,0 +1,33 @@
+{
+  "name": "searchinghost",
+  "description": "A pure javascript, lightweight & in-browser full-text search plugin for Ghost (blog)",
+  "keywords": [
+    "ghost",
+    "search",
+    "plugin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gmfmi/searchinGhost#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmfmi/searchinGhost.git"
+  },
+  "authors": [
+    {
+      "name": "Gm Fmi"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "searchinghost",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "searchinghost.min.js"
+}
