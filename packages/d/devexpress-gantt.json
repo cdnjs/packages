@@ -1,6 +1,6 @@
 {
   "name": "devexpress-gantt",
-  "filename": "dist/dx-gantt.min.js",
+  "filename": "dx-gantt.min.js",
   "description": "DevExpress Gantt Control",
   "homepage": "https://devexpress.com/",
   "license": "https://www.devexpress.com/Support/EULAs",
