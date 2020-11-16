@@ -1,6 +1,6 @@
 {
   "name": "devextreme-aspnet-data",
-  "filename": "js/dx.aspnet.data.js",
+  "filename": "dx.aspnet.data.js",
   "description": "DevExtreme data layer extension for ASP.NET",
   "homepage": "https://github.com/DevExpress/DevExtreme.AspNet.Data",
   "license": "MIT",
