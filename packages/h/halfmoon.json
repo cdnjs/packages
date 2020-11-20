@@ -1,0 +1,38 @@
+{
+  "name": "Halfmoon",
+  "filename": "css/halfmoon.min.css",
+  "description": "Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halfmoonui/halfmoon.git"
+  },  
+  "homepage": "https://www.gethalfmoon.com/",
+  "keywords": [
+    "css",
+    "responsive",
+    "front-end",
+    "framework",
+    "web",
+    "bootstrap-alternative"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/halfmoonui/halfmoon.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "js/*.js",
+          "css/*.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "ProgrammerDim",
+      "email": "dimitritouli@gmail.com"
+    }
+  ]
+}
