@@ -1,0 +1,30 @@
+{
+  "name": "jquery-creditcardvalidator",
+  "description": "Detect and validate credit card numbers.",
+  "keywords": ["credit", "debit", "visa", "mastercard", "discover", "amex", "american express", "card", "validation", "cc", "credit card", "payment"],
+  "license": "MIT",
+  "homepage": "https://jquerycreditcardvalidator.com",
+  "repository": {
+    "url": "https://github.com/PawelDecowski/jquery-creditcardvalidator.git",
+    "type": "git"
+  },
+  "filename": "jquery.creditCardValidator.js",
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/PawelDecowski/jquery-creditcardvalidator.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jquery.creditCardValidator.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Pawel Decowski",
+      "url": "https://about.me/paweldecowski"
+    }
+  ]
+}
