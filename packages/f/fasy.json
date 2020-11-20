@@ -1,0 +1,35 @@
+{
+  "name": "fasy",
+  "description": "FP iterator helpers that are async/generator aware",
+  "filename": "umd/bundle.js",
+  "keywords": [
+    "fp",
+    "functional programming",
+    "async"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/getify/fasy.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/getify/fasy",
+  "autoupdate": {
+    "source": "npm",
+    "target": "fasy",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "umd/*.?(js|json|map)",
+          "esm/*.?(js|mjs|json|map)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Kyle Simpson",
+      "email": "getify@gmail.com"
+    }
+  ]
+}
