@@ -1,0 +1,46 @@
+{
+  "name": "fullview",
+  "description": "Create fullscreen scrolling websites",
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "jquery",
+    "javascript",
+    "scrolling",
+    "smooth",
+    "single_page",
+    "onepage",
+    "fullpage",
+    "fullview",
+    "one_page",
+    "sliding",
+    "scroll",
+    "swipe",
+    "mousewheel",
+    "sections"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/seeratawan01/fullview.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seeratawan01/fullview.js.git"
+  },
+  "authors": [
+    {
+      "name": "Seerat Awan https://github.com/seeratawan01"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "fullview",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "fullview.min.js"
+}
