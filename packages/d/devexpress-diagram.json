@@ -1,0 +1,36 @@
+{
+  "name": "devexpress-diagram",
+  "filename": "dx-diagram.min.js",
+  "description": "DevExpress Diagram Control",
+  "homepage": "https://devexpress.com/",
+  "license": "https://www.devexpress.com/Support/EULAs",
+  "keywords": [
+    "diagram",
+    "editor",
+    "devextreme",
+    "devexpress"
+  ],
+  "authors": [
+    {
+      "name": "Developer Express Inc.",
+      "email": "management@devexpress.com",
+      "url": "https://www.devexpress.com/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevExpress/DevExtreme.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "devexpress-diagram",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  }
+}
