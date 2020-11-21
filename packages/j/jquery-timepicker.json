@@ -21,7 +21,7 @@
       {
         "basePath": "",
         "files": [
-          "jquery.timepicker*.(!ts)"
+          "jquery.timepicker?(.min).@(css|js)"
         ]
       }
     ]
