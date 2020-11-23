@@ -1,0 +1,35 @@
+{
+  "name": "devextreme-quill",
+  "filename": "dx-quill.min.js",
+  "description": "Core of the DevExtrene HtmlEditor",
+  "homepage": "https://devexpress.com/",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "editor",
+    "rich text",
+    "wysiwyg"
+  ],
+  "authors": [
+    {
+      "name": "Developer Express Inc.",
+      "email": "management@devexpress.com",
+      "url": "https://www.devexpress.com/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevExpress/devextreme-quill.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "devextreme-quill",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  }
+}
