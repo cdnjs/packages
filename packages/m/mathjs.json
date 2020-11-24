@@ -25,9 +25,9 @@
     "target": "mathjs",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "lib/browser",
         "files": [
-          "**/*"
+          "*.js?(.map)"
         ]
       }
     ]
