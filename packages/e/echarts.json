@@ -10,8 +10,8 @@
     "data visualization"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/apache/incubator-echarts.git",
+    "source": "npm",
+    "target": "echarts",
     "fileMap": [
       {
         "basePath": "dist",
