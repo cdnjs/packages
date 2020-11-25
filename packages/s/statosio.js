@@ -1,0 +1,40 @@
+{
+  "name": "statosio.js",
+  "description": "Generate simple charts, in a fast and reliable way.",
+  "filename": "statosio.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a6b8/statosio.js"
+  },
+  "keywords": [
+    "d3",
+    "d3js",
+    "statosio",
+    "statosiojs",
+    "javascript",
+    "svg",
+    "bar-chart",
+    "point-chart",
+    "bar-stacked-chart"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/a6b8/statosio.js.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  },
+  "license": "MIT",
+  "authors": [
+    {
+        "name": "Andreas Banholzer",
+        "email": "hello@13plus4.com",
+        "url": "13plus4.com"
+    }
+  ]
+}
