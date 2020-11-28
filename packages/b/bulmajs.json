@@ -1,0 +1,33 @@
+{
+    "name": "bulmajs",
+    "filename": "dist/bulma.js",
+    "license": "MIT",
+    "description": "Unofficial javascript extension to the awesome Bulma CSS framework.",
+    "homepage": "https://bulmajs.tomerbe.co.uk",
+    "keywords": [
+        "javascript",
+        "bulma"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VizuaaLOG/BulmaJS.git"
+    },
+    "autoupdate": {
+        "source": "npm",
+        "target": "@vizuaalog/bulmajs",
+        "fileMap": [
+            {
+                "basePath": "dist",
+                "files": [
+                    "**/*.+(js|map)"
+                ]
+            }
+        ]
+    },
+    "authors": [
+        {
+            "name": "Thomas Erbe",
+            "email": "tom@tomerbe.co.uk"
+        }
+    ]
+}
