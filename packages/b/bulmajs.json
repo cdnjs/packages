@@ -1,6 +1,6 @@
 {
     "name": "bulmajs",
-    "filename": "dist/bulma.js",
+    "filename": "bulma.js",
     "license": "MIT",
     "description": "Unofficial javascript extension to the awesome Bulma CSS framework.",
     "homepage": "https://bulmajs.tomerbe.co.uk",
