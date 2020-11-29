@@ -12,8 +12,7 @@
   "homepage": "https://github.com/antvis/x6",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/antvis/x6.git",
-    "directory": "packages/x6-react-shape"
+    "url": "git+ssh://git@github.com/antvis/x6.git"
   },
   "authors": [
     {
