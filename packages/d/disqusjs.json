@@ -1,0 +1,36 @@
+{
+  "name": "disqusjs",
+  "filename": "disqus.js",
+  "description": "Alternative DISQUS - Render comments components from Disqus API",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukkaW/DisqusJS.git"
+  },
+  "keywords": [
+    "Disqus",
+    "DisqusJS",
+    "SukkaW",
+    "API",
+    "XHR",
+    "JSON"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/SukkaW/DisqusJS#readme",
+  "autoupdate": {
+    "source": "npm",
+    "target": "disqusjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Sukka"
+    }
+  ]
+}
