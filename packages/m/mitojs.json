@@ -1,5 +1,5 @@
 {
-  "name": "mitojs",
+  "name": "@zyf2e/mitojs",
   "description": "a SDK for monitoring browser errors",
   "repository": {
     "type": "git",
