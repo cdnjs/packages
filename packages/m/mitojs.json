@@ -1,0 +1,26 @@
+{
+  "name": "mitojs",
+  "description": "A SDK for monitoring browser errors",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clouDr-f2e/mitojs.git"
+  },
+  "filename": "index.min.js",
+  "keywords": ["monitor", "sdk", "error", "broswer"],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/clouDr-f2e/mitojs.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["**/*"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "cjinhuo"
+    }
+  ]
+}
