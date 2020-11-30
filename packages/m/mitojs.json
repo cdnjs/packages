@@ -1,6 +1,6 @@
 {
   "name": "mitojs",
-  "description": "A SDK for monitoring browser errors",
+  "description": "a SDK for monitoring browser errors",
   "repository": {
     "type": "git",
     "url": "https://github.com/clouDr-f2e/mitojs.git"
