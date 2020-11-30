@@ -3,7 +3,7 @@
   "description": "A SDK for monitoring browser errors",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clouDr-f2e/mitojs.git"
+    "url": "https://github.com/clouDr-f2e/mitojs.git"
   },
   "filename": "index.min.js",
   "keywords": ["monitor", "sdk", "error", "broswer"],
