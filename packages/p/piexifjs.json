@@ -23,7 +23,14 @@
       {
         "basePath": "",
         "files": [
-          "piexif.js?(.map)"
+          "piexif.js"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)",
+          "*.d.ts"
         ]
       }
     ]
