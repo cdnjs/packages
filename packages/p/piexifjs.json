@@ -1,0 +1,39 @@
+{
+  "name": "piexifjs",
+  "description": "Read and write exif.",
+  "keywords": [
+    "jpeg",
+    "exif"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hMatoba/piexifjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hMatoba/piexifjs.git"
+  },
+  "authors": [
+    {
+      "name": "hMatoba"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "piexifjs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "piexif.js"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)",
+          "*.d.ts"
+        ]
+      }
+    ]
+  },
+  "filename": "piexif.js"
+}
