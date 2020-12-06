@@ -12,7 +12,16 @@
     "type": "git",
     "url": "https://github.com/jeff-collins/ment.io.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "jeff-collins",
+      "email": "i.am.jeff.collins@gmail.com"
+    },
+    {
+      "name": "adamayres",
+      "email": "magicaj@gmail.com"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "ment.io",
