@@ -1,0 +1,29 @@
+{
+  "name": "ment.io",
+  "description": "Mentions for Angular",
+  "keywords": [
+    "angular",
+    "mentions",
+    "ment.io"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jeff-collins/ment.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeff-collins/ment.io.git"
+  },
+  "authors": [],
+  "autoupdate": {
+    "source": "npm",
+    "target": "ment.io",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "mentio.min.js"
+}
