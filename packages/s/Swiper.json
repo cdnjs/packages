@@ -1,6 +1,6 @@
 {
   "name": "Swiper",
-  "filename": "js/swiper.min.js",
+  "filename": "swiper-bundle.min.js",
   "description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
   "repository": {
     "type": "git",
@@ -18,8 +18,7 @@
       {
         "basePath": "",
         "files": [
-          "js/swiper.*",
-          "css/swiper.*"
+          "swiper-bundle.*"
         ]
       }
     ]
