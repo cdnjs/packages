@@ -1,0 +1,32 @@
+{
+  "name": "htmx",
+  "description": "high power tools for html",
+  "keywords": [
+    "AJAX",
+    "HTML"
+  ],
+  "license": "BSD 2-Clause",
+  "homepage": "https://htmx.org/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bigskysoftware/htmx.git"
+  },
+  "authors": [
+    {
+      "name": "bigskysoftware"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/bigskysoftware/htmx.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "htmx.min.js"
+}
