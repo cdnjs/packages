@@ -1,7 +1,7 @@
 {
   "name": "v-charts",
   "description": "Vue Echarts Components",
-  "filename": "lib/index.js",
+  "filename": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/elemefe/v-charts.git"
