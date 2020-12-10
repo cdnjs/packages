@@ -1,0 +1,34 @@
+{
+  "name": "deepstream-client",
+  "description": "the javascript client for deepstream.io",
+  "keywords": [
+    "deepstream",
+    "javascript",
+    "realtime",
+    "client"
+  ],
+  "license": "MIT",
+  "homepage": "http://deepstream.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepstreamIO/deepstream.io-client-js.git"
+  },
+  "authors": [
+    {
+      "name": "deepstreamHub GmbH"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@deepstream/client",
+    "fileMap": [
+      {
+        "basePath": "dist/bundle",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "ds.min.js"
+}
