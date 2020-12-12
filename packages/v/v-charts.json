@@ -1,0 +1,26 @@
+{
+  "name": "v-charts",
+  "description": "Vue Echarts Components",
+  "filename": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elemefe/v-charts.git"
+  },
+  "keywords": [
+    "vue",
+    "echarts"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "v-charts",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "!(utils|*.common)?(.min).js"
+        ]
+      }
+    ]
+  }
+}
