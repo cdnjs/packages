@@ -1,0 +1,33 @@
+{
+  "name": "bootstrap-icons",
+  "description": "Official open source SVG icon library for Bootstrap",
+  "keywords": [
+    "bootstrap",
+    "icons"
+  ],
+  "license": "MIT",
+  "homepage": "https://icons.getbootstrap.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twbs/icons.git"
+  },
+  "authors": [
+    {
+      "name": "mdo"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-icons",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.svg",
+          "icons/*.svg"
+        ]
+      }
+    ]
+  },
+  "filename": "bootstrap-icons.svg"
+}
