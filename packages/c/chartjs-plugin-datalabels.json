@@ -12,7 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/chartjs/chartjs-plugin-datalabels.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "Simon Brunel",
+      "url": "https://github.com/simonbrunel"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "chartjs-plugin-datalabels",
