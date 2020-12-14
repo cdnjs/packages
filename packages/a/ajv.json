@@ -11,10 +11,10 @@
     "validator"
   ],
   "license": "MIT",
-  "filename": "ajv.min.js",
+  "filename": "ajv7.min.js",
   "autoupdate": {
     "source": "npm",
-    "target": "ajv",
+    "target": "ajv-dist",
     "fileMap": [
       {
         "basePath": "dist",
