@@ -14,7 +14,7 @@
   "filename": "ajv.min.js",
   "autoupdate": {
     "source": "npm",
-    "target": "ajv",
+    "target": "ajv-dist",
     "fileMap": [
       {
         "basePath": "dist",
