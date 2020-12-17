@@ -1,7 +1,10 @@
 {
   "name": "cldr-json",
   "description": "JSON Data from the Unicode CLDR Project",
-  "keywords": [],
+  "keywords": [
+    "unicode",
+    "cldr"
+  ],
   "license": "NOASSERTION",
   "homepage": "https://github.com/unicode-org/cldr-json#bug-reports",
   "repository": {
