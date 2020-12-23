@@ -1,0 +1,31 @@
+{
+  "name": "cldr-json",
+  "description": "JSON Data from the Unicode CLDR Project",
+  "keywords": [
+    "unicode",
+    "cldr"
+  ],
+  "license": "NOASSERTION",
+  "homepage": "https://github.com/unicode-org/cldr-json#bug-reports",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/unicode-org/cldr-json.git"
+  },
+  "authors": [
+    {
+      "name": "unicode-org"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/unicode-org/cldr-json.git",
+    "fileMap": [
+      {
+        "basePath": "cldr-json",
+        "files": [
+          "**/!(package|bower).json"
+        ]
+      }
+    ]
+  }
+}
