@@ -24,7 +24,7 @@
       {
         "basePath": "markitup",
         "files": [
-          "**/*.+(js|css|png|html)"
+          "**/*.@(js|css|png)"
         ]
       }
     ]
