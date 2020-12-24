@@ -1,0 +1,23 @@
+{
+  "name": "kauli",
+  "filename": "kauli.min.js",
+  "description": "Extremely simple and lightweight jQuery-like library",
+  "homepage": "https://github.com/JorgeFPastor/kauli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeFPastor/kauli.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "kauli",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": ["kauli.js", "kauli.min.js"]
+      }
+    ]
+  },
+  "keywords": ["simple", "lightweight", "jQuery"],
+  "author": "JorgeFPastor",
+  "license": "ISC",
+}
