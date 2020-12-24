@@ -17,7 +17,15 @@
       }
     ]
   },
-  "keywords": ["simple", "lightweight", "jQuery"],
-  "author": "JorgeFPastor",
-  "license": "ISC"
+  "keywords": [
+    "simple",
+    "lightweight",
+    "jQuery"
+  ],
+  "authors": [
+    {
+      "name": "JorgeFPastor",
+    }
+  ],
+  "license": "MIT"
 }
