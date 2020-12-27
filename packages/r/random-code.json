@@ -1,0 +1,34 @@
+{
+  "name": "random-code",
+  "description": "Generates a random code.",
+  "keywords": [
+    "generator",
+    "code",
+    "id",
+    "random"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/codedipper/random-code#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedipper/random-code.git"
+  },
+  "authors": [
+    {
+      "name": "Reverse"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@codedipper/random-code",
+    "fileMap": [
+      {
+        "basePath": "browser",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "browser.min.js"
+}
