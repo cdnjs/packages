@@ -14,7 +14,7 @@
       {
         "basePath": "dist",
         "files": [
-          "ember*.js"
+          "ember*.@(js|map)"
         ]
       }
     ]
