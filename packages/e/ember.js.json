@@ -12,13 +12,7 @@
     "target": "ember-source",
     "fileMap": [
       {
-        "basePath": "dist/packages/ember",
-        "files": [
-          "index.js"
-        ]
-      },
-      {
-        "basePath": "dist/packages",
+        "basePath": "dist",
         "files": [
           "ember*.js"
         ]
