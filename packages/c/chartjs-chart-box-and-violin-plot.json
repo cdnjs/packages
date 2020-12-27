@@ -1,7 +1,14 @@
 {
   "name": "chartjs-chart-box-and-violin-plot",
   "description": "Chart.js module for charting boxplots",
-  "keywords": [],
+  "keywords": [
+    "chartjs",
+    "boxplot",
+    "chart",
+    "javascript",
+    "violin-plot",
+    "charting-boxplots"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/datavisyn/chartjs-chart-box-and-violin-plot#readme",
   "repository": {
