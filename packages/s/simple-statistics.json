@@ -14,7 +14,7 @@
     "linear",
     "bayesian"
   ],
-  "filename": "simple_statistics.min.js",
+  "filename": "simple-statistics.min.js",
   "license": "ISC",
   "autoupdate": {
     "source": "npm",
@@ -23,8 +23,7 @@
       {
         "basePath": "dist",
         "files": [
-          "simple_statistics.min.js",
-          "simple_statistics.js"
+          "**/*"
         ]
       }
     ]
