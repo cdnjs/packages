@@ -23,7 +23,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|mjs)?(.map)"
         ]
       }
     ]
