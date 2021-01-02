@@ -1,0 +1,37 @@
+{
+  "name": "CriptJS",
+  "filename": "cript.min.js",
+  "description": "CriptJS is a text encryptor for HTML/JS",
+  "homepage": "https://github.com/DablioZe/apicriptjs",
+  "keywords": [
+    "cript",
+    "criptjs"
+    "cript.js"
+    "encrypt"
+    "decrypt"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DablioZe/apicriptjs.git"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/DablioZe/apicriptjs.git",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "cript.min.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "DablioZe",
+      "email": "ezequiaslopesdev@gmail.com",
+      "url": "https://github.com/DablioZe/apicriptjs"
+    }
+  ]
+}
