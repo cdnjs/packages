@@ -1,14 +1,14 @@
 {
-  "name": "CriptJS",
+  "name": "cript.js",
   "filename": "cript.min.js",
   "description": "CriptJS is a text encryptor for HTML/JS",
   "homepage": "https://github.com/DablioZe/apicriptjs",
   "keywords": [
     "cript",
-    "criptjs"
-    "cript.js"
-    "encrypt"
-    "decrypt"
+    "criptjs",
+    "cript.js",
+    "encrypt",
+    "decrypt",
   ],
   "repository": {
     "type": "git",
