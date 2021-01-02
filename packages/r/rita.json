@@ -1,36 +1,35 @@
 {
   "name": "rita",
-  "description": "RiTa: A toolkit for natural language and computational literature",
+  "description": "RiTa: a toolkit for generative writing and natural language",
   "homepage": "https://rednoise.org/rita",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dhowe/RiTaJS.git"
+    "url": "https://github.com/dhowe/ritajs.git"
   },
   "keywords": [
-    "nlp",
     "natural language",
-    "language",
-    "writing",
-    "generative"
+    "generative text",
+    "text analysis"
   ],
   "license": "GPL-3.0",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/dhowe/RiTaJS.git",
+    "source": "npm",
+    "target": "rita",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "rita*.js"
         ]
       }
     ]
   },
-  "filename": "rita.min.js",
+  "filename": "rita-web.js",
   "authors": [
     {
-      "name": "Daniel C. Howe",
-      "email": "daniel@rednoise.org"
+      "name": "Daniel Howe",
+      "email": "daniel@rednoise.org",
+      "url": "https://rednoise.org/daniel"
     }
   ]
 }
