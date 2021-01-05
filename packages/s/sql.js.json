@@ -19,7 +19,7 @@
   "name": "sql.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/kripken/sql.js.git"
+    "url": "https://github.com/sql-js/sql.js"
   },
   "autoupdate": {
     "source": "npm",
