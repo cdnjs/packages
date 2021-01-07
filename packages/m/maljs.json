@@ -1,0 +1,12 @@
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/hfomar-nafcs/maljs.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
