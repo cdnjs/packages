@@ -1,0 +1,36 @@
+{
+  "name": "tedit",
+  "filename": "objects.js",
+  "description": "A library for an easy to use block text editor",
+  "homepage": "https://mertz-es.de/",
+  "keywords": [
+    "text",
+    "editor",
+    "pdf",
+    "plain text",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Matteo-Dev/tedit.js.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/Matteo-Dev/tedit.js.git",
+    "fileMap": [
+      {
+        "basePath": "dev",
+        "files": [
+          "objects.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Yurugen Vurusto",
+      "email": "yurugen.vurusto@gmail.com",
+      "url": "https://mertz-es.de"
+    }
+  ]
+}
