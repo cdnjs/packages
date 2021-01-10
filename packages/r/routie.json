@@ -1,7 +1,12 @@
 {
   "name": "routie",
   "description": "a tiny javascript hash router",
-  "keywords": [],
+  "keywords": [
+    "routing",
+    "hash",
+    "routing",
+    "router"
+  ],
   "license": "MIT",
   "homepage": "http://projects.jga.me/routie",
   "repository": {
