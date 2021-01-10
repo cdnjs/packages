@@ -1,6 +1,6 @@
 {
   "name": "tedit",
-  "filename": "tedit.js",
+  "filename": "objects.js",
   "description": "A library for an easy to use block text editor",
   "homepage": "https://mertz-es.de/",
   "keywords": [
