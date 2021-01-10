@@ -1,6 +1,6 @@
 {
   "description": "SQLite library with support for opening and writing databases, prepared statements, and more. This SQLite library is in pure javascript (compiled with emscripten).",
-  "filename": "js/sql.js",
+  "filename": "sql-wasm.js",
   "keywords": [
     "sql",
     "sqlite",
@@ -26,9 +26,9 @@
     "target": "sql.js",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "dist/*"
+          "*.@(js|wasm)"
         ]
       }
     ]
