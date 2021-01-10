@@ -1,5 +1,6 @@
 {
   "name": "javascript-state-machine",
+  "filename": "state-machine.min.js",
   "description": "A finite state machine library",
   "keywords": [
     "finite state machine",
@@ -7,12 +8,12 @@
     "server",
     "client"
   ],
-  "license": "MIT",
   "homepage": "https://github.com/jakesgordon/javascript-state-machine",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jakesgordon/javascript-state-machine.git"
+    "url": "https://github.com/jakesgordon/javascript-state-machine.git"
   },
+  "license": "MIT",
   "authors": [
     {
       "name": "Jake Gordon",
@@ -30,6 +31,5 @@
         ]
       }
     ]
-  },
-  "filename": "state-machine.min.js"
+  }
 }
