@@ -1,6 +1,6 @@
 {
   "name": "monio",
-  "description": "async-capable IO Monad (including \"do\" style) for JS",
+  "description": "Async-capable IO monad for JS",
   "filename": "umd/bundle.js",
   "keywords": [
     "fp",
@@ -23,7 +23,9 @@
         "basePath": "dist",
         "files": [
           "umd/*.?(js|json|map)",
-          "esm/*.?(js|mjs|json|map)"
+          "umd/lib/*.?(js|json|map)",
+          "esm/*.?(js|mjs|json|map)",
+          "ems/lib/*.?(js|mjs|json|map)"
         ]
       }
     ]
