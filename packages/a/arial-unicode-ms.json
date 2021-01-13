@@ -1,7 +1,7 @@
 {
   "name": "arial-unicode-ms",
   "description": "A collection of arial unicode ms fonts",
-  "filename": "index.js",
+  "filename": "Arial-Unicode-MS.ttf",
   "license": "MIT",
   "repository": {
     "type": "git",
