@@ -1,0 +1,30 @@
+{
+  "name": "arial-unicode-ms",
+  "description": "A collection of arial unicode ms fonts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/t33le/arial-unicode.git"
+  },
+  "keywords": [
+    "arial-unicode-ms"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/t33le/arial-unicode.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.ttf"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "t33le",
+      "email": "thongle.sj@gmail.com"
+    }
+  ]
+}
