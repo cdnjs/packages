@@ -10,7 +10,8 @@
   "keywords": [
     "arial-unicode-ms",
     "arial-unicode-bold",
-    "arial-unicode-italics"
+    "arial-unicode-italics",
+    "arial-unicode-bolditalics"
   ],
   "autoupdate": {
     "source": "git",
