@@ -11,7 +11,8 @@
     "arial-unicode-ms",
     "arial-unicode-bold",
     "arial-unicode-italics",
-    "arial-unicode-bolditalics"
+    "arial-unicode-bolditalics",
+    "arial"
   ],
   "autoupdate": {
     "source": "git",
