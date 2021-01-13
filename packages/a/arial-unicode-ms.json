@@ -8,7 +8,8 @@
     "url": "git://github.com/t33le/arial-unicode.git"
   },
   "keywords": [
-    "arial-unicode-ms"
+    "arial-unicode-ms",
+    "arial-unicode-bold"
   ],
   "autoupdate": {
     "source": "git",
