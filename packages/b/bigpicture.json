@@ -1,0 +1,39 @@
+{
+  "name": "bigpicture",
+  "description": "Lightweight image and video viewer, supports youtube / vimeo",
+  "keywords": [
+    "lightbox",
+    "gallery",
+    "photo",
+    "image",
+    "video",
+    "youtube",
+    "vimeo",
+    "iframe"
+  ],
+  "license": "MIT",
+  "homepage": "https://henrygd.me/bigpicture",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/henrygd/bigpicture.git"
+  },
+  "authors": [
+    {
+      "name": "Henry Dollman",
+      "email": "hank@henrygd.me"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/henrygd/bigpicture.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "BigPicture.min.js"
+}
