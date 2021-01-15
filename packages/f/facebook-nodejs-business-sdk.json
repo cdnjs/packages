@@ -1,0 +1,43 @@
+{
+  "name": "facebook-nodejs-business-sdk",
+  "description": "SDK for the Facebook Ads API in Javascript and Node.js",
+  "keywords": [
+    "facebook",
+    "ads",
+    "sdk",
+    "api",
+    "javascript",
+    "es6",
+    "es2015",
+    "isomorphic",
+    "nodejs",
+    "amd",
+    "requirejs",
+    "umd",
+    "promises"
+  ],
+  "license": "Platform License",
+  "homepage": "https://github.com/facebook/facebook-nodejs-business-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/facebook/facebook-nodejs-business-sdk.git"
+  },
+  "authors": [
+    {
+      "name": "Facebook"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "facebook-nodejs-business-sdk",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "umd.js"
+}
