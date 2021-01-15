@@ -25,13 +25,13 @@
     "target": "cesium",
     "fileMap": [
       {
-        "basePath": "build/cesium",
+        "basePath": "Build/Cesium",
         "files": [
           "*.@(js|d.ts)",
-          "assets/**/*.@(json|svg|jpg|png|xml)",
-          "thirdparty/**/*.@(js|wasm)",
-          "widgets/**/*.@(css|png|svg|gif)",
-          "workers/*.js"
+          "Assets/**/*.@(json|svg|jpg|png|xml)",
+          "ThirdParty/**/*.@(js|wasm)",
+          "Widgets/**/*.@(css|png|svg|gif)",
+          "Workers/*.js"
         ]
       }
     ]
