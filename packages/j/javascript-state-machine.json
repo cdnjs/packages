@@ -1,11 +1,14 @@
 {
   "name": "javascript-state-machine",
   "filename": "state-machine.min.js",
-  "description": "A simple finite state machine library",
+  "description": "A finite state machine library",
   "keywords": [
-    "state-machine",
-    "fsm"
+    "finite state machine",
+    "state machine",
+    "server",
+    "client"
   ],
+  "homepage": "https://github.com/jakesgordon/javascript-state-machine",
   "repository": {
     "type": "git",
     "url": "https://github.com/jakesgordon/javascript-state-machine.git"
@@ -16,5 +19,17 @@
       "name": "Jake Gordon",
       "email": "jake@codeincomplete.com"
     }
-  ]
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/jakesgordon/javascript-state-machine.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }
