@@ -1,0 +1,33 @@
+{
+  "name": "routie",
+  "description": "a tiny javascript hash router",
+  "keywords": [
+    "routing",
+    "hash",
+    "router"
+  ],
+  "license": "MIT",
+  "homepage": "http://projects.jga.me/routie",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jgallen23/routie.git"
+  },
+  "authors": [
+    {
+      "name": "jgallen23"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/jgallen23/routie.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "routie.min.js"
+}
