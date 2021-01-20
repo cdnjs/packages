@@ -2,7 +2,7 @@
   "name": "mapbox-gl",
   "description": "A WebGL interactive maps library",
   "filename": "mapbox-gl.js",
-  "license": "BSD-3-Clause",
+  "license": "SEE LICENSE IN https://github.com/mapbox/mapbox-gl-js/blob/main/LICENSE.txt",
   "homepage": "https://www.mapbox.com/mapbox-gl-js/api/",
   "repository": {
     "type": "git",
