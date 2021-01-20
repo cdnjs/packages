@@ -25,7 +25,7 @@
           "umd/*.?(js|json|map)",
           "umd/lib/*.?(js|json|map)",
           "esm/*.?(js|mjs|json|map)",
-          "ems/lib/*.?(js|mjs|json|map)"
+          "esm/lib/*.?(js|mjs|json|map)"
         ]
       }
     ]
