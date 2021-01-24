@@ -24,7 +24,9 @@
         "basePath": "",
         "files": [
           "*.svg",
-          "icons/*.svg"
+          "icons/*.svg",
+          "font/*.@(css|json)",
+          "font/fonts/*.@(woff|woff2)"
         ]
       }
     ]
