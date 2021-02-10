@@ -1,29 +1,29 @@
 {
   "name": "hyperapp",
-  "filename": "hyperapp.js",
-  "description": "1kb JavaScript library for building modern UI applications",
+  "filename": "index.js",
+  "description": "The tiny framework for building hypertext applications",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hyperapp/hyperapp.git"
+    "url": "https://github.com/jorgebucaran/hyperapp"
   },
   "keywords": [
-    "hyperx",
-    "hypertext",
-    "functional",
-    "virtual-dom",
-    "template string",
-    "hyperscript",
-    "vanilla"
+    "framework",
+    "hyperapp",
+    "frontend",
+    "vdom",
+    "web",
+    "app",
+    "ui"
   ],
   "autoupdate": {
     "source": "npm",
     "target": "hyperapp",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "**/*.!(*gz)"
+          "*.js"
         ]
       }
     ]
