@@ -1,0 +1,30 @@
+{
+  "name": "diff-match-patch",
+  "filename": "diff_match_patch.js",
+  "description": "The Diff Match and Patch libraries offer robust algorithms to perform the operations required for synchronizing plain text.",
+  "homepage": "https://github.com/google/diff-match-patch",
+  "keywords": [
+    "diff",
+    "match",
+    "patch",
+    "text-processing",
+    "difference"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/google/diff-match-patch.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/google/diff-match-patch.git",
+    "fileMap": [
+      {
+        "basePath": "javascript",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "license": "Apache-2.0"
+}
