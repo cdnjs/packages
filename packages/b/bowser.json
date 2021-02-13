@@ -1,7 +1,7 @@
 {
   "name": "bowser",
-  "filename": "bowser.min.js",
-  "description": "Lightweight browser detector",
+  "filename": "bundled.js",
+  "description": "A small, fast and rich-API browser/platform/engine detector for both browser and node.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lancedikson/bowser.git"
@@ -24,7 +24,7 @@
       {
         "basePath": "",
         "files": [
-          "bowser*"
+          "*.@(js|ts)"
         ]
       }
     ]
