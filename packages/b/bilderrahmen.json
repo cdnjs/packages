@@ -1,0 +1,36 @@
+{
+  "name": "bilderrahmen",
+  "description": "Lightweight vanilla-JS image lightbox crafted with CSS3 and inline SVG icons for modern browsers",
+  "keywords": [
+    "javascript",
+    "gallery",
+    "image-gallery",
+    "lightbox",
+    "vanilla-javascript",
+    "image-lightbox"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/codeclou/bilderrahmen#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeclou/bilderrahmen.git"
+  },
+  "authors": [
+    {
+      "name": "codeclou"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "bilderrahmen",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|css|ts)"
+        ]
+      }
+    ]
+  },
+  "filename": "bilderrahmen.min.css"
+}
