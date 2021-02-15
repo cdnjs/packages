@@ -19,7 +19,9 @@
     "fileMap": [
       {
         "basePath": "dist",
-        "files": ["**/*"]
+        "files": [
+          "valigators.min.js"
+        ]
       }
     ]
   }
