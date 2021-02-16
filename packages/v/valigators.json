@@ -1,0 +1,28 @@
+{
+  "name": "valigators",
+  "description": "A simple validation library for any data type",
+  "filename": "valigators.min.js",
+  "keywords": ["validation", "validators", "validate", "check", "alligator"],
+  "authors": [
+    {
+      "name": "Will Kelly"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wkelly1/Valigators.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "valigators",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "valigators.min.js"
+        ]
+      }
+    ]
+  }
+}
