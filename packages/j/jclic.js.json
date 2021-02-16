@@ -21,13 +21,13 @@
   ],
   "license": "EUPL-1.1",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/projectestac/jclic.js.git",
+    "source": "npm",
+    "target": "jclic",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/!(*.LICENSE|*es6*)"
+          "*.js"
         ]
       }
     ]
