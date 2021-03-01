@@ -1,7 +1,7 @@
 {
   "name": "fingerprintjs2",
   "filename": "fingerprint2.min.js",
-  "description": "Modern & flexible browser fingerprinting library",
+  "description": "The library has been renamed to @fingeprintjs/fingerprintjs. Check the link below to get updates.",
   "repository": {
     "type": "git",
     "url": "https://github.com/Valve/fingerprintjs2.git"
@@ -14,7 +14,7 @@
     "privacy"
   ],
   "license": "MIT",
-  "homepage": "https://valve.github.io/fingerprintjs2/",
+  "homepage": "https://github.com/fingerprintjs/fingerprintjs",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/Valve/fingerprintjs2.git",
