@@ -1,0 +1,33 @@
+{
+  "name": "micromodal",
+  "description": "Tiny javascript library for creating accessible modal dialogs",
+  "keywords": [
+    "a11y",
+    "modal",
+    "accesible"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghosh/micromodal"
+  },
+  "authors": [
+    {
+      "name": "Indrashish Ghosh"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "micromodal",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "micromodal.min.js"
+}
