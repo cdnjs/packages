@@ -1,6 +1,6 @@
 {
   "name": "mirrorx",
-  "filename": "umd/mirror.js",
+  "filename": "mirror.js",
   "description": "A React framework with minimal API and zero boilerplate.",
   "repository": {
     "type": "git",
