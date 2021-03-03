@@ -1,0 +1,39 @@
+{
+  "name": "mirrorx",
+  "filename": "mirror.js",
+  "description": "A React framework with minimal API and zero boilerplate.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mirrorjs/mirror.git"
+  },
+  "keywords": [
+    "framework",
+    "react",
+    "redux",
+    "mirror",
+    "mirrorx",
+    "react-router",
+    "front-end"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mirrorjs/mirror/blob/master/README.md",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mirrorx",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "aaronphy",
+      "email": "aaronphy1990@gmail.com",
+      "url": "https://github.com/aaronphy"
+    }
+  ]
+}
