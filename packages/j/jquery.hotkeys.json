@@ -21,8 +21,8 @@
     }
   ],
   "autoupdate": {
-    "source": "npm",
-    "target": "jquery.hotkeys",
+    "source": "git",
+    "target": "git+https://github.com/jeresig/jquery.hotkeys.git",
     "fileMap": [
       {
         "basePath": "",
