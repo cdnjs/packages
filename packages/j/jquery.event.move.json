@@ -16,13 +16,13 @@
   },
   "filename": "jquery.event.move.js",
   "autoupdate": {
-    "source": "npm",
-    "target": "jquery.event.move",
+    "source": "git",
+    "target": "git://github.com/stephband/jquery.event.move.git",
     "fileMap": [
       {
         "basePath": "js",
         "files": [
-          "*.js"
+          "jquery.event.move.js"
         ]
       }
     ]
