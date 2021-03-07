@@ -7,7 +7,7 @@
     "event",
     "swipe"
   ],
-  "license": null,
+  "license": "WTFPL",
   "homepage": "http://github.com/stephband/jquery.event.swipe",
   "repository": {
     "type": "git",
