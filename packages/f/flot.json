@@ -18,12 +18,9 @@
     "target": "git://github.com/flot/flot.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "source",
         "files": [
-          "jquery.flot.*",
-          "jquery.colorhelpers.js",
-          "excanvas.js",
-          "excanvas.min.js"
+          "jquery.*.js"
         ]
       }
     ]
