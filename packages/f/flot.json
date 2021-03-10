@@ -1,6 +1,6 @@
 {
   "name": "flot",
-  "filename": "jquery.flot.min.js",
+  "filename": "jquery.flot.js",
   "description": "Attractive Javascript plotting for jQuery",
   "homepage": "http://flotcharts.org/",
   "keywords": [
@@ -18,12 +18,9 @@
     "target": "git://github.com/flot/flot.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "source",
         "files": [
-          "jquery.flot.*",
-          "jquery.colorhelpers.js",
-          "excanvas.js",
-          "excanvas.min.js"
+          "jquery.*.js"
         ]
       }
     ]
