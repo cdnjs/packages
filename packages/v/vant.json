@@ -1,0 +1,36 @@
+{
+  "name": "vant",
+  "description": "Lightweight Mobile UI Components built on Vue",
+  "filename": "vant.min.js",
+  "homepage": "https://youzan.github.io/vant",
+  "keywords": [
+    "ui",
+    "vue",
+    "vue3",
+    "mobile",
+    "frontend",
+    "component",
+    "components"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youzan/vant"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "vant",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": ["vant.js", "vant.min.js", "index.css"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "chenjiahan",
+      "url": "https://github.com/chenjiahan"
+    }
+  ]
+}
