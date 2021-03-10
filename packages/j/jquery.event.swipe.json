@@ -1,0 +1,35 @@
+{
+  "name": "jquery.event.swipe",
+  "description": "jQuery special events for the gestures swipeleft, swiperight, swipeup and swipedown.",
+  "keywords": [
+    "touch",
+    "special",
+    "event",
+    "swipe"
+  ],
+  "license": "WTFPL",
+  "homepage": "http://github.com/stephband/jquery.event.swipe",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephband/jquery.event.swipe.git"
+  },
+  "authors": [
+    {
+      "name": "Stephen Band",
+      "url": "http://stephband.info"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/stephband/jquery.event.swipe.git",
+    "fileMap": [
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "jquery.event.swipe.js"
+}
