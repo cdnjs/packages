@@ -1,0 +1,33 @@
+{
+  "name": "cronstrue",
+  "description": "Parses a cron expression and outputs a human readable description of the cron schedule. For example, given the expression '*/5 * * * *' it will output 'Every 5 minutes'.",
+  "keywords": [
+    "Cron"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bradymholt/cronstrue",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradymholt/cronstrue.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "cronstrue",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "cronstrue.min.js",
+  "authors": [
+    {
+      "name": "Brady Holt",
+      "email": "brady.holt@gmail.com",
+      "url": "https://github.com/bradymholt"
+    }
+  ]
+}
