@@ -1,37 +1,37 @@
 {
-	"name": "vue-tour",
-	"filename": "vue-tour.umd.min.js",
-	"description": "state management for Vue.js",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/smitpatelx/vue-tour.git"
-	},
-	"license": "MIT",
-	"homepage": "https://pulsardev.github.io/vue-tour",
-	"keywords": [
-		"vue",
-		"tour",
-		"popup",
-		"popper"
-	],
-	"autoupdate": {
-		"source": "npm",
-		"target": "vue-tour",
-		"fileMap": [
-			{
-				"basePath": "dist",
-				"files": [
-					"*.js"
-				]
-			}
-		]
-	},
-	"authors": [
-		{
-			"name": "Smit Patel"
-		},
-		{
-			"name": "Mathieu Morainville"
-		}
-	]
+  "name": "vue-tour",
+  "filename": "vue-tour.umd.min.js",
+  "description": "state management for Vue.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smitpatelx/vue-tour.git"
+  },
+  "license": "MIT",
+  "homepage": "https://pulsardev.github.io/vue-tour",
+  "keywords": [
+    "vue",
+    "tour",
+    "popup",
+    "popper"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-tour",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Smit Patel"
+    },
+    {
+      "name": "Mathieu Morainville"
+    }
+  ]
 }
