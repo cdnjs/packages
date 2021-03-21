@@ -27,10 +27,10 @@
     "target":"bijou.js",
     "fileMap":[
       {
-        "basepath":"/",
+        "basePath":"/",
         "files":["bijou.js"]
       }
     ],
-    "filename":"bijou.js"
-  }
+  },
+  "filename":"bijou.js"
 }
