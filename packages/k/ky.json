@@ -1,0 +1,52 @@
+{
+  "name": "ky",
+  "description": "Tiny and elegant HTTP client based on the browser Fetch API",
+  "keywords": [
+    "fetch",
+    "request",
+    "requests",
+    "http",
+    "https",
+    "fetching",
+    "get",
+    "url",
+    "curl",
+    "wget",
+    "net",
+    "network",
+    "ajax",
+    "api",
+    "rest",
+    "xhr",
+    "browser",
+    "got",
+    "axios",
+    "node-fetch"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sindresorhus/ky#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/ky.git"
+  },
+  "authors": [
+    {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "ky",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.@(d.ts|js)"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}
