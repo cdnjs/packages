@@ -9,8 +9,8 @@
     "useful",
     "elegant"
   ],
-  "license":"GNU General Public License v3.0",
-  "homepage":"https://bijou.js.org",
+  "license": "GNU General Public License v3.0",
+  "homepage": "https://bijou.js.org",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bijou-js/bijou.js.git"
@@ -24,11 +24,11 @@
   ],
   "autoupdate": {
     "source": "npm",
-    "target":"bijou.js",
+    "target": "bijou.js",
     "fileMap":[
       {
-        "basePath":"/",
-        "files":["bijou.js"]
+        "basePath": "",
+        "files": ["bijou.js"]
       }
     ]
   },
