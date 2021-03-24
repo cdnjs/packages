@@ -21,7 +21,7 @@
       {
         "basePath": "build",
         "files": [
-          "two!(.module)*.js"
+          "*.js"
         ]
       }
     ]
