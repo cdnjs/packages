@@ -33,7 +33,7 @@
         "files": [
           "*.js",
           "css{,/plugins}/*.css",
-          "js*.js",
+          "js/*.js",
           "nocss{,/plugins}/*.js",
           "plugins/*.js",
           "types/*.d.ts"
