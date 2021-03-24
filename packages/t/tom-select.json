@@ -1,0 +1,42 @@
+{
+  "name": "tom-select",
+  "description": "Tom Select is a versatile and dynamic <select> UI control. Framework agnostic with autocomplete and native-feeling keyboard navigation, it's useful for tagging, contact lists, country selectors, etc.",
+  "keywords": [
+    "select",
+    "ui",
+    "form",
+    "input",
+    "control",
+    "autocomplete",
+    "tagging",
+    "tag"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://tom-select.js.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orchidjs/tom-select.git"
+  },
+  "authors": [
+    {
+      "name": "Josh Schmidt",
+      "url": "https://github.com/oyejorge"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "tom-select",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "css/*.css?(.map)",
+          "@(esm|js)/**/*.js?(.map)",
+          "scss/*.scss",
+          "types/**/*.d.ts"
+        ]
+      }
+    ]
+  },
+  "filename": "js/tom-select.complete.js"
+}
