@@ -28,7 +28,7 @@
     "fileMap":[
       {
         "basePath": "",
-        "files": ["bijou.js"]
+        "files": ["bijou.js", "bijou-min.js"]
       }
     ]
   },
