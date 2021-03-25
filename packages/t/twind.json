@@ -1,0 +1,31 @@
+{
+  "name": "twind",
+  "description": "compiles tailwind like shorthand syntax into css at runtime",
+  "filename": "twind.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tw-in-js/twind"
+  },
+  "keywords": [
+    "twind",
+    "tailwind",
+    "tw-in-js",
+    "tailwind-in-js"
+  ],
+  "homepage": "https://twind.dev",
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "twind",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/package.json",
+          "**/*.js",
+          "**/*.js.map"
+        ]
+      }
+    ]
+  }
+}
