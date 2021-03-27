@@ -4,7 +4,7 @@
   "description": "state management for Vue.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smitpatelx/vue-tour.git"
+    "url": "git+https://github.com/pulsardev/vue-tour.git"
   },
   "license": "MIT",
   "homepage": "https://pulsardev.github.io/vue-tour",
