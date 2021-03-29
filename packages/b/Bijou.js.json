@@ -1,0 +1,36 @@
+{
+  "name": "Bijou.js",
+  "description": "Useful JS snippets, in one simple library",
+  "keywords": [
+    "bijou",
+    "javascript",
+    "library",
+    "functions",
+    "useful",
+    "elegant"
+  ],
+  "license": "GNU General Public License v3.0",
+  "homepage": "https://bijou.js.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bijou-js/bijou.js.git"
+  },
+  "authors": [
+    {
+      "name": "Explosion Implosion",
+      "email": "explosionscratch@gmail.com",
+      "url": "https://github.com/explosion-scratch"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "bijou.js",
+    "fileMap":[
+      {
+        "basePath": "",
+        "files": ["bijou.js", "bijou-min.js"]
+      }
+    ]
+  },
+  "filename":"bijou.js"
+}

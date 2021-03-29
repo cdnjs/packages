@@ -1,0 +1,44 @@
+{
+  "name": "litepicker",
+  "description": "Date range picker - lightweight, no dependencies",
+  "keywords": [
+    "datepicker",
+    "daterange",
+    "date",
+    "picker",
+    "range",
+    "lightweight",
+    "no-dependencies"
+  ],
+  "license": "MIT",
+  "homepage": "https://litepicker.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakirin/litepicker.git"
+  },
+  "authors": [
+    {
+      "name": "Rinat G.",
+      "email": "litepicker@lvl.ninja",
+      "url": "https://lvl.ninja"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "litepicker",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "css{,/plugins}/*.css",
+          "js/*.js",
+          "nocss{,/plugins}/*.js",
+          "plugins/*.js",
+          "types/*.d.ts"
+        ]
+      }
+    ]
+  },
+  "filename": "litepicker.js"
+}
