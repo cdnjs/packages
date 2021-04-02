@@ -1,7 +1,7 @@
 {
   "name": "fingerprintjs2",
   "filename": "fingerprint2.min.js",
-  "description": "The library has been renamed to @fingeprintjs/fingerprintjs. Check the link below to get updates.",
+  "description": "The library has been renamed to @fingerprintjs/fingerprintjs. Check the link below to get updates.",
   "repository": {
     "type": "git",
     "url": "https://github.com/Valve/fingerprintjs2.git"
