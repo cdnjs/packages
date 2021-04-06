@@ -1,0 +1,24 @@
+  "autoupdate": {
+    "source": "npm",
+    "target": "reseter.css",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "src",
+        "files": [
+          "sass/*.sass",
+          "scss/*.scss",
+          "less/*.less",
+          "stylus/*.styl",
+          "styled-components/js/*.js",
+          "styled-components/js/*.mjs",
+          "styled-components/ts/*.ts"
+        ]
+      }
+    ]
+  }
