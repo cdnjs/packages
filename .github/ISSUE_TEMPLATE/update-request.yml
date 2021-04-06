@@ -1,0 +1,57 @@
+---
+name: cdnjs Update Request
+description: Request a library with a bad or missing auto-update config to be updated
+title: "Update: xxx"
+labels: ["📦 Update Request"]
+issue_body: false
+body:
+
+- type: markdown
+  attributes:
+    value: |
+      Please fill out the information in this issue template so that we can efficiently process your request for a library update on cdnjs.
+
+- type: markdown
+  attributes:
+    value: |
+      To update a library on cdnjs, it must have a way for an auto-update mechanism to be used.
+      This can either be via a Git repository that has versions tagged, with the required files included in the repository at the tag.
+      Or, this can be done via an NPM package.
+
+- type: input
+  id: name
+  attributes:
+    label: Library name
+    description: "Please provide the name of the library on cdnjs that you wish to be updated"
+    placeholder: "twitter-bootstrap"
+  validations:
+    required: true
+
+- type: input
+  id: json
+  attributes:
+    label: Library JSON file
+    description: "Please provide a link to the library's cdnjs JSON configuration file"
+    placeholder: "https://github.com/cdnjs/packages/blob/master/packages/t/twitter-bootstrap.json"
+  validations:
+    required: true
+
+- type: input
+  id: source
+  attributes:
+    label: Library source
+    description: "Please provide a link an NPM package or tagged Git repository as the source for library versions"
+    placeholder: "https://www.npmjs.com/package/bootstrap"
+  validations:
+    required: true
+
+- type: textarea
+  id: files
+  attributes:
+    label: Files to include
+    description: "Please provide a list of all the files that we should include from the source for the library on cdnjs"
+    placeholder: |
+      - bootstrap.min.css
+      - bootstrap.min.js
+  validations:
+    required: true
