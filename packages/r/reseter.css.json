@@ -18,10 +18,15 @@
     "target": "reseter.css",
     "fileMap": [
       {
+        "basePath": "css",
+        "files": [
+          "*?(.min).css"
+        ]
+      },
+      {
         "basePath": "",
         "files": [
-          "css/reseter.@(css|min.css)",          
-          "src/**/reseter.@(sass|scss|less|styl|ts|js|mjs)" 
+          "src/**/reseter.@(sass|scss|less|styl|ts|js|mjs)"
         ]
       }
     ]
