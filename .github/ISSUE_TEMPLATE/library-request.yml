@@ -1,0 +1,52 @@
+---
+name: cdnjs Library Request
+description: Request a new library to be added to cdnjs
+title: "Add: xxx"
+labels: ["🏷 Library Request"]
+issue_body: false
+body:
+
+- type: markdown
+  attributes:
+    value: |
+      Please fill out the information in this issue template so that we can efficiently process your request for a new library to be added to cdnjs.
+
+- type: markdown
+  attributes:
+    value: |
+      To add a library to cdnjs, it must have a way for an auto-update mechanism to be used.
+      This can either be via a Git repository that has versions tagged, with the required files included in the repository at the tag.
+      Alternatively, this can be done via an NPM package.
+
+- type: markdown
+  attributes:
+    value: |
+      cdnjs has a basic popularity requirement for libraries being added.
+      Please ensure the library you are requesting has at least 800 downloads per month on NPM or over 200 stars on GitHub / GitLab / Bitbucket.
+
+- type: input
+  id: name
+  attributes:
+    label: Library name
+    description: "Please provide the name of the library that you wish to have added to cdnjs"
+    placeholder: "bootstrap"
+  validations:
+    required: true
+
+- type: input
+  id: license
+  attributes:
+    label: Library license
+    description: "Please provide a link to the open-source license that the library is covered by (MIT, Apache 2.0, etc.)"
+    placeholder: "https://github.com/twbs/bootstrap/blob/main/LICENSE"
+  validations:
+    required: true
+
+- type: input
+  id: source
+  attributes:
+    label: Library source
+    description: "Please provide a link an NPM package or tagged Git repository as the source for library versions"
+    placeholder: "https://www.npmjs.com/package/bootstrap"
+  validations:
+    required: true
