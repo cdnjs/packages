@@ -8,17 +8,8 @@
     "Reboot"
   ],
   "homepage": "https://krishdevdb.github.io/reseter.css/",
-  "bugs": {
-    "url": "https://github.com/krishdevdb/reseter.css/issues",
-    "email": "krishdevdb@gmail.com"
-  },
+  "repository": "github:krishdevdb/reseter.css",
   "license": "MIT",
-  "author": {
-    "name": "Krish",
-    "email": "krishdevdb@gmail.com",
-    "url": "https://github.com/krishdevdb/"
-  },
-  "contributors": [],
   "autoupdate": {
     "source": "npm",
     "target": "reseter.css",
