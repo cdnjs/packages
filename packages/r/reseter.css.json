@@ -20,7 +20,7 @@
       {
         "basePath": "",
         "files": [
-          "css/reseter.@(sass|scss|less|styl|ts|js|mjs)",          
+          "css/reseter.@(css|min.css)",          
           "src/**/reseter.@(sass|scss|less|styl|ts|js|mjs)" 
         ]
       }
