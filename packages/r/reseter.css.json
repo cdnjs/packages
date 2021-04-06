@@ -1,24 +1,35 @@
+{
+  "name": "reseter.css",
+  "description": "Reset All CSS By Browsers With Reseter.css. And Make Web Look Same Across All Browsers",
+  "keywords": [
+    "Reset.css",
+    "Normalize.css",
+    "Sanitize.css",
+    "Reboot"
+  ],
+  "homepage": "https://krishdevdb.github.io/reseter.css/",
+  "bugs": {
+    "url": "https://github.com/krishdevdb/reseter.css/issues",
+    "email": "krishdevdb@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Krish",
+    "email": "krishdevdb@gmail.com",
+    "url": "https://github.com/krishdevdb/"
+  },
+  "contributors": [],
   "autoupdate": {
     "source": "npm",
     "target": "reseter.css",
     "fileMap": [
       {
-        "basePath": "css",
+        "basePath": "",
         "files": [
-          "*.css"
-        ]
-      },
-      {
-        "basePath": "src",
-        "files": [
-          "sass/*.sass",
-          "scss/*.scss",
-          "less/*.less",
-          "stylus/*.styl",
-          "styled-components/js/*.js",
-          "styled-components/js/*.mjs",
-          "styled-components/ts/*.ts"
+          "**/**/reseter.@(sass|scss|less|styl|ts|js|mjs)"
         ]
       }
     ]
-  }
+  },
+  "filename": "css/reseter.min.css"
+}
