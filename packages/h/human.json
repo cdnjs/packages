@@ -1,0 +1,53 @@
+{
+  "name": "@vladmandic/human",
+  "description": "Human: AI-powered 3D Face Detection, Face Description & Recognition, Body Pose Tracking, Hand & Finger Tracking, Iris Analysis, Age & Gender & Emotion Prediction & Gesture Recognition",
+  "keywords": [
+    "human",
+    "face-api",
+    "face-detection",
+    "face-geometry",
+    "face-embedding",
+    "face-recognition",
+    "face-description",
+    "body-tracking",
+    "hand-tracking",
+    "iris-tracking",
+    "age-estimation",
+    "emotion-detection",
+    "gender-prediction",
+    "gesture-recognition",
+    "age-gender",
+    "faceapi",
+    "face",
+    "person",
+    "tensorflowjs",
+    "tfjs",
+    "tensorflow"
+  ],
+  "homepage": "https://vladmandic.github.io/human/demo/index.html",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladmandic/human.git"
+  },
+  "authors": [
+    {
+      "name": "Vladimir Mandic",
+      "email": "mandic00@live.com",
+      "url": "https://github.com/vladmandic"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@vladmandic/human",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+    },
+    "filename": "human.js"
+}
