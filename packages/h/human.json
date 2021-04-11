@@ -44,10 +44,10 @@
       {
         "basePath": "dist",
         "files": [
-          "*.@(js|map)"
+          "*.js?(.map)"
         ]
       }
     ]
-    },
-    "filename": "human.js"
+  },
+  "filename": "human.js"
 }
