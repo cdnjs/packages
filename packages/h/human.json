@@ -1,5 +1,5 @@
 {
-  "name": "@vladmandic/human",
+  "name": "human",
   "description": "Human: AI-powered 3D Face Detection, Face Description & Recognition, Body Pose Tracking, Hand & Finger Tracking, Iris Analysis, Age & Gender & Emotion Prediction & Gesture Recognition",
   "keywords": [
     "human",
