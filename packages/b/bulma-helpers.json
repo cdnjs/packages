@@ -33,7 +33,7 @@
       {
         "basePath": "",
         "files": [
-          "**/*.@(css|sass)"
+          "**/*.@(css?(.map)|sass)"
         ]
       }
     ]
