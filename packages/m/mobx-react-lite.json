@@ -27,7 +27,7 @@
       {
         "basePath": "dist",
         "files": [
-          "mobxreact*.js"
+          "mobxreactlite*.js"
         ]
       }
     ]
