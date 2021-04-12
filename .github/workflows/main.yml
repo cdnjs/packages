@@ -32,7 +32,7 @@ jobs:
       - name: lint package
         id: lint
         env:
-          BOT_BASE_PATH: /home/runner/work
+          BOT_BASE_PATH: ${{ github.workspace }}
         run: bash ./scripts/lint.sh \
             ${{ steps.diff.outputs.files_modified }} \
             ${{ steps.diff.outputs.files_added }}
@@ -47,7 +47,7 @@ jobs:
       - name: compute files
         id: files
         env:
-          BOT_BASE_PATH: /home/runner/work
+          BOT_BASE_PATH: ${{ github.workspace }}
         run: bash ./scripts/show-files.sh \
             ${{ steps.diff.outputs.files_modified }} \
             ${{ steps.diff.outputs.files_added }}
