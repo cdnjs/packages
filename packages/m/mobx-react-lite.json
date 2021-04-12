@@ -22,7 +22,7 @@
   ],
   "autoupdate": {
     "source": "npm",
-    "target": "mobx-react",
+    "target": "mobx-react-lite",
     "fileMap": [
       {
         "basePath": "dist",
