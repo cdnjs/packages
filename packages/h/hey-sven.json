@@ -1,0 +1,28 @@
+{
+  "autoupdate": {
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*"
+        ]
+      }
+    ],
+    "source": "npm",
+    "target": "hey-sven"
+  },
+  "keywords": ["test"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtuc/hi-sven.git"
+  },
+  "authors": [
+    {
+      "name": "Sven",
+      "email": "sven@example.com"
+    }
+  ],
+  "name": "hey-sven",
+  "description": "String length must be greater than or equal to 1",
+  "license": "ISC"
+}
