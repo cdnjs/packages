@@ -1,0 +1,39 @@
+{
+   "name": "lets-plot",
+   "description": "An open source library for statistical plotting.",
+   "keywords": [
+      "visualization",
+      "statistics",
+      "graphics",
+      "plotting",
+      "data",
+      "geo-spatial",
+      "python",
+      "kotlin"
+   ],
+   "license": "MIT",
+   "homepage": "https://github.com/JetBrains/lets-plot",
+   "repository": {
+     "type": "git",
+     "url": "git://github.com/JetBrains/lets-plot.git"
+   },
+   "authors": [
+     {
+       "name": "JetBrains",
+       "url": "https://www.jetbrains.com"
+     }
+   ],
+   "autoupdate": {
+     "source": "git",
+     "target": "git://github.com/JetBrains/lets-plot.git",
+     "fileMap": [
+       {
+         "basePath": "js-package/distr",
+         "files": [
+           "*.js"
+         ]
+       }
+     ]
+   },
+   "filename": "lets-plot.min.js"
+ }
