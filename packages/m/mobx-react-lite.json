@@ -1,0 +1,40 @@
+{
+  "name": "mobx-react-lite",
+  "filename": "mobxreactlite.umd.production.min.js",
+  "description": "Lightweight React bindings for MobX based on React 16.8+ and Hooks",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobxjs/mobx.git"
+  },
+  "license": "MIT",
+  "homepage": "https://mobx.js.org/react-integration.html",
+  "keywords": [
+    "mobx",
+    "mobx-react-lite",
+    "hooks",
+    "fp",
+    "mobservable",
+    "react-component",
+    "react hooks",
+    "react",
+    "reactjs",
+    "reactive"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "mobx-react-lite",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "mobxreactlite*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Michel Weststrate"
+    }
+  ]
+}
