@@ -1,13 +1,13 @@
 {
   "name": "mobx-react",
-  "filename": "index.min.js",
+  "filename": "mobxreact.umd.production.min.js",
   "description": "React bindings for MobX. Create fully reactive components.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mobxjs/mobx-react.git"
+    "url": "https://github.com/mobxjs/mobx.git"
   },
   "license": "MIT",
-  "homepage": "https://mobxjs.github.io/mobx",
+  "homepage": "https://mobx.js.org/react-integration.html",
   "keywords": [
     "mobx",
     "mobservable",
@@ -21,9 +21,9 @@
     "target": "mobx-react",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "+(index|custom|native).+(js|map)"
+          "mobxreact*.js"
         ]
       }
     ]
