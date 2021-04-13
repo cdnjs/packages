@@ -1,0 +1,36 @@
+{
+  "name": "responsive-tabs",
+  "description": "jQuery plugin that provides responsive tab functionality. The tabs transform to an accordion when it reaches a CSS breakpoint.",
+  "keywords": [
+    "jquery-plugin",
+    "responsive",
+    "tabs",
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jellekralt/Responsive-Tabs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellekralt/Responsive-Tabs.git"
+  },
+  "authors": [
+    {
+      "name": "Jelle Kralt",
+      "email": "jelle@jellekralt.nl"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "responsive-tabs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/*.css",
+          "js/jquery.responsiveTabs?(.min).js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/jquery.responsiveTabs.min.js"
+}
