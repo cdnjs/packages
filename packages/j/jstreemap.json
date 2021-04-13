@@ -1,0 +1,56 @@
+{
+  "name": "jstreemap",
+  "description": "Library of associative containers; it implements TreeMap, TreeSet, TreeMultiMap and TreeMultiSet classes",
+  "keywords": [
+    "set",
+    "map",
+    "multimap",
+    "multiset",
+    "red",
+    "black",
+    "tree",
+    "stl",
+    "iterator",
+    "treemap",
+    "treeset",
+    "lower_bound",
+    "lowerBound",
+    "upper_bound",
+    "upperBound",
+    "ordered",
+    "container",
+    "find",
+    "insert",
+    "delete",
+    "erase",
+    "template",
+    "library",
+    "dictionary",
+    "key",
+    "value"
+  ],
+  "license": "0BSD",
+  "homepage": "https://github.com/kirusi/jstreemap#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirusi/jstreemap.git"
+  },
+  "authors": [
+    {
+      "name": "Kirusi Msafiri"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "jstreemap",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|d.ts)"
+        ]
+      }
+    ]
+  },
+  "filename": "jstreemap.js"
+}
