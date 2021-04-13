@@ -31,6 +31,8 @@ jobs:
 
       - name: lint package
         id: lint
+        env:
+          BOT_BASE_PATH: ${{ github.workspace }}
         run: bash ./scripts/lint.sh \
             ${{ steps.diff.outputs.files_modified }} \
             ${{ steps.diff.outputs.files_added }}
