@@ -1,0 +1,39 @@
+{
+  "name": "PubSub",
+  "description": "Javascript implementation of the Publish/Subscribe pattern.",
+  "keywords": [
+    "subscribe",
+    "publish",
+    "publish/subscribe",
+    "pubsub",
+    "pub/sub",
+    "event",
+    "emitter",
+    "eventemitter"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/georapbox/PubSub#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georapbox/PubSub.git"
+  },
+  "authors": [
+    {
+      "name": "George Raptis",
+      "email": "georapbox@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "PubSub",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "PubSub.umd.min.js"
+}
