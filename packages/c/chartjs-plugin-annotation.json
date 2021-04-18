@@ -14,13 +14,13 @@
     "url": "git://github.com/chartjs/chartjs-plugin-annotation.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/chartjs/chartjs-plugin-annotation.git",
+    "source": "npm",
+    "target": "chartjs-plugin-annotation",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "chartjs-plugin-annotation*"
+          "**/*"
         ]
       }
     ]
