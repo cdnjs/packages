@@ -23,6 +23,9 @@
       }
     ]
   },
+  "optimization": {
+    "js": false
+  },
   "authors": [
     {
       "name": "Tyler Caslin",
