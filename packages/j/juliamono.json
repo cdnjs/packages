@@ -1,0 +1,35 @@
+{
+  "name": "juliamono",
+  "description": "A monospaced font with reasonable Unicode support",
+  "keywords": [
+    "font",
+    "typeface",
+    "ttf",
+    "juliamono",
+    "math"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cormullion/juliamono.git"
+  },
+  "license": "OFL-1.1",
+  "homepage": "https://github.com/cormullion/juliamono",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/cormullion/juliamono.git",
+    "fileMap": [
+      {
+        "basePath": "webfonts",
+        "files": [
+          "*.woff2"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "cormullion",
+      "email": "cormullion@mac.com"
+    }
+  ]
+}
