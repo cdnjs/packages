@@ -3,7 +3,6 @@ name: cdnjs Update Request
 description: Request a library with a bad or missing auto-update config to be updated
 title: "Update: xxx"
 labels: ["📦 Update Request"]
-issue_body: false
 body:
 
 - type: markdown
@@ -11,9 +10,6 @@ body:
     value: |
       Please fill out the information in this issue template so that we can efficiently process your request for a library update on cdnjs.
 
-- type: markdown
-  attributes:
-    value: |
       To update a library on cdnjs, it must have a way for an auto-update mechanism to be used.
       This can either be via a Git repository that has versions tagged, with the required files included in the repository at the tag.
       Or, this can be done via an NPM package.
