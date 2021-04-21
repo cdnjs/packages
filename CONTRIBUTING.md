@@ -13,6 +13,7 @@
 * [Configuring library auto-update](#configuring-library-auto-update)
   * [Auto-update overview](#auto-update-overview)
   * [Auto-update config](#auto-update-config)
+* [Configuring file optimization](#configuring-file-optimization)
 * [Creating a new library on cdnjs](#creating-a-new-library-on-cdnjs)
   * [Fork the cdnjs repository](#fork-the-cdnjs-repository)
   * [Make changes to your fork](#make-changes-to-your-fork)
@@ -188,6 +189,27 @@ The auto-update process will locate `lib` (specified in `basePath`) and copy all
 ```
 
 ...where `x.y.z` is the library version number, based on the tagged release found in the git repository.
+
+## Configuring file optimization
+
+By default, when new files are added to cdnjs through the auto-update mechanism we will apply optimizations to certain files. For JavaScript and CSS files, we'll automatically generate minified versions of them and make them available at `filename.min.js` or `filename.min.css`. For images, both PNG & JP(E)G, we'll attempt to apply compression to the files to reduce the file size for the images that the CDN will be serving.
+
+If you want to disable any of this optimization for a library, you can do that by utilizing the `optimization` property in the cdnjs package JSON file. The property is optional, and if present is expected to be an object. Each property within the object is also optional, with the default always being that optimization is enabled.
+
+A library JSON file with all optimization disabled would contain the following:
+
+```json
+  ...
+  "optimization": {
+    "js": false,
+    "css": false,
+    "png": false,
+    "jpg": false
+  }
+  ...
+```
+
+Setting the `js` property to false will disable the automatic generation of minified versions of JavaScript files by cdnjs for the library. Setting the `css` property to false will do the same, but for CSS files. Setting the `png` property to false will disable any compression that cdnjs would apply to the images, ensuring we serve the exact versions included in the source library. Setting the `jpg` property to false will do the same, but for JPG/JPEG files.
 
 ## Creating a new library on cdnjs
 
