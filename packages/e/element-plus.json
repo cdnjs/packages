@@ -23,7 +23,8 @@
       {
         "basePath": "lib",
         "files": [
-          "theme-chalk/index.css",
+          "theme-chalk/*.css",
+          "theme-chalk/fonts/*.@(ttf|woff)",
           "index.full.js"
         ]
       }
