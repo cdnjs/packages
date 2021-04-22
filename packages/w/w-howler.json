@@ -14,7 +14,23 @@
         "nodejs",
         "browser"
       ],
+      "autoupdate": {
+        "source": "npm",
+        "target": "w-howler",
+        "fileMap": [
+          {
+            "basePath": "dist",
+            "files": [
+                "*.js"
+            ]
+          }
+        ]
+      },
     "license": "MIT",
-    "author": "yuda-lyu(semisphere)"
+    "authors": [
+        {
+          "name": "yuda-lyu(semisphere)"
+        }
+      ]
   }
   
