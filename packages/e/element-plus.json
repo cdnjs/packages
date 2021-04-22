@@ -1,0 +1,46 @@
+{
+  "name": "element-plus",
+  "filename": "index.full.js",
+  "description": "A Vue.js 3.0 UI Library made by Element team",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/element-plus/element-plus.git"
+  },
+  "license": "MIT",
+  "homepage": "https://element-plus.org",
+  "keywords": [
+    "vuejs",
+    "vue3",
+    "vue",
+    "element-ui",
+    "component-library",
+    "vue-composition-api"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "element-plus",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "theme-chalk/index.css",
+          "index.full.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "zazzaz"
+    },
+    {
+      "name": "JeremyWuuuuu"
+    },
+    {
+      "name": "Ryan2128"  
+    },
+    {
+      "name": "HerringtonDarkholme"
+    }
+  ]
+}
