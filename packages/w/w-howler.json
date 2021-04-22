@@ -1,0 +1,20 @@
+{
+    "name": "w-howler",
+    "filename": "w-howler.umd.js",
+    "description": "A wrapper howler for audio player.",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yuda-lyu/w-howler.git"
+    },
+    "keywords": [
+        "package",
+        "tool",
+        "operator",
+        "queues",
+        "nodejs",
+        "browser"
+      ],
+    "license": "MIT",
+    "author": "yuda-lyu(semisphere)"
+  }
+  
