@@ -24,6 +24,9 @@
       }
     ]
   },
+  "optimization": {
+    "js": false
+  },
   "authors": [
     {
       "name": "Kyle Simpson",

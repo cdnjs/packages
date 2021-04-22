@@ -19,6 +19,9 @@
       }
     ]
   },
+  "optimization": {
+    "js": false
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/getify/LABjs"
