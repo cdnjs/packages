@@ -23,7 +23,7 @@
       {
         "basePath": "lib",
         "files": [
-          "umd/locale/*.js"
+          "umd/locale/*.js",
           "theme-chalk/*.css",
           "theme-chalk/fonts/*.@(ttf|woff)",
           "index.*.js"
