@@ -1,7 +1,7 @@
 {
   "name": "busuanzi",
   "filename": "bsz.pure.mini.min.js",
-  "description": "free cdn mirror support for busuanzi.ibruce.info js script",
+  "description": "cdn support for busuanzi.ibruce.info js script file",
   "repository": {
     "type": "git",
     "url": "https://github.com/SukkaW/busuanzi.git"
