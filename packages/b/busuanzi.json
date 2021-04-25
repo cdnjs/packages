@@ -1,6 +1,6 @@
 {
   "name": "busuanzi",
-  "filename": "bsz.pure.mini.min.js",
+  "filename": "bsz.pure.mini.js",
   "description": "cdn support for busuanzi.ibruce.info js script file",
   "repository": {
     "type": "git",
