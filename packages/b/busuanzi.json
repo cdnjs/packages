@@ -22,7 +22,6 @@
       {
         "basePath": ".",
         "files": [
-          "bsz.pure.mini.min.js",
           "bsz.pure.mini.js"
         ]
       }
