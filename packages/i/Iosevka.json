@@ -8,14 +8,20 @@
     "url": "git+https://github.com/be5invis/Iosevka.git"
   },
   "license": "OFL-1.1",
-  "keywords": ["font"],
+  "keywords": [
+    "font"
+  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/aymanbagabas/iosevka-fonts.git",
     "fileMap": [
       {
         "basePath": "dist",
-        "files": ["*/*.css", "*/*/*.(ttf|woff2)"]
+        "files": [
+          "*/*.css",
+          "*/ttf/*.ttf",
+          "*/woff2/*.woff2"
+        ]
       }
     ]
   },
