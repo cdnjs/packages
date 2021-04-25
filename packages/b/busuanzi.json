@@ -1,0 +1,40 @@
+{
+  "name": "busuanzi",
+  "filename": "bsz.pure.mini.min.js",
+  "description": "cdn support for busuanzi.ibruce.info js script file",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SukkaW/busuanzi.git"
+  },
+  "license": "MIT",
+  "homepage": "http://ibruce.info",
+  "keywords": [
+    "web analysis",
+    "page analysis",
+    "visit statistics",
+    "access logs",
+    "google analytics alternative"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "busuanzi",
+    "fileMap": [
+      {
+        "basePath": ".",
+        "files": [
+          "bsz.pure.mini.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "bruce sha",
+      "email": "bu.ru@qq.com"
+    },
+    {
+      "name": "sukkaw",
+      "email": "github@skk.moe"
+    }
+  ]
+}
