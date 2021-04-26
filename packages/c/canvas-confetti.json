@@ -1,0 +1,32 @@
+{
+  "name": "Canvas Confetti",
+  "filename": "confetti.js",
+  "description": "on-demand confetti gun",
+  "homepage": "https://github.com/catdad/canvas-confetti",
+  "keywords": [
+    "canvas",
+    "confetti"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/catdad/canvas-confetti.git",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/catdad/canvas-confetti.git"
+  },
+  "license": "ISC",
+  "authors": [
+    {
+      "name": "catdad"
+    }
+  ]
+}
