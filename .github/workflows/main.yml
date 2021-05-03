@@ -11,7 +11,7 @@ jobs:
       - name: download checker
         uses: wei/wget@v1
         with:
-          args: https://github.com/cdnjs/tools/releases/latest/download/checker
+          args: https://github.com/cdnjs/tools/releases/download/c6b0fba7fed3be51911fb4331a4be128d2fde189f/checker
 
       - run: sudo chmod +x ./checker
 
