@@ -1,0 +1,39 @@
+{
+  "name": "creativecommons-vocabulary",
+  "filename": "js/vocabulary.js",
+  "description": "A cohesive design system to unite the web facing Creative Commons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativecommons/vocabulary.git"
+  },
+  "keywords": [
+    "ui",
+    "ux",
+    "design",
+    "design system",
+    "components",
+    "sass stylesheets",
+    "library",
+    "monorepo"
+  ],
+  "license": "MIT",
+  "homepage": "https://opensource.creativecommons.org/vocabulary",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@creativecommons/vocabulary",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.@(js|css|mdx|scss|svg|jpg|png)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Creative Commons",
+      "url": "https://creativecommons.org"
+    }
+  ]
+}
