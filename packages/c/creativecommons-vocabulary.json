@@ -25,7 +25,10 @@
       {
         "basePath": "",
         "files": [
-          "**/*.@(js|css|mdx|scss|svg|jpg|png)"
+          "assets/**/*.@(svg|jpg|png)",
+          "css/*.css",
+          "scss/*.scss",
+          "js/*.js"
         ]
       }
     ]
