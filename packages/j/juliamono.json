@@ -14,7 +14,7 @@
   },
   "license": "OFL-1.1",
   "homepage": "https://github.com/cormullion/juliamono",
-  "filename": "webfonts/juliamono-regular.css",
+  "filename": "juliamono-regular.css",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/cormullion/juliamono.git",
