@@ -1,7 +1,11 @@
 {
   "name": "mini-tokyo-3d",
   "description": "A real-time 3D digital map of Tokyo's public transport system",
-  "keywords": [],
+  "keywords": [
+    "map",
+    "3d",
+    "tokyo"
+  ],
   "license": "MIT",
   "homepage": "https://minitokyo3d.com",
   "repository": {
