@@ -1,0 +1,40 @@
+{
+  "name": "chartjs-plugin-colorschemes",
+  "description": "Predefined color schemes for Chart.js",
+  "keywords": [
+    "chart.js",
+    "plugin",
+    "color",
+    "scheme",
+    "palette",
+    "brewer",
+    "office",
+    "tableau"
+  ],
+  "license": "MIT",
+  "homepage": "https://nagix.github.io/chartjs-plugin-colorschemes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagix/chartjs-plugin-colorschemes.git"
+  },
+  "authors": [
+    {
+      "name": "Akihiko Kusanagi",
+      "email": "nagi@nagi-p.com",
+      "url": "https://nagix.github.io/"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "chartjs-plugin-colorschemes",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "chartjs-plugin-colorschemes.min.js"
+}
