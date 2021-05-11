@@ -1,0 +1,33 @@
+{
+  "name": "mini-tokyo-3d",
+  "description": "A real-time 3D digital map of Tokyo's public transport system",
+  "keywords": [
+    "map",
+    "3d",
+    "tokyo"
+  ],
+  "license": "MIT",
+  "homepage": "https://minitokyo3d.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagix/mini-tokyo-3d.git"
+  },
+  "authors": [
+    {
+      "name": "Akihiko Kusanagi"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "mini-tokyo-3d",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(css|js)?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "mini-tokyo-3d.min.js"
+}
