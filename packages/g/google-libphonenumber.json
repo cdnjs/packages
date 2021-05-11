@@ -1,0 +1,41 @@
+{
+  "description": "The up-to-date and reliable Google's libphonenumber package for node.js for parsing, formatting, and validating international phone numbers.",
+  "filename": "libphonenumber.js",
+  "homepage": "https://github.com/ruimarinho/google-libphonenumber",
+  "keywords": [
+    "e164",
+    "format",
+    "formatting",
+    "international",
+    "libphonenumber",
+    "number",
+    "phone",
+    "phonenumber",
+    "rfc3966",
+    "standardize"
+  ],
+  "license": "MIT",
+  "name": "google-libphonenumber",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruimarinho/google-libphonenumber.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "google-libphonenumber",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Rui Marinho",
+      "url": "https://github.com/ruipmarinho"
+    }
+  ]
+}
