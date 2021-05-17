@@ -1,0 +1,36 @@
+{
+  "name": "react-hooks-global-state",
+  "description": "Simple global state for React with Hooks API",
+  "keywords": [
+    "react",
+    "state",
+    "hooks",
+    "stateless",
+    "thisless",
+    "pure"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dai-shi/react-hooks-global-state#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dai-shi/react-hooks-global-state.git"
+  },
+  "authors": [
+    {
+      "name": "Daishi Kato"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-hooks-global-state",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "index.umd.js"
+}
