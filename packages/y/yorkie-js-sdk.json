@@ -1,7 +1,14 @@
 {
   "name": "yorkie-js-sdk",
   "description": "Yorkie JS SDK",
-  "keywords": [],
+  "keywords": [
+    "crdt",
+    "realtime-collaboration",
+    "grpc-web",
+    "yorkie",
+    "collaborative-applications",
+    "yorkie-js-sdk"
+  ],
   "license": "Apache-2.0",
   "homepage": "https://github.com/yorkie-team/yorkie-js-sdk#readme",
   "repository": {
