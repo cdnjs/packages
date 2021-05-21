@@ -35,6 +35,9 @@
           "images/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.0.0+20131229"
     ]
   },
   "authors": [

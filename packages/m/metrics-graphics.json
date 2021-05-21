@@ -25,6 +25,9 @@
           "*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "v.7.0"
     ]
   },
   "authors": [

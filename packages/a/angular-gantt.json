@@ -23,6 +23,9 @@
           "*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      ".0.6.1"
     ]
   },
   "authors": [

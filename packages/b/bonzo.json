@@ -25,6 +25,9 @@
           "bonzo*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.3.2-clone"
     ]
   },
   "authors": [

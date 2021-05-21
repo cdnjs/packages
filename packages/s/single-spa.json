@@ -27,6 +27,9 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "[12].*"
     ]
   },
   "authors": [

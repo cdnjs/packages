@@ -22,6 +22,10 @@
           "typescript.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*dev*",
+      "*insiders*"
     ]
   },
   "authors": [

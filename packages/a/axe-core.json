@@ -26,6 +26,9 @@
           "axe*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-canary.*"
     ]
   }
 }

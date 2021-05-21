@@ -34,6 +34,9 @@
           "flocks.min.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.15.7"
     ]
   },
   "license": "MIT",

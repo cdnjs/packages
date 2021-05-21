@@ -38,6 +38,9 @@
           "bean.min.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.0.0a1"
     ]
   }
 }

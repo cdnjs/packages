@@ -24,6 +24,10 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      ".3.2.0",
+      "delete"
     ]
   },
   "authors": [

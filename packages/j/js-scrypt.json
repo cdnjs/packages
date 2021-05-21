@@ -30,6 +30,9 @@
           "scrypt*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.1.0"
     ]
   }
 }

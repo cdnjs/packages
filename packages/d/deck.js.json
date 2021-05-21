@@ -20,6 +20,9 @@
           "extensions/**/*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "latest"
     ]
   },
   "license": "MIT",

@@ -29,6 +29,9 @@
           "**/*.svg"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "2.0"
     ]
   },
   "authors": [

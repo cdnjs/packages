@@ -26,6 +26,10 @@
           "mobxreact*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-fix*",
+      "*-observableprops*"
     ]
   },
   "authors": [

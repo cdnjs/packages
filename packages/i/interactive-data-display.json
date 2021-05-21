@@ -25,6 +25,10 @@
           "**/*.!(*ts)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*build*",
+      "1.0.1-DomTracking"
     ]
   },
   "authors": [

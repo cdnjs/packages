@@ -22,6 +22,10 @@
           "jquery.bpopup*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*b*",
+      "ver*"
     ]
   },
   "repository": {

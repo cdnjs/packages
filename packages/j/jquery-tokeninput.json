@@ -27,6 +27,9 @@
           "jquery.tokeninput*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "jquery-tokeninput-1.*"
     ]
   },
   "authors": [

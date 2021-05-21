@@ -25,6 +25,9 @@
           "**/*.+(js|css)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "vg1tisc00l"
     ]
   },
   "authors": [

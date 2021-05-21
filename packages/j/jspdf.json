@@ -17,6 +17,9 @@
           "**/!(jspdf.node.*)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "v.1.4.0"
     ]
   },
   "license": "MIT",

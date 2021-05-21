@@ -22,6 +22,9 @@
           "json*.!(json)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.1.0"
     ]
   },
   "authors": [

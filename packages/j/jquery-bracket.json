@@ -30,6 +30,9 @@
           "jquery.bracket*.+(js|css|map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "release-*"
     ]
   },
   "authors": [

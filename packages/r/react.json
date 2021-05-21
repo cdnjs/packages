@@ -30,6 +30,10 @@
           "+(cjs|umd)/**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-alpha.*[a-z]*",
+      "0.0.0-*"
     ]
   },
   "authors": [

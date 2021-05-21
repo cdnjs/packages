@@ -21,6 +21,9 @@
           "tmlib*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "rsource0.1.0"
     ]
   },
   "authors": [

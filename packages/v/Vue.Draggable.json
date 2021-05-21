@@ -23,6 +23,9 @@
           "**/!(*.html|vuedraggable.common.js*)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "v.19.2"
     ]
   },
   "authors": [

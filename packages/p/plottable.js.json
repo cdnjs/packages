@@ -32,6 +32,13 @@
           "plottable*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-dev-*",
+      "*-hover-tooltip*",
+      "3.0.0-*-g*",
+      "v.0.18.0",
+      "v.2.4.1"
     ]
   },
   "authors": [

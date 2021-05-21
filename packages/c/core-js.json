@@ -38,6 +38,9 @@
           "minified.js?(.map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1,0,1"
     ]
   },
   "authors": [

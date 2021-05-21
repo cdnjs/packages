@@ -23,6 +23,10 @@
           "{,directives/}*.@(js|ts)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.*",
+      "2.[0-5].*"
     ]
   },
   "authors": [

@@ -21,6 +21,9 @@
           "*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "javascript-project-*"
     ]
   },
   "repository": {

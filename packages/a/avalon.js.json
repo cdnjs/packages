@@ -17,6 +17,12 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "ms_controller_fix",
+      "2.1.16ee",
+      "before-rebuild-strategy",
+      "dynamic_detect"
     ]
   },
   "keywords": [

@@ -24,6 +24,9 @@
           "lang/*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "2.2"
     ]
   },
   "license": "MIT",

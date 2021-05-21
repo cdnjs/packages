@@ -16,6 +16,9 @@
           "randomColor.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.2"
     ]
   },
   "homepage": "http://llllll.li/randomColor/",

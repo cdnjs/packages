@@ -24,6 +24,9 @@
           "images/bg_play_pause.png"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "version"
     ]
   },
   "repository": {

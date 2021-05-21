@@ -20,6 +20,9 @@
           "jasmine.css"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "list"
     ]
   },
   "repository": {

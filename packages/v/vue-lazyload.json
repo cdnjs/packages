@@ -24,6 +24,10 @@
           "vue-lazyload!(.esm)*.+(js|css|map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.*",
+      "1.0.0-*"
     ]
   },
   "authors": [

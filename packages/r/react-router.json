@@ -32,6 +32,9 @@
           "*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "latest"
     ]
   }
 }

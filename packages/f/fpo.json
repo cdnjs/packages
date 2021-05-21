@@ -22,6 +22,9 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "[3-5].*"
     ]
   },
   "optimization": {

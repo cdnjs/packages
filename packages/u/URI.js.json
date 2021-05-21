@@ -41,6 +41,9 @@
           "URI.min.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "v.1*"
     ]
   },
   "repository": {

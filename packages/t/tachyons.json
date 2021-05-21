@@ -26,6 +26,9 @@
           "tachyons.min.css"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "v.4.5.0"
     ]
   },
   "authors": [
