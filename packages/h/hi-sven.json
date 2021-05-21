@@ -2,7 +2,7 @@
   "autoupdate": {
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "nonexistingfolder",
         "files": [
           "*"
         ]
