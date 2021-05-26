@@ -1,0 +1,32 @@
+{
+  "name": "prettier",
+  "description": "Prettier is an opinionated code formatter",
+  "keywords": [
+    "format"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prettier/prettier.git"
+  },
+  "filename": "standalone.js",
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "prettier",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "standalone.js",
+          "parser-*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "James Long",
+      "url": "https://archive.jlongster.com/"
+    }
+  ]
+}
