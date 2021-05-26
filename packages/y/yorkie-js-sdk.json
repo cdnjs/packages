@@ -1,0 +1,37 @@
+{
+  "name": "yorkie-js-sdk",
+  "description": "Yorkie JS SDK",
+  "keywords": [
+    "crdt",
+    "realtime-collaboration",
+    "grpc-web",
+    "yorkie",
+    "collaborative-applications",
+    "yorkie-js-sdk"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/yorkie-team/yorkie-js-sdk#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yorkie-team/yorkie-js-sdk.git"
+  },
+  "authors": [
+    {
+      "name": "hackerwins",
+      "email": "<susukang98@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "yorkie-js-sdk",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|ts)"
+        ]
+      }
+    ]
+  },
+  "filename": "yorkie-js-sdk.js"
+}
