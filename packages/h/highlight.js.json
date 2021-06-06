@@ -17,7 +17,7 @@
           "highlight.min.js",
           "languages/*.min.js",
           "styles/*",
-          "styles/**/*"
+          "styles/**/*.css"
         ]
       }
     ]
