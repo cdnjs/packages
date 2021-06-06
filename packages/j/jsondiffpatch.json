@@ -1,6 +1,6 @@
 {
   "name": "jsondiffpatch",
-  "filename": "jsondiffpatch.min.js",
+  "filename": "jsondiffpatch.umd.js",
   "description": "Diff & Patch for Javascript objects",
   "repository": {
     "type": "git",
@@ -13,13 +13,15 @@
   ],
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/benjamine/jsondiffpatch.git",
+    "source": "npm",
+    "target": "jsondiffpatch",
     "fileMap": [
       {
-        "basePath": "public/build",
+        "basePath": "dist",
         "files": [
-          "jsondiffpatch*"
+          "*.js?(.map)",
+          "*.d.ts",
+          "formatters-styles/*.css"
         ]
       }
     ]
