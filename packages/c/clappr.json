@@ -17,6 +17,9 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "media_control_youtube"
     ]
   },
   "keywords": [

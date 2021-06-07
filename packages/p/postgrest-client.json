@@ -22,6 +22,9 @@
           "*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.0.*"
     ]
   },
   "authors": [

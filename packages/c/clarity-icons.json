@@ -28,6 +28,9 @@
           "shapes/*.+(min.js|umd.js)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-dev*"
     ]
   },
   "authors": [

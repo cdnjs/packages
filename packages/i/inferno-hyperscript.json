@@ -22,6 +22,9 @@
           "**/inferno-hyperscript!(*.node)*.!(*ts)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-alpha.*"
     ]
   },
   "authors": [

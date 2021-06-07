@@ -25,6 +25,10 @@
           "**/*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "support",
+      "widget-adapt"
     ]
   },
   "authors": [

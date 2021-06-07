@@ -32,6 +32,9 @@
           "img/svg/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "4.4.0-dev"
     ]
   },
   "authors": [

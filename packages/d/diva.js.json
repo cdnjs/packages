@@ -14,6 +14,9 @@
           "img/**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "RELEASE-*"
     ]
   },
   "homepage": "https://ddmal.github.io/diva.js/",

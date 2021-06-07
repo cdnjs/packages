@@ -25,6 +25,10 @@
           "images/*.png"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "BETA*",
+      "RELEASE*"
     ]
   },
   "license": "MIT",

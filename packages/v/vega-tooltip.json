@@ -22,6 +22,9 @@
           "**/vega-tooltip*.+(js|css|map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.3.1"
     ]
   },
   "authors": [

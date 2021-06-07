@@ -23,6 +23,10 @@
           "patterns/*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "HyphenatorBeta12",
+      "Version_*"
     ]
   },
   "authors": [

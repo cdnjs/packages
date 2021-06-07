@@ -27,6 +27,10 @@
           "jquery.alphanum*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "Stable_1.0",
+      "Stable_1.1"
     ]
   },
   "authors": [

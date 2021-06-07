@@ -22,6 +22,9 @@
           "+(js|css)/unibox*.+(js|css|map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "jquery_plugin"
     ]
   },
   "authors": [

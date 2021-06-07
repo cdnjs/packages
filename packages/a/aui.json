@@ -23,6 +23,9 @@
           "**/*.@(js|css|eot|ttf|woff|svg)?(.map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*do-not-use"
     ]
   }
 }

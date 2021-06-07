@@ -21,6 +21,9 @@
           "**/!(*.+(json|md))"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "[a-z]*"
     ]
   },
   "license": "MIT"

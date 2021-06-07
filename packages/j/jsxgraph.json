@@ -24,6 +24,12 @@
           "*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "RELEASE*",
+      "rm",
+      "sketchometry*",
+      "skm*"
     ]
   },
   "authors": [

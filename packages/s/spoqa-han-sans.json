@@ -22,6 +22,9 @@
           "+(Subset|css)/**/*.!(html|txt)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "origin"
     ]
   },
   "authors": [

@@ -32,6 +32,10 @@
           "mobx*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*albert*",
+      "*fix*"
     ]
   },
   "authors": [

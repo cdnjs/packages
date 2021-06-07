@@ -19,6 +19,9 @@
           "require.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "latest"
     ]
   },
   "repository": {

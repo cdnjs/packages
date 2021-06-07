@@ -31,6 +31,10 @@
           "+(js|css)/rrssb*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.75",
+      "1.76"
     ]
   },
   "authors": [

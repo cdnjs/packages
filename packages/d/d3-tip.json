@@ -22,6 +22,9 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.7.0-temp-fork"
     ]
   },
   "authors": [

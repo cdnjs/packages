@@ -38,6 +38,9 @@
           "firebase*.+(js|map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-canary.*"
     ]
   },
   "authors": [

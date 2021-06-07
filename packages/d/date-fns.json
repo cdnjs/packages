@@ -22,6 +22,9 @@
           "**/!(*.json)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "v.*"
     ]
   },
   "authors": [

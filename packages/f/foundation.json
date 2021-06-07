@@ -23,6 +23,9 @@
           "**/!(*.ts|npm.js|foundation.+(es6|esm|cjs).+(js|js.map))"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "undefined"
     ]
   },
   "authors": [

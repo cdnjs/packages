@@ -35,6 +35,9 @@
           "**/inferno-vnode-flags!(*.node)*.!(*ts)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-alpha.*"
     ]
   },
   "authors": [

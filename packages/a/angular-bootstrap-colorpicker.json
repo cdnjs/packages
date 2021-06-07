@@ -23,6 +23,9 @@
           "css/colorpicker*.css"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "push"
     ]
   },
   "authors": [

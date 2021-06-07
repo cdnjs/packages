@@ -31,6 +31,9 @@
           "source/colResizable-*.+(js|map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.6"
     ]
   },
   "authors": [

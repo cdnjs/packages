@@ -22,6 +22,9 @@
           "jquery.foggy.*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "foggy*"
     ]
   },
   "authors": [

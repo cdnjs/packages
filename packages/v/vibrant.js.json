@@ -27,6 +27,9 @@
           "*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.0"
     ]
   },
   "filename": "Vibrant.min.js",

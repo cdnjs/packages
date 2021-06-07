@@ -17,6 +17,9 @@
           "cs.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "latest"
     ]
   },
   "repository": {

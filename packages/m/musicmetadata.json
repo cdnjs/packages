@@ -30,6 +30,9 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "Browser-0.4.3"
     ]
   },
   "authors": [

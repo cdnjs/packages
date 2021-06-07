@@ -54,6 +54,10 @@
           "extra/material!(-grid)*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.*",
+      "1.0.[0-1]"
     ]
   },
   "authors": [

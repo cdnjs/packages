@@ -44,6 +44,9 @@
           "turf.+(js|min.js)?(.map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.0.4[3-6]"
     ]
   },
   "authors": [

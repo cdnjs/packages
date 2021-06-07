@@ -33,6 +33,9 @@
           "bokeh*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.3.2-dev2"
     ]
   }
 }

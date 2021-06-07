@@ -32,6 +32,9 @@
           "**/inferno-component!(*.node)*.!(*ts)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-alpha.*"
     ]
   },
   "authors": [

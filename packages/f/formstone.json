@@ -18,6 +18,9 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "remove"
     ]
   },
   "keywords": [

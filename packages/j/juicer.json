@@ -26,6 +26,10 @@
           "!(expressjs-wrapper)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.5.*-stable",
+      "0.6.*-stable*"
     ]
   },
   "authors": [

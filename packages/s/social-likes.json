@@ -24,6 +24,9 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "path"
     ]
   },
   "license": "MIT",

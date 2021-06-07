@@ -23,6 +23,9 @@
           "signalr.min.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-rc*"
     ]
   },
   "authors": [

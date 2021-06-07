@@ -11,7 +11,7 @@ jobs:
       - name: download checker
         uses: wei/wget@v1
         with:
-          args: https://github.com/cdnjs/tools/releases/download/c6b0fba7fed3be51911fb4331a4be128d2fde189f/checker
+          args: https://github.com/cdnjs/tools/releases/latest/download/checker
 
       - run: sudo chmod +x ./checker
 
@@ -31,8 +31,6 @@ jobs:
 
       - name: lint package
         id: lint
-        env:
-          BOT_BASE_PATH: ${{ github.workspace }}
         run: bash ./scripts/lint.sh \
             ${{ steps.diff.outputs.files_modified }} \
             ${{ steps.diff.outputs.files_added }}
@@ -47,7 +45,7 @@ jobs:
       - name: compute files
         id: files
         env:
-          BOT_BASE_PATH: ${{ github.workspace }}
+          DOCKER_IMAGE: ghcr.io/cdnjs/tools:c245fc9e0409b250368f23a70c65c79fbc43dae8e
         run: bash ./scripts/show-files.sh \
             ${{ steps.diff.outputs.files_modified }} \
             ${{ steps.diff.outputs.files_added }}

@@ -24,6 +24,9 @@
           "brython*.+(js|map|css)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "3.2.*"
     ]
   },
   "authors": [

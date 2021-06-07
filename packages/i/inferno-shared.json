@@ -22,6 +22,9 @@
           "**/inferno-shared!(*.node)*.!(*ts)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-alpha.*"
     ]
   },
   "authors": [
