@@ -26,5 +26,8 @@
     {
       "name": "18F"
     }
-  ]
+  ],
+  "optimization": {
+    "png": false
+  }
 }
