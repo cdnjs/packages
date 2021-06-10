@@ -33,5 +33,8 @@
       "name": "Nedim Arabacı",
       "url": "http://github.com/needim/"
     }
-  ]
+  ],
+  "optimization": {
+    "png": false
+  }
 }
