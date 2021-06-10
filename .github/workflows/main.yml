@@ -45,7 +45,7 @@ jobs:
       - name: compute files
         id: files
         env:
-          DOCKER_IMAGE: ghcr.io/cdnjs/tools:c245fc9e0409b250368f23a70c65c79fbc43dae8e
+          DOCKER_IMAGE: ghcr.io/cdnjs/tools:ce54362a00de292754db55edf49ad775abf38ab20
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: bash ./scripts/show-files.sh \
             ${{ steps.diff.outputs.files_modified }} \
