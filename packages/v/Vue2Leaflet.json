@@ -14,13 +14,14 @@
     "vuejs"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/KoRiGaN/Vue2Leaflet.git",
+    "source": "npm",
+    "target": "vue2-leaflet",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js",
+          "@(mixins|utils|components)/*.js"
         ]
       }
     ]
