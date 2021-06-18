@@ -1,0 +1,42 @@
+{
+  "name": "datatables.net-rowreorder-bs5",
+  "description": "RowReorder for DataTables with styling for [Bootstrap 5](http://getbootstrap.com/)",
+  "keywords": [
+    "row reordering",
+    "DataTables",
+    "jQuery",
+    "table",
+    "Bootstrap 5"
+  ],
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-RowReorder-Bootstrap5.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-rowreorder-bs5",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "rowReorder.bootstrap5.min.js",
+  "authors": [
+    {
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
+    }
+  ]
+}
