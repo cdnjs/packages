@@ -1,0 +1,40 @@
+{
+  "name": "select2-bootstrap-5-theme",
+  "description": "[Select2](https://github.com/select2/select2) v4 theme for Bootstrap 5, inspired by [select2-bootstrap4-theme](https://github.com/ttskch/select2-bootstrap4-theme) **Works with Select2 v4.0 and v4.1**",
+  "filename": "select2-bootstrap-5-theme.min.css",
+  "homepage": "https://apalfrey.github.io/select2-bootstrap-5-theme/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/apalfrey/select2-bootstrap-5-theme.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap 5",
+    "select2",
+    "css"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "select2-bootstrap-5-theme",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "src/*.scss"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Andrew Palfrey"
+    }
+  ]
+}
