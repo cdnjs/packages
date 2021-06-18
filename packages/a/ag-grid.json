@@ -31,7 +31,7 @@
     "target": "git://github.com/ag-grid/ag-grid.git",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "grid-packages/ag-grid-community/dist",
         "files": [
           "**/*.+(js|css)"
         ]
