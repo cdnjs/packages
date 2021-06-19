@@ -1,0 +1,42 @@
+{
+  "name": "daisyui",
+  "description": "Tailwind CSS Components",
+  "filename": "index.js",
+  "homepage": "https://daisyui.com/",
+  "keywords": [
+    "design-system",
+    "tailwindcss",
+    "components",
+    "ui-library",
+    "component",
+    "framework",
+    "tailwind",
+    "theming",
+    "postcss",
+    "design",
+    "css",
+    "ui"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pouya Saadeghi"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saadeghi/daisyui.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "daisyui",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
+}
