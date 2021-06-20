@@ -32,9 +32,21 @@
     "target": "daisyui",
     "fileMap": [
       {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      },
+      {
+        "basePath": "colors",
+        "files": [
+          "*.js"
+        ]
+      },
+      {
         "basePath": "",
         "files": [
-          "**/*"
+          "index.js"
         ]
       }
     ]
