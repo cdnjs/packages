@@ -10,14 +10,15 @@
     "ejs"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/janl/mustache.js.git",
+    "source": "npm",
+    "target": "mustache",
     "fileMap": [
       {
         "basePath": "",
         "files": [
           "mustache.js",
-          "mustache.min.js"
+          "mustache.min.js",
+          "mustache.mjs"
         ]
       }
     ]
