@@ -1,7 +1,7 @@
 {
   "name": "daisyui",
   "description": "Tailwind CSS Components",
-  "filename": "index.js",
+  "filename": "full.css",
   "homepage": "https://daisyui.com/",
   "keywords": [
     "design-system",
@@ -34,19 +34,7 @@
       {
         "basePath": "dist",
         "files": [
-          "*.@(js|css)"
-        ]
-      },
-      {
-        "basePath": "colors",
-        "files": [
-          "*.js"
-        ]
-      },
-      {
-        "basePath": "",
-        "files": [
-          "index.js"
+          "*.css"
         ]
       }
     ]
