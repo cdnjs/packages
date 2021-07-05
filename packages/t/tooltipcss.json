@@ -1,0 +1,32 @@
+{
+  "name": "Tooltip.css",
+  "filename": "Tooltips made easy",
+  "description": "A CSS-only tooltip library",
+  "keywords": [
+    "tooltips",
+    "css"
+  ],
+  "license": "Creative Commons - Attribution-NoDerivatives 4.0 International",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiagorangel2011.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/tiagorangel2011.git",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Tiago Rangel de Sousa",
+      "url": "https://tiagorangel.com"
+    }
+  ]
+}
