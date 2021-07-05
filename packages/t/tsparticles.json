@@ -37,6 +37,7 @@
     "target": "tsparticles",
     "fileMap": [
       {
+        "basePath": "",
         "files": [
           "tsparticles*.js"
         ]
