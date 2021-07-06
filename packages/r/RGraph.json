@@ -1,1 +1,31 @@
-
+{
+  "name": "RGraph",
+  "filename": "RGraph.common.core.js",
+  "description": "Beautiful javascript charts for websites",
+  "keywords": [
+    "charts"
+  ],
+  "homepage": "https://www.rgraph.net",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heyesr/rgraph"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "chart.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "!(docs)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "heyesr"
+    }
+  ]
+}
