@@ -12,13 +12,13 @@
   },
   "license": "MIT",
   "autoupdate": {
-    "source": "npm",
-    "target": "chart.js",
+    "source": "git",
+    "target": "git://github.com/heyesr/rgraph.git",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "libraries",
         "files": [
-          "!(docs)"
+          "RGraph.*.js"
         ]
       }
     ]
