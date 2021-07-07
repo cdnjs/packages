@@ -22,12 +22,6 @@
         "files": [
           "**/*"
         ]
-      },
-      {
-        "basePath": "src",
-        "files": [
-          "roundslider*"
-        ]
       }
     ]
   },
