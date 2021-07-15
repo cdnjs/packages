@@ -37,10 +37,10 @@
     "target": "git://github.com/simeydotme/sparticles.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "dist/sparticles.js",
-          "dist/sparticles.min.js"
+          "sparticles.js",
+          "sparticles.min.js"
         ]
       }
     ]
