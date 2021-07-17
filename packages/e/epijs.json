@@ -1,5 +1,5 @@
 {
-  "name": "EpiJS",
+  "name": "epijs",
   "description": "A toolset for analysing and creating epidemiological models",
   "filename": "index.min.js",
   "repository": {
