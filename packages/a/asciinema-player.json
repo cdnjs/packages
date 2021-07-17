@@ -21,7 +21,7 @@
     "url": "https://github.com/asciinema/asciinema-player.git"
   },
   "autoupdate": {
-    "type": "npm",
+    "source": "npm",
     "target": "asciinema-player",
     "fileMap": [
       {
