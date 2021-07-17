@@ -1,7 +1,7 @@
 {
   "name": "Sparticles",
   "description": "Lightweight, High Performance Particles in Canvas",
-  "filename": "dist/sparticles.esm.js",
+  "filename": "sparticles.esm.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/simeydotme/sparticles.git"
@@ -39,8 +39,7 @@
       {
         "basePath": "dist",
         "files": [
-          "sparticles.js",
-          "sparticles.min.js"
+          "*.js"
         ]
       }
     ]
