@@ -1,7 +1,7 @@
 {
   "name": "EpiJS",
   "description": "A toolset for analysing and creating epidemiological models",
-  "filename": "web/index.min.js",
+  "filename": "index.min.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/Quantalabs/EpiJS.git"
@@ -17,7 +17,7 @@
     "target": "git://github.com/Quantalabs/EpiJS.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "web",
         "files": [
           "*.min.js"
         ]
