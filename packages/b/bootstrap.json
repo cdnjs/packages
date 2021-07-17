@@ -1,0 +1,45 @@
+{
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "filename": "js/bootstrap.min.js",
+  "homepage": "http://getbootstrap.com/",
+  "keywords": [
+    "css",
+    "less",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web",
+    "twitter",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "name": "bootstrap",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twbs/bootstrap"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(js|css|map)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "scss/**/*.scss"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Twitter, Inc."
+    }
+  ]
+}
