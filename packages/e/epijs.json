@@ -1,6 +1,6 @@
 {
   "name": "epijs",
-  "description": "A toolset for analysing and creating epidemiological models",
+  "description": "A toolset for analyzing and creating epidemiological models",
   "filename": "index.min.js",
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
       {
         "basePath": "web",
         "files": [
-          "*.min.js"
+          "index.min.js"
         ]
       }
     ]
