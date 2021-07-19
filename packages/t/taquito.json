@@ -1,0 +1,33 @@
+{
+  "name": "taquito",
+  "description": "High level functionality that builds upon the other packages in the Tezos Typescript Library Suite.",
+  "keywords": [
+    "tezos",
+    "blockchain"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ecadlabs/taquito#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecadlabs/taquito.git"
+  },
+  "authors": [
+    {
+      "name": "Simon Boissonneault-Robert",
+      "email": "simon@ecadlabs.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@taquito/taquito",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "taquito.min.js"
+}
