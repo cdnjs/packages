@@ -1,0 +1,34 @@
+{
+  "name": "mapbox-gl-directions",
+  "description": "A mapboxgl plugin for the Mapbox Directions API",
+  "keywords": [
+    "directions",
+    "routing",
+    "osm",
+    "gl"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mapbox/mapbox-gl-directions#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mapbox/mapbox-gl-directions.git"
+  },
+  "authors": [
+    {
+      "name": "Mapbox"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@mapbox/mapbox-gl-directions",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "mapbox-gl-directions.js"
+}
