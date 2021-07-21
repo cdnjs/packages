@@ -1,6 +1,7 @@
 {
   "name": "rippleonclick",
-  "version": "1.0.0",
+  "version": "1.0.2",
+   "filename": "ripple.min.js",
   "description": "Provides a beautiful ripple effect on the element where the mouse cursor is clicked.",
   "main": "ripple.min.js",
   "scripts": {
