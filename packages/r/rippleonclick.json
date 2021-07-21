@@ -17,6 +17,22 @@
     "ripple",
     "effect"
   ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "rippleonclick",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "ripple.min.js"
+        ]
+      }
+    ],
+    "ignoreVersions": [
+      "*-alpha.*[a-z]*",
+      "0.0.0-*"
+    ]
+  },
   "author": "Varun Rao",
   "license": "ISC",
   "bugs": {
