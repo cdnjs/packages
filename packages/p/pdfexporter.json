@@ -12,18 +12,6 @@
     "url": "https://github.com/LostMann/WebTools.git"
   },
   "license": "MIT",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/LostMann/WebTools.git",
-    "fileMap": [
-      {
-        "basePath": "",
-        "files": [
-          "pdfexporter*"
-        ]
-      }
-    ]
-  },
   "authors": [
     {
       "name": "Sedat Sarigul",
