@@ -4,7 +4,7 @@
   "filename": "index.min.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Quantalabs/EpiJS.git"
+    "url": "git://github.com/epispot/EpiJS.git"
   },
   "keywords": [
       "disease modeling",
@@ -14,7 +14,7 @@
   "license": "GPL-3.0-or-later",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Quantalabs/EpiJS.git",
+    "target": "git://github.com/epispot/EpiJS.git",
     "fileMap": [
       {
         "basePath": "web",
