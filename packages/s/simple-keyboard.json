@@ -1,0 +1,48 @@
+{
+  "name": "simple-keyboard",
+  "description": "On-screen Javascript Virtual Keyboard",
+  "keywords": [
+    "javascript",
+    "es6",
+    "digital",
+    "keyboard",
+    "onscreen",
+    "virtual",
+    "screen-keyboard",
+    "component",
+    "virtual-keyboard",
+    "touchscreen",
+    "touch-screen",
+    "kiosk",
+    "osk",
+    "js"
+  ],
+  "license": "MIT",
+  "homepage": "https://virtual-keyboard.js.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hodgef/simple-keyboard.git"
+  },
+  "authors": [
+    {
+      "name": "Francisco Hodge",
+      "email": "hello@franciscohodge.com",
+      "url": "https://github.com/hodgef"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "simple-keyboard",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.js",
+          "css/*.css",
+          "types/*.d.ts"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}
