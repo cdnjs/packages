@@ -1,0 +1,35 @@
+{
+  "name": "mapbox-gl-draw",
+  "description": "A drawing component for Mapbox GL JS",
+  "keywords": [
+    "webgl",
+    "mapbox",
+    "draw",
+    "drawing"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mapbox/mapbox-gl-draw",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mapbox/mapbox-gl-draw.git"
+  },
+  "authors": [
+    {
+      "name": "mapbox"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@mapbox/mapbox-gl-draw",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)",
+          "svg/*.svg"
+        ]
+      }
+    ]
+  },
+  "filename": "mapbox-gl-draw.js"
+}
