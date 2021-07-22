@@ -13,13 +13,13 @@
   },
   "license": "MIT",
   "autoupdate": {
-    "source": "npm",
-    "target": "phaser",
+    "source": "git",
+    "target": "git://github.com/LostMann/WebTools.git",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "**/*"
+          "pdfexporter.js"
         ]
       }
     ]
