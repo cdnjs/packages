@@ -1,7 +1,7 @@
 {
   "name": "stellar-freighter-api",
   "description": "@stellar/freighter-api builds a wrapper around the messaging system used to interact with the Freighter web extension",
-  "filename": "stellar-freighter-api.min.js",
+  "filename": "index.min.js",
   "keywords": ["stellar", "freighter"],
   "repository": {
     "type": "git",
