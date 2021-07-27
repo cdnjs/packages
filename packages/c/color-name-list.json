@@ -1,0 +1,34 @@
+{
+  "name": "color-name-list",
+  "description": "long list of color names",
+  "keywords": [
+    "colors",
+    "color",
+    "names",
+    "naming"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/meodai/color-names#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/color-names.git"
+  },
+  "authors": [
+    {
+      "name": "meodai@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "color-name-list",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|mjs|json|scss)"
+        ]
+      }
+    ]
+  },
+  "filename": "colornames.umd.js"
+}
