@@ -1,0 +1,33 @@
+{
+  "name": "nearest-color",
+  "description": "Find the nearest color",
+  "keywords": [
+    "color",
+    "colors"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dtao/nearest-color#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtao/nearest-color.git"
+  },
+  "authors": [
+    {
+      "name": "Dan Tao",
+      "email": "daniel.tao@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "nearest-color",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "nearestColor.js"
+}
