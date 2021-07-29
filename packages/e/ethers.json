@@ -1,0 +1,34 @@
+{
+  "name": "ethers",
+  "description": "Umbrella package for most common Ethers libraries.",
+  "filename": "ethers.umd.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ethers-io/ethers.js.git"
+  },
+  "keywords": [
+    "ethers",
+    "ethereum",
+    "wallet",
+    "eth"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ethers",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Richard Moore",
+      "email": "me@ricmoo.com"
+    }
+  ]
+}
