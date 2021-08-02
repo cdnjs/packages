@@ -1,6 +1,6 @@
 {
   "name": "chrome-remote-debugger-client",
-  "filename": "crd.min.js",
+  "filename": "crd.umd.min.js",
   "license": "MIT",
   "description": "The Chrome Remote Debugger client for Page.",
   "keywords": ["devtools", "debugger"],
