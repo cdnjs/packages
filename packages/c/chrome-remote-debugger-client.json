@@ -3,6 +3,7 @@
   "filename": "crd.min.js",
   "license": "MIT",
   "description": "The Chrome Remote Debugger client for Page.",
+  "keywords": ["devtools", "debugger"],
   "repository": {
     "type": "git",
     "url": "https://github.com/mnichangxin/chrome-remote-debugger-client.git"
