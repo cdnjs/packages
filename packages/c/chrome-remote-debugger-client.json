@@ -1,0 +1,28 @@
+{
+  "name": "chrome-remote-debugger-client",
+  "filename": "crd.min.js",
+  "license": "MIT",
+  "description": "The Chrome Remote Debugger client for Page.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mnichangxin/chrome-remote-debugger-client.git"
+  },
+  "authors": [
+    {
+      "name": "mnichangxin",
+      "email": "mnichangxin@163.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "chrome-remote-debugger-client",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.+(js|map)"
+        ]
+      }
+    ]
+  }
+}
