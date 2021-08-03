@@ -1,0 +1,38 @@
+{
+  "name": "citation-js",
+  "description": "Citation.js converts formats like BibTeX, Wikidata JSON and ContentMine JSON to CSL-JSON to convert to other formats like APA, Vancouver and back to BibTeX.",
+  "keywords": [
+    "citation",
+    "bibtex",
+    "wikidata",
+    "contentmine",
+    "quickscrape",
+    "csl",
+    "citeproc"
+  ],
+  "license": "MIT",
+  "homepage": "https://citation.js.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsgw/citation.js.git"
+  },
+  "authors": [
+    {
+      "name": "Lars Willighagen",
+      "url": "https://larsgw.github.io"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "citation-js",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "citation.min.js"
+}
