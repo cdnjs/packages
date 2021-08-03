@@ -13,7 +13,24 @@
     "type": "git",
     "url": "git+https://github.com/arduino/arduino-create-agent-js-client.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "Stefania Mellai",
+      "email": "s.mellai@arduino.cc"
+    },
+    {
+      "name": "Fabrizio Mirabito",
+      "email": "f.mirabito@arduino.cc"
+    },
+    {
+      "name": "Alberto Iannaccone",
+      "email": "a.iannaccone@arduino.cc"
+    },
+    {
+      "name": "Gabriele Destefanis",
+      "email": "g.destefanis@topsolution.it"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "arduino-create-agent-js-client",
