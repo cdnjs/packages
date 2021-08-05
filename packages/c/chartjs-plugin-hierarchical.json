@@ -1,0 +1,35 @@
+{
+  "name": "chartjs-plugin-hierarchical",
+  "description": "Chart.js module for hierarchical categories",
+  "keywords": [
+    "chart.js",
+    "hierarchical",
+    "grouping"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sgratzl/chartjs-plugin-hierarchical",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgratzl/chartjs-plugin-hierarchical.git"
+  },
+  "authors": [
+    {
+      "name": "Samuel Gratzl",
+      "email": "sam@sgratzl.com",
+      "url": "https://www.sgratzl.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "chartjs-plugin-hierarchical",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.@(js|d.ts)?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "index.umd.min.js"
+}
