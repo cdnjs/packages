@@ -8,7 +8,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/noahcooper/luminateExtend.git",
+    "target": "git://github.com/convio/luminateExtend.git",
     "fileMap": [
       {
         "basePath": "",
@@ -21,6 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/noahcooper/luminateExtend"
+    "url": "https://github.com/convio/luminateExtend"
   }
 }
