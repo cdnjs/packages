@@ -1,0 +1,32 @@
+{
+  "name": "msg-sdk-web",
+  "description": "msg-sdk-web provides the chat API and SDK for your app.",
+  "filename": "index.js",
+  "keywords": [
+    "chat-sdk",
+    "chat"
+  ],
+  "homepage": "https://github.com/Varmtech/msg-sdk-web",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Varmtech/msg-sdk-web"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "msg-sdk-web",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.@(d.ts|.js)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Armen Sceyt."
+    }
+  ]
+}
