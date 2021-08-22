@@ -21,7 +21,13 @@
       {
         "basePath": "dist",
         "files": [
-          "!(test){,**/*}"
+          "*.@(js|css)?(.map)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "{themes,animations}/*.@(js|css)?(.map)"
         ]
       }
     ]
