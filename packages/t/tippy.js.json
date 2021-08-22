@@ -1,6 +1,6 @@
 {
   "description": "Vanilla JS Tooltip Library",
-  "filename": "tippy.min.js",
+  "filename": "tippy.umd.min.js",
   "homepage": "https://atomiks.github.io/tippyjs/",
   "keywords": [
     "tooltip",
