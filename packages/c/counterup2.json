@@ -1,0 +1,38 @@
+{
+  "name": "counterup2",
+  "description": "Counter-Up2 is a lightweight module that counts up to a targeted number when the number becomes visible.",
+  "keywords": [
+    "counterup",
+    "counter-up",
+    "count-up",
+    "count",
+    "number",
+    "counter",
+    "stats",
+    "countup"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bfintal/Counter-Up2#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bfintal/Counter-Up2.git"
+  },
+  "authors": [
+    {
+      "name": "Benjamin Intal"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "counterup2",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}
