@@ -12,7 +12,11 @@
     "type": "git",
     "url": "git+https://github.com/kriskowal/asap.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "Kris Kowal"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "asap",
