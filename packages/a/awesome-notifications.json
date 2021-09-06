@@ -1,0 +1,40 @@
+{
+  "name": "awesome-notifications",
+  "description": "Lightweight library for beautifull and smooth notifications",
+  "keywords": [
+    "notifications",
+    "toast",
+    "confirm",
+    "popup",
+    "async",
+    "asynchronous",
+    "promise",
+    "modal",
+    "modal dialogs",
+    "modal windows"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/f3oall/awesome-notifications#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f3oall/awesome-notifications.git"
+  },
+  "authors": [
+    {
+      "name": "David Yunevich"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "awesome-notifications",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}
