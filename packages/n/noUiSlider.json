@@ -15,11 +15,11 @@
     "slide"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/leongersen/noUiSlider.git",
+    "source": "npm",
+    "target": "nouislider",
     "fileMap": [
       {
-        "basePath": "distribute",
+        "basePath": "dist",
         "files": [
           "**/*"
         ]
