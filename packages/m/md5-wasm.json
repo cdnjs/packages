@@ -1,0 +1,36 @@
+{
+  "name": "md5-wasm",
+  "description": "Asynchronous MD5 calculator, employing WebAssembly for larger files",
+  "keywords": [
+    "md5",
+    "fast",
+    "promise",
+    "async",
+    "javascript",
+    "WebAssembly"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/briantbutton/md5-wasm#README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briantbutton/md5-wasm.git"
+  },
+  "authors": [
+    {
+      "name": "Brian T Button"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "md5-wasm",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "md5-wasm.js"
+        ]
+      }
+    ]
+  },
+  "filename": "md5-wasm.js"
+}
