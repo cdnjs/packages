@@ -1,0 +1,40 @@
+{
+  "name": "mux.js",
+  "description": "A collection of lightweight utilities for inspecting and manipulating video container formats.",
+  "keywords": [
+    "video",
+    "container",
+    "transmux",
+    "mux",
+    "player",
+    "hls",
+    "mp4",
+    "flv",
+    "aac",
+    "h264"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/videojs/mux.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/videojs/mux.js.git"
+  },
+  "authors": [
+    {
+      "name": "Brightcove"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "mux.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "mux.min.js"
+}
