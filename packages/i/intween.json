@@ -1,0 +1,35 @@
+{
+  "name": "intween",
+  "description": "The Interactive Tweening Library",
+  "keywords": [
+    "intween",
+    "intween.js",
+    "tween",
+    "animation",
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://intween.wellcaffeinated.net/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wellcaffeinated/intween"
+  },
+  "authors": [
+    {
+      "name": "wellcaffeinated"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "intween",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "intween.min.js"
+}
