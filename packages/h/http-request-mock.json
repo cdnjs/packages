@@ -1,6 +1,5 @@
 {
   "name": "http-request-mock",
-  "filename": "http-request-mock.js",
   "description": "Intercept & mock http requests issued by XMLHttpRequest, fetch, nodejs https/http module, axios, jquery, superagent, ky, node-fetch, request, got or any other request libraries by intercepting XMLHttpRequest, fetch and nodejs native requests in low level.",
   "homepage": "https://huturen.github.io/http-request-mock-homepage/",
   "keywords": [
@@ -40,8 +39,8 @@
       {
         "basePath": "dist",
         "files": [
-          "http-mock-request.js",
-          "http-mock-request.pure.js"
+          "http-request-mock.js",
+          "http-request-mock.pure.js"
         ]
       }
     ]
