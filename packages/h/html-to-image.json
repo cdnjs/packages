@@ -1,0 +1,39 @@
+{
+  "name": "html-to-image",
+  "description": "Generates an image from a DOM node using HTML5 canvas and SVG.",
+  "keywords": [
+    "screenshot",
+    "capture",
+    "canvas",
+    "html",
+    "dom",
+    "image",
+    "vector",
+    "svg"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bubkoo/html-to-image#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubkoo/html-to-image.git"
+  },
+  "authors": [
+    {
+      "name": "bubkooo",
+      "email": "bubkoo.wy@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "html-to-image",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "html-to-image.js"
+}
