@@ -1,0 +1,55 @@
+{
+  "name": "http-request-mock",
+  "description": "Intercept & mock http requests issued by XMLHttpRequest, fetch, nodejs https/http module, axios, jquery, superagent, ky, node-fetch, request, got or any other request libraries by intercepting XMLHttpRequest, fetch and nodejs native requests in low level.",
+  "homepage": "https://huturen.github.io/http-request-mock-homepage/",
+  "keywords": [
+    "xhr mock",
+    "XMLHttpRequest mock",
+    "wx.request mock",
+    "ajax mock",
+    "http interceptor",
+    "http mock",
+    "https mock",
+    "network mock",
+    "mocking",
+    "mocks",
+    "mocker",
+    "fetch interceptor",
+    "xhr interceptor",
+    "low level interceptor",
+    "node http request mock",
+    "request mock",
+    "request mocks",
+    "axios mock",
+    "fetch mock",
+    "jquery mock",
+    "got mock",
+    "superagent mock",
+    "ky mock"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huturen/http-request-mock.git"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "http-request-mock",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "http-request-mock.js",
+          "http-request-mock.pure.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Hu Turen",
+      "url": "https://huturen.github.io/http-request-mock-homepage/"
+    }
+  ],
+  "filename": "http-request-mock.js"
+}
