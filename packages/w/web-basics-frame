@@ -1,0 +1,55 @@
+{
+	"name": "web-basics-frame",
+	"description": "Web Basics Frame",
+	"author": "lZiMUl",
+	"contributors": [
+		{
+			"name": "lZiMUl",
+			"email": "AA2908554069@gmail.com",
+			"url": "https://b23.tv/vUMYbj"
+		}
+	],
+	"maintainers": [
+		{
+			"name": "lZiMUl",
+			"email": "AA2908554069@gmail.com",
+			"url": "https://b23.tv/vUMYbj"
+		}
+	],
+	"version": "1.0.0",
+	"license": "MIT",
+	"homepage": "https://b23.tv/vUMYbj",
+	"type": "module",
+	"main": "./src/app.js",
+	"scripts": {
+		"init": "rm -rf ./tool/.empty && npm install && npm install nodemon -g",
+		"dev": "nodemon",
+		"build": "echo hahaha, Build is not supported."
+	},
+	"keywords": [
+		"lZiMUl",
+		"WebSite",
+		"Basics",
+		"Template",
+		"Vue"
+	],
+	"dependencies": {
+		"ini": "^2.0.0",
+		"koa": "^2.13.1",
+		"koa-bodyparser": "^4.3.0",
+		"koa-router": "^10.1.1",
+		"koa-static": "^5.0.0",
+		"ws": "^8.2.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lZiMUl/WebBasicsFrame.git"
+	},
+	"bugs": {
+		"url": "https://github.com/lZiMUl/WebBasicsFrame/issues/",
+		"email": "AA2908554069@gmail.com"
+	},
+	"private": true,
+	"preferGlobal": true,
+	"deprecated": false
+}
