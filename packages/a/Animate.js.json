@@ -1,0 +1,32 @@
+{
+  "name": "Animate.js",
+  "filename": "animate.min.js",
+  "description": "Simple javascript library to animate any html element for your websites and web apps.",
+  "homepage": "https://github.com/koffiisen/Animate.js",
+  "keywords": [
+    "animation",
+    "js"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/koffiisen/Animate.js.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koffiisen/Animate.js"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Joel ONIPOH"
+    }
+  ]
+}
