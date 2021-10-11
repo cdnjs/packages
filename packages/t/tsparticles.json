@@ -39,7 +39,8 @@
       {
         "basePath": "",
         "files": [
-          "tsparticles*.js"
+          "tsparticles*.js",
+          "167.js"
         ]
       }
     ]
