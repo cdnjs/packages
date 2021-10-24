@@ -1,0 +1,29 @@
+{
+  "name": "thecarnie-cycle2",
+  "description": "2nd gen cycling",
+  "keywords": [],
+  "license": null,
+  "homepage": "http://jquery.malsup.com/cycle2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thecarnie/cycle2.git"
+  },
+  "authors": [
+    {
+      "name": "thecarnie"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/thecarnie/cycle2.git",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "{,*/}*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "jquery.cycle2.min.js"
+}
