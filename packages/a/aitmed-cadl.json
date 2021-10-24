@@ -1,9 +1,8 @@
 {
   "name": "aitmed-cadl",
   "description": "A package with utilities to manage and process CADL files.",
-  "keywords": [],
+  "keywords": ["cadl"],
   "license": "ISC",
-  "homepage": "",
   "repository": {
     "type": "git",
     "url": "http://gitlab.aitmed.com/frontend/cadl.git"
