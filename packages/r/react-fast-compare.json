@@ -1,0 +1,36 @@
+{
+  "name": "react-fast-compare",
+  "description": "Fastest deep equal comparison for React. Great for React.memo & shouldComponentUpdate. Also really fast general-purpose deep comparison.",
+  "keywords": [
+    "fast",
+    "equal",
+    "react",
+    "compare",
+    "shouldComponentUpdate",
+    "deep-equal"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/FormidableLabs/react-fast-compare",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormidableLabs/react-fast-compare.git"
+  },
+  "authors": [
+    {
+      "name": "Chris Bolin"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-fast-compare",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.@(js|d.ts)"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}
