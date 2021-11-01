@@ -1,0 +1,28 @@
+{
+  "name": "aitmed-cadl",
+  "description": "A package with utilities to manage and process CADL files.",
+  "keywords": ["cadl"],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.aitmed.com/frontend/cadl.git"
+  },
+  "authors": [
+    {
+      "name": "Raymundo Martinez"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@aitmed/cadl",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "index.min.js"
+}
