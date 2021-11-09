@@ -14,7 +14,11 @@
     "type": "git",
     "url": "git+https://github.com/authts/oidc-client-ts.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "authts"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "oidc-client-ts",
