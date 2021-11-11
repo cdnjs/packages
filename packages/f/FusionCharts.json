@@ -1,0 +1,36 @@
+{
+   "name": "FusionCharts",
+   "description": "FusionCharts is a JavaScript charting library providing 100+ charts and 2,000+ maps for your web and mobile applications.All the visualizations are interactive and animated, which are rendered in SVG and VML (for IE 6/7/8)",
+   "keywords": [
+     "Javascript",
+     "charts",
+     "maps",
+     "charting",
+     "visualization",
+     "interactive"
+   ],
+   "license": "ISV",
+   "homepage": "https://github.com/fusioncharts/fusioncharts-dist",
+   "repository": {
+     "type": "git",
+     "url": "git+https://github.com/fusioncharts/fusioncharts-dist.git"
+   },
+   "authors": [
+     {
+       "name": ""
+     }
+   ],
+   "autoupdate": {
+     "source": "npm",
+     "target": "FusionCharts",
+     "fileMap": [
+       {
+         "basePath": "",
+         "files": [
+           "index.@(js|d.ts)"
+         ]
+       }
+     ]
+   },
+   "filename": "FusionCharts.js"
+ }
