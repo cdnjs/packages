@@ -10,14 +10,14 @@
      "target": "konamimojisplosion",
      "fileMap": [
        {
-         "basePath": "",
+         "basePath": "dist",
          "files": [
            "global.js"
          ]
        }
      ]
    },
-   "name": "Konamimojisplosion",
+   "name": "konamimojisplosion",
    "description": "Connects konami-code-js to emojisplosion for a glorious easter egg.",
    "keywords": [
      "react",
@@ -33,5 +33,5 @@
      "type": "git",
      "url": "git+https://github.com/Codecademy/Konamimojisplosion.git"
    },
-   "filename": "dist/global.js"
+   "filename": "global.js"
  }
