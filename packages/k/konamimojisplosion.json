@@ -1,0 +1,37 @@
+{
+   "authors": [
+     {
+       "name": "Codecademy Engineering",
+       "url": "https://github.com/Codecademy"
+     }
+   ],
+   "autoupdate": {
+     "source": "npm",
+     "target": "konamimojisplosion",
+     "fileMap": [
+       {
+         "basePath": "dist",
+         "files": [
+           "global.js"
+         ]
+       }
+     ]
+   },
+   "name": "konamimojisplosion",
+   "description": "Connects konami-code-js to emojisplosion for a glorious easter egg.",
+   "keywords": [
+     "react",
+     "javascript",
+     "easter-egg",
+     "emojis",
+     "konami-code",
+     "emojisplosion"
+   ],
+   "license": "MIT",
+   "homepage": "https://github.com/Codecademy/Konamimojisplosion",
+   "repository": {
+     "type": "git",
+     "url": "git+https://github.com/Codecademy/Konamimojisplosion.git"
+   },
+   "filename": "global.js"
+ }
