@@ -1,0 +1,34 @@
+{
+  "name": "devextreme-showdown",
+  "filename": "showdown.js",
+  "description": "Javascript Markdown to HTML converter",
+  "homepage": "https://devexpress.com/",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "markdown",
+    "converter"
+  ],
+  "authors": [
+    {
+      "name": "Developer Express Inc.",
+      "email": "js@devexpress.com",
+      "url": "https://www.devexpress.com/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevExpress/showdown"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "devextreme-showdown",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
+}
