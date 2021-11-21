@@ -1,0 +1,29 @@
+{
+  "name": "chartjs-adapter-luxon",
+  "filename": "chartjs-adapter-luxon.min.js",
+  "description": "Chart.js adapter to use Luxon for time functionalities",
+  "keywords": [
+    "chart.js",
+    "date",
+    "luxon",
+    "time"
+  ],
+  "homepage": "https://github.com/chartjs/chartjs-adapter-luxon",
+  "autoupdate": {
+    "source": "npm",
+    "target": "chartjs-adapter-luxon",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chartjs/chartjs-adapter-luxon.git"
+  },
+  "license": "MIT"
+}
