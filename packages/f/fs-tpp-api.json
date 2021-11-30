@@ -1,0 +1,26 @@
+{
+  "name": "fs-tpp-api",
+  "description": "FirstSpirit Third-Party-Preview API",
+  "keywords": [],
+  "license": "Apache-2.0",
+  "homepage": "",
+  "repository": {},
+  "authors": [
+    {
+      "name": "e-Spirit AG"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "fs-tpp-api",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "snap.js"
+}
