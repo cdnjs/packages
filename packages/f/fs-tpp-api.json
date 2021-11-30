@@ -1,10 +1,11 @@
 {
   "name": "fs-tpp-api",
   "description": "FirstSpirit Third-Party-Preview API",
-  "keywords": [],
+  "keywords": [
+    "api"
+  ],
   "license": "Apache-2.0",
-  "homepage": "",
-  "repository": {},
+  "homepage": "https://docs.e-spirit.com/tpp/snap/",
   "authors": [
     {
       "name": "e-Spirit AG"
