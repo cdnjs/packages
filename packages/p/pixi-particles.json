@@ -1,0 +1,35 @@
+{
+  "name": "pixi-particles",
+  "description": "Particle emitter for Pixi.js",
+  "keywords": [
+    "webgl",
+    "pixi",
+    "pixi.js",
+    "particles"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/pixijs/pixi-particles#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixijs/pixi-particles.git"
+  },
+  "authors": [
+    {
+      "name": "Andrew Start",
+      "email": "start.andrew@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "pixi-particles",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "pixi-particles.min.js"
+}
