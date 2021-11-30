@@ -1,0 +1,46 @@
+{
+  "name": "fusioncharts",
+  "description": "FusionCharts JavaScript charting framework",
+  "keywords": [
+    "fusioncharts",
+    "charts",
+    "dataviz",
+    "graphs",
+    "visualization",
+    "js-charts",
+    "javascript-charts",
+    "dashboards",
+    "data-stories",
+    "bar-charts",
+    "pie-charts",
+    "line-charts",
+    "area-charts",
+    "column-charts",
+    "gantt-chart"
+  ],
+  "license": "http://www.fusioncharts.com/buy/",
+  "homepage": "http://www.fusioncharts.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fusioncharts/fusioncharts-dist.git"
+  },
+  "authors": [
+    {
+      "name": "FusionCharts, Inc.",
+      "email": "support@fusioncharts.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "fusioncharts",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "fusioncharts?(.*).@(js|d.ts)"
+        ]
+      }
+    ]
+  },
+  "filename": "fusioncharts.js"
+}
