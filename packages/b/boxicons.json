@@ -1,7 +1,9 @@
 {
   "name": "boxicons",
   "description": "High Quality Web Icons",
-  "keywords": [],
+  "keywords": [
+    "icon"
+  ],
   "license": "(CC-BY-4.0 OR OFL-1.1 OR MIT)",
   "homepage": "https://github.com/atisawd/boxicons#readme",
   "repository": {
