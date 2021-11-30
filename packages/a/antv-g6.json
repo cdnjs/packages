@@ -1,0 +1,37 @@
+{
+  "name": "antv-g6",
+  "description": "A Graph Visualization Framework in JavaScript",
+  "keywords": [
+    "antv",
+    "g6",
+    "graph",
+    "graph analysis",
+    "graph editor",
+    "graph visualization",
+    "relational data"
+  ],
+  "license": "MIT",
+  "homepage": "https://g6.antv.vision",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antvis/g6.git"
+  },
+  "authors": [
+    {
+      "name": "https://github.com/orgs/antvis/people"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@antv/g6",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "g6.min.js"
+}
