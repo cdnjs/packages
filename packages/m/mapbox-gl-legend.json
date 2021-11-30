@@ -7,8 +7,11 @@
     "legend"
   ],
   "license": "MIT",
-  "homepage": "",
-  "repository": {},
+  "homepage": "https://github.com/watergis/mapbox-gl-legend#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watergis/mapbox-gl-legend.git"
+  },
   "authors": [
     {
       "name": "Jin IGARASHI"
