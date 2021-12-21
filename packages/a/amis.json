@@ -1,0 +1,31 @@
+{
+  "name": "amis",
+  "description": "JSON to Page",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baidu/amis.git"
+  },
+  "keywords": [
+    "JSON",
+    "LowCode"
+  ],
+  "license": "Apache-2.0",
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "amis",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "2betop"
+    }
+  ]
+}
