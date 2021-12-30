@@ -1,10 +1,16 @@
 {
   "name": "proton-web-sdk",
-  "description": "Installation ``` npm i @proton/web-sdk yarn add @proton/web-sdk ```",
-  "keywords": [],
+  "description": "The blockchain that interacts with fiat.",
+  "keywords": [
+    "blockchain",
+    "fiat"
+  ],
   "license": "MIT",
-  "homepage": "",
-  "repository": {},
+  "homepage": "https://github.com/ProtonProtocol/ProtonWeb#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ProtonProtocol/ProtonWeb.git"
+  },
   "authors": [
     {
       "name": "metallicus"
