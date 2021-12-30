@@ -1,7 +1,11 @@
 {
   "name": "chiron-sans-hk-pro",
   "description": "Chiron Sans HK + Source Sans 3 = Chiron Sans HK Pro",
-  "keywords": [],
+  "keywords": [
+    "font",
+    "chiron",
+    "hk"
+  ],
   "license": "OFL-1.1",
   "homepage": "https://chiron-fonts.github.io/sans/",
   "repository": {
