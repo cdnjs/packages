@@ -1,7 +1,15 @@
 {
   "name": "argon2-browser",
   "description": "Argon2 library compiled for browser runtime",
-  "keywords": [],
+  "keywords": [
+    "argon2",
+    "keeweb",
+    "webassembly",
+    "wasm",
+    "hash",
+    "keepass",
+    "kdf"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/antelle/argon2-browser#readme",
   "repository": {
