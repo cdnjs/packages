@@ -1,7 +1,10 @@
 {
   "name": "twikoo",
   "description": "A simple comment system based on Tencent CloudBase (tcb).",
-  "keywords": [],
+  "keywords": [
+    "comment",
+    "tcb"
+  ],
   "license": "MIT",
   "homepage": "https://twikoo.js.org/",
   "repository": {
