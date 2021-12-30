@@ -1,0 +1,29 @@
+{
+  "name": "argon2-browser",
+  "description": "Argon2 library compiled for browser runtime",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "https://github.com/antelle/argon2-browser#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antelle/argon2-browser.git"
+  },
+  "authors": [
+    {
+      "name": "Antelle"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "argon2-browser",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|wasm)"
+        ]
+      }
+    ]
+  },
+  "filename": "argon2-bundled.min.js"
+}
