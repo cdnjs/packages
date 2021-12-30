@@ -9,13 +9,13 @@
     "layout"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/troolee/gridstack.js.git",
+    "source": "npm",
+    "target": "gridstack",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "*"
+          "*.@(js|css|d.ts)"
         ]
       }
     ]
