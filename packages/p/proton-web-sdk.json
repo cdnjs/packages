@@ -1,0 +1,27 @@
+{
+  "name": "proton-web-sdk",
+  "description": "Installation ``` npm i @proton/web-sdk yarn add @proton/web-sdk ```",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "",
+  "repository": {},
+  "authors": [
+    {
+      "name": "metallicus"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@proton/web-sdk",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "**/*.d.ts"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}
