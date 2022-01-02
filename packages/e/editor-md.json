@@ -22,6 +22,12 @@
         "files": [
           "editormd*.js"
         ]
+      },
+      {
+        "basePath": "css",
+        "files": [
+          "editormd*.css"
+        ]
       }
     ]
   },
