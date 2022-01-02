@@ -1,0 +1,34 @@
+{
+  "name": "twikoo",
+  "description": "A simple comment system based on Tencent CloudBase (tcb).",
+  "keywords": [
+    "comment",
+    "tcb"
+  ],
+  "license": "MIT",
+  "homepage": "https://twikoo.js.org/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imaegoo/twikoo.git"
+  },
+  "authors": [
+    {
+      "name": "imaegoo",
+      "email": "hello@imaegoo.com",
+      "url": "https://github.com/imaegoo"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "twikoo",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "twikoo.min.js"
+}
