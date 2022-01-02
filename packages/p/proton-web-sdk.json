@@ -1,0 +1,33 @@
+{
+  "name": "proton-web-sdk",
+  "description": "The blockchain that interacts with fiat.",
+  "keywords": [
+    "blockchain",
+    "fiat"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ProtonProtocol/ProtonWeb#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ProtonProtocol/ProtonWeb.git"
+  },
+  "authors": [
+    {
+      "name": "metallicus"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@proton/web-sdk",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "**/*.d.ts"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}
