@@ -1,13 +1,14 @@
 {
   "name": "monio",
-  "description": "Async-capable IO monad for JS",
+  "description": "The most powerful IO monad implementation in JS, possibly in any language!",
   "filename": "umd/bundle.js",
   "keywords": [
     "fp",
     "monad",
     "async",
     "io",
-    "promise"
+    "promise",
+    "observable"
   ],
   "repository": {
     "type": "git",
