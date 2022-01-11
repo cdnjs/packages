@@ -1,0 +1,30 @@
+{
+    "name": "libass-wasm",
+    "description": "libass Subtitle Renderer and Parser library for browsers",
+    "keywords": [
+        "libass",
+        "subtitle",
+        "wasm",
+        "emscripten"
+      ],
+    "homepage": "https://dador.github.io/JavascriptSubtitlesOctopus/",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Dador/JavascriptSubtitlesOctopus.git"
+    },
+    "license": "LGPL-2.1-or-later AND (FTL OR GPL-2.0-or-later) AND MIT AND MIT-Modern-Variant AND ISC AND NTP AND Zlib AND BSL-1.0",
+    "main": "dist/js/subtitles-octopus.js",
+    "author": "TFSThiagoBR98, Dador",
+    "autoupdate": {
+        "source": "npm",
+        "target": "libass-wasm",
+        "fileMap": [
+            {
+                "basePath": "",
+                "files": [
+                    "libass-wasm*.@(js|wasm)"
+                ]
+            }
+        ]
+    }
+  }
