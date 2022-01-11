@@ -1,14 +1,29 @@
 {
   "name": "vkui",
   "description": "VKUI library",
-  "keywords": [],
+  "keywords": [
+    "javascript",
+    "opensource",
+    "typescript",
+    "ui",
+    "postcss",
+    "reactjs",
+    "uikit",
+    "vkontakte",
+    "mobile-web",
+    "vkui"
+  ],
   "license": "MIT",
   "homepage": "https://vkcom.github.io/VKUI/",
   "repository": {
     "type": "git",
     "url": "https://github.com/VKCOM/VKUI"
   },
-  "authors": [],
+  "authors": [
+    {
+      "url": "https://github.com/VKCOM/VKUI/graphs/contributors"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "@vkontakte/vkui",
