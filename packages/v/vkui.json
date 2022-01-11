@@ -1,0 +1,25 @@
+{
+  "name": "vkui",
+  "description": "VKUI library",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "https://vkcom.github.io/VKUI/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VKCOM/VKUI"
+  },
+  "authors": [],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@vkontakte/vkui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(css|js|woff|woff2)"
+        ]
+      }
+    ]
+  },
+  "filename": "vkui.css"
+}
