@@ -6,7 +6,7 @@
         "waline",
         "comment",
         "blog"
-     ],
+    ],
     "homepage": "https://waline.js.org/",
     "repository": {
         "type": "git",
@@ -25,4 +25,4 @@
             }
         ]
     }
-  } 
+}
