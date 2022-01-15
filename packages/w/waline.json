@@ -1,5 +1,5 @@
 {
-    "name": "@waline/client",
+    "name": "waline",
     "description": "client for waline comment system",
     "keywords": [
         "valine",
