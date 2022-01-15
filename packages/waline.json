@@ -1,0 +1,28 @@
+{
+    "name": "@waline/client",
+    "description": "client for waline comment system",
+    "keywords": [
+        "valine",
+        "waline",
+        "comment",
+        "blog"
+     ],
+    "homepage": "https://waline.js.org/",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/walinejs/waline.git"
+    },
+    "license": "MIT",
+    "autoupdate": {
+        "source": "npm",
+        "target": "@waline/client",
+        "fileMap": [
+            {
+                "basePath": "dist",
+                "files": [
+                    "*.js"
+                ]
+            }
+        ]
+    }
+  } 
