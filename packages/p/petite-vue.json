@@ -1,0 +1,31 @@
+{
+  "name": "petite-vue",
+  "description": "5kb subset of Vue optimized for progressive enhancement",
+  "keywords": [
+    "vue"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vuejs/petite-vue#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/petite-vue.git"
+  },
+  "authors": [
+    {
+      "name": "Evan You"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "petite-vue",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "petite-vue.umd.js"
+}
