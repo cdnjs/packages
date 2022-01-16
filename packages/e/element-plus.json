@@ -21,12 +21,17 @@
     "target": "element-plus",
     "fileMap": [
       {
-        "basePath": "lib",
+        "basePath": "",
         "files": [
-          "umd/locale/*.js",
-          "theme-chalk/*.css",
-          "theme-chalk/fonts/*.@(ttf|woff)",
-          "index.*.js"
+          "lib/umd/locale/*.js",
+          "lib/theme-chalk/*.css",
+          "lib/theme-chalk/fonts/*.@(ttf|woff)"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|mjs|css)"
         ]
       }
     ]
