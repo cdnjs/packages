@@ -1,0 +1,37 @@
+{
+  "name": "stockfish.js",
+  "description": "The strong chess engine Stockfish with multi-variant support compiled to JavaScript and WebAssembly",
+  "keywords": [
+    "chess",
+    "stockfish",
+    "emscripten",
+    "lichess",
+    "asmjs",
+    "webassembly"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/niklasf/stockfish.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niklasf/stockfish.js.git"
+  },
+  "authors": [
+    {
+      "name": "Niklas Fiekas",
+      "email": "niklas.fiekas@backscattering.de"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "stockfish.js",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "stockfish*.@(js|wasm)"
+        ]
+      }
+    ]
+  },
+  "filename": "stockfish.js"
+}
