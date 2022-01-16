@@ -1,0 +1,38 @@
+{
+  "name": "jsvectormap",
+  "description": "A lightweight Javascript library for creating interactive maps",
+  "keywords": [
+    "javascript",
+    "interactive",
+    "vector",
+    "map",
+    "svg"
+  ],
+  "license": "MIT",
+  "homepage": "https://themustafaomar.com/open-source/jsvectormap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themustafaomar/jsvectormap.git"
+  },
+  "authors": [
+    {
+      "name": "Mustafa Omar",
+      "email": "themustafaomar@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "jsvectormap",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "js/*.js",
+          "css/*.css",
+          "maps/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/jsvectormap.min.js"
+}
