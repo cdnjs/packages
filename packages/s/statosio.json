@@ -4,7 +4,7 @@
   "filename": "statosio.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/a6b8/statosio.js"
+    "url": "https://github.com/a6b8/statosio-for-javascript"
   },
   "keywords": [
     "d3",
@@ -19,7 +19,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/a6b8/statosio.js.git",
+    "target": "git://github.com/a6b8/statosio-for-javascript.git",
     "fileMap": [
       {
         "basePath": "dist",
@@ -33,8 +33,8 @@
   "authors": [
     {
       "name": "Andreas Banholzer",
-      "email": "hello@13plus4.com",
-      "url": "13plus4.com"
+      "email": "hi@andreas.dev",
+      "url": "andreas.dev"
     }
   ]
 }
