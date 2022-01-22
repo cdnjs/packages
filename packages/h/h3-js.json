@@ -1,0 +1,36 @@
+{
+  "name": "h3-js",
+  "description": "Pure-Javascript version of the H3 library, a hexagon-based geographic grid system",
+  "keywords": [
+    "h3",
+    "hexagon",
+    "spatial-indexing",
+    "emscripten",
+    "geolocation"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/uber/h3-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uber/h3-js.git"
+  },
+  "authors": [
+    {
+      "name": "Nick Rabinowitz",
+      "email": "nickr@uber.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "h3-js",
+    "fileMap": [
+      {
+        "basePath": "dist/browser",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "h3-js.js"
+}
