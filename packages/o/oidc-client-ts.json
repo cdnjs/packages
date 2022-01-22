@@ -26,7 +26,8 @@
       {
         "basePath": "dist",
         "files": [
-          "*.@(js|cjs|mjs|ts|json)"
+          "@(browser|esm|umd)/*.js",
+          "types/*.@(d.ts|json)"
         ]
       }
     ]
