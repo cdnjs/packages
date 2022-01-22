@@ -1,0 +1,34 @@
+{
+  "name": "iconoir",
+  "description": "A Simple and Definitive Open-Source Icons Library",
+  "keywords": [
+    "icons",
+    "svg",
+    "library"
+  ],
+  "license": "MIT",
+  "homepage": "https://iconoir.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lucaburgio/iconoir.git"
+  },
+  "authors": [
+    {
+      "name": "lucaburgio"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/lucaburgio/iconoir.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/*.css",
+          "icons/*.svg"
+        ]
+      }
+    ]
+  },
+  "filename": "css/iconoir.css"
+}
