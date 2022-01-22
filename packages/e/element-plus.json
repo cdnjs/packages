@@ -23,15 +23,14 @@
       {
         "basePath": "",
         "files": [
-          "lib/umd/locale/*.js",
-          "lib/theme-chalk/*.css",
-          "lib/theme-chalk/fonts/*.@(ttf|woff)"
+          "theme-chalk/*.css"
         ]
       },
       {
         "basePath": "dist",
         "files": [
-          "*.@(js|mjs|css)"
+          "*.@(js|mjs|css)",
+          "locale/*.js"
         ]
       }
     ]
