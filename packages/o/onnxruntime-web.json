@@ -18,8 +18,7 @@
       {
         "basePath": "dist",
         "files": [
-          "*.js",
-          "*.wasm"
+          "*.@(js|wasm)"
         ]
       }
     ]
