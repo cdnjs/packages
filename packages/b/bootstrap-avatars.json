@@ -19,9 +19,9 @@
     "target": "bootstrap-avatars",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "css",
         "files": [
-          "*"
+          "bootstrap-avatars*"
         ]
       }
     ]
