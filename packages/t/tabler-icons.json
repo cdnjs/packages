@@ -19,7 +19,7 @@
   },
   "autoupdate": {
     "source": "npm",
-    "target": "tabler-icons",
+    "target": "@tabler/icons",
     "fileMap": [
       {
         "basePath": "",
