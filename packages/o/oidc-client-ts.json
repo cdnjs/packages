@@ -26,10 +26,11 @@
       {
         "basePath": "dist",
         "files": [
-          "*.@(js|cjs|mjs|ts|json)"
+          "@(browser|esm|umd)/*.js",
+          "types/*.@(d.ts|json)"
         ]
       }
     ]
   },
-  "filename": "oidc-client-ts.min.js"
+  "filename": "browser/oidc-client-ts.min.js"
 }
