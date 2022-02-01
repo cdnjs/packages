@@ -1,0 +1,42 @@
+{
+  "name": "venly-web3-provider",
+  "description": "Venly enabled Web3 Provider for the web",
+  "keywords": [
+    "ethereum",
+    "hd",
+    "wallet",
+    "mnemonic",
+    "provider",
+    "arkane",
+    "venly",
+    "venly.io",
+    "truffle",
+    "blockchain",
+    "crypto"
+  ],
+  "license": "MIT",
+  "homepage": "https://venly.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkaneNetwork/web3-arkane-provider.git"
+  },
+  "authors": [
+    {
+      "name": "Davy Van Roy",
+      "email": "davy.van.roy@venly.io"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@venly/web3-provider",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "web3-provider.js"
+}
