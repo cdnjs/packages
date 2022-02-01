@@ -1,0 +1,47 @@
+{
+  "name": "venly-connect",
+  "description": "Venly Connect SDK",
+  "keywords": [
+    "venly-connect",
+    "venly-widget",
+    "venly",
+    "venly.io",
+    "venly.market",
+    "blockchain",
+    "nft",
+    "crypto",
+    "collectible",
+    "sdk",
+    "non-fungible-tokens",
+    "smart-contracts",
+    "erc-20",
+    "erc-721",
+    "erc-1155",
+    "arkane"
+  ],
+  "license": "MIT",
+  "homepage": "https://venly.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkaneNetwork/arkane-connect.git"
+  },
+  "authors": [
+    {
+      "name": "@venly",
+      "email": "info@venly.io"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@venly/connect",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "connect.js"
+}
