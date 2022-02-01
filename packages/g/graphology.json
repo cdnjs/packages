@@ -1,0 +1,31 @@
+{
+  "name": "graphology",
+  "description": "A robust and multipurpose Graph object for JavaScript.",
+  "keywords": [
+    "graph",
+    "graph theory",
+    "directed",
+    "undirected",
+    "network"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/graphology/graphology#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graphology/graphology.git"
+  },
+  "authors": [],
+  "autoupdate": {
+    "source": "npm",
+    "target": "graphology",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|d.ts)"
+        ]
+      }
+    ]
+  },
+  "filename": "graphology.umd.min.js"
+}
