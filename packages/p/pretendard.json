@@ -1,0 +1,35 @@
+{
+  "name": "pretendard",
+  "description": "어느 플랫폼에서든 사용할 수 있는 system-ui 대체 글꼴 ",
+  "keywords": [
+    "font",
+    "fonts",
+    "typeface"
+  ],
+  "license": "OFL-1.1",
+  "homepage": "https://github.com/orioncactus/pretendard#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orioncactus/pretendard.git"
+  },
+  "authors": [
+    {
+      "name": "Kil Hyung-jin",
+      "email": "orioncactus@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "pretendard",
+    "fileMap": [
+      {
+        "basePath": "dist/web",
+        "files": [
+          "@(static|variable)/*.css",
+          "@(static|variable)/**/*.@(woff|woff2)"
+        ]
+      }
+    ]
+  },
+  "filename": "static/pretendard.css"
+}
