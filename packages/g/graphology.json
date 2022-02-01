@@ -14,7 +14,12 @@
     "type": "git",
     "url": "git+https://github.com/graphology/graphology.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "Graphology contributors",
+      "url": "https://github.com/graphology/graphology/graphs/contributors"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "graphology",
