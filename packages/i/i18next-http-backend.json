@@ -1,0 +1,37 @@
+{
+  "name": "i18next-http-backend",
+  "filename": "i18nextHttpBackend.min.js",
+  "description": "Backend layer for i18next using browsers XHR or fetch api",
+  "keywords": [
+    "i18next",
+    "i18next-backend",
+    "browser",
+    "xhr",
+    "fetch",
+    "http"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i18next/i18next-http-backend.git"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "i18next-http-backend",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "i18nextHttpBackend*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Adriano Raiano",
+      "email": "adriano@raiano.ch",
+      "url": "https://github.com/adrai"
+    }
+  ]
+}
