@@ -1,0 +1,38 @@
+{
+  "name": "spacersjs",
+  "description": "spacers is a JS library that supports multiple spacers for controlling padding/margin, linking functionality & much more!",
+  "keywords": [
+    "spacers",
+    "margin",
+    "padding",
+    "dragging",
+    "no-code",
+    "spacing",
+    "no-code-ui"
+  ],
+  "license": "MIT",
+  "homepage": "http://actuallyakash.github.io/spacers/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/actuallyakash/spacers.git"
+  },
+  "authors": [
+    {
+      "name": "actuallyakash"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "spacersjs",
+    "fileMap": [
+      {
+        "basePath": "spacers",
+        "files": [
+          "*.@(js|css)",
+          "icons/*.svg"
+        ]
+      }
+    ]
+  },
+  "filename": "spacers.min.css"
+}
