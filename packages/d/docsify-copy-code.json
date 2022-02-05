@@ -1,0 +1,26 @@
+{
+  "name": "docsify-copy-code",
+  "description": "A docsify plugin that copies a markdown code block to your clipboard",
+  "author": "JP Erasmus <jperasmus11@gmail.com>",
+  "contributors": [
+    "John Hildenbiddle <john@hildenbiddle.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jperasmus/docsify-copy-code",
+  "repository": "git@github.com:jperasmus/docsify-copy-code.git",
+  "files": [
+    "dist"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "docsify-copy-code",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "docsify-copy-code?(.min).js?(.map)"
+        ]
+      }
+    ]
+  }
+}
