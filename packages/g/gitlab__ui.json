@@ -1,0 +1,30 @@
+{
+  "name": "gitlab__ui",
+  "filename": "gitlab-ui.min.js",
+  "description": "GitLab UI Components",
+  "homepage": "https://gitlab.com/gitlab-org/gitlab-ui",
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@gitlab/ui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*.css"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/gitlab-org/gitlab-ui"
+  },
+  "authors": [
+    {
+      "name": "GitLab"
+    }
+  ]
+}
+
