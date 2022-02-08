@@ -1,0 +1,36 @@
+{
+  "name": "smartbanner.js",
+  "description": "Customisable smart app banner for iOS and Android",
+  "keywords": [
+    "javascript",
+    "mobile",
+    "ios",
+    "android",
+    "banner"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/ain/smartbanner.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ain/smartbanner.js.git"
+  },
+  "authors": [
+    {
+      "name": "Ain Tohvri",
+      "email": "ain@flashbit.net"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "smartbanner.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "smartbanner.min.js"
+}
