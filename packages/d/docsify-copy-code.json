@@ -5,15 +5,14 @@
     "docsify",
     "plugin",
     "copy"
-  ]
+  ],
   "authors": [
     {
       "name": "JP Erasmus",
       "email": "jperasmus11@gmail.com",
       "url": "https://jperasmus.me"
     }
-  ]
-
+  ],
   "license": "MIT",
   "homepage": "https://github.com/jperasmus/docsify-copy-code",
   "repository": {
