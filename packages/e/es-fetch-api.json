@@ -11,12 +11,16 @@
     "extensibility"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/lchrennew/es-fetch-api#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/lchrennew/es-fetch-api.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "lchrennew"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "es-fetch-api",
