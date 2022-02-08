@@ -1,0 +1,33 @@
+{
+  "name": "es-fetch-api",
+  "description": "Very very very powerful, extensible http client for both node.js and browser.",
+  "keywords": [
+    "http",
+    "fetch",
+    "axios",
+    "es",
+    "es6",
+    "readability",
+    "extensibility"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lchrennew/es-fetch-api.git"
+  },
+  "authors": [],
+  "autoupdate": {
+    "source": "npm",
+    "target": "es-fetch-api",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "fetch.js"
+}
