@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-avatars",
-  "filename": "js/mdb.min.js",
+  "filename": "bootstrap-avatars.min.css",
   "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
   "keywords": [
     "bootstrap",
