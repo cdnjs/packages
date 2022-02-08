@@ -13,7 +13,7 @@
   "license": "MIT",
   "homepage": "https://github.com/dcodeIO/bcrypt.js#readme",
   "repository": {
-    "type": "url",
+    "type": "git",
     "url": "git+https://github.com/dcodeIO/bcrypt.js.git"
   },
   "authors": [
