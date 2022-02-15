@@ -1,0 +1,38 @@
+{
+  "name": "bcryptjs",
+  "description": "Optimized bcrypt in plain JavaScript with zero dependencies. Compatible to 'bcrypt'.",
+  "keywords": [
+    "bcrypt",
+    "password",
+    "auth",
+    "authentication",
+    "encryption",
+    "crypt",
+    "crypto"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dcodeIO/bcrypt.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcodeIO/bcrypt.js.git"
+  },
+  "authors": [
+    {
+      "name": "Daniel Wirtz",
+      "email": "dcode@dcode.io"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "bcryptjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "bcrypt.min.js"
+}
