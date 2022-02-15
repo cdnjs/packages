@@ -19,7 +19,7 @@
     "type": "git",
     "url": "https://github.com/jperasmus/docsify-copy-code.git"
   },
-
+  "filename": "docsify-copy-code.min.js",
   "optimization": {
     "js": false
   },
