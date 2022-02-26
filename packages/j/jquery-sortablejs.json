@@ -16,7 +16,11 @@
     "type": "git",
     "url": "git+https://github.com/SortableJS/jquery-sortablejs.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "owen-m1"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "jquery-sortablejs",
