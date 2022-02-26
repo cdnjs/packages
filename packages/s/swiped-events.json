@@ -1,0 +1,35 @@
+{
+  "name": "swiped-events",
+  "description": "A 0.7k script that adds swipe events to the DOM for touch enabled devices",
+  "keywords": [
+    "swipe",
+    "touch",
+    "swiped events"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/john-doherty/swiped-events#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-doherty/swiped-events.git"
+  },
+  "authors": [
+    {
+      "name": "John Doherty",
+      "email": "contact@johndoherty.info",
+      "url": "www.johndoherty.info"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "swiped-events",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "swiped-events.min.js"
+}
