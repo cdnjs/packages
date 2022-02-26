@@ -1,0 +1,35 @@
+{
+  "name": "rollup",
+  "description": "Next-generation ES module bundler",
+  "keywords": [
+    "modules",
+    "bundler",
+    "bundling",
+    "es6",
+    "optimizer"
+  ],
+  "license": "MIT",
+  "homepage": "https://rollupjs.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rollup/rollup.git"
+  },
+  "authors": [
+    {
+      "name": "Rich Harris"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "rollup",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.browser.js"
+        ]
+      }
+    ]
+  },
+  "filename": "rollup.browser.js"
+}
