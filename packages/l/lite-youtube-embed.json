@@ -1,0 +1,27 @@
+{
+  "name": "lite-youtube-embed",
+  "description": "A faster youtube embed.",
+  "keywords": ["youtube", "embed", "video"],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/paulirish/lite-youtube-embed#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paulirish/lite-youtube-embed.git"
+  },
+  "authors": [
+    {
+      "name": "Paul Irish"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "lite-youtube-embed",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": ["*.@(js|css)"]
+      }
+    ]
+  },
+  "filename": "lite-yt-embed.js"
+}
