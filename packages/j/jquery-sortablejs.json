@@ -1,0 +1,37 @@
+{
+  "name": "jquery-sortablejs",
+  "description": "A jQuery binding for SortableJS",
+  "keywords": [
+    "sortable",
+    "jQuery",
+    "drag",
+    "drop",
+    "draggable",
+    "sort",
+    "reordering"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/SortableJS/jquery-sortablejs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SortableJS/jquery-sortablejs.git"
+  },
+  "authors": [
+    {
+      "name": "owen-m1"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-sortablejs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "jquery-sortable.js"
+}
