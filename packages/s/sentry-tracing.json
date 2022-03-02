@@ -1,7 +1,13 @@
 {
   "name": "sentry-tracing",
   "description": "Extensions for Sentry AM",
-  "keywords": [],
+  "keywords": [
+    "crash-reporting",
+    "error-monitoring",
+    "sentry",
+    "raven",
+    "sentry-client"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/getsentry/sentry-javascript/tree/master/packages/tracing",
   "repository": {
