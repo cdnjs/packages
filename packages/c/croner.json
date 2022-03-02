@@ -22,7 +22,7 @@
       {
         "basePath": "dist",
         "files": [
-          "*.@(js|map)"
+          "*.@(js|cjs|mjs|map)"
         ]
       }
     ]
