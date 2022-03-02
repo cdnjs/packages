@@ -1,0 +1,41 @@
+{
+  "name": "picocss",
+  "description": "Minimal CSS Framework for semantic HTML",
+  "keywords": [
+    "css",
+    "css-framework",
+    "dark-mode",
+    "dark-theme",
+    "lightweight",
+    "minimal",
+    "minimalist",
+    "minimalistic",
+    "native-html",
+    "scss-framework",
+    "semantic"
+  ],
+  "license": "MIT",
+  "homepage": "https://picocss.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/picocss/pico.git"
+  },
+  "authors": [
+    {
+      "name": "Lucas Larroche"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@picocss/pico",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "**/*.css"
+        ]
+      }
+    ]
+  },
+  "filename": "pico.min.css"
+}
