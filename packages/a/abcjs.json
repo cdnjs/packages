@@ -17,5 +17,17 @@
     {
       "name": "Paul Rosen"
     }
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "abcjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }
