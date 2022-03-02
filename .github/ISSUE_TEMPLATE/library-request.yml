@@ -43,3 +43,14 @@ body:
     placeholder: "https://www.npmjs.com/package/bootstrap"
   validations:
     required: true
+
+- type: textarea
+  id: files
+  attributes:
+    label: Files to include
+    description: "Please provide a list of all the files that we should include from the source for the library on cdnjs"
+    placeholder: |
+      - bootstrap.min.css
+      - bootstrap.min.js
+  validations:
+    required: true
