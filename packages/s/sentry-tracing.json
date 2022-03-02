@@ -1,0 +1,29 @@
+{
+  "name": "sentry-tracing",
+  "description": "Extensions for Sentry AM",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "https://github.com/getsentry/sentry-javascript/tree/master/packages/tracing",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/getsentry/sentry-javascript.git"
+  },
+  "authors": [
+    {
+      "name": "Sentry"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@sentry/tracing",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "bundle.tracing.min.js"
+}
