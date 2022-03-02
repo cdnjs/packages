@@ -1,7 +1,13 @@
 {
   "name": "sentry-browser",
   "description": "Official Sentry SDK for browsers",
-  "keywords": [],
+  "keywords": [
+    "crash-reporting",
+    "error-monitoring",
+    "sentry",
+    "raven",
+    "sentry-client"
+  ],
   "license": "BSD-3-Clause",
   "homepage": "https://github.com/getsentry/sentry-javascript/tree/master/packages/browser",
   "repository": {
