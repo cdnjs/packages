@@ -1,0 +1,29 @@
+{
+  "name": "stanford-slate-enhancements",
+  "description": "Styles and JavaScript features created by Stanford University to be used on the Slate platform.",
+  "keywords": [
+    "slate"
+  ],
+  "license": "MIT",
+  "homepage": "https://code.stanford.edu/stanford-slate/stanford-slate-enhancements",
+  "repository": {
+    "type": "git",
+    "url": "https://code.stanford.edu/stanford-slate/stanford-slate-enhancements.git"
+  },
+  "authors": [
+    {
+      "name": "Stanford University"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "https://code.stanford.edu/stanford-slate/stanford-slate-enhancements.git",
+    "fileMap": [
+      {
+        "files": [
+          "stanford-slate-enhancements.js"
+        ]
+      }
+    ]
+  }
+}
