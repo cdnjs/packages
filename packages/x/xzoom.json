@@ -18,7 +18,18 @@
     "type": "git",
     "url": "git+https://github.com/payalord/xZoom.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "Azat Ahmedov",
+      "email": "payalord@gmail.com",
+      "url": "https://payalord.github.io"
+    },
+    {
+      "name": "Elman Guseynov",
+      "email": "hello@elman.pro",
+      "url": "http://elman.pro"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "xzoom",
