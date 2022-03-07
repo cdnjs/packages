@@ -1,6 +1,6 @@
 {
   "name": "abcjs",
-  "filename": "abcjs_basic-min.js",
+  "filename": "abcjs-basic-min.min.js",
   "description": "javascript for rendering abc music notation",
   "repository": {
     "type": "git",
@@ -17,5 +17,17 @@
     {
       "name": "Paul Rosen"
     }
-  ]
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "abcjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
 }
