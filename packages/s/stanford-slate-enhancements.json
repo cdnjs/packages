@@ -20,6 +20,7 @@
     "target": "https://code.stanford.edu/stanford-slate/stanford-slate-enhancements.git",
     "fileMap": [
       {
+        "basePath": "",
         "files": [
           "stanford-slate-enhancements.js"
         ]
