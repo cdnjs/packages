@@ -5,10 +5,10 @@
     "slate"
   ],
   "license": "MIT",
-  "homepage": "https://code.stanford.edu/stanford-slate/stanford-slate-enhancements",
+  "homepage": "https://github.com/Stanford/stanford-slate-enhancements",
   "repository": {
     "type": "git",
-    "url": "https://code.stanford.edu/stanford-slate/stanford-slate-enhancements.git"
+    "url": "git@github.com:Stanford/stanford-slate-enhancements.git"
   },
   "authors": [
     {
@@ -17,7 +17,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "https://code.stanford.edu/stanford-slate/stanford-slate-enhancements.git",
+    "target": "git@github.com:Stanford/stanford-slate-enhancements.git",
     "fileMap": [
       {
         "basePath": "",
