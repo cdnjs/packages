@@ -1,0 +1,35 @@
+{
+  "name": "xzoom",
+  "description": "jQuery responsive image zoom in/out gallery plugin. With a lot of customizable options. Supports jQuery v1.2.6 and higher.",
+  "keywords": [
+    "jquery",
+    "zoom",
+    "magnify",
+    "image",
+    "responsive",
+    "responsive zoom",
+    "responsive magnify",
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://payalord.github.io/xZoom/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payalord/xZoom.git"
+  },
+  "authors": [],
+  "autoupdate": {
+    "source": "npm",
+    "target": "xzoom",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "xzoom.min.js"
+}
