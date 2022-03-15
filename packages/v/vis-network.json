@@ -19,7 +19,12 @@
     "type": "git",
     "url": "git+https://github.com/visjs/vis-network.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "vis-network contributors",
+      "url": "https://github.com/visjs/vis-network/graphs/contributors"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "vis-network",
