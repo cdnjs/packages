@@ -35,13 +35,13 @@
     "url": "git+https://github.com/autoNumeric/autoNumeric.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/autoNumeric/autoNumeric.git",
+    "source": "npm",
+    "target": "autonumeric",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js"
         ]
       }
     ]
