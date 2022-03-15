@@ -1,0 +1,36 @@
+{
+  "name": "clockwork-browser",
+  "description": "Clockwork client-side metrics collection and toolbar.",
+  "keywords": [
+    "debugging",
+    "profiling",
+    "logging",
+    "laravel",
+    "lumen",
+    "slim",
+    "devtools"
+  ],
+  "license": "MIT",
+  "homepage": "https://underground.works/clockwork",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/underground-works/clockwork-browser.git"
+  },
+  "authors": [
+    {
+      "name": "its"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "clockwork-browser",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
+}
