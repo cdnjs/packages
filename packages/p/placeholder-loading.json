@@ -1,0 +1,35 @@
+{
+  "name": "placeholder-loading",
+  "description": "Simple and flexible, css only, content placeholder loading animation.",
+  "keywords": [
+    "placeholder",
+    "content",
+    "flex",
+    "scss"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zalog/placeholder-loading#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zalog/placeholder-loading.git"
+  },
+  "authors": [
+    {
+      "name": "Zalog",
+      "url": "https://www.zalog.ro/"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "placeholder-loading",
+    "fileMap": [
+      {
+        "basePath": "dist/css",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  },
+  "filename": "placeholder-loading.min.css"
+}
