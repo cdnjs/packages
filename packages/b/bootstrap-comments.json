@@ -1,0 +1,37 @@
+{
+  "name": "bootstrap-comments",
+  "filename": "bootstrap-comments.min.css",
+  "description": "Responsive Comment Box built with the Bootstrap 5. Comment with avatar, nested comments, comment with reply, comment section, comment template, unread comments, comment form.",
+  "keywords": [
+    "bootstrap",
+    "forms",
+    "bootstrap5",
+    "responsive",
+    "comments"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/comments/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-comments"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-comments",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-comments*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}
