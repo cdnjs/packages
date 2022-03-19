@@ -1,0 +1,38 @@
+{
+  "name": "merge-images",
+  "description": "Easily compose images together without messing around with canvas",
+  "keywords": [
+    "compose",
+    "merge",
+    "images",
+    "without",
+    "no",
+    "canvas"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lukechilds/merge-images",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukechilds/merge-images.git"
+  },
+  "authors": [
+    {
+      "name": "Luke Childs",
+      "email": "lukechilds123@gmail.com",
+      "url": "http://lukechilds.co.uk"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "merge-images",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.umd.js"
+}
