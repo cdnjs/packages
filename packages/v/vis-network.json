@@ -35,7 +35,7 @@
           "dist/dist/*.css",
           "dist/img/**/*.png",
           "dist/*.js",
-          "{peer,standalone}/{,esm/,umd/}*.js"
+          "{esnext,peer,standalone}/{,esm/,umd/}*.js"
         ]
       }
     ]
