@@ -1,0 +1,44 @@
+{
+  "name": "vis-network",
+  "description": "A dynamic, browser-based visualization library.",
+  "keywords": [
+    "vis",
+    "visualization",
+    "web based",
+    "browser based",
+    "typescript",
+    "javascript",
+    "chart",
+    "graph",
+    "network",
+    "browser"
+  ],
+  "license": "(Apache-2.0 OR MIT)",
+  "homepage": "https://visjs.github.io/vis-network/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visjs/vis-network.git"
+  },
+  "authors": [
+    {
+      "name": "vis-network contributors",
+      "url": "https://github.com/visjs/vis-network/graphs/contributors"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "vis-network",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "dist/dist/*.css",
+          "dist/img/**/*.png",
+          "dist/*.js",
+          "{esnext,peer,standalone}/{,esm/,umd/}*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "standalone/umd/vis-network.min.js"
+}
