@@ -20,7 +20,12 @@
     "type": "git",
     "url": "git+https://github.com/visjs/vis-data.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "vis-data contributors",
+      "url": "https://github.com/visjs/vis-data/graphs/contributors"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "vis-data",
