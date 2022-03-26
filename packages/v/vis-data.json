@@ -1,0 +1,43 @@
+{
+  "name": "vis-data",
+  "description": "Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.",
+  "keywords": [
+    "vis",
+    "visualization",
+    "web based",
+    "browser based",
+    "javascript",
+    "chart",
+    "linechart",
+    "timeline",
+    "graph",
+    "network",
+    "browser"
+  ],
+  "license": "(Apache-2.0 OR MIT)",
+  "homepage": "http://visjs.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visjs/vis-data.git"
+  },
+  "authors": [
+    {
+      "name": "vis-data contributors",
+      "url": "https://github.com/visjs/vis-data/graphs/contributors"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "vis-data",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "dist/*.js",
+          "{esnext,peer,standalone}/{,esm/,umd/}*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "dist/umd.js"
+}
