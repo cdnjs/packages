@@ -1,0 +1,42 @@
+{
+  "name": "bootstrap-comparison-table",
+  "filename": "bootstrap-comparison-table.min.css",
+  "description": "Comparison table built with Bootstrap 5. Various examples like comparison table on pricing page, comparison card and many more.",
+  "keywords": [
+    "bootstrap",
+    "responsive",
+    "bootstrap5",
+    "cards",
+    "rating",
+    "icons",
+    "tables",
+    "pricing",
+    "comparison",
+    "responsive-design"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/bootstrap-comparison-table/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-comparison-table"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-comparison-table",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-comparison-table*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}
