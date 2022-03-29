@@ -1,0 +1,35 @@
+{
+  "name": "elliptic",
+  "description": "EC cryptography",
+  "keywords": [
+    "EC",
+    "Elliptic",
+    "curve",
+    "Cryptography"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/indutny/elliptic",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/indutny/elliptic.git"
+  },
+  "authors": [
+    {
+      "name": "Fedor Indutny",
+      "email": "fedor@indutny.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/indutny/elliptic.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "elliptic.min.js"
+}
