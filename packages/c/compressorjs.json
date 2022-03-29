@@ -18,7 +18,12 @@
     "type": "git",
     "url": "git+https://github.com/fengyuanchen/compressorjs.git"
   },
-  "filename": "compressor.min.js",
+  "authors": [
+    {
+      "name": "Chen Fengyuan",
+      "url": "https://chenfengyuan.com/"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "compressorjs",
@@ -26,15 +31,10 @@
       {
         "basePath": "dist",
         "files": [
-          "*.@(js|map)"
+          "*.js"
         ]
       }
     ]
   },
-  "authors": [
-    {
-      "name": "Chen Fengyuan",
-      "url": "https://chenfengyuan.com/"
-    }
-  ]
+  "filename": "compressor.min.js"
 }
