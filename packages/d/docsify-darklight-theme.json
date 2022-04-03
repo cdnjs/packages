@@ -1,0 +1,41 @@
+{
+  "name": "docsify-darklight-theme",
+  "description": "Enables dark and light mode for docsify sites with switch",
+  "keywords": [
+    "docsify",
+    "docsify-themeable",
+    "plugin",
+    "dark-mode",
+    "light-mode",
+    "theme",
+    "docsify-plugin",
+    "template",
+    "docsify-starter"
+  ],
+  "license": "MIT",
+  "homepage": "http://docsify-darklight-theme.boopathikumar.me",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boopathikumar018/docsify-darklight-theme.git"
+  },
+  "authors": [
+    {
+      "name": "Boopathi Kumar",
+      "email": "boopathikumar018@gmail.com",
+      "url": "https://github.com/boopathikumar018"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "docsify-darklight-theme",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "style.min.css"
+}
