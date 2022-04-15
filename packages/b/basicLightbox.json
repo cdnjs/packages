@@ -1,0 +1,43 @@
+{
+  "name": "basicLightbox",
+  "description": "The lightest lightbox ever made",
+  "keywords": [
+    "lightbox",
+    "popup",
+    "modal",
+    "window",
+    "dialog",
+    "gallery",
+    "photo",
+    "responsive",
+    "mobile"
+  ],
+  "license": "MIT",
+  "homepage": "https://basiclightbox.electerious.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/electerious/basicLightbox.git"
+  },
+  "authors": [
+    {
+      "name": "electerious"
+    },
+    {
+      "name": "Tobias Reich",
+      "email": "tobias@electerious.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/electerious/basicLightbox.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(css|js)"
+        ]
+      }
+    ]
+  },
+  "filename": "basicLightbox.min.js"
+}
