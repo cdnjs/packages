@@ -1,0 +1,38 @@
+{
+  "name": "tocas",
+  "description": "The fastest and most intuitive way to build diverse websites and progressive web application interfaces.",
+  "keywords": [
+    "tocas",
+    "css3",
+    "ui",
+    "html5",
+    "rwd"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/teacat/tocas#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teacat/tocas.git"
+  },
+  "authors": [
+    {
+      "name": "Yami Odymel",
+      "email": "yamiodymel@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "tocas",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "flags/**/*.svg",
+          "fonts/**/*.@(ttf|woff2)",
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "tocas.min.css"
+}
