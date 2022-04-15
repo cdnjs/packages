@@ -1,0 +1,36 @@
+{
+  "name": "centrifuge",
+  "description": "Centrifuge and Centrifugo client for NodeJS and browser",
+  "keywords": [
+    "sockjs",
+    "websocket",
+    "centrifugo",
+    "centrifuge"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/centrifugal/centrifuge-js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/centrifugal/centrifuge-js.git"
+  },
+  "authors": [
+    {
+      "name": "Alexander Emelin",
+      "email": "frvzmb@gmail.com",
+      "url": "https://github.com/FZambia"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "centrifuge",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|ts|map)"
+        ]
+      }
+    ]
+  },
+  "filename": "centrifuge.js"
+}
