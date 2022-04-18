@@ -1,0 +1,37 @@
+{
+  "name": "docsify-sidebarfooter",
+  "description": "Add a footer notice for Docsify.js",
+  "keywords": [
+    "footer",
+    "copyright",
+    "privacy policy",
+    "terms of service",
+    "cookie policy",
+    "docsify",
+    "docsify plugin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/markbattistella/docsify-sidebarFooter#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markbattistella/docsify-sidebarFooter.git"
+  },
+  "authors": [
+    {
+      "name": "Mark Battistella"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@markbattistella/docsify-sidebarfooter",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "docsify-sidebarFooter.min.js"
+}

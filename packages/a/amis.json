@@ -1,0 +1,36 @@
+{
+  "name": "amis",
+  "description": "一种MIS页面生成工具",
+  "keywords": [
+    "react",
+    "amis",
+    "mis",
+    "renderer",
+    "json",
+    "schema"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/baidu/amis#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baidu/amis.git"
+  },
+  "authors": [
+    {
+      "name": "baidu"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "amis",
+    "fileMap": [
+      {
+        "basePath": "sdk",
+        "files": [
+          "*.@(css|js|eot|svg|ttf|woff)"
+        ]
+      }
+    ]
+  },
+  "filename": "sdk.js"
+}
