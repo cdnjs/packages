@@ -1,0 +1,43 @@
+{
+  "name": "bootstrap-jumbotron",
+  "filename": "bootstrap-jumbotron.min.css",
+  "description": "Responsive Jumbotron built with Bootstrap 5. Examples of classic hero component, with background image, with navbar and many other combinations.",
+  "keywords": [
+    "bootstrap",
+    "template",
+    "bootstrap5",
+    "responsive",
+    "cards", 
+    "responsive-design",
+    "navbar",
+    "bootstrap5-template",
+    "background-image",
+    "jumbotron",
+    "fixed-navbar"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/jumbotron/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-jumbotron"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-jumbotron",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-jumbotron*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}
