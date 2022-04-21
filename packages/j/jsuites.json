@@ -4,7 +4,7 @@
   "keywords": [
     "javascript plugins"
   ],
-  "license": "",
+  "license": "MIT",
   "homepage": "https://github.com/jsuites/jsuites",
   "repository": {
     "type": "git",
