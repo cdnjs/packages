@@ -1,5 +1,5 @@
 {
-  "description": "a react inputs validation component",
+  "description": "A react component for form inputs validation.",
   "filename": "react-inputs-validation.min.js",
   "homepage": "https://edwardfxiao.github.io/react-inputs-validation/",
   "keywords": [
