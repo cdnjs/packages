@@ -1,0 +1,32 @@
+{
+  "name": "photoswipe-dynamic-caption-plugin",
+  "description": "A caption plugin for PhotoSwipe v5+ that smartly positions it aside or below the image.",
+  "keywords": [
+    "photoswipe",
+    "caption"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dimsemenov/photoswipe-dynamic-caption-plugin#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimsemenov/photoswipe-dynamic-caption-plugin.git"
+  },
+  "authors": [
+    {
+      "name": "Dmytro Semenov"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "photoswipe-dynamic-caption-plugin",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "photoswipe-dynamic-caption-plugin*"
+        ]
+      }
+    ]
+  },
+  "filename": "photoswipe-dynamic-caption-plugin.esm.js"
+}
