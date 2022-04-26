@@ -20,7 +20,9 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "waline.css",
+          "waline.js",
+          "pageview.js"
         ]
       }
     ]
