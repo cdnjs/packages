@@ -1,0 +1,39 @@
+{
+  "name": "photoswipe-deep-zoom-plugin",
+  "description": "A plugin that adds tile-based zoom support to PhotoSwipe. Supports Deepzoom and Zoomify tile formats.",
+  "keywords": [
+    "tile",
+    "zoom",
+    "pan",
+    "photoswipe",
+    "dzi",
+    "iif",
+    "zoomify",
+    "deepzoom"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dimsemenov/photoswipe-deep-zoom-plugin#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimsemenov/photoswipe-deep-zoom-plugin.git"
+  },
+  "authors": [
+    {
+      "name": "Dmytro Semenov",
+      "url": "https://dimsemenov.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "photoswipe-deep-zoom-plugin",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "photoswipe-deep-zoom-plugin*"
+        ]
+      }
+    ]
+  },
+  "filename": "photoswipe-deep-zoom-plugin.esm.min.js"
+}
