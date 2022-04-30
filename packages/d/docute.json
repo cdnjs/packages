@@ -1,7 +1,13 @@
 {
   "name": "docute",
   "description": "Effortlessly documentation done right.",
-  "keywords": [],
+  "keywords": [
+    "documentation",
+    "vue",
+    "gitbook",
+    "documentation-tool",
+    "docute"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/egoist/docute#readme",
   "repository": {
