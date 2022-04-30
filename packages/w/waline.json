@@ -20,10 +20,10 @@
       {
         "basePath": "dist",
         "files": [
-          "*.js"
+          "*.@(js|css)"
         ]
       }
     ]
   },
-  "filename": "Waline.min.js"
+  "filename": "waline.js"
 }
