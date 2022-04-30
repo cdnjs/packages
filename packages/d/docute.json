@@ -1,0 +1,30 @@
+{
+  "name": "docute",
+  "description": "Effortlessly documentation done right.",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "https://github.com/egoist/docute#readme",
+  "repository": {
+    "url": "git+https://github.com/egoist/docute.git",
+    "type": "git"
+  },
+  "authors": [
+    {
+      "name": "egoist",
+      "email": "0x142857@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "docute",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "docute.js"
+}
