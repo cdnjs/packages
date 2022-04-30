@@ -12,13 +12,14 @@
     "html"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/markedjs/marked.git",
+    "source": "npm",
+    "target": "marked",
     "fileMap": [
       {
-        "basePath": "lib",
+        "basePath": "",
         "files": [
-          "marked.js"
+          "marked.min.js",
+          "lib/*.@(cjs|js)"
         ]
       }
     ]
