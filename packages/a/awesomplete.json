@@ -19,8 +19,8 @@
       {
         "basePath": "",
         "files": [
-          "awesomplete*.js",
-          "awesomplete*.css"
+          "awesomplete*.js?(.map)",
+          "awesomplete*.css?(.map)"
         ]
       }
     ]
