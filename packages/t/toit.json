@@ -1,0 +1,19 @@
+{
+  "name": "toit",
+  "description": "Syntax highlighting for Toit.",
+  "keywords": [
+    "toit"
+    "syntax"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snxx-lppxx/toit-highlight.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": [
+    {
+      "Serzhan Nasredin"
+    }
+  ],
+  "filename": "toit.js"
+}
