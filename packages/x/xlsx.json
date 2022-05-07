@@ -13,11 +13,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SheetJS/js-xlsx.git"
+    "url": "https://github.com/SheetJS/sheetjs.git"
   },
   "autoupdate": {
-    "source": "npm",
-    "target": "xlsx",
+    "source": "git",
+    "target": "git://github.com/SheetJS/sheetjs.git",
     "fileMap": [
       {
         "basePath": "dist",
