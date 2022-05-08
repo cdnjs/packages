@@ -1,6 +1,6 @@
 {
   "name": "xlsx",
-  "filename": "xlsx.min.js",
+  "filename": "xlsx.full.min.js",
   "description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer",
   "license": "Apache License, Version 2.0",
   "keywords": [
@@ -22,8 +22,7 @@
       {
         "basePath": "dist",
         "files": [
-          "*.js",
-          "*.map"
+          "*.js?(.map)"
         ]
       }
     ]
