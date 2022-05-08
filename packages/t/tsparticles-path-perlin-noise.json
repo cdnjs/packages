@@ -45,14 +45,13 @@
         "animated",
         "background",
         "confetti",
-        "canvas",
         "fireworks",
         "fireworks-js",
         "confetti-js",
         "confettijs",
         "fireworksjs",
         "canvas-confetti"
-    ],
+      ],
     "license": "MIT",
     "name": "tsparticles-path-perlin-noise",
     "repository": {
