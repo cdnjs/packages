@@ -10,29 +10,25 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/NotNinja/europa.git"
+    "url": "https://github.com/neocotic/europa.git"
   },
-  "filename": "europa.min.js",
+  "filename": "europa.js",
   "autoupdate": {
     "source": "npm",
     "target": "europa",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "lib/umd",
         "files": [
-          "**/*"
+          "*.js?(.map)"
         ]
       }
-    ],
-    "ignoreVersions": [
-      "4.0.0-alpha*"
     ]
   },
   "authors": [
     {
-      "name": "Alasdair Mercer",
-      "email": "mercer.alasdair@gmail.com",
-      "url": "https://not.ninja"
+      "name": "neocotic",
+      "url": "https://github.com/neocotic"
     }
   ]
 }
