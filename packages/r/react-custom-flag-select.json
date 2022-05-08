@@ -1,0 +1,38 @@
+{
+  "name": "react-custom-flag-select",
+  "description": "A react component for custom flag (country code) select.",
+  "keywords": [
+    "flag",
+    "select",
+    "country code",
+    "area code",
+    "phone code",
+    "telephone code",
+    "react-custom-flag-select"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/edwardfxiao/react-custom-flag-select#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardfxiao/react-custom-flag-select.git"
+  },
+  "authors": [
+    {
+      "name": "Edward Xiao"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-custom-flag-select",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "{,components/}*.@(css|js)?(.map)",
+          "{,components/}*.d.ts"
+        ]
+      }
+    ]
+  },
+  "filename": "react-custom-flag-select.min.js"
+}

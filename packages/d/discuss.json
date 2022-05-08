@@ -1,0 +1,35 @@
+{
+  "name": "discuss",
+  "description": "一款简单，安全，免费的评论系统 | A simple, safe, free comment system",
+  "keywords": [
+    "discuss",
+    "comments",
+    "concise",
+    "vue"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Lete114/Discuss#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lete114/Discuss.git"
+  },
+  "authors": [
+    {
+      "name": "Lete乐特",
+      "url": "https://www.imlete.cn"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "discuss",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "Discuss.js"
+}
