@@ -10,8 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/neocotic/europa.git",
-    "directory":  "packages/europa"
+    "url": "https://github.com/neocotic/europa.git"
   },
   "filename": "europa.js",
   "autoupdate": {
@@ -21,12 +20,9 @@
       {
         "basePath": "lib/umd",
         "files": [
-          "**/*"
+          "*.js?(.map)"
         ]
       }
-    ],
-    "ignoreVersions": [
-      "4.0.0-alpha*"
     ]
   },
   "authors": [
