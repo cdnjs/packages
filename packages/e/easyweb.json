@@ -1,0 +1,34 @@
+
+{
+  "name": "easyweb",
+  "filename": "easyweb.js",
+  "description": "React components library",
+  "keywords": [
+    "easyweb",
+    "component"
+  ],
+  "homepage": "https://github.com/CompassChengHan/easyweb-cdn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CompassChengHan/easyweb-cdn"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/CompassChengHan/easyweb-cdn.git",
+    "fileMap": [
+      {
+        "basePath": "/",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
+  "authors": [
+    {
+      "name": "Han",
+      "email": "han.cheng@lianwei.com.cn"
+    }
+  ]
+}
