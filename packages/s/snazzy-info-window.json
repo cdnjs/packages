@@ -1,0 +1,46 @@
+{
+  "name": "snazzy-info-window",
+  "description": "Customizable info windows using the Google Maps JavaScript API.",
+  "keywords": [
+    "snazzy-maps",
+    "google-maps",
+    "snazzy",
+    "google",
+    "maps",
+    "info",
+    "window"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/atmist/snazzy-info-window",
+  "repository": {
+    "url": "git+https://github.com/atmist/snazzy-info-window.git",
+    "type": "git"
+  },
+  "authors": [
+    {
+      "name": "Joel Kravets"
+    },
+    {
+      "name": "Darcy Chan"
+    },
+    {
+      "name": "Adam Krogh"
+    },
+    {
+      "name": "Mike Chow"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "snazzy-info-window",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(css|scss|js)?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "snazzy-info-window.min.js"
+}
