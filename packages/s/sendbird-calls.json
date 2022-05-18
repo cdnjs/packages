@@ -1,0 +1,34 @@
+{
+  "name": "sendbird-calls",
+  "description": "Sendbird Calls is the latest addition to our product portfolio. It enables real-time calls between users within a Sendbird application. SDKs are provided for iOS, Android, and JavaScript. Using any one of these, developers can quickly integrate voice and video call functions into their own client apps, allowing users to make and receive web-based real-time voice and video calls on the Sendbird platform.",
+  "filename": "SendBirdCall.min.js",
+  "keywords": [
+    "sendbird",
+    "calls",
+    "voice",
+    "video"
+  ],
+  "homepage": "https://sendbird.com/",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sendbird/sendbird-calls-javascript"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "sendbird-calls",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "SendBirdCall.@(d.ts|min.js)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Sendbird, Inc."
+    }
+  ]
+}
