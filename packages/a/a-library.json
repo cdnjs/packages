@@ -1,11 +1,9 @@
 {
-  "name": "aitmed-cadl",
-  "description": "A package with utilities to manage and process CADL files.",
-  "keywords": ["cadl"],
-  "license": "ISC",
+  "name": "Dom Managing Functions",
+  "description": "A package with utilities to create and manage the DOM tree.",
   "repository": {
     "type": "git",
-    "url": "http://gitlab.aitmed.com/frontend/cadl.git"
+    "url": "http://github.com/dillaar/domFunctions.git"
   },
   "authors": [
     {
@@ -17,12 +15,12 @@
     "target": "git://github.com/dillaar/domFunctions.git",
     "fileMap": [
       {
-        "basePath": "lib",
+        "basePath": "main",
         "files": [
-          "*.js"
+          "domFuncs.js"
         ]
       }
     ]
   },
-  "filename": "index.min.js"
+  "filename": "index.js"
 }
