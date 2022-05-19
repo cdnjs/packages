@@ -1,0 +1,43 @@
+{
+  "name": "bootstrap-mega-menu",
+  "filename": "bootstrap-mega-menu.min.css",
+  "description": "Responsive Mega Menu built with Bootstrap 5. Examples of dropdown on click and on hover. Templates with grid, images, links, lists and more.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "navigation",
+    "responsive-design",
+    "navbar",
+    "bootstrap5-template",
+    "dropdown",
+    "menu",
+    "mega-menu",
+    "bootstrap-megamenu"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/mega-menu/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-mega-menu"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-mega-menu",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-mega-menu*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}
