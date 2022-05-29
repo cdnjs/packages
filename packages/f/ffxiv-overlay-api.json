@@ -1,0 +1,32 @@
+{
+  "name": "ffxiv-overlay-api",
+  "description": "Build your own modern FFXIV overlay with npm & TypeScript support.",
+  "keywords": ["ffxiv", "act", "overlay", "mmo"],
+  "license": "MIT",
+  "homepage": "https://github.com/dsrkafuu/ffxiv-overlay-api#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsrkafuu/ffxiv-overlay-api.git"
+  },
+  "authors": [
+    { "name": "DSRKafuU" },
+    { "name": "ngld" },
+    { "name": "hibiyasleep" },
+    { "name": "RainbowMage" }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "ffxiv-overlay-api",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": ["*.js?(.map)", "**/*.d.ts"]
+      },
+      {
+        "basePath": "test",
+        "files": ["*.json"]
+      }
+    ]
+  },
+  "filename": "overlay.min.js"
+}
