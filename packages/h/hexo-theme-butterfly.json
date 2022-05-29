@@ -1,0 +1,37 @@
+{
+  "name": "hexo-theme-butterfly",
+  "description": "A Simple and Card UI Design theme for Hexo",
+  "keywords": [
+    "hexo",
+    "theme",
+    "butterfly",
+    "Card UI Design",
+    "Jerry",
+    "hexo-theme-butterfly"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://butterfly.js.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerryc127/hexo-theme-butterfly.git"
+  },
+  "authors": [
+    {
+      "name": "Jerry",
+      "email": "my@crazywong.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "hexo-theme-butterfly",
+    "fileMap": [
+      {
+        "basePath": "source",
+        "files": [
+          "js/**/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/main.js"
+}
