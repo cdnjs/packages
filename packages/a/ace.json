@@ -2,7 +2,7 @@
   "name": "ace",
   "filename": "ace.js",
   "description": "Ace (Ajax.org Cloud9 Editor)",
-  "homepage": "http://ace.ajax.org/",
+  "homepage": "https://ace.c9.io/",
   "keywords": [
     "code",
     "editor"
