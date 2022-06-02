@@ -21,9 +21,9 @@
     "target": "disqusjs",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "dist/browser",
         "files": [
-          "*.@(js|css)"
+          "**/*.@(js|css)"
         ]
       }
     ]
