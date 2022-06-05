@@ -1,0 +1,36 @@
+{
+  "name": "Cuckoo",
+  "description": "A blog theme based on Typecho",
+  "keywords": [
+    "cuckoo",
+    "blog"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/bhaoo/Cuckoo",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bhaoo/Cuckoo.git"
+  },
+  "authors": [
+    {
+      "name": "Bhao"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/bhaoo/Cuckoo.git",
+    "fileMap": [
+      {
+        "basePath": "assets",
+        "files": [
+          "css/*.css",
+          "js/*.js",
+          "fonts/**/*.@(woff|woff2)",
+          "icons/**/*.@(woff|woff2)",
+          "images/*.@(png|jpg|jpeg|gif)"
+        ]
+      }
+    ]
+  },
+  "filename": "js/cuckoo.min.js"
+}
