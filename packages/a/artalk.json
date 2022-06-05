@@ -13,9 +13,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ArtalkJS/Artalk.git",
-    "directory": "packages/artalk"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "qwqcode"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "artalk",
