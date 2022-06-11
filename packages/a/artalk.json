@@ -1,0 +1,35 @@
+{
+  "name": "artalk",
+  "description": "A Selfhosted Comment System",
+  "keywords": [
+    "comment-system",
+    "comments-widget",
+    "comment",
+    "comments",
+    "blog"
+  ],
+  "license": "LGPL-3.0",
+  "homepage": "https://artalk.js.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtalkJS/Artalk.git"
+  },
+  "authors": [
+    {
+      "name": "qwqcode"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "artalk",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "Artalk.js"
+}
