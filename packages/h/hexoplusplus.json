@@ -1,8 +1,6 @@
 {
     "name": "hexoplusplus",
-    "version": "0.1.0",
     "description": "A Serverless Hexo Back DashBoard",
-    "main": "index.js",
     "autoupdate": {
         "source": "npm",
         "target": "hexoplusplus",
@@ -16,7 +14,7 @@
             }
         ]
     },
-    "author": [
+    "authors": [
         {
             "name": "ChenYFan",
             "email": "chen2778754364@foxmail.com"
@@ -31,8 +29,5 @@
         "Hexo",
         "BackDashboard"
     ],
-    "bugs": {
-        "url": "https://github.com/HexoPlusPlus/HexoPlusPlus/issues"
-    },
     "homepage": "https://github.com/HexoPlusPlus/HexoPlusPlus#readme"
 }
