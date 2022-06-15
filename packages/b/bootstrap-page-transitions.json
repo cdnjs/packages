@@ -23,7 +23,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
-    "target": "@mdbootstrap/bootstrap-page-transitions",
+    "target": "bootstrap-page-transitions",
     "fileMap": [
       {
         "basePath": "css",
