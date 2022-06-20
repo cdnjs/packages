@@ -1,0 +1,43 @@
+{
+  "name": "bootstrap-page-transitions",
+  "filename": "bootstrap-page-transitions.min.css",
+  "description": "Stunning collection of Page transitions built with the newest Bootstrap 5. Transitions on scroll, animations on click, fading animations.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "animation",
+    "responsive-design",
+    "transition-animation",
+    "bootstrap5-template",
+    "animations",
+    "page-transitions",
+    "fadein-fadeout",
+    "card-animation"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/page-transitions/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-page-transitions"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-page-transitions",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-page-transitions*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}
