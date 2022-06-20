@@ -1,0 +1,36 @@
+{
+  "name": "argon-dashboard-django",
+  "description": "Template project - Django Boilerplate Code ",
+  "keywords": [
+    "django",
+    "argon-design",
+    "open-source",
+    "creative-tim",
+    "appseed"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.creative-tim.com/product/argon-dashboard-django",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creativetimofficial/argon-dashboard-django.git"
+  },
+  "authors": [
+    {
+      "name": "Creative-Tim / AppSeed.us"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/creativetimofficial/argon-dashboard-django.git",
+    "fileMap": [
+      {
+        "basePath": "apps/static/assets",
+        "files": [
+          "css/argon*.css",
+          "js/argon*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "css/argon.min.css"
+}
