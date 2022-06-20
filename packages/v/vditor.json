@@ -26,7 +26,8 @@
       {
         "basePath": "dist",
         "files": [
-          "*.@(css|js)"
+          "*.@(css|js)",
+          "@(js|css)/**/*.@(js|css|ttf|woff|woff2)"
         ]
       }
     ]
