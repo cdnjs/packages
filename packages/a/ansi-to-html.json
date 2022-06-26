@@ -1,0 +1,34 @@
+{
+  "name": "ansi-to-html",
+  "description": "Convert ansi escaped text streams to html.",
+  "keywords": [
+    "ansi",
+    "html"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rburns/ansi-to-html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rburns/ansi-to-html.git"
+  },
+  "authors": [
+    {
+      "name": "Rob Burns",
+      "email": "rburns@paiges.net",
+      "url": "http://rburns.paiges.net/"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "ansi-to-html",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "ansi_to_html.js"
+        ]
+      }
+    ]
+  },
+  "filename": "ansi_to_html.js"
+}
