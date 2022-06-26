@@ -1,7 +1,11 @@
 {
   "name": "react-if",
   "description": "🌗 Render React components conditionally",
-  "keywords": [],
+  "keywords": [
+    "react",
+    "component",
+    "conditional"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/romac/react-if",
   "repository": {
