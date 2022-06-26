@@ -1,0 +1,35 @@
+{
+  "name": "leaflet-extra-markers",
+  "description": "Custom Markers for Leaflet JS based on Awesome Markers",
+  "keywords": [
+    "leaflet-js",
+    "marker"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/coryasilva/Leaflet.ExtraMarkers#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coryasilva/Leaflet.ExtraMarkers.git"
+  },
+  "authors": [
+    {
+      "name": "coryasilva",
+      "email": "https://github.com/coryasilva"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "leaflet-extra-markers",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "css/*.css",
+          "img/*.png",
+          "js/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "css/leaflet.extra-markers.min.css"
+}
