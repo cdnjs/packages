@@ -27,7 +27,7 @@
           "js/*.js",
           "fonts/**/*.@(woff|woff2)",
           "icons/**/*.@(woff|woff2)",
-          "images/*.@(png|jpg|jpeg|gif)"
+          "images/*.@(png|jpg|jpeg|gif|ico)"
         ]
       }
     ]
