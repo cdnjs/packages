@@ -1,13 +1,16 @@
 {
   "name": "pretendard-jp",
-  "description": "",
-  "keywords": [],
+  "description": "A system-ui alternative font for all cross-platform",
+  "keywords": [
+    "font",
+    "fonts",
+    "typeface"
+  ],
   "license": "OFL-1.1",
   "homepage": "https://cactus.tistory.com/306",
   "repository": {
     "type": "git",
-    "url": "https://github.com/orioncactus/pretendard",
-    "directory": "packages/pretendard-jp"
+    "url": "https://github.com/orioncactus/pretendard"
   },
   "authors": [
     {
