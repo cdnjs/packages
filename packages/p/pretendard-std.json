@@ -1,0 +1,35 @@
+{
+  "name": "pretendard-std",
+  "description": "",
+  "keywords": [],
+  "license": "OFL-1.1",
+  "homepage": "https://cactus.tistory.com/306",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orioncactus/pretendard",
+    "directory": "packages/pretendard-std"
+  },
+  "authors": [
+    {
+      "name": "Kil Hyung-jin",
+      "email": "orioncactus@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "pretendard-std",
+    "fileMap": [
+      {
+        "basePath": "dist/web",
+        "files": [
+          "static/*.css",
+          "static/@(woff|woff-dynamic-subset)/*.woff",
+          "static/@(woff2|woff2-dynamic-subset)/*.woff2",
+          "variable/*.css",
+          "variable/woff2/*.woff2"
+        ]
+      }
+    ]
+  },
+  "filename": "static/pretendard-std.css"
+}
