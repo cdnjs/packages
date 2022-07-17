@@ -1,0 +1,35 @@
+{
+  "name": "heic2any",
+  "description": "Converting HEIC/HEIF to PNG/JPEG/GIF in the browser",
+  "keywords": [
+    "HEIC",
+    "HEIF",
+    "PNG",
+    "image",
+    "conversion"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alexcorvi/heic2any#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcorvi/heic2any.git"
+  },
+  "authors": [
+    {
+      "name": "Alex Corvi"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "heic2any",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "heic2any.min.js"
+}
