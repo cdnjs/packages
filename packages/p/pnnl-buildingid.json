@@ -1,7 +1,11 @@
 {
   "name": "pnnl-buildingid",
   "description": "Unique Building Identification (UBID) for JavaScript",
-  "keywords": [],
+  "keywords": [
+    "buildingid",
+    "identification",
+    "pnnl"
+  ],
   "license": "BSD-2-Clause",
   "homepage": "https://buildingid.pnnl.gov/",
   "repository": {
