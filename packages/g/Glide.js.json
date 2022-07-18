@@ -21,20 +21,22 @@
     "url": "https://github.com/glidejs/glide"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/glidejs/glide.git",
+    "source": "npm",
+    "target": "@glidejs/glide",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/!(*.esm.*)"
+          "*.js",
+          "css/*.css"
         ]
       }
     ]
   },
   "authors": [
     {
-      "name": "@jedrzejchalubek"
+      "name": "Jędrzej Chałubek",
+      "url": "https://github.com/jedrzejchalubek"
     }
   ]
 }
