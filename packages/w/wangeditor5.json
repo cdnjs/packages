@@ -20,7 +20,8 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js?(.map)",
+          "css/*.css"
         ]
       }
     ]
