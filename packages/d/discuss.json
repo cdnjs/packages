@@ -32,7 +32,8 @@
       {
         "basePath": "",
         "files": [
-          "dist/*",
+          "dist/*.js",
+          "dist/*.js.map",
           "assets/@(emot|img)/*.png",
           "assets/svg/*.svg"
         ]
