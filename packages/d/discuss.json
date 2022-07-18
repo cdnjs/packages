@@ -33,7 +33,8 @@
         "basePath": "",
         "files": [
           "dist/*",
-          "assets/*"
+          "assets/@(emot|img)/*.png",
+          "assets/svg/*.svg"
         ]
       }
     ]
