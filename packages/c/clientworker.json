@@ -1,6 +1,6 @@
 {
     "name": "clientworker",
-    "filename": "./dist/cw.js",
+    "filename": "dist/cw.js",
     "description": "A simple, globally hijacked, easily customizable, Service Worker-based front-end worker",
     "homepage": "https://clientworker.js.org",
     "repository": {
