@@ -1,0 +1,36 @@
+{
+  "name": "wangeditor5",
+  "filename": "index.js",
+  "description": "wangEditor5, Open source web rich text editor, run right out of the box, config simply.",
+  "homepage": "https://www.wangeditor.com/",
+  "keywords": [
+    "wangEditor",
+    "editor",
+    "richi text editor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangeditor-team/wangEditor"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@wangeditor/editor",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)",
+          "css/*.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "wangfupeng1988",
+      "email": "wangfupeng1988@163.com",
+      "url": "https://github.com/wangfupeng1988"
+    }
+  ]
+}
