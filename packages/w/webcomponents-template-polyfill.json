@@ -30,9 +30,10 @@
     "target": "@webcomponents/template",
     "fileMap": [
       {
-        "basePath": ".",
+        "basePath": "",
         "files": [
-          "*.@(js|ts|map)"
+          "*.js?(.map)",
+          "externs/*.d.ts"
         ]
       }
     ]
