@@ -1,15 +1,16 @@
 {
   "name": "Glide.js",
-  "description": "Simple, lightweight and fast jQuery slider",
+  "description": "A lightweight, flexible, fast and dependency-free JavaScript ES6 slider and carousel",
   "filename": "glide.min.js",
-  "homepage": "http://glide.jedrzejchalubek.com",
+  "homepage": "https://glidejs.com",
   "license": "MIT",
   "keywords": [
-    "simple",
     "lightweight",
+    "flexible",
     "fast",
     "slider",
-    "jQuery",
+    "vanilla",
+    "ES6",
     "CSS3",
     "transitions",
     "touch",
@@ -17,23 +18,25 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jedrzejchalubek/Glide.js.git"
+    "url": "https://github.com/glidejs/glide"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/jedrzejchalubek/Glide.js.git",
+    "source": "npm",
+    "target": "@glidejs/glide",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/!(*.esm.*)"
+          "*.js",
+          "css/*.css"
         ]
       }
     ]
   },
   "authors": [
     {
-      "name": "@jedrzejchalubek"
+      "name": "Jędrzej Chałubek",
+      "url": "https://github.com/jedrzejchalubek"
     }
   ]
 }
