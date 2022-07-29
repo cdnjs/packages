@@ -20,7 +20,7 @@
       {
         "basePath": "",
         "files": [
-          "**/*.js"
+          "@(dist|main|doc\/docs\/\.vitepress\/dist)/*.js"
         ]
       }
     ]
