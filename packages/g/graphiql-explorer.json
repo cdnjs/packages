@@ -1,0 +1,25 @@
+{
+  "name": "graphiql-explorer",
+  "description": "Interactive explorer plugin for GraphiQL.",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "https://github.com/onegraph/graphiql-explorer",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/onegraph/graphiql-explorer.git"
+  },
+  "authors": [],
+  "autoupdate": {
+    "source": "npm",
+    "target": "graphiql-explorer",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "graphiqlExplorer?(.min).js"
+        ]
+      }
+    ]
+  },
+  "filename": "graphiqlExplorer.min.js"
+}
