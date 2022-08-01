@@ -1,0 +1,27 @@
+{
+    "name": "albe-web-components",
+    "filename": "albe-web-components.min.js",
+    "description": "Zanichelli Editore Design System library",
+    "homepage": "https://github.com/ZanichelliEditore/design-system",
+    "keywords": [
+      "Zanichelli",
+      "albe-web-components"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ZanichelliEditore/design-system.git"
+    },
+    "license": "MIT",
+    "autoupdate": {
+      "source": "npm",
+      "target": "@zanichelli/albe-web-components",
+      "fileMap": [
+        {
+          "basePath": "",
+          "files": [
+            "**/*"
+          ]
+        }
+      ]
+    }
+  }
