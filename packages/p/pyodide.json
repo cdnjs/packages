@@ -11,7 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/pyodide/pyodide.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "pyodide contributors",
+      "url": "https://github.com/pyodide/pyodide/graphs/contributors"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "pyodide",
