@@ -1,7 +1,10 @@
 {
   "name": "chiron-hei-hk",
   "description": "昭源黑體：現代筆形風格，平衡標準字形和印刷體慣用筆形的免費開源黑體字型",
-  "keywords": [],
+  "keywords": [
+    "font",
+    "hei"
+  ],
   "license": "OFL-1.1",
   "homepage": "https://chiron-fonts.github.io/",
   "repository": {
