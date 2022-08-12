@@ -25,11 +25,11 @@
       {
         "basePath": "",
         "files": [
-          "otf/*.otf",
-          "ttf/*.ttf",
-          "var/*.@(otf|ttf)",
-          "webfont/css/*.css",
-          "webfont/woff2/*.woff2"
+          "OTF/*.otf",
+          "TTF/*.ttf",
+          "VAR/*.@(otf|ttf)",
+          "WEBFONT/css/*.css",
+          "WEBFONT/woff2/*.woff2"
         ]
       }
     ]
