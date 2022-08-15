@@ -29,7 +29,7 @@
       {
         "basePath": "umd",
         "files": [
-          "*.js"
+          "*.js?(.map)"
         ]
       }
     ],
