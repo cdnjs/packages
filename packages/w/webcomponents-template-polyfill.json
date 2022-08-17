@@ -1,0 +1,47 @@
+{
+  "name": "webcomponents-template-polyfill",
+  "description": "HTML template element polyfill.",
+  "keywords": [
+    "component",
+    "dom",
+    "html5",
+    "ie",
+    "ie9",
+    "ie10",
+    "ie11",
+    "internet explorer",
+    "javascript",
+    "js",
+    "legacy",
+    "polyfill",
+    "runtime",
+    "template",
+    "web"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/webcomponents/polyfills/tree/master/packages/template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://webcomponents@github.com/webcomponents/polyfills.git"
+  },
+  "filename": "template.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@webcomponents/template",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js?(.map)",
+          "externs/*.d.ts"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "The Polymer Project Authors",
+      "url": "https://polymer.github.io/AUTHORS.txt"
+    }
+  ]
+}

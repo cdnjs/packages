@@ -1,9 +1,9 @@
 {
-  "name": "flag-icon-css",
+  "name": "flag-icons",
   "filename": "css/flag-icons.min.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lipis/flag-icon-css"
+    "url": "https://github.com/lipis/flag-icons"
   },
   "keywords": [
     "svg",
@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lipis/flag-icon-css.git",
+    "target": "git://github.com/lipis/flag-icons.git",
     "fileMap": [
       {
         "basePath": "",
@@ -24,7 +24,7 @@
     ]
   },
   "license": "MIT",
-  "description": "This package has been renamed to flag-icons",
+  "description": ":flags: A collection of all country flags in SVG — plus the CSS for easier integration",
   "authors": [
     {
       "name": "Panayiotis Lipiridis",

@@ -1,0 +1,34 @@
+{
+  "name": "pnnl-buildingid",
+  "description": "Unique Building Identification (UBID) for JavaScript",
+  "keywords": [
+    "buildingid",
+    "identification",
+    "pnnl"
+  ],
+  "license": "BSD-2-Clause",
+  "homepage": "https://buildingid.pnnl.gov/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnnl/buildingid-js.git"
+  },
+  "authors": [
+    {
+      "name": "Mark Borkum",
+      "email": "mark.borkum@pnnl.gov"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "pnnl-buildingid",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "pnnl-buildingid.js"
+        ]
+      }
+    ]
+  },
+  "filename": "pnnl-buildingid.js"
+}

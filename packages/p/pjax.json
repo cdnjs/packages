@@ -1,0 +1,36 @@
+{
+  "name": "pjax",
+  "description": "Easily enable fast AJAX navigation on any website (using pushState + XHR)",
+  "keywords": [
+    "pjax",
+    "pushstate",
+    "ajax",
+    "navigation",
+    "transition",
+    "animation"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MoOx/pjax#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoOx/pjax.git"
+  },
+  "authors": [
+    {
+      "name": "Maxime Thirouin"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "pjax",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "pjax*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "pjax.min.js"
+}

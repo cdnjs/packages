@@ -8,10 +8,10 @@
     "vue"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/Lete114/Discuss#readme",
+  "homepage": "https://discuss.js.org",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lete114/Discuss.git"
+    "url": "git+https://github.com/discussjs/discuss.git"
   },
   "authors": [
     {
@@ -19,17 +19,25 @@
       "url": "https://www.imlete.cn"
     }
   ],
+  "optimization": {
+    "js": false,
+    "css": false,
+    "png": false,
+    "jpg": false
+  },
   "autoupdate": {
     "source": "npm",
     "target": "discuss",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "*.js"
+          "dist/*.js?(.map)",
+          "assets/@(emot|img)/*.png",
+          "assets/svg/*.svg"
         ]
       }
     ]
   },
-  "filename": "Discuss.js"
+  "filename": "dist/discuss.js"
 }
