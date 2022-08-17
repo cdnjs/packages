@@ -23,10 +23,10 @@
     "async",
     "no-jquery"
   ],
-  "homepage": "https://verlok.github.io/lazyload",
+  "homepage": "https://www.andreaverlicchi.eu/vanilla-lazyload/",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/verlok/lazyload.git",
+    "source": "npm",
+    "target": "vanilla-lazyload",
     "fileMap": [
       {
         "basePath": "dist",
