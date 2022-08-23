@@ -1,21 +1,22 @@
 {
   "name": "goodshare.js",
   "filename": "goodshare.min.js",
-  "description": "Useful jQuery plugin that will help your website visitors share a link on social networks and microblogs or mobile messengers. Easy to install and configuring on any of your website!",
+  "description": "Useful modern JavaScript solution for share a link from your website to social networks or mobile messengers.",
   "keywords": [
-    "goodshare",
-    "jQuery plugin",
-    "link share"
+    "share count",
+    "social share",
+    "social network share count",
+    "share link"
   ],
-  "homepage": "http://goodshare.ru/",
+  "homepage": "https://goodshare.js.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/enjoyiacm/goodshare.js.git"
+    "url": "git+https://github.com/koddr/goodshare.js.git"
   },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/enjoyiacm/goodshare.js.git",
+    "target": "git://github.com/koddr/goodshare.js.git",
     "fileMap": [
       {
         "basePath": "",
@@ -27,7 +28,7 @@
   },
   "authors": [
     {
-      "name": "enjoyiacm"
+      "name": "Vic Shóstak"
     }
   ]
 }
