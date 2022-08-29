@@ -15,14 +15,24 @@
     "type": "git",
     "url": "git+https://github.com/dsrkafuu/sakana-widget.git"
   },
-  "authors": [{ "name": "DSRKafuU" }, { "name": "itorr" }],
+  "authors": [
+    {
+      "name": "DSRKafuU"
+    },
+    {
+      "name": "itorr"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "sakana-widget",
     "fileMap": [
       {
         "basePath": "lib",
-        "files": ["*.js?(.map)", "**/*.d.ts"]
+        "files": [
+          "*.js?(.map)",
+          "**/*.d.ts"
+        ]
       }
     ]
   },
