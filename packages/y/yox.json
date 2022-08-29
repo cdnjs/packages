@@ -18,7 +18,8 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "@(legacy|standard)/@(dev|prod|pure|runtime)/*.js?(.map)",
+          "*.d.ts"
         ]
       }
     ]
