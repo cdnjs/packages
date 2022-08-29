@@ -17,7 +17,14 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js",
+          "*.js.map",
+          "*.css",
+          "img/*.png",
+          "font/*.eot",
+          "font/*.svg",
+          "font/*.ttf",
+          "font/*.woff"
         ]
       }
     ]
