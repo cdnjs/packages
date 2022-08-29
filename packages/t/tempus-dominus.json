@@ -25,9 +25,7 @@
         "basePath": "dist",
         "files": [
           "css/*.css",
-          "js/*.js",
-          "locales/*.js",
-          "plugins/*.js"
+          "@(js|locales|plugins)/*.js"
         ]
       }
     ]
