@@ -1,0 +1,41 @@
+{
+  "name": "bootstrap-profiles",
+  "filename": "bootstrap-profiles.min.css",
+  "description": "Responsive Profiles built with Bootstrap 5. Lots of templates such as card profile, user profile, profile form, with followers, avatars, comments, stats, social media and many more.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "cards",
+    "responsive-design",
+    "profiles",
+    "bootstrap5-template",
+    "bootstrap-profiles",
+    "bootstrap-cards"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/profiles/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-profiles"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-profiles",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-profiles*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}
