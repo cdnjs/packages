@@ -1,0 +1,26 @@
+{
+  "name": "activate-power-mode",
+  "description": "Activate POWER MODE anywhere",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "",
+  "repository": {},
+  "authors": [
+    {
+      "name": "JongChan Choi"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "activate-power-mode",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "activate-power-mode.js"
+}
