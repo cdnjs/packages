@@ -27,9 +27,9 @@
       {
         "basePath": "dist",
         "files": [
-          "*.+(js|map)",
-          "light/*.+(js|map)",
-          "minimal/*.+(js|map)"
+          "*.js?(.map)",
+          "light/*.js?(.map)",
+          "minimal/*.js?(.map)"
         ]
       }
     ]
