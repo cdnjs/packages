@@ -1,5 +1,5 @@
 {
-  "name": "protobuf.js",
+  "name": "protobufjs",
   "filename": "protobuf.js",
   "description": "protobuf.js is a pure JavaScript implementation with TypeScript support for node.js and the browser.",
   "keywords": [
