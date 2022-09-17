@@ -1,7 +1,10 @@
 {
   "name": "hanabi",
   "description": "Highlight any code, in a colorful way.",
-  "keywords": [],
+  "keywords": [
+    "highlight",
+    "code"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/egoist/hanabi#readme",
   "repository": {
