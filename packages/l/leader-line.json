@@ -1,0 +1,40 @@
+{
+  "name": "leader-line",
+  "description": "Draw a leader line in your web page.",
+  "keywords": [
+    "leader",
+    "line",
+    "markup",
+    "arrow",
+    "attention",
+    "highlight",
+    "spotlight",
+    "bubble",
+    "svg"
+  ],
+  "license": "MIT",
+  "homepage": "https://anseki.github.io/leader-line/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anseki/leader-line.git"
+  },
+  "authors": [
+    {
+      "name": "anseki",
+      "url": "https://github.com/anseki"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "leader-line",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "leader-line.min.js"
+        ]
+      }
+    ]
+  },
+  "filename": "leader-line.min.js"
+}
