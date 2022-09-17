@@ -1,0 +1,32 @@
+{
+  "name": "artitalk",
+  "description": "基于leancloud实现的静态页面可实时发布说说/微语的js",
+  "keywords": [
+    "静态"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Drew233/Artitalk#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drew233/Artitalk.git"
+  },
+  "authors": [
+    {
+      "name": "Uncle_drew"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "artitalk",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "css/*.css",
+          "js/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/artitalk.min.js"
+}
