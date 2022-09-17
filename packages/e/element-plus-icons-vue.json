@@ -11,10 +11,14 @@
   "homepage": "https://element-plus.org/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/element-plus/element-plus-icons.git",
-    "directory": "packages/vue"
+    "url": "git+https://github.com/element-plus/element-plus-icons.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "element-plus-icons contributors",
+      "url": "https://github.com/element-plus/element-plus-icons/graphs/contributors"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "@element-plus/icons-vue",
