@@ -1,0 +1,33 @@
+{
+  "name": "miaoyan",
+  "description": "Lightweight Markdown app to help you write great sentences.",
+  "filename": "index.min.js",
+  "keywords": [
+    "MiaoYan",
+    "Markdown"
+  ],
+  "homepage": "https://miaoyan.app/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tw93/MiaoYan.git"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/tw93/MiaoYan.git",
+    "fileMap": [
+      {
+        "basePath": "Resources",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Tw93",
+      "email": "Tw93@qq.com"
+    }
+  ]
+}
