@@ -20,8 +20,8 @@
     }
   ],
   "autoupdate": {
-    "source": "npm",
-    "target": "flying-pages",
+    "source": "git",
+    "target": "git+https://github.com/gijo-varghese/flying-pages.git",
     "fileMap": [
       {
         "basePath": "",
