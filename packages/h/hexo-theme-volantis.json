@@ -24,11 +24,12 @@
     "target": "hexo-theme-volantis",
     "fileMap": [
       {
-        "basePath": "source/js",
+        "basePath": "source",
         "files": [
-          "**/*.js"
+          "js/**/*.js"
         ]
       }
     ]
-  }
+  },
+  "filename": "js/app.js"
 }
