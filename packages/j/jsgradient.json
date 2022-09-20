@@ -1,0 +1,20 @@
+{
+  "name": "JSGradient",
+  "filename": "jsgradient.min.js",
+  "description": "Simple JavaScript package for developers to generate gradient colors. It generates list of colors between 2 colors as hex code.",
+  "homepage": "https://github.com/vishwas-r/JSGradient",
+  "keywords": [
+    "gradient",
+    "gradient generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishwas-r/JSGradient"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vishwas R"
+    }
+  ]
+}
