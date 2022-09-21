@@ -12,6 +12,18 @@
     "url": "https://github.com/vishwas-r/JSGradient"
   },
   "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jsgradient",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "jsgradient.min.js"
+        ]
+      }
+    ]
+  },
   "authors": [
     {
       "name": "Vishwas R"
