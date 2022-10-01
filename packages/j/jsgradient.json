@@ -1,5 +1,5 @@
 {
-  "name": "JSGradient",
+  "name": "jsgradient",
   "filename": "jsgradient.min.js",
   "description": "Simple JavaScript package for developers to generate gradient colors. It generates list of colors between 2 colors as hex code.",
   "homepage": "https://github.com/vishwas-r/JSGradient",
