@@ -1,0 +1,35 @@
+{
+  "name": "element-plus-icons-vue",
+  "description": "Vue components of Element Plus Icons collection.",
+  "keywords": [
+    "icon",
+    "svg",
+    "vue",
+    "element-plus"
+  ],
+  "license": "MIT",
+  "homepage": "https://element-plus.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/element-plus/element-plus-icons.git"
+  },
+  "authors": [
+    {
+      "name": "element-plus-icons contributors",
+      "url": "https://github.com/element-plus/element-plus-icons/graphs/contributors"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@element-plus/icons-vue",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|cjs)?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "index.min.js"
+}
