@@ -1,0 +1,35 @@
+{
+  "name": "hexo-theme-volantis",
+  "description": "Elegant and powerful theme for Hexo.",
+  "keywords": [
+    "hexo",
+    "theme",
+    "volantis"
+  ],
+  "license": "MIT",
+  "homepage": "https://volantis.js.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volantis-x/hexo-theme-volantis.git"
+  },
+  "authors": [
+    {
+      "name": "Volantis X",
+      "email": "support@vlts.cc",
+      "url": "https://github.com/volantis-x/"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "hexo-theme-volantis",
+    "fileMap": [
+      {
+        "basePath": "source",
+        "files": [
+          "js/**/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/app.js"
+}
