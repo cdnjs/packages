@@ -1,0 +1,33 @@
+{
+  "name": "googlemaps-js-api-loader",
+  "description": "Wrapper for the loading of Google Maps JavaScript API script in the browser",
+  "keywords": [
+    "google",
+    "maps"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/googlemaps/js-api-loader",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/googlemaps/js-api-loader.git"
+  },
+  "authors": [
+    {
+      "name": "Justin Poehnelt"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@googlemaps/js-api-loader",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)",
+          "*.d.ts"
+        ]
+      }
+    ]
+  },
+  "filename": "index.min.js"
+}
