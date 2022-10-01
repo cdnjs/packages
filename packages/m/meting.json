@@ -1,0 +1,37 @@
+{
+  "name": "meting",
+  "description": "Wow, such a beautiful html5 music player (with Meting API)",
+  "keywords": [
+    "player",
+    "music",
+    "api",
+    "meting",
+    "html5"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/metowolf/MetingJS",
+  "repository": {
+    "url": "git+https://github.com/metowolf/MetingJS.git",
+    "type": "git"
+  },
+  "authors": [
+    {
+      "name": "metowolf",
+      "email": "i@i-meto.com",
+      "url": "https://i-meto.com/"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "meting",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "Meting.min.js"
+}
