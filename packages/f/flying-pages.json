@@ -1,0 +1,35 @@
+{
+  "name": "flying-pages",
+  "description": "Load inner pages instantly, intelligently!",
+  "keywords": [
+    "flying-pages",
+    "preload",
+    "fast",
+    "performance",
+    "speed"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/gijo-varghese/flying-pages#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gijo-varghese/flying-pages.git"
+  },
+  "authors": [
+    {
+      "name": "Gijo Varghese"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git+https://github.com/gijo-varghese/flying-pages.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "flying-pages?(.min).js"
+        ]
+      }
+    ]
+  },
+  "filename": "flying-pages.min.js"
+}
