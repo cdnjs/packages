@@ -1,0 +1,31 @@
+{
+  "name": "activate-power-mode",
+  "description": "Activate POWER MODE anywhere",
+  "keywords": [
+    "power mode"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/disjukr/activate-power-mode#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disjukr/activate-power-mode.git"
+  },
+  "authors": [
+    {
+      "name": "JongChan Choi"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "activate-power-mode",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "activate-power-mode.js"
+}
