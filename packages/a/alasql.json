@@ -30,8 +30,8 @@
   ],
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/AlaSQL/alasql.git",
+    "source": "npm",
+    "target": "alasql",
     "fileMap": [
       {
         "basePath": "dist",
