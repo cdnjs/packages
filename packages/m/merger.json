@@ -27,7 +27,9 @@
         "basePath": "assets",
         "files": [
           "js/*.js",
-          "styles/*.css"
+          "styles/*.css",
+          "bundles/*.js",
+          "bundles/*.css"
         ]
       }
     ]
