@@ -34,7 +34,7 @@
     "target": "carrierjs",
     "fileMap": [
       {
-        "basePath": "/",
+        "basePath": "",
         "files": [
           "carrier.js"
         ]
