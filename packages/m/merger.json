@@ -27,10 +27,12 @@
         "basePath": "assets",
         "files": [
           "js/*.js",
-          "styles/*.css"
+          "styles/*.css",
+          "bundles/*.js",
+          "bundles/*.css"
         ]
       }
     ]
   },
-  "filename": "js/function.min.js"
+  "filename": "bundles/function.main.js"
 }
