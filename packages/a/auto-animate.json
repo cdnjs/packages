@@ -1,0 +1,38 @@
+{
+  "name": "auto-animate",
+  "description": "Add motion to your apps with a single line of code.",
+  "keywords": [
+    "animation",
+    "transition",
+    "react",
+    "vue",
+    "angular",
+    "svelte"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/formkit/auto-animate#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formkit/auto-animate.git"
+  },
+  "authors": [
+    {
+      "name": "Justin Schroeder",
+      "email": "justin@formkit.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@formkit/auto-animate",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|mjs|d.ts)",
+          "@(angular|react|vue)/*.@(js|mjs|d.ts)"
+        ]
+      }
+    ]
+  },
+  "filename": "index.min.js"
+}
