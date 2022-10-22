@@ -21,7 +21,8 @@
       {
         "basePath": "",
         "files": [
-          "**/*.+(css|js|map|png|jpg|svg)"
+          "*.@(css|js)",
+          "locale/*.js"
         ]
       }
     ]
