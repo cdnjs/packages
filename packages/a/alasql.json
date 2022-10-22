@@ -4,7 +4,7 @@
   "description": "Versatile SQL database for browser or node. Handles relational data and nested JSON (noSQL). Export to and import from Excel, localStorage or IndexedDB",
   "repository": {
     "type": "git",
-    "url": "https://github.com/agershun/alasql.git"
+    "url": "https://github.com/AlaSQL/alasql.git"
   },
   "keywords": [
     "sql",
@@ -30,8 +30,8 @@
   ],
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/agershun/alasql.git",
+    "source": "npm",
+    "target": "alasql",
     "fileMap": [
       {
         "basePath": "dist",
@@ -46,6 +46,10 @@
     {
       "name": "Andrey Gershun",
       "email": "agershun@gmail.com"
+    },
+    {
+      "name": "Mathias Wulff",
+      "email": "m@rawu.dk"
     }
   ]
 }
