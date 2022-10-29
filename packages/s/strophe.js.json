@@ -18,6 +18,9 @@
           "strophe.min.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "release-1.2.0"
     ]
   },
   "keywords": [

@@ -1,0 +1,36 @@
+{
+  "name": "bootstrap-avatars",
+  "filename": "bootstrap-avatars.min.css",
+  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
+  "keywords": [
+    "bootstrap",
+    "avatar",
+    "bootstrap5",
+    "circle-image-view"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-avatars"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-avatars",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-avatars*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

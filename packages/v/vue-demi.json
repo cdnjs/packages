@@ -1,0 +1,36 @@
+{
+  "name": "vue-demi",
+  "description": "Creates Universal Library for Vue 2 & 3",
+  "keywords": [
+    "vue",
+    "vue2",
+    "vue3",
+    "vue-composition-api",
+    "vue-demi"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/antfu/vue-demi#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antfu/vue-demi.git"
+  },
+  "authors": [
+    {
+      "name": "Anthony Fu",
+      "email": "anthonyfu117@hotmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-demi",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "index.iife.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.iife.js"
+}

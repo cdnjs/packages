@@ -35,6 +35,9 @@
           "gridster*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "v.0.10.4"
     ]
   },
   "license": "MIT",

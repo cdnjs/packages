@@ -1,0 +1,34 @@
+{
+  "name": "wewwitten-javascwipt",
+  "description": "Owoified javascript?",
+  "keywords": [
+    "owo",
+    "owoify",
+    "uwu",
+    "console"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/DrNoSleep/wewwitten-javascwipt#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrNoSleep/wewwitten-javascwipt.git"
+  },
+  "authors": [
+    {
+      "name": "discowod.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "wewwitten-javascwipt",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "chartjs-plugin-streaming",
+  "description": "Chart.js plugin for live streaming data",
+  "keywords": [
+    "chart.js",
+    "plugin",
+    "live",
+    "streaming",
+    "scroll"
+  ],
+  "license": "MIT",
+  "homepage": "https://nagix.github.io/chartjs-plugin-streaming",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagix/chartjs-plugin-streaming.git"
+  },
+  "authors": [
+    {
+      "name": "Akihiko Kusanagi",
+      "email": "nagi@nagi-p.com",
+      "url": "https://nagix.github.io/"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "chartjs-plugin-streaming",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "chartjs-plugin-streaming.min.js"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "oidc-client-ts",
+  "description": "OpenID Connect (OIDC) & OAuth2 client library",
+  "keywords": [
+    "authentication",
+    "oauth2",
+    "oidc",
+    "openid",
+    "OpenID Connect"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/authts/oidc-client-ts#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authts/oidc-client-ts.git"
+  },
+  "authors": [
+    {
+      "name": "authts"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "oidc-client-ts",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "@(browser|esm|umd)/*.js",
+          "types/*.@(d.ts|json)"
+        ]
+      }
+    ]
+  },
+  "filename": "browser/oidc-client-ts.min.js"
+}

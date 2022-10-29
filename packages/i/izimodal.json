@@ -4,7 +4,7 @@
   "description": "Elegant, responsive, flexible and lightweight modal plugin with jQuery.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dolce/iziModal.git"
+    "url": "git+https://github.com/marcelodolza/iziModal.git"
   },
   "keywords": [
     "izimodal",
@@ -17,7 +17,7 @@
     "js"
   ],
   "license": "Apache-2.0",
-  "homepage": "http://izimodal.marcelodolce.com",
+  "homepage": "https://izimodal.marcelodolza.com",
   "autoupdate": {
     "source": "npm",
     "target": "izimodal",
@@ -32,9 +32,9 @@
   },
   "authors": [
     {
-      "name": "Marcelo Dolce",
-      "email": "dolcemarcelo@gmail.com",
-      "url": "http://www.marcelodolce.com"
+      "name": "Marcelo Dolza",
+      "email": "marcelodolza@gmail.com",
+      "url": "https://www.marcelodolza.com/"
     }
   ]
 }

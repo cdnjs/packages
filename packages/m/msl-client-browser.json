@@ -21,6 +21,9 @@
           "mockapi-browser.min.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "msl-client-java-1.0.0"
     ]
   },
   "license": "Apache-2.0",

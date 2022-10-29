@@ -1,0 +1,34 @@
+{
+  "name": "epijs",
+  "description": "A toolset for analyzing and creating epidemiological models",
+  "filename": "index.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/epispot/EpiJS.git"
+  },
+  "keywords": [
+      "disease modeling",
+      "epidemiology",
+      "disease modelling"
+  ],
+  "license": "GPL-3.0-or-later",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/epispot/EpiJS.git",
+    "fileMap": [
+      {
+        "basePath": "web",
+        "files": [
+          "index.min.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Quantalabs",
+      "email": "npm.quantalabs@gmail.com",
+      "url": "https://github.com/Quantalabs"
+    }
+  ]
+}

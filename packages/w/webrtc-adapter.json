@@ -1,11 +1,11 @@
 {
   "name": "webrtc-adapter",
-  "filename": "adapter.min.js",
+  "filename": "adapter.js",
   "description": "A shim to insulate apps from WebRTC spec changes and browser prefix differences",
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "git://github.com/webrtc/adapter.git"
+    "url": "git://github.com/webrtcHacks/adapter.git"
   },
   "keywords": [
     "WebRTC",
@@ -21,12 +21,12 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/webrtc/adapter.git",
+    "target": "git://github.com/webrtcHacks/adapter.git",
     "fileMap": [
       {
         "basePath": "release",
         "files": [
-          "**/!(*.gz)"
+          "*.js"
         ]
       }
     ]

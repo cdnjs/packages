@@ -13,7 +13,7 @@
     "validation",
     "unobtrusive"
   ],
-  "license": "Apache-2.0",
+  "license": "MIT",
   "autoupdate": {
     "source": "npm",
     "target": "jquery-validation-unobtrusive",

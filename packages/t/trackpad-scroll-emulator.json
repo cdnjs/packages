@@ -31,6 +31,9 @@
           "trackpad-scroll-emulator*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "version_1.0"
     ]
   },
   "filename": "jquery.trackpad-scroll-emulator.min.js",

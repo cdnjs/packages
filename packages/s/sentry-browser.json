@@ -1,0 +1,35 @@
+{
+  "name": "sentry-browser",
+  "description": "Official Sentry SDK for browsers",
+  "keywords": [
+    "crash-reporting",
+    "error-monitoring",
+    "sentry",
+    "raven",
+    "sentry-client"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/getsentry/sentry-javascript/tree/master/packages/browser",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/getsentry/sentry-javascript.git"
+  },
+  "authors": [
+    {
+      "name": "Sentry"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@sentry/browser",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "bundle.min.js"
+}

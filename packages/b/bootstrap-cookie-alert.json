@@ -1,0 +1,35 @@
+{
+  "name": "bootstrap-cookie-alert",
+  "description": "A simple, good looking cookie alert built for Bootstrap 4. No dependencies required.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap4",
+    "bootstrap-4",
+    "cookie-alert"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Wruczek/Bootstrap-Cookie-Alert#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wruczek/Bootstrap-Cookie-Alert.git"
+  },
+  "authors": [
+    {
+      "name": "Wruczek",
+      "email": "wruczekk@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-cookie-alert",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "cookiealert.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "cookiealert.js"
+}

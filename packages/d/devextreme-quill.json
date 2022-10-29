@@ -1,8 +1,8 @@
 {
   "name": "devextreme-quill",
   "filename": "dx-quill.min.js",
-  "description": "Core of the DevExtrene HtmlEditor",
-  "homepage": "https://devexpress.com/",
+  "description": "Core of the DevExtreme HtmlEditor",
+  "homepage": "https://js.devexpress.com/",
   "license": "BSD-3-Clause",
   "keywords": [
     "editor",
@@ -12,7 +12,7 @@
   "authors": [
     {
       "name": "Developer Express Inc.",
-      "email": "management@devexpress.com",
+      "email": "js@devexpress.com",
       "url": "https://www.devexpress.com/"
     }
   ],

@@ -1,0 +1,38 @@
+{
+  "name": "pretendard-std",
+  "description": "A system-ui alternative font for all cross-platform",
+  "keywords": [
+    "font",
+    "fonts",
+    "typeface"
+  ],
+  "license": "OFL-1.1",
+  "homepage": "https://cactus.tistory.com/306",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orioncactus/pretendard"
+  },
+  "authors": [
+    {
+      "name": "Kil Hyung-jin",
+      "email": "orioncactus@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "pretendard-std",
+    "fileMap": [
+      {
+        "basePath": "dist/web",
+        "files": [
+          "static/*.css",
+          "static/@(woff|woff-dynamic-subset)/*.woff",
+          "static/@(woff2|woff2-dynamic-subset)/*.woff2",
+          "variable/*.css",
+          "variable/woff2/*.woff2"
+        ]
+      }
+    ]
+  },
+  "filename": "static/pretendard-std.css"
+}

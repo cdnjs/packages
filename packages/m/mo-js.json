@@ -1,6 +1,6 @@
 {
   "name": "mo-js",
-  "filename": "mo.min.js",
+  "filename": "mo.umd.js",
   "description": "motion graphics toolbelt for the web",
   "license": "MIT",
   "keywords": [
@@ -11,25 +11,25 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/legomushroom/mojs.git"
+    "url": "https://github.com/mojs/mojs.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/legomushroom/mojs.git",
+    "source": "npm",
+    "target": "@mojs/core",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "mo*.js"
+          "*.js"
         ]
       }
     ]
   },
   "authors": [
     {
-      "name": "LegoMushroom",
+      "name": "Oleg Solomka",
       "email": "legomushroom@gmail.com",
-      "url": "http://legomushroom.com"
+      "url": "https://twitter.com/legomushroom"
     }
   ]
 }

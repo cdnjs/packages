@@ -28,6 +28,9 @@
           "entireframework.min.css"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.5"
     ]
   },
   "repository": {

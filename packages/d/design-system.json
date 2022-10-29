@@ -21,6 +21,9 @@
           "+(fonts|images|styles|icons)/**/!(*.txt|*.md|*.html|*-sprite|README)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "2.6.0-dev"
     ]
   },
   "authors": [
@@ -28,5 +31,8 @@
       "name": "Salesforce"
     }
   ],
-  "license": "(BSD-3-Clause OR CC-BY-ND-4.0)"
+  "license": "(BSD-3-Clause OR CC-BY-ND-4.0)",
+  "optimization": {
+    "png": false
+  }
 }

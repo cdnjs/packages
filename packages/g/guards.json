@@ -19,6 +19,10 @@
           "guards*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "bootstrap-*",
+      "foundation-*"
     ]
   },
   "repository": {

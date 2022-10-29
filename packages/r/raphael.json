@@ -18,6 +18,9 @@
           "raphael*.+(js|map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "semver"
     ]
   },
   "repository": {

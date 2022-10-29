@@ -30,6 +30,9 @@
           "**/!(*.less)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "2.3.0"
     ]
   },
   "authors": [

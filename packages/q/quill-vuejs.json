@@ -1,0 +1,47 @@
+{
+  "name": "quill-vuejs",
+  "description": "Quill editor component for Vue",
+  "keywords": [
+    "quill-vuejs",
+    "vue quill",
+    "vue text editor",
+    "vue rich text editor",
+    "vue web editor",
+    "vue editor",
+    "vue-quill",
+    "vue 3 quill component",
+    "vue 3 quill editor",
+    "vue 3 text editor",
+    "vue 3 rich text editor",
+    "vue 3 web editor",
+    "vue 3 editor",
+    "vue 3 wysiwyg",
+    "vue 3 wysiwyg editor"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cg0101/quill-vuejs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cg0101/quill-vuejs.git"
+  },
+  "authors": [
+    {
+      "name": "zhangchi",
+      "email": "zhangchi05@kuaishou.com",
+      "url": "https://twitter.com/Terrychinaz"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "quill-vuejs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "quill-vuejs.js"
+}

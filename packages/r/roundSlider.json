@@ -20,13 +20,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
-        ]
-      },
-      {
-        "basePath": "src",
-        "files": [
-          "roundslider*"
+          "*.@(js|css)"
         ]
       }
     ]

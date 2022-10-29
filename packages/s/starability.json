@@ -26,6 +26,9 @@
           "starability-images/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "v.0.1.0"
     ]
   },
   "license": "MIT",

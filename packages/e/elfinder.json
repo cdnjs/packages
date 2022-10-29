@@ -28,6 +28,9 @@
           "sounds/*.wav"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-src"
     ]
   },
   "authors": [

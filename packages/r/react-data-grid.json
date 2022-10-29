@@ -23,6 +23,11 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-*",
+      "*-alpha*",
+      "*-dm*"
     ]
   },
   "authors": [

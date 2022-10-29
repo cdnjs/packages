@@ -13,13 +13,13 @@
     "browserify"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/js-cookie/js-cookie.git",
+    "source": "npm",
+    "target": "js-cookie",
     "fileMap": [
       {
-        "basePath": "src",
+        "basePath": "dist",
         "files": [
-          "js.cookie.js"
+          "*.@(js|mjs)"
         ]
       }
     ]

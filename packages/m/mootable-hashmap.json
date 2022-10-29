@@ -1,0 +1,37 @@
+{
+  "description": "Full featured, fast, HAMT based HashMaps",
+  "filename": "hashmap.js",
+  "homepage": "https://mootable.github.io/hashmap/",
+  "keywords": [
+    "map",
+    "hashmap",
+    "linkedhashmap",
+    "hamt"
+  ],
+  "optimization": {
+    "js": false
+  },
+  "license": "MIT",
+  "name": "mootable-hashmap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mootable/hashmap.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@mootable/hashmap",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Jack Moxley"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "name": "rxjs",
   "filename": "rxjs.umd.min.js",
-  "description": "Library for composing asynchronous and event-based operations in JavaScript",
+  "description": "A reactive programming library for JavaScript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Reactive-Extensions/RxJS.git"
+    "url": "https://github.com/ReactiveX/rxjs.git"
   },
   "keywords": [
     "LINQ",
@@ -17,20 +17,20 @@
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",
-    "target": "@reactivex/rxjs",
+    "target": "rxjs",
     "fileMap": [
       {
-        "basePath": "dist/global",
+        "basePath": "dist/bundles",
         "files": [
-          "**/*"
+          "*.@(js|map)"
         ]
       }
     ]
   },
   "authors": [
     {
-      "name": "Cloud Programmability Team",
-      "url": "https://github.com/Reactive-Extensions/RxJS/blob/master/authors.txt"
+      "name": "Ben Lesh",
+      "url": "https://github.com/benlesh"
     }
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "name": "bootstrap-credit-card-form",
+  "filename": "bootstrap-credit-card.min.css",
+  "description": "Responsive Credit Card Form built with the latest Bootstrap 5. Component to be used in eCommerce projects and checkout pages.",
+  "keywords": [
+    "bootstrap",
+    "responsive",
+    "bootstrap5",
+    "forms",
+    "checkbox",
+    "form",
+    "credit-card",
+    "payments",
+    "responsive-design"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/credit-card/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-credit-card-form"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-credit-card-form",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-credit-card*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

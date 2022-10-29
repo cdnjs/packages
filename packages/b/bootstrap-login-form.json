@@ -1,0 +1,43 @@
+{
+  "name": "bootstrap-login-form",
+  "filename": "bootstrap-login-form.min.css",
+  "description": "Responsive Login form built with Bootstrap 5. Lot of templates of signup forms and predefined form pages - various design, styles and functionalities.",
+  "keywords": [
+    "bootstrap",
+    "template",
+    "bootstrap5",
+    "responsive",
+    "css", 
+    "responsive-design",
+    "login",
+    "bootstrap5-template",
+    "login-forms",
+    "sign-in",
+    "sign-up"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/login/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-login-form"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-login-form",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-login-form*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

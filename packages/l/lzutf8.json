@@ -1,0 +1,37 @@
+{
+  "name": "lzutf8",
+  "description": "A high-performance string compression library",
+  "keywords": [
+    "compression",
+    "string compression",
+    "text compression",
+    "lz77",
+    "utf8",
+    "utf-8"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rotemdan/lzutf8.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rotemdan/lzutf8.js.git"
+  },
+  "authors": [
+    {
+      "name": "Rotem Dan",
+      "email": "rotemdan@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "lzutf8",
+    "fileMap": [
+      {
+        "basePath": "build/production",
+        "files": [
+          "*.@(js|d.ts)"
+        ]
+      }
+    ]
+  },
+  "filename": "lzutf8.min.js"
+}

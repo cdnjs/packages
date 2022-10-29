@@ -1,0 +1,38 @@
+{
+  "name": "scroll-lock",
+  "description": "Cross-browser JavaScript library to disable scrolling page.",
+  "keywords": [
+    "scroll",
+    "scrollbar",
+    "ios",
+    "lock scroll",
+    "disable scroll",
+    "modal",
+    "mobile",
+    "overflow"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/FL3NKEY/scroll-lock#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FL3NKEY/scroll-lock.git"
+  },
+  "authors": [
+    {
+      "name": "FL3N"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "scroll-lock",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "scroll-lock.min.js"
+}

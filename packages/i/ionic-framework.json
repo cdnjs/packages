@@ -27,6 +27,9 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "2.0.0-alpha.2.0.0-alpha.50"
     ]
   },
   "authors": [

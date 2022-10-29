@@ -1,0 +1,31 @@
+{
+  "name": "prism-themes",
+  "description": "Additional themes for the Prism syntax highlighting library.",
+  "keywords": [
+    "prism",
+    "prismjs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/prismjs/prism-themes#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PrismJS/prism-themes.git"
+  },
+  "authors": [
+    {
+      "name": "Lea Verou"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/PrismJS/prism-themes.git",
+    "fileMap": [
+      {
+        "basePath": "themes",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  }
+}

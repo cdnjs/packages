@@ -1,0 +1,35 @@
+{
+  "name": "notyf",
+  "description": "A dead simple, responsive, a11y, dependency-free, vanilla JavaScript toast library.",
+  "keywords": [
+    "javascript",
+    "plugin",
+    "notification",
+    "toast",
+    "notify"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/caroso1222/notyf#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caroso1222/notyf.git"
+  },
+  "authors": [
+    {
+      "name": "Carlos Roso"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "notyf",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "notyf*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "notyf.min.js"
+}

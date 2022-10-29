@@ -18,6 +18,9 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.6.1_"
     ]
   },
   "repository": {

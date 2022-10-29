@@ -10,16 +10,13 @@
   ],
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/niklasvh/html2canvas.git",
+    "source": "npm",
+    "target": "html2canvas",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "html2canvas.js",
-          "html2canvas.min.js",
-          "html2canvas.svg.js",
-          "html2canvas.svg.min.js"
+          "*.js"
         ]
       }
     ]

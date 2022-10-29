@@ -1,6 +1,6 @@
 {
   "name": "signature_pad",
-  "filename": "signature_pad.min.js",
+  "filename": "signature_pad.umd.min.js",
   "description": "Library for drawing smooth signatures.",
   "repository": {
     "type": "git",
@@ -17,10 +17,9 @@
     "target": "signature_pad",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "signature_pad.js",
-          "signature_pad.min.js"
+          "*.js?(.map)"
         ]
       }
     ]

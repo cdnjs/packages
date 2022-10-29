@@ -24,6 +24,9 @@
           "nacl_factory*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "last_plain_nacl_version"
     ]
   },
   "authors": [

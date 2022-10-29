@@ -1,0 +1,36 @@
+{
+  "name": "browser-image-compression",
+  "description": "Compress images in the browser",
+  "keywords": [
+    "image compression",
+    "browser",
+    "image processing",
+    "reduce resolution",
+    "reduce size"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Donaldcwl/browser-image-compression#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donaldcwl/browser-image-compression.git"
+  },
+  "authors": [
+    {
+      "name": "Donald",
+      "email": "donaldcwl@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "browser-image-compression",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|mjs)"
+        ]
+      }
+    ]
+  },
+  "filename": "browser-image-compression.js"
+}

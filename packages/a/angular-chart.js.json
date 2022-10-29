@@ -30,6 +30,9 @@
           "!(*.gz)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "rm"
     ]
   },
   "authors": [

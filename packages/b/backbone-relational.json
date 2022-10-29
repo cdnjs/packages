@@ -25,6 +25,9 @@
           "*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.8.0plus"
     ]
   },
   "authors": [

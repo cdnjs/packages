@@ -1,0 +1,45 @@
+{
+  "name": "pinia",
+  "description": "Intuitive, type safe and flexible Store for Vue",
+  "keywords": [
+    "vue",
+    "vuex",
+    "store",
+    "pinia",
+    "piña",
+    "pigna",
+    "composition",
+    "api",
+    "setup",
+    "typed",
+    "typescript",
+    "ts",
+    "type",
+    "safe"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vuejs/pinia#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/pinia.git"
+  },
+  "authors": [
+    {
+      "name": "Eduardo San Martin Morote",
+      "email": "posva13@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "pinia",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|cjs|mjs|d.ts)"
+        ]
+      }
+    ]
+  },
+  "filename": "pinia.iife.js"
+}

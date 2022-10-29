@@ -1,0 +1,43 @@
+{
+  "name": "bulma-tooltip",
+  "description": "Display a tooltip attached to any kind of element, in different position.",
+  "keywords": [
+    "tooltip",
+    "ui",
+    "component",
+    "extension",
+    "html",
+    "html5",
+    "css3",
+    "sass",
+    "bulma",
+    "bulmaio",
+    "bulma.io"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/CreativeBulma/bulma-tooltip",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreativeBulma/bulma-tooltip.git"
+  },
+  "authors": [
+    {
+      "name": "Gaetan",
+      "email": "support@creativebulma.net",
+      "url": "https://creativebulma.net"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@creativebulma/bulma-tooltip",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  },
+  "filename": "bulma-tooltip.min.css"
+}

@@ -20,6 +20,9 @@
           "js/en-US/*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "release"
     ]
   },
   "license": "MIT",

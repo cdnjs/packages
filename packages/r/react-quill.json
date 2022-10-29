@@ -25,6 +25,9 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "02e9da4"
     ]
   },
   "authors": [

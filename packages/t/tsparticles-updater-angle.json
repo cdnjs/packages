@@ -1,0 +1,76 @@
+{
+  "description": "tsParticles rotation angle updater",
+  "filename": "tsparticles.updater.angle.min.js",
+  "homepage": "https://github.com/matteobruni/tsparticles",
+  "keywords": [
+    "tsparticles",
+    "particles.js",
+    "particlesjs",
+    "particles",
+    "particle",
+    "canvas",
+    "jsparticles",
+    "xparticles",
+    "particles-js",
+    "particles-bg",
+    "particles-bg-vue",
+    "particles-ts",
+    "particles.ts",
+    "react-particles-js",
+    "react-particles.js",
+    "react-particles",
+    "react",
+    "reactjs",
+    "vue-particles",
+    "ngx-particles",
+    "angular-particles",
+    "particleground",
+    "vue",
+    "vuejs",
+    "preact",
+    "preactjs",
+    "jquery",
+    "angularjs",
+    "angular",
+    "typescript",
+    "javascript",
+    "animation",
+    "web",
+    "html5",
+    "web-design",
+    "webdesign",
+    "css",
+    "html",
+    "css3",
+    "animated",
+    "background",
+    "confetti",
+    "fireworks",
+    "fireworks-js",
+    "confetti-js",
+    "confettijs",
+    "fireworksjs",
+    "canvas-confetti"
+  ],
+  "license": "MIT",
+  "name": "tsparticles-updater-angle",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteobruni/tsparticles.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "tsparticles-updater-angle",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": ["tsparticles*.js"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Matteo Bruni"
+    }
+  ]
+}

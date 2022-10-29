@@ -1,7 +1,7 @@
 {
   "name": "vue-tour",
   "filename": "vue-tour.umd.min.js",
-  "description": "state management for Vue.js",
+  "description": "Vue Tour is a lightweight, simple and customizable tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pulsardev/vue-tour.git"
@@ -21,7 +21,8 @@
       {
         "basePath": "dist",
         "files": [
-          "*.js"
+          "*.js",
+          "*.css"
         ]
       }
     ]

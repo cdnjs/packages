@@ -1,0 +1,35 @@
+{
+  "name": "ribbon.js",
+  "filename": "ribbon.min.js",
+  "description": "only 1kb javascript gist to generate a ribbon in your website with HTML5 canvas.",
+  "homepage": "http://aibq.cn/",
+  "license": "MIT",
+  "keywords": [
+    "canvas",
+    "html5",
+    "ribbon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hustcc/ribbon.js"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "ribbon.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "ribbon.min.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "hustcc",
+      "url": "http://aibq.cn/"
+    }
+  ]
+}
+

@@ -1,0 +1,39 @@
+{
+  "name": "patternfly-bootstrap-treeview",
+  "description": "Tree View for Twitter Bootstrap",
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "tree",
+    "treeview",
+    "tree-view",
+    "navigation",
+    "javascript",
+    "jquery",
+    "jquery-plugin"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/patternfly/patternfly-bootstrap-treeview",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/patternfly/patternfly-bootstrap-treeview.git"
+  },
+  "authors": [
+    {
+      "name": "Red Hat"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "patternfly-bootstrap-treeview",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "bootstrap-treeview.min.js"
+}

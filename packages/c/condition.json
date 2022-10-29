@@ -21,6 +21,9 @@
           "condition.min.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.0.1b"
     ]
   },
   "authors": [

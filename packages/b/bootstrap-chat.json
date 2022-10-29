@@ -1,0 +1,38 @@
+{
+    "name": "bootstrap-chat",
+    "filename": "bootstrap-chat.min.css",
+    "description": "Responsive Chat built with Bootstrap 5. Many variants of the chat UI - mobile app, messages box, desktop widget and more.",
+    "keywords": [
+      "bootstrap",
+      "chat",
+      "bootstrap5",
+      "responsive",
+      "mobile-app",
+      "desktop-application"
+    ],
+    "homepage": "https://mdbootstrap.com/docs/standard/extended/chat/",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mdbootstrap/bootstrap-chat"
+    },
+    "license": "MIT",
+    "autoupdate": {
+      "source": "npm",
+      "target": "@mdbootstrap/bootstrap-chat",
+      "fileMap": [
+        {
+          "basePath": "css",
+          "files": [
+            "bootstrap-chat*"
+          ]
+        }
+      ]
+    },
+    "authors": [
+      {
+        "name": "MDBBootstrap",
+        "email": "contact@mdbootstrap.com",
+        "url": "https://mdbootstrap.com/"
+      }
+    ]
+  }

@@ -1,0 +1,40 @@
+{
+  "name": "xsound",
+  "filename": "xsound.js",
+  "description": "XSound gives Web Developers Powerful Audio Features Easily !",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Korilakkuma/XSound"
+  },
+  "keywords": [
+    "XSound",
+    "TypeScript",
+    "JavaScript",
+    "Web Audio API",
+    "Web Audio",
+    "Web Audio API Library",
+    "Web Audio Library",
+    "Web Music"
+  ],
+  "homepage": "https://xsound.jp",
+  "autoupdate": {
+    "source": "npm",
+    "target": "xsound",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "types/**/*.d.ts?(.map)",
+          "xsound.js?(.LICENSE.txt|.map)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Korilakkuma",
+      "email": "rilakkuma.san.xjapan@gmail.com"
+    }
+  ]
+}

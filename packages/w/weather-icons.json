@@ -20,6 +20,10 @@
           "font/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.1endpoint",
+      "1.1ghpagesendpoint"
     ]
   },
   "repository": {

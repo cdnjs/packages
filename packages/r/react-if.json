@@ -1,0 +1,34 @@
+{
+  "name": "react-if",
+  "description": "🌗 Render React components conditionally",
+  "keywords": [
+    "react",
+    "component",
+    "conditional"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/romac/react-if",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romac/react-if.git"
+  },
+  "authors": [
+    {
+      "name": "Romain Ruetschi",
+      "email": "romain.ruetschi@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-if",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "react-if*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "react-if.cjs.production.min.js"
+}

@@ -37,6 +37,9 @@
           "images/*.+(svg|gif)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "v.1.2"
     ]
   },
   "authors": [

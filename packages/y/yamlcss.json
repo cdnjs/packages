@@ -17,6 +17,9 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "rm,"
     ]
   },
   "license": "CC-BY-2.0",

@@ -23,6 +23,9 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.0.2"
     ]
   },
   "authors": [

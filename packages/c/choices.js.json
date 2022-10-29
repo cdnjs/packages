@@ -21,16 +21,15 @@
     "target": "choices.js",
     "fileMap": [
       {
-        "basePath": "assets/scripts/dist",
+        "basePath": "public/assets/scripts",
         "files": [
-          "**/*"
+          "*.js"
         ]
       },
       {
-        "basePath": "assets",
+        "basePath": "public/assets/styles",
         "files": [
-          "styles/css/+(base|choices)*.css",
-          "icons/*.+(svg|png)"
+          "*.css"
         ]
       }
     ]

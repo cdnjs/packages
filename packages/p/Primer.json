@@ -29,6 +29,9 @@
           "*.map"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-alpha*"
     ]
   },
   "authors": [

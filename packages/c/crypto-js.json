@@ -38,6 +38,9 @@
           "**/*.+(js|map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "release-3.1.2*"
     ]
   },
   "authors": [

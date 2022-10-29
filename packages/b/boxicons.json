@@ -1,0 +1,36 @@
+{
+  "name": "boxicons",
+  "description": "High Quality Web Icons",
+  "keywords": [
+    "icon"
+  ],
+  "license": "(CC-BY-4.0 OR OFL-1.1 OR MIT)",
+  "homepage": "https://github.com/atisawd/boxicons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atisawd/boxicons.git"
+  },
+  "authors": [
+    {
+      "name": "Atisa",
+      "email": "atisawd@gmail.com",
+      "url": "https://github.com/atisawd"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "boxicons",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "dist/*.js",
+          "css/*.css",
+          "fonts/*.@(eot|svg|ttf|woff|woff2)",
+          "svg/**/*.svg"
+        ]
+      }
+    ]
+  },
+  "filename": "dist/boxicons.js"
+}

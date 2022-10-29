@@ -1,0 +1,34 @@
+{
+  "name": "timeonsite",
+  "description": "measure your user's Time on site accurately",
+  "keywords": [
+    "tos",
+    "top",
+    "timeonsite",
+    "timeonpage"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/saleemkce/timeonsite#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saleemkce/timeonsite.git"
+  },
+  "authors": [
+    {
+      "name": "Saleem Khan"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/saleemkce/timeonsite.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "timeonsitetracker.*"
+        ]
+      }
+    ]
+  },
+  "filename": "timeonsitetracker.min.js"
+}

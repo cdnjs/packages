@@ -1,0 +1,36 @@
+{
+  "name": "driver-dom",
+  "filename": "driver-dom.min.js",
+  "description": "DOM driver for Rax.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alibaba/rax"
+  },
+  "keywords": [
+    "rax"
+  ],
+  "homepage": "https://rax.js.org/",
+  "autoupdate": {
+    "source": "npm",
+    "target": "driver-dom",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "SoloJiang",
+      "email": "feifeishen1996@gmail.com"
+    },
+    {
+      "name": "imsobear",
+      "email": "sobear.me@gmail.com"
+    }
+  ]
+}

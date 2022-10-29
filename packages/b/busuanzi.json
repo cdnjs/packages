@@ -1,0 +1,32 @@
+{
+  "name": "busuanzi",
+  "description": "仅仅只是一个 不蒜子 计数器的 JS Mirror。",
+  "keywords": [
+    "busuanzi"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/SukkaW/busuanzi#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukkaW/busuanzi.git"
+  },
+  "authors": [
+    {
+      "name": "SukkaW",
+      "email": "isukkaw@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "busuanzi",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "bsz.pure.mini.js"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "asap",
+  "description": "High-priority task queue for Node.js and browsers",
+  "keywords": [
+    "event",
+    "task",
+    "queue"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kriskowal/asap#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kriskowal/asap.git"
+  },
+  "authors": [
+    {
+      "name": "Kris Kowal"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "asap",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "browser-*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "browser-asap.js"
+}

@@ -23,6 +23,9 @@
           "**/!(*.txt|jquery.min.js)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.9.11-rc.1"
     ]
   },
   "authors": [

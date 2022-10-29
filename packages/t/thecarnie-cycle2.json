@@ -1,0 +1,37 @@
+{
+  "name": "thecarnie-cycle2",
+  "description": "An updated version of jquery.cycle2 for Jqery 3.x - 2nd gen cycling",
+  "keywords": [
+    "slideshow",
+    "carousel",
+    "slider"
+  ],
+  "license": "MIT",
+  "homepage": "http://jquery.malsup.com/cycle2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thecarnie/cycle2.git"
+  },
+  "authors": [
+    {
+      "name": "thecarnie"
+    },
+    {
+      "name": "malsup",
+      "email": "malsup@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/thecarnie/cycle2.git",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "{,*/}*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "jquery.cycle2.min.js"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "discuss",
+  "description": "一款简单，安全，免费的评论系统 | A simple, safe, free comment system",
+  "keywords": [
+    "discuss",
+    "comments",
+    "concise",
+    "vue"
+  ],
+  "license": "MIT",
+  "homepage": "https://discuss.js.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/discussjs/discuss.git"
+  },
+  "authors": [
+    {
+      "name": "Lete乐特",
+      "url": "https://www.imlete.cn"
+    }
+  ],
+  "optimization": {
+    "js": false,
+    "css": false,
+    "png": false,
+    "jpg": false
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "discuss",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "dist/*.js?(.map)",
+          "assets/@(emot|img)/*.png",
+          "assets/svg/*.svg"
+        ]
+      }
+    ]
+  },
+  "filename": "dist/discuss.js"
+}

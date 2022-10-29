@@ -21,6 +21,9 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "physicsjs-*"
     ]
   },
   "authors": [

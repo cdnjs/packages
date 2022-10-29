@@ -1,0 +1,43 @@
+{
+  "name": "simple-parallax-js",
+  "description": "simpleParallax is a simple JavaScript library that gives your website parallax animations on any images or videos",
+  "keywords": [
+    "parallax",
+    "javascript",
+    "scroll",
+    "simple",
+    "easy",
+    "fast",
+    "light",
+    "image",
+    "video",
+    "effect",
+    "vanilla",
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "https://simpleparallax.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geosigno/simpleParallax.git"
+  },
+  "authors": [
+    {
+      "name": "Geoffrey Signorato",
+      "email": "geoffrey.signorato@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "simple-parallax-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "simpleParallax.min.js"
+}

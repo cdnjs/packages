@@ -2,7 +2,7 @@
   "name": "jquery.perfect-scrollbar",
   "filename": "perfect-scrollbar.min.js",
   "description": "Minimalistic but perfect custom scrollbar plugin",
-  "homepage": "https://utatti.github.io/perfect-scrollbar/",
+  "homepage": "https://mdbootstrap.com/freebies/perfect-scrollbar/",
   "keywords": [
     "jquery-plugin",
     "frontend",
@@ -11,25 +11,25 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/utatti/perfect-scrollbar.git",
+    "target": "git://github.com/mdbootstrap/perfect-scrollbar.git",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/!(*.esm.*|*.common.*)"
+          "*.js"
         ]
       },
       {
         "basePath": "",
         "files": [
-          "css/perfect-scrollbar*"
+          "css/*.css"
         ]
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/utatti/perfect-scrollbar"
+    "url": "https://github.com/mdbootstrap/perfect-scrollbar"
   },
   "license": "MIT",
   "authors": [

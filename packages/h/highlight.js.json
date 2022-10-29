@@ -1,29 +1,30 @@
 {
   "name": "highlight.js",
   "filename": "highlight.min.js",
-  "description": "Syntax highlighting with language autodetection.",
+  "description": "Syntax highlighting with language auto-detection.",
   "homepage": "http://highlightjs.org",
   "keywords": [
     "highlight",
     "syntax highlighter"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/highlightjs/cdn-release.git",
+    "source": "npm",
+    "target": "@highlightjs/cdn-assets",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "",
         "files": [
           "highlight.min.js",
           "languages/*.min.js",
-          "styles/*"
+          "styles/*",
+          "styles/**/*.css"
         ]
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/isagalaev/highlight.js"
+    "url": "https://github.com/highlightjs/highlight.js"
   },
   "license": "BSD-3-Clause",
   "authors": [

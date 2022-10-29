@@ -1,0 +1,35 @@
+{
+  "name": "fslightbox",
+  "description": "Modern and easy plugin for displaying images and videos in clean overlaying box. Display single source or create beautiful gallery with powerful lightbox.",
+  "keywords": [
+    "lightbox",
+    "slide gallery",
+    "image lightbox",
+    "slider",
+    "carousel"
+  ],
+  "license": "MIT",
+  "homepage": "https://fslightbox.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banthagroup/fslightbox.git"
+  },
+  "authors": [
+    {
+      "name": "Bantha Apps Piotr Zdziarski"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "fslightbox",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}

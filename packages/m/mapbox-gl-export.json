@@ -1,0 +1,41 @@
+{
+  "name": "mapbox-gl-export",
+  "description": "This module adds control which can export PDF and images.",
+  "keywords": [
+    "mapbox",
+    "mapbox-gl-js",
+    "export",
+    "image",
+    "pdf"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/watergis/mapbox-gl-export#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watergis/mapbox-gl-export.git"
+  },
+  "authors": [
+    {
+      "name": "Jin IGARASHI"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@watergis/mapbox-gl-export",
+    "fileMap": [
+      {
+        "basePath": "dist/cdn",
+        "files": [
+          "*.@(js|css)"
+        ]
+      },
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  },
+  "filename": "mapbox-gl-export.js"
+}

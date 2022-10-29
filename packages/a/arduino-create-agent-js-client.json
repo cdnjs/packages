@@ -1,0 +1,47 @@
+{
+  "name": "arduino-create-agent-js-client",
+  "description": "JS module providing discovery of the Arduino Create Plugin and communication with it",
+  "keywords": [
+    "arduino",
+    "create",
+    "agent",
+    "plugin"
+  ],
+  "license": "GPLv3",
+  "homepage": "https://github.com/arduino/arduino-create-agent-js-client#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arduino/arduino-create-agent-js-client.git"
+  },
+  "authors": [
+    {
+      "name": "Stefania Mellai",
+      "email": "s.mellai@arduino.cc"
+    },
+    {
+      "name": "Fabrizio Mirabito",
+      "email": "f.mirabito@arduino.cc"
+    },
+    {
+      "name": "Alberto Iannaccone",
+      "email": "a.iannaccone@arduino.cc"
+    },
+    {
+      "name": "Gabriele Destefanis",
+      "email": "g.destefanis@topsolution.it"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "arduino-create-agent-js-client",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "create-plugin.min.js"
+}

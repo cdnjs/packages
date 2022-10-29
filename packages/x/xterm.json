@@ -23,6 +23,10 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "3.*-beta*",
+      "3.14.0"
     ]
   },
   "authors": [

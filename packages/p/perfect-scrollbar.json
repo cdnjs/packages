@@ -1,0 +1,41 @@
+{
+  "name": "perfect-scrollbar",
+  "filename": "perfect-scrollbar.min.js",
+  "description": "Minimalistic but perfect custom scrollbar plugin",
+  "homepage": "https://mdbootstrap.com/freebies/perfect-scrollbar/",
+  "keywords": [
+    "jquery-plugin",
+    "frontend",
+    "scroll",
+    "scrollbar"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/mdbootstrap/perfect-scrollbar.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "css/*.css"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/perfect-scrollbar"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Hyunje Alex Jun",
+      "email": "me@noraesae.net"
+    }
+  ]
+}

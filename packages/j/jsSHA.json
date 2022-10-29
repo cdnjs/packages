@@ -32,6 +32,9 @@
           "*.@(@(js|mjs)?(.map)|d.ts)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "release*"
     ]
   },
   "authors": [

@@ -1,0 +1,51 @@
+{
+  "name": "oauth4webapi",
+  "filename": "index.js",
+  "description": "OAuth 2 / OpenID Connect for Web Platform API JavaScript runtimes",
+  "keywords": [
+    "auth",
+    "authentication",
+    "authorization",
+    "basic",
+    "browser",
+    "certified",
+    "client",
+    "cloudflare-workers",
+    "deno",
+    "electron",
+    "fapi",
+    "javascript",
+    "nextjs",
+    "node",
+    "nodejs",
+    "oauth",
+    "oauth2",
+    "oidc",
+    "openid-connect",
+    "openid",
+    "vercel-edge"
+  ],
+  "homepage": "https://github.com/panva/oauth4webapi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panva/oauth4webapi.git"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Filip Skokan"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@panva/oauth4webapi",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  }
+}

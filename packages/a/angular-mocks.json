@@ -26,6 +26,9 @@
           "angular-mocks*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-build.*"
     ]
   },
   "authors": [

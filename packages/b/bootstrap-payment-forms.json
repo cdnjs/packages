@@ -1,0 +1,44 @@
+{
+  "name": "bootstrap-payment-forms",
+  "filename": "bootstrap-payment-forms.min.css",
+  "description": "Responsive Payment Forms built with the latest Bootstrap 5. Credit card, PayPal, Stripe, eCommerce checkout and many more examples.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "ecommerce",
+    "responsive-design",
+    "checkout",
+    "bootstrap5-template",
+    "payment-gateway",
+    "payment-form",
+    "checkout-page",
+    "paymentmethods",
+    "bootstrap-template"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/payment-forms/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-payment-forms"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-payment-forms",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-payment-forms*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

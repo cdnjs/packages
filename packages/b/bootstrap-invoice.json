@@ -1,0 +1,40 @@
+{
+  "name": "bootstrap-invoice",
+  "filename": "bootstrap-invoice.min.css",
+  "description": "Invoices Templates built with Bootstrap 5. Various examples like Simple invoice, company invoice, invoice with images and many more.",
+  "keywords": [
+    "bootstrap",
+    "template",
+    "bootstrap5",
+    "responsive",
+    "invoice", 
+    "responsive-design",
+    "invoice-template",
+    "bootstrap5-template"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/bootstrap-invoice/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-invoice"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-invoice",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-invoice*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

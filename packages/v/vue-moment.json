@@ -1,0 +1,37 @@
+{
+  "name": "vue-moment",
+  "description": "Handy Moment.js filters for your Vue.js project",
+  "keywords": [
+    "vue",
+    "custom",
+    "date",
+    "time",
+    "filter",
+    "moment",
+    "moment.js"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/brockpetrie/vue-moment#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brockpetrie/vue-moment.git"
+  },
+  "authors": [
+    {
+      "name": "brockpetrie"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue-moment",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "vue-moment.min.js"
+}

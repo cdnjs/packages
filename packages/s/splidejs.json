@@ -1,0 +1,40 @@
+{
+  "name": "splidejs",
+  "description": "Splide is a lightweight, flexible and accessible slider/carousel. No dependencies, no Lighthouse errors.",
+  "keywords": [
+    "splide",
+    "slider",
+    "carousel",
+    "slideshow",
+    "gallery",
+    "lightweight",
+    "touch",
+    "responsive",
+    "typescript"
+  ],
+  "license": "MIT",
+  "homepage": "https://splidejs.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Splidejs/splide.git"
+  },
+  "authors": [
+    {
+      "name": "Naotoshi Fujita"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@splidejs/splide",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "js/{,utils/}*.js",
+          "css/{,themes/}*.css"
+        ]
+      }
+    ]
+  },
+  "filename": "js/splide.min.js"
+}

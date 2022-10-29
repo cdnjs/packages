@@ -12,12 +12,15 @@
   ],
   "autoupdate": {
     "source": "npm",
-    "target": "uswds",
+    "target": "@uswds/uswds",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/!(*.md|*.scss)"
+          "css/*.css?(.map)",
+          "js/*.js?(.map)",
+          "img/**/*.@(gif|ico|jpg|png|svg|webp)",
+          "fonts/**/*.@(ttf|woff|woff2)"
         ]
       }
     ]
@@ -26,5 +29,8 @@
     {
       "name": "18F"
     }
-  ]
+  ],
+  "optimization": {
+    "png": false
+  }
 }

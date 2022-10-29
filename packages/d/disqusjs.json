@@ -1,6 +1,6 @@
 {
   "name": "disqusjs",
-  "filename": "disqus.js",
+  "filename": "disqusjs.es2015.umd.min.js",
   "description": "Alternative DISQUS - Render comments components from Disqus API",
   "repository": {
     "type": "git",
@@ -21,9 +21,10 @@
     "target": "disqusjs",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "dist/browser",
         "files": [
-          "*.@(js|css)"
+          "*.@(js|mjs)",
+          "styles/*.css"
         ]
       }
     ]

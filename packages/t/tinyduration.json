@@ -1,0 +1,37 @@
+{
+  "name": "tinyduration",
+  "description": "ISO-8601 duration parsing and serialization",
+  "keywords": [
+    "iso-8601",
+    "duration",
+    "period",
+    "date",
+    "time"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MelleB/tinyduration#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelleB/tinyduration.git"
+  },
+  "authors": [
+    {
+      "name": "MelleB",
+      "email": "npm@melleboersma.nl"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "tinyduration",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)",
+          "*.d.ts"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}

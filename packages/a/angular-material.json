@@ -18,6 +18,12 @@
           "angular-material.!(*scss)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-master-*",
+      "0.0.2-6071305",
+      "0.0.2-ca7793d",
+      "0.0.2-e59e064cd0e19d841e9c252f973a9eb7e87543a2"
     ]
   },
   "keywords": [

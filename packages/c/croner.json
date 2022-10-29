@@ -1,0 +1,40 @@
+{
+  "name": "croner",
+  "description": "Trigger functions and/or evaluate cron expressions in JavaScript. No dependencies. Most features. All environments.",
+  "keywords": [
+    "cron",
+    "crontab",
+    "parser",
+    "croner",
+    "sheduler",
+    "timer"
+  ],
+  "license": "MIT",
+  "homepage": "https://hexagon.github.io/croner/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hexagon/croner.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/Hexagon/croner.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|cjs|mjs|map)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Hexagon",
+      "email": "hexagon@56k.guru",
+      "url": "https://github.com/Hexagon"
+    }
+  ],
+  "optimization": {
+    "js": false
+  }
+}

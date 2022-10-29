@@ -24,6 +24,9 @@
           "clone*.+(js|css|map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.1.*"
     ]
   },
   "authors": [

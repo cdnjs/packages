@@ -1,0 +1,54 @@
+{
+  "name": "Sparticles",
+  "description": "Lightweight, High Performance Particles in Canvas",
+  "filename": "sparticles.esm.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simeydotme/sparticles.git"
+  },
+  "keywords": [
+      "react",
+      "javascript",
+      "typescript",
+      "canvas",
+      "vue",
+      "vanilla",
+      "animation",
+      "effects",
+      "svelte",
+      "vanilla-js",
+      "particles",
+      "particle",
+      "effect",
+      "vue-particles",
+      "particles-js",
+      "particlesjs",
+      "react-particles",
+      "sparticles",
+      "svelte-particles",
+      "fast",
+      "light",
+      "light-weight",
+      "lightweight"
+  ],
+  "license": "MPL-2.0",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/simeydotme/sparticles.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "simeydotme",
+      "email": "simey.me@gmail.com",
+      "url": "https://github.com/simeydotme"
+    }
+  ]
+}

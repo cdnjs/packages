@@ -22,7 +22,13 @@
           "**/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "[3-5].*"
     ]
+  },
+  "optimization": {
+    "js": false
   },
   "authors": [
     {

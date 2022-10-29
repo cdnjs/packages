@@ -20,6 +20,11 @@
           "*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "connery",
+      "oauth-token",
+      "robb"
     ]
   },
   "repository": {

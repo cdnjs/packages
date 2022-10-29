@@ -1,0 +1,39 @@
+{
+  "name": "timepicker-ui",
+  "description": "timepicker-ui is an easy library with timepicker. Created with TypeScript based on Material Design from Google.",
+  "keywords": [
+    "material-design",
+    "material",
+    "design",
+    "timepicker",
+    "ui",
+    "css",
+    "javascript",
+    "vanillajs",
+    "typescript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/pglejzer/timepicker-ui#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pglejzer/timepicker-ui.git"
+  },
+  "authors": [
+    {
+      "name": "pglejzer"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "timepicker-ui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "timepicker-ui.js"
+}

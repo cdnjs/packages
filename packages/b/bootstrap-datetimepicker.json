@@ -1,36 +1,34 @@
 {
   "name": "bootstrap-datetimepicker",
-  "filename": "js/bootstrap-datetimepicker.min.js",
-  "homepage": "http://eonasdan.github.io/bootstrap-datetimepicker/",
-  "description": "A date/time picker component designed to work with Bootstrap 3 and Momentjs. For usage, installation and demos see Project Site on GitHub",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/eonasdan/bootstrap-datetimepicker.git"
-  },
+  "description": "A robust and powerful date/time picker component. For usage, installation and demos see Project Site on GitHub",
   "keywords": [
-    "twitter-bootstrap",
-    "bootstrap",
     "datepicker",
     "datetimepicker",
-    "timepicker",
-    "moment"
+    "timepicker"
   ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/Eonasdan/bootstrap-datetimepicker.git",
-    "fileMap": [
-      {
-        "basePath": "build",
-        "files": [
-          "**/*"
-        ]
-      }
-    ]
-  },
   "license": "MIT",
+  "homepage": "https://getdatepicker.com/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Eonasdan/tempus-dominus.git"
+  },
   "authors": [
     {
       "name": "Jonathan Peterson"
     }
-  ]
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/Eonasdan/tempus-dominus.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "css/*.css",
+          "js/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/tempus-dominus.js"
 }

@@ -16,7 +16,10 @@
         "files": [
           "jasmine.js",
           "jasmine-html.js",
+          "jasmine_favicon.png",
           "boot.js",
+          "boot0.js",
+          "boot1.js",
           "jasmine.css"
         ]
       }

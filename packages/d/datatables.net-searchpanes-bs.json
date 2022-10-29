@@ -1,0 +1,46 @@
+{
+  "name": "datatables.net-searchpanes-bs",
+  "description": "SearchPanes for DataTables with styling for [Bootstrap](https://getbootstrap.com/docs/3.3/)",
+  "keywords": [
+    "SearchPanes",
+    "search",
+    "filtering",
+    "Bootstrap",
+    "Datatables",
+    "jQuery",
+    "table",
+    "filter",
+    "sort"
+  ],
+  "license": "MIT",
+  "homepage": "https://datatables.net",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-SearchPanes-Bootstrap.git"
+  },
+  "authors": [
+    {
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-searchpanes-bs",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "js",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "searchPanes.bootstrap.js"
+}

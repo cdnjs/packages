@@ -35,6 +35,9 @@
           "**/!(*.json|*.scss|*.ts|*.svj)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "3.0.0-alpha.1"
     ]
   }
 }

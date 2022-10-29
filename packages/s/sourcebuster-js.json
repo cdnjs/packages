@@ -1,0 +1,44 @@
+{
+  "name": "sourcebuster-js",
+  "description": "Get sources of your site's visitors (utm / organic / referral / typein).",
+  "keywords": [
+    "google",
+    "analytics",
+    "adwords",
+    "utm",
+    "utm_source",
+    "utm_medium",
+    "utm_campaign",
+    "utm_content",
+    "utm_term",
+    "organic",
+    "referral",
+    "direct"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alexfedoseev/sourcebuster-js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexfedoseev/sourcebuster-js.git"
+  },
+  "authors": [
+    {
+      "name": "Alex Fedoseev",
+      "email": "alex.fedoseev@gmail.com",
+      "url": "http://www.alexfedoseev.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/alexfedoseev/sourcebuster-js.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "sourcebuster.min.js"
+}

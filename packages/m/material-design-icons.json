@@ -29,11 +29,17 @@
           "**/*.svg"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "2.0"
     ]
   },
   "authors": [
     {
       "name": "Material Design Authors"
     }
-  ]
+  ],
+  "optimization": {
+    "png": false
+  }
 }

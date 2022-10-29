@@ -1,0 +1,36 @@
+{
+  "name": "vditor",
+  "description": "♏ 易于使用的 Markdown 编辑器，为适配不同的应用场景而生",
+  "keywords": [
+    "editor",
+    "markdown",
+    "b3log"
+  ],
+  "license": "MIT",
+  "homepage": "https://b3log.org/vditor",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Vanessa219/vditor.git"
+  },
+  "authors": [
+    {
+      "name": "Vanessa",
+      "email": "v@b3log.org",
+      "url": "http://vanessa.b3log.org"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "vditor",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(css|js)",
+          "@(js|css)/**/*.@(js|css|ttf|woff|woff2)"
+        ]
+      }
+    ]
+  },
+  "filename": "index.min.js"
+}

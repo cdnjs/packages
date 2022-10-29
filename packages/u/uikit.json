@@ -24,6 +24,9 @@
           "css/*.css"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-dev.*"
     ]
   },
   "authors": [

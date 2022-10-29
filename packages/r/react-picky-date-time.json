@@ -1,0 +1,42 @@
+{
+  "name": "react-picky-date-time",
+  "description": "A react component for date time picker.",
+  "keywords": [
+    "react",
+    "picky",
+    "date",
+    "time",
+    "picker",
+    "datepicker",
+    "date-picker",
+    "timepicker",
+    "time-picker",
+    "calendar",
+    "react-picky-date-time"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/edwardfxiao/react-picky-date-time#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardfxiao/react-picky-date-time.git"
+  },
+  "authors": [
+    {
+      "name": "Edward Xiao"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-picky-date-time",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "{,Calendar/,Clock/,components/}*.@(js|css)?(.map)",
+          "{,Calendar/,Clock/,components/}*.d.ts"
+        ]
+      }
+    ]
+  },
+  "filename": "react-picky-date-time.min.js"
+}

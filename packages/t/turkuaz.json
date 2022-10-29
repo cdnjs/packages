@@ -1,0 +1,38 @@
+{
+  "name": "turkuaz",
+  "description": "Hızlı ve kolay web sayfaları geliştirin",
+  "keywords": [
+    "turkuaz",
+    "css",
+    "framework",
+    "responsive",
+    "flexbox",
+    "frontend"
+  ],
+  "license": "MIT",
+  "homepage": "https://turkuazcss.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omergulcicek/turkuaz.git"
+  },
+  "authors": [
+    {
+      "name": "Ömer Gülçiçek",
+      "email": "iletisim@omergulcicek.com",
+      "url": "https://omergulcicek.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "turkuaz",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  },
+  "filename": "turkuaz.min.css"
+}

@@ -27,6 +27,9 @@
           "**/inferno-test-utils!(*.node)*.!(*ts)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-alpha.*"
     ]
   },
   "authors": [

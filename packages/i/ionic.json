@@ -18,6 +18,9 @@
           "fonts/*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "testing"
     ]
   },
   "license": "MIT",

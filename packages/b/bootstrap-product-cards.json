@@ -1,0 +1,44 @@
+{
+  "name": "bootstrap-product-cards",
+  "filename": "bootstrap-product-pages.min.css",
+  "description": "Responsive Product Cards built with the latest Bootstrap 5. Lots of examples of different designs for eCommerce components.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "ecommerce",
+    "responsive-design",
+    "cards",
+    "bootstrap5-template",
+    "comparison",
+    "bootstrap-cards",
+    "product-cards",
+    "bestseller-listing",
+    "bootstrap-template"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/product-cards/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-product-cards"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-product-cards",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-product-pages*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

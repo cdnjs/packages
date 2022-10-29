@@ -1,0 +1,40 @@
+{
+  "name": "lottie-player",
+  "description": "Lottie animation and Telegram Sticker player web components.",
+  "keywords": [
+    "lottie",
+    "animation",
+    "lottiefiles",
+    "web component",
+    "component",
+    "lit-element",
+    "player",
+    "telegram sticker",
+    "tgs"
+  ],
+  "license": "MIT",
+  "homepage": "https://lottiefiles.com/web-player",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LottieFiles/lottie-player.git"
+  },
+  "authors": [
+    {
+      "name": "Jawish Hameed",
+      "email": "jawish@lottiefiles.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@lottiefiles/lottie-player",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|d.ts)"
+        ]
+      }
+    ]
+  },
+  "filename": "lottie-player.js"
+}

@@ -25,6 +25,9 @@
           "typebase*"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.5"
     ]
   },
   "authors": [

@@ -1,13 +1,13 @@
 {
   "name": "mobx",
-  "filename": "mobx.min.js",
+  "filename": "mobx.umd.production.min.js",
   "description": "Simple, scalable state management.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mobxjs/mobx.git"
   },
   "license": "MIT",
-  "homepage": "https://mobxjs.github.io/mobx",
+  "homepage": "https://mobx.js.org",
   "keywords": [
     "mobx",
     "mobservable",
@@ -27,11 +27,15 @@
     "target": "mobx",
     "fileMap": [
       {
-        "basePath": "lib",
+        "basePath": "dist",
         "files": [
-          "**/mobx!(*.d.ts|*.flow|*.es6.js|.module.js)"
+          "mobx*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*albert*",
+      "*fix*"
     ]
   },
   "authors": [

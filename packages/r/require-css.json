@@ -19,6 +19,10 @@
           "css.min.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "dev-test",
+      "release-test"
     ]
   },
   "repository": {

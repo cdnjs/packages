@@ -32,6 +32,9 @@
           "**/+(css|js)/jquery.+(plugin|countdown)*.+(js|css|map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "Release_1*"
     ]
   },
   "authors": [

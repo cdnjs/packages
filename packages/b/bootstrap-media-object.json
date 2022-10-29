@@ -1,0 +1,43 @@
+{
+  "name": "bootstrap-media-object",
+  "filename": "bootstrap-media-object.min.css",
+  "description": "Responsive Media objects built with the latest Bootstrap 5. Dedicated for highly repetitive components like blog comments, tweets, and the like.",
+  "keywords": [
+    "bootstrap",
+    "template",
+    "bootstrap5",
+    "responsive",
+    "css", 
+    "responsive-design",
+    "blog",
+    "bootstrap5-template",
+    "avatar",
+    "tweets",
+    "media-object"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/media-object/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-media-object"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-media-object",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-media-object*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

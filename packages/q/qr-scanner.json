@@ -1,0 +1,41 @@
+{
+  "name": "qr-scanner",
+  "description": "A javascript QR scanner library",
+  "keywords": [
+    "qr",
+    "scanner",
+    "reader",
+    "js",
+    "javascript",
+    "lightweight",
+    "small",
+    "fast",
+    "web"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nimiq/qr-scanner#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimiq/qr-scanner.git"
+  },
+  "authors": [
+    {
+      "name": "Nimiq",
+      "url": "https://nimiq.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "qr-scanner",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js",
+          "types/*.d.ts"
+        ]
+      }
+    ]
+  },
+  "filename": "qr-scanner.min.js"
+}

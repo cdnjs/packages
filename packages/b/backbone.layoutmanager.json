@@ -24,6 +24,9 @@
           "*.js"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.0.0"
     ]
   },
   "authors": [

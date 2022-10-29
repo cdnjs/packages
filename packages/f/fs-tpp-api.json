@@ -1,0 +1,31 @@
+{
+  "name": "fs-tpp-api",
+  "description": "FirstSpirit Third-Party-Preview API",
+  "keywords": [
+    "api"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://docs.e-spirit.com/tpp/snap/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-Spirit/ocm-snap.git"
+  },
+  "authors": [
+    {
+      "name": "e-Spirit AG"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "fs-tpp-api",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "snap.js"
+}

@@ -21,7 +21,13 @@
           "**/!(*.+(json|md))"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "[a-z]*"
     ]
+  },
+  "optimization": {
+    "png": false
   },
   "license": "MIT"
 }

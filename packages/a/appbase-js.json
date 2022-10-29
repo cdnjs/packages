@@ -24,6 +24,9 @@
           "**/!(*.gz|*.br|*.es.js|*.cjs.js)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "1.0.0"
     ]
   },
   "authors": [

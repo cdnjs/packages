@@ -1,0 +1,43 @@
+{
+  "name": "bootstrap-toaster",
+  "description": "Robust, plug & play generator for Bootstrap toasts.",
+  "keywords": [
+    "bootstrap-toaster",
+    "toast",
+    "toasts",
+    "toaster",
+    "notification",
+    "notifications",
+    "bootstrap",
+    "bootstraptoaster",
+    "bootstrap4",
+    "bootstrap5"
+  ],
+  "license": "MIT",
+  "homepage": "https://bootstraptoaster.peytongasink.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeytonRG/BootstrapToaster.git"
+  },
+  "authors": [
+    {
+      "name": "Peyton Gasink",
+      "email": "pg@auburn.edu",
+      "url": "https://peytongasink.dev"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-toaster",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/*.css",
+          "js/*.@(js|d.ts)"
+        ]
+      }
+    ]
+  },
+  "filename": "css/bootstrap-toaster.min.css"
+}

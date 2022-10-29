@@ -29,6 +29,11 @@
           "+(addon|theme|mode|keymap)/**/*.+(js|css)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "3.11.01",
+      "3.11.01",
+      "3.12.00"
     ]
   }
 }

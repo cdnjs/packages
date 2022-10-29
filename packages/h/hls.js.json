@@ -25,6 +25,9 @@
           "**/!(*-demo.*)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*-canary.*"
     ]
   },
   "authors": [

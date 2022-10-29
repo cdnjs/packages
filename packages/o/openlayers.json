@@ -1,6 +1,6 @@
 {
   "name": "openlayers",
-  "filename": "ol.js",
+  "filename": "index.js",
   "description": "OpenLayers is a JavaScript library for building map applications on the web.",
   "homepage": "http://openlayers.org/",
   "license": "BSD-2-Clause",
@@ -16,10 +16,10 @@
   },
   "autoupdate": {
     "source": "npm",
-    "target": "openlayers",
+    "target": "ol",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
           "**/*"
         ]

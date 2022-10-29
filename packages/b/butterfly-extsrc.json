@@ -1,0 +1,43 @@
+{
+  "name": "butterfly-extsrc",
+  "description": "The external resource of hexo-theme-butterfly",
+  "keywords": [
+    "hexo",
+    "butterfly",
+    "Jerry",
+    "hexo-theme-butterfly"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://butterfly.js.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerryc127/butterfly-plugins.git#main"
+  },
+  "authors": [
+    {
+      "name": "Jerry",
+      "email": "my@crazywong.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "butterfly-extsrc",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "sharejs/dist/css/*.css",
+          "sharejs/dist/fonts/*.@(eot|svg|ttf|woff)",
+          "sharejs/dist/js/*.js",
+          "metingjs/dist/*.js"
+        ]
+      }
+    ]
+  }
+}
