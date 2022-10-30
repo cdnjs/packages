@@ -19,6 +19,12 @@
     "target": "superagent",
     "fileMap": [
       {
+        "basePath": "dist",
+        "files": [
+          "superagent*.+(js|map)"
+        ]
+      },
+      {
         "basePath": "",
         "files": [
           "superagent*.+(js|map)"
