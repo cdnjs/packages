@@ -20,7 +20,7 @@
     "google-material-design"
   ],
   "license": "MIT",
-  "name": "@materialstyle/materialstyle",
+  "name": "materialstyle",
   "repository": {
     "type": "git",
     "url": "https://github.com/materialstyle/materialstyle"
@@ -32,7 +32,8 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*.@(js|css|map)"
+          "js/*.js?(.map)",
+          "css/*.css?(.map)"
         ]
       },
       {
