@@ -1,0 +1,44 @@
+{
+  "name": "bootstrap-side-navbar",
+  "filename": "bootstrap-side-navbar.min.css",
+  "description": "The side navigation component built wit the latest Bootstrap 5 provides an easy way to navigate through your website.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "navbar",
+    "responsive-design",
+    "side-navbar",
+    "bootstrap5-template",
+    "bootstrap-side-navbar",
+    "bootstrap-sidenav",
+    "bootstrap-sidebar",
+    "collapse-component",
+    "checkout-page"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/side-navbar/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-side-navbar"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-side-navbar",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-side-navbar*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}
