@@ -1,0 +1,41 @@
+{
+  "name": "bootstrap-square-buttons",
+  "filename": "bootstrap-square-buttons.min.css",
+  "description": "Responsive Square Buttons built with Bootstrap 5. Black, disabled, full-width outline, social, block square buttons examples.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "buttons",
+    "responsive-design",
+    "bootstrap5-template",
+    "bootstrap-square-buttons", 
+    "square-buttons",
+    "square"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/square-buttons/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-square-buttons"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-square-buttons",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-square-buttons*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}
