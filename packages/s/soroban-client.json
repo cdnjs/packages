@@ -1,0 +1,35 @@
+{
+  "name": "soroban-client",
+  "description": "soroban-client is a library for working with the Soroban RPC server.",
+  "filename": "soroban-client.min.js",
+  "keywords": [
+    "soroban",
+    "stellar",
+    "helper",
+    "hash",
+    "xdr"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stellar/js-soroban-client.git"
+  },
+  "license": "Apache-2.0",
+  "autoupdate": {
+    "source": "npm",
+    "target": "soroban-client",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Stellar Development Foundation",
+      "email": "hello@stellar.org"
+    }
+  ]
+}
