@@ -1,0 +1,43 @@
+{
+  "description": "Marqueefy is a custom Marquee component used to create horizontal or vertical scrolling content.",
+  "filename": "js/marqueefy.min.js",
+  "homepage": "https://marqueefy.github.io/",
+  "keywords": [
+    "marqueefy",
+    "marquee",
+    "custom-marquee",
+    "html-marquee",
+    "scrolling-text",
+    "scrolling-content"
+  ],
+  "license": "MIT",
+  "name": "marqueefy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marqueefy/marqueefy.github.io"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@marqueefy/marqueefy",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "js/*.js?(.map)",
+          "css/*.css?(.map)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "scss/**/*.scss"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Neeraj Kumar Das (https://github.com/nkdas91)"
+    }
+  ]
+}
