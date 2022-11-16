@@ -27,14 +27,11 @@
     "target": "react-router",
     "fileMap": [
       {
-        "basePath": "umd",
+        "basePath": "dist/umd",
         "files": [
           "*.js?(.map)"
         ]
       }
-    ],
-    "ignoreVersions": [
-      "latest"
     ]
   }
 }
