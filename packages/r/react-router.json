@@ -1,6 +1,6 @@
 {
   "name": "react-router",
-  "filename": "react-router.min.js",
+  "filename": "react-router.production.min.js",
   "description": "A complete routing library for React.js",
   "keywords": [
     "react",
