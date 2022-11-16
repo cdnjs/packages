@@ -1,6 +1,6 @@
 {
   "name": "react-router-dom",
-  "filename": "react-router-dom.min.js",
+  "filename": "react-router-dom.production.min.js",
   "description": "DOM bindings for React Router",
   "repository": {
     "type": "git",
@@ -29,9 +29,9 @@
     "target": "react-router-dom",
     "fileMap": [
       {
-        "basePath": "umd",
+        "basePath": "dist/umd",
         "files": [
-          "**/*"
+          "*.js?(.map)"
         ]
       }
     ]
