@@ -1,6 +1,6 @@
 {
   "name": "overlayscrollbars",
-  "filename": "js/OverlayScrollbars.min.js",
+  "filename": "browser/overlayscrollbars.browser.es6.min.js",
   "license": "MIT",
   "description": "A javascript scrollbar plugin which hides the native scrollbars and provides custom styleable overlay scrollbars, but keeps the native functionality and feeling.",
   "homepage": "https://kingsora.github.io/OverlayScrollbars",
