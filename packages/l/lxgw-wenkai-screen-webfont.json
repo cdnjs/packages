@@ -22,7 +22,7 @@
     "target": "lxgw-wenkai-screen-webfont",
     "fileMap": [
       {
-        "basePath": "node_modules/lxgw-wenkai-screen-webfont",
+        "basePath": "",
         "files": [
           "files/*.woff2",
           "*.css"
