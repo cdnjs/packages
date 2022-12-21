@@ -1,0 +1,28 @@
+{
+  "name": "descope-core-js-sdk",
+  "filename": "descope-core-js.min.js",
+  "description": "Descope JavaScript core SDK",
+  "keywords": ["descope", "descope-core-js-sdk"],
+  "homepage": "https://descope.com/",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/descope/core-js-sdk.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@descope/core-js-sdk",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["**/*"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Descope, Inc.",
+      "url": "https://descope.com"
+    }
+  ]
+}
