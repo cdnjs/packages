@@ -12,9 +12,9 @@
     "target": "git://github.com/makeusabrew/bootbox.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "bootbox.js"
+          "*.js"
         ]
       }
     ]
