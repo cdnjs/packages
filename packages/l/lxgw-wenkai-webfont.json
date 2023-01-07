@@ -1,0 +1,39 @@
+{
+  "name": "lxgw-wenkai-webfont",
+  "description": "webfont package for the LXGW WenKai typeface",
+  "keywords": [
+    "cjk",
+    "lxgw-wenkai",
+    "kaiti",
+    "font",
+    "typeface",
+    "webfont",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/chawyehsu/lxgw-wenkai-webfont",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chawyehsu/lxgw-wenkai-webfont.git"
+  },
+  "authors": [
+    {
+      "name": "Chawye Hsu",
+      "email": "chawyehsu@hotmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "lxgw-wenkai-webfont",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.css",
+          "files/*.woff2"
+        ]
+      }
+    ]
+  },
+  "filename": "style.css"
+}
