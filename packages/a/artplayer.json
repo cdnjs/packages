@@ -1,0 +1,34 @@
+{
+  "name": "artplayer",
+  "description": "ArtPlayer.js is a modern and full featured HTML5 video player",
+  "keywords": [
+    "html5",
+    "video",
+    "player"
+  ],
+  "license": "MIT",
+  "homepage": "https://artplayer.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhw2590582/ArtPlayer.git"
+  },
+  "authors": [
+    {
+      "name": "Harvey Zack",
+      "email": "laozhaochaguan@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "artplayer",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "artplayer.js"
+}
