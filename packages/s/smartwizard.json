@@ -1,0 +1,39 @@
+{
+  "name": "smartwizard",
+  "description": "jQuery Smart Wizard",
+  "authors": [
+    {
+      "name": "Dipu Raj"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techlab/jquery-smartwizard.git"
+  },
+   "keywords": [
+    "jQuery",
+    "Wizard",
+    "Tabs",
+    "Steps",
+    "Bootstrap",
+    "Plugin",
+    "Step",
+    "ui",
+    "jquery-plugin"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "smartwizard",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "js/*.js",
+          "css/*.css"
+        ]
+      }
+    ]
+  },
+  "homepage": "http://techlaboratory.net/jquery-smartwizard"
+}
