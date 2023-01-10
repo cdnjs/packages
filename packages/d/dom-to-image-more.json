@@ -36,42 +36,41 @@
   },
   "authors": [
     {
-      "name": "Marc Brooks",
+      "name": "Marc Brooks @IDisposable",
       "email": "<idisposable@gmail.com>"
     },
     {
-      "name": "Anatolii Saienko",
+      "name": "Anatolii Saienko @tsayen",
       "email": "anatoly.sayenko@gmail.com"
     },
     {
-      "name": "Daniel Fischer",
+      "name": "Daniel Fischer @d-fischer",
       "email": "<daniel.fischer@iqdoq.de>"
     },
     {
-      "name": "Aidas Klimas"
+      "name": "Aidas Klimas @AidasK"
     },
     {
-      "name": "Edgardo Di Gesto"
+      "name": "Edgardo Di Gesto @eddydg"
     },
     {
       "name": "樊冬 Fan Dong",
       "email": "<CG-man@outlook.com>"
     },
     {
-      "name": "Joseph White",
-      "github": "@JosWhite"
+      "name": "Joseph White @JosWhite"
     },
     {
-      "name": "Phani Rithvij",
-      "github": "@phanirithvij"
+      "name": "Phani Rithvij @phanirithvij"
     },
     {
-      "name": "David DOLCIMASCOLO",
-      "github": "@ddolcimascolo"
+      "name": "David DOLCIMASCOLO @ddolcimascolo"
     },
     {
-      "name": "Nikita Staroseltsev",
-      "github": "@Nikitozz13"
-    }
+      "name": "Nikita Staroseltsev @Nikitozz13"
+    },
+    {
+      "name": "@meche-gh"
+    },
   ]
 }
