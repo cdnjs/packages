@@ -1,0 +1,32 @@
+{
+  "name": "yox-touch",
+  "filename": "yox-touch.min.js",
+  "description": "Hammer.js wrapper for yox.js",
+  "keywords": [
+    "yox",
+    "touch"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoxjs/yox-touch.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "yox-touch",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "musicode",
+      "email": "musicode@qq.com"
+    }
+  ]
+}

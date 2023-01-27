@@ -15,7 +15,10 @@
         "basePath": "",
         "files": [
           "highlight.min.js",
+          "es/highlight.min.js",
+          "es/core.min.js",
           "languages/*.min.js",
+          "es/languages/*.min.js",
           "styles/*",
           "styles/**/*.css"
         ]
@@ -29,8 +32,8 @@
   "license": "BSD-3-Clause",
   "authors": [
     {
-      "name": "Ivan Sagalaev",
-      "email": "maniac@softwaremaniacs.org"
+      "name": "Josh Goebel",
+      "email": "hello@joshgoebel.com"
     }
   ]
 }

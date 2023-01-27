@@ -1,0 +1,43 @@
+{
+  "name": "bootstrap-textarea",
+  "filename": "bootstrap-textarea.min.css",
+  "description": "Responsive textarea built with Bootstrap 5. How to change size, height, width and style. Examples of comments, contact form, checkout and chat.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "forms",
+    "responsive-design",
+    "bootstrap5-template",
+    "bootstrap-textarea", 
+    "text-editor",
+    "textarea", 
+    "contact-form",
+    "form"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/textarea/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-textarea"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-textarea",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-textarea*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

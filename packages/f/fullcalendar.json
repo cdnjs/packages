@@ -13,15 +13,16 @@
     "url": "https://github.com/fullcalendar/fullcalendar.git"
   },
   "license": "MIT",
-  "filename": "core/main.min.js",
+  "filename": "main.min.js",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/fullcalendar/fullcalendar.git",
+    "source": "npm",
+    "target": "fullcalendar",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "**/*.+(css|js|map|png|jpg|svg)"
+          "*.@(css|js)",
+          "locales/*.js"
         ]
       }
     ]

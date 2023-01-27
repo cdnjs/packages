@@ -1,0 +1,33 @@
+{
+  "name": "devtools-detector",
+  "description": "devtools-detector",
+  "keywords": [
+    "devtools-detect",
+    "devtools-detector"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/AEPKILL/devtools-detector#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AEPKILL/devtools-detector.git"
+  },
+  "authors": [
+    {
+      "name": "AEPKILL",
+      "email": "a@aepkill.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "devtools-detector",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "devtools-detector.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "devtools-detector.js"
+}

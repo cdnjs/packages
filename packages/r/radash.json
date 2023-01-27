@@ -1,0 +1,35 @@
+{
+  "name": "radash",
+  "description": "Functional utility library - modern, simple, typed, powerful",
+  "keywords": [
+    "functions",
+    "javascript",
+    "javascript-library",
+    "typescript",
+    "hacktoberfest"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "https://radash-docs.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rayepps/radash.git"
+  },
+  "authors": [
+    {
+      "name": "rayepps"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/rayepps/radash.git",
+    "fileMap": [
+      {
+        "basePath": "cdn",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "radash.min.js"
+}
