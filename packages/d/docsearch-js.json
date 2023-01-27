@@ -1,6 +1,6 @@
 {
   "name": "docsearch-js",
-  "filename": "index.js",
+  "filename": "umd/index.js",
   "description": "JavaScript package for DocSearch, the best search experience for docs.",
   "keywords": [
     "doc",
