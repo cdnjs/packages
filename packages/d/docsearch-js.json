@@ -1,0 +1,27 @@
+{
+  "name": "docsearch-js",
+  "filename": "index.js",
+  "description": "JavaScript package for DocSearch, the best search experience for docs.",
+  "keywords": [
+    "doc",
+    "search"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/algolia/docsearch.git"
+  },
+  "homepage": "https://docsearch.algolia.com/",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@docsearch/js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
+}
