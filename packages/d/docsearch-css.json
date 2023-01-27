@@ -24,8 +24,10 @@
       }
     ]
   },
-"author": {
-    "name": "Algolia, Inc.",
-    "url": "https://www.algolia.com"
-  }
+  "author": [
+    {
+      "name": "Algolia, Inc.",
+      "url": "https://www.algolia.com"
+    }
+  ]
 }
