@@ -14,7 +14,16 @@
     "type": "git",
     "url": "git+https://github.com/Remix-Design/remixicon.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "Wendy Gao",
+      "email": "wendygaoyuan@163.com"
+    },
+    {
+      "name": "Jimmy Cheung",
+      "email": "jimmy@remixdesign.cn"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "remixicon",
