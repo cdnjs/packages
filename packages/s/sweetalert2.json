@@ -1,0 +1,46 @@
+{
+  "name": "sweetalert2",
+  "description": "A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes, supported fork of sweetalert",
+  "keywords": [
+    "sweetalert",
+    "sweetalert2",
+    "alert",
+    "modal",
+    "popup",
+    "prompt",
+    "confirm",
+    "toast",
+    "accessible"
+  ],
+  "license": "MIT",
+  "homepage": "https://sweetalert2.github.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetalert2/sweetalert2.git"
+  },
+  "authors": [
+    {
+      "name": "Limon Monte",
+      "url": "https://limonte.github.io"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "sweetalert2",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.d.ts"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(css|js)"
+        ]
+      }
+    ]
+  },
+  "filename": "sweetalert2.min.js"
+}
