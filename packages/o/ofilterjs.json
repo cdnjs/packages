@@ -1,0 +1,44 @@
+{
+  "name": "ofilterjs",
+  "description": "OfilterJs is a data object filter processor for Javascript, which provides simpler, more convenient and more efficient data operations for development.",
+  "keywords": [
+    "ofilterjs",
+    "ofilter",
+    "object filter",
+    "object",
+    "filter",
+    "json",
+    "js",
+    "javascript",
+    "typescript",
+    "nodejs",
+    "es6",
+    "node",
+    "data filter",
+    "json filter"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/wenlng/ofilter-js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenlng/ofilter-js.git"
+  },
+  "authors": [
+    {
+      "name": "Awen"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "ofilterjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "ofilterjs.global.min.js"
+}
