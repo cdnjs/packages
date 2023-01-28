@@ -1,0 +1,76 @@
+{
+  "name": "dom-to-image-more",
+  "filename": "dom-to-image-more.min.js",
+  "description": "Generates an image from a DOM node using HTML5 canvas and SVG",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1904labs/dom-to-image-more.git"
+  },
+  "keywords": [
+    "dom",
+    "image",
+    "raster",
+    "render",
+    "html",
+    "canvas",
+    "svg"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "dom-to-image-more",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      },
+      {
+        "basePath": "src",
+        "files": [
+          "dom-to-image*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Marc Brooks @IDisposable",
+      "email": "<idisposable@gmail.com>"
+    },
+    {
+      "name": "Anatolii Saienko @tsayen",
+      "email": "anatoly.sayenko@gmail.com"
+    },
+    {
+      "name": "Daniel Fischer @d-fischer",
+      "email": "<daniel.fischer@iqdoq.de>"
+    },
+    {
+      "name": "Aidas Klimas @AidasK"
+    },
+    {
+      "name": "Edgardo Di Gesto @eddydg"
+    },
+    {
+      "name": "樊冬 Fan Dong",
+      "email": "<CG-man@outlook.com>"
+    },
+    {
+      "name": "Joseph White @JosWhite"
+    },
+    {
+      "name": "Phani Rithvij @phanirithvij"
+    },
+    {
+      "name": "David DOLCIMASCOLO @ddolcimascolo"
+    },
+    {
+      "name": "Nikita Staroseltsev @Nikitozz13"
+    },
+    {
+      "name": "@meche-gh"
+    }
+  ]
+}
