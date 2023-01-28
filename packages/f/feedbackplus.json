@@ -1,0 +1,32 @@
+{
+  "name": "feedbackplus",
+  "description": "Screenshotting and screenshot editing for your feedback forms with JavaScript.",
+  "keywords": [
+    "js",
+    "feedback-form"
+  ],
+  "license": "MIT",
+  "homepage": "https://colonelparrot.github.io/feedbackplus/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColonelParrot/feedbackplus.git"
+  },
+  "authors": [
+    {
+      "name": "ColonelParrot"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "feedbackplus",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "feedbackplus.js"
+}
