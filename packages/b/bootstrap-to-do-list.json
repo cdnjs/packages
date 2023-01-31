@@ -1,0 +1,39 @@
+{
+  "name": "bootstrap-to-do-list",
+  "filename": "bootstrap-to-do-list.min.css",
+  "description": "Responsive To Do Lists built with the latest Bootstrap 5. Various variants of design and functionality.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "to-do-list",
+    "responsive-design",
+    "bootstrap5-template",
+    "bootstrap-to-do-list"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/to-do-list/",
+  "repository": {
+    "type": "git",
+    "url": "https://mdbootstrap.com/docs/standard/extended/to-do-list/"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-to-do-list",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-to-do-list*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}
