@@ -1,0 +1,34 @@
+{
+  "name": "@logtail/browser",
+  "description": "Logtail browser logger by Better Stack",
+  "homepage": "https://github.com/logtail/logtail-js/tree/master/packages/browser#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logtail/logtail-js.git",
+    "directory": "packages/browser"
+  },
+  "keywords": [
+    "Logtail",
+    "logging",
+    "logger",
+    "browser"
+  ],
+  "filename": "logtail.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@logtail/browser",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "dist/umd/logtail.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    "name": "Better Stack",
+    "email": "hello@betterstack.com"
+  ]
+}
