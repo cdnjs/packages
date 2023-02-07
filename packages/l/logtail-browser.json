@@ -27,8 +27,8 @@
       }
     ]
   },
-  "authors": [
+  "authors": {
     "name": "Better Stack",
     "email": "hello@betterstack.com"
-  ]
+  }
 }
