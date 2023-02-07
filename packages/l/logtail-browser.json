@@ -1,5 +1,5 @@
 {
-  "name": "@logtail/browser",
+  "name": "logtail-browser",
   "description": "Logtail browser logger by Better Stack",
   "homepage": "https://github.com/logtail/logtail-js/tree/master/packages/browser#readme",
   "license": "ISC",
