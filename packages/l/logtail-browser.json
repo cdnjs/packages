@@ -5,8 +5,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/logtail/logtail-js.git",
-    "directory": "packages/browser"
+    "url": "git+https://github.com/logtail/logtail-js.git"
   },
   "keywords": [
     "Logtail",
