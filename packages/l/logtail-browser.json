@@ -13,7 +13,7 @@
     "logger",
     "browser"
   ],
-  "filename": "logtail.js",
+  "filename": "dist/umd/logtail.min.js",
   "autoupdate": {
     "source": "npm",
     "target": "@logtail/browser",
