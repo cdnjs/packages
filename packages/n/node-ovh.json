@@ -1,0 +1,12 @@
+"autoupdate": {
+    "source": "npm",
+    "target": "ovh",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
