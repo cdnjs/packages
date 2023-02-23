@@ -11,7 +11,7 @@
     "target": "@ffmpeg/ffmpeg",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
           "*.js",
           "*.js.map"
