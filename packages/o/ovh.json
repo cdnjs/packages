@@ -1,16 +1,3 @@
-"autoupdate": {
-    "source": "npm",
-    "target": "ovh",
-    "fileMap": [
-      {
-        "basePath": "lib",
-        "files": [
-          "*.js"
-        ]
-      }
-    ]
-  }
-
   {
     "name": "ovh",
     "description": "The easiest way to use the OVH.com APIs in your node.js applications.",
