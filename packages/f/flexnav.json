@@ -1,0 +1,34 @@
+{
+  "name": "flexnav",
+  "description": "A jQuery plugin for responsive menus",
+  "keywords": [
+    "responsive",
+    "menu",
+    "nav"
+  ],
+  "license": "http://unlicense.org/",
+  "homepage": "https://github.com/mrjasonweaver/flexnav",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrjasonweaver/flexnav.git"
+  },
+  "authors": [
+    {
+      "name": "mrjasonweaver"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/mrjasonweaver/flexnav.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "js/*.js",
+          "css/flexnav.css"
+        ]
+      }
+    ]
+  },
+  "filename": "js/jquery.flexnav.min.js"
+}

@@ -5,7 +5,9 @@
   "homepage": "http://xregexp.com/",
   "keywords": [
     "regex",
-    "regexp"
+    "regexp",
+    "regular expression",
+    "unicode"
   ],
   "repository": {
     "type": "git",
@@ -13,8 +15,8 @@
   },
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/slevithan/XRegExp.git",
+    "source": "npm",
+    "target": "xregexp",
     "fileMap": [
       {
         "basePath": "",

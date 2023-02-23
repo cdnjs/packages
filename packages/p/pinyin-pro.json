@@ -1,0 +1,38 @@
+{
+  "name": "pinyin-pro",
+  "description": "汉字转拼音库。获取中文拼音、韵母、声母、声调、首字母，支持拼音匹配",
+  "keywords": [
+    "拼音",
+    "pinyin",
+    "汉字",
+    "中文",
+    "首字母",
+    "韵母",
+    "声母",
+    "音调"
+  ],
+  "license": "MIT",
+  "homepage": "https://pinyin-pro.cn",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zh-lx/pinyin-pro.git"
+  },
+  "authors": [
+    {
+      "name": "zh-lx"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "pinyin-pro",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}
