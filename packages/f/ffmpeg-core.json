@@ -13,9 +13,9 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*.js",
-          "**/*.js.map",
-          "**/*.wasm"
+          "{,umd/,esm/}*.js",
+          "{,umd/,esm/}*.js.map",
+          "{,umd/,esm/}*.wasm"
         ]
       }
     ]
