@@ -1,29 +1,28 @@
-  {
-    "name": "ovh",
-    "description": "The easiest way to use the OVH.com APIs in your node.js applications.",
-    "keywords": [
-      "api-wrapper",
-      "OVH",
-      "API",
-      "REST"
-    ],
-    "license": "MIT",
-    "homepage": "https://ovh.github.io/node-ovh",
-    "repository": {
-      "type": "npm",
-      "url": "https://www.npmjs.com/package/ovh"
-    },
-    "autoupdate": {
-      "source": "npm",
-      "target": "open",
-      "fileMap": [
-        {
-          "basePath": "",
-          "files": [
-            "*.@(js|ts)"
-          ]
-        }
-      ]
-    }
+{
+  "name": "ovh",
+  "description": "The easiest way to use the OVH.com APIs in your node.js applications.",
+  "keywords": [
+    "api-wrapper",
+    "OVH",
+    "API",
+    "REST"
+  ],
+  "license": "MIT",
+  "homepage": "https://ovh.github.io/node-ovh",
+  "repository": {
+    "type": "npm",
+    "url": "https://www.npmjs.com/package/ovh"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "ovh",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|ts)"
+        ]
+      }
+    ]
   }
-  
+}
