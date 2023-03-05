@@ -1,0 +1,25 @@
+{
+  "name": "ffmpeg",
+  "filename": "ffmpeg.min.js",
+  "description": "A pure Webassembly / Javascript port of FFmpeg.",
+  "keywords": [
+    "ffmpeg"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@ffmpeg/ffmpeg",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "{,umd/,esm/}*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ffmpegwasm/ffmpeg.wasm"
+  }
+}
