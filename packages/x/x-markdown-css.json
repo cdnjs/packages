@@ -1,6 +1,6 @@
 {
   "name": "x-markdown-css",
-  "filename": "x-markdown-css.min.css",
+  "filename": "bundle.min.css",
   "description": "A simple and customizable markdown CSS stylesheet for everyone.",
   "license": "MIT",
   "keywords": [
@@ -28,8 +28,7 @@
       {
         "basePath": "dist",
         "files": [
-          "*.css",
-          "*.css.map"
+          "*.css?(.map)"
         ]
       }
     ]
