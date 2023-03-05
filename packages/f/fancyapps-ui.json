@@ -35,7 +35,8 @@
         "basePath": "dist",
         "files": [
           "*.js",
-          "*/*.@(js|css)"
+          "*/*.@(js|css)",
+          "*/l10n/*.js"
         ]
       }
     ]
