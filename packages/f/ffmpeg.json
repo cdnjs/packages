@@ -13,8 +13,7 @@
       {
         "basePath": "dist",
         "files": [
-          "{,umd/,esm/}*.js",
-          "{,umd/,esm/}*.js.map"
+          "{,umd/,esm/}*.js?(.map)"
         ]
       }
     ]
