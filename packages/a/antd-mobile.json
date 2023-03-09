@@ -24,7 +24,7 @@
     "target": "antd-mobile",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "bundle",
         "files": [
           "**/!(*.less)"
         ]
