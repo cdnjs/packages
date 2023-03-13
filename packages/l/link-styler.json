@@ -14,8 +14,8 @@
     "mention"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/sheikhoo/link-styler",
+    "source": "npm",
+    "target": "link-styler",
     "fileMap": [
       {
         "basePath": "dist",
