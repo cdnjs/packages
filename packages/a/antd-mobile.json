@@ -1,6 +1,6 @@
 {
   "name": "antd-mobile",
-  "filename": "antd-mobile.min.js",
+  "filename": "antd-mobile.compatible.umd.js",
   "description": "A configurable Mobile UI specification and React-based implementation.",
   "homepage": "http://mobile.ant.design",
   "keywords": [
@@ -24,9 +24,9 @@
     "target": "antd-mobile",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "bundle",
         "files": [
-          "**/!(*.less)"
+          "*.@(js|css)"
         ]
       }
     ]
