@@ -1,44 +1,35 @@
 {
-  "name": "@waline/emojis",
-  "version": "1.2.0",
+  "name": "waline-emojis",
   "description": "Emojis for Waline",
   "keywords": [
     "waline",
     "comment",
     "blog"
   ],
-  "scripts": {
-    "build": "node build.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/walinejs/waline/issues"
-  },
   "homepage": "https://waline.js.org",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/walinejs/emojis.git"
   },
   "license": "GPL-3.0-or-later",
-  "author": {
-    "name": "Mr.Hope",
-    "email": "mister-hope@outlook.com",
-    "url": "https://mrhope.site"
-  },
+  "authors": [
+    {
+      "name": "Mr.Hope",
+      "email": "mister-hope@outlook.com",
+      "url": "https://mrhope.site"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "@waline/emojis",
     "fileMap": [
       {
-        "basePath": "./"
+        "basePath": "./",
         "files": [
           "**/*.json",
           "**/*.png"
         ]
       }
-     ]
-  },
-  "publishConfig": {
-    "access": "public"
+    ]
   }
 }
