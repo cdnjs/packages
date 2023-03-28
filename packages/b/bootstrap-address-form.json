@@ -1,0 +1,41 @@
+{
+  "name": "bootstrap-address-form",
+  "filename": "bootstrap-address-form.min.css",
+  "description": "Responsive Address Form with Bootstrap 5. Templates include basic examples, use of cards, use of photos & more.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "address",
+    "responsive-design",
+    "bootstrap5-template",
+    "form", 
+    "bootstrap-forms", 
+    "card-form"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/bootstrap-address-form/",
+  "repository": {
+    "type": "git",
+    "url": "https://mdbootstrap.com/docs/standard/extended/bootstrap-address-form/"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-address-form",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-address-form*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

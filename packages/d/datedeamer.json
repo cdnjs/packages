@@ -1,0 +1,40 @@
+{
+  "name": "datedreamer",
+  "description": "An easy to use lightweight javascript calendar library.",
+  "filename": "datedreamer.js",
+  "license": "GPL-3.0",
+  "homepage": "https://datedreamer.github.io/docs/",
+  "keywords": [
+    "javascript",
+    "typescript",
+    "calendar",
+    "datepicker"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DateDreamer/datedreamer.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datedreamer",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Jorge Felico",
+      "email": "jorgefelico@gmail.com",
+      "url": "https://github.com/jorgefelico"
+    },
+    {
+      "name": "Romulo Filippini",
+      "url": "https://github.com/Overthane"
+    }
+  ]
+}
