@@ -1,6 +1,6 @@
 {
   "name": "primevue",
-  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/primevue.svg)](https://badge.fury.io/js/primevue) [![Discord Chat](https://img.shields.io/discord/55794023",
+  "description": "Next Generation Vue UI Component Library",
   "keywords": [
     "primevue",
     "vue",
@@ -17,7 +17,12 @@
     "type": "git",
     "url": "git+https://github.com/primefaces/primevue.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "primevue contributors",
+      "url": "https://github.com/primefaces/primevue/graphs/contributors"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "primevue",
