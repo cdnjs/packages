@@ -1,6 +1,6 @@
 {
   "name": "react-diagrams",
-  "description": "",
+  "description": "a super simple, no-nonsense diagramming library written in react that just works",
   "keywords": [
     "web",
     "diagram",
