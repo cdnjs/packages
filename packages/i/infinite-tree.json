@@ -1,0 +1,37 @@
+{
+  "name": "infinite-tree",
+  "description": "A browser-ready tree library that can efficiently display a large amount of data using infinite scrolling.",
+  "keywords": [
+    "flat",
+    "flatten",
+    "flattree",
+    "large",
+    "scroll",
+    "tree"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cheton/infinite-tree",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheton/infinite-tree.git"
+  },
+  "authors": [
+    {
+      "name": "Cheton Wu",
+      "email": "cheton@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "infinite-tree",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "infinite-tree.min.js"
+}
