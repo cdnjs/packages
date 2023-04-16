@@ -1,0 +1,34 @@
+{
+  "name": "primevue",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/primevue.svg)](https://badge.fury.io/js/primevue) [![Discord Chat](https://img.shields.io/discord/55794023",
+  "keywords": [
+    "primevue",
+    "vue",
+    "ui framework",
+    "component framework",
+    "ui library",
+    "component library",
+    "material",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "https://primevue.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primefaces/primevue.git"
+  },
+  "authors": [],
+  "autoupdate": {
+    "source": "npm",
+    "target": "primevue",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*/*.@(css|js)",
+          "resources/themes/*/*.css"
+        ]
+      }
+    ]
+  }
+}
