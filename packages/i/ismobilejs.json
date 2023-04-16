@@ -20,7 +20,7 @@
       {
         "basePath": "",
         "files": [
-          "isMobile*"
+          "@(cjs|esm)/isMobile.js"
         ]
       }
     ]
