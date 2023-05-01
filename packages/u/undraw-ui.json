@@ -1,0 +1,37 @@
+{
+  "name": "undraw-ui",
+  "description": "<p align=\"center\">\r     <img src=\"https://s2.loli.net/2022/04/19/m4aqSs6DINYCLjG.png\">\r   </p>\r <p align=\"center\">\r    <a href=\"https://www.npmjs.org/package/undraw-ui\">\r     <img src=\"https://img.shields.io/npm/v/undraw-ui.svg\">\r   </a>\r   <a href=\"https",
+  "keywords": [
+    "undraw-ui",
+    "element-plus",
+    "component library",
+    "ui framework",
+    "ui",
+    "vue"
+  ],
+  "license": "MIT",
+  "homepage": "https://undraw.gitee.io/undraw-ui/",
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/undraw/undraw-ui.git"
+  },
+  "authors": [
+    {
+      "name": "readpage",
+      "email": "f1dao@qq.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "undraw-ui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "index.umd.js"
+}
