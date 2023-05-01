@@ -32,7 +32,10 @@
       {
         "basePath": "assets",
         "files": [
-          "@(css|fonts|img|js)/**/*.@(js|css|ttf|woff|woff2|eot|svg|jpg|png)"
+          "@(css|fonts|img)/**/*.@(js|css|ttf|woff|woff2|eot|svg|jpg|png)",
+          "js/*.js",
+          "js/plugins/*.js",
+          "js/core/*.js"
         ]
       }
     ]
