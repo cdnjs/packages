@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/zouyaoji/vue-cesium.git"
   },
-  "filename": "lib/index.umd.js",
+  "filename": "index.full.min.js",
   "autoupdate": {
     "source": "npm",
     "target": "vue-cesium",
