@@ -1,0 +1,39 @@
+{
+  "name": "webfont-lxgw-wenkai-lite",
+  "description": "webfont package for the LXGW WenKai Lite typeface",
+  "keywords": [
+    "cjk",
+    "lxgw-wenkai",
+    "kaiti",
+    "font",
+    "typeface",
+    "webfont",
+    "css"
+  ],
+  "license": "MIT",
+  "filename": "style.css",
+  "homepage": "https://github.com/Jonathan523/lxgw-wenkai-webfont",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jonathan523/lxgw-wenkai-webfont.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "webfont-lxgw-wenkai-lite",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "files/*.woff2",
+          "*.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Jonathan Zhang",
+      "email": "admin@cestlavie.moe"
+    }
+  ]
+}
