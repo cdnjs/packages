@@ -1,0 +1,39 @@
+{
+  "name": "bootstrap-modal-size",
+  "filename": "bootstrap-modal-size.min.css",
+  "description": "Responsive popup window sizing with Bootstrap 5. Modal width, modal height, fullscreen modal, large modal with lg & xl modal classes and more.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "modals",
+    "sizing",
+    "responsive-design",
+    "bootstrap5-template",
+    "modal"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/modal-size/",
+  "repository": {
+    "type": "git",
+    "url": "https://mdbootstrap.com/docs/standard/extended/modal-size/"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-modal-size",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-modal-size*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}
