@@ -1,0 +1,37 @@
+{
+  "name": "lang-input",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "bootstrap": "^5.0.0"
+  },
+  "description": "For your projects with more than one language, make your inputs such that you can enter data separately for each language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alihan0/lang-input.git"
+  },
+  "keywords": [
+    "lang",
+    "multi",
+    "lang",
+    "lang",
+    "for",
+    "html",
+    "bootstrap",
+    "lang",
+    "lang",
+    "input",
+    "input",
+    "lang"
+  ],
+  "author": "Alihan Öztürk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alihan0/lang-input/issues"
+  },
+  "homepage": "https://github.com/alihan0/lang-input#readme"
+}
