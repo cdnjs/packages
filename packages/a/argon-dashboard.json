@@ -1,6 +1,7 @@
 {
   "name": "argon-dashboard",
   "description": "Argon - Dashboard for Bootstrap 5 by Creative Tim",
+  "filename": "js/argon-dashboard.js",
   "keywords": [
     "design-systems",
     "dashboard",
@@ -39,6 +40,5 @@
         ]
       }
     ]
-  },
-  "filename": "argon-dashboard.min.js"
+  }
 }
