@@ -1,6 +1,6 @@
 {
   "name": "undraw-ui",
-  "description": "<p align=\"center\">\r     <img src=\"https://s2.loli.net/2022/04/19/m4aqSs6DINYCLjG.png\">\r   </p>\r <p align=\"center\">\r    <a href=\"https://www.npmjs.org/package/undraw-ui\">\r     <img src=\"https://img.shields.io/npm/v/undraw-ui.svg\">\r   </a>\r   <a href=\"https",
+  "description": "Undraw UI - A Vue.js 3 UI library",
   "keywords": [
     "undraw-ui",
     "element-plus",
