@@ -1,7 +1,10 @@
 {
   "name": "mapcreator-api",
   "description": "Mapcreator JavaScript API",
-  "keywords": [],
+  "keywords": [
+    "mapping",
+    "api"
+  ],
   "license": "BSD-3-Clause",
   "homepage": "https://gitlab.com/mapcreator/api-wrapper#readme",
   "repository": {
