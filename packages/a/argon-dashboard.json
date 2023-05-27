@@ -27,8 +27,8 @@
     }
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/creativetimofficial/argon-dashboard.git",
+    "source": "npm",
+    "target": "@creative-tim-official/argon-dashboard",
     "fileMap": [
       {
         "basePath": "assets",
