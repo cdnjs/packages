@@ -1,0 +1,40 @@
+{
+  "name": "bootstrap-modal-methods",
+  "filename": "bootstrap-modal-methods.min.css",
+  "description": "Methods for responsive Popup with Bootstrap 5. Show, hide / close or toggle a modal with JavaScript or via data attributes.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "modals",
+    "methods",
+    "responsive-design",
+    "bootstrap5-template",
+    "modal",
+    "modal-dialog"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/modal-methods/",
+  "repository": {
+    "type": "git",
+    "url": "https://mdbootstrap.com/docs/standard/extended/modal-methods/"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-modal-methods",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-modal-methods*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}
