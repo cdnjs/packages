@@ -1,0 +1,33 @@
+{
+  "name": "mapcreator-api",
+  "description": "Mapcreator JavaScript API",
+  "keywords": [
+    "mapping",
+    "api"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "https://gitlab.com/mapcreator/api-wrapper#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/mapcreator/api-wrapper.git"
+  },
+  "authors": [
+    {
+      "name": "Bas Bieling",
+      "email": "b.bieling@mapcreator.eu"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@mapcreator/api",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "bundle*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "bundle.browser.min.js"
+}
