@@ -1,10 +1,17 @@
 {
   "name": "cloudinary-video-player",
   "description": "Cloudinary Video Player",
-  "keywords": [],
+  "keywords": [
+    "hls",
+    "video",
+    "video-player"
+  ],
   "license": "MIT",
-  "homepage": "",
-  "repository": {},
+  "homepage": "https://github.com/cloudinary/cloudinary-video-player#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudinary/cloudinary-video-player"
+  },
   "authors": [
     {
       "name": "Cloudinary"
