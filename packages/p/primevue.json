@@ -31,7 +31,9 @@
         "basePath": "",
         "files": [
           "*/*.@(css|js)",
-          "resources/themes/*/*.css"
+          "resources/images/*.png",
+          "resources/themes/*/*.css",
+          "resources/themes/*/fonts/*.@(woff|woff2)"
         ]
       }
     ]
