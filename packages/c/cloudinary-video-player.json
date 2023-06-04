@@ -1,0 +1,27 @@
+{
+  "name": "cloudinary-video-player",
+  "description": "Cloudinary Video Player",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "",
+  "repository": {},
+  "authors": [
+    {
+      "name": "Cloudinary"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "cloudinary-video-player",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)",
+          "fonts/*.svg"
+        ]
+      }
+    ]
+  },
+  "filename": "cld-video-player.min.js"
+}
