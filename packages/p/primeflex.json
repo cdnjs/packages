@@ -1,0 +1,36 @@
+{
+  "name": "primeflex",
+  "description": "PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well.",
+  "keywords": [
+    "css",
+    "flex",
+    "vue",
+    "primevue"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.primefaces.org/primeflex/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primefaces/primeflex.git"
+  },
+  "authors": [
+    {
+      "name": "primeflex contributors",
+      "url": "https://github.com/primefaces/primeflex/graphs/contributors"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "primeflex",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.css",
+          "themes/*.css"
+        ]
+      }
+    ]
+  },
+  "filename": "primeflex.css"
+}
