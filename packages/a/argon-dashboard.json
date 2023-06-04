@@ -1,7 +1,7 @@
 {
   "name": "argon-dashboard",
   "description": "Argon - Dashboard for Bootstrap 5 by Creative Tim",
-  "filename": "js/argon-dashboard.js",
+  "filename": "js/argon-dashboard.min.js",
   "keywords": [
     "design-systems",
     "dashboard",
@@ -33,10 +33,8 @@
       {
         "basePath": "assets",
         "files": [
-          "@(css|fonts|img)/**/*.@(js|css|ttf|woff|woff2|eot|svg|jpg|png)",
-          "js/*.js",
-          "js/plugins/*.js",
-          "js/core/*.js"
+          "@(css|fonts|img)/**/*.@(js|css|ttf|woff|woff2|eot|svg|jpg|jpeg|png)",
+          "js/{,plugins/,core/}*.js"
         ]
       }
     ]
