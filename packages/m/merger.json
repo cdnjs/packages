@@ -26,10 +26,12 @@
       {
         "basePath": "assets",
         "files": [
-          "js/*.js",
-          "styles/*.css",
-          "bundles/*.js",
-          "bundles/*.css"
+          "js/**/*.js",
+          "styles/**/*.css",
+          "bundles/**/*.js",
+          "bundles/**/*.css",
+          "images/**/*.jpg",
+          "images/**/*.png"
         ]
       }
     ]
