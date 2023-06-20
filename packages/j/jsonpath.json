@@ -25,10 +25,9 @@
     "target": "jsonpath",
     "fileMap": [
       {
-        "basePath": ".",
+        "basePath": "",
         "files": [
-          "**/jsonpath.js",
-          "**/jsonpath.min.js"
+          "jsonpath?(.min).js"
         ]
       }
     ]
