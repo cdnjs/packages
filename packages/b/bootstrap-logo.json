@@ -19,7 +19,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
-    "target": "@mdbootstrap/bootstrap-logo",
+    "target": "bootstrap-logo",
     "fileMap": [
       {
         "basePath": "css",
