@@ -1,0 +1,29 @@
+{
+	"name": "docsify-glossary",
+	"description": "Simple Glossary for Docsify that replaces occurrences of words in text with links to the glossary definitions",
+	"keywords": [
+		"docsify",
+		"docsify plugin",
+		"docsify glossary",
+		"glossary"
+	],
+	"license": "Apache License 2.0",
+	"homepage": "https://github.com/stijn-dejongh/docsify-glossary#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/stijn-dejongh/docsify-glossary.git"
+	},
+	"authors": [{
+		"name": "Stijn Dejongh"
+	}],
+	"autoupdate": {
+		"source": "npm",
+		"target": "@stijn-dejongh/docsify-glossary",
+		"fileMap": [{
+			"basePath": "dist/@stijn-dejongh",
+			"files": [
+				"docsify-glossary?(.min).js"
+			]
+		}]
+	}
+}
