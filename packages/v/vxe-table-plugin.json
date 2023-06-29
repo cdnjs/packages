@@ -1,0 +1,33 @@
+{
+  "name": "vxe-table-plugin",
+  "filename": "js/vxe-table-plugin.js",
+  "keywords": [
+    "TypeFace",
+    "vxe-table-plugin",
+    "JavaScript",
+    "api"
+  ],
+  "description": "Font library api",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x-extends/vxe-table-plugin-export-pdf"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/x-extends/vxe-table-plugin-export-pdf",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "chen"
+    }
+  ]
+}
