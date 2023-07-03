@@ -1,9 +1,12 @@
 {
   "name": "turas-design-system",
   "description": "Turas Design System",
-  "keywords": [],
+  "keywords": [
+    "design-system",
+    "turas"
+  ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://www.npmjs.com/package/@nestechnology/turas-design-system",
   "repository": {},
   "authors": [
     {
