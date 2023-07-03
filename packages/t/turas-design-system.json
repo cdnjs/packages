@@ -1,0 +1,28 @@
+{
+  "name": "turas-design-system",
+  "description": "Turas Design System",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "",
+  "repository": {},
+  "authors": [
+    {
+      "name": "NES Technology"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@nestechnology/turas-design-system",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "css/*.css",
+          "js/*.js",
+          "img/*.@(png|svg)"
+        ]
+      }
+    ]
+  },
+  "filename": "css/turas-design-system.min.css"
+}
