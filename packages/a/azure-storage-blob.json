@@ -1,0 +1,38 @@
+{
+  "name": "azure-storage-blob",
+  "description": "Microsoft Azure Storage SDK for JavaScript - Blob",
+  "keywords": [
+    "azure",
+    "storage",
+    "blob",
+    "cloud",
+    "node.js",
+    "typescript",
+    "javascript",
+    "browser"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/storage/storage-blob/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azure/azure-sdk-for-js.git"
+  },
+  "authors": [
+    {
+      "name": "Microsoft Corporation"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@azure/storage-blob",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}
