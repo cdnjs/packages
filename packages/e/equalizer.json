@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tsvensen/equalize.js/blob/master/js/equalize.js"
+    "url": "https://github.com/iansvo/equalizer.js/blob/master/equalizer.js"
   },
   "authors": [
     {
-      "name": "Tim Svensen",
-      "url": "http://timsvensen.com"
+      "name": "Ian Svoboda",
+      "url": "http://iansvoboda.com/"
     }
   ],
   "license": "(MIT OR GPL-2.0)"
