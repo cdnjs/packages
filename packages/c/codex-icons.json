@@ -15,7 +15,8 @@
       {
         "basePath": "dist",
         "files": [
-          "*.@(js|mjs|json|svg)"
+          "*.@(js|mjs|json)",
+          "images/*.svg"
         ]
       }
     ]
