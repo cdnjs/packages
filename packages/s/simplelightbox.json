@@ -1,28 +1,40 @@
 {
-  "description": "SimpleLightbox is a Lightweight plugin for responsive lightbox images and galleries with no dependencies.",
-  "filename": "simpleLightbox.min.js",
-  "homepage": "http://dbrekalo.github.io/simpleLightbox/",
-  "keywords": [
-    "lightbox",
-    "javascript",
-    "images"
-  ],
-  "license": "MIT",
-  "name": "SimpleLightbox",
+  "name": "simplelightbox",
+  "description": "Touch-friendly image lightbox for mobile and desktop with jQuery",
+  "filename": "simple-lightbox.min.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:dbrekalo/simpleLightbox.git"
+    "url": "https://github.com/andreknieriem/simplelightbox.git"
   },
+  "keywords": [
+    "lightbox",
+    "modal",
+    "gallery",
+    "jquery-plugin",
+    "touchfriendly",
+    "responsive",
+    "popup",
+    "dialog"
+  ],
+  "license": "MIT",
+  "homepage": "http://andreknieriem.de/simple-lightbox",
   "autoupdate": {
     "source": "npm",
-    "target": "simple-lightbox",
+    "target": "simplelightbox",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "**/!(*.scss)"
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Andre Rinas",
+      "email": "info@andreknieriem.de",
+      "url": "http://www.andreknieriem.de"
+    }
+  ]
 }

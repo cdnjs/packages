@@ -1,38 +1,37 @@
 {
-  "name": "jquery-scrollTo",
-  "filename": "jquery.scrollTo.min.js",
-  "description": "Lightweight, cross-browser and highly customizable animated scrolling with jQuery",
+  "name": "jquery-scrollto",
+  "filename": "jquery-scrollto.min.js",
+  "description": "Smooth Scrolling to any jQuery/DOM Element",
   "keywords": [
-    "browser",
-    "animated",
-    "animation",
-    "scrolling",
+    "jquery",
     "scroll",
-    "links",
-    "anchors"
+    "scrolling",
+    "scrollto",
+    "smooth",
+    "dom"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/balupton/jquery-scrollto.git"
+  },
+  "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/flesler/jquery.scrollTo.git",
+    "source": "npm",
+    "target": "jquery-scrollto",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "out/lib",
         "files": [
-          "jquery.scrollTo.js",
-          "jquery.scrollTo.min.js"
+          "jquery-scrollto*"
         ]
       }
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/flesler/jquery.scrollTo"
-  },
-  "license": "MIT",
   "authors": [
     {
-      "name": "Ariel Flesler",
-      "url": "http://flesler.blogspot.com/"
+      "name": "Bevry Pty Ltd",
+      "email": "us@bevry.me",
+      "url": "http://bevry.me"
     }
   ]
 }

@@ -1,35 +1,33 @@
 {
-  "name": "Sortable",
-  "filename": "Sortable.min.js",
-  "homepage": "http://rubaxa.github.io/Sortable/",
-  "description": "Minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports AngularJS and any CSS library, e.g. Bootstrap.",
+  "filename": "js/sortable.min.js",
+  "name": "sortable",
+  "description": "The simplest, most elegant way to sort a table.",
+  "keywords": [
+    "sortable"
+  ],
+  "homepage": "http://github.hubspot.com/sortable/",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rubaxa/Sortable.git"
+    "url": "https://github.com/HubSpot/sortable.git"
   },
-  "keywords": [
-    "sortable",
-    "reorder",
-    "drag"
-  ],
-  "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rubaxa/Sortable.git",
+    "target": "git://github.com/HubSpot/sortable.git",
     "fileMap": [
       {
         "basePath": "",
         "files": [
-          "Sortable.min.js",
-          "Sortable.js"
+          "css/**/sortable*",
+          "js/**/sortable*"
         ]
       }
     ]
   },
   "authors": [
     {
-      "name": "Konstantin Lebedev",
-      "email": "ibnRubaXa@gmail.com"
+      "name": "Adam Schwartz",
+      "email": "adam.flynn.schwartz@gmail.com"
     }
   ]
 }
