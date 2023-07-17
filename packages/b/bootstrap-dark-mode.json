@@ -1,0 +1,41 @@
+{
+  "name": "bootstrap-dark-mode",
+  "filename": "bootstrap-dark-mode.min.css",
+  "description": "Responsive Dark Mode theme built with Bootstrap 5 with Dark Mode toggle button that switches between dark and light themes.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "theme",
+    "responsive-design",
+    "bootstrap5-template",
+    "dark-mode-toggle", 
+    "dark-mode", 
+    "dark-theme"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/dark-mode/",
+  "repository": {
+    "type": "git",
+    "url": "https://mdbootstrap.com/docs/standard/extended/dark-mode/"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@mdbootstrap/bootstrap-dark-mode",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-dark-mode*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

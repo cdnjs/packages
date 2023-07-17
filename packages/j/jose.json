@@ -1,7 +1,7 @@
 {
   "name": "jose",
   "filename": "index.js",
-  "description": "'JSON Web Almost Everything' - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto",
+  "description": "'JSON Web Almost Everything' - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes",
   "keywords": [
     "compact",
     "decode",
@@ -9,6 +9,7 @@
     "detached",
     "ec",
     "ecdsa",
+    "eddsa",
     "electron",
     "embedded",
     "encrypt",

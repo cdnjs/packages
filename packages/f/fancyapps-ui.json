@@ -34,10 +34,12 @@
       {
         "basePath": "dist",
         "files": [
-          "*.@(js|css)"
+          "*.js",
+          "*/*.@(js|css)",
+          "*/l10n/*.js"
         ]
       }
     ]
   },
-  "filename": "fancybox.umd.js"
+  "filename": "fancybox/fancybox.umd.js"
 }

@@ -1,0 +1,37 @@
+{
+  "name": "undraw-ui",
+  "description": "Undraw UI - A Vue.js 3 UI library",
+  "keywords": [
+    "undraw-ui",
+    "element-plus",
+    "component library",
+    "ui framework",
+    "ui",
+    "vue"
+  ],
+  "license": "MIT",
+  "homepage": "https://undraw.gitee.io/undraw-ui/",
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/undraw/undraw-ui.git"
+  },
+  "authors": [
+    {
+      "name": "readpage",
+      "email": "f1dao@qq.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "undraw-ui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "index.umd.js"
+}

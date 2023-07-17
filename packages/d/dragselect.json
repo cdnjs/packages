@@ -1,0 +1,43 @@
+{
+  "name": "dragselect",
+  "filename": "ds.min.js",
+  "description": "Easy JavaScript library for selecting and moving elements. With no dependencies. Drag-Select & Drag-And-Drop.",
+  "keywords": [
+    "javascript",
+    "lightweight",
+    "npm",
+    "drag-and-drop",
+    "drag",
+    "selection",
+    "production-ready",
+    "no-dependencies",
+    "dragselect",
+    "drag-n-drop",
+    "drag-selection",
+    "drag-select",
+    "drag-selection-library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThibaultJanBeyer/DragSelect.git"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "dragselect",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Thibault Jan Beyer",
+      "url": "http://thibaultjanbeyer.com"
+    }
+  ]
+}

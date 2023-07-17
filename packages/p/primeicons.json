@@ -1,0 +1,32 @@
+{
+  "name": "primeicons",
+  "description": "Font Icon Library for Prime UI Libraries",
+  "keywords": [
+    "Icon"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/primefaces/primeicons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primefaces/primeicons.git"
+  },
+  "authors": [
+    {
+      "name": "PrimeTek"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "primeicons",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "primeicons.css",
+          "fonts/*.@(eot|svg|ttf|woff|woff2)"
+        ]
+      }
+    ]
+  },
+  "filename": "primeicons.css"
+}

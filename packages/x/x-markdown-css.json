@@ -1,0 +1,43 @@
+{
+  "name": "x-markdown-css",
+  "filename": "bundle.min.css",
+  "description": "A simple and customizable markdown CSS stylesheet for everyone.",
+  "license": "MIT",
+  "keywords": [
+    "markdown",
+    "css",
+    "sass",
+    "scss",
+    "coffeescript",
+    "grunt",
+    "javascript",
+    "postcss",
+    "prose",
+    "blog",
+    "article",
+    "documentation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuohuanhuan/x-markdown-css.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "x-markdown-css",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.css?(.map)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "kuohuanhuan",
+      "email": "hi@nekohuan.cyou",
+      "url": "https://nekohuan.cyou"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "bootstrap-weather",
+  "filename": "bootstrap-weather.min.css",
+  "description": "Responsive Weather templates built with the latest Bootstrap 5. Examples of UI with icons, cards, real data from API, interactive animated backgrounds.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "weather",
+    "responsive-design",
+    "bootstrap5-template",
+    "cards"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/weather/",
+  "repository": {
+    "type": "git",
+    "url": "https://mdbootstrap.com/docs/standard/extended/weather/"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-weather",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-weather*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}
