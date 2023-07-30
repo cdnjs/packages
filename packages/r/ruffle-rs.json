@@ -11,7 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/ruffle-rs/ruffle.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "ruffle contributors",
+      "url": "https://github.com/ruffle-rs/ruffle/graphs/contributors"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "@ruffle-rs/ruffle",
