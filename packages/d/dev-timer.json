@@ -18,8 +18,8 @@
                 "files": ["*.js", "*.d.ts"]
             },
             {
-                "basePath": "ES",
-                "files": ["*.js", "*.d.ts"]
+                "basePath": "",
+                "files": ["ES/*.js", "ES/*.d.ts"]
             }
         ]
     },
