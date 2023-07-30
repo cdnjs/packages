@@ -1,0 +1,35 @@
+{
+  "name": "ajaxrequest.js",
+  "description": "A JavaScript class library that can help in managing AJAX requests.",
+  "keywords": [
+    "util",
+    "ajax",
+    "client",
+    "browser"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/usernane/AJAXRequestJS#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/usernane/AJAXRequestJs.git"
+  },
+  "authors": [
+    {
+      "name": "Ibrahim BinAlshikh",
+      "email": "ibrahim@webfiori.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/usernane/AJAXRequestJs.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "AJAXRequest.min.js"
+}
