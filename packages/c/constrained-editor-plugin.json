@@ -1,0 +1,34 @@
+{
+  "name": "constrained-editor-plugin",
+  "description": "A Plugin which adds restrictions to the model of monaco-editor, so that only some parts of the code are editable and rest will become read-only",
+  "keywords": [
+    "monaco-editor",
+    "restrictions-in-editor",
+    "edit-area-restriction"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Pranomvignesh/constrained-editor-plugin#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranomvignesh/constrained-editor-plugin.git"
+  },
+  "authors": [
+    {
+      "name": "VIGNESH. P",
+      "email": "pranomvignesh@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "constrained-editor-plugin",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(css|js)"
+        ]
+      }
+    ]
+  },
+  "filename": "constrainedEditorPlugin.min.js"
+}
