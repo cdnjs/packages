@@ -1,0 +1,32 @@
+{
+    "name": "dev-timer",
+    "filename": "Timer.min.js",
+    "description": "Super interval timer that can handle multiple timers simulteanously.",
+    "keywords": ["timer", "module", "js", "ts"],
+    "homepage": "https://github.com/gaskam-com/dev-timer/wiki",
+    "license": "BSD-3-Clause",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gaskam-com/dev-timer.git"
+    },
+    "autoupdate": {
+        "source": "npm",
+        "target": "dev-timer",
+        "fileMap": [
+            {
+                "basePath": "dist",
+                "files": ["*.js", "*.d.ts"]
+            },
+            {
+                "basePath": "",
+                "files": ["ES/*.js", "ES/*.d.ts"]
+            }
+        ]
+    },
+    "authors": [
+        {
+            "name": "Gaskam",
+            "url": "https://gaskam.com/"
+        }
+    ]
+}
