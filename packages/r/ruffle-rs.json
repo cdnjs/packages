@@ -1,0 +1,33 @@
+{
+  "name": "ruffle-rs",
+  "description": "Putting Flash back on the web. Ruffle will polyfill all Flash content and replace it with the Ruffle flash player.",
+  "keywords": [
+    "flash",
+    "swf"
+  ],
+  "license": "(MIT OR Apache-2.0)",
+  "homepage": "https://ruffle.rs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruffle-rs/ruffle.git"
+  },
+  "authors": [
+    {
+      "name": "ruffle contributors",
+      "url": "https://github.com/ruffle-rs/ruffle/graphs/contributors"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@ruffle-rs/ruffle",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|wasm)"
+        ]
+      }
+    ]
+  },
+  "filename": "ruffle.js"
+}
