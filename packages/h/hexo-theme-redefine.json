@@ -1,0 +1,38 @@
+{
+  "name": "hexo-theme-redefine",
+  "description": "Redefine your writing in Hexo Theme Redefine",
+  "keywords": [
+    "hexo",
+    "theme",
+    "redefine",
+    "simple",
+    "pure",
+    "powerful",
+    "hexo-theme"
+  ],
+  "license": "AGPL-3.0",
+  "homepage": "https://github.com/EvanNotFound/hexo-theme-redefine#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanNotFound/hexo-theme-redefine.git"
+  },
+  "authors": [
+    {
+      "name": "EvanNotFound"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "hexo-theme-redefine",
+    "fileMap": [
+      {
+        "basePath": "source",
+        "files": [
+          "js/**/*.js",
+          "assets/**/*.css",
+          "@(fonts|webfonts|fontawesome)/**/*.@(css|ttf|eot|woff|woff2)"
+        ]
+      }
+    ]
+  }
+}
