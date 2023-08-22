@@ -1,0 +1,39 @@
+{
+  "name": "bootstrap-logo",
+  "filename": "bootstrap-logo.min.css",
+  "description": "Responsive Logo built with Bootstrap 5. Navbar with logo, logo centered in Navbar, logo above the navbar, logo carousel & more.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "template",
+    "responsive-design",
+    "bootstrap5-template",
+    "logo",
+    "navbar"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/logo/",
+  "repository": {
+    "type": "git",
+    "url": "https://mdbootstrap.com/docs/standard/extended/logo/"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-logo",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-logo*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "pretendard-gov",
+  "description": "A system-ui alternative font for all cross-platform",
+  "keywords": [
+    "font",
+    "typeface"
+  ],
+  "license": "OFL-1.1",
+  "homepage": "https://cactus.tistory.com/306",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orioncactus/pretendard"
+  },
+  "authors": [
+    {
+      "name": "Kil Hyung-jin",
+      "email": "orioncactus@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "pretendard-gov",
+    "fileMap": [
+      {
+        "basePath": "dist/web",
+        "files": [
+          "@(static|variable)/*.css",
+          "@(static|variable)/@(woff|woff-dynamic-subset|woff-subset)/*.woff",
+          "@(static|variable)/@(woff2|woff2-dynamic-subset|woff2-subset)/*.woff2"
+        ]
+      }
+    ]
+  },
+  "filename": "variable/pretendardvariable-gov.css"
+}

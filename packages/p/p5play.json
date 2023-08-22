@@ -1,0 +1,46 @@
+{
+  "name": "p5play",
+  "description": "p5play is for creating interactive art and games with the Box2D physics engine.",
+  "keywords": [
+    "p5.play",
+    "p5.js",
+    "p5js",
+    "p5",
+    "q5",
+    "box2d",
+    "physics",
+    "physics engine",
+    "physics simulation",
+    "game engine",
+    "games",
+    "animation",
+    "user input",
+    "controller",
+    "gamepad"
+  ],
+  "license": "GPL-3.0-only",
+  "homepage": "https://p5play.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quinton-ashley/p5play.git"
+  },
+  "authors": [
+    {
+      "name": "quinton-ashley",
+      "email": "info@p5play.org"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "p5play",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "p5play.min.js"
+}
