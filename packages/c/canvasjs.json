@@ -21,6 +21,9 @@
       "name": "fenopix"
     }
   ],
+  "repository": {
+    "private": true
+  }
   "keywords": [
 	"javascript charts",
 	"javascript graphs",
