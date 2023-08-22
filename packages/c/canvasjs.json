@@ -1,16 +1,42 @@
 {
   "name": "canvasjs",
   "filename": "canvasjs.min.js",
-  "description": "CanvasJS is an easy to use HTML5 & JavaScript Charting library built on Canvas element.",
-  "homepage": "http://canvasjs.com/",
-  "keywords": [
-    "canvas",
-    "charts"
-  ],
-  "license": "Creative Commons Attribution-NonCommercial 3.0",
+  "description": "CanvasJS is a JavaScript Charting Library for creating interactive charts & graphs for your web pages. Library supports a wide range of chart types including bar, line, area, pie, doughnut charts, etc. Charts work with all the popular Technologies & Frameworks like React, Angular, jQuery, PHP, etc.",
+  "homepage": "https://canvasjs.com/",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "autoupdate": {
+	"source": "npm",
+	"target": "@canvasjs/charts",
+	"fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
   "authors": [
     {
       "name": "fenopix"
     }
-  ]
+  ],
+  "keywords": [
+	"javascript charts",
+	"javascript graphs",
+	"javascript charting library",
+	"javascript chart library",
+	"html5 charts",
+	"charts",
+	"graphs",
+	"dataviz",
+	"js charts",
+	"canvasjs",
+	"canvas",
+	"high performance charts",
+	"line charts",
+	"area charts",
+	"bar charts",
+	"pie charts"
+  ],
 }
