@@ -1,7 +1,10 @@
 {
   "name": "dash-html-components",
   "description": "Vanilla HTML components for Dash",
-  "keywords": [],
+  "keywords": [
+    "plotly",
+    "dash"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/plotly/dash",
   "repository": {
