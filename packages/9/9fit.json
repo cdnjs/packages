@@ -1,11 +1,21 @@
 {
   "name": "9fit",
   "description": "9fit用作浏览器的帮助",
-  "keywords": [],
+  "keywords": [
+    "player"
+  ],
   "license": "ISC",
-  "homepage": "",
-  "repository": {},
-  "authors": [],
+  "homepage": "https://github.com/n0127/fit/blob/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n0127/fit"
+  },
+  "authors": [
+    {
+      "name": "n0127",
+      "url": "https://github.com/n0127"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "9fit",
