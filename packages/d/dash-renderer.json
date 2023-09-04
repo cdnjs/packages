@@ -1,0 +1,26 @@
+{
+  "name": "dash-renderer",
+  "description": "render dash components in react",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "",
+  "repository": {},
+  "authors": [
+    {
+      "name": "chriddyp"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "dash-renderer",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "dash_renderer.min.js"
+}
