@@ -1,0 +1,30 @@
+{
+  "name": "dash-core-components",
+  "description": "Core component suite for Dash",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "https://github.com/plotly/dash",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/plotly/dash.git"
+  },
+  "authors": [
+    {
+      "name": "Chris Parmer",
+      "email": "chris@plotly.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "dash-core-components",
+    "fileMap": [
+      {
+        "basePath": "dash_core_components",
+        "files": [
+          "dash_core_components*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "dash_core_components.js"
+}
