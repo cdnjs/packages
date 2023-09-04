@@ -22,7 +22,12 @@
     "type": "git",
     "url": "git+https://github.com/duckdb/duckdb-wasm.git"
   },
-  "authors": [],
+  "authors": [
+    {
+      "name": "duckdb-wasm contributors",
+      "url": "https://github.com/duckdb/duckdb-wasm/graphs/contributors"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "@duckdb/duckdb-wasm",
