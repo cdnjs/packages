@@ -1,6 +1,5 @@
 {
   "name": "ag-grid",
-  "filename": "ag-grid-community.min.js",
   "description": "Advanced Framework Agnostic Javascript Datagrid.",
   "repository": {
     "type": "git",
@@ -27,13 +26,13 @@
   "license": "MIT",
   "homepage": "http://www.ag-grid.com/",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/ag-grid/ag-grid.git",
+    "source": "npm",
+    "target": "ag-grid-community",
     "fileMap": [
       {
-        "basePath": "grid-packages/ag-grid-community/dist",
+        "basePath": "dist",
         "files": [
-          "**/*.+(js|css)"
+          "ag-grid-community.min.js"
         ]
       }
     ]
