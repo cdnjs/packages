@@ -3,7 +3,7 @@
   "description": "Bulma's pure JavaScript extension to display toasts. Basically a Bulma's notification implemented as a toast plugin.",
   "keywords": [
     "bulma",
-    "bulma",
+    "toast",
     "extensions",
     "bulma.io"
   ],
