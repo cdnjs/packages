@@ -1,0 +1,33 @@
+{
+  "name": "dash-table",
+  "description": "Dash table",
+  "keywords": [
+    "plotly",
+    "dash"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/plotly/dash",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/plotly/dash.git"
+  },
+  "authors": [
+    {
+      "name": "Chris Parmer",
+      "email": "chris@plotly.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "dash-table",
+    "fileMap": [
+      {
+        "basePath": "dash_table",
+        "files": [
+          "bundle.js"
+        ]
+      }
+    ]
+  },
+  "filename": "bundle.js"
+}
