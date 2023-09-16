@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/svgdotjs/svg.filter.js.git"
   },
-  "homepage": "https://github.com/svgdotjs/svg.filter.js.git",
+  "homepage": "https://github.com/svgdotjs/svg.filter.js#readme",
   "autoupdate": {
     "source": "npm",
     "target": "svg.filter.js",
