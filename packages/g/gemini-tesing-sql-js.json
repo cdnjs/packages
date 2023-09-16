@@ -1,0 +1,38 @@
+{
+  "name": "gemini-testing-sql-js",
+  "license": "MIT",
+  "description": "SQLite library with support for opening and writing databases, prepared statements, and more. This SQLite library is in pure javascript (compiled with emscripten).",
+  "keywords": [
+    "sql",
+    "sqlite",
+    "stand-alone",
+    "relational",
+    "database",
+    "RDBMS",
+    "data",
+    "query",
+    "statement",
+    "emscripten",
+    "asm",
+    "asm.js"
+  ],
+  "homepage": "https://github.com/gemini-testing/sql.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/gemini-testing/sql.js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@gemini-testing/sql.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "sql-wasm.js",
+          "sql-wasm.wasm"
+        ]
+      }
+    ]
+  },
+  "filename": "sql-wasm.js"
+}
