@@ -1,0 +1,29 @@
+{
+  "name": "html-reporter",
+  "license": "MIT",
+  "description": "Plugin for hermione which is intended to aggregate the results of tests running into html report",
+  "keywords": [
+    "hermione",
+    "plugin",
+    "html-reporter"
+  ],
+  "homepage": "https://github.com/gemini-testing/html-reporter#readme",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/gemini-testing/html-reporter.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "html-reporter",
+    "fileMap": [
+      {
+        "basePath": "build/lib/static",
+        "files": [
+          "*.min.js",
+          "*.min.css"
+        ]
+      }
+    ]
+  },
+  "filename": "report.min.js"
+}
