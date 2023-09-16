@@ -1,0 +1,35 @@
+{
+  "name": "just-safe-get",
+  "description": "get value at property, don't throw if parent is undefined",
+  "keywords": [
+    "object",
+    "safe",
+    "get",
+    "no-dependencies",
+    "just"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/angus-c/just#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angus-c/just.git"
+  },
+  "authors": [
+    {
+      "name": "Angus Croll"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "just-safe-get",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.@(cjs|mjs|js)"
+        ]
+      }
+    ]
+  },
+  "filename": "index.cjs"
+}
