@@ -1,0 +1,33 @@
+{
+  "name": "dash-html-components",
+  "description": "Vanilla HTML components for Dash",
+  "keywords": [
+    "plotly",
+    "dash"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/plotly/dash",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plotly/dash.git"
+  },
+  "authors": [
+    {
+      "name": "Chris Parmer",
+      "email": "chris@plotly.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "dash-html-components",
+    "fileMap": [
+      {
+        "basePath": "dash_html_components",
+        "files": [
+          "dash_html_components*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "dash_html_components.min.js"
+}
