@@ -1,0 +1,45 @@
+{
+  "name": "duckdb-wasm",
+  "description": "DuckDB powered by WebAssembly",
+  "keywords": [
+    "sql",
+    "duckdb",
+    "relational",
+    "database",
+    "data",
+    "query",
+    "wasm",
+    "analytics",
+    "olap",
+    "arrow",
+    "parquet",
+    "json",
+    "csv"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/duckdb/duckdb-wasm#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duckdb/duckdb-wasm.git"
+  },
+  "authors": [
+    {
+      "name": "duckdb-wasm contributors",
+      "url": "https://github.com/duckdb/duckdb-wasm/graphs/contributors"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@duckdb/duckdb-wasm",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "duckdb-browser*.@(js|mjs|cjs)",
+          "*.wasm"
+        ]
+      }
+    ]
+  },
+  "filename": "duckdb-browser.cjs"
+}
