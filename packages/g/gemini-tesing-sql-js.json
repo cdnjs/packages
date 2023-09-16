@@ -20,7 +20,7 @@
   "repository": {
     "type": "git",
     "url": "http://github.com/gemini-testing/sql.js.git"
-},
+  },
   "autoupdate": {
     "source": "npm",
     "target": "@gemini-testing/sql.js",
@@ -33,5 +33,6 @@
         ]
       }
     ]
-  }
+  },
+  "filename": "sql-wasm.js"
 }
