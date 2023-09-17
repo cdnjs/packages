@@ -30,7 +30,7 @@
       {
         "basePath": "dist",
         "files": [
-          "ag-grid-community.min.js"
+          "*.@(js|css)"
         ]
       }
     ]
