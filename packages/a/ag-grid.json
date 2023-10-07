@@ -1,5 +1,6 @@
 {
   "name": "ag-grid",
+  "filename": "ag-grid-community.min.js",
   "description": "Advanced Framework Agnostic Javascript Datagrid.",
   "repository": {
     "type": "git",
