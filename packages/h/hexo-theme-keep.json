@@ -28,9 +28,8 @@
       {
         "basePath": "source",
         "files": [
-          "js/**/*",
-          "font/**/*",
-          "images/**/*"
+          "js/**/*.js",
+          "font/**/*.css"
         ]
       }
     ]
