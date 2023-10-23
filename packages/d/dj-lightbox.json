@@ -1,0 +1,36 @@
+{
+  "name": "dj-lightbox",
+  "filename": "js/dj-lightbox.min.js",
+  "description": "DJ Lightbox is small javascript library used to overlay images on top of the current page. It's a snap to setup and works on all modern browsers.",
+  "homepage": "https://github.com/danyg790/dj-lightbox",
+  "keywords": [
+    "lightbox",
+    "maximize",
+    "overlay",
+    "gallery",
+    "slideshow",
+    "images"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/danyg790/dj-lightbox.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.@(css|js)"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danyg790/dj-lightbox.git"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Daniel Giesbrecht"
+    }
+  ]
+}
