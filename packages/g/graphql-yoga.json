@@ -1,0 +1,44 @@
+{
+  "name": "graphql-yoga",
+  "description": "Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience. The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.",
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "fetch",
+    "graphql",
+    "typescript",
+    "w3c",
+    "graphql-server",
+    "whatwg",
+    "bun",
+    "deno",
+    "the-guild"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dotansimha/graphql-yoga",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotansimha/graphql-yoga.git"
+  },
+  "authors": [
+    {
+      "name": "@dotan",
+      "email": "dotansimha@gmail.com"
+    },
+    {
+      "name": "@saihaj",
+      "email": "saihajpreet.singh@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "graphql-yoga",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["*.js"]
+      }
+    ]
+  },
+  "filename": "dist/cjs/index.js"
+}
