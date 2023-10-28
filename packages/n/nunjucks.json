@@ -12,8 +12,8 @@
   ],
   "license": "BSD-2-Clause",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/mozilla/nunjucks.git",
+    "source": "npm",
+    "target": "nunjucks",
     "fileMap": [
       {
         "basePath": "browser",
