@@ -1,37 +1,34 @@
 {
   "name": "xterm",
-  "filename": "xterm.min.js",
-  "description": "Full xterm terminal, in your browser",
+  "filename": "xterm.js",
+  "description": "Build terminals in the browser",
   "homepage": "https://xtermjs.org/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sourcelair/xterm.js"
+    "url": "git+https://github.com/xtermjs/xterm.js"
   },
-  "keywords": [
-    "xterm",
-    "terminal",
-    "browser-tty"
-  ],
+  "keywords": ["xterm", "terminal", "browser-tty"],
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
-    "target": "xterm",
+    "target": "@xterm/xterm",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
+        "basePath": "lib",
+        "files": ["*.js", "*.map"]
+      },
+      {
+        "basePath": "css",
+        "files": ["*.css"]
       }
-    ],
-    "ignoreVersions": [
-      "3.*-beta*",
-      "3.14.0"
     ]
+  },
+  "optimization": {
+    "js": false
   },
   "authors": [
     {
-      "name": "SourceLair"
+      "name": "Daniel Imms"
     }
   ]
 }
