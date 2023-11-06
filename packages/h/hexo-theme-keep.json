@@ -29,7 +29,8 @@
         "basePath": "source",
         "files": [
           "js/**/*.js",
-          "font/**/*.css"
+          "font/css/*.css",
+          "font/webfonts/*.@(ttf|woff2)"
         ]
       }
     ]
