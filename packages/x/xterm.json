@@ -7,7 +7,11 @@
     "type": "git",
     "url": "git+https://github.com/xtermjs/xterm.js"
   },
-  "keywords": ["xterm", "terminal", "browser-tty"],
+  "keywords": [
+    "xterm", 
+    "terminal", 
+    "browser-tty"
+  ],
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
@@ -15,11 +19,15 @@
     "fileMap": [
       {
         "basePath": "lib",
-        "files": ["*.js", "*.map"]
+        "files": [
+          "*.js?(.map)"
+        ]
       },
       {
         "basePath": "css",
-        "files": ["*.css"]
+        "files": [
+          "*.css"
+        ]
       }
     ]
   },
