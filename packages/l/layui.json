@@ -22,10 +22,9 @@
       {
         "basePath": "dist",
         "files": [
-          "*.js",
+          "*.js?(.map)",
           "css/**/*.css",
-          "font/*.@(eot|ttf|svg|woff|woff2)",
-          "*.map"
+          "font/*.@(eot|ttf|svg|woff|woff2)"
         ]
       }
     ]
