@@ -2,7 +2,7 @@
   "name": "jos-animation",
   "description": "An animation library package to instantly add beautiful/professional looking animation to your website",
   "homepage": "jos-animation.vercel.app",
-  "filename": "dist/jos.js",
+  "filename": "jos.js",
   "keywords": [
     "jos",
     "on-scroll",
@@ -35,7 +35,9 @@
     "fileMap": [
       {
         "basePath": "dist",
-        "files": ["**/*"]
+        "files": [
+          "*.@(css|js)"
+        ]
       }
     ]
   },
