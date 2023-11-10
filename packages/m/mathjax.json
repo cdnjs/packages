@@ -21,6 +21,13 @@
         "basePath": "",
         "files": [
           "es5/**/!(node-main.js)",
+          "*.js!(node-main.js)",
+          "ui/*.js",
+          "sre/*.js",
+          "adaptors/*.js",
+          "a11y/*.js",
+          "input/*.js",
+          "output/*.js",
           "config/**/*",
           "extensions/**/*",
           "localization/**/*",
