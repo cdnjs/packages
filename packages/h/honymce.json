@@ -1,0 +1,40 @@
+{
+  "name": "honymce",
+  "filename": "tinymce.min.js",
+  "description": "HonyMce rich text editor, Personalized By Milad",
+  "homepage": "https://github.com/miladshakerdn/honymce",
+  "keywords": [
+    "tinymce",
+    "editor",
+    "wysiwyg"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miladshakerdn/honymce.git"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/miladshakerdn/honymce.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.min.+(css|js|map)",
+          "skins/lightgray/img/*",
+          "skins/lightgray/fonts/*",
+          "plugins/**/plugin.js",
+          "plugins/**/i18n/**/*.js",
+          "plugins/**/*.!(js)",
+          "Langs/**/*.!(js)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Milad Shaker",
+      "email": "milad1shaker@gmail.com"
+    }
+  ]
+}
