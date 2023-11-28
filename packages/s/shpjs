@@ -1,0 +1,27 @@
+{
+  "name": "shpjs",
+  "description": "Convert a Shapefile to GeoJSON. Not many caveats.",
+  "keywords": [
+    "shpjs",
+    "shapefile"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/calvinmetcalf/shapefile-js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calvinmetcalf/shapefile-js.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "shpjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "shp.min.js"
+}
