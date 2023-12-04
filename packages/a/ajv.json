@@ -3,18 +3,20 @@
   "description": "Another JSON Schema Validator",
   "repository": {
     "type": "git",
-    "url": "https://github.com/epoberezkin/ajv.git"
+    "url": "https://github.com/ajv-validator/ajv.git"
   },
   "keywords": [
     "JSON",
     "schema",
-    "validator"
+    "validator",
+    "jsonschema",
+    "json-schema"
   ],
   "license": "MIT",
-  "filename": "ajv7.min.js",
+  "filename": "ajv.js",
   "autoupdate": {
     "source": "npm",
-    "target": "ajv-dist",
+    "target": "ajv",
     "fileMap": [
       {
         "basePath": "dist",
