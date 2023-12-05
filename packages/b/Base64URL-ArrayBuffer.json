@@ -1,6 +1,6 @@
 {
   "name": "Base64URL-ArrayBuffer",
-  "filename": "dist/main.umd.js",
+  "filename": "main.umd.js",
   "description": "Encode and Decode Base64URLs into ArrayBuffers",
   "repository": {
     "type": "git",
