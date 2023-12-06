@@ -1,0 +1,51 @@
+{
+  "name": "hyperjump-json-schema",
+  "description": "A JSON Schema validator with support for custom keywords, vocabularies, and dialects",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyperjump-io/json-schema"
+  },
+  "keywords": [
+    "JSON Schema",
+    "json-schema",
+    "jsonschema",
+    "JSON",
+    "Schema",
+    "2020-12",
+    "2019-09",
+    "draft-07",
+    "draft-06",
+    "draft-04",
+    "vocabulary",
+    "vocabularies"
+  ],
+  "license": "MIT",
+  "filename": "stable/index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@hyperjump/json-schema",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "annotations/**/*.js",
+          "bundle/*.js",
+          "draft-04/*.js",
+          "draft-06/*.js",
+          "draft-07/*.js",
+          "draft-2019-09/**/*.js",
+          "draft-2020-12/**/*.js",
+          "lib/**/*.js",
+          "openapi-3-0/**/*.js",
+          "openapi-3-1/**/*.js",
+          "stable/**/*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Jason Desrosiers <jdesrosi@gmail.com>"
+    }
+  ]
+}
