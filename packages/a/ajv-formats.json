@@ -1,0 +1,37 @@
+{
+  "name": "ajv-formats",
+  "description": "Another JSON Schema Validator extension for JSON Schema format keywords",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajv-validator/ajv-formats.git"
+  },
+  "keywords": [
+    "JSON",
+    "schema",
+    "validator",
+    "jsonschema",
+    "json-schema",
+    "draft-04",
+    "formats",
+    "format"
+  ],
+  "license": "MIT",
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ajv-formats",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js?(.map)|d.ts)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Evgeny Poberezkin"
+    }
+  ]
+}
