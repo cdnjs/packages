@@ -1,0 +1,36 @@
+{
+  "name": "twing",
+  "description": "First-class JavaScript Twig compiler",
+  "filename": "lib.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git://gitlab.com/nightlycommit/twing.git"
+  },
+  "keywords": [
+    "browser",
+    "compiler",
+    "template",
+    "twig",
+    "twig-engine",
+    "typescript"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "twing",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "lib.min.js"
+        ]
+      }
+    ]
+  },
+  "license": "BSD-2-Clause",
+  "authors": [
+    {
+      "name": "Eric MORAND",
+      "email": "eric.morand@gmail.com"
+    }
+  ]
+}
