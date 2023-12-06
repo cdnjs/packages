@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/twitter/twemoji.git",
+    "target": "git://github.com/jdecked/twemoji.git",
     "fileMap": [
       {
         "basePath": "assets",
@@ -25,14 +25,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/twitter/twemoji.git"
+    "url": "https://github.com/jdecked/twemoji.git"
   },
-  "authors": [
-    {
-      "name": "Twitter, Inc.",
-      "url": "https://github.com/twitter/"
-    }
-  ],
   "license": "(MIT OR CC-BY-4.0)",
   "optimization": {
     "png": false
