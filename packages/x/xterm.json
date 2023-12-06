@@ -8,8 +8,8 @@
     "url": "git+https://github.com/xtermjs/xterm.js"
   },
   "keywords": [
-    "xterm", 
-    "terminal", 
+    "xterm",
+    "terminal",
     "browser-tty"
   ],
   "license": "MIT",
