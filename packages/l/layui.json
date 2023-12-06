@@ -23,7 +23,7 @@
         "basePath": "dist",
         "files": [
           "*.js?(.map)",
-          "css/**/*.css",
+          "css/**/*.css?(.map)",
           "font/*.@(eot|ttf|svg|woff|woff2)"
         ]
       }
