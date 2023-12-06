@@ -1,0 +1,38 @@
+{
+  "name": "hexo-theme-keep",
+  "description": "A simple and elegant theme for Hexo.",
+  "keywords": [
+    "hexo",
+    "theme",
+    "simple",
+    "elegant",
+    "powerful"
+  ],
+  "license": "AGPL-3.0",
+  "homepage": "https://github.com/XPoet/hexo-theme-keep#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XPoet/hexo-theme-keep.git"
+  },
+  "authors": [
+    {
+      "name": "XPoet",
+      "email": "i@xpoet.cn",
+      "url": "https://xpoet.cn"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "hexo-theme-keep",
+    "fileMap": [
+      {
+        "basePath": "source",
+        "files": [
+          "js/**/*.js",
+          "font/css/*.css",
+          "font/webfonts/*.@(ttf|woff2)"
+        ]
+      }
+    ]
+  }
+}
