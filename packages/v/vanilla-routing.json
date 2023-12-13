@@ -1,0 +1,37 @@
+{
+	"name": "vanilla-routing",
+	"filename": "index.js",
+	"description": "vanilla-routing is modern Vanilla Javascript routing library.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jscodelover/vanilla-routing.git"
+	},
+	"authors": [
+		{
+			"name": "Manisha Basra (jscodelover)",
+			"email": "manisha4918@gmail.com"
+		}
+	],
+	"keywords": [
+		"route",
+		"routing",
+		"spa",
+		"vanilla routing",
+		"client side routing",
+		"browser router",
+		"hash router",
+		"router"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/jscodelover/vanilla-routing",
+	"autoupdate": {
+		"source": "npm",
+		"target": "vanilla-routing",
+		"fileMap": [
+			{
+				"basePath": "dist",
+				"files": ["index.js"]
+			}
+		]
+	}
+}
