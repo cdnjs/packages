@@ -1,0 +1,33 @@
+{
+  "name": "translate.js",
+  "filename": "translate.js",
+  "description": "two lines js accomplish html Fully automatic translation. No page changes, no language configuration files, no API Key, right SEO friendly!",
+  "keywords": [
+    "translate",
+    "translate.js",
+    "tcdn"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xnx3/translate"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/xnx3/translate",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/xnx3/translate.git",
+    "fileMap": [
+      {
+        "basePath": "translate.js",
+        "files": [
+          "translate.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "LeiMing Guan"
+    }
+  ]
+}
