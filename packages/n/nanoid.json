@@ -21,7 +21,7 @@
       {
         "basePath": "",
         "files": [
-          "{,async/,non-secure/}*.@(js|ts)"
+          "{,async/,non-secure/,url-alphabet/}*.@(js|ts)"
         ]
       }
     ]
