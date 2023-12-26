@@ -1,5 +1,5 @@
 {
-  "name": "@carbon/charts",
+  "name": "carbon-charts",
   "description": "Carbon Charts component library",
   "keywords": [
 		"charts",
