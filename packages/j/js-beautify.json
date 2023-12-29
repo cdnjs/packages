@@ -1,15 +1,16 @@
 {
   "name": "js-beautify",
   "filename": "beautify.min.js",
-  "description": "jsbeautifier.org for node",
-  "homepage": "http://jsbeautifier.org/",
+  "description": "beautifier.io for node",
+  "homepage": "http://beautifier.io/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/beautify-web/js-beautify.git"
+    "url": "git://github.com/beautifier/js-beautify.git"
   },
   "keywords": [
     "beautify",
     "beautifier",
+    "formatter",
     "code-quality"
   ],
   "license": "MIT",
@@ -30,6 +31,10 @@
     {
       "name": "Einar Lielmanis",
       "email": "einar@jsbeautifier.org"
+    },
+    {
+      "name": "Liam Newman",
+      "email": "bitwiseman@beautifier.io"
     }
   ]
 }
