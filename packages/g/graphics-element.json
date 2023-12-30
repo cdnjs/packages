@@ -3,9 +3,6 @@
   "filename": "graphics-element.js",
   "description": "A custom HTML <graphics-element>",
   "homepage": "https://pomax.github.io/custom-graphics-element",
-  "bugs": {
-    "url": "https://github.com/pomax/custom-graphics-element/issues"
-  },
   "keywords": ["html", "custom element", "graphics"],
   "repository": {
     "type": "git",
