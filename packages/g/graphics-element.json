@@ -1,0 +1,22 @@
+{
+  "name": "graphics-element",
+  "filename": "graphics-element.js",
+  "description": "A custom HTML <graphics-element>",
+  "homepage": "https://pomax.github.io/custom-graphics-element",
+  "keywords": ["html", "custom element", "graphics"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pomax/custom-graphics-element.git"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "graphics-element",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["*.js", "*.css"]
+      }
+    ]
+  }
+}
