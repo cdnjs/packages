@@ -23,7 +23,7 @@
       {
         "basePath": "lib/esm",
         "files": [
-          "/**/*.@(mjs?(.map))"
+          "**/*.mjs?(.map)"
         ]
       }
     ]
