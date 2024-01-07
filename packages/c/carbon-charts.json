@@ -43,8 +43,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*.css",
-          "**/*.css.map"
+          "*.css?(.map)"
         ]
       },
       {
