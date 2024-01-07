@@ -35,7 +35,7 @@
     "type": "git",
     "url": "https://github.com/carbon-design-system/carbon-charts/tree/master/packages/core"
   },
-  "filename": "dist/umd/bundle.umd.js",
+  "filename": "bundle.umd.js",
   "autoupdate": {
     "source": "npm",
     "target": "@carbon/charts",
