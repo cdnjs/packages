@@ -21,7 +21,16 @@
       {
         "basePath": "build",
         "files": [
-          "**/jodit*.+(css|js)"
+          "es2015/*.@(css|js)",
+          "es2015/**/*.@(css|js)",
+          "es2018/*.@(css|js)",
+          "es2018/**/*.@(css|js)",
+          "es2021/*.@(css|js)",
+          "es2021/**/*.@(css|js)",
+          "es2021.en/*.@(css|js)",
+          "es2021.en/**/*.@(css|js)",
+          "es5/*.@(css|js)",
+          "es5/**/*.@(css|js)"
         ]
       }
     ]
