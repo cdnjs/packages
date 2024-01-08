@@ -19,7 +19,7 @@
     "target": "jodit",
     "fileMap": [
       {
-        "basePath": "./",
+        "basePath": "es2021",
         "files": [
           "**/*.@min.(css|js)"
         ]
