@@ -21,7 +21,7 @@
       {
         "basePath": "es2021",
         "files": [
-          "**/*.@min.(css|js)"
+          "**/*.@(css|js)"
         ]
       }
     ]
