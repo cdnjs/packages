@@ -21,8 +21,7 @@
       {
         "basePath": "build",
         "files": [
-          "jodit*.+(css|js)",
-          "plugins/**/*.@(css|js)"
+          "**/jodit*.+(css|js)"
         ]
       }
     ]
