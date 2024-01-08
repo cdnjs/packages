@@ -47,7 +47,8 @@
         "files": [
           "**/*.@(css|js)"
         ]
-      },{
+      },
+      {
         "basePath": "esm",
         "files": [
           "**/*.@(js)"
