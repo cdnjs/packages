@@ -31,7 +31,9 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "{,locale/}*.js?(.map)",
+          "styles/*.css",
+          "styles/fonts/*.@(svg|ttf|woff|woff2)"
         ]
       }
     ]
