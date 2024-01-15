@@ -19,39 +19,9 @@
     "target": "jodit",
     "fileMap": [
       {
-        "basePath": "es2021",
+        "basePath": "",
         "files": [
           "**/*.@(css|js)"
-        ]
-      },
-      {
-        "basePath": "es2021.en",
-        "files": [
-          "**/*.@(css|js)"
-        ]
-      },
-      {
-        "basePath": "es2018",
-        "files": [
-          "**/*.@(css|js)"
-        ]
-      },
-      {
-        "basePath": "es2015",
-        "files": [
-          "**/*.@(css|js)"
-        ]
-      },
-      {
-        "basePath": "es5",
-        "files": [
-          "**/*.@(css|js)"
-        ]
-      },
-      {
-        "basePath": "esm",
-        "files": [
-          "**/*.@(js)"
         ]
       }
     ]
