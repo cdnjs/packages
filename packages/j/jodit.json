@@ -21,12 +21,9 @@
       {
         "basePath": "",
         "files": [
-          "!(esm|examples|types){,**/*.@(css|js)}"
+          "!(esm|examples|types|es5){,**/*.@(css|js)}"
         ]
       }
-    ],
-    "ignoreVersions": [
-      "4.0.0-beta.*"
     ]
   },
   "authors": [
