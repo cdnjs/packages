@@ -17,6 +17,7 @@
   "autoupdate": {
     "source": "npm",
     "target": "jodit",
+    "versions": ["^4.0.1"],
     "fileMap": [
       {
         "basePath": "",
