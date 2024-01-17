@@ -1,5 +1,6 @@
 {
   "name": "jodit",
+  "versions": ["^4.0.1"],
   "filename": "jodit.min.js",
   "description": "Jodit is awesome and usefully wysiwyg editor with filebrowser",
   "homepage": "http://xdsoft.net/jodit/",
@@ -17,7 +18,6 @@
   "autoupdate": {
     "source": "npm",
     "target": "jodit",
-    "versions": ["^4.0.1"],
     "fileMap": [
       {
         "basePath": "",
