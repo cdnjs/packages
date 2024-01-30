@@ -15,7 +15,7 @@
     "hexo-theme-solitude"
   ],
   "license": "GNU",
-  "homepage": "https://blog.wzsco.top"
+  "homepage": "https://blog.wzsco.top",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wleelw/hexo-theme-solitude.git"
