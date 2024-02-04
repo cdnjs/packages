@@ -1,0 +1,42 @@
+{
+  "name": "view-ui-plus",
+  "description": "An enterprise-level UI component library and front-end solution based on Vue.js 3",
+  "homepage": "www.iviewui.com",
+  "keywords": [
+    "iview",
+    "vue",
+    "viewui",
+    "viewuiplus",
+    "vue.js",
+    "component",
+    "components",
+    "ui",
+    "framework"
+  ],
+  "authors": [
+    {
+      "name": "Aresn",
+      "email": "admin@aresn.com",
+      "url": "https://www.iviewui.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/view-design/ViewUIPlus.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "view-ui-plus",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "{,locale/}*.js?(.map)",
+          "styles/*.css",
+          "styles/fonts/*.@(svg|ttf|woff|woff2)"
+        ]
+      }
+    ]
+  },
+  "license": "MIT"
+}
