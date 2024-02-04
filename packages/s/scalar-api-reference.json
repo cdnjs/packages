@@ -1,0 +1,37 @@
+{
+	"name": "scalar-api-reference",
+	"filename": "standalone.js",
+	"description": "Generate beautiful API references from OpenAPI specs",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/scalar/scalar.git"
+	},
+	"authors": [
+		{
+			"name": "Scalar",
+			"email": "marc@scalar.com"
+		}
+	],
+	"keywords": [
+		"api",
+    "docs",
+    "documentation",
+    "reference",
+    "component",
+    "openapi",
+    "swagger",
+    "vue"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/scalar/scalar",
+	"autoupdate": {
+		"source": "npm",
+		"target": "@scalar/api-reference",
+		"fileMap": [
+			{
+				"basePath": "dist/browser",
+				"files": ["standalone.js"]
+			}
+		]
+	}
+}
