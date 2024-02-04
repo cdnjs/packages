@@ -2,7 +2,7 @@
   "name": "normalize",
   "filename": "normalize.min.css",
   "description": "Normalize.css as a node packaged module",
-  "homepage": "http://necolas.github.com/normalize.css/",
+  "homepage": "https://necolas.github.io/normalize.css/",
   "keywords": [
     "cross browser"
   ],
