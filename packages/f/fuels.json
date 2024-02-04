@@ -2,7 +2,7 @@
   "name": "fuels",
   "description": "Fuel TS SDK",
   "homepage": "https://fuellabs.github.io/fuels-ts/",
-  "filename": "index.js",
+  "filename": "browser.mjs",
   "keywords": ["ethereum", "fuels", "fuel-vm", "sway", "typescript"],
   "authors": [
     {
@@ -21,7 +21,7 @@
     "fileMap": [
       {
         "basePath": "dist",
-        "files": ["*.js"]
+        "files": ["browser.mjs"]
       }
     ]
   },
