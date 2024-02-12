@@ -24,7 +24,8 @@
         "files": [
           "mdui.css",
           "mdui.esm.js",
-          "mdui.global.js"
+          "mdui.global.js",
+          "locale/*.js"
         ]
       }
     ]
