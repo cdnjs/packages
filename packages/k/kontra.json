@@ -1,7 +1,7 @@
 {
   "name": "kontra",
   "description": "Kontra HTML5 game development library",
-  "filename": "echarts.min.js",
+  "filename": "kontra.js",
   "keywords": [
     "HTML5",
     "JavaScript",
