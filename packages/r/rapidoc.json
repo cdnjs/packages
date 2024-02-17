@@ -1,6 +1,6 @@
 {
 	"name": "rapidoc",
-	"filename": "standalone.js",
+	"filename": "rapidoc-min.js",
 	"description": "Custom Element for Open-API spec viewing",
 	"repository": {
 		"type": "git",
