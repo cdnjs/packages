@@ -21,7 +21,7 @@
       {
         "basePath": "",
         "files": [
-          "!(examples|types)/**/*min.@(css|js)"
+          "@(es2015|es2018|es2021|es2021.en|es5)/**/*.min.@(css|js)"
         ]
       }
     ]
