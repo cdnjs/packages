@@ -14,8 +14,8 @@
     "spreadsheet"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/handsontable/handsontable.git",
+    "source": "npm",
+    "target": "handsontable",
     "fileMap": [
       {
         "basePath": "dist",
