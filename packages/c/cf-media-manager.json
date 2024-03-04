@@ -1,0 +1,29 @@
+{
+    "name": "cf-media-manager",
+    "filename": "cf-media-manager-min.js",
+    "description": "User interfaces to interact with Cloudflare media files like Cloudflare Images, Cloudflare Stream or R2",
+    "keywords": [
+      "Cloudflare",
+      "Media Manager"
+    ],
+    "homepage": "https://developers.cloudflare.com/images/",
+    "license": "MIT",
+    "autoupdate": {
+      "source": "npm",
+      "target": "@cloudflare/media-manager",
+      "fileMap": [
+        {
+          "basePath": "dist",
+          "files": [
+            "*.js"
+          ]
+        }
+      ]
+    },
+    "authors": [
+      {
+        "name": "Florian Martens",
+        "email": "florian@cloudflare.com"
+      }
+    ]
+  }
