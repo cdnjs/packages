@@ -20,7 +20,6 @@
       {
         "basePath": "",
         "files": [
-          "**/!(node-main.js)",
           "*.js!(node-main.js)",
           "ui/*.js",
           "sre/*.js",
