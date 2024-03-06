@@ -4,10 +4,17 @@
   "description": "User interfaces to interact with Cloudflare media files like Cloudflare Images, Cloudflare Stream or R2",
   "keywords": [
     "Cloudflare",
-    "Media Manager"
+    "Media Manager",
+    "Cloudflare Images",
+    "Clouflare Stream",
+    "Cloudflare R2"
   ],
   "homepage": "https://developers.cloudflare.com/images/",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudflare/media-manager"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "@cloudflare/media-manager",
@@ -15,7 +22,8 @@
       {
         "basePath": "dist",
         "files": [
-          "*.js"
+          "**/*.d.ts",
+          "browser/*.@(js|css)"
         ]
       }
     ]
