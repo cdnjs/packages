@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloudflare/media-manager"
+    "url": "git+https://github.com/cloudflare/media-manager.git"
   },
   "autoupdate": {
     "source": "npm",
