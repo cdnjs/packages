@@ -1,6 +1,6 @@
 {
   "name": "cf-media-manager",
-  "filename": "cf-media-manager-min.js",
+  "filename": "browser/media-manager.iife.min.js",
   "description": "User interfaces to interact with Cloudflare media files like Cloudflare Images, Cloudflare Stream or R2",
   "keywords": [
     "Cloudflare",
