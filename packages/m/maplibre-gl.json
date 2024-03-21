@@ -12,7 +12,7 @@
     "map",
     "vector",
     "tiles",
-    "mapping"'
+    "mapping"
   ],
   "autoupdate": {
     "source": "npm",
@@ -21,7 +21,7 @@
       {
         "basePath": "dist",
         "files": [
-          "*@(.js|.css|.map)"
+          "*.@(js|css)?(.map)"
         ]
       }
     ]
