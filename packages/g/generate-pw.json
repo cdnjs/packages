@@ -1,0 +1,33 @@
+{
+  "name": "generate-pw",
+  "filename": "generate-pw.min.js",
+  "license": "MIT",
+  "description": "Randomly generate, strengthen, and validate cryptographically-secure passwords.",
+  "homepage": "https://js-utils.com/generate-pw",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adamlui/js-utils.git"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "unique",
+    "generate",
+    "api"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "generate-pw",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
