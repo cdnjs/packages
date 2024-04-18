@@ -1,0 +1,30 @@
+{
+  "name": "pearssauce-busuanzi",
+  "description": "青秸的busuanzi平台",
+  "keywords": [],
+  "license": "ISC",
+  "homepage": "https://github.com/PearsSauce/PearsSauce_busuanzi#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PearsSauce/PearsSauce_busuanzi.git"
+  },
+  "authors": [
+    {
+      "name": "PearsSauce",
+      "email": "lemon@lemonso.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "pearssauce-busuanzi",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "bsz.pure.mini.js"
+}
