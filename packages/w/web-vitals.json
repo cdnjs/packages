@@ -1,0 +1,36 @@
+{
+  "name": "web-vitals",
+  "filename": "web-vitals.js",
+  "description": "Easily measure performance metrics in JavaScript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoogleChrome/web-vitals.git"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "analytics",
+    "google",
+    "performance",
+    "web-performance"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "web-vitals",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Google Inc."
+    }
+  ]
+}
