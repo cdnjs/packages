@@ -1,7 +1,7 @@
 {
   "name": "lxgw-wenkai-web",
   "description": "Web font package for LXGW WenKai",
-  "filename": "style.css"
+  "filename": "style.css",
   "license": "MIT",
   "homepage": "https://github.com/CMBill/lxgw-wenkai-web",
   "repository": {
