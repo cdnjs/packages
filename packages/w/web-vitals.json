@@ -1,6 +1,6 @@
 {
   "name": "web-vitals",
-  "filename": "web-vitals.min.js",
+  "filename": "web-vitals.js",
   "description": "Easily measure performance metrics in JavaScript",
   "repository": {
     "type": "git",
