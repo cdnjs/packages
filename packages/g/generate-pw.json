@@ -3,7 +3,7 @@
   "filename": "generate-pw.min.js",
   "license": "MIT",
   "description": "Randomly generate, strengthen, and validate cryptographically-secure passwords.",
-  "homepage": "https://js-utils.com/generate-pw",
+  "homepage": "https://generatepw.org",
   "repository": {
     "type": "git",
     "url": "git://github.com/adamlui/js-utils.git"
