@@ -8,11 +8,13 @@
     "type": "git",
     "url": "git://github.com/KudoAI/chatgpt.js.git"
   },
-  "author": {
-    "name": "KudoAI & contributors",
-    "email": "opensource@kudoai.com",
-    "url": "https://www.kudoai.com"
-  },
+  "authors": [
+    {
+      "name": "KudoAI & contributors",
+      "email": "opensource@kudoai.com",
+      "url": "https://www.kudoai.com"
+    }
+  ],
   "keywords": [
     "ai",
     "artificial intelligence",
