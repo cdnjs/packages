@@ -8,6 +8,13 @@
     "type": "git",
     "url": "git://github.com/adamlui/js-utils.git"
   },
+  "authors": [
+    {
+      "name": "Adam Lui",
+      "email": "adam@kudoai.com",
+      "url": "https://github.com/adamlui"
+    }
+  ],
   "keywords": [
     "password",
     "generator",
