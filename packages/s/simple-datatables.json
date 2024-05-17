@@ -1,0 +1,42 @@
+{
+  "name": "simple-datatables",
+  "description": "DataTables but in TypeScript transpiled to Vanilla JS",
+  "keywords": [
+    "DataTable",
+    "DataTables",
+    "table",
+    "html table",
+    "filter",
+    "sort"
+  ],
+  "license": "LGPL",
+  "homepage": "https://github.com/fiduswriter/simple-datatables",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fiduswriter/simple-datatables.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "simple-datatables",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "*.js",
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Johannes Wilm",
+      "url": "http://www.johanneswilm.org"
+    }
+  ]
+}
