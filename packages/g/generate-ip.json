@@ -3,11 +3,18 @@
   "filename": "generate-ip.min.js",
   "license": "MIT",
   "description": "Randomly generate, format, and validate IPv4/IPv6 addresses.",
-  "homepage": "https://js-utils.com/generate-ip",
+  "homepage": "https://generate-ip.org",
   "repository": {
     "type": "git",
     "url": "git://github.com/adamlui/js-utils.git"
   },
+  "authors": [
+    {
+      "name": "Adam Lui",
+      "email": "adam@kudoai.com",
+      "url": "https://github.com/adamlui"
+    }
+  ],
   "keywords": [
     "ip",
     "generator",
