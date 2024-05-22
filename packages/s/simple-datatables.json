@@ -1,6 +1,7 @@
 {
   "name": "simple-datatables",
   "description": "DataTables but in TypeScript transpiled to Vanilla JS",
+  "filename": "simple-datatables.js",
   "keywords": [
     "DataTable",
     "DataTables",
