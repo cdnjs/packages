@@ -1,0 +1,54 @@
+{
+  "name": "chatgpt.js",
+  "filename": "chatgpt.min.js",
+  "license": "MIT",
+  "description": "Client-side JavaScript library for ChatGPT.",
+  "homepage": "https://chatgpt.js.org",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KudoAI/chatgpt.js.git"
+  },
+  "authors": [
+    {
+      "name": "KudoAI & contributors",
+      "email": "opensource@kudoai.com",
+      "url": "https://www.kudoai.com"
+    }
+  ],
+  "keywords": [
+    "ai",
+    "artificial intelligence",
+    "bot",
+    "chat",
+    "chatbot",
+    "chatgpt",
+    "clientside",
+    "conversational ai",
+    "frontend",
+    "gpt",
+    "gpt3",
+    "gpt4",
+    "javascript",
+    "library",
+    "machine learning",
+    "ml",
+    "nlp",
+    "openai",
+    "api"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@kudoai/chatgpt.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
