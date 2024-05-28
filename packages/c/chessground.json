@@ -15,7 +15,7 @@
     },
     "autoupdate": {
         "source": "npm",
-        "target": "Chessground",
+        "target": "chessground",
         "fileMap": [
             {
                 "basePath": "dist",
