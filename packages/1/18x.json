@@ -3,7 +3,7 @@
   "description": "Util js for build web site",
   "repository": {
     "type": "git",
-    "url": "https://atomgit.com/i18n/x.git"
+    "url": "https://atomgit.com/i18n/18x.git"
   },
   "keywords": [
     "lightbox",
@@ -12,7 +12,7 @@
     "misc"
   ],
   "license": "Apache-2.0",
-  "homepage": "https://atomgit.com/i18n/x",
+  "homepage": "https://atomgit.com/i18n/18x",
   "autoupdate": {
     "source": "npm",
     "target": "18x",
