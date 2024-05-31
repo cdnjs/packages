@@ -1,0 +1,63 @@
+{
+  "name": "jssm",
+  "filename": "jssm.es5.iife.js",
+  "homepage": "https://github.com/StoneCypher/jssm",
+  "description": "Fast, easy Javascript finite state machines with visualizations; enjoy a one liner FSM instead of pages.",
+  "keywords": [
+    "finite",
+    "state",
+    "state machine",
+    "state-machine",
+    "machine",
+    "finite-state-machine",
+    "finite state machine",
+    "fsm",
+    "fsm-library",
+    "js",
+    "javascript",
+    "javascript-library",
+    "mit-license",
+    "tested",
+    "typed",
+    "typed-js",
+    "mealy",
+    "moore",
+    "mealy machine",
+    "moore machine",
+    "mealy-machine",
+    "moore-machine",
+    "graphviz",
+    "viz.js",
+    "fsl",
+    "finite-state-language",
+    "flowchart",
+    "visualization",
+    "TypeScript",
+    "StoneCypher"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StoneCypher/jssm.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/StoneCypher/jssm.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "jssm.es5.iife.js",
+          "jssm.d.ts"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "John Haugeland",
+      "email": "stonecypher@gmail.com",
+      "url": "https://johnhaugeland.com/"
+    }
+  ]
+}
