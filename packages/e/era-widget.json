@@ -1,0 +1,34 @@
+{
+  "name": "era-widget",
+  "description": "Build custom widget for e-ra.io platform",
+  "filename": "index.js",
+  "keywords": [
+    "e-ra",
+    "era",
+    "wiget",
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/eoh-jsc/era-widget",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eoh-jsc/era-widget.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@eohjsc/era-widget",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Bang Dao",
+      "url": "https://daotranbang.com/"
+    }
+  ]
+}
