@@ -8,10 +8,10 @@
     "wiget",
   ],
   "license": "MIT",
-  "homepage": "https://github.com/eoh-jsc/era-widget",
+  "homepage": "https://github.com/eoh-public/era-widget",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eoh-jsc/era-widget.git"
+    "url": "https://github.com/eoh-public/era-widget.git"
   },
   "autoupdate": {
     "source": "npm",
