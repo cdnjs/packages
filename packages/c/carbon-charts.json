@@ -49,7 +49,7 @@
       {
         "basePath": "dist/umd",
         "files": [
-          "*.js?(.map)"
+          "*.cjs?(.map)"
         ]
       }
     ]
