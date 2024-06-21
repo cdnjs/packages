@@ -12,9 +12,26 @@
     "statistics"
   ],
   "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/simogeo/geostats.git",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "geostats*"
+        ]
+      }
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/simogeo/geostats"
-  }
+  },
+  "authors": [
+    {
+      "name": "Simon Georget"
+    }
+  ]
 }
 
