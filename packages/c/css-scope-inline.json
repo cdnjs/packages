@@ -1,0 +1,29 @@
+{
+  "name": "css-scope-inline",
+  "description": "Lightweight CSS scoping for inline styles without a build step",
+  "keywords": [
+    "css",
+    "scope",
+    "inline",
+    "styling"
+  ],
+  "author": "Nathanael Anderson",
+  "license": "MIT",
+  "homepage": "https://github.com/gnat/css-scope-inline",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gnat/css-scope-inline.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/gnat/css-scope-inline.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "script.js"
+        ]
+      }
+    ]
+  }
+}
