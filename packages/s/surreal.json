@@ -21,8 +21,7 @@
       {
         "basePath": "",
         "files": [
-          "surreal.js",
-          "surreal.min.js"
+          "surreal.js"
         ]
       }
     ]
