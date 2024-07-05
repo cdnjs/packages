@@ -13,19 +13,22 @@
     "url": "https://github.com/date-fns/date-fns.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/date-fns/date-fns.git",
+    "source": "npm",
+    "target": "date-fns",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "**/!(*.json)"
+          "**/cdn.*"
         ]
       }
     ],
     "ignoreVersions": [
-      "v.*"
+      "*-*"
     ]
+  },
+  "optimization": {
+    "js": false
   },
   "authors": [
     {
