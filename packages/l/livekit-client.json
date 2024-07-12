@@ -1,5 +1,5 @@
 {
-  "name": "LiveKit Client SDK",
+  "name": "livekit-client",
   "description": "LiveKit Javascript/Typescript SDK, connects to a self- or cloud-hosted LiveKit server, you can quickly build applications like interactive live streaming or video calls with just a few lines of code.",
   "license": "Apache-2.0",
   "keywords": ["livekit", "video", "streaming", "rtc", "webrtc"],
