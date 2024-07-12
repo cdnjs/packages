@@ -23,7 +23,8 @@
       {
         "basePath": "",
         "files": [
-          "theme-chalk/*.css"
+          "theme-chalk/*.css",
+          "theme-chalk/dark/*.css",
         ]
       },
       {
@@ -47,6 +48,9 @@
     },
     {
       "name": "HerringtonDarkholme"
+    },
+    {
+      "name": "huankong233"
     }
   ]
 }
