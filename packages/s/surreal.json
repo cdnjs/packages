@@ -1,6 +1,6 @@
 {
   "name": "surreal",
-  "filename": "surreal.min.js",
+  "filename": "surreal.js",
   "description": "A lightweight JavaScript library for creating and manipulating HTML in a fluent, jQuery-like way.",
   "keywords": [
     "javascript",
