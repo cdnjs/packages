@@ -1,5 +1,6 @@
 {
   "name": "surreal",
+  "filename": "surreal.min.js",
   "description": "A lightweight JavaScript library for creating and manipulating HTML in a fluent, jQuery-like way.",
   "keywords": [
     "javascript",
@@ -7,9 +8,8 @@
     "manipulation",
     "library"
   ],
-  "author": "Nathanael Anderson",
-  "license": "MIT",
   "homepage": "https://github.com/gnat/surreal",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/gnat/surreal.git"
@@ -21,9 +21,14 @@
       {
         "basePath": "",
         "files": [
-          "surreal.js"
+          "surreal*.js"
         ]
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Nathanael Anderson"
+    }
+  ]
 }
