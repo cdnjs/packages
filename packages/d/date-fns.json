@@ -22,9 +22,6 @@
           "**/cdn.*"
         ]
       }
-    ],
-    "ignoreVersions": [
-      "*-*"
     ]
   },
   "optimization": {
