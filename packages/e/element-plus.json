@@ -24,7 +24,7 @@
         "basePath": "",
         "files": [
           "theme-chalk/*.css",
-          "theme-chalk/dark/*.css",
+          "theme-chalk/dark/*.css"
         ]
       },
       {
