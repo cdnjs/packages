@@ -1,6 +1,6 @@
 {
   "name": "date-fns",
-  "filename": "date_fns.min.js",
+  "filename": "cdn.min.js",
   "description": "Modern JavaScript date utility library",
   "license": "MIT",
   "keywords": [
