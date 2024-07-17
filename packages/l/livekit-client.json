@@ -14,7 +14,7 @@
     "fileMap": [
       {
         "basePath": "dist",
-        "files": ["*.js"]
+        "files": ["*.@(js|mjs)"]
       }
     ]
   },
