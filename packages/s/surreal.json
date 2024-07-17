@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/gnat/surreal.git",
+    "target": "git://github.com/answerdotai/surreal.git",
     "fileMap": [
       {
         "basePath": "",
