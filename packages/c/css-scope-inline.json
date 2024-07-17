@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/gnat/css-scope-inline.git",
+    "target": "git://github.com/answerdotai/css-scope-inline.git",
     "fileMap": [
       {
         "basePath": "",
