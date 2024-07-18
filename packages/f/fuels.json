@@ -23,6 +23,9 @@
         "basePath": "dist",
         "files": ["browser.mjs", "browser.min.mjs"]
       }
+    ],
+    "ignoreVersions": [
+      "0.0.0-*"
     ]
   },
   "license": "Apache-2.0"
