@@ -21,7 +21,7 @@
     "fileMap": [
       {
         "basePath": "dist",
-        "files": ["browser.mjs"]
+        "files": ["browser.mjs", "browser.min.mjs"]
       }
     ]
   },
