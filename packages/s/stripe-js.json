@@ -1,0 +1,35 @@
+{
+  "name": "stripe-js",
+  "filename": "index.js",
+  "description": "Stripe's client-side JavaScript library.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stripe/stripe-js.git"
+  },
+  "keywords": [
+    "stripe",
+    "stripe.js",
+    "elements",
+    "payments",
+    "checkout"
+  ],
+  "homepage": "https://docs.stripe.com/js",
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@stripe/stripe-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|mjs|d.ts)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Stripe"
+    }
+  ]
+}

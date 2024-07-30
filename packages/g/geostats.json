@@ -1,0 +1,37 @@
+{
+  "name": "geostats",
+  "filename": "geostats.min.js",
+  "description": "Geostats is a standalone JavaScript library for statistical classification.",
+  "homepage": "https://github.com/simogeo/geostats",
+  "keywords": [
+    "gis",
+    "geospatial",
+    "geostats",
+    "map",
+    "classification",
+    "statistics"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/simogeo/geostats.git",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "geostats*"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simogeo/geostats"
+  },
+  "authors": [
+    {
+      "name": "Simon Georget"
+    }
+  ]
+}
+

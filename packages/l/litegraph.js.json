@@ -1,0 +1,36 @@
+{
+    "name": "litegraph.js",
+    "description": "A library in Javascript to create graphs in the browser similar to Unreal Blueprints. Nodes can be programmed easily and it includes an editor to construct and tests the graphs.",
+    "keywords": [
+        "graph",
+        "graphs",
+        "node",
+        "blueprints"
+    ],
+    "license": "MIT",
+    "filename": "build/litegraph.min.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jagenjo/litegraph.js"
+    },
+    "autoupdate": {
+        "source": "npm",
+        "target": "litegraph.js",
+        "fileMap": [
+            {
+                "basePath": "",
+                "files": [
+                    "build/*.js",
+                    "css/litegraph.css"
+                ]
+            }
+        ]
+    },
+    "authors": [
+        {
+            "name": "Javi Agenjo",
+            "email": "javi.agenjo@gmail.com",
+            "url": "https://github.com/jagenjo"
+        }
+    ]
+}
