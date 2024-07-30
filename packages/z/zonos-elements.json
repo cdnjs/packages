@@ -1,5 +1,5 @@
 {
-  "name": "zepto",
+  "name": "zonos-elements",
   "description": "Zonos component UI for Stripe elements",
   "main": "dist/index.cjs.js",
   "module": "dist/index.js",
@@ -8,6 +8,15 @@
   "types": "dist/types/index.d.ts",
   "unpkg": "dist/zonos-elements/zonos-elements.esm.js",
   "collection": "dist/collection/collection-manifest.json",
+  "keywords": [
+    "cross-border",
+    "international shopping",
+    "calculate-landed-cost",
+    "zonos",
+    "elements",
+    "payments",
+    "checkout"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Zonos/zonos-elements-readme"
@@ -19,7 +28,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
-    "target": "zonos-elements",
+    "target": "@zonos/elements",
     "fileMap": [
       {
         "basePath": "",
