@@ -1,0 +1,38 @@
+{
+  "name": "zepto",
+  "description": "Zonos component UI for Stripe elements",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.js",
+  "es2015": "dist/esm/index.mjs",
+  "es2017": "dist/esm/index.mjs",
+  "types": "dist/types/index.d.ts",
+  "unpkg": "dist/zonos-elements/zonos-elements.esm.js",
+  "collection": "dist/collection/collection-manifest.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zonos/zonos-elements-readme"
+  },
+  "files": [
+    "dist/",
+    "loader/"
+  ],
+  "license": "MIT",
+  "optimization": {
+    "js": false,
+    "css": false,
+    "png": true,
+    "jpg": true
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "zonos-elements",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
+}
