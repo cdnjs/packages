@@ -17,12 +17,6 @@
     "loader/"
   ],
   "license": "MIT",
-  "optimization": {
-    "js": false,
-    "css": false,
-    "png": true,
-    "jpg": true
-  },
   "autoupdate": {
     "source": "npm",
     "target": "zonos-elements",
