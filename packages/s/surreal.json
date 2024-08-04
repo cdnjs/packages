@@ -1,0 +1,34 @@
+{
+  "name": "surreal",
+  "filename": "surreal.js",
+  "description": "A lightweight JavaScript library for creating and manipulating HTML in a fluent, jQuery-like way.",
+  "keywords": [
+    "javascript",
+    "dom",
+    "manipulation",
+    "library"
+  ],
+  "homepage": "https://github.com/gnat/surreal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gnat/surreal.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/answerdotai/surreal.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "surreal*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Nathaniel Sabanski"
+    }
+  ]
+}
