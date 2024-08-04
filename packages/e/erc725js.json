@@ -1,6 +1,6 @@
 {
   "name": "erc725.js",
-  "filename": "erc725.min.js",
+  "filename": "index.min.js",
   "description": "Library to interact with ERC725 smart contracts and encode/decode ERC725Y data keys.",
   "homepage": "https://docs.lukso.tech/tools/erc725js/getting-started",
   "keywords": [
@@ -19,9 +19,9 @@
     "target": "@erc725/erc725.js",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "build/main/src",
         "files": [
-          "**/*.@(js|ts)"
+          "**/*.@(js|d.ts)"
         ]
       }
     ]
