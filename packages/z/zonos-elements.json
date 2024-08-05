@@ -1,0 +1,33 @@
+{
+  "name": "zonos-elements",
+  "filename": "dist/scripts/loadZonos.js",
+  "description": "Zonos component UI for Stripe elements",
+  "keywords": [
+    "cross-border",
+    "international shopping",
+    "calculate-landed-cost",
+    "zonos",
+    "elements",
+    "payments",
+    "checkout"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zonos/zonos-elements-readme"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@zonos/elements",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "dist/zonos-elements/*.@(css|js)",
+          "dist/zonos-elements/assets/*.@(jpeg|jpg|png|svg|ico)",
+          "dist/scripts/*.js"
+        ]
+      }
+    ]
+  }
+}
