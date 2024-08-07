@@ -1,6 +1,6 @@
 {
   "name": "scittle",
-  "filename": "dist/scittle.js",
+  "filename": "scittle.js",
   "description": "The Small Clojure Interpreter (SCI) exposed for usage in script tags",
   "keywords": [
     "clojure",
