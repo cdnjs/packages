@@ -1,6 +1,6 @@
 {
   "name": "css-scope-inline",
-  "filename": "script.min.js",
+  "filename": "script.js",
   "description": "Lightweight CSS scoping for inline styles without a build step",
   "keywords": [
     "css",
