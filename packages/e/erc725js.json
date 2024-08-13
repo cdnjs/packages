@@ -1,0 +1,55 @@
+{
+  "name": "erc725.js",
+  "filename": "index.min.js",
+  "description": "Library to interact with ERC725 smart contracts and encode/decode ERC725Y data keys.",
+  "homepage": "https://docs.lukso.tech/tools/erc725js/getting-started",
+  "keywords": [
+    "ethereum", 
+    "erc725", 
+    "lsp",
+    "lukso"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ERC725Alliance/erc725.js/tree/develop"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@erc725/erc725.js",
+    "fileMap": [
+      {
+        "basePath": "build/module/src",
+        "files": [
+          "**/*.@(js|d.ts)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Robert McLeod",
+      "url": "https://github.com/robertdavid010"
+    },
+    {
+      "name": "Fabian Vogelsteller",
+      "url": "https://github.com/frozeman"
+    },
+    {
+      "name": "Hugo Masclet",
+      "url": "https://github.com/Hugoo"
+    },
+    {
+      "name": "Callum Grindle",
+      "url": "https://github.com/CallumGrindle"
+    },
+    {
+      "name": "Jean Cavallera",
+      "url": "https://github.com/CJ42"
+    },
+    {
+      "name": "Andreas Richter",
+      "url": "https://github.com/richtera"
+    }
+  ]
+}

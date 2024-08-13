@@ -16,11 +16,11 @@
   "license": "Zlib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shakiba/planck.js.git"
+    "url": "git://github.com/piqnt/planck.js.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/shakiba/planck.js.git",
+    "source": "npm",
+    "target": "planck",
     "fileMap": [
       {
         "basePath": "dist",

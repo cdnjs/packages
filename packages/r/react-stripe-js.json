@@ -1,0 +1,36 @@
+{
+  "name": "react-stripe-js",
+  "filename": "react-stripe.js",
+  "description": "React components for Stripe.js and Elements.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stripe/react-stripe-js.git"
+  },
+  "keywords": [
+    "stripe",
+    "stripe.js",
+    "react",
+    "elements",
+    "payments",
+    "checkout"
+  ],
+  "homepage": "https://docs.stripe.com/stripe-js/react",
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@stripe/react-stripe-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|mjs|d.ts)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Stripe"
+    }
+  ]
+}
