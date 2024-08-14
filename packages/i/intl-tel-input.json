@@ -24,12 +24,13 @@
     "target": "git://github.com/jackocnr/intl-tel-input.git",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "",
         "files": [
-          "css/*.css",
-          "js/*.js",
-          "js/i18n/{,*/}*.js",
-          "img/*.@(webp|png)"
+          "build/css/*.css",
+          "build/js/*.@(js|d.ts)",
+          "build/js/i18n/{,*/}*.js",
+          "build/img/*.@(webp|png)",
+          "react/build/*.@(js|d.ts|cjs)"
         ]
       }
     ]
