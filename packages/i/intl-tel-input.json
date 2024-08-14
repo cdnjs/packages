@@ -26,7 +26,10 @@
       {
         "basePath": "build",
         "files": [
-          "**/*"
+          "css/*.css",
+          "js/*.js",
+          "js/i18n/{,*/}*.js",
+          "img/*.@(webp|png)"
         ]
       }
     ]
