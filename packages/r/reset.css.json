@@ -1,0 +1,37 @@
+{
+  "name": "@mustapha-ghlissi/reset.css",
+  "filename": "reset.min.css",
+  "description": "Default browsers style resetter",
+  "homepage": "https://github.com/mustapha-ghlissi/reset.css#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustapha-ghlissi/reset.css.git"
+  },
+  "keywords": [
+    "css",
+    "reset",
+    "reset-css",
+    "reset.css",
+    "default-style",
+    "default-css",
+    "default-browser-style",
+    "browser-style"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/mustapha-ghlissi/reset.css.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  },
+  "author": {
+    "name": "Mustapha GHLISSI",
+    "email": "ghlissi.mustapha@gmail.com"
+  },
+  "license": "MIT",
+}
