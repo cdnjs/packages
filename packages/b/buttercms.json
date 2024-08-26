@@ -1,7 +1,7 @@
 {
   "name": "ButterCMS",
   "description": "ButterCMS JS API Client",
-  "filename": "butter.js",
+  "filename": "butter.min.js",
   "homepage": "https://github.com/buttercms/buttercms-js",
   "repository": {
     "type": "git",
@@ -22,11 +22,9 @@
     "target": "buttercms",
     "fileMap": [
       {
-        "basePath": "lib",
+        "basePath": "dist",
         "files": [
-          "*.js",
-          "utils/*.js",
-          "resources/*.js"
+          "*.js"
         ]
       }
     ]
