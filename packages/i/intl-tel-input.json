@@ -1,6 +1,6 @@
 {
   "name": "intl-tel-input",
-  "filename": "js/intlTelInput.min.js",
+  "filename": "build/js/intlTelInput.min.js",
   "homepage": "https://intl-tel-input.com",
   "description": "A JavaScript plugin for entering and validating international telephone numbers",
   "keywords": [
@@ -30,7 +30,8 @@
           "build/js/*.@(js|d.ts)",
           "build/js/i18n/{,*/}*.js",
           "build/img/*.@(webp|png)",
-          "react/build/*.@(js|d.ts|cjs)"
+          "react/build/*.@(js|d.ts|cjs)",
+          "vue/build/*.@(js|mjs|d.ts|cjs)"
         ]
       }
     ]
