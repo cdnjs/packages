@@ -1,0 +1,35 @@
+{
+  "name": "cnblogs-theme",
+  "filename": "simple-memory.js",
+  "description": "theme for cnblogs",
+  "keywords": [
+    "cnblogs",
+    "theme",
+    "SimpleMemory"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangyang0210/cnblogs-theme.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "cnblogs-theme",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "script/*.js",
+          "style/*.css"
+        ]
+      }
+    ]
+  },
+  "license": "ISC",
+  "authors": [
+    {
+      "name": "wangyang0210",
+      "email": "wangyang.0210@foxmail.com"
+    }
+  ]
+}
