@@ -1,6 +1,6 @@
 {
   "name": "optimizely",
-  "description": "JavaScript SDK for Optimizely X Full Stack",
+  "description": "JavaScript SDK for Optimizely Feature Experimentation and Optimizely Full Stack (legacy)",
   "keywords": [
     "optimizely"
   ],
@@ -10,15 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/optimizely/javascript-sdk.git"
   },
-  "filename": "optimizely.min.js",
+  "filename": "optimizely.browser.umd.min.js",
   "autoupdate": {
     "source": "npm",
-    "target": "optimizely-client-sdk",
+    "target": "@optimizely/optimizely-sdk",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "*.js"
+          "optimizely.browser.umd.min.js"
         ]
       }
     ]
@@ -27,5 +27,8 @@
     {
       "name": "Optimizely"
     }
-  ]
+  ],
+  "optimization": {
+    "js": false
+  }
 }
