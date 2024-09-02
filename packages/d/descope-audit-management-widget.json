@@ -1,0 +1,37 @@
+{
+  "name": "descope-audit-management-widget",
+  "description": "Descope Audit Management Widget",
+  "keywords": [
+    "descope",
+    "auth",
+    "openid",
+    "authentication",
+    "jwt",
+    "browser",
+    "flows",
+    "ui",
+    "ciam"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/descope/descope-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/descope/descope-js.git"
+  },
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@descope/audit-management-widget",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["*.@(js|map)", "esm/*.@(js|map)"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Descope"
+    }
+  ]
+}

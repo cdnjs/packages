@@ -1,0 +1,37 @@
+{
+  "name": "descope-access-key-management-widget",
+  "description": "Descope Access Key Management Widget",
+  "keywords": [
+    "descope",
+    "auth",
+    "openid",
+    "authentication",
+    "jwt",
+    "browser",
+    "flows",
+    "ui",
+    "ciam"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/descope/descope-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/descope/descope-js.git"
+  },
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@descope/access-key-management-widget",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["*.@(js|map)", "esm/*.@(js|map)"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Descope"
+    }
+  ]
+}
