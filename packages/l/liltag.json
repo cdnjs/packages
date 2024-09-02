@@ -1,0 +1,36 @@
+{
+  "name": "liltag",
+  "filename": "liltag.min.js",
+  "description": "LilTag is a simple JavaScript tag management system designed for developers, allowing dynamic loading of scripts based on specific triggers.",
+  "keywords": [
+    "tag",
+    "management",
+    "dynamic",
+    "loader",
+    "gtm",
+    "tagmanager"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deeravenger/liltag.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/deeravenger/liltag",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/deeravenger/liltag.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Dmitry Kuznetsov"
+    }
+  ]
+}
