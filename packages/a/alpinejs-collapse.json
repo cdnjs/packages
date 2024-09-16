@@ -1,0 +1,34 @@
+{
+  "name": "alpinejs-collapse",
+  "description": "Alpine's Collapse plugin allows you to expand and collapse elements using smooth animations.",
+  "keywords": [
+    "framework",
+    "reactive",
+    "declarative",
+    "plugin"
+  ],
+  "license": "MIT",
+  "homepage": "https://alpinejs.dev/plugins/collapse",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alpinejs/alpine.git"
+  },
+  "authors": [
+    {
+      "name": "Caleb Porzio"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@alpinejs/collapse",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "cdn.js"
+}
