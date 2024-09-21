@@ -17,7 +17,7 @@
     ],
     "autoupdate": {
     "source": "npm",
-    "target": "@callmebill/lxgw-wenkai-web",
+    "target": "lxgw-wenkai-screen-web",
     "fileMap": [
       {
         "basePath": "",
