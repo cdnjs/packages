@@ -20,7 +20,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/!(dexie.es*).+(js|css|map)"
+          "**/!(dexie.es*).+(js|css|map|mjs)"
         ]
       }
     ]
