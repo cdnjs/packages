@@ -1,6 +1,6 @@
 {
   "name": "style-forge.base",
-  "homepage": "https://style-forge.dev/base/",
+  "homepage": "https://style-forge.github.io/base/",
   "description": "Style-Forge.Base: foundational CSS variables, base styles, typography, colors, utilities for consistent design.",
   "filename": "base.css",
   "repository": {
