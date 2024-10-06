@@ -24,7 +24,8 @@
       {
         "basePath": "dist",
         "files": [
-          "**/!(*.html|*.scss)"
+          "fonts/*.@(ttf|woff|woff2)",
+          "*.css"
         ]
       }
     ]
