@@ -19,20 +19,18 @@
   },
   "autoupdate": {
     "source": "npm",
-    "target": "tabler-icons",
+    "target": "@tabler/icons-webfont",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "tabler-*.svg",
-          "icons/*.svg",
-          "iconfont/tabler-*.@(css|scss)",
-          "iconfont/fonts/tabler-*"
+          "fonts/*.@(ttf|woff|woff2)",
+          "*.css"
         ]
       }
     ]
   },
-  "filename": "iconfont/tabler-icons.min.css",
+  "filename": "tabler-icons.min.css",
   "authors": [
     {
       "name": "Paweł Kuna",
