@@ -28,5 +28,9 @@
     ]
   },
   "license": "MIT",
-  "author": "akfish"
+  "authors": [
+    {
+      "name": "akfish"
+    }
+  ]
 }
