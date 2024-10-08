@@ -21,7 +21,7 @@
     "target": "simple-mind-map",
     "fileMap": [
       {
-        "basePath": "simple-mind-map",
+        "basePath": "dist",
         "files": ["*.js", "*.css"]
       }
     ]
