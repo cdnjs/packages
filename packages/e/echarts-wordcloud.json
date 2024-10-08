@@ -1,0 +1,27 @@
+{
+  "name": "echarts-wordcloud",
+  "description": "ECharts wordcloud extension based on wordcloud2.js",
+  "keywords": ["echarts"],
+  "license": "ISC",
+  "homepage": "https://github.com/ecomfe/echarts-wordcloud",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecomfe/echarts-wordcloud.git"
+  },
+  "authors": [
+    {
+      "name": "ecomfe"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "echarts-wordcloud",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["*.js", "*.map"]
+      }
+    ]
+  },
+  "filename": "echarts-wordcloud.min.js"
+}
