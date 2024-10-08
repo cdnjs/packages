@@ -1,0 +1,31 @@
+{
+  "name": "clyc-weblg",
+  "filename": "index.html",
+  "description": "clyc game assets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fottas/clyc-weblg"
+  },
+  "keywords": [
+    "clyc-weblg"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "git@github.com:Fottas/clyc-weblg.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/webgl"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Fottas",
+      "email": "fottas@163.com"
+    }
+  ]
+}
