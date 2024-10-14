@@ -1,0 +1,30 @@
+{
+  "name": "simple-mind-map",
+  "description": "一个简单的web在线思维导图",
+  "keywords": ["phylogenetics", "phylogeny", "d3", "branching", "tree"],
+  "license": "MIT",
+  "homepage": "https://github.com/wanglin2/mind-map",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wanglin2/mind-map.git"
+  },
+  "authors": [
+    {
+      "name": "街角小林"
+    },
+    {
+      "name": "理想青年实验室"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "simple-mind-map",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["*.js", "*.css"]
+      }
+    ]
+  },
+  "filename": "simpleMindMap.esm.min.js"
+}
