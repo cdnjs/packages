@@ -1,5 +1,5 @@
 {
-  "name": "@simplewebauthn/browser",
+  "name": "simplewebauthn-browser",
   "description": "SimpleWebAuthn for Browsers",
   "keywords": ["typescript", "webauthn", "passkeys", "fido", "umd"],
   "license": "MIT",
