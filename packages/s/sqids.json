@@ -18,12 +18,12 @@
     "target": "sqids",
     "fileMap": [
       {
-        "basePath": "cjs",
-        "files": ["*.js", "*.map", "*.ts"]
+        "basePath": "",
+        "files": ["cjs/*.js", "cjs/*.map", "cjs/*.ts"]
       },
       {
-        "basePath": "esm",
-        "files": ["*.js", "*.map", "*.ts", "package.json"]
+        "basePath": "",
+        "files": ["esm/*.js", "esm/*.map", "esm/*.ts", "esm/package.json"]
       },
       {
         "basePath": "dist",
