@@ -2,6 +2,7 @@
   "name": "js-pytorch",
   "description": "Deep Learning JavaScript library with PyTorch's syntax, and GPU acceleration.",
   "homepage": "https://eduardoleao052.github.io/js-pytorch/site/index.html",
+  "filename": "js-pytorch-browser.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/eduardoleao052/js-pytorch"
@@ -19,9 +20,9 @@
     "target": "js-pytorch",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "dist/js-pytorch-browser.js"
+          "js-pytorch-browser.js"
         ]
       }
     ]
