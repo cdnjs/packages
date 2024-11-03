@@ -1,0 +1,31 @@
+{
+  "name": "datewise",
+  "filename": "index.js",
+  "description": "This project is intended to be consumed for all of type java script projects.",
+  "keywords": [
+ "datewise","calendar", "java script", "calendarjs", "date picker", "ts calendar", "type script calendar", "date"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "git@github.com:Gagik-arch/datewise.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gagik-arch/datewise"
+  },
+  "authors": [
+    {
+      "name": "Gagik Chilingaryan",
+      "email": "gagik.chilingaryan2020@gmail.com"
+    }
+  ],
+}
