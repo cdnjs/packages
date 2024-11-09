@@ -1,7 +1,7 @@
 {
   "name": "datewise",
   "filename": "index.js",
-  "description": "This project is intended to be consumed for all of type java script projects.",
+  "description": "This calendar is intended to be consumed for all of type java script projects.",
   "keywords": [
  "datewise","calendar", "java script", "calendarjs", "date picker", "ts calendar", "type script calendar", "date"
   ],
