@@ -3,7 +3,14 @@
   "filename": "index.js",
   "description": "This calendar is intended to be consumed for all of type java script projects.",
   "keywords": [
- "datewise","calendar", "java script", "calendarjs", "date picker", "ts calendar", "type script calendar", "date"
+    "datewise",
+    "calendar",
+    "java script",
+    "calendarjs",
+    "date picker",
+    "ts calendar",
+    "type script calendar",
+    "date"
   ],
   "license": "MIT",
   "autoupdate": {
@@ -27,5 +34,5 @@
       "name": "Gagik Chilingaryan",
       "email": "gagik.chilingaryan2020@gmail.com"
     }
-  ],
+  ]
 }
