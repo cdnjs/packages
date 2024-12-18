@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git://github.com/eemeli/yaml.git"
   },
-  "filename": "yaml.min.js",
+  "filename": "index.min.js",
   "autoupdate": {
     "source": "npm",
     "target": "yaml",
