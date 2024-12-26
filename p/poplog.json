@@ -1,0 +1,35 @@
+{
+  "name": "poplog",
+  "filename": "poplog.min.js",
+  "homepage": "github.com/VArtzy/poplog#readme",
+  "description": "PopLog is a simple, effective and lightweight JavaScript package that transforms console.log outputs into browser-friendly toast notifications.",
+  "keywords": [
+    "development-tools",
+    "logging",
+    "log",
+    "devtools"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/VArtzy/poplog.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/VArtzy/poplog.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Farrel Nikoson",
+      "email": "farrelnikoson@gmail.com"
+    }
+  ]
+}
