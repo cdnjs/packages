@@ -1,0 +1,32 @@
+{
+  "name": "hyperscript",
+  "description": "An easy & approachable language for modern web front-ends",
+  "keywords": [
+    "Scripting",
+    "HTML"
+  ],
+  "license": "BSD 2-Clause",
+  "homepage": "https://hyperscript.org/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bigskysoftware/_hyperscript.git"
+  },
+  "authors": [
+    {
+      "name": "bigskysoftware"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/bigskysoftware/_hyperscript.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "_hyperscript.min.js"
+}
