@@ -1,5 +1,5 @@
 {
-  "name": "clerk-clerk-js",
+  "name": "clerk-js",
   "description": "Clerk JS library",
   "keywords": [
     "clerk",
@@ -13,8 +13,7 @@
   "homepage": "https://clerk.com/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clerk/javascript.git",
-    "directory": "packages/clerk-js"
+    "url": "https://github.com/clerk/javascript/tree/main/packages/clerk-js"
   },
   "filename": "dist/clerk.js",
   "autoupdate": {
@@ -29,5 +28,9 @@
       }
     ]
   },
-  "author": "Clerk"
+  "authors": [
+    {
+      "name": "Clerk"
+    }
+  ]
 }
