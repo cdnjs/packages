@@ -15,8 +15,8 @@
     "url": "git://github.com/VArtzy/poplog.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/VArtzy/poplog.git",
+    "source": "npm",
+    "target": "poplog",
     "fileMap": [
       {
         "basePath": "",
