@@ -1,6 +1,6 @@
 {
   "name": "poplog",
-  "filename": "poplog.min.js",
+  "filename": "index.js",
   "homepage": "github.com/VArtzy/poplog#readme",
   "description": "PopLog is a simple, effective and lightweight JavaScript package that transforms console.log outputs into browser-friendly toast notifications.",
   "keywords": [
