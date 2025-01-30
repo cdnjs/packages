@@ -36,6 +36,9 @@
       }
     ]
   },
+  "optimization": {
+    "js": false
+  },
   "authors": [
     {
       "name": "Niall Crosby",
