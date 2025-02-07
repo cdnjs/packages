@@ -1,0 +1,52 @@
+{
+  "name": "style-forge.media",
+  "homepage": "https://style-forge.github.io/media/",
+  "description": "Style-Forge.Media: comprehensive CSS media query helpers for responsive web design.",
+  "filename": "media.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Style-Forge/media.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "style-forge",
+    "CSS",
+    "media queries",
+    "responsive design",
+    "desktop",
+    "tablet",
+    "mobile",
+    "portrait",
+    "landscape",
+    "breakpoints",
+    "HTML",
+    "utilities",
+    "styles",
+    "web development",
+    "frontend",
+    "styling",
+    "design",
+    "responsive",
+    "lightweight",
+    "modular",
+    "consistent"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "style-forge.media",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "media.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Dmitrii Sagalov",
+      "email": "sarmaged@gmail.com"
+    }
+  ]
+}
