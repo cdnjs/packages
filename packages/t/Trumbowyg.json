@@ -9,8 +9,8 @@
   },
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/Alex-D/Trumbowyg.git",
+    "source": "npm",
+    "target": "trumbowyg",
     "fileMap": [
       {
         "basePath": "dist",
@@ -23,14 +23,15 @@
   "keywords": [
     "editor",
     "wysiwyg",
-    "javascript",
-    "richtext"
+    "rich text",
+    "contenteditable",
+    "javascript"
   ],
   "authors": [
     {
       "name": "Alexandre Demode (Alex-D)",
       "email": "contact@alex-d.fr",
-      "url": "http://alex-d.fr"
+      "url": "https://alex-d.fr"
     }
   ]
 }
