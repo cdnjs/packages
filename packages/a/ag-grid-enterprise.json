@@ -23,7 +23,7 @@
     "angularjs",
     "reactjs"
   ],
-  "license": "MIT",
+  "license": "Commercial see LICENSE.txt",
   "homepage": "http://www.ag-grid.com/",
   "autoupdate": {
     "source": "npm",
