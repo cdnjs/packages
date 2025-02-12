@@ -10,7 +10,7 @@
   "filename": "index.js",
   "autoupdate": {
     "source": "git",
-    "target": "https://github.com/simonabadoiu/cdnjs-test-package.gitt",
+    "target": "https://github.com/simonabadoiu/cdnjs-test-package.git",
     "fileMap": [
       {
         "basePath": "",
