@@ -1,0 +1,49 @@
+{
+  "name": "ag-grid-enterprise",
+  "filename": "ag-grid-enterprise.min.js",
+  "description": "Advanced Framework Agnostic Javascript Datagrid.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ag-grid/ag-grid"
+  },
+  "keywords": [
+    "ag",
+    "ag-grid",
+    "ag-grid-enterprise",
+    "datagrid",
+    "data-grid",
+    "datatable",
+    "data-table",
+    "grid",
+    "table",
+    "react",
+    "angular",
+    "angular-component",
+    "react-component",
+    "angularjs",
+    "reactjs"
+  ],
+  "license": "Commercial see LICENSE.txt",
+  "homepage": "http://www.ag-grid.com/",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ag-grid-enterprise",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Niall Crosby",
+      "email": "Niall Crosby <niall.crosby@ag-grid.com>"
+    }
+  ]
+}
