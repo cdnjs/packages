@@ -1,7 +1,7 @@
 {
   "name": "translate.js",
   "filename": "translate.js",
-  "description": "two lines js accomplish html Fully automatic translation. No page changes, no language configuration files, no API Key, right SEO friendly!",
+  "description": "AI i18n, two lines js accomplish html Fully automatic translation. No page changes, no language configuration files, no API Key, right SEO friendly!",
   "keywords": [
     "translate",
     "translate.js",
@@ -21,6 +21,7 @@
         "basePath": "translate.js",
         "files": [
           "translate.js"
+          "translate.min.js"
         ]
       }
     ]
