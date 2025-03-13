@@ -1,0 +1,26 @@
+{
+  "name": "modal-cdn",
+  "description": "a simple modal",
+  "filename": "js/modal-cdn.js",
+  "homepage": "https://github.com/gwydion67/modal_cdn#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gwydion67/modal_cdn"
+  },
+  "keywords": ["modal", "modal-plugin"],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/gwydion67/modal_cdn.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["**/!(*.scss)"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Humaan - contact@humaan.com.au"
+    }
+  ]
+}
