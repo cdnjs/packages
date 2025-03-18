@@ -1,0 +1,36 @@
+{
+  "description": "A Map based TypeScript Virtual File System.",
+  "filename": "dist/vfs.cjs.production.min.js",
+  "homepage": "http://www.typescriptlang.org",
+  "keywords": [
+    "typescript",
+    "vfs"
+  ],
+  "license": "MIT",
+  "name": "typescript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microsoft/TypeScript-Website"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@typescript/vfs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ],
+    "ignoreVersions": [
+      "*dev*",
+      "*insiders*"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Microsoft Corp."
+    }
+  ]
+}
