@@ -1,6 +1,6 @@
 {
   "description": "A Map based TypeScript Virtual File System.",
-  "filename": "dist/vfs.cjs.production.min.js",
+  "filename": "dist/vfs.globals.js",
   "homepage": "http://www.typescriptlang.org",
   "keywords": [
     "typescript",
