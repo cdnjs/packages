@@ -1,0 +1,33 @@
+{
+  "name": "Citek",
+  "description": "Citek library",
+  "filename": "Citek.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thanhsuperman/Citek.git"
+  },
+  "keywords": [
+    "DOM",
+    "HTML5",
+    "Citek"
+  ],
+  "license": "MIT",
+  "homepage": "http://goldfirestudios.com/blog/108/CanvasInput-HTML5-Canvas-Text-Input",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/thanhsuperman/Citek.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "Citek*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Citek"
+    }
+  ]
+}
