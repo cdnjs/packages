@@ -1,0 +1,26 @@
+{
+  "name": "splayer-js",
+  "description": "A lovely HTML5 square music player",
+  "filename": "SPlayer.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatSouta/splayer-js.git"
+  },
+  "keywords": ["player", "music", "html5"],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "splayer-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["**/*"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "CatSouta"
+    }
+  ]
+}
