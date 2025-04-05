@@ -1,0 +1,35 @@
+{
+  "name": "misans-webfont",
+  "description": "Web font package for Misans",
+  "filename": "misans-style.css",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/mobeicanyue/misans-webfont",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobeicanyue/misans-webfont.git"
+  },
+  "keywords": [
+    "misans",
+    "webfont",
+    "cjk",
+    "font",
+    "css"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "misans-webfont",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.@(css|woff2)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "mobeicanyue"
+    }
+  ]
+}
