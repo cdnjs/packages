@@ -15,7 +15,7 @@
       "font",
       "css"
   ],
-    "autoupdate": {
+  "autoupdate": {
     "source": "npm",
     "target": "misans-webfont",
     "fileMap": [
@@ -27,7 +27,7 @@
       }
     ]
   },
-    "authors": [
+  "authors": [
     {
       "name": "mobeicanyue"
     }
