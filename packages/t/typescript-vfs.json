@@ -1,4 +1,5 @@
 {
+  "name": "typescript-vfs",
   "description": "A Map based TypeScript Virtual File System.",
   "filename": "vfs.globals.js",
   "homepage": "http://www.typescriptlang.org",
@@ -7,7 +8,6 @@
     "vfs"
   ],
   "license": "MIT",
-  "name": "typescript",
   "repository": {
     "type": "git",
     "url": "https://github.com/microsoft/TypeScript-Website"
