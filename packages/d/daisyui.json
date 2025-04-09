@@ -1,21 +1,16 @@
 {
   "name": "daisyui",
   "description": "Tailwind CSS Components",
-  "filename": "full.css",
+  "filename": "daisyui.css",
   "homepage": "https://daisyui.com/",
   "keywords": [
-    "design-system",
+    "daisyui",
+    "daisy UI",
     "tailwindcss",
-    "components",
-    "ui-library",
+    "Tailwind CSS",
     "component",
-    "framework",
-    "tailwind",
-    "theming",
-    "postcss",
-    "design",
-    "css",
-    "ui"
+    "components",
+    "ui-library"
   ],
   "license": "MIT",
   "authors": [
@@ -32,9 +27,10 @@
     "target": "daisyui",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "*.css"
+          "daisyui.css",
+          "themes.css"
         ]
       }
     ]
