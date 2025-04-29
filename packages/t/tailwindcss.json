@@ -1,7 +1,7 @@
 {
   "name": "tailwindcss",
-  "filename": "tailwind.min.css",
-  "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
+  "filename": "lib.min.css",
+  "description": "A utility-first CSS framework for rapid UI development.",
   "license": "MIT",
   "keywords": [
     "tailwindcss",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tailwindcss/tailwindcss"
+    "url": "https://github.com/tailwindlabs/tailwindcss"
   },
   "homepage": "https://tailwindcss.com",
   "autoupdate": {
@@ -37,6 +37,12 @@
     "fileMap": [
       {
         "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "lib",
         "files": [
           "**/*"
         ]
