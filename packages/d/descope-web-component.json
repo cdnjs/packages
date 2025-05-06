@@ -1,0 +1,41 @@
+{
+  "name": "descope-web-component",
+  "description": "Descope Web Component",
+  "keywords": [
+    "descope",
+    "auth",
+    "openid",
+    "authentication",
+    "jwt",
+    "browser",
+    "flows",
+    "ui",
+    "ciam"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/descope/descope-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/descope/descope-js.git"
+  },
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@descope/web-component",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|map)",
+          "esm/descope-wc/*.@(js|map)",
+          "cjs/descope-wc/*.@(js|map)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Descope"
+    }
+  ]
+}
