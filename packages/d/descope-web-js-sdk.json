@@ -1,6 +1,6 @@
 {
   "name": "descope-web-js-sdk",
-  "description": "Descope Web Component",
+  "description": "Descope Web JS SDK",
   "keywords": ["descope", "auth", "openid", "browser", "flows", "ui", "ciam"],
   "license": "MIT",
   "homepage": "https://github.com/descope/descope-js#readme",
