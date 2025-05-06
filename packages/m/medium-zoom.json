@@ -31,9 +31,7 @@
     "fileMap": [
       {
         "basePath": "dist",
-        "files": [
-          "*.@(ts|js)"
-        ]
+        "files": ["*.@(ts|js)", "*.css", "pure/*.@(ts|js)"]
       }
     ]
   },

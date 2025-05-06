@@ -1,0 +1,36 @@
+{
+  "name": "clerk-js",
+  "description": "Clerk JS library",
+  "keywords": [
+    "clerk",
+    "auth",
+    "authentication",
+    "passwordless",
+    "session",
+    "jwt"
+  ],
+  "license": "MIT",
+  "homepage": "https://clerk.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clerk/javascript/tree/main/packages/clerk-js"
+  },
+  "filename": "clerk.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@clerk/clerk-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|cjs|mjs)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Clerk"
+    }
+  ]
+}

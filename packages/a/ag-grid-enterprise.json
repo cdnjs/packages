@@ -1,6 +1,6 @@
 {
-  "name": "ag-grid",
-  "filename": "ag-grid-community.min.js",
+  "name": "ag-grid-enterprise",
+  "filename": "ag-grid-enterprise.min.js",
   "description": "Advanced Framework Agnostic Javascript Datagrid.",
   "repository": {
     "type": "git",
@@ -9,6 +9,7 @@
   "keywords": [
     "ag",
     "ag-grid",
+    "ag-grid-enterprise",
     "datagrid",
     "data-grid",
     "datatable",
@@ -22,11 +23,11 @@
     "angularjs",
     "reactjs"
   ],
-  "license": "MIT",
+  "license": "Commercial see LICENSE.txt",
   "homepage": "http://www.ag-grid.com/",
   "autoupdate": {
     "source": "npm",
-    "target": "ag-grid-community",
+    "target": "ag-grid-enterprise",
     "fileMap": [
       {
         "basePath": "dist",

@@ -1,0 +1,27 @@
+{
+  "name": "phylotree",
+  "description": "Interactive viewer of phylogenetic trees ",
+  "keywords": ["phylogenetics", "phylogeny", "d3", "branching", "tree"],
+  "license": "MIT",
+  "homepage": "https://github.com/veg/phylotree.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veg/phylotree.js.git"
+  },
+  "authors": [
+    {
+      "name": "veg"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "phylotree",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["*.js", "*.css"]
+      }
+    ]
+  },
+  "filename": "phylotree.min.js"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "alpinejs-sort",
+  "description": "Alpine's Sort plugin allows you to easily re-order elements by dragging them with your mouse.",
+  "keywords": [
+    "framework",
+    "reactive",
+    "declarative",
+    "plugin"
+  ],
+  "license": "MIT",
+  "homepage": "https://alpinejs.dev/plugins/sort",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alpinejs/alpine.git"
+  },
+  "authors": [
+    {
+      "name": "Caleb Porzio"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@alpinejs/sort",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "cdn.js"
+}

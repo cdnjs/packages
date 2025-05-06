@@ -1,15 +1,21 @@
 {
   "name": "jose",
   "filename": "index.js",
-  "description": "'JSON Web Almost Everything' - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes",
+  "description": "JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes",
   "keywords": [
+    "browser",
+    "bun",
+    "cloudflare",
     "compact",
     "decode",
     "decrypt",
+    "deno",
     "detached",
     "ec",
     "ecdsa",
+    "ed25519",
     "eddsa",
+    "edge",
     "electron",
     "embedded",
     "encrypt",
@@ -24,7 +30,12 @@
     "jwks",
     "jws",
     "jwt",
+    "jwt-decode",
+    "netlify",
+    "next",
+    "nextjs",
     "oct",
+    "okp",
     "payload",
     "pem",
     "pkcs8",
@@ -33,8 +44,11 @@
     "signature",
     "spki",
     "validate",
+    "vercel",
     "verify",
     "webcrypto",
+    "workerd",
+    "workers",
     "x509"
   ],
   "homepage": "https://github.com/panva/jose",
@@ -54,6 +68,12 @@
     "fileMap": [
       {
         "basePath": "dist/browser",
+        "files": [
+          "**/*.js"
+        ]
+      },
+      {
+        "basePath": "dist/webapi",
         "files": [
           "**/*.js"
         ]

@@ -1,0 +1,28 @@
+{
+  "name": "xxhash-wasm",
+  "filename": "umd/xxhash-wasm.js",
+  "description": "A WebAssembly implementation of xxHash, a fast non-cryptographic hash algorithm.",
+  "keywords": [
+    "xxhash",
+    "hash",
+    "wasm",
+    "webassembly"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "xxhash-wasm",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "{,umd/,esm/,cjs/,workerd/}*@(.js?(.map)|.wasm|.d.ts)"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jungomi/xxhash-wasm"
+  }
+}

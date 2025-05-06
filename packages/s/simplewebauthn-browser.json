@@ -1,0 +1,27 @@
+{
+  "name": "simplewebauthn-browser",
+  "description": "SimpleWebAuthn for Browsers",
+  "keywords": ["typescript", "webauthn", "passkeys", "fido", "umd"],
+  "license": "MIT",
+  "homepage": "https://github.com/MasterKale/SimpleWebAuthn/tree/master/packages/browser#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MasterKale/SimpleWebAuthn.git"
+  },
+  "authors": [
+    {
+      "name": "Matthew Miller"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@simplewebauthn/browser",
+    "fileMap": [
+      {
+        "basePath": "dist/bundle",
+        "files": ["*.js"]
+      }
+    ]
+  },
+  "filename": "index.js"
+}
