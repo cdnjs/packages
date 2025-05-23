@@ -1,0 +1,28 @@
+{
+  "packageManager": "npm",
+  "name": "qr-code-styling",
+  "version": "1.5.0",
+  "description": "QR Code Styling JavaScript library for generating QR codes with a logo and styling.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kozakdenys/qr-code-styling"
+  },
+  "filename": "lib/qr-code-styling.js",
+  "keywords": [
+    "qr-code",
+    "styling",
+    "javascript"
+  ],
+  "author": "Denys Kozak",
+  "homepage": "https://qr-code-styling.com",
+  "npmName": "qr-code-styling",
+  "npmFileMap": [
+    {
+      "basePath": "lib",
+      "files": [
+        "qr-code-styling.js"
+      ]
+    }
+  ]
+}
