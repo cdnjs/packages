@@ -1,0 +1,36 @@
+{
+  "name": "multisynq-client",
+  "description": "Real-time multi-user framework for web applications.",
+  "filename": "multisynq-client.min.js",
+  "homepage": "https://multisynq.io",
+  "keywords": [
+    "multisynq",
+    "multiplayer",
+    "multiuser",
+    "collaboration",
+    "realtime",
+    "framework",
+    "webrtc",
+    "croquet"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/multisynq/multisynq-client"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@multisynq/client",
+    "fileMap": [
+      {
+        "basePath": "bundled",
+        "files": ["multisynq-client.min.js", "multisynq-client.esm.js"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Multisynq"
+    }
+  ]
+}
