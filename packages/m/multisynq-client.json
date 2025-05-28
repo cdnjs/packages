@@ -24,7 +24,10 @@
     "fileMap": [
       {
         "basePath": "bundled",
-        "files": ["multisynq-client.min.js", "multisynq-client.esm.js"]
+        "files": [
+          "*.js",
+          "*.map"
+        ]
       }
     ]
   },
