@@ -1,0 +1,31 @@
+{
+  "name": "temporal-polyfill",
+  "description": "A lightweight polyfill for Temporal, successor to the JavaScript Date object",
+  "filename": "global.min.js",
+  "keywords": [
+    "Temporal",
+    "polyfill",
+    "date",
+    "time"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fullcalendar/temporal-polyfill"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "temporal-polyfill",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
