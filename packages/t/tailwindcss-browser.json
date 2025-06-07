@@ -1,0 +1,42 @@
+{
+  "name": "tailwindcss-browser",
+  "filename": "index.global.js",
+  "description": "A utility-first CSS framework for rapid UI development.",
+  "license": "MIT",
+  "keywords": [
+    "@tailwindcss/browser",
+    "tailwindcss",
+    "css"
+  ],
+  "authors": [
+    {
+      "name": "Adam Wathan",
+      "email": "adam.wathan@gmail.com"
+    },
+    {
+      "name": "Jonathan Reinink",
+      "email": "jonathan@reinink.ca"
+    },
+    {
+      "name": "David Hemphill",
+      "email": "davidlee.hemphill@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tailwindlabs/tailwindcss"
+  },
+  "homepage": "https://tailwindcss.com",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@tailwindcss/browser",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|ts)"
+        ]
+      }
+    ]
+  }
+}
