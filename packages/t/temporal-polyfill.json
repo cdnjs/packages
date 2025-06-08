@@ -20,7 +20,7 @@
       {
         "basePath": "",
         "files": [
-          "**/*.js"
+          "global*.@(js|cjs|d.ts|d.cts)"
         ]
       }
     ]
