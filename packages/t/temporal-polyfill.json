@@ -23,7 +23,7 @@
           "global.min.js",
           "global.esm.js",
           "index.js",
-          "chunk/*.js"
+          "chunks/*.js"
         ]
       }
     ]
