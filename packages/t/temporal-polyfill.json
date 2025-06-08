@@ -23,8 +23,7 @@
           "global.min.js",
           "global.esm.js",
           "index.js",
-          "chunk/classApi.js",
-          "chunk/internal.js"
+          "chunk/*.js"
         ]
       }
     ]
