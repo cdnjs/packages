@@ -15,11 +15,11 @@
     "typescript"
   ],
   "autoupdate": {
-    "source": "npm",
-    "target": "twing",
+    "source": "git",
+    "target": "git://github.com/NightlyCommit/twing-bundle.git",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
           "lib.min.js"
         ]
