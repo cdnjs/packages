@@ -1,0 +1,42 @@
+{
+  "name": "SuperDoc",
+  "version": "0.13.4",
+  "filename": "superdoc.min.js",
+  "homepage": "https://superdoc.dev",
+  "description": "The modern collaborative document editor for the web",
+  "keywords": [
+    "document",
+    "editor",
+    "collaborative",
+    "docx",
+    "pdf",
+    "word",
+    "real-time",
+    "collaboration",
+    "microsoft-word",
+    "document-editing",
+    "rich-text",
+    "text-editor",
+    "docx-rich-text-editor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harbour-Enterprises/SuperDoc"
+  },
+  "license": "AGPL-3.0",
+  "authors": [
+    {
+      "name": "Harbour Enterprises"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@harbour-enterprises/superdoc",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["*.js", "*.css"]
+      }
+    ]
+  }
+}
