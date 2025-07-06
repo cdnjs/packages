@@ -1,0 +1,35 @@
+{
+  "name": "mermaid-layout-elk",
+  "description": "ELK layout engine for mermaid",
+  "keywords": [
+    "diagram",
+    "markdown",
+    "flowchart"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mermaid-js/mermaid"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@mermaid-js/layout-elk",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.mjs",
+          "**/*.map"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Knut Sveidqvist"
+    }
+  ],
+  "optimization": {
+    "js": false
+  }
+}
