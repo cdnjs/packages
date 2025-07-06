@@ -1,6 +1,5 @@
 {
-  "name": "SuperDoc",
-  "version": "0.13.4",
+  "name": "superdoc",
   "filename": "superdoc.min.js",
   "homepage": "https://superdoc.dev",
   "description": "The modern collaborative document editor for the web",
