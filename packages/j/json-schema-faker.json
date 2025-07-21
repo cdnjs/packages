@@ -15,8 +15,8 @@
     "mocks"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/json-schema-faker/json-schema-faker.git",
+    "source": "npm",
+    "target": "json-schema-faker",
     "fileMap": [
       {
         "basePath": "dist",
