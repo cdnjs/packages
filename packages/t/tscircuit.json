@@ -1,0 +1,41 @@
+{
+  "name": "tscircuit",
+  "filename": "browser.min.js",
+  "description": "Create electronics with Typescript and React",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tscircuit/tscircuit"
+  },
+  "keywords": [
+    "circuit",
+    "electronics",
+    "pcb",
+    "typescript",
+    "design",
+    "automation",
+    "cad",
+    "eda",
+    "schematic",
+    "footprint",
+    "react"
+  ],
+  "homepage": "https://tscircuit.com",
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "tscircuit",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|d.ts)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "tscircuit"
+    }
+  ]
+}  
