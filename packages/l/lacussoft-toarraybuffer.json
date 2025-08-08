@@ -1,0 +1,37 @@
+{
+  "name": "lacussoft-toarraybuffer",
+  "filename": "file-to-arraybuffer.min.js",
+  "homepage": "https://github.com/juliolmuller/file2arraybuffer-js",
+  "description": "Straight-forward function to convert files into ArrayBuffer objects.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julio L. Muller"
+    }
+  ],
+  "keywords": [
+    "file",
+    "blob",
+    "binary",
+    "buffer",
+    "arraybuffer",
+    "attachment",
+    "upload"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliolmuller/file2arraybuffer-js"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@lacussoft/to-arraybuffer",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
+}
