@@ -1,7 +1,7 @@
 {
   "name": "json-schema-faker",
   "description": "JSON-Schema + Faker",
-  "filename": "json-schema-faker.min.js",
+  "filename": "bundle.min.js",
   "homepage": "http://json-schema-faker.js.org",
   "repository": {
     "type": "git",
@@ -15,8 +15,8 @@
     "mocks"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/json-schema-faker/json-schema-faker.git",
+    "source": "npm",
+    "target": "json-schema-faker",
     "fileMap": [
       {
         "basePath": "dist",
