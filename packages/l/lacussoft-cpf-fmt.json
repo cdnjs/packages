@@ -1,0 +1,38 @@
+{
+  "name": "lacussoft-cpf-fmt",
+  "filename": "cpf-fmt.min.js",
+  "homepage": "https://cpf-utils.vercel.app/",
+  "description": "Utility function to format CPF (Brazilian ID document).",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julio L. Muller"
+    }
+  ],
+  "keywords": [
+    "cpf",
+    "format",
+    "formatting",
+    "formatar",
+    "mascara",
+    "mask",
+    "pt-br",
+    "br"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliolmuller/cpf-utils-js"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@lacussoft/cpf-fmt",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
+}
