@@ -1,0 +1,39 @@
+{
+  "name": "lacussoft-num-only",
+  "filename": "lacussoft-num-only.min.js",
+  "homepage": "https://github.com/juliolmuller/num-only-js",
+  "description": "Utility function to remove non-numeric characters of input.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julio L. Muller"
+    }
+  ],
+  "keywords": [
+    "strip",
+    "remove",
+    "extract",
+    "escape",
+    "numbers",
+    "only",
+    "strings",
+    "utility",
+    "utils"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliolmuller/lacussoft-num-only-js"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@lacussoft/num-only",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
+}
