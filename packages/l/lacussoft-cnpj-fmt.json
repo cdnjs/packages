@@ -1,0 +1,38 @@
+{
+  "name": "lacussoft-cnpj-fmt",
+  "filename": "cnpj-fmt.min.js",
+  "homepage": "https://cnpj-utils.vercel.app/",
+  "description": "Utility function to format CNPJ (Brazilian company ID).",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julio L. Muller"
+    }
+  ],
+  "keywords": [
+    "cnpj",
+    "format",
+    "formatting",
+    "formatar",
+    "mascara",
+    "mask",
+    "pt-br",
+    "br"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliolmuller/cnpj-utils-js"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@lacussoft/cnpj-fmt",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
+}
