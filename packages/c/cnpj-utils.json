@@ -35,7 +35,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js"
         ]
       }
     ]
