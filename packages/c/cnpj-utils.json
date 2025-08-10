@@ -1,0 +1,43 @@
+{
+  "name": "cnpj-utils",
+  "filename": "cnpj-utils.min.js",
+  "homepage": "https://cnpj-utils.vercel.app/",
+  "description": "Utility functions to deal with CNPJ data (Brazilian company ID), like generation fake ones, validating and formatting",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julio L. Muller"
+    }
+  ],
+  "keywords": [
+    "cnpj",
+    "validar",
+    "validador",
+    "validate",
+    "validation",
+    "formatar",
+    "format",
+    "gerar",
+    "gerador",
+    "generate",
+    "generator",
+    "pt-br",
+    "br"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliolmuller/cnpj-utils-js"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "cnpj-utils",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
+}
