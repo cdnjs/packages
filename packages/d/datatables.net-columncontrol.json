@@ -16,9 +16,9 @@
     "target": "datatables.net-columncontrol",
     "fileMap": [
       {
-        "basePath": "js",
+        "basePath": "",
         "files": [
-          "*.js"
+          "js/*.js"
         ]
       }
     ]

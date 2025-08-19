@@ -17,15 +17,15 @@
     "target": "datatables.net-columncontrol-bs5",
     "fileMap": [
       {
-        "basePath": "css",
+        "basePath": "",
         "files": [
-          "*.css"
+          "css/*.css"
         ]
       },
       {
-        "basePath": "js",
+        "basePath": "",
         "files": [
-          "*.js"
+          "js/*.js"
         ]
       }
     ]
