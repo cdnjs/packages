@@ -1,0 +1,34 @@
+{
+  "name": "tailwindplus-elements",
+  "filename": "index.js",
+  "description": "Tailwind Plus Elements is a JavaScript component library used to power the interactive behavior in the HTML snippets in Tailwind Plus.",
+  "keywords": [
+    "tailwindcss",
+    "css",
+    "css-framework"
+  ],
+  "license": "Commercial see https://tailwindcss.com/plus",
+  "homepage": "https://tailwindcss.com/plus/ui-blocks/documentation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tailwindlabs/tailwind-plus-issues"
+  },
+  "authors": [
+    {
+      "name": "Adam Wathan",
+      "email": "adam.wathan@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@tailwindplus/elements",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
+}
