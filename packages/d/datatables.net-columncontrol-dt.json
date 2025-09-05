@@ -1,0 +1,39 @@
+{
+  "name": "datatables.net-columncontrol-dt",
+  "description": "DataTables default styling for DataTables ColumnControl",
+  "keywords": [
+    "DataTables",
+    "table"
+  ],
+  "license": "MIT",
+  "homepage": "https://datatables.net/extensions/columncontrol",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-ColumnControl-DataTables.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-columncontrol-dt",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/*.css"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "js/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/columnControl.dataTables.min.js",
+  "authors": [
+    {
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "datatables.net-columncontrol-jqui",
+  "description": "jQuery UI styling for DataTables ColumnControl",
+  "keywords": [
+    "DataTables",
+    "table",
+    "jQuery UI"
+  ],
+  "license": "MIT",
+  "homepage": "https://datatables.net/extensions/columncontrol",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-ColumnControl-jQueryUI.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-columncontrol-jqui",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/*.css"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "js/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/columnControl.jqueryui.min.js",
+  "authors": [
+    {
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
+    }
+  ]
+}

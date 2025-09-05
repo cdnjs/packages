@@ -1,0 +1,40 @@
+{
+  "name": "datatables.net-columncontrol-bs",
+  "description": "Bootstrap 3 styling for DataTables' ColumnControl",
+  "keywords": [
+    "DataTables",
+    "table",
+    "Bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "https://datatables.net/extensions/columncontrol",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-ColumnControl-Bootstrap.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-columncontrol-bs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/*.css"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "js/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/columnControl.bootstrap.min.js",
+  "authors": [
+    {
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
+    }
+  ]
+}
