@@ -29,9 +29,6 @@
           "*.@(js|d.ts)"
         ]
       }
-    ],
-    "ignoreVersions": [
-      "*insiders*"
     ]
   },
   "optimization": {
