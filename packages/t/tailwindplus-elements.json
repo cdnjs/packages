@@ -26,9 +26,15 @@
       {
         "basePath": "dist",
         "files": [
-          "*.@(js|cjs|d.ts|d.cts)"
+          "*.@(js|d.ts)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "*insiders*"
     ]
+  },
+  "optimization": {
+    "js": false
   }
 }
