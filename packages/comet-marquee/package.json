@@ -1,0 +1,40 @@
+{
+	"name": "comet-marquee",
+	"version": "1.1.15",
+	"description": "A lightweight, smooth-scrolling marquee plugin for modern browsers. Allows continuous horizontal scrolling of content with optional pause on hover or click.",
+	"main": "dist/comet-marquee.cjs",
+	"module": "dist/comet-marquee.modern.js",
+	"unpkg": "dist/comet-marquee.umd.js",
+	"source": "src/index.js",
+	"style": "dist/comet-marquee.css",
+	"scripts": {
+		"build": "microbundle",
+		"dev": "microbundle watch"
+	},
+	"keywords": [
+		"marquee",
+		"scroll",
+		"plugin",
+		"comet"
+	],
+	"author": "Oleksandr Vorushylo || Rhaegar259",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/OleksandrVorushylo/comet-marquee.git"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"microbundle": "^0.15.1",
+		"rollup-plugin-import-css": "^4.0.2"
+	},
+	"autoupdate": {
+		"source": "npm",
+		"target": "comet-marquee",
+		"fileMap": [
+			{
+				"basePath": "dist",
+				"files": ["**/*"]
+			}
+		]
+	}
+}
