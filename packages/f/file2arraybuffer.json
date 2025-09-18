@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/juliolmuller/file2arraybuffer-js"
+    "url": "https://github.com/LacusSolutions/file2arraybuffer-js"
   },
   "autoupdate": {
     "source": "npm",
