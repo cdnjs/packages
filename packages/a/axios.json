@@ -15,8 +15,8 @@
   ],
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/mzabriskie/axios.git",
+    "source": "npm",
+    "target": "axios",
     "fileMap": [
       {
         "basePath": "dist",
