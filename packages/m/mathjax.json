@@ -22,10 +22,10 @@
         "files": [
           "*.js!(node-main.js)",
           "ui/*.js",
-          "sre/*.js",
+          "sre/**/*",
           "adaptors/*.js",
           "a11y/*.js",
-          "input/*.js",
+          "input/**/*",
           "output/*.js",
           "config/**/*",
           "extensions/**/*",
