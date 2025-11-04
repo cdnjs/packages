@@ -22,7 +22,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/!(*.html)"
+          "{cjs/,es/,umd/}*.@(js|cjs)?(.map)"
         ]
       }
     ]
