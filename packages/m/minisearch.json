@@ -2,6 +2,7 @@
   "name": "minisearch",
   "description": "Tiny but powerful full-text search engine for browser and Node.",
   "homepage": "https://lucaong.github.io/minisearch/",
+  "filename": "umd/index.min.js",
   "keywords": [
     "search",
     "full text",
