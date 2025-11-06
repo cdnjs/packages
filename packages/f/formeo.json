@@ -1,0 +1,37 @@
+{
+  "name": "formeo",
+  "filename": "formeo.min.js",
+  "description": "A zero dependency JavaScript module for drag and drop form creation.",
+  "keywords": [
+    "drag and drop",
+    "form builder",
+    "form maker",
+    "forms",
+    "javascript"
+  ],
+  "homepage": "https://formeo.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Draggable/formeo"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Draggable",
+      "url": "https://draggable.io"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "formeo",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*.css"
+        ]
+      }
+    ]
+  }
+}
