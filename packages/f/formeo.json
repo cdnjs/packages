@@ -15,7 +15,12 @@
     "url": "https://github.com/Draggable/formeo"
   },
   "license": "MIT",
-  "author": "Draggable https://draggable.io",
+  "authors": [
+    {
+      "name": "Draggable",
+      "url": "https://draggable.io"
+    }
+  ],
   "autoupdate": {
     "source": "npm",
     "target": "formeo",
