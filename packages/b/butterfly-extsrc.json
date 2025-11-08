@@ -33,7 +33,7 @@
         "basePath": "",
         "files": [
           "sharejs/dist/css/*.css",
-          "sharejs/dist/fonts/*.@(eot|svg|ttf|woff)",
+          "sharejs/dist/fonts/*.@(eot|svg|ttf|woff|woff2)",
           "sharejs/dist/js/*.js",
           "metingjs/dist/*.js"
         ]
