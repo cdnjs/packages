@@ -11,7 +11,7 @@
   "keywords": [
     "layui",
     "ui-kit",
-    "component-library",
+    "component-library"
   ],
   "autoupdate": {
     "source": "npm",
