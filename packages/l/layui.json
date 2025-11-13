@@ -1,30 +1,27 @@
 {
   "name": "layui",
   "filename": "layui.js",
-  "description": "Classic modular front-end component library",
+  "description": "Classic Web UI Component Library",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/layui/layui.git"
+    "url": "https://github.com/layui/layui"
   },
   "homepage": "https://layui.dev",
   "keywords": [
     "layui",
-    "ui",
-    "JavaScript Framework",
-    "toolkit",
-    "front-end component library"
+    "ui-kit",
+    "component-library",
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/layui/layui.git",
+    "source": "npm",
+    "target": "layui",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "*.js?(.map)",
-          "css/**/*.css?(.map)",
-          "font/*.@(eot|ttf|svg|woff|woff2)"
+          "**/*.@(js|css|map)",
+          "font/*.@(eot|woff2)"
         ]
       }
     ]
