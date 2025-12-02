@@ -1,0 +1,49 @@
+{
+  "name": "my-file-manager-opensource",
+  "description": "Modern, secure web-based file manager with end-to-end encryption, chunked uploads, plugin architecture. Vanilla JS & PHP. Zero dependencies.",
+  "keywords": [
+    "file-manager",
+    "file-upload",
+    "file-browser",
+    "encryption",
+    "cloud-storage",
+    "javascript",
+    "php",
+    "cms",
+    "dropzone"
+  ],
+  "homepage": "https://github.com/OskarCosimo/My-File-Manager-Opensource",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OskarCosimo/My-File-Manager-Opensource.git"
+  },
+  "author": {
+    "name": "Oscar Cosimo & MYETV Team"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "js/myfilemanager.min.js",
+  "filename": "js/myfilemanager.min.js",
+  "npmName": "my-file-manager-opensource",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "js/myfilemanager.min.js",
+        "js/myfilemanager.js",
+        "js/i18n.min.js",
+        "js/i18n.js",
+        "css/myfilemanager.min.css",
+        "css/myfilemanager.css",
+        "js/plugins/myfilemanager-image-editor.js",
+        "js/plugins/myfilemanager-text-editor.js"
+      ]
+    },
+    {
+      "basePath": "assets/",
+      "files": [
+        "assets/*.png"
+      ]
+    }
+  ]
+}
