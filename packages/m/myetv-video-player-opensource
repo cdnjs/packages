@@ -1,0 +1,45 @@
+{
+  "name": "myetv-video-player-opensource",
+  "description": "A modern and complete HTML5 + JavaScript + css video player with custom controls, multiple quality support, subtitles, Picture-in-Picture and much more.",
+  "keywords": [
+    "video-player",
+    "audio-player",
+    "streaming",
+    "streaming-player",
+    "live-streaming",
+    "javascript",
+    "html5",
+    "css",
+    "video"
+  ],
+  "homepage": "https://github.com/OskarCosimo/myetv-video-player-opensource",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OskarCosimo/myetv-video-player-opensource.git"
+  },
+  "author": {
+    "name": "Oscar Cosimo & MYETV Team"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "js/myetv-player.min.js",
+  "filename": "js/myetv-player.min.js",
+  "npmName": "myetv-video-player-opensource",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "js/myetv-player.min.js",
+        "js/myetv-player.js",
+        "css/myetv-player.min.css",
+        "css/myetv-player.css"
+      ]
+    },
+    {
+      "basePath": "plugins/",
+      "files": [
+        "**/*.js"
+      ]
+    }
+  ]
+}
