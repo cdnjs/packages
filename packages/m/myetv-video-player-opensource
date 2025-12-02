@@ -21,7 +21,7 @@
     "name": "Oscar Cosimo & MYETV Team"
   },
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "main": "js/myetv-player.min.js",
   "filename": "js/myetv-player.min.js",
   "npmName": "myetv-video-player-opensource",
