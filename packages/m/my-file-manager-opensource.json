@@ -35,8 +35,7 @@
         "js/i18n.js",
         "css/myfilemanager.min.css",
         "css/myfilemanager.css",
-        "js/plugins/myfilemanager-image-editor.js",
-        "js/plugins/myfilemanager-text-editor.js"
+        "js/plugins/*.js"
       ]
     },
     {
