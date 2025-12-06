@@ -1,0 +1,30 @@
+{
+  "name": "rightmenujs",
+  "description": "RightMenu.js – customizable right-click context menu library with themes, submenus, keyboard navigation and jQuery support.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ufukcanatann/rightmenujs.git"
+  },
+  "author": "Ufuk Canatan",
+  "license": "MIT",
+  "keywords": [
+    "context-menu",
+    "right-click",
+    "menu",
+    "jquery",
+    "ui",
+    "javascript",
+    "submenu",
+    "dark-mode"
+  ],
+  "filename": "rightmenu.min.js",
+  "npmName": null,
+  "autoupdate": {
+    "type": "git",
+    "target": "https://github.com/ufukcanatann/rightmenujs.git",
+    "source": "tag",
+    "include": [
+      "dist/*"
+    ]
+  }
+}
