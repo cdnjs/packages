@@ -20,7 +20,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*.@(js|css|map)",
+          "{,*/}*.@(js|css|map)",
           "font/*.@(eot|woff2)"
         ]
       }
