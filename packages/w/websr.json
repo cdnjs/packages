@@ -12,7 +12,6 @@
     "WebGPU"
   ],
   "license": "MIT",
-  "npmName": "@websr/websr",
   "repository": {
     "type": "git",
     "url": "https://github.com/sb2702/websr.git"
