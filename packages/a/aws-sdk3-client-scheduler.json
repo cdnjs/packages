@@ -1,0 +1,35 @@
+{
+  "name": "aws-sdk3-client-scheduler",
+  "description": "AWS SDK3 for JavaScript - Client Scheduler",
+  "keywords": [
+    "api",
+    "amazon",
+    "aws",
+    "eventbridge",
+    "scheduler"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "aws-sdk/client-scheduler",
+    "fileMap": [
+      {
+        "basePath": "dist-es", 
+        "files": [
+          "*.js",
+          "**/*.js"
+        ]
+      }
+    ]
+  }
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aws/aws-sdk-js-v3.git"
+  },
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Amazon Web Services",
+      "url": "http://aws.amazon.com/"
+    }
+  ]
+}
