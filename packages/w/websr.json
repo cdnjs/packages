@@ -1,0 +1,32 @@
+{
+  "name": "websr",
+  "filename": "websr.js",
+  "description": "A free and open-source Javascript library / SDK for running practical, real-time AI Upscaling of videos and images on the web.",
+  "homepage": "https://free.upscaler.video",
+  "keywords": [
+    "AI",
+    "Upscaling",
+    "Video Enhancement",
+    "Super",
+    "Resolution",
+    "WebGPU"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sb2702/websr.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@websr/websr",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "websr.js",
+          "main.d.ts"
+        ]
+      }
+    ]
+  }
+}
