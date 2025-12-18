@@ -10,7 +10,12 @@
     "fontawesome",
     "webfont",
     "svg-icons",
-    "svg-sprites"
+    "svg-sprites",
+    "vector-graphics",
+    "toolkit",
+    "ui-icons",
+    "font-icons",
+    "awesome-icons"
   ],
   "repository": {
     "type": "git",
