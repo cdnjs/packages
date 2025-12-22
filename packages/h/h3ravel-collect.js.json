@@ -1,0 +1,58 @@
+{
+  "name": "h3ravel-collect.js",
+  "filename": "collect.min.js",
+  "license": "MIT",
+  "description": "Convenient and dependency-free wrapper for working with arrays and objects (maintained).",
+  "homepage": "https://collect.js.toneflix.net",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/h3ravel/collect.js.git"
+  },
+  "authors": [
+    {
+      "name": "Daniel Eckermann",
+      "email": "danieleckermann@gmail.com",
+      "url": "https://danieleckermann.com"
+    },
+    {
+      "name": "3m1n3nc3",
+      "email": "hamzas.legacy@toneflix.net",
+      "url": "https://hamzas.legacy.toneflix.net"
+    }
+  ],
+  "keywords": [
+    "h3ravel",
+    "maintained",
+    "latest",
+    "collections",
+    "collection",
+    "collect",
+    "map",
+    "filter",
+    "group by",
+    "reduce",
+    "transform",
+    "pluck",
+    "pie",
+    "mapWithKeys",
+    "laravel",
+    "whereIn",
+    "values",
+    "unique"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@h3ravel/collect.js",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
