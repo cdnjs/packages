@@ -1,0 +1,35 @@
+{
+  "name": "waline-emojis",
+  "description": "Emojis for Waline",
+  "keywords": [
+    "waline",
+    "comment",
+    "blog"
+  ],
+  "homepage": "https://waline.js.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walinejs/emojis.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Mr.Hope",
+      "email": "mister-hope@outlook.com",
+      "url": "https://mrhope.site"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@waline/emojis",
+    "fileMap": [
+      {
+        "basePath": "./",
+        "files": [
+          "**/*.json",
+          "**/*.png"
+        ]
+      }
+    ]
+  }
+}
