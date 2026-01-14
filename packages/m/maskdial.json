@@ -1,0 +1,22 @@
+{
+    "name": "maskdial",
+    "description": "Modern phone number formatting library with React/Vue components",
+    "keywords": ["phone", "formatting", "input", "mask", "libphonenumber"],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ruban-s/MaskDial"
+    },
+    "homepage": "https://github.com/ruban-s/MaskDial",
+    "author": "ruban-s",
+    "license": "MIT",
+    "autoupdate": {
+      "source": "npm",
+      "target": "maskdial",
+      "fileMap": [
+        {
+          "basePath": "dist",
+          "files": ["**/*.js", "**/*.cjs", "**/*.d.ts"]
+        }
+      ]
+    }
+  }
