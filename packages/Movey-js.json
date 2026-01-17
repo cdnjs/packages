@@ -1,0 +1,20 @@
+{
+  "name": "movey.js",
+  "description": "A lightweight, DOM-based movement engine for simple web animations and game development.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fatan-hafizh5/Movey.js.git"
+  },
+  "author": "Fatan-hafizh5",
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/Fatan-hafizh5/Movey.js.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": ["movey.js"]
+      }
+    ]
+  }
+}
