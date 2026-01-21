@@ -1,0 +1,32 @@
+{
+  "name": "webcodecs-utils",
+  "filename": "index.js",
+  "description": "Utility functions for working with WebCodecs API.",
+  "homepage": "https://webcodecsfundamentals.org",
+  "keywords": [
+    "webcodecs",
+    "video",
+    "audio",
+    "encoding",
+    "decoding",
+    "mp4",
+    "mp3"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sb2702/webcodecs-utils.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "webcodecs-utils",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  }
+}
