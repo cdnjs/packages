@@ -8,6 +8,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - uses: docker/setup-docker-action@v4
+
       - name: download checker
         uses: wei/wget@v1
         with:
