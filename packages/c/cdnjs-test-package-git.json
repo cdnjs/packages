@@ -1,7 +1,7 @@
 {
   "name": "cdnjs-test-package-git",
   "description": "cdnjs test package",
-  "keywords": ["cdnjs", "test"],
+  "keywords": ["cdnjs"],
   "homepage": "https://github.com/simonabadoiu/cdnjs-test-package",
   "license": "MIT",
   "repository": {
