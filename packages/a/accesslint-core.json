@@ -1,0 +1,31 @@
+{
+  "name": "accesslint-core",
+  "description": "Pure accessibility rule engine — WCAG audit with zero browser dependencies",
+  "filename": "index.iife.js",
+  "keywords": [
+    "accessibility",
+    "a11y",
+    "wcag",
+    "audit"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/AccessLint/core",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AccessLint/core.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "@accesslint/core",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.iife.js",
+          "index.js",
+          "index.cjs"
+        ]
+      }
+    ]
+  }
+}
