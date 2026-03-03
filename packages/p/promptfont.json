@@ -1,0 +1,46 @@
+{
+  "name": "promptfont",
+  "filename": "promptfont.css",
+  "description": "A font designed for button prompts and user interfaces in games.",
+  "homepage": "https://shinmera.com/promptfont",
+  "keywords": [
+    "css",
+    "font",
+    "icons",
+    "promptfont",
+    "webfont",
+    "vector-graphics",
+    "ui-icons",
+    "font-icons",
+    "prompt-icons"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://shinmera.com/projects/promptfont.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "promptfont",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "glyphs.json",
+          "promptfont.css",
+          "promptfont.ttf",
+          "promptfont.otf",
+          "promptfont.woff",
+          "promptfont.woff2"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Yukari Hafner",
+      "email": "shinmera@shirakumo.org",
+      "url": "https://shinmera.com"
+    }
+  ],
+  "license": "(OFL-1.1 OR zlib)"
+}
