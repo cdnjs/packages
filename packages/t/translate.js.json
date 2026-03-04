@@ -12,7 +12,7 @@
     "url": "https://github.com/xnx3/translate"
   },
   "license": "Apache-2.0",
-  "homepage": "https://github.com/xnx3/translate",
+  "homepage": "https://translate.zvo.cn",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/xnx3/translate.git",
@@ -21,7 +21,9 @@
         "basePath": "translate.js",
         "files": [
           "translate.js",
-          "translate.min.js"
+          "translate.min.js",
+          "debug.js",
+          "debug.min.js"
         ]
       }
     ]
