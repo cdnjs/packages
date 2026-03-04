@@ -20,7 +20,10 @@
       {
         "basePath": "translate.js",
         "files": [
-          "**/*"
+          "translate.js",
+          "translate.min.js",
+          "debug.js",
+          "debug.min.js"
         ]
       }
     ]
