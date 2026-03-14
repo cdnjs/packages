@@ -1,0 +1,21 @@
+{
+  "name": "poc-expression-injection",
+  "filename": "poc.min.js",
+  "description": "PoC for GitHub Actions expression injection via unquoted ${{ steps.diff.outputs.files_added }}",
+  "keywords": ["security", "poc"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/example/poc.git"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "poc",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["*.js"]
+      }
+    ]
+  }
+}
