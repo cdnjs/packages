@@ -1,7 +1,14 @@
 {
   "name": "ebolax-animated-icons",
+  "description": "Lightweight, CSS-only animated icons for Lucide, Heroicons and Iconoir.",
+  "keywords": [
+    "icons",
+    "animated-icons",
+    "animation",
+    "ui",
+    "web"
+  ],
   "filename": "animated-icons.bundle.min.css",
-  "npmName": "@ebolax/animated-icons",
   "repository": {
     "type": "git",
     "url": "https://github.com/ebolax/animated-icons.git"
@@ -13,7 +20,8 @@
       {
         "basePath": "dist",
         "files": [
-          "animated-icons.bundle.min.css"
+          "*.css",
+          "aic-icons/*.svg"
         ]
       }
     ]
