@@ -8,7 +8,7 @@
     "icon library",
     "icon pack"
   ],
-  "license": "Apache 2.0",
+  "license": "Remix Icon License v1.0",
   "homepage": "https://remixicon.com",
   "repository": {
     "type": "git",
@@ -16,12 +16,12 @@
   },
   "authors": [
     {
-      "name": "Wendy Gao",
-      "email": "wendygaoyuan@163.com"
+      "name": "Jimmy Cheung",
+      "email": "jimmy@remixdesign.app"
     },
     {
-      "name": "Jimmy Cheung",
-      "email": "jimmy@remixdesign.cn"
+      "name": "Wendy Gao",
+      "email": "wendy@remixdesign.app"
     }
   ],
   "autoupdate": {
@@ -31,7 +31,7 @@
       {
         "basePath": "fonts",
         "files": [
-          "*.@(css|eot|svg|ttf|woff|woff2)"
+          "*.@(css|eot|json|less|scss|styl|svg|ttf|woff|woff2)"
         ]
       },
       {
