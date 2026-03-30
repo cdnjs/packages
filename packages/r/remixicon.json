@@ -31,7 +31,7 @@
       {
         "basePath": "fonts",
         "files": [
-          "*.@(css|eot|json|less|scss|styl|svg|ttf|woff|woff2)"
+          "*.@(css|eot|json|scss|svg|ttf|woff|woff2)"
         ]
       },
       {
