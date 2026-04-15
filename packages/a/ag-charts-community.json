@@ -27,7 +27,7 @@
     "target": "ag-charts-community",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "dist/umd",
         "files": [
           "**/*"
         ]
