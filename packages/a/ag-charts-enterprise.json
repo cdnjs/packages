@@ -1,0 +1,40 @@
+{
+  "name": "ag-charts-enterprise",
+  "filename": "ag-charts-enterprise.js",
+  "description": "Advanced Framework Agnostic Javascript Charts.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ag-charts/ag-charts"
+  },
+  "keywords": [
+    "ag",
+    "ag-charts",
+    "ag-charts-enterprise",
+    "datacharts",
+    "data-charts",
+    "charts",
+    "react",
+    "angular",
+    "angular-component",
+    "react-component",
+    "angularjs",
+    "reactjs"
+  ],
+  "license": "Commercial see LICENSE.txt",
+  "homepage": "http://www.ag-charts.com/charts",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ag-charts-enterprise",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
