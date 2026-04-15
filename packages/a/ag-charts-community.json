@@ -1,6 +1,6 @@
 {
-  "name": "ag-charts-enterprise",
-  "filename": "ag-charts-enterprise.js",
+  "name": "ag-charts-community",
+  "filename": "ag-charts-community.js",
   "description": "Advanced Charting / Charts supporting Javascript / Typescript / React / Angular / Vue",
   "repository": {
     "type": "git",
@@ -9,7 +9,7 @@
   "keywords": [
     "ag",
     "ag-charts",
-    "ag-charts-enterprise",
+    "ag-charts-community",
     "datacharts",
     "data-charts",
     "charts",
@@ -24,7 +24,7 @@
   "homepage": "http://www.ag-charts.com/charts",
   "autoupdate": {
     "source": "npm",
-    "target": "ag-charts-enterprise",
+    "target": "ag-charts-community",
     "fileMap": [
       {
         "basePath": "dist",
