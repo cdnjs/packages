@@ -1,0 +1,29 @@
+{
+  "name": "temml",
+  "filename": "temml.min.js",
+  "description": "TeX-to-MathML conversion library in JavaScript.",
+  "license": "MIT",
+  "keywords": [
+    "tex",
+    "latex",
+    "math",
+    "mathml"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ronkok/Temml.git"
+  },
+  "homepage": "https://temml.org/",
+  "autoupdate": {
+    "source": "npm",
+    "target": "temml",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|cjs|mjs|d.ts|css|woff2)"
+        ]
+      }
+    ]
+  }
+}
