@@ -21,7 +21,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|cjs|mjs|d.ts|css|woff2)"
         ]
       }
     ]
