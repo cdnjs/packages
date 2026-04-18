@@ -29,7 +29,7 @@
       {
         "basePath": "dist/umd",
         "files": [
-          "**/*"
+          "*.js"
         ]
       }
     ]
