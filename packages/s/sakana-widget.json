@@ -10,7 +10,7 @@
     "takina"
   ],
   "license": "MIT",
-  "homepage": "https://sakana.dsrkafuu.net",
+  "homepage": "https://github.dsrkafuu.net/sakana-widget/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dsrkafuu/sakana-widget.git"
@@ -36,5 +36,5 @@
       }
     ]
   },
-  "filename": "sakana.min.js"
+  "filename": "index.umd.min.js"
 }
