@@ -1,0 +1,21 @@
+{
+  "name": "xx-test-h007-probe",
+  "filename": "x.min.js",
+  "description": "Bug bounty PoC for cdnjs supply chain. SAFE.",
+  "keywords": ["probe-h007"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/example/x.git"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/example/x.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": ["*.js"]
+      }
+    ]
+  }
+}
