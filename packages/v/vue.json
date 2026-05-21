@@ -1,6 +1,6 @@
 {
   "name": "vue",
-  "filename": "vue.min.js",
+  "filename": "vue.global.js",
   "license": "MIT",
   "description": "Simple, Fast & Composable MVVM for building interactive interfaces",
   "homepage": "https://vuejs.org",
