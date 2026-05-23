@@ -1,0 +1,43 @@
+{
+  "name": "stock-api",
+  "description": "Stock market data API for Node.js, browsers, and TypeScript",
+  "filename": "stock-api.iife.min.js",
+  "homepage": "https://github.com/zhangxiangliang/stock-api#readme",
+  "keywords": [
+    "stock",
+    "stocks",
+    "stock-api",
+    "stock-market",
+    "market-data",
+    "finance",
+    "quote",
+    "quotes",
+    "typescript"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangxiangliang/stock-api.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "stock-api",
+    "fileMap": [
+      {
+        "basePath": "dist/browser",
+        "files": [
+          "stock-api.iife.min.js",
+          "stock-api.iife.min.js.map",
+          "stock-api.esm.mjs",
+          "stock-api.esm.min.mjs",
+          "stock-api.esm.min.mjs.map"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "zhangxiangliang"
+    }
+  ]
+}
