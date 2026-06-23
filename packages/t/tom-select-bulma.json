@@ -1,0 +1,40 @@
+{
+  "name": "tom-select-bulma",
+  "description": "A Bulma theme for Tom Select — a search/autocomplete/tagging select that looks native in Bulma and tracks light/dark themes (and RTL) via Bulma's CSS variables.",
+  "keywords": [
+    "bulma",
+    "tom-select",
+    "select",
+    "combobox",
+    "autocomplete",
+    "dropdown",
+    "theme",
+    "rtl"
+  ],
+  "license": "MIT",
+  "homepage": "https://raydapay.github.io/tom-select-bulma/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydapay/tom-select-bulma.git"
+  },
+  "authors": [
+    {
+      "name": "Ray",
+      "url": "https://github.com/raydapay"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/raydapay/tom-select-bulma.git",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "tom-select.bulma.css",
+          "tom-select.bulma.min.css"
+        ]
+      }
+    ]
+  },
+  "filename": "tom-select.bulma.min.css"
+}
