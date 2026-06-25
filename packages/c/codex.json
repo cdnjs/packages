@@ -1,12 +1,15 @@
 {
   "name": "codex",
-  "filename": "codex.umd.js",
+  "filename": "codex.js",
   "description": "Codex design system for Wikimedia",
   "keywords": [
     "codex",
     "design-system",
     "components",
-    "front-end"
+    "front-end",
+    "vue",
+    "wikimedia",
+    "wikipedia"
   ],
   "autoupdate": {
     "source": "npm",
@@ -15,7 +18,7 @@
       {
         "basePath": "dist",
         "files": [
-          "*.@(js|mjs|css)"
+          "*.@(js|mjs|cjs|css|json)"
         ]
       }
     ]
