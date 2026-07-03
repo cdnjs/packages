@@ -13,7 +13,7 @@
     "target": "git://github.com/nodeca/js-yaml.git",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "bin",
         "files": [
           "*"
         ]
