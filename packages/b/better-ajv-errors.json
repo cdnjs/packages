@@ -1,0 +1,36 @@
+{
+  "name": "better-ajv-errors",
+  "description": "JSON Schema validation for Human",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atlassian/better-ajv-errors.git"
+  },
+  "keywords": [
+    "JSON",
+    "schema",
+    "validator",
+    "jsonschema",
+    "json-schema",
+    "ajv",
+    "ajv-errors"
+  ],
+  "license": "Apache-2.0",
+  "filename": "index.mjs",
+  "autoupdate": {
+    "source": "npm",
+    "target": "better-ajv-errors",
+    "fileMap": [
+      {
+        "basePath": "lib/esm",
+        "files": [
+          "**/*.mjs?(.map)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Rifat Nabi <to.rifat@gmail.com>"
+    }
+  ]
+}

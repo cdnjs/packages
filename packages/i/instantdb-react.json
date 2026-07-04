@@ -1,0 +1,32 @@
+{
+  "name": "instantdb-react",
+  "filename": "index.js",
+  "description": "Instant DB for React",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/instantdb/instant"
+  },
+  "keywords": [
+    "instantdb",
+    "instant",
+    "database",
+    "realtime",
+    "sync",
+    "offline-first",
+    "react"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://www.instantdb.com",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@instantdb/react",
+    "fileMap": [
+      {
+        "basePath": "dist/standalone",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "style-forge.themes",
+  "homepage": "https://style-forge.github.io/themes/",
+  "description": "Style-Forge.Themes: powerful tool for managing and applying customizable themes in web applications.",
+  "filename": "themes.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Style-Forge/themes.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "style-forge",
+    "themes",
+    "theming",
+    "CSS",
+    "CSS-in-JS",
+    "theme management",
+    "theme switching",
+    "customizable themes",
+    "dynamic themes",
+    "web development",
+    "frontend",
+    "UI",
+    "design",
+    "style",
+    "JavaScript",
+    "react",
+    "vue"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "style-forge.themes",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "themes.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Dmitrii Sagalov",
+      "email": "sarmaged@gmail.com"
+    }
+  ]
+}

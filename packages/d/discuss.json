@@ -19,12 +19,6 @@
       "url": "https://www.imlete.cn"
     }
   ],
-  "optimization": {
-    "js": false,
-    "css": false,
-    "png": false,
-    "jpg": false
-  },
   "autoupdate": {
     "source": "npm",
     "target": "discuss",

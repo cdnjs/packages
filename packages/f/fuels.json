@@ -1,0 +1,32 @@
+{
+  "name": "fuels",
+  "description": "Fuel TS SDK",
+  "homepage": "https://fuellabs.github.io/fuels-ts/",
+  "filename": "browser.mjs",
+  "keywords": ["ethereum", "fuels", "fuel-vm", "sway", "typescript"],
+  "authors": [
+    {
+      "name": "Fuel Labs",
+      "email": "contact@fuel.sh",
+      "url": "https://fuel.network/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FuelLabs/fuels-ts.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "fuels",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["browser.mjs", "browser.min.mjs"]
+      }
+    ],
+    "ignoreVersions": [
+      "0.0.0-*"
+    ]
+  },
+  "license": "Apache-2.0"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "telnyx-webrtc",
+  "description": "Telnyx WebRTC Client",
+  "keywords": [
+    "telnyx",
+    "webrtc",
+    "sip",
+    "json-rpc",
+    "soft phone",
+    "freeswitch",
+    "voip",
+    "audio",
+    "video"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/team-telnyx/webrtc#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/team-telnyx/webrtc.git"
+  },
+  "authors": [
+    {
+      "name": "Telnyx",
+      "email": "support@telnyx.com",
+      "url": "https://www.telnyx.com/"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@telnyx/webrtc",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "bundle.@(js|mjs)"
+        ]
+      }
+    ]
+  },
+  "filename": "bundle.js"
+}

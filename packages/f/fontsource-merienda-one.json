@@ -1,0 +1,44 @@
+{
+  "name": "fontsource-merienda-one",
+  "description": "Self-host the Merienda One font in a neatly bundled NPM package.",
+  "filename": "index.css",
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "merienda-one",
+    "Merienda One",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "authors": [
+    {
+      "name": "Google Inc."
+    }
+  ],
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/merienda-one",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontsource/font-files.git"
+  },
+  "autoupdate": {
+    "excludeFromSearch": true,
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.css",
+          "files/*.@(woff|woff2)"
+        ]
+      }
+    ],
+    "source": "npm",
+    "target": "@fontsource/merienda-one"
+  }
+}

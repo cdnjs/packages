@@ -1,0 +1,46 @@
+{
+  "name": "devextreme-dist",
+  "description": "HTML5 JavaScript Component Suite for Responsive Web Development",
+  "keywords": [
+    "html5",
+    "controls",
+    "widgets",
+    "components",
+    "jquery",
+    "knockout",
+    "angular",
+    "web",
+    "ui",
+    "datagrid",
+    "pivotgrid",
+    "scheduler",
+    "treelist",
+    "chart"
+  ],
+  "license": "https://js.devexpress.com/Licensing/",
+  "homepage": "https://js.devexpress.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevExpress/DevExtreme.git"
+  },
+  "authors": [
+    {
+      "name": "Developer Express Inc."
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "devextreme-dist",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/*.css",
+          "css/{fonts/,icons/}*.@(ttf|woff|woff2)",
+          "js/{,localization/,vectormap-data/,vectormap-utils/}*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/dx.all.js"
+}

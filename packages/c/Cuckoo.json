@@ -25,7 +25,7 @@
         "files": [
           "css/*.css",
           "js/*.js",
-          "fonts/**/*.@(woff|woff2)",
+          "fonts/**/*.@(woff|woff2|ttf)",
           "icons/**/*.@(woff|woff2)",
           "images/*.@(png|jpg|jpeg|gif|ico)"
         ]

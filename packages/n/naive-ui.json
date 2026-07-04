@@ -1,0 +1,35 @@
+{
+  "name": "naive-ui",
+  "description": "A Vue 3 Component Library. Fairly Complete, Theme Customizable, Uses TypeScript, Fast",
+  "keywords": [
+    "naive-ui",
+    "component library",
+    "ui framework",
+    "ui",
+    "vue"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.naiveui.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tusen-ai/naive-ui"
+  },
+  "authors": [
+    {
+      "name": "07akioni"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "naive-ui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.prod.js"
+}

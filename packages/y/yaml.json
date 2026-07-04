@@ -1,0 +1,27 @@
+{
+  "name": "yaml",
+  "description": "YAML parser and stringifier for JavaScript",
+  "keywords": ["yaml", "yaml-parser", "yaml-editor"],
+  "license": "ISC",
+  "homepage": "https://github.com/eemeli/yaml",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eemeli/yaml.git"
+  },
+  "filename": "index.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "yaml",
+    "fileMap": [
+      {
+        "basePath": "browser/dist",
+        "files": ["**/*.js"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Eemeli Aro"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "fontsource-swanky-and-moo-moo",
+  "description": "Self-host the Swanky and Moo Moo font in a neatly bundled NPM package.",
+  "filename": "index.css",
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "swanky-and-moo-moo",
+    "Swanky and Moo Moo",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "authors": [
+    {
+      "name": "Google Inc."
+    }
+  ],
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/swanky-and-moo-moo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontsource/font-files.git"
+  },
+  "autoupdate": {
+    "excludeFromSearch": true,
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.css",
+          "files/*.@(woff|woff2)"
+        ]
+      }
+    ],
+    "source": "npm",
+    "target": "@fontsource/swanky-and-moo-moo"
+  }
+}

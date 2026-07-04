@@ -1,7 +1,7 @@
 {
   "name": "bootpag",
   "filename": "jquery.bootpag.min.js",
-  "description": "bootpag - dynamic pagination jQuery plugin. Works well with bootstrap or standalone.",
+  "description": "bootpag - dynamic pagination jQuery plugin. Works well with Bootstrap or standalone.",
   "keywords": [
     "pagination",
     "bootstrap",
@@ -13,13 +13,13 @@
     "type": "git",
     "url": "git://github.com/botmonster/jquery-bootpag.git"
   },
-  "homepage": "http://botmonster.github.com/jquery-bootpag",
+  "homepage": "https://botmonster.com/jquery-bootpag/",
   "autoupdate": {
     "source": "npm",
     "target": "bootpag",
     "fileMap": [
       {
-        "basePath": "lib",
+        "basePath": "dist",
         "files": [
           "jquery.bootpag*.js"
         ]
@@ -29,7 +29,7 @@
   "authors": [
     {
       "name": "Botmonster",
-      "url": "http://blog.botmonster.com"
+      "url": "https://botmonster.com"
     }
   ]
 }

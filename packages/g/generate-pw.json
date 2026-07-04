@@ -1,0 +1,40 @@
+{
+  "name": "generate-pw",
+  "filename": "generate-pw.min.js",
+  "license": "MIT",
+  "description": "Randomly generate, strengthen, and validate cryptographically-secure passwords.",
+  "homepage": "https://generatepw.org",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adamlui/js-utils.git"
+  },
+  "authors": [
+    {
+      "name": "Adam Lui",
+      "email": "adam@kudoai.com",
+      "url": "https://github.com/adamlui"
+    }
+  ],
+  "keywords": [
+    "password",
+    "generator",
+    "unique",
+    "generate",
+    "api"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "generate-pw",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}

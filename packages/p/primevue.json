@@ -1,0 +1,41 @@
+{
+  "name": "primevue",
+  "description": "Next Generation Vue UI Component Library",
+  "keywords": [
+    "primevue",
+    "vue",
+    "ui framework",
+    "component framework",
+    "ui library",
+    "component library",
+    "material",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "https://primevue.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primefaces/primevue.git"
+  },
+  "authors": [
+    {
+      "name": "primevue contributors",
+      "url": "https://github.com/primefaces/primevue/graphs/contributors"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "primevue",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*/*.@(css|js)",
+          "resources/images/*.png",
+          "resources/themes/*/*.css",
+          "resources/themes/*/fonts/*.@(woff|woff2)"
+        ]
+      }
+    ]
+  }
+}

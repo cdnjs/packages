@@ -1,0 +1,44 @@
+{
+  "name": "fontsource-bungee-spice",
+  "description": "Self-host the Bungee Spice font in a neatly bundled NPM package.",
+  "filename": "index.css",
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "bungee-spice",
+    "Bungee Spice",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "authors": [
+    {
+      "name": "Google Inc."
+    }
+  ],
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/bungee-spice",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontsource/font-files.git"
+  },
+  "autoupdate": {
+    "excludeFromSearch": true,
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.css",
+          "files/*.@(woff|woff2)"
+        ]
+      }
+    ],
+    "source": "npm",
+    "target": "@fontsource/bungee-spice"
+  }
+}

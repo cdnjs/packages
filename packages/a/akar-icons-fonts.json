@@ -1,0 +1,42 @@
+{
+  "name": "akar-icons-fonts",
+  "description": "A perfectly rounded icon library made for everyone.",
+  "keywords": [
+    "css",
+    "icons",
+    "svg",
+    "inline",
+    "figma",
+    "akar",
+    "design",
+    "library",
+    "icon-font"
+  ],
+  "license": "MIT",
+  "homepage": "https://akaricons.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artcoholic/akar-icons-fonts.git"
+  },
+  "authors": [
+    {
+      "name": "Arturo Wibawa",
+      "email": "agwibawa@gmail.com",
+      "url": "https://arturowibawa.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "akar-icons-fonts",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "css/*.css",
+          "fonts/*.@(svg|ttf|woff)"
+        ]
+      }
+    ]
+  },
+  "filename": "css/akar-icons.css"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "carbon-charts",
+  "description": "Carbon Charts component library",
+  "keywords": [
+		"charts",
+		"graphs",
+		"radar",
+		"gauge",
+		"donut",
+		"pie",
+		"sparkline",
+		"tree",
+		"treemap",
+		"heatmap",
+		"wordcloud",
+		"histogram",
+		"alluvial",
+		"geo",
+		"bar",
+		"bullet",
+		"scatter",
+		"meter",
+		"line",
+		"javascript",
+		"component",
+		"carbon",
+		"ibm",
+		"svg",
+		"data",
+		"typescript"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://www.carbondesignsystem.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carbon-design-system/carbon-charts/tree/master/packages/core"
+  },
+  "filename": "bundle.umd.cjs",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@carbon/charts",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.css?(.map)"
+        ]
+      },
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "*.cjs?(.map)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "IBM"
+    }
+  ]
+}

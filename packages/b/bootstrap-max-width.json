@@ -1,0 +1,40 @@
+{
+  "name": "bootstrap-max-width",
+  "filename": "bootstrap-max-width.min.css",
+  "description": "Responsive Max Width built with Bootstrap 5. Learn how to make a container or an element max width within its parent.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "size",
+    "responsive-design",
+    "sizing",
+    "bootstrap5-template",
+    "bootstrap-template"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/max-width/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-max-width"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-max-width",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-max-width*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

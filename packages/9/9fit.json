@@ -1,0 +1,43 @@
+{
+  "name": "9fit",
+  "description": "9fit用作浏览器的帮助",
+  "keywords": [
+    "player"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/n0127/fit/blob/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n0127/fit"
+  },
+  "authors": [
+    {
+      "name": "n0127",
+      "url": "https://github.com/n0127"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "9fit",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "static/@(js|player)/*.js",
+          "template/ness/chat/css/*.css",
+          "template/ness/chat/js/*.js",
+          "template/ness/css/*.@(css|ttf|woff|woff2)",
+          "template/ness/js/*.js",
+          "template/ness/player/css/*.css",
+          "template/ness/player/js/*.js",
+          "static/images/*.png",
+          "static/images/face/*.gif",
+          "template/ness/img/*.png",
+          "template/ness/player/img/*.png",
+          "template/ness/share/img/*.png"
+        ]
+      }
+    ]
+  },
+  "filename": "static/js/player.js"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "node-vibrant",
+  "filename": "vibrant.min.js",
+  "description": "Extract prominent colors from an image. Supports both node and browser environment.",
+  "keywords": [
+    "color",
+    "detection",
+    "varation",
+    "image",
+    "picture",
+    "canvas",
+    "vibrant",
+    "muted",
+    "colour"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akfish/node-vibrant.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "node-vibrant",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["*.js"]
+      }
+    ]
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "akfish"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "style-forge.form",
+  "homepage": "https://style-forge.github.io/form/",
+  "description": "Style-Forge.Form: versatile library for easy form creation, validation, styling, and submission in web apps.",
+  "filename": "form.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Style-Forge/form.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "style-forge",
+    "form",
+    "input",
+    "select",
+    "switch",
+    "textarea",
+    "validate",
+    "html",
+    "css",
+    "styling",
+    "web development",
+    "frontend",
+    "form elements",
+    "form styles",
+    "responsive"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "style-forge.form",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "form.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Dmitrii Sagalov",
+      "email": "sarmaged@gmail.com"
+    }
+  ]
+}

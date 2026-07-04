@@ -1,0 +1,35 @@
+{
+  "name": "liquidjs",
+  "description": "A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.",
+  "filename": "liquid.browser.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harttle/liquidjs.git"
+  },
+  "keywords": [
+    "liquid",
+    "template engine",
+    "express",
+    "jinja",
+    "shopify"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "liquidjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "liquid.browser*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Harttle",
+      "url": "https://github.com/harttle"
+    }
+  ]
+}

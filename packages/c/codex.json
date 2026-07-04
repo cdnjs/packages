@@ -1,0 +1,37 @@
+{
+  "name": "codex",
+  "filename": "codex.js",
+  "description": "Codex design system for Wikimedia",
+  "keywords": [
+    "codex",
+    "design-system",
+    "components",
+    "front-end",
+    "vue",
+    "wikimedia",
+    "wikipedia"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@wikimedia/codex",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|mjs|cjs|css|json)"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gerrit.wikimedia.org/r/design/codex.git"
+  },
+  "authors": [
+    {
+      "name": "Wikimedia Foundation Design Systems Team",
+      "url": "https://www.mediawiki.org/wiki/Design_Systems_Team"
+    }
+  ],
+  "license": "GPL-2.0-or-later"
+}

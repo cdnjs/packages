@@ -1,0 +1,44 @@
+{
+  "name": "fontsource-hi-melody",
+  "description": "Self-host the Hi Melody font in a neatly bundled NPM package.",
+  "filename": "index.css",
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "hi-melody",
+    "Hi Melody",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "authors": [
+    {
+      "name": "Google Inc."
+    }
+  ],
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/hi-melody",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontsource/font-files.git"
+  },
+  "autoupdate": {
+    "excludeFromSearch": true,
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.css",
+          "files/*.@(woff|woff2)"
+        ]
+      }
+    ],
+    "source": "npm",
+    "target": "@fontsource/hi-melody"
+  }
+}

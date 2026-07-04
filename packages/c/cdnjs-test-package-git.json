@@ -1,0 +1,28 @@
+{
+  "name": "cdnjs-test-package-git",
+  "description": "cdnjs test package",
+  "keywords": ["cdnjs", "test"],
+  "homepage": "https://github.com/simonabadoiu/cdnjs-test-package",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonabadoiu/cdnjs-test-package.git"
+  },
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/simonabadoiu/cdnjs-test-package.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": ["*"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Simona Badoiu",
+      "email": "simonaandreea.badoiu@gmail.com"
+    }
+  ]
+}

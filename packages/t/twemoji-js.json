@@ -1,0 +1,31 @@
+{
+  "name": "twemoji-js",
+  "description": "A Unicode standard based way to implement emoji across all platforms.",
+  "filename": "twemoji.min.js",
+  "keywords": [
+    "emoji",
+    "DOM",
+    "parser",
+    "images",
+    "retina",
+    "Twitter",
+    "unicode"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "twemoji",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twitter/twemoji"
+  },
+  "license": "(MIT OR CC-BY-4.0)"
+}

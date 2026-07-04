@@ -1,0 +1,36 @@
+{
+  "name": "js-pytorch",
+  "description": "Deep Learning JavaScript library with PyTorch's syntax, and GPU acceleration.",
+  "homepage": "https://eduardoleao052.github.io/js-pytorch/site/index.html",
+  "filename": "js-pytorch-browser.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardoleao052/js-pytorch"
+  },
+  "keywords": [
+    "deep-learning",
+    "ai",
+    "pytorch",
+    "machine-learning",
+    "neural-networks"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "js-pytorch",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "js-pytorch-browser.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Eduardo Leitão da Cunha Opice Leão",
+      "email": "eduardoleao052@gmail.com"
+    }
+  ]
+}

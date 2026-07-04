@@ -1,0 +1,33 @@
+{
+  "name": "marked-gfm-heading-id",
+  "filename": "index.umd.min.js",
+  "description": "marked GFM heading ids",
+  "keywords": [
+    "marked",
+    "extension"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "marked-gfm-heading-id",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markedjs/marked-gfm-heading-id.git"
+  },
+  "authors": [
+    {
+      "name": "Tony Brix",
+      "email": "Tony@Brix.ninja",
+      "url": "https://Tony.Brix.ninja"
+    }
+  ],
+  "license": "MIT"
+}

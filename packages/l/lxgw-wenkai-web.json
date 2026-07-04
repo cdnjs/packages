@@ -1,0 +1,55 @@
+{
+  "name": "lxgw-wenkai-web",
+  "description": "Web font package for LXGW WenKai",
+  "filename": "style.css",
+  "license": "MIT",
+  "homepage": "https://github.com/CMBill/lxgw-wenkai-web",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CMBill/lxgw-wenkai-web"
+  },
+  "keywords": [
+    "lxgw-wenkai",
+    "cjk",
+    "font",
+    "webfont",
+    "css"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@callmebill/lxgw-wenkai-web",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "style.css",
+          "style.min.css",
+          "lxgwwenkai-medium/*.woff2",
+          "lxgwwenkai-medium/result.css",
+          "lxgwwenkai-medium/result.min.css",
+          "lxgwwenkai-light/*.woff2",
+          "lxgwwenkai-light/result.css",
+          "lxgwwenkai-light/result.min.css",
+          "lxgwwenkai-regular/*.woff2",
+          "lxgwwenkai-regular/result.css",
+          "lxgwwenkai-regular/result.min.css",
+          "lxgwwenkaimono-medium/*.woff2",
+          "lxgwwenkaimono-medium/result.css",
+          "lxgwwenkaimono-medium/result.min.css",
+          "lxgwwenkaimono-light/*.woff2",
+          "lxgwwenkaimono-light/result.css",
+          "lxgwwenkaimono-light/result.min.css",
+          "lxgwwenkaimono-regular/*.woff2",
+          "lxgwwenkaimono-regular/result.css",
+          "lxgwwenkaimono-regular/result.min.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "CM_Bill",
+      "email": "callmebill@billw.cn"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "livekit-client",
+  "description": "LiveKit Javascript/Typescript SDK, connects to a self- or cloud-hosted LiveKit server, you can quickly build applications like interactive live streaming or video calls with just a few lines of code.",
+  "license": "Apache-2.0",
+  "keywords": ["livekit", "video", "streaming", "rtc", "webrtc"],
+  "filename": "livekit-client.umd.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/livekit/client-sdk-js"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "livekit-client",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["*.@(js|mjs)"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "LiveKit",
+      "url": "https://livekit.io"
+    }
+  ]
+}

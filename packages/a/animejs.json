@@ -1,30 +1,44 @@
 {
   "name": "animejs",
-  "description": "Polyvalent Javascript animation engine",
-  "filename": "anime.min.js",
+  "description": "JavaScript animation engine",
+  "filename": "anime.umd.min.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/juliangarnier/anime.git"
   },
   "keywords": [
     "anime",
+    "animejs",
+    "anime.js",
+    "timer",
     "animation",
-    "javascript",
+    "timeline",
+    "animatable",
+    "draggable",
+    "scope",
+    "engine",
+    "scroll",
+    "easings",
+    "cubic-bezier",
+    "spring",
+    "text",
+    "JavaScript",
     "CSS",
-    "transforms",
     "SVG",
-    "canvas"
+    "WAAPI",
+    "Canvas",
+    "WebGL"
   ],
   "license": "MIT",
-  "homepage": "http://anime-js.com",
+  "homepage": "http://animejs.com",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/juliangarnier/anime.git",
+    "source": "npm",
+    "target": "animejs",
     "fileMap": [
       {
-        "basePath": "lib",
+        "basePath": "dist/bundles",
         "files": [
-          "anime?(.min).js"
+          "*.min.js"
         ]
       }
     ]
@@ -32,7 +46,7 @@
   "authors": [
     {
       "name": "Julian Garnier",
-      "email": "hello@julian.gr"
+      "email": "julian@animejs.com"
     }
   ]
 }

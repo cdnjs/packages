@@ -1,0 +1,34 @@
+{
+  "name": "alpinejs-morph",
+  "description": "Alpine's Morph plugin allows you to 'morph' an element on the page into the provided HTML template, all while preserving any browser or Alpine state within the 'morphed' element.",
+  "keywords": [
+    "framework",
+    "reactive",
+    "declarative",
+    "plugin"
+  ],
+  "license": "MIT",
+  "homepage": "https://alpinejs.dev/plugins/morph",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alpinejs/alpine.git"
+  },
+  "authors": [
+    {
+      "name": "Caleb Porzio"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@alpinejs/morph",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "cdn.js"
+}

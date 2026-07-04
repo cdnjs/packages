@@ -1,0 +1,44 @@
+{
+  "description": "CSS custom properties to help accelerate adaptive and consistent design.",
+  "filename": "open-props.min.css",
+  "homepage": "https://open-props.style/",
+  "keywords": [
+    "css",
+    "css-custom-properties",
+    "css-gradients",
+    "css-colors",
+    "css-easing-functions",
+    "css-normalise",
+    "css-custom-media-queries"
+  ],
+  "license": "MIT",
+  "name": "open-props",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/argyleink/open-props"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "open-props",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "**/*.css",
+          "*.css"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Adam Argyle"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "chessground",
+    "description": "Chessground is a free/libre open source chess UI developed for lichess.org. It targets modern browsers, as well as mobile development using Cordova.",
+    "license": "GPL-3.0-or-later",
+    "keywords": [
+        "chess",
+        "chessground",
+        "chess ui",
+        "chessboard"
+    ],
+    "filename": "chessground.min.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lichess-org/chessground.git"
+    },
+    "autoupdate": {
+        "source": "npm",
+        "target": "chessground",
+        "fileMap": [
+            {
+                "basePath": "dist",
+                "files": [
+                    "chessground*.js"
+                ]
+            }
+        ]
+    },
+    "authors": [
+        {
+            "name": "Thibault Duplessis",
+            "email": "t@lichess.org",
+            "url": "https://github.com/ornicar"
+        }
+    ]
+}

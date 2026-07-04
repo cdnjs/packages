@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/kaimallea/isMobile.git"
   },
-  "filename": "isMobile.min.js",
+  "filename": "cjs/isMobile.js",
   "autoupdate": {
     "source": "npm",
     "target": "ismobilejs",
@@ -20,7 +20,7 @@
       {
         "basePath": "",
         "files": [
-          "isMobile*"
+          "@(cjs|esm)/isMobile.js"
         ]
       }
     ]

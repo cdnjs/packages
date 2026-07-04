@@ -1,0 +1,35 @@
+{
+  "name": "maplibre-gl",
+  "description": "A WebGL interactive maps library",
+  "filename": "maplibre-gl.js",
+  "license": "BSD-3-Clause",
+  "homepage": "https://maplibre.org/maplibre-gl-js/docs/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maplibre/maplibre-gl-js"
+  },
+  "keywords": [
+    "map",
+    "vector",
+    "tiles",
+    "mapping"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "maplibre-gl",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)?(.map)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Harel Mazor",
+      "email": "harel.mazor@gmail.com"
+    }
+  ]
+}

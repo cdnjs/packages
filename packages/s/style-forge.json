@@ -1,0 +1,52 @@
+{
+  "name": "style-forge",
+  "homepage": "https://style-forge.github.io/",
+  "description": "Style-Forge: CSS framework with themes, utilities, flexbox, and grid for creating responsive websites.",
+  "filename": "style-forge.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Style-Forge/hub.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "style-forge",
+    "CSS framework",
+    "modern design",
+    "responsive design",
+    "utilities",
+    "web development",
+    "frontend",
+    "UI components",
+    "CSS grid",
+    "CSS flexbox",
+    "themes",
+    "form validation",
+    "custom themes",
+    "grid",
+    "flex",
+    "input",
+    "select",
+    "switch",
+    "textarea",
+    "helpers",
+    "colors"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "style-forge",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "style-forge.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Dmitrii Sagalov",
+      "email": "sarmaged@gmail.com"
+    }
+  ]
+}

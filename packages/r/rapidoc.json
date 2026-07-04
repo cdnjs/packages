@@ -1,0 +1,35 @@
+{
+	"name": "rapidoc",
+	"filename": "rapidoc-min.js",
+	"description": "Custom Element for Open-API spec viewing",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rapi-doc/RapiDoc.git"
+	},
+	"authors": [
+		{
+			"name": "Rapidoc"
+		}
+	],
+	"keywords": [
+		"api",
+    "docs",
+    "documentation",
+    "reference",
+    "component",
+    "openapi",
+    "swagger"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/rapi-doc/RapiDoc",
+	"autoupdate": {
+		"source": "npm",
+		"target": "rapidoc",
+		"fileMap": [
+			{
+				"basePath": "dist",
+				"files": ["rapidoc-min.js"]
+			}
+		]
+	}
+}

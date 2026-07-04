@@ -1,0 +1,44 @@
+{
+  "name": "fontsource-ia-writer-mono",
+  "description": "Self-host the iA Writer Mono font in a neatly bundled NPM package.",
+  "filename": "index.css",
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "ia-writer-mono",
+    "iA Writer Mono",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "authors": [
+    {
+      "name": "Information Architects Inc."
+    }
+  ],
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/ia-writer-mono",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontsource/font-files.git"
+  },
+  "autoupdate": {
+    "excludeFromSearch": true,
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.css",
+          "files/*.@(woff|woff2)"
+        ]
+      }
+    ],
+    "source": "npm",
+    "target": "@fontsource/ia-writer-mono"
+  }
+}

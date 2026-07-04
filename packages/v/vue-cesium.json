@@ -1,6 +1,6 @@
 {
   "name": "vue-cesium",
-  "description": "Vue 2.x components for CesiumJS.",
+  "description": "Vue 3.x components for CesiumJS.",
   "keywords": [
     "Vue",
     "Cesium",
@@ -13,17 +13,22 @@
     "type": "git",
     "url": "git+https://github.com/zouyaoji/vue-cesium.git"
   },
-  "filename": "lib/index.umd.js",
+  "filename": "index.full.min.js",
   "autoupdate": {
     "source": "npm",
     "target": "vue-cesium",
     "fileMap": [
       {
+        "basePath": "dist",
+        "files": [
+          "*.@(css|js)",
+          "locale/*.js"
+        ]
+      },
+      {
         "basePath": "",
         "files": [
-          "lib/index.umd.js?(.map)",
-          "lib/*.css?(.map)",
-          "lang/*.js"
+          "theme-default/*.css"
         ]
       }
     ]

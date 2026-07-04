@@ -1,0 +1,32 @@
+{
+  "name": "txdfe-at",
+  "description": "一个设计体系组件库",
+  "keywords": [
+    "aisc",
+    "teambition"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/wpzzyh/txdfe-at#readme",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:aisc/at.git"
+  },
+  "authors": [
+    {
+      "name": "txd"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@txdfe/at",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.@(css|js)"
+        ]
+      }
+    ]
+  },
+  "filename": "at.min.js"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "ButterCMS",
+  "description": "ButterCMS JS API Client",
+  "filename": "butter.min.js",
+  "homepage": "https://github.com/buttercms/buttercms-js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/buttercms/buttercms-js.git"
+  },
+  "keywords": [
+    "buttercms",
+    "butter",
+    "cms",
+    "api",
+    "headless cms",
+    "SDK",
+    "javascript"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "buttercms",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "ButterCMS",
+      "email": "support@buttercms.com"
+    }
+  ]
+}
+

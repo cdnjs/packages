@@ -7,6 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: download checker
         uses: wei/wget@v1
@@ -15,25 +17,15 @@ jobs:
 
       - run: sudo chmod +x ./checker
 
-      - name: find PR
-        id: pr
-        run: |
-          number=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")
-          echo "##[set-output name=number;]$number"
-
-      - name: find modified packages
-        id: diff
-        uses: dorner/file-changes-action@v1.2.0
-        with:
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
-          plaintext: true
-          prNumber: ${{ steps.pr.outputs.number }}
-
       - name: lint package
         id: lint
-        run: bash ./scripts/lint.sh \
-            ${{ steps.diff.outputs.files_modified }} \
-            ${{ steps.diff.outputs.files_added }}
+        run: |
+          mapfile -d '' files < <(
+            git diff --name-only -z \
+              "${{ github.event.pull_request.base.sha }}" \
+              "${{ github.event.pull_request.head.sha }}"
+          )
+          bash ./scripts/lint.sh "${files[@]}"
 
       # install glob
       - uses: actions/checkout@v2
@@ -45,8 +37,12 @@ jobs:
       - name: compute files
         id: files
         env:
-          DOCKER_IMAGE: ghcr.io/cdnjs/tools:ce54362a00de292754db55edf49ad775abf38ab20
+          DOCKER_IMAGE: ghcr.io/cdnjs/tools:cf63aa8265f012629ca4dad9d431f90311d68bcc2
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: bash ./scripts/show-files.sh \
-            ${{ steps.diff.outputs.files_modified }} \
-            ${{ steps.diff.outputs.files_added }}
+        run: |
+          mapfile -d '' files < <(
+            git diff --name-only -z \
+              "${{ github.event.pull_request.base.sha }}" \
+              "${{ github.event.pull_request.head.sha }}"
+          )
+          bash ./scripts/show-files.sh "${files[@]}"

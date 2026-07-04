@@ -1,0 +1,35 @@
+{
+  "name": "bulma-toast",
+  "description": "Bulma's pure JavaScript extension to display toasts. Basically a Bulma's notification implemented as a toast plugin.",
+  "keywords": [
+    "bulma",
+    "toast",
+    "extensions",
+    "bulma.io"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rfoel/bulma-toast",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfoel/bulma-toast.git"
+  },
+  "authors": [
+    {
+      "name": "@rfoel",
+      "email": "rafaelfr@outlook.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "bulma-toast",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "bulma-toast.min.js"
+}

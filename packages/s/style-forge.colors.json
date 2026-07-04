@@ -1,0 +1,46 @@
+{
+  "name": "style-forge.colors",
+  "homepage": "https://style-forge.github.io/colors/",
+  "description": "Style-Forge.Colors: customizable color palettes for consistent, visually appealing web designs.",
+  "filename": "colors.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Style-Forge/colors.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "style-forge",
+    "colors",
+    "color palettes",
+    "theme",
+    "CSS-in-JS",
+    "color schemes",
+    "design",
+    "UI",
+    "web development",
+    "frontend",
+    "JavaScript",
+    "react",
+    "custom colors",
+    "color management",
+    "web design"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "style-forge.colors",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "colors.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Dmitrii Sagalov",
+      "email": "sarmaged@gmail.com"
+    }
+  ]
+}

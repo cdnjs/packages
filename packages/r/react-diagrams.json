@@ -1,0 +1,39 @@
+{
+  "name": "react-diagrams",
+  "description": "a super simple, no-nonsense diagramming library written in react that just works",
+  "keywords": [
+    "web",
+    "diagram",
+    "diagrams",
+    "react",
+    "typescript",
+    "flowchart",
+    "simple",
+    "links",
+    "nodes"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/projectstorm/react-diagrams#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projectstorm/react-diagrams.git"
+  },
+  "authors": [
+    {
+      "name": "dylanvorster"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@projectstorm/react-diagrams",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.umd.js"
+}

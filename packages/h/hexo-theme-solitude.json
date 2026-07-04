@@ -1,0 +1,42 @@
+{
+  "name": "hexo-theme-solitude",
+  "description": "A beautiful, powerful, and efficient Hexo theme developed by the Efu",
+  "keywords": [
+    "hexo",
+    "theme",
+    "Efu",
+    "Card UI Design",
+    "solitude",
+    "hexo-theme-solitude"
+  ],
+  "keywords": [
+    "hexo",
+    "theme",
+    "hexo-theme-solitude"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.efu.me",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valor-x/hexo-theme-solitude.git"
+  },
+  "authors": [
+    {
+      "name": "Efu",
+      "email": "o@efu.me"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "hexo-theme-solitude",
+    "fileMap": [
+      {
+        "basePath": "source",
+        "files": [
+          "js/**/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/main.js"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "codex-icons",
+  "filename": "codex-icons.umd.js",
+  "description": "icons of the Codex design system for Wikimedia",
+  "keywords": [
+    "codex",
+    "design-system",
+    "components",
+    "front-end"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@wikimedia/codex-icons",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|mjs|json)",
+          "images/*.svg"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gerrit.wikimedia.org/r/design/codex.git"
+  },
+  "authors": [
+    {
+      "name": "Wikimedia Foundation Design Systems Team",
+      "url": "https://www.mediawiki.org/wiki/Design_Systems_Team"
+    }
+  ],
+  "license": "MIT"
+}

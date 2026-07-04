@@ -2,11 +2,12 @@
   "name": "react-bootstrap",
   "filename": "react-bootstrap.min.js",
   "homepage": "http://react-bootstrap.github.io/",
-  "description": "Bootstrap 3 components built with React",
+  "description": "Bootstrap components built with React",
   "keywords": [
     "react",
     "ecosystem-react",
     "react-component",
+    "components",
     "bootstrap"
   ],
   "license": "MIT",

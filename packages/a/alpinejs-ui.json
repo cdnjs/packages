@@ -1,0 +1,34 @@
+{
+  "name": "alpinejs-ui",
+  "description": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+  "keywords": [
+    "framework",
+    "reactive",
+    "declarative",
+    "plugin"
+  ],
+  "license": "MIT",
+  "homepage": "https://alpinejs.dev/components",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alpinejs/alpine.git"
+  },
+  "authors": [
+    {
+      "name": "Caleb Porzio"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@alpinejs/ui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "cdn.js"
+}

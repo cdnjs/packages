@@ -1,13 +1,12 @@
 {
   "name": "mdui",
-  "filename": "js/mdui.min.js",
-  "description": "a CSS Framework based on material design",
+  "filename": "mdui.global.js",
+  "description": "Web components Library that implement Google's Material Design.",
   "keywords": [
     "material design",
-    "responsive",
+    "web components",
     "framework",
     "front-end",
-    "mobile-first",
     "web"
   ],
   "license": "MIT",
@@ -15,15 +14,18 @@
     "type": "git",
     "url": "git+https://github.com/zdhxiong/mdui.git"
   },
-  "homepage": "http://mdui.org",
+  "homepage": "https://www.mdui.org",
   "autoupdate": {
     "source": "npm",
     "target": "mdui",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "**/*.!(txt|ijmap)"
+          "mdui.css",
+          "mdui.esm.js",
+          "mdui.global.js",
+          "locales/*.js"
         ]
       }
     ]
