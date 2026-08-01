@@ -1,0 +1,13 @@
+{
+  "name": "observekit",
+  "npmName": "observekit",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "observekit.js",
+        "observekit.min.js"
+      ]
+    }
+  ]
+}
