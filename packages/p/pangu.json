@@ -28,8 +28,10 @@
       {
         "basePath": "dist",
         "files": [
-          "browser/**",
-          "shared/**",
+          "browser/*.js",
+          "browser/*.js.map",
+          "shared/*.js",
+          "shared/*.js.map",
           "shared-*.js",
           "shared-*.js.map"
         ]
