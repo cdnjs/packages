@@ -1,0 +1,43 @@
+{
+	"name": "blogr-plugins",
+	"filename": "blogr-plugins.min.js",
+	"description": "Typed, modular Blogr plugin kit — sticky sidebar, menu, lazy-load, TOC, text-replace and cookie utils. Works standalone or as jQuery plugins.",
+	"homepage": "http://muzammil.work",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/oyzamil/blogr-plugins.git"
+	},
+	"keywords": [
+		"blogr",
+		"blogger",
+		"plugins",
+		"jquery",
+		"sticky-sidebar",
+		"lazy-load",
+		"table-of-contents",
+		"shortcode",
+		"widget",
+		"related-posts",
+		"typescript"
+	],
+	"license": "MIT",
+	"autoupdate": {
+		"source": "npm",
+		"target": "blogr-plugins",
+		"fileMap": [
+			{
+				"basePath": "dist",
+				"files": [
+					"*.js"
+				]
+			}
+		]
+	},
+	"authors": [
+		{
+			"name": "M. Muzammil",
+			"email": "qazi.web@gmail.com",
+			"url": "http://muzammil.work"
+		}
+	]
+}
