@@ -1,0 +1,15 @@
+{
+  "name": "houxit",
+  "npmName": "houxit",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "houxit.global.js",
+        "houxit.global.min.js",
+        "houxit.esm.js",
+        "houxit.esm.min.js"
+      ]
+    }
+  ]
+}
