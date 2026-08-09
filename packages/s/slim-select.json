@@ -1,8 +1,8 @@
 {
   "name": "slim-select",
   "description": "Slim vanilla javascript select dropdown",
-  "filename": "slimselect.min.js",
-  "homepage": "http://slimselectjs.com",
+  "filename": "slimselect.js",
+  "homepage": "https://slimselectjs.com",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -21,7 +21,8 @@
       {
         "basePath": "dist",
         "files": [
-          "slimselect*"
+          "slimselect*.js",
+          "slimselect*.css"
         ]
       }
     ]
@@ -30,7 +31,7 @@
     {
       "name": "Brian Voelker",
       "email": "brian@webiswhatido.com",
-      "url": "http://webiswhatido.com"
+      "url": "https://webiswhatido.com"
     }
   ]
 }

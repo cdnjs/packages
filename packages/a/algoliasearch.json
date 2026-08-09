@@ -1,6 +1,6 @@
 {
   "name": "algoliasearch",
-  "filename": "algoliasearch.min.js",
+  "filename": "algoliasearch.umd.min.js",
   "description": "AlgoliaSearch API JavaScript client",
   "keywords": [
     "algolia",
@@ -22,7 +22,7 @@
       {
         "basePath": "dist",
         "files": [
-          "*.js"
+          "**/*.@(js?(.map)|d.ts)"
         ]
       }
     ]

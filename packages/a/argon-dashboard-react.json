@@ -1,0 +1,42 @@
+{
+  "name": "argon-dashboard-react",
+  "description": "React version of Argon Dashboard by Creative Tim",
+  "keywords": [
+    "react",
+    "reactjs",
+    "argon",
+    "argon-react",
+    "dashboard",
+    "dashboard-react",
+    "argon-dashboard",
+    "argon-dashboard-react"
+  ],
+  "license": "MIT",
+  "homepage": "https://demos.creative-tim.com/argon-dashboard-react/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativetimofficial/argon-dashboard-react.git"
+  },
+  "authors": [
+    {
+      "name": "Creative Tim"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "argon-dashboard-react",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "assets/css/*.css",
+          "assets/fonts/*.@(eot|svg|ttf|woff|woff2)",
+          "assets/img/**/*.@(svg|png|jpg)",
+          "assets/plugins/*/css/*.css",
+          "assets/plugins/*/fonts/*.@(eot|svg|ttf|woff|woff2)"
+        ]
+      }
+    ]
+  },
+  "filename": "assets/css/argon-dashboard-react.min.css"
+}

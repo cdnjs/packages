@@ -1,0 +1,46 @@
+{
+  "name": "exome",
+  "description": "Proxy based store manager for deeply nested states",
+  "filename": "exome.js",
+  "keywords": [
+    "store",
+    "state",
+    "state-manager",
+    "proxy",
+    "deep",
+    "nested",
+    "react",
+    "preact",
+    "vue",
+    "lit",
+    "rxjs",
+    "svelte"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "exome",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js?(.map)",
+          "*.mjs?(.map)"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcisbee/exome.git"
+  },
+  "homepage": "https://github.com/marcisbee/exome",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marcis Bergmanis"
+    }
+  ],
+  "optimization": {
+    "js": false
+  }
+}

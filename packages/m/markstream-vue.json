@@ -1,0 +1,33 @@
+{
+  "name": "markstream-vue",
+  "filename": "index.js",
+  "description": "A streaming Markdown renderer for AI chat interfaces built with Vue.",
+  "keywords": [
+    "markdown",
+    "streaming-markdown",
+    "vue",
+    "ai-chat",
+    "mermaid",
+    "katex",
+    "syntax-highlighting"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Simon-He95/markstream-vue"
+  },
+  "license": "MIT",
+  "homepage": "https://markstream.simonhe.me/",
+  "autoupdate": {
+    "source": "npm",
+    "target": "markstream-vue",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "{,utils/,workers/}*.js",
+          "*.css"
+        ]
+      }
+    ]
+  }
+}

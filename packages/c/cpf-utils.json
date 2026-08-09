@@ -1,0 +1,43 @@
+{
+  "name": "cpf-utils",
+  "filename": "cpf-utils.min.js",
+  "homepage": "https://cpf-utils.vercel.app/",
+  "description": "Utility functions to deal with CPF data (Brazilian personal ID).",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julio L. Muller"
+    }
+  ],
+  "keywords": [
+    "cpf",
+    "validar",
+    "validador",
+    "validate",
+    "validation",
+    "formatar",
+    "format",
+    "gerar",
+    "gerador",
+    "generate",
+    "generator",
+    "pt-br",
+    "br"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LacusSolutions/br-utils-js"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "cpf-utils",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "datatables.net-columncontrol-se",
+  "description": "Fomantic UI styling for DataTables ColumnControl",
+  "keywords": [
+    "DataTables",
+    "table",
+    "FomanticUI",
+    "SemanticUI"
+  ],
+  "license": "MIT",
+  "homepage": "https://datatables.net/extensions/columncontrol",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-ColumnControl-SemanticUI.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "datatables.net-columncontrol-se",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/*.css"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "js/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/columnControl.semanticui.min.js",
+  "authors": [
+    {
+      "name": "SpryMedia Ltd",
+      "url": "http://datatables.net"
+    }
+  ]
+}

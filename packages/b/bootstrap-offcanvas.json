@@ -1,0 +1,42 @@
+{
+  "name": "bootstrap-offcanvas",
+  "filename": "bootstrap-offcanvas.min.css",
+  "description": "Hidden sidebar built with the latest Bootstrap 5, perfect for use in the form of additional navigation, for example in ecommerce projects or dashboards.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "ecommerce",
+    "responsive-design",
+    "offcanvas",
+    "bootstrap5-template",
+    "bootstrap-dashboard",
+    "bootstrap-offcanvas",
+    "bootstrap-offcanvas-menu"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/offcanvas/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-offcanvas"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@mdbootstrap/bootstrap-offcanvas",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-offcanvas*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

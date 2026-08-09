@@ -1,11 +1,41 @@
 {
   "name": "tablefilter",
-  "filename": "tablefilter_min.js",
-  "description": "HTML Table Filter Script",
-  "homepage": "http://tablefilter.free.fr",
+  "description": "A Javascript library making HTML tables filterable and a bit more",
   "keywords": [
+    "filter",
     "table",
-    "filter"
+    "javascript",
+    "filterable",
+    "grid",
+    "datagrid",
+    "sort",
+    "pagination"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://www.tablefilter.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koalyptus/TableFilter.git"
+  },
+  "authors": [
+    {
+      "name": "Max Guglielmi",
+      "url": "https://github.com/koalyptus"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "tablefilter",
+    "fileMap": [
+      {
+        "basePath": "dist/tablefilter",
+        "files": [
+          "*.js",
+          "style/*.css",
+          "style/themes/**/*.@(css|png|gif|jpg)"
+        ]
+      }
+    ]
+  },
+  "filename": "tablefilter.js"
 }

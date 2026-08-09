@@ -1,0 +1,33 @@
+{
+  "name": "pyodide",
+  "description": "The Pyodide JavaScript package",
+  "keywords": [
+    "python",
+    "webassembly"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/pyodide/pyodide",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyodide/pyodide.git"
+  },
+  "authors": [
+    {
+      "name": "pyodide contributors",
+      "url": "https://github.com/pyodide/pyodide/graphs/contributors"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "pyodide",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.@(js|mjs|d.ts|wasm)"
+        ]
+      }
+    ]
+  },
+  "filename": "pyodide.js"
+}

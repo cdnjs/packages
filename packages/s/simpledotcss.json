@@ -1,0 +1,36 @@
+{
+  "name": "simpledotcss",
+  "description": "Simple.css is a CSS template that allows you to make a good looking website really quickly.",
+  "keywords": [
+    "css",
+    "html",
+    "simple.css",
+    "simplecss.org",
+    "simplecss",
+    "classless"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kevquirk/simple.css#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevquirk/simple.css.git"
+  },
+  "authors": [
+    {
+      "name": "kevquirk"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "simpledotcss",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  },
+  "filename": "simple.min.css"
+}

@@ -1,6 +1,6 @@
 {
   "name": "handsontable",
-  "filename": "handsontable.full.min.js",
+  "filename": "handsontable.min.js",
   "description": "Spreadsheet-like data grid editor that provides copy/paste functionality compatible with Excel/Google Docs",
   "homepage": "http://handsontable.com/",
   "keywords": [
@@ -14,8 +14,8 @@
     "spreadsheet"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/handsontable/handsontable.git",
+    "source": "npm",
+    "target": "handsontable",
     "fileMap": [
       {
         "basePath": "dist",
@@ -30,7 +30,7 @@
     "type": "git",
     "url": "https://github.com/handsontable/handsontable"
   },
-  "license": "MIT",
+  "license": "SEE LICENSE IN https://github.com/handsontable/handsontable/blob/7.0.0/LICENSE.txt",
   "authors": [
     {
       "name": "Handsoncode",

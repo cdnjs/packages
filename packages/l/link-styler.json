@@ -1,0 +1,34 @@
+{
+  "name": "link-styler",
+  "filename": "link-styler.js",
+  "description": "JavaScript package that simplifies the task of identifying links within text and applying custom styling by automatically replacing them with tags.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sheikhoo/link-styler"
+  },
+  "license": "MIT",
+  "homepage": "https://link-styler.js.org",
+  "keywords": [
+    "autolink",
+    "hashtag",
+    "mention"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "link-styler",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Sheikhoo",
+      "email": "sheikhoo.iran@gmail.com"
+    }
+  ]
+}

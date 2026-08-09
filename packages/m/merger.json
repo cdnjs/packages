@@ -1,0 +1,38 @@
+{
+  "name": "merger",
+  "description": "📲 Merge Your Qrcodes Together. Even Quicker.",
+  "keywords": [
+    "qr",
+    "code",
+    "qrcode",
+    "merger",
+    "二维码合并"
+  ],
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://qrcdn.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/qr-merger/merger.git"
+  },
+  "authors": [
+    {
+      "name": "hifocus"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/qr-merger/merger.git",
+    "fileMap": [
+      {
+        "basePath": "assets",
+        "files": [
+          "js/*.js",
+          "styles/*.css",
+          "bundles/*.js",
+          "bundles/*.css"
+        ]
+      }
+    ]
+  },
+  "filename": "bundles/function.main.js"
+}

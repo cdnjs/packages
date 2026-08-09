@@ -16,10 +16,8 @@
     "grid",
     "table",
     "react",
-    "table",
     "angular",
     "angular-component",
-    "react",
     "react-component",
     "angularjs",
     "reactjs"
@@ -27,16 +25,19 @@
   "license": "MIT",
   "homepage": "http://www.ag-grid.com/",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/ag-grid/ag-grid.git",
+    "source": "npm",
+    "target": "ag-grid-community",
     "fileMap": [
       {
-        "basePath": "grid-packages/ag-grid-community/dist",
+        "basePath": "dist",
         "files": [
-          "**/*.+(js|css)"
+          "*.@(js|css)"
         ]
       }
     ]
+  },
+  "optimization": {
+    "js": false
   },
   "authors": [
     {

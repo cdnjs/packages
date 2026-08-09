@@ -1,0 +1,38 @@
+{
+  "name": "xom-sharepoint",
+  "filename": "xom-sharepoint.min.js",
+  "homepage": "https://github.com/juliolmuller/xom-sharepoint",
+  "description": "HTTP client based on Axios to easily fetch SharePoint through its REST API.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julio L. Muller"
+    }
+  ],
+  "keywords": [
+    "sharepoint",
+    "api",
+    "rest",
+    "http",
+    "fetch",
+    "axios",
+    "ajax",
+    "xom"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliolmuller/xom-sharepoint"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "xom-sharepoint",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
+}

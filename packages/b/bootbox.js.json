@@ -4,17 +4,17 @@
   "description": "Wrappers for JavaScript alert(), confirm() and other flexible dialogs using the Bootstrap framework",
   "repository": {
     "type": "git",
-    "url": "git://github.com/makeusabrew/bootbox.git"
+    "url": "git://github.com/bootboxjs/bootbox.git"
   },
   "homepage": "http://bootboxjs.com",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/makeusabrew/bootbox.git",
+    "target": "git://github.com/bootboxjs/bootbox.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "bootbox.js"
+          "*.js"
         ]
       }
     ]
@@ -27,6 +27,10 @@
     {
       "name": "Nick Payne",
       "email": "nick@kurai.co.uk"
+    },
+    {
+      "name": "Tieson Trowbridge",
+      "email": "tiesont@gmail.com"
     }
   ]
 }

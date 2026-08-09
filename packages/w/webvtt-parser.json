@@ -1,0 +1,33 @@
+{
+  "name": "webvtt-parser",
+  "description": "WebVTT parser and validator",
+  "keywords": [
+    "WebVTT"
+  ],
+  "license": "CC0-1.0",
+  "homepage": "https://github.com/w3c/webvtt.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3c/webvtt.js.git"
+  },
+  "authors": [
+    {
+      "name": "Anne van Kesteren",
+      "email": "annevk@annevk.nl"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "webvtt-parser",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "html-entities.json",
+          "parser.js"
+        ]
+      }
+    ]
+  },
+  "filename": "parser.js"
+}

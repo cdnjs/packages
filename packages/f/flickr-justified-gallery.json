@@ -1,0 +1,35 @@
+{
+  "name": "flickr-justified-gallery",
+  "description": "Flickr's justified images gallery",
+  "keywords": [
+    "justified",
+    "gallery",
+    "flickr",
+    "images"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nk-o/flickr-justified-gallery",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nk-o/flickr-justified-gallery.git"
+  },
+  "authors": [
+    {
+      "name": "nK",
+      "email": "https://nkdev.info"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "flickr-justified-gallery",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css|map)"
+        ]
+      }
+    ]
+  },
+  "filename": "fjGallery.min.js"
+}

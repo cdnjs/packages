@@ -1,0 +1,29 @@
+{
+  "name": "tg-ads-mediation__ads-cdn",
+  "filename": "ads.min.js",
+  "license": "MIT",
+  "description": "Ads for Telegram Mini Apps",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tg-ads-mediation/ads"
+  },
+  "keywords": [
+    "telegram",
+    "mini",
+    "app",
+    "ads",
+    "advertisement"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@tg-ads-mediation/ads-cdn",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
+}

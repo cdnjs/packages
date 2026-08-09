@@ -1,0 +1,34 @@
+{
+  "name": "css-scope-inline",
+  "filename": "script.js",
+  "description": "Lightweight CSS scoping for inline styles without a build step",
+  "keywords": [
+    "css",
+    "scope",
+    "inline",
+    "styling"
+  ],
+  "homepage": "https://github.com/gnat/css-scope-inline",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gnat/css-scope-inline.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/answerdotai/css-scope-inline.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "script*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Nathaniel Sabanski"
+    }
+  ]
+}

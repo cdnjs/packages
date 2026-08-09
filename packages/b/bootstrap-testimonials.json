@@ -1,0 +1,43 @@
+{
+  "name": "bootstrap-testimonials",
+  "filename": "bootstrap-testimonials.min.css",
+  "description": "Responsive Testimonials / Reviews built with Bootstrap 5. Testimonials slider & carousel, testimonials with star ratings, with gradients & many more examples.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "slider",
+    "responsive-design",
+    "bootstrap5-template",
+    "bootstrap-testimonials", 
+    "bootstrap-carousel",
+    "testimonial", 
+    "bootstrap-testimonial",
+    "bootstrap-review"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/testimonials/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-testimonials"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-testimonials",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-testimonials*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

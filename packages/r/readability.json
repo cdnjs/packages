@@ -1,0 +1,30 @@
+{
+  "name": "readability",
+  "description": "A standalone version of the readability library used for Firefox Reader View.",
+  "keywords": ["readability"],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/mozilla/readability",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozilla/readability.git"
+  },
+  "authors": [
+    {
+      "name": "Readability.js contributors",
+      "url": "https://github.com/mozilla/readability/graphs/contributors"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@mozilla/readability",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "Readability*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "Readability.js"
+}

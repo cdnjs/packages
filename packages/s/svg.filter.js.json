@@ -10,9 +10,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wout/svg.filter.js.git"
+    "url": "https://github.com/svgdotjs/svg.filter.js.git"
   },
-  "homepage": "https://documentup.com/wout/svg.filter.js",
+  "homepage": "https://github.com/svgdotjs/svg.filter.js#readme",
   "autoupdate": {
     "source": "npm",
     "target": "svg.filter.js",

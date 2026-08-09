@@ -1,6 +1,6 @@
 {
   "name": "webcomponentsjs",
-  "filename": "custom-elements-es5-adapter.js",
+  "filename": "webcomponents-loader.js",
   "homepage": "http://webcomponents.org",
   "keywords": [
     "webcomponents",
@@ -20,7 +20,7 @@
       {
         "basePath": "",
         "files": [
-          "!(gulpfile).+(js|map)"
+          "*.js?(.map)"
         ]
       }
     ]

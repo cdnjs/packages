@@ -1,8 +1,8 @@
 {
   "name": "intl-tel-input",
-  "filename": "js/intlTelInput.min.js",
-  "homepage": "http://jackocnr.com/intl-tel-input.html",
-  "description": "A jQuery plugin for entering international telephone numbers",
+  "filename": "build/js/intlTelInput.min.js",
+  "homepage": "https://intl-tel-input.com",
+  "description": "A JavaScript plugin for entering and validating international telephone numbers",
   "keywords": [
     "international",
     "i18n",
@@ -24,12 +24,14 @@
     "target": "git://github.com/jackocnr/intl-tel-input.git",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "",
         "files": [
-          "js/utils.js",
-          "js/intlTelInput*.js",
-          "img/flags*.png",
-          "css/intlTelInput.css"
+          "build/css/*.css",
+          "build/js/*.@(js|d.ts)",
+          "build/js/i18n/{,*/}*.js",
+          "build/img/*.@(webp|png)",
+          "react/build/*.@(js|d.ts|cjs)",
+          "vue/build/*.@(js|mjs|d.ts|cjs)"
         ]
       }
     ]
@@ -37,7 +39,7 @@
   "authors": [
     {
       "name": "Jack O'Connor",
-      "url": "http://jackocnr.com"
+      "url": "https://jackocnr.com"
     }
   ]
 }

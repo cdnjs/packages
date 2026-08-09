@@ -1,0 +1,42 @@
+{
+	"name": "observekit",
+	"filename": "observekit.min.js",
+	"description": "Unified, tree-shakeable wrapper over MutationObserver, ResizeObserver, IntersectionObserver, PerformanceObserver and ReportingObserver. A typed, zero-dependency replacement for arrive.js-style polling hacks.",
+	"homepage": "http://muzammil.work",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/oyzamil/observekit.git"
+	},
+	"keywords": [
+		"mutation-observer",
+		"resize-observer",
+		"intersection-observer",
+		"performance-observer",
+		"reporting-observer",
+		"dom",
+		"arrive",
+		"arrive.js",
+		"observer",
+		"browser-extension"
+	],
+	"license": "MIT",
+	"autoupdate": {
+		"source": "npm",
+		"target": "observekit",
+		"fileMap": [
+			{
+				"basePath": "dist",
+				"files": [
+					"*.js"
+				]
+			}
+		]
+	},
+	"authors": [
+		{
+			"name": "M. Muzammil",
+			"email": "qazi.web@gmail.com",
+			"url": "http://muzammil.work"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "dash-renderer",
+  "description": "render dash components in react",
+  "keywords": [
+    "plotly",
+    "dash"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/plotly/dash",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/plotly/dash.git"
+  },
+  "authors": [
+    {
+      "name": "Chris Parmer",
+      "email": "chris@plotly.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "dash-renderer",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "dash_renderer.min.js"
+}

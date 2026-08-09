@@ -23,7 +23,8 @@
         "basePath": "",
         "files": [
           "i18n/*.js",
-          "theme/**/*.js"
+          "theme/**/*.js",
+          "ssr/client/dist/*.js?(.map)"
         ]
       }
     ]

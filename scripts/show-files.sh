@@ -1,9 +1,8 @@
-set -e
-files="$@"
+set -euo pipefail
 
-for f in $files
+for f in "$@"
 do
   if [ "${f##*.}" = "json" ]; then
-    ./checker show-files $f
+    ./checker show-files "$f"
   fi
 done

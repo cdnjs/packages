@@ -1,0 +1,34 @@
+{
+  "name": "clientworker",
+  "filename": "dist/cw.js",
+  "description": "A simple, globally hijacked, easily customizable, Service Worker-based front-end worker",
+  "homepage": "https://clientworker.js.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenYFan/ClientWorker.git"
+  },
+  "keywords": [
+    "ServiceWorker",
+    "ClientWorker",
+    "Accelerate"
+  ],
+  "license": "GPL-3.0-or-later",
+  "autoupdate": {
+    "source": "npm",
+    "target": "clientworker",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "@(dist|main)/**/*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "ChenYFan",
+      "email": "chen2778754364@foxmail.com"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "jsPlumb",
-  "filename": "js/jsplumb.min.js",
+  "filename": "jsplumb.bundle.js",
   "description": "Visual connectivity for webapps",
   "homepage": "http://jsplumbtoolkit.com",
   "keywords": [
@@ -17,19 +17,19 @@
     "url": "https://github.com/jsplumb/jsPlumb.git"
   },
   "autoupdate": {
-    "source": "npm",
-    "target": "jsplumb",
+    "source": "git",
+    "target": "https://github.com/jsplumb/jsPlumb.git",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "bundle/dist",
         "files": [
-          "**/*"
+          "*.js"
         ]
       },
       {
         "basePath": "",
         "files": [
-          "css/jsplumbtoolkit-defaults.css"
+          "css/*.css"
         ]
       }
     ]

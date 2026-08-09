@@ -1,0 +1,35 @@
+{
+  "name": "bell-ui",
+  "filename": "bell-ui.min.js",
+  "description": "UI component library for yox.js",
+  "keywords": [
+    "yox",
+    "ui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/divawth/bell-ui.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "bell-ui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)",
+          "*.css",
+          "img/*.png",
+          "font/*.@(eot|svg|ttf|woff)"
+        ]
+      }
+    ]
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "divawth",
+      "email": "752990270@qq.com"
+    }
+  ]
+}

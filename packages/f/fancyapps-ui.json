@@ -1,0 +1,45 @@
+{
+  "name": "fancyapps-ui",
+  "description": "JavaScript UI Component Library",
+  "keywords": [
+    "javascript",
+    "modal",
+    "lightbox",
+    "fancybox",
+    "carousel",
+    "panzoom",
+    "pinchzoom",
+    "pinch",
+    "zoom",
+    "gesture",
+    "touch",
+    "drag",
+    "gallery"
+  ],
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://fancyapps.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fancyapps/ui.git"
+  },
+  "authors": [
+    {
+      "name": "Janis Skarnelis"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@fancyapps/ui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*/*.@(js|css)",
+          "*/l10n/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "fancybox/fancybox.umd.js"
+}

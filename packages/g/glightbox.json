@@ -1,0 +1,35 @@
+{
+  "name": "glightbox",
+  "description": "Pure Javascript lightbox",
+  "keywords": [
+    "lightbox",
+    "javascript",
+    "gallery",
+    "popup"
+  ],
+  "license": "MIT",
+  "homepage": "https://biati-digital.github.io/glightbox/",
+  "repository": {
+    "url": "git+https://github.com/biati-digital/glightbox.git",
+    "type": "git"
+  },
+  "authors": [
+    {
+      "name": "Biati Digital"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "glightbox",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "css/*.css",
+          "js/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "js/glightbox.min.js"
+}

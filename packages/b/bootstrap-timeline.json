@@ -1,0 +1,41 @@
+{
+  "name": "bootstrap-timeline",
+  "filename": "bootstrap-timeline.min.css",
+  "description": "Horizontal and vertical examples of responsive Timelines built with the latest Bootstrap 5. Easy to use and customize.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "timeline",
+    "responsive-design",
+    "bootstrap5-template",
+    "bootstrap-timeline", 
+    "bootstrap-gradient",
+    "gradient-background"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/textarea/",
+  "repository": {
+    "type": "git",
+    "url": "https://mdbootstrap.com/docs/standard/extended/timeline/"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-timeline",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-timeline*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

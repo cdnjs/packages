@@ -1,0 +1,30 @@
+{
+  "name": "scittle",
+  "filename": "scittle.js",
+  "description": "The Small Clojure Interpreter (SCI) exposed for usage in script tags",
+  "keywords": [
+    "clojure",
+    "clojurescript",
+    "interpreter",
+    "sci",
+    "scripting"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babashka/scittle"
+  },
+  "license": "EPL-1.0",
+  "homepage": "https://babashka.org/scittle/",
+  "autoupdate": {
+    "source": "npm",
+    "target": "scittle",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  }
+}

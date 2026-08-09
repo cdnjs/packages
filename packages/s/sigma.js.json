@@ -16,9 +16,9 @@
     "target": "sigma",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "sigma.min.js"
         ]
       }
     ]
@@ -27,7 +27,7 @@
     {
       "name": "Alexis Jacomy",
       "email": "alexis.jacomy@gmail.com",
-      "url": "http://jcml.io/"
+      "url": "https://ouestware.com/en"
     }
   ]
 }

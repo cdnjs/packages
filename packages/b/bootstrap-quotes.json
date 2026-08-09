@@ -1,0 +1,42 @@
+{
+  "name": "bootstrap-quotes",
+  "filename": "bootstrap-quotes.min.css",
+  "description": "Responsive Quotes built with the latest Bootstrap 5, HTML & CSS. Free for personal & commercial use.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "cards",
+    "responsive-design",
+    "quotes",
+    "bootstrap5-template",
+    "bootstrap-quotes",
+    "bootstrap-alert",
+    "carousel"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/quotes/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-quotes"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-quotes",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-quotes*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

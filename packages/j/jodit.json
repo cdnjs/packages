@@ -1,6 +1,6 @@
 {
   "name": "jodit",
-  "filename": "jodit.min.js",
+  "filename": "es2018/jodit.fat.min.js",
   "description": "Jodit is awesome and usefully wysiwyg editor with filebrowser",
   "homepage": "http://xdsoft.net/jodit/",
   "keywords": [
@@ -19,9 +19,9 @@
     "target": "jodit",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "",
         "files": [
-          "jodit*.+(css|js)"
+          "@(es2015|es2018|es2021|es2021.en|es5)/**/*.min.@(css|js)"
         ]
       }
     ]

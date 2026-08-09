@@ -1,0 +1,42 @@
+{
+  "name": "react-codes-input",
+  "description": "A react component for PIN, verify code and passcode entering.",
+  "keywords": [
+    "react",
+    "input",
+    "inputs",
+    "code",
+    "password",
+    "form",
+    "textbox",
+    "PIN",
+    "pin-code",
+    "react-codes-input"
+  ],
+  "license": "MIT",
+  "homepage": "https://edwardfxiao.github.io/react-codes-input",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardfxiao/react-codes-input.git"
+  },
+  "authors": [
+    {
+      "name": "Edward Xiao"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-codes-input",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.@(js|css)?(.map)",
+          "*.d.ts",
+          "components/*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "react-codes-input.min.js"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ua-sortable",
+  "description": "Pointer-Events-based drag-and-drop sorting for lists and grids. No dependencies.",
+  "keywords": ["drag-and-drop", "sortable", "pointer-events", "zero-dependency"],
+  "homepage": "https://github.com/urbanstudioGmbH/ua-sortable",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/urbanstudioGmbH/ua-sortable"
+  },
+  "filename": "ua-sortable.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@urbanstudio/ua-sortable",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "ua-sortable.js"
+        ]
+      }
+    ]
+  }
+}

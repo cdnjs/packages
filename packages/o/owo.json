@@ -1,0 +1,33 @@
+{
+  "name": "owo",
+  "description": "Lovely Emoticon and Emoji Keyboard for textarea or input",
+  "keywords": [
+    "player",
+    "music",
+    "html5"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/DIYgod/OwO#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIYgod/OwO.git"
+  },
+  "authors": [
+    {
+      "name": "DIYgod"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "owo",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(css|js)?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "OwO.min.js"
+}

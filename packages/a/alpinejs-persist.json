@@ -1,0 +1,34 @@
+{
+  "name": "alpinejs-persist",
+  "description": "Alpine's Persist plugin allows you to persist Alpine state across page loads.",
+  "keywords": [
+    "framework",
+    "reactive",
+    "declarative",
+    "plugin"
+  ],
+  "license": "MIT",
+  "homepage": "https://alpinejs.dev/plugins/persist",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alpinejs/alpine.git"
+  },
+  "authors": [
+    {
+      "name": "Caleb Porzio"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@alpinejs/persist",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "cdn.js"
+}

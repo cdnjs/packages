@@ -1,0 +1,43 @@
+{
+  "name": "bootstrap-testimonial-slider",
+  "filename": "bootstrap-testimonial-slider.min.css",
+  "description": "Responsive examples of testimonial sliders. This custom component is a combination of Bootstrap Carousel and Testimonials.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "slider",
+    "responsive-design",
+    "bootstrap5-template",
+    "bootstrap-testimonial-slider", 
+    "bootstrap-carousel",
+    "testimonial", 
+    "bootstrap-testimonial",
+    "bootstrap-slider"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/testimonial-slider/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-testimonial-slider"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-testimonial-slider",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-testimonial-slider*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

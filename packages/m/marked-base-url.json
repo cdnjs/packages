@@ -1,0 +1,35 @@
+{
+  "name": "marked-base-url",
+  "filename": "index.umd.min.js",
+  "description": "marked base url",
+  "keywords": [
+    "marked",
+    "extension",
+    "base",
+    "url"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "marked-base-url",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markedjs/marked-base-url.git"
+  },
+  "authors": [
+    {
+      "name": "Tony Brix",
+      "email": "Tony@Brix.ninja",
+      "url": "https://Tony.Brix.ninja"
+    }
+  ],
+  "license": "MIT"
+}

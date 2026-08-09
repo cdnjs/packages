@@ -1,0 +1,36 @@
+{
+  "name": "zl-fetch",
+  "description": "A library that makes the Fetch API easy to use",
+  "keywords": [
+    "fetch",
+    "javascript",
+    "browser",
+    "nodejs",
+    "ajax"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zellwk/zl-fetch#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zellwk/zl-fetch.git"
+  },
+  "authors": [
+    {
+      "name": "Zell Liew",
+      "email": "zellwk@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "zl-fetch",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}

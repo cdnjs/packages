@@ -1,0 +1,36 @@
+{
+  "name": "json-fn",
+  "description": "javascript plugin to stringify, parse and clone javascript objects with Functions, RegExp and Date.",
+  "keywords": [
+    "stringify object with function",
+    "stringify object with regexp",
+    "stringify with function",
+    "JSON with regex",
+    "JSON stringify with functions"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vkiryukhin/jsonfn#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkiryukhin/jsonfn.git"
+  },
+  "authors": [
+    {
+      "name": "Vadim Kiryukhin",
+      "email": "vkiryukhin@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "json-fn",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "jsonfn?(.min).js"
+        ]
+      }
+    ]
+  },
+  "filename": "jsonfn.min.js"
+}

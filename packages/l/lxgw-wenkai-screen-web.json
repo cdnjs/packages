@@ -1,0 +1,44 @@
+{
+    "name": "lxgw-wenkai-screen-web",
+    "description": "Web font package for LXGW WenKai Screen",
+    "filename": "style.css",
+    "license": "MIT",
+    "homepage": "https://github.com/CMBill/lxgw-wenkai-screen-web",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CMBill/lxgw-wenkai-screen-web.git"
+    },
+    "keywords": [
+        "lxgw-wenkai-screen",
+        "cjk",
+        "font",
+        "webfont",
+        "css"
+    ],
+    "autoupdate": {
+    "source": "npm",
+    "target": "lxgw-wenkai-screen-web",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "style.css",
+          "lxgwwenkaigbscreen/*.woff2",
+          "lxgwwenkaigbscreen/result.css",
+          "lxgwwenkaimonogbscreen/*.woff2",
+          "lxgwwenkaimonogbscreen/result.css",
+          "lxgwwenkaimonoscreen/*.woff2",
+          "lxgwwenkaimonoscreen/result.css",
+          "lxgwwenkaiscreen/*.woff2",
+          "lxgwwenkaiscreen/result.css"
+        ]
+      }
+    ]
+  },
+    "authors": [
+    {
+      "name": "CM_Bill",
+      "email": "callmebill@billw.cn"
+    }
+  ]
+}

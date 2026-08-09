@@ -1,0 +1,37 @@
+{
+  "name": "equalizer.js",
+  "filename": "equalizer.min.js",
+  "description": "A vanilla JavaScript plugin for equalizing the height of elements",
+  "keywords": [
+    "ui",
+    "equalizer",
+    "equal",
+    "height",
+    "width",
+    "layout"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/iansvo/equalizer.js.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "equalizer.js",
+          "equalizer.min.js"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iansvo/equalizer.js/blob/master/equalizer.js"
+  },
+  "authors": [
+    {
+      "name": "Ian Svoboda",
+      "url": "http://iansvoboda.com/"
+    }
+  ],
+  "license": "(MIT OR GPL-2.0)"
+}

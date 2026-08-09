@@ -1,0 +1,35 @@
+{
+  "name": "crayons",
+  "description": "Crayons for Developer Platform",
+  "keywords": [
+    "web-components",
+    "stenciljs",
+    "ui-kit",
+    "typescript",
+    "components"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/freshworks/crayons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freshworks/crayons.git"
+  },
+  "authors": [
+    {
+      "name": "Freshworks Inc"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@freshworks/crayons",
+    "fileMap": [
+      {
+        "basePath": "dist/crayons",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "crayons.js"
+}

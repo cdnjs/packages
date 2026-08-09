@@ -1,0 +1,38 @@
+{
+  "name": "bulma-prefers-dark",
+  "description": "Bulma extension to add prefers-color-scheme dark support",
+  "keywords": [
+    "css",
+    "sass",
+    "flexbox",
+    "responsive",
+    "bulma",
+    "extensions",
+    "bulma.io"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jloh/bulma-prefers-dark#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jloh/bulma-prefers-dark.git"
+  },
+  "authors": [
+    {
+      "name": "James Loh",
+      "url": "https://jloh.co"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "bulma-prefers-dark",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "*.css?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "bulma-prefers-dark.min.css"
+}

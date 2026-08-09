@@ -1,0 +1,47 @@
+{
+  "name": "style-forge.base",
+  "homepage": "https://style-forge.github.io/base/",
+  "description": "Style-Forge.Base: foundational CSS variables, base styles, typography, colors, utilities for consistent design.",
+  "filename": "base.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Style-Forge/base.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "style-forge",
+    "base",
+    "CSS",
+    "variables",
+    "styles",
+    "design",
+    "web development",
+    "frontend",
+    "responsive",
+    "typography",
+    "colors",
+    "system-ui",
+    "HSL",
+    "lightweight",
+    "performance",
+    "consistent"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "style-forge.base",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "base.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Dmitrii Sagalov",
+      "email": "sarmaged@gmail.com"
+    }
+  ]
+}

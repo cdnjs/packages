@@ -1,0 +1,33 @@
+{
+  "name": "simple-scrollspy",
+  "description": "Simple scrollspy javascript without jQuery, no dependencies.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kimyvgy/simple-scrollspy"
+  },
+  "keywords": [
+    "scroll",
+    "scrollspy",
+    "menuspy"
+  ],
+  "license": "MIT",
+  "homepage": "https://kimyvgy.github.io/simple-scrollspy/demo",
+  "filename": "simple-scrollspy.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "simple-scrollspy",
+    "fileMap": [
+      {
+        "basePath": "demo/dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Nguyen Huu Kim"
+    }
+  ]
+}

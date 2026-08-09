@@ -1,0 +1,32 @@
+{
+  "name": "soga",
+  "filename": "soga.min.js",
+  "description": "Http Request Library for JavaScript Application",
+  "keywords": [
+    "request",
+    "browser"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/musicode/soga.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "soga",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js?(.map)|d.ts|swf)"
+        ]
+      }
+    ]
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "musicode",
+      "email": "musicode@qq.com"
+    }
+  ]
+}

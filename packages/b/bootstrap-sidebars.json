@@ -1,0 +1,39 @@
+{
+  "name": "bootstrap-sidebars",
+  "filename": "bootstrap-sidebar.min.css",
+  "description": "Sidebar is an additional navigation component that provides extensive support and a clear way for navigating through complex websites with hundreds of links and subpages.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "sidebar",
+    "responsive-design",
+    "bootstrap5-template",
+    "bootstrap-sidebar"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/sidebar/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-sidebar"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@mdbootstrap/bootstrap-sidebar",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-sidebar*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "vssue",
+  "description": "A vue-powered issue-based comment plugin",
+  "keywords": [
+    "comment",
+    "issue",
+    "vue"
+  ],
+  "license": "MIT",
+  "homepage": "https://vssue.js.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meteorlxy/vssue.git"
+  },
+  "authors": [
+    {
+      "name": "meteorlxy",
+      "email": "meteor.lxy@foxmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "vssue",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "vssue.min.js"
+}

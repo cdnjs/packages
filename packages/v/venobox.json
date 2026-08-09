@@ -11,13 +11,13 @@
   "license": "MIT",
   "homepage": "http://lab.veno.it/venobox/",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/nicolafranchini/VenoBox.git",
+    "source": "npm",
+    "target": "venobox",
     "fileMap": [
       {
-        "basePath": "venobox",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(css|js)"
         ]
       }
     ]

@@ -27,10 +27,10 @@
     "target": "zuck.js",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "zuck*",
-          "skins/**/*"
+          "*.@(js|css)",
+          "skins/*.css"
         ]
       }
     ]

@@ -1,0 +1,38 @@
+{
+  "name": "bytemd",
+  "filename": "index.umd.js",
+  "description": "Hackable Markdown Editor and Viewer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bytedance/bytemd.git"
+  },
+  "keywords": [
+    "markdown",
+    "editor",
+    "viewer"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bytemd",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.css",
+          "index.umd.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false,
+    "css": false
+  },
+  "authors": [
+    {
+      "name": "Rongjian Zhang",
+      "url": "https://github.com/pd4d10"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "argon-dashboard",
+  "description": "Argon - Dashboard for Bootstrap 5 by Creative Tim",
+  "filename": "js/argon-dashboard.min.js",
+  "keywords": [
+    "design-systems",
+    "dashboard",
+    "responsive",
+    "free",
+    "freebie",
+    "responsive-design",
+    "webdesign",
+    "creativetim",
+    "freebies",
+    "creative-tim",
+    "bootstrap5"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/creativetimofficial/argon-dashboard",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creativetimofficial/argon-dashboard.git"
+  },
+  "authors": [
+    {
+      "name": "Creative Tim"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@creative-tim-official/argon-dashboard",
+    "fileMap": [
+      {
+        "basePath": "assets",
+        "files": [
+          "@(css|fonts|img)/**/*.@(js|css|ttf|woff|woff2|eot|svg|jpg|jpeg|png)",
+          "js/{,plugins/,core/}*.js"
+        ]
+      }
+    ]
+  }
+}

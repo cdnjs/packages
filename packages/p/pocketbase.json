@@ -1,0 +1,37 @@
+{
+  "name": "pocketbase",
+  "description": "PocketBase JavaScript SDK",
+  "authors": [
+    {
+      "name": "Gani Georgiev"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pocketbase/js-sdk.git"
+  },
+  "keywords": [
+    "pocketbase",
+    "pocketbase-js",
+    "pocketbase-js-sdk",
+    "js-sdk",
+    "javascript-sdk",
+    "pocketbase-sdk",
+    "pocketbase-javascript-sdk"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "pocketbase",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|mjs|d.ts|map)"
+        ]
+      }
+    ]
+  },
+  "homepage": "https://github.com/pocketbase/js-sdk",
+  "filename": "pocketbase.es.mjs"
+}

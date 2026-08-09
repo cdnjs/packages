@@ -1,0 +1,51 @@
+{
+  "name": "style-forge.patterns",
+  "homepage": "https://style-forge.github.io/patterns/",
+  "description": "Style-Forge.Patterns - versatile CSS library with pre-defined classes for responsive, consistent user interfaces.",
+  "filename": "patterns.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Style-Forge/patterns.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "style-forge",
+    "CSS",
+    "patterns",
+    "utility",
+    "library",
+    "responsive",
+    "design",
+    "grid",
+    "flexbox",
+    "spacing",
+    "typography",
+    "styles",
+    "framework",
+    "frontend",
+    "web development",
+    "styling",
+    "performance",
+    "mobile-first",
+    "customizable",
+    "pre-defined classes"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "style-forge.patterns",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "patterns.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Dmitrii Sagalov",
+      "email": "sarmaged@gmail.com"
+    }
+  ]
+}

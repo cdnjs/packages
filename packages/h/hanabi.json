@@ -1,0 +1,33 @@
+{
+  "name": "hanabi",
+  "description": "Highlight any code, in a colorful way.",
+  "keywords": [
+    "highlight",
+    "code"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/egoist/hanabi#readme",
+  "repository": {
+    "url": "git+https://github.com/egoist/hanabi.git",
+    "type": "git"
+  },
+  "authors": [
+    {
+      "name": "egoist",
+      "email": "0x142857@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "hanabi",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "hanabi.min.js"
+}

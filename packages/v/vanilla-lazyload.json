@@ -4,7 +4,7 @@
   "description": "A fast, lightweight script to load images as they enter the viewport. SEO friendly, it supports responsive images (both srcset + sizes and picture) and progressive JPEG",
   "repository": {
     "type": "git",
-    "url": "https://github.com/verlok/lazyload.git"
+    "url": "https://github.com/verlok/vanilla-lazyload.git"
   },
   "license": "MIT",
   "keywords": [
@@ -23,10 +23,10 @@
     "async",
     "no-jquery"
   ],
-  "homepage": "https://verlok.github.io/lazyload",
+  "homepage": "https://www.andreaverlicchi.eu/vanilla-lazyload/",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/verlok/lazyload.git",
+    "source": "npm",
+    "target": "vanilla-lazyload",
     "fileMap": [
       {
         "basePath": "dist",

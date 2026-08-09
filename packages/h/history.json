@@ -10,7 +10,7 @@
     "history",
     "location"
   ],
-  "filename": "history.min.js",
+  "filename": "history.production.min.js",
   "autoupdate": {
     "source": "npm",
     "target": "history",
@@ -18,7 +18,7 @@
       {
         "basePath": "umd",
         "files": [
-          "*.js"
+          "*.js?(.map)"
         ]
       }
     ]

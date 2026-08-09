@@ -1,0 +1,46 @@
+{
+  "name": "style-forge.helpers",
+  "homepage": "https://style-forge.github.io/helpers/",
+  "description": "Style-Forge.Helpers: essential CSS helper classes for spacing, alignment, visibility, and more in web development.",
+  "filename": "helpers.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Style-Forge/helpers.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "style-forge",
+    "helpers",
+    "CSS",
+    "HTML",
+    "utilities",
+    "styles",
+    "web development",
+    "frontend",
+    "styling",
+    "design",
+    "responsive",
+    "lightweight",
+    "performance",
+    "modular",
+    "consistent"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "style-forge.helpers",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "helpers.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Dmitrii Sagalov",
+      "email": "sarmaged@gmail.com"
+    }
+  ]
+}

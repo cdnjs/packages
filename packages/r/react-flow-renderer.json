@@ -1,0 +1,41 @@
+{
+  "name": "react-flow-renderer",
+  "description": "Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram",
+  "keywords": [
+    "react",
+    "workflow",
+    "typescript",
+    "graph",
+    "react-library",
+    "typescript-library",
+    "flowchart",
+    "node-based-ui"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/wbkd/react-flow#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbkd/react-flow.git"
+  },
+  "authors": [
+    {
+      "name": "react-flow contributors",
+      "url": "https://github.com/wbkd/react-flow/graphs/contributors"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "react-flow-renderer",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "@(umd|esm)/*.js?(.map)",
+          "nocss/@(umd|esm)/*.js?(.map)",
+          "*.css"
+        ]
+      }
+    ]
+  },
+  "filename": "umd/index.js"
+}

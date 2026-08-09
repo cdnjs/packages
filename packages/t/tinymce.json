@@ -24,6 +24,7 @@
           "skins/lightgray/img/*",
           "skins/lightgray/fonts/*",
           "plugins/**/plugin.js",
+          "plugins/**/i18n/**/*.js",
           "plugins/**/*.!(js)"
         ]
       }

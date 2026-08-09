@@ -21,7 +21,7 @@
         "basePath": "",
         "files": [
           "Control.FullScreen*.+(css|js|map)",
-          "icon-fullscreen*.png"
+          "icon-fullscreen.svg"
         ]
       }
     ]

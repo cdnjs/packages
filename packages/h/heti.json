@@ -1,0 +1,36 @@
+{
+  "name": "heti",
+  "description": "赫蹏是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。",
+  "keywords": [
+    "typography",
+    "clreq",
+    "css",
+    "sass",
+    "scss"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sivan/heti#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivan/heti.git"
+  },
+  "authors": [
+    {
+      "name": "Sivan",
+      "email": "sun.sivan@gmail.com"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "heti",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "*.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "heti-addon.min.js"
+}

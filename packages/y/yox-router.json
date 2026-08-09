@@ -1,0 +1,32 @@
+{
+  "name": "yox-router",
+  "filename": "yox-router.min.js",
+  "description": "Router for yox.js",
+  "keywords": [
+    "yox",
+    "router"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoxjs/yox-router.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "yox-router",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js?(.map)|d.ts)"
+        ]
+      }
+    ]
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "musicode",
+      "email": "musicode@qq.com"
+    }
+  ]
+}

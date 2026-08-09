@@ -1,0 +1,33 @@
+{
+  "name": "microdiff",
+  "description": "A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.",
+  "filename": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "comparison",
+    "diff"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AsyncBanana/microdiff.git"
+  },
+  "authors": [
+    {
+      "name": "Jacob Jackson",
+      "email": "jej.jackson.08@gmail.com",
+      "url": "https://github.com/AsyncBanana"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "microdiff",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  }
+}

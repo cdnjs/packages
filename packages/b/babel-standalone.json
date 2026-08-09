@@ -4,7 +4,7 @@
   "filename": "babel.min.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Daniel15/babel-standalone.git"
+    "url": "git+https://github.com/babel/babel.git"
   },
   "license": "MIT",
   "keywords": [
@@ -16,7 +16,7 @@
   ],
   "autoupdate": {
     "source": "npm",
-    "target": "babel-standalone",
+    "target": "@babel/standalone",
     "fileMap": [
       {
         "basePath": "",

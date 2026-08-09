@@ -1,0 +1,34 @@
+{
+  "name": "Base64URL-ArrayBuffer",
+  "filename": "main.umd.js",
+  "description": "Encode and Decode Base64URLs into ArrayBuffers",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deepu105/base64url-arraybuffer.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "base64url",
+    "arraybuffer",
+    "webauthn",
+    "base64"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "base64url-arraybuffer",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Deepu K Sasidharan",
+      "email": "d4udts@gmail.com"
+    }
+  ]
+}

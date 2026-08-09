@@ -1,0 +1,33 @@
+{
+  "name": "anabolicset",
+  "description": "Javascript Set on steroids.",
+  "keywords": [
+    "js",
+    "set",
+    "data-structures"
+  ],
+  "license": "MIT",
+  "homepage": "https://colonelparrot.github.io/AnabolicSet/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColonelParrot/AnabolicSet.git"
+  },
+  "authors": [
+    {
+      "name": "ColonelParrot"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "anabolicset",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "anabolicset.js"
+}

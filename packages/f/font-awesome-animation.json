@@ -14,13 +14,13 @@
   "license": "MIT",
   "homepage": "http://l-lin.github.io/font-awesome-animation/",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/l-lin/font-awesome-animation.git",
+    "source": "npm",
+    "target": "font-awesome-animation",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "css",
         "files": [
-          "**/*"
+          "*.css?(.map)"
         ]
       }
     ]

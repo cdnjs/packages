@@ -1,0 +1,55 @@
+{
+  "name": "alt-lodash",
+  "description": "This library can be used as alternate of lodash",
+  "keywords": [
+    "lodash alternative",
+    "alt lodash",
+    "array",
+    "array methods",
+    "collection",
+    "collection methods",
+    "function",
+    "function methods",
+    "lang",
+    "lang methods",
+    "math",
+    "math methods",
+    "number",
+    "number methods",
+    "object",
+    "object methods",
+    "string",
+    "string methods",
+    "util",
+    "util methods",
+    "helpers",
+    "methods",
+    "javascript methods"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/PunitSoniME/alt-lodash#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PunitSoniME/alt-lodash.git"
+  },
+  "authors": [
+    {
+      "name": "Punit Soni",
+      "email": "punit.soni33@gmail.com",
+      "url": "https://punit-soni.web.app"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "alt-lodash",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "alt-lodash.*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "filename": "alt-lodash.esm.js"
+}

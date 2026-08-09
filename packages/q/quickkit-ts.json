@@ -1,0 +1,27 @@
+{
+  "name": "quickkit-ts",
+  "filename": "quickkit-ts.umd.js",
+  "description": "Lightweight tree-shakeable TypeScript utilities.",
+  "license": "MIT",
+  "keywords": ["quickkit-ts", "typescript", "utilities"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdelfatah-ashour/quickkit-ts.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "quickkit-ts",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["quickkit-ts.umd.js"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Abdelfatah Ashour",
+      "email": "abdelfatahashour4@gmail.com"
+    }
+  ]
+}

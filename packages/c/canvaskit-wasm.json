@@ -1,0 +1,35 @@
+{
+  "name": "canvaskit-wasm",
+  "description": "A WASM version of Skia's Canvas API",
+  "keywords": [
+    "drawing",
+    "canvas",
+    "graphics",
+    "wasm"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/google/skia/tree/main/modules/canvaskit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/google/skia.git"
+  },
+  "authors": [
+    {
+      "name": "skia contribtors",
+      "url": "https://github.com/google/skia/graphs/contributors"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "canvaskit-wasm",
+    "fileMap": [
+      {
+        "basePath": "bin",
+        "files": [
+          "canvaskit.@(js|wasm)"
+        ]
+      }
+    ]
+  },
+  "filename": "canvaskit.js"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "yox",
+  "filename": "standard/dev/yox.min.js",
+  "description": "A lightweight mvvm framework",
+  "keywords": [
+    "mvvm",
+    "browser",
+    "framework"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoxjs/yox.git"
+  },
+  "autoupdate": {
+    "source": "npm",
+    "target": "yox",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "@(legacy|standard)/@(dev|prod|pure|runtime)/*.js?(.map)",
+          "*.d.ts"
+        ]
+      }
+    ]
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "musicode",
+      "email": "musicode@qq.com"
+    }
+  ]
+}

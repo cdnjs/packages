@@ -1,0 +1,27 @@
+{
+  "name": "model-viewer",
+  "description": "google 3d model viewer",
+  "keywords": ["model-viewer", "threejs", "ar", "augmented reality", "webxr", "quickview"],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/google/model-viewer#readme",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:google/model-viewer.git"
+  },
+  "filename": "model-viewer.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@google/model-viewer",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["model-viewer.min.js"]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Google, Inc."
+    }
+  ]
+}

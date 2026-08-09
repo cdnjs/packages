@@ -1,0 +1,33 @@
+{
+  "name": "maidr",
+  "description": "Multimodal Access and Interactive Data Representation — non-visual access to data visualizations via sonification, text descriptions, and braille.",
+  "keywords": [
+    "accessibility",
+    "a11y",
+    "data-visualization",
+    "sonification",
+    "braille",
+    "screen-reader"
+  ],
+  "filename": "maidr.min.js",
+  "homepage": "https://maidr.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xability/maidr.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "autoupdate": {
+    "source": "npm",
+    "target": "maidr",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "maidr.js",
+          "maidr.css",
+          "maidr-math.css"
+        ]
+      }
+    ]
+  }
+}

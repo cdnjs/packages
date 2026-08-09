@@ -1,0 +1,33 @@
+{
+  "name": "tha-hashnode-widget",
+  "filename": "widget.min.js",
+  "description": "A very simple but responsive widget for loading blog posts from Hashnode in your personal website.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thehaseebahmed/js-hashnode-widget.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "hashnode",
+    "widget",
+    "blog"
+  ],
+  "homepage": "https://github.com/thehaseebahmed/js-hashnode-widget",
+  "autoupdate": {
+    "source": "npm",
+    "target": "tha-hashnode-widget",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Haseeb Ahmed"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "docsearch-css",
+  "filename": "style.css",
+  "description": "Styles for DocSearch.",
+  "keywords": [
+    "doc",
+    "search"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/algolia/docsearch.git"
+  },
+  "homepage": "https://docsearch.algolia.com/",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@docsearch/css",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.css"
+        ]
+      }
+    ]
+  }
+}

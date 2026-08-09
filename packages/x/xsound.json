@@ -1,7 +1,7 @@
 {
   "name": "xsound",
   "filename": "xsound.js",
-  "description": "Web Audio API Library for Synthesizer, Effects, Visualization, Multi-Track Recording, Audio Streaming, Visual Audio Sprite ... etc",
+  "description": "XSound gives Web Developers Powerful Audio Features Easily !",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -9,11 +9,13 @@
   },
   "keywords": [
     "XSound",
+    "TypeScript",
     "JavaScript",
     "Web Audio API",
     "Web Audio",
     "Web Audio API Library",
-    "Web Audio Library"
+    "Web Audio Library",
+    "Web Music"
   ],
   "homepage": "https://xsound.jp",
   "autoupdate": {
@@ -23,10 +25,8 @@
       {
         "basePath": "build",
         "files": [
-          "xsound.d.ts",
-          "xsound.js",
-          "xsound.js.LICENSE.txt",
-          "xsound.js.map"
+          "types/**/*.d.ts?(.map)",
+          "xsound.js?(.LICENSE.txt|.map)"
         ]
       }
     ]

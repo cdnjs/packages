@@ -1,0 +1,32 @@
+{
+  "name": "broadcastchannel-polyfill",
+  "description": "Polyfill for BroadcastChannel for Safari, old Chrome and Opera",
+  "keywords": [
+    "broadcastchannel",
+    "polyfill"
+  ],
+  "license": "Unlicense",
+  "homepage": "https://github.com/JSmith01/broadcastchannel-polyfill#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSmith01/broadcastchannel-polyfill.git"
+  },
+  "authors": [
+    {
+      "name": "Joshua Bell"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "broadcastchannel-polyfill",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "marked-mangle",
+  "filename": "index.umd.min.js",
+  "description": "marked mangle extension",
+  "keywords": [
+    "marked",
+    "extension",
+    "mangle"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "marked-mangle",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.js"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markedjs/marked-mangle.git"
+  },
+  "authors": [
+    {
+      "name": "Tony Brix",
+      "email": "Tony@Brix.ninja",
+      "url": "https://Tony.Brix.ninja"
+    }
+  ],
+  "license": "MIT"
+}

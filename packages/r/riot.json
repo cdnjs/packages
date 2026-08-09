@@ -1,7 +1,7 @@
 {
   "name": "riot",
   "description": "A React-like user interface micro-library",
-  "homepage": "https://muut.com/riotjs/",
+  "homepage": "https://riot.js.org",
   "repository": {
     "type": "git",
     "url": "git://github.com/riot/riot"

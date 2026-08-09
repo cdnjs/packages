@@ -1,0 +1,34 @@
+{
+  "name": "codex-design-tokens",
+  "filename": "theme-wikimedia-ui.css",
+  "description": "design tokens of the Codex design system for Wikimedia",
+  "keywords": [
+    "codex",
+    "design-system",
+    "components",
+    "front-end"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@wikimedia/codex-design-tokens",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(css|json)"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gerrit.wikimedia.org/r/design/codex.git"
+  },
+  "authors": [
+    {
+      "name": "Wikimedia Foundation Design Systems Team",
+      "url": "https://www.mediawiki.org/wiki/Design_Systems_Team"
+    }
+  ],
+  "license": "GPL-2.0-or-later"
+}

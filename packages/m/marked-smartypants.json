@@ -1,0 +1,34 @@
+{
+  "name": "marked-smartypants",
+  "filename": "index.umd.min.js",
+  "description": "marked extension for smartypants",
+  "keywords": [
+    "marked",
+    "extension",
+    "smartypants"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "marked-smartypants",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "*.@(js|mjs)"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markedjs/marked-smartypants.git"
+  },
+  "authors": [
+    {
+      "name": "Tony Brix",
+      "email": "Tony@Brix.ninja",
+      "url": "https://Tony.Brix.ninja"
+    }
+  ],
+  "license": "MIT"
+}

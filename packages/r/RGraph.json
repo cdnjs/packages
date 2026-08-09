@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/heyesr/rgraph"
   },
-  "license": "MIT",
+  "license": "GPL & Commercial",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/heyesr/rgraph.git",

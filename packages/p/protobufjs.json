@@ -1,0 +1,37 @@
+{
+  "name": "protobufjs",
+  "filename": "protobuf.js",
+  "description": "protobuf.js is a pure JavaScript implementation with TypeScript support for node.js and the browser.",
+  "keywords": [
+    "protobuf",
+    "protobufjs",
+    "serialization",
+    "protocol-buffers"
+  ],
+  "license": "BSD 3-Clause License",
+  "homepage": "https://github.com/protobufjs/protobuf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:protobufjs/protobuf.js.git"
+  },
+  "authors": [
+    {
+      "name": "protobuf.js contributors",
+      "url": "https://github.com/protobufjs/protobuf.js/graphs/contributors"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "protobufjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js?(.map)",
+          "light/*.js?(.map)",
+          "minimal/*.js?(.map)"
+        ]
+      }
+    ]
+  }
+}

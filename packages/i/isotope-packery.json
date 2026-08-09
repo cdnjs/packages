@@ -1,0 +1,36 @@
+{
+  "name": "isotope-packery",
+  "description": "packery layout mode for Isotope",
+  "keywords": [
+    "DOM",
+    "browser",
+    "packery",
+    "layout",
+    "isotope",
+    "isotope-layout-mode"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/metafizzy/isotope-packery",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/metafizzy/isotope-packery.git"
+  },
+  "authors": [
+    {
+      "name": "Metafizzy"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "isotope-packery",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "packery*.js"
+        ]
+      }
+    ]
+  },
+  "filename": "packery-mode.pkgd.min.js"
+}

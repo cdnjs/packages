@@ -1,0 +1,36 @@
+{
+  "name": "layx",
+  "description": "Layx 新一代Web弹窗组件。",
+  "keywords": [
+    "layer",
+    "layx",
+    "dialog",
+    "window",
+    "float",
+    "artdialog"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MonkSoul/Layx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MonkSoul/Layx.git"
+  },
+  "authors": [
+    {
+      "name": "MonkSoul"
+    }
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/MonkSoul/Layx.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "layx?(.min).@(js|css)"
+        ]
+      }
+    ]
+  },
+  "filename": "layx.min.js"
+}

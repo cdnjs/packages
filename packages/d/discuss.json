@@ -8,10 +8,10 @@
     "vue"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/Lete114/Discuss#readme",
+  "homepage": "https://discuss.js.org",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lete114/Discuss.git"
+    "url": "git+https://github.com/discussjs/discuss.git"
   },
   "authors": [
     {
@@ -24,12 +24,14 @@
     "target": "discuss",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "*.js"
+          "dist/*.js?(.map)",
+          "assets/@(emot|img)/*.png",
+          "assets/svg/*.svg"
         ]
       }
     ]
   },
-  "filename": "Discuss.js"
+  "filename": "dist/discuss.js"
 }

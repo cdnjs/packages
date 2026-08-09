@@ -8,13 +8,13 @@
     "WebGL"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/mrdoob/three.js.git",
+    "source": "npm",
+    "target": "three",
     "fileMap": [
       {
         "basePath": "build",
         "files": [
-          "*"
+          "*.@(js|cjs)"
         ]
       }
     ]

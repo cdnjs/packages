@@ -1,0 +1,40 @@
+{
+  "name": "bigdecimal",
+  "filename": "bigdecimal.min.js",
+  "description": "Arbitrary-precision BigInteger and BigDecimal real numbers: Apache Harmony's implementation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iriscouch/bigdecimal.js.git"
+  },
+  "keywords": [
+    "big",
+    "bignum",
+    "bigint",
+    "integer",
+    "arithmetic",
+    "precision",
+    "bigintegers",
+    "decimal",
+    "float"
+  ],
+  "homepage": "https://github.com/iriscouch/bigdecimal.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bigdecimal",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "bigdecimal.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Jason Smith",
+      "email": "jhs@iriscouch.com",
+      "url": "http://www.iriscouch.com/"
+    }
+  ]
+}

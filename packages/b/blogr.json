@@ -1,0 +1,37 @@
+{
+	"name": "blogr",
+	"filename": "blogr.min.js",
+	"description": "A modern, modular, fully-typed SDK for the Blogger (Blogspot) public feed API.",
+	"homepage": "http://muzammil.work",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/oyzamil/blogr.git"
+	},
+	"keywords": [
+		"blogger",
+		"blogspot",
+		"blogger-api",
+		"blogger-feed",
+		"sdk"
+	],
+	"license": "MIT",
+	"autoupdate": {
+		"source": "npm",
+		"target": "blogr",
+		"fileMap": [
+			{
+				"basePath": "dist",
+				"files": [
+					"*.js"
+				]
+			}
+		]
+	},
+	"authors": [
+		{
+			"name": "M. Muzammil",
+			"email": "qazi.web@gmail.com",
+			"url": "http://muzammil.work"
+		}
+	]
+}

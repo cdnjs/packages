@@ -1,0 +1,44 @@
+{
+  "name": "bootstrap-shopping-carts",
+  "filename": "bootstrap-shopping-carts.min.css",
+  "description": "Responsive Shopping Carts built with Bootstrap 5. Multiple examples of various designs and functionalities. Ready to use pages and templates.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive",
+    "cards",
+    "responsive-design",
+    "shopping-cart",
+    "bootstrap5-template",
+    "bootstrap-shopping-carts",
+    "bootstrap-cards",
+    "bootstrap-checkout",
+    "forms",
+    "checkout-page"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/shopping-carts/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/bootstrap-shopping-carts"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-shopping-carts",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-shopping-carts*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

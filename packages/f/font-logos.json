@@ -13,8 +13,8 @@
     "url": "git://github.com/Lukas-W/font-logos.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/Lukas-W/font-logos.git",
+    "source": "npm",
+    "target": "font-logos",
     "fileMap": [
       {
         "basePath": "assets",

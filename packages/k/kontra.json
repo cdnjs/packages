@@ -1,0 +1,42 @@
+{
+  "name": "kontra",
+  "description": "Kontra HTML5 game development library",
+  "filename": "kontra.js",
+  "keywords": [
+    "HTML5",
+    "JavaScript",
+    "game",
+    "library",
+    "js13k"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "kontra",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "kontra.d.ts",
+          "kontra.js",
+          "kontra.min.js",
+          "kontra.min.mjs",
+          "kontra.mjs"
+        ]
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/straker/kontra.git"
+  },
+  "homepage": "https://github.com/straker/kontra",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Steven Lambert"
+    }
+  ],
+  "optimization": {
+    "js": false
+  }
+}

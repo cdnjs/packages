@@ -1,0 +1,35 @@
+{
+  "name": "tolgee-web",
+  "description": "Tolgee for web",
+  "keywords": [
+    "localization",
+    "languages",
+    "internationalization",
+    "framework",
+    "localize"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/tolgee/tolgee-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolgee/tolgee-js.git"
+  },
+  "authors": [
+    {
+      "name": "Tolgee"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "@tolgee/web",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(js|mjs)"
+        ]
+      }
+    ]
+  },
+  "filename": "tolgee-web.production.umd.min.js"
+}

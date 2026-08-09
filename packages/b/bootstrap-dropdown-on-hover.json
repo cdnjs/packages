@@ -1,0 +1,40 @@
+{
+  "name": "bootstrap-dropdown-on-hover",
+  "filename": "bootstrap-dropdown-on-hover.min.css",
+  "description": "Responsive Dropdown on hover built with Bootstrap 5. Example of how to make dropdown expand when you hover over it.",
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "template",
+    "responsive-design",
+    "bootstrap5-template",
+    "dropdown",
+    "dropdown-on-hover",
+    "dropdown-on-hover-template"
+  ],
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/dropdown-on-hover/",
+  "repository": {
+    "type": "git",
+    "url": "https://mdbootstrap.com/docs/standard/extended/dropdown-on-hover/"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-dropdown-on-hover",
+    "fileMap": [
+      {
+        "basePath": "css",
+        "files": [
+          "bootstrap-dropdown-on-hover*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "MDBBootstrap",
+      "email": "contact@mdbootstrap.com",
+      "url": "https://mdbootstrap.com/"
+    }
+  ]
+}

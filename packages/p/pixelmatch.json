@@ -1,0 +1,33 @@
+{
+  "name": "pixelmatch",
+  "description": "The smallest and fastest pixel-level image comparison library.",
+  "keywords": [
+    "image",
+    "comparison",
+    "diff"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mapbox/pixelmatch#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapbox/pixelmatch.git"
+  },
+  "authors": [
+    {
+      "name": "Vladimir Agafonkin"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "pixelmatch",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  },
+  "filename": "index.js"
+}

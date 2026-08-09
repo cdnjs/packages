@@ -1,0 +1,34 @@
+{
+  "name": "textify.js",
+  "description": "Next Generation Text Animation Library",
+  "keywords": [
+    "Text-Animation",
+    "Text-Animation-Library",
+    "scroll-based-text-animation",
+    "textify.js"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MAGGIx1404/Textify.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAGGIx1404/Textify.js.git"
+  },
+  "authors": [
+    {
+      "name": "Jeet (MAGGIx1404)"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "textify.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.@(css|js)"
+        ]
+      }
+    ]
+  },
+  "filename": "Textify.min.js"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "flowbite",
+  "filename": "flowbite.js",
+  "description": "The most popular library of interactive components built with Tailwind CSS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themesberg/flowbite.git"
+  },
+  "homepage": "https://flowbite.com",
+  "keywords": [
+    "flowbite",
+    "html",
+    "css",
+    "javascript",
+    "tailwind",
+    "tailwind components",
+    "tailwind elements",
+    "tailwind library",
+    "tailwind sections",
+    "tailwind css",
+    "tailwind ui",
+    "tailwind css react",
+    "tailwind css vue",
+    "tailwind css angular",
+    "tailwind css svelte",
+    "tailwind css django",
+    "tailwind css ruby on rails"
+  ],
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "flowbite",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.css",
+          "*.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "https://github.com/themesberg/flowbite/graphs/contributors"
+    }
+  ]
+}

@@ -2,14 +2,14 @@
   "name": "handlebars.js",
   "filename": "handlebars.min.js",
   "description": "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration",
-  "homepage": "http://www.handlebarsjs.com",
+  "homepage": "https://www.handlebarsjs.com",
   "keywords": [
     "template",
     "mustache"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wycats/handlebars.js"
+    "url": "https://github.com/handlebars-lang/handlebars.js"
   },
   "license": "MIT",
   "autoupdate": {

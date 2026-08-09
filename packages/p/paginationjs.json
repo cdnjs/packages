@@ -13,7 +13,7 @@
     "jquery pagination"
   ],
   "license": "MIT",
-  "homepage": "http://paginationjs.com",
+  "homepage": "https://pagination.js.org",
   "filename": "pagination.min.js",
   "autoupdate": {
     "source": "git",

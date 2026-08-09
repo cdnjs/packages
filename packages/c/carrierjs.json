@@ -1,0 +1,44 @@
+{
+  "name": "carrierjs",
+  "description": "Carrier JS is promise based http client for browsers. It is used to interact with servers with ultimate caching feature.",
+  "filename": "carrier.js",
+  "license": "MIT",
+  "keywords": [
+    "xhr",
+    "http",
+    "promise",
+    "script",
+    "carrierjs",
+    "carrier",
+    "ritikchoure",
+    "theritikchoure",
+    "license",
+    "caching",
+    "javascript",
+    "js",
+    "request"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theritikchoure/carrierjs.git"
+  },
+  "authors": [
+    {
+      "name": "Ritik Chourasiya",
+      "email": "ritvikchoure65@gmail.com",
+      "url": "https://github.com/theritikchoure"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "carrierjs",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "carrier.js"
+        ]
+      }
+    ]
+  }
+}

@@ -16,6 +16,20 @@
     "url": "https://github.com/jquery/jquery-ui"
   },
   "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "jquery-ui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "themes/*/*.css",
+          "themes/*/images/*.png"
+        ]
+      }
+    ]
+  },
   "authors": [
     {
       "name": "jQuery Foundation and other contributors",

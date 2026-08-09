@@ -1,0 +1,35 @@
+{
+  "name": "sqids",
+  "description": "Generate YouTube-like ids from numbers.",
+  "keywords": ["sqids", "hashids", "encode", "ids"],
+  "license": "MIT",
+  "homepage": "https://sqids.org/javascript",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sqids/sqids-javascript.git"
+  },
+  "authors": [
+    {
+      "name": "sqids.org"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "sqids",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": ["cjs/*.js", "cjs/*.map", "cjs/*.ts"]
+      },
+      {
+        "basePath": "",
+        "files": ["esm/*.js", "esm/*.map", "esm/*.ts", "esm/package.json"]
+      },
+      {
+        "basePath": "dist",
+        "files": ["*.js", "*.map"]
+      }
+    ]
+  },
+  "filename": "sqids.js"
+}
