@@ -1,6 +1,6 @@
 {
   "name": "pangu",
-  "filename": "pangu.min.js",
+  "filename": "browser/pangu.umd.min.js",
   "description": "Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols).",
   "keywords": [
     "chinese",
@@ -26,9 +26,14 @@
     "target": "pangu",
     "fileMap": [
       {
-        "basePath": "dist/browser",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "browser/*.js",
+          "browser/*.js.map",
+          "shared/*.js",
+          "shared/*.js.map",
+          "shared-*.js",
+          "shared-*.js.map"
         ]
       }
     ]

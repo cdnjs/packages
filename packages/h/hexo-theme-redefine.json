@@ -10,15 +10,15 @@
     "powerful",
     "hexo-theme"
   ],
-  "license": "AGPL-3.0",
-  "homepage": "https://github.com/EvanNotFound/hexo-theme-redefine#readme",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/evannotfound/hexo-theme-redefine#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EvanNotFound/hexo-theme-redefine.git"
+    "url": "git+https://github.com/evannotfound/hexo-theme-redefine.git"
   },
   "authors": [
     {
-      "name": "EvanNotFound"
+      "name": "evannotfound"
     }
   ],
   "autoupdate": {
@@ -29,6 +29,8 @@
         "basePath": "source",
         "files": [
           "js/**/*.js",
+          "js/**/*.map",
+          "css/**/*.css",
           "assets/**/*.css",
           "@(fonts|webfonts|fontawesome)/**/*.@(css|ttf|eot|woff|woff2)"
         ]
