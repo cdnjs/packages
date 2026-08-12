@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/neuhausi/canvasXpress.git",
+    "target": "https://github.com/neuhausi/canvasXpress.git",
     "fileMap": [
       {
         "basePath": "inst/htmlwidgets/lib/canvasXpress",
