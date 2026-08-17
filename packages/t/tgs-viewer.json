@@ -1,0 +1,33 @@
+﻿{
+  "name": "tgs-viewer",
+  "filename": "tgs-viewer.min.js",
+  "version": "1.0.0",
+  "description": "Library for viewing Telegram animated stickers (TGS format)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maybeoff/tgs-viewer"
+  },
+  "keywords": [
+    "tgs",
+    "telegram",
+    "sticker",
+    "lottie",
+    "animation",
+    "viewer"
+  ],
+  "author": "Maybeoff",
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/Maybeoff/tgs-viewer.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "tgs-viewer.js",
+          "tgs-viewer.min.js"
+        ]
+      }
+    ]
+  }
+}
