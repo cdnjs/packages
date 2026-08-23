@@ -1,0 +1,38 @@
+{
+  "name": "jmap-jam",
+  "description": "A JMAP client library for Node.js and the browser.",
+  "license": "MIT",
+  "filename": "index.js",
+  "homepage": "https://github.com/htunnicliff/jmap-jam",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htunnicliff/jmap-jam.git"
+  },
+  "keywords": [
+    "jmap",
+    "email",
+    "client",
+    "fastmail",
+    "api"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "jmap-jam",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*.js.map",
+          "*.d.ts"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Hunter Tunnicliff",
+      "url": "https://github.com/htunnicliff"
+    }
+  ]
+}
