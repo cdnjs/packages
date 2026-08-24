@@ -14,7 +14,11 @@
     "animation",
     "viewer"
   ],
-  "author": "Maybeoff",
+  "authors": [
+    {
+      "name": "Maybeoff"
+    }
+  ],
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
