@@ -1,7 +1,6 @@
 {
   "name": "tgs-viewer",
   "filename": "tgs-viewer.min.js",
-  "version": "1.0.0",
   "description": "JavaScript library for viewing Telegram animated stickers (TGS format)",
   "repository": {
     "type": "git",
