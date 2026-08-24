@@ -8,10 +8,12 @@
     "type": "git",
     "url": "https://github.com/html2canvas/html2canvas"
   },
-  "author": {
-    "name": "Zéfling",
-    "url": "https://ikiw.fr/@Zefling"
-  },
+  "authors": [
+    {
+      "name": "Zéfling",
+      "url": "https://ikiw.fr/@Zefling"
+    }
+  ],
   "license": "MIT",
   "autoupdate": {
     "source": "npm",
