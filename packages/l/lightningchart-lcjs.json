@@ -3,6 +3,10 @@
   "filename": "lcjs.iife.js",
   "description": "A high-performance charting library.",
   "homepage": "https://www.lightningchart.com/lightningchart-js/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lightning-Chart/lcjs-headless.git"
+  },
   "keywords": [
     "chart",
     "data-visualization",
