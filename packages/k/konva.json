@@ -14,8 +14,8 @@
     "url": "git://github.com/konvajs/konva.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/konvajs/konva.git",
+    "source": "npm",
+    "target": "konva",
     "fileMap": [
       {
         "basePath": "",
