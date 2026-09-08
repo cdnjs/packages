@@ -1,0 +1,47 @@
+{
+  "name": "tinyhmacmd5",
+  "filename": "browser.min.js",
+  "description": "A tiny (943 Bytes), fast and reliable implementation of MD5 and HMAC-MD5 for JavaScript.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bddjr/tinyhmacmd5.git"
+  },
+  "license": "Unlicense",
+  "keywords": [
+    "md5",
+    "hash",
+    "hashing",
+    "hmac",
+    "hmacmd5",
+    "hmac-md5",
+    "crypto",
+    "encryption",
+    "cryptography",
+    "message-digest",
+    "cryptographic-hash",
+    "tiny",
+    "lightweight",
+    "minimal",
+    "javascript"
+  ],
+  "homepage": "https://bddjr.github.io/tinyhmacmd5/",
+  "authors": [
+    {
+      "name": "bddjr",
+      "url": "https://github.com/bddjr"
+    }
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "tinyhmacmd5",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "browser.min.js",
+          "main.js"
+        ]
+      }
+    ]
+  }
+}
