@@ -1,0 +1,36 @@
+{
+  "name": "quik-formstream",
+  "description": "FormStream UI — an embeddable Angular custom element (<quik-formstream>) for rendering and completing Quik! forms in any host page.",
+  "keywords": [
+    "forms",
+    "web-component",
+    "custom-element",
+    "angular-elements",
+    "quik"
+  ],
+  "authors": [
+    {
+      "name": "Quik!",
+      "url": "https://www.quikforms.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/quikforms/ETI.FormStream.UI",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quikforms/ETI.FormStream.UI.git"
+  },
+  "filename": "formstream-bundle.js",
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/quikforms/ETI.FormStream.UI.git",
+    "fileMap": [
+      {
+        "basePath": "dist/formstream",
+        "files": [
+          "formstream-bundle.js"
+        ]
+      }
+    ]
+  }
+}
