@@ -1,12 +1,12 @@
 {
   "name": "docsify",
-  "filename": "docsify.min.js",
+  "filename": "dist/docsify.min.js",
   "description": "A magical documentation generator.",
   "homepage": "https://docsify.js.org",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/QingWei-Li/docsify.git"
+    "url": "https://github.com/docsifyjs/docsify.git"
   },
   "keywords": [
     "doc",
@@ -20,18 +20,26 @@
     "target": "docsify",
     "fileMap": [
       {
-        "basePath": "lib",
+        "basePath": "",
         "files": [
-          "**/*"
+          "dist/**/*.{js,css,js.map,css.map}",
+          "lib/**/*.{js,css}",
+          "src/**/*.{js,ts,css,js.map,css.map,d.ts.map}",
+          "themes/**/*.css"
         ]
       }
     ]
   },
   "authors": [
     {
-      "name": "qingwei-li",
-      "email": "cinwell.li@gmail.com",
-      "url": "https://github.com/QingWei-Li"
+      "name": "docsify",
+      "email": "maintainers@docsifyjs.org",
+      "url": "https://github.com/docsifyjs"
+    },
+    {
+      "name": "Luffy",
+      "email": "lufei@docsifyjs.org",
+      "url": "https://github.com/sy-records"
     }
   ]
 }
