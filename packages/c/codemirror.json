@@ -10,7 +10,7 @@
   "homepage": "http://codemirror.net",
   "repository": {
     "type": "git",
-    "url": "https://code.haverbeke.berlin/codemirror/dev.git"
+    "url": "https://code.haverbeke.berlin/codemirror/codemirror5.git"
   },
   "license": "MIT",
   "autoupdate": {
