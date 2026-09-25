@@ -1,0 +1,41 @@
+{
+  "name": "amcharts5",
+  "filename": "index.js",
+  "description": "amCharts 5: JavaScript charts and maps. Browser (script tag) builds, including geodata and fonts, in the same layout as cdn.amcharts.com/lib/5/.",
+  "keywords": [
+    "amcharts",
+    "amcharts5",
+    "charts",
+    "maps",
+    "data visualization",
+    "javascript"
+  ],
+  "homepage": "https://www.amcharts.com/",
+  "license": "Free and commercial",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amcharts/amcharts5.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/amcharts/amcharts5-dist.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "**/*.@(js|map)",
+          "**/!(package).json"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "amCharts",
+      "email": "contact@amcharts.com"
+    }
+  ]
+}
