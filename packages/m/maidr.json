@@ -25,7 +25,15 @@
         "files": [
           "maidr.js",
           "maidr.css",
-          "maidr-math.css"
+          "maidr-math.css",
+          "locale-ko.js",
+          "locale-ja.js",
+          "locale-zh.js",
+          "locale-es.js",
+          "locale-de.js",
+          "locale-fr.js",
+          "locale-it.js",
+          "locale-hi.js"
         ]
       }
     ]
