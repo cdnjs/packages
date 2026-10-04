@@ -25,7 +25,8 @@
         "files": [
           "maidr.js",
           "maidr.css",
-          "maidr-math.css"
+          "maidr-math.css",
+          "locale-*.js"
         ]
       }
     ]
