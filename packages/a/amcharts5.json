@@ -1,0 +1,55 @@
+{
+  "name": "amcharts5",
+  "filename": "index.js",
+  "description": "amCharts 5: JavaScript charts and maps. Browser (script tag) builds and low-detail maps, in the same layout as cdn.amcharts.com/lib/5/.",
+  "keywords": [
+    "amcharts",
+    "amcharts5",
+    "charts",
+    "maps",
+    "data visualization",
+    "javascript"
+  ],
+  "homepage": "https://www.amcharts.com/",
+  "license": "Free and commercial",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amcharts/amcharts5.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/amcharts/amcharts5-dist.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js",
+          "deps/*.js",
+          "locales/*.js",
+          "plugins/*.js",
+          "themes/*.js",
+          "geodata/*Low.js",
+          "geodata/data/*.js",
+          "geodata/lang/*.js",
+          "geodata/region/world/*Low.js",
+          "geodata/region/canada/*Low.js",
+          "geodata/region/mexico/*Low.js",
+          "geodata/region/usa/*Low.js",
+          "geodata/region/usa/congressional/*Low.js",
+          "geodata/region/usa/congressional120/*Low.js",
+          "geodata/region/usa/congressional2022/*Low.js",
+          "geodata/region/usa/congressional2025/*Low.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "amCharts",
+      "email": "contact@amcharts.com"
+    }
+  ]
+}
