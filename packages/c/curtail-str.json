@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema.json",
+  "name": "curtail-str",
+  "filename": "curtail-str.min.js",
+  "description": "Pure, configurable identifier abbreviation without dictionaries",
+  "homepage": "https://github.com/alansferreira/curtail-str",
+  "keywords": [
+    "abbreviation",
+    "curtail",
+    "identifier",
+    "shortener",
+    "string"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alansferreira/curtail-str.git"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "npm",
+    "target": "curtail-str",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "curtail-str.min.js",
+          "curtail-str.min.mjs"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Alan Ferreira"
+    }
+  ]
+}
