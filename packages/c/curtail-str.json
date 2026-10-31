@@ -1,5 +1,4 @@
 {
-  "$schema": "../../schema.json",
   "name": "curtail-str",
   "filename": "curtail-str.min.js",
   "description": "Pure, configurable identifier abbreviation without dictionaries",
