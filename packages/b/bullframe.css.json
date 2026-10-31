@@ -1,0 +1,39 @@
+{
+  "name": "bullframe.css",
+  "description": "A semantic, lightweight CSS framework for fast, accessible UIs. Class-based or classless, light or dark.",
+  "homepage": "https://bullframecss.marcopontili.com",
+  "filename": "bullframe.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcop135/bullframe.css.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "css-framework",
+    "classless",
+    "classless-css",
+    "dark-mode",
+    "accessibility",
+    "semantic-html",
+    "postcss"
+  ],
+  "autoupdate": {
+    "source": "npm",
+    "target": "bullframe.css",
+    "fileMap": [
+      {
+        "basePath": "dist/css",
+        "files": [
+          "*.+(css|map)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Marco Pontili",
+      "url": "https://marcopontili.com"
+    }
+  ]
+}
