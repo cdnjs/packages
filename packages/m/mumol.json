@@ -1,0 +1,31 @@
+{
+  "name": "mumol",
+  "description": "A WebGPU molecular viewer built on Three.js.",
+  "keywords": ["molecule", "protein", "visualization", "webgpu", "three.js"],
+  "license": "MIT",
+  "homepage": "https://github.com/Revanta-Inc/mumol",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Revanta-Inc/mumol.git"
+  },
+  "filename": "mumol-three.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@revanta/mumol",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": ["*.js", "mumol.d.ts", "assets/*.js"]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Moritz Onken",
+      "email": "onken@netcubed.de"
+    }
+  ]
+}
