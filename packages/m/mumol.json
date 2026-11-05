@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/Revanta-Inc/mumol.git"
   },
-  "filename": "mumol-three.js",
+  "filename": "mumol-min.js",
   "autoupdate": {
     "source": "npm",
     "target": "@revanta/mumol",
