@@ -15,7 +15,7 @@
     "fileMap": [
       {
         "basePath": "dist",
-        "files": ["*.js", "mumol.d.ts", "assets/*.js"]
+        "files": ["**/*.js", "mumol.d.ts"]
       }
     ]
   },
