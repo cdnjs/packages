@@ -23,7 +23,8 @@
       {
         "basePath": "dist",
         "files": [
-          "**/aframe?(.min).js?(.map)"
+          "**/aframe?(.min).js?(.map)",
+          "**/aframe-v+([0-9.])?(.min).js?(.map)"
         ]
       }
     ]

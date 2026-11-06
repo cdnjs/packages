@@ -23,19 +23,19 @@
       {
         "basePath": "dist",
         "files": [
-          "!(*.+(flow|ts|mjs|mjs.map)|preact.esm.*)"
+          "!(*.+(flow|ts)|preact.esm.*)"
         ]
       },
       {
         "basePath": "hooks/dist",
         "files": [
-          "!(*.+(flow|ts|mjs|mjs.map)|hooks.esm.*)"
+          "!(*.+(flow|ts)|hooks.esm.*)"
         ]
       },
       {
         "basePath": "compat/dist",
         "files": [
-          "!(*.+(flow|ts|mjs|mjs.map)|compat.esm.*)"
+          "!(*.+(flow|ts)|compat.esm.*)"
         ]
       }
     ]
