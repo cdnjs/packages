@@ -1,7 +1,7 @@
 {
   "name": "angular-datatables",
   "description": "Angular module that provides a datatable directive along with datatable options helpers.",
-  "filename": "angular-datatables.js",
+  "filename": "angular-datatables.mjs",
   "keywords": [
     "datatable",
     "angular"
@@ -16,6 +16,13 @@
     "source": "npm",
     "target": "angular-datatables",
     "fileMap": [
+      {
+        "basePath": "fesm2022",
+        "files": [
+          "angular-datatables.mjs",
+          "angular-datatables.mjs.map"
+        ]
+      },
       {
         "basePath": "dist",
         "files": [

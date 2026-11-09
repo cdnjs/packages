@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git://github.com/WebReflection/query-result.git"
   },
-  "filename": "query-result.js",
+  "filename": "index.js",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/WebReflection/query-result.git",
@@ -30,6 +30,13 @@
           "query-result.js",
           "query-result.max.amd.js",
           "query-result.max.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "index.js",
+          "min.js"
         ]
       }
     ]

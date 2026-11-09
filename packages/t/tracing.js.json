@@ -1,6 +1,6 @@
 {
   "name": "tracing.js",
-  "filename": "tracing.min.js",
+  "filename": "index.min.js",
   "description": "Tracing.js is a library/utility to help you debug and trace javascript code.",
   "license": "MIT",
   "repository": {
@@ -21,6 +21,12 @@
         "basePath": "",
         "files": [
           "tracing*"
+        ]
+      },
+      {
+        "basePath": "lib",
+        "files": [
+          "index.js"
         ]
       }
     ]

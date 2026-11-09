@@ -20,6 +20,12 @@
         "files": [
           "**/*"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "jquery.tagsinput*.+(js|css|map)"
+        ]
       }
     ]
   },

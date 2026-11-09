@@ -21,6 +21,13 @@
         "files": [
           "vue-form*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "vue-form*.js",
+          "vue-form*.js.map"
+        ]
       }
     ]
   },

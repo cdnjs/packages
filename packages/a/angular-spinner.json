@@ -17,6 +17,13 @@
     "target": "angular-spinner",
     "fileMap": [
       {
+        "basePath": "dist",
+        "files": [
+          "angular-spinner*.js",
+          "angular-spinner*.js.map"
+        ]
+      },
+      {
         "basePath": "",
         "files": [
           "angular-spinner.js",

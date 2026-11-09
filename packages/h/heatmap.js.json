@@ -21,6 +21,13 @@
         "files": [
           "heatmap*"
         ]
+      },
+      {
+        "basePath": "build",
+        "files": [
+          "heatmap*.js",
+          "heatmap*.map"
+        ]
       }
     ]
   },

@@ -45,6 +45,13 @@
         "files": [
           "index.@(d.ts|js)"
         ]
+      },
+      {
+        "basePath": "distribution",
+        "files": [
+          "**/*.js",
+          "**/*.d.ts"
+        ]
       }
     ]
   },

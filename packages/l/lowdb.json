@@ -1,6 +1,6 @@
 {
   "name": "lowdb",
-  "filename": "low.min.js",
+  "filename": "browser.js",
   "description": "JSON database for Node and the browser powered by lodash API",
   "keywords": [
     "flat",
@@ -29,6 +29,17 @@
         "basePath": "dist",
         "files": [
           "**/*"
+        ]
+      },
+      {
+        "basePath": "lib",
+        "files": [
+          "browser.js",
+          "index.js",
+          "core/**/*.js",
+          "adapters/Memory.js",
+          "adapters/browser/**/*.js",
+          "presets/browser.js"
         ]
       }
     ]

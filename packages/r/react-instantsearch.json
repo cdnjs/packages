@@ -1,6 +1,6 @@
 {
   "name": "react-instantsearch",
-  "filename": "Core.min.js",
+  "filename": "ReactInstantSearch.min.js",
   "description": "⚡ Lightning-fast search for React and React Native apps, by Algolia",
   "keywords": [
     "react",
@@ -25,6 +25,12 @@
         "basePath": "umd",
         "files": [
           "**/*"
+        ]
+      },
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "*.js"
         ]
       }
     ]

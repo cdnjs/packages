@@ -1,6 +1,6 @@
 {
   "name": "startbootstrap-landing-page",
-  "filename": "css/landing-page.min.css",
+  "filename": "css/styles.css",
   "homepage": "https://startbootstrap.com/template-overviews/landing-page/",
   "description": "A responsive, Bootstrap landing page template created by Start Bootstrap",
   "keywords": [
@@ -16,6 +16,14 @@
         "basePath": "",
         "files": [
           "css/landing-page.css"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "css/styles.css",
+          "js/scripts.js",
+          "assets/img/bg-masthead.jpg"
         ]
       }
     ]

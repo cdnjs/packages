@@ -22,6 +22,12 @@
         "files": [
           "rusha.!(sweet*)"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "rusha*.js"
+        ]
       }
     ]
   },

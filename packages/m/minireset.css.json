@@ -23,6 +23,13 @@
         "files": [
           "minireset*+!(.sass)"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "minireset.css",
+          "minireset.min.css"
+        ]
       }
     ]
   },

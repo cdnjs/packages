@@ -26,6 +26,13 @@
         "files": [
           "**/!(package.js)"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*.mjs"
+        ]
       }
     ]
   },

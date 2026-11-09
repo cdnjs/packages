@@ -21,6 +21,13 @@
         "files": [
           "**/*"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "i18nextLocizeBackend*.js",
+          "i18nextLocizeBackend*.map"
+        ]
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "name": "scrollmonitor",
-  "filename": "scrollMonitor.js",
+  "filename": "index.js",
   "description": "A simple and fast API to monitor elements as you scroll ",
   "repository": {
     "type": "git",
@@ -20,6 +20,13 @@
         "basePath": "",
         "files": [
           "scrollMonitor.js?(.map)"
+        ]
+      },
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "*.js",
+          "*.js.map"
         ]
       }
     ]

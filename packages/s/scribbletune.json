@@ -1,7 +1,7 @@
 {
   "name": "scribbletune",
   "description": "Scribbletune is a JavaScript library that helps you construct musical ideas with JavaScript String & Array functions and export them as MIDI files.",
-  "filename": "scribbletune.js",
+  "filename": "scribbletune.global.js",
   "homepage": "https://scribbletune.com/",
   "license": "MIT",
   "repository": {
@@ -25,7 +25,11 @@
       {
         "basePath": "dist",
         "files": [
-          "scribbletune.js"
+          "scribbletune.js",
+          "browser.js",
+          "browser.js.map",
+          "scribbletune.global.js",
+          "scribbletune.global.js.map"
         ]
       }
     ]

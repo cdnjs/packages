@@ -21,6 +21,20 @@
         "files": [
           "*basictable*.+(js|css|map)"
         ]
+      },
+      {
+        "basePath": "dist/js",
+        "files": [
+          "*basictable*.js",
+          "*basictable*.map"
+        ]
+      },
+      {
+        "basePath": "dist/css",
+        "files": [
+          "*basictable*.css",
+          "*basictable*.map"
+        ]
       }
     ]
   },

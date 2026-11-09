@@ -20,6 +20,14 @@
         "files": [
           "**/overpass*"
         ]
+      },
+      {
+        "basePath": "Webfonts",
+        "files": [
+          "**/*.eot",
+          "**/*.woff",
+          "**/*.woff2"
+        ]
       }
     ]
   },

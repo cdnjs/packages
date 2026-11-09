@@ -34,8 +34,17 @@
         "files": [
           "*.css"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.js",
+          "**/*.css",
+          "**/*.js.map",
+          "**/*.css.map"
+        ]
       }
     ]
   },
-  "filename": "mapbox-gl-export.js"
+  "filename": "mapbox-gl-export.umd.js"
 }

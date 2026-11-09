@@ -26,8 +26,15 @@
         "files": [
           "bundle*.js"
         ]
+      },
+      {
+        "basePath": "esm",
+        "files": [
+          "**/*.js",
+          "**/*.js.map"
+        ]
       }
     ]
   },
-  "filename": "bundle.browser.min.js"
+  "filename": "index.js"
 }

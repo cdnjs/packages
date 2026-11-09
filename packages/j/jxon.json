@@ -1,7 +1,7 @@
 {
   "name": "jxon",
   "description": "A complete, bidirectional, JXON library",
-  "filename": "index.min.js",
+  "filename": "jxon.min.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/tyrasd/JXON.git"
@@ -30,6 +30,13 @@
         "basePath": "",
         "files": [
           "index.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "jxon.js",
+          "jxon.min.js"
         ]
       }
     ]

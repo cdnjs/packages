@@ -27,6 +27,13 @@
     "target": "@azure/storage-blob",
     "fileMap": [
       {
+        "basePath": "dist/browser",
+        "files": [
+          "**/*.js",
+          "**/*.js.map"
+        ]
+      },
+      {
         "basePath": "dist",
         "files": [
           "*.js"

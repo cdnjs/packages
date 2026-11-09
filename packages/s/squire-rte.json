@@ -24,6 +24,15 @@
         "files": [
           "**/!(*.html)"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "squire*.js",
+          "squire*.mjs",
+          "squire*.js.map",
+          "squire*.mjs.map"
+        ]
       }
     ]
   },

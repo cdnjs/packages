@@ -1,6 +1,6 @@
 {
   "name": "react-sortable-hoc",
-  "filename": "react-sortable-hoc.min.js",
+  "filename": "react-sortable-hoc.umd.min.js",
   "description": "Set of higher-order components to turn any list into a sortable, touch-friendly, animated list",
   "license": "MIT",
   "repository": {
@@ -37,6 +37,13 @@
         "basePath": "dist/umd",
         "files": [
           "**/*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "react-sortable-hoc.umd.js",
+          "react-sortable-hoc.umd.min.js"
         ]
       }
     ]

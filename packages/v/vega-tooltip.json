@@ -1,6 +1,6 @@
 {
   "name": "vega-tooltip",
-  "filename": "vega-tooltip.min.js",
+  "filename": "index.js",
   "description": "A tooltip plugin for Vega-lite and Vega visualizations.",
   "repository": {
     "type": "git",
@@ -20,6 +20,13 @@
         "basePath": "build",
         "files": [
           "**/vega-tooltip*.+(js|css|map)"
+        ]
+      },
+      {
+        "basePath": "build",
+        "files": [
+          "index.js",
+          "index.js.map"
         ]
       }
     ],

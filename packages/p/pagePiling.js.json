@@ -23,6 +23,14 @@
         "files": [
           "**/*"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "jquery.pagepiling.js",
+          "jquery.pagepiling.min.js",
+          "jquery.pagepiling.css"
+        ]
       }
     ]
   },

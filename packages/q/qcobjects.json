@@ -51,6 +51,13 @@
         "files": [
           "QCObjects.js"
         ]
+      },
+      {
+        "basePath": "public/browser",
+        "files": [
+          "QCObjects.js",
+          "QCObjects.js.map"
+        ]
       }
     ]
   },

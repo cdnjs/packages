@@ -25,10 +25,17 @@
         "files": [
           "*.js"
         ]
+      },
+      {
+        "basePath": "dist/src",
+        "files": [
+          "**/*.js",
+          "**/*.js.map"
+        ]
       }
     ]
   },
-  "filename": "wikibase-sdk.min.js",
+  "filename": "index.js",
   "authors": [
     {
       "name": "maxlath"

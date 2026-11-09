@@ -21,10 +21,21 @@
         "files": [
           "**/*"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "*.css",
+          "misc/**/*.css",
+          "Round-Dots/**/*.css",
+          "fonts/webfonts/*.woff2",
+          "misc/**/fonts/webfonts/*.woff2",
+          "Round-Dots/**/fonts/webfonts/*.woff2"
+        ]
       }
     ]
   },
-  "filename": "font-face.css",
+  "filename": "Vazirmatn-font-face.css",
   "authors": [
     {
       "name": "Behnood Khani",

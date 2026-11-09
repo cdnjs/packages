@@ -36,8 +36,14 @@
         "files": [
           "*.js"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.js"
+        ]
       }
     ]
   },
-  "filename": "simpleParallax.min.js"
+  "filename": "vanilla/simpleParallaxVanilla.umd.js"
 }

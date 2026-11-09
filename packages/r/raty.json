@@ -15,7 +15,7 @@
     "voto"
   ],
   "license": "MIT",
-  "filename": "jquery.raty.min.js",
+  "filename": "raty.min.js",
   "name": "raty",
   "repository": {
     "type": "git",
@@ -29,6 +29,22 @@
         "basePath": "lib",
         "files": [
           "**/*"
+        ]
+      },
+      {
+        "basePath": "build",
+        "files": [
+          "raty.js",
+          "raty.min.js",
+          "raty.umd.min.js"
+        ]
+      },
+      {
+        "basePath": "src",
+        "files": [
+          "raty.css",
+          "fonts/*",
+          "images/*.png"
         ]
       }
     ]

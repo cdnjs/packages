@@ -1,6 +1,6 @@
 {
   "name": "mistic100-Bootstrap-Confirmation",
-  "filename": "bootstrap-confirmation.min.js",
+  "filename": "bootstrap-confirmation.js",
   "homepage": "https://mistic100.github.io/Bootstrap-Confirmation",
   "description": "Bootstrap plugin for on-place confirm boxes using Popover",
   "keywords": [
@@ -20,6 +20,13 @@
         "basePath": "",
         "files": [
           "bootstrap-confirmation*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "bootstrap-confirmation*.js",
+          "bootstrap-confirmation*.js.map"
         ]
       }
     ]

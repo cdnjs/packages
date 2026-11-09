@@ -1,6 +1,6 @@
 {
   "name": "codemirror",
-  "filename": "codemirror.min.js",
+  "filename": "index.js",
   "description": "In-browser code editing made bearable",
   "keywords": [
     "JavaScript",
@@ -27,6 +27,12 @@
         "basePath": "",
         "files": [
           "+(addon|theme|mode|keymap)/**/*.+(js|css)"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "index.js"
         ]
       }
     ],

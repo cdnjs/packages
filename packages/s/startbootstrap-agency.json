@@ -1,6 +1,6 @@
 {
   "name": "startbootstrap-agency",
-  "filename": "js/agency.min.js",
+  "filename": "js/scripts.js",
   "homepage": "https://startbootstrap.com/template-overviews/agency/",
   "description": "A one page HTML theme for agencies created by Start Bootstrap",
   "keywords": [
@@ -19,6 +19,15 @@
           "js/agency.min.js",
           "css/agency.css",
           "css/agency.min.css"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "css/styles.css",
+          "js/scripts.js",
+          "assets/img/header-bg.jpg",
+          "assets/img/map-image.png"
         ]
       }
     ]

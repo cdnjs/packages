@@ -1,6 +1,6 @@
 {
   "name": "micromustache",
-  "filename": "micromustache.min.js",
+  "filename": "micromustache.umd.min.js",
   "description": "A faster and smaller subimplementation of the {{mustache}} template engine for JavaScript",
   "keywords": [
     "template",
@@ -23,6 +23,15 @@
         "basePath": "browser",
         "files": [
           "**/*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "micromustache.umd.js",
+          "micromustache.umd.min.js",
+          "micromustache.umd.js.map",
+          "micromustache.umd.min.js.map"
         ]
       }
     ]

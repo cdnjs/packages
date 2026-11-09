@@ -36,6 +36,13 @@
         "files": [
           "**/*"
         ]
+      },
+      {
+        "basePath": "dist/dist/standalone",
+        "files": [
+          "autosuggest.js",
+          "autosuggest.min.js"
+        ]
       }
     ]
   },

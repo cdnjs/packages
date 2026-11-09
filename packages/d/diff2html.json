@@ -33,6 +33,18 @@
         "files": [
           "**/*"
         ]
+      },
+      {
+        "basePath": "bundles/js",
+        "files": [
+          "*.min.js"
+        ]
+      },
+      {
+        "basePath": "bundles/css",
+        "files": [
+          "*.min.css"
+        ]
       }
     ]
   },

@@ -26,6 +26,13 @@
         "files": [
           "**/*.!(html)"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "jquery.datepick*.js",
+          "*.css"
+        ]
       }
     ]
   },

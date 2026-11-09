@@ -25,6 +25,13 @@
         "files": [
           "**/*"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "jquery.livequery.js",
+          "jquery.livequery.min.js"
+        ]
       }
     ]
   },

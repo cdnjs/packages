@@ -1,6 +1,6 @@
 {
   "name": "postal.js",
-  "filename": "postal.min.js",
+  "filename": "index.mjs",
   "description": "Pub/Sub library providing wildcard subscriptions, complex message handling, etc.  Works server and client-side.",
   "repository": {
     "type": "git",
@@ -32,6 +32,13 @@
           "basic/postal.basic.min.js",
           "strategies-add-on/postal.strategies.js",
           "strategies-add-on/postal.strategies.min.js"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "index.mjs",
+          "index.mjs.map"
         ]
       }
     ]

@@ -1,6 +1,6 @@
 {
   "name": "esprima",
-  "filename": "esprima.min.js",
+  "filename": "esprima.js",
   "description": "ECMAScript parsing infrastructure for multipurpose analysis",
   "homepage": "http://esprima.org",
   "repository": {
@@ -23,6 +23,12 @@
         "basePath": "",
         "files": [
           "esprima*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "esprima.js"
         ]
       }
     ]

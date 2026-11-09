@@ -22,6 +22,16 @@
       {
         "basePath": "",
         "files": [
+          "contrib.js",
+          "contrib.src.js",
+          "contrib-common.js",
+          "contrib-common.src.js",
+          "contrib-es6.src.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
           "contrib+(-common*|-es6*|.src|).js"
         ]
       }

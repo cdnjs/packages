@@ -28,6 +28,14 @@
         "files": [
           "**/*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "js/**/*",
+          "assets/**/*",
+          "images/**/*"
+        ]
       }
     ]
   },

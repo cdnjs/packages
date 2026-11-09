@@ -1,6 +1,6 @@
 {
   "name": "dio",
-  "filename": "dio.min.js",
+  "filename": "umd.min.js",
   "description": "Dio is a lightweight (~7kb) feature rich Virtual DOM framework",
   "homepage": "https://thysultan.com/dio",
   "license": "MIT",
@@ -28,6 +28,17 @@
         "basePath": "",
         "files": [
           "dio!(.server)*.+(js|css|map)"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "umd.js",
+          "umd.min.js",
+          "umd.min.js.map",
+          "esm.js",
+          "esm.min.js",
+          "esm.min.js.map"
         ]
       }
     ]

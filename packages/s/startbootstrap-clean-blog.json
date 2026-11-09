@@ -1,6 +1,6 @@
 {
   "name": "startbootstrap-clean-blog",
-  "filename": "js/clean-blog.min.js",
+  "filename": "js/scripts.js",
   "homepage": "https://startbootstrap.com/template-overviews/clean-blog/",
   "description": "A clean Bootstrap blog theme created by Start Bootstrap",
   "keywords": [
@@ -19,6 +19,13 @@
           "js/clean-blog.min.js",
           "css/clean-blog.css",
           "css/clean-blog.min.css"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "css/styles.css",
+          "js/scripts.js"
         ]
       }
     ]

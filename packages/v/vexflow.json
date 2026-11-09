@@ -1,6 +1,6 @@
 {
   "name": "vexflow",
-  "filename": "vexflow-min.js",
+  "filename": "vexflow.js",
   "description": "A JavaScript library for rendering music notation and guitar tablature",
   "repository": {
     "type": "git",
@@ -28,6 +28,20 @@
         "basePath": "lib",
         "files": [
           "vexflow*"
+        ]
+      },
+      {
+        "basePath": "build/esm",
+        "files": [
+          "entry/vexflow.js",
+          "src/**/*.js"
+        ]
+      },
+      {
+        "basePath": "build/cjs",
+        "files": [
+          "vexflow!(*tests*).js",
+          "vexflow!(*tests*).js.map"
         ]
       }
     ]

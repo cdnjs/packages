@@ -1,6 +1,6 @@
 {
   "description": "A React UI toolkit for the web.",
-  "filename": "core.bundle.js",
+  "filename": "index.js",
   "homepage": "http://blueprintjs.com/",
   "keywords": [
     "palantir",
@@ -20,6 +20,18 @@
     "source": "npm",
     "target": "@blueprintjs/core",
     "fileMap": [
+      {
+        "basePath": "lib/esm",
+        "files": [
+          "**/*.js"
+        ]
+      },
+      {
+        "basePath": "lib/css",
+        "files": [
+          "*.css"
+        ]
+      },
       {
         "basePath": "dist",
         "files": [

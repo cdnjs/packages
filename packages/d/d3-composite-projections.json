@@ -21,6 +21,13 @@
         "files": [
           "**/*"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "d3-composite-projections.js",
+          "d3-composite-projections.min.js"
+        ]
       }
     ]
   },

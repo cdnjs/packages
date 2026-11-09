@@ -32,6 +32,13 @@
         "files": [
           "**/*.!(html)"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "xss*.js",
+          "xss*.map"
+        ]
       }
     ]
   },

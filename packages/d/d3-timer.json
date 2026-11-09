@@ -27,6 +27,13 @@
         "files": [
           "**/*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "*.mjs"
+        ]
       }
     ]
   },

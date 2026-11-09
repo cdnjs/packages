@@ -20,8 +20,8 @@
       {
         "basePath": "js",
         "files": [
-          "/minitranslate.js",
-          "/minitranslate.min.js"
+          "minitranslate.js",
+          "minitranslate.min.js"
         ]
       }
     ]

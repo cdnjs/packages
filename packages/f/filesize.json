@@ -1,6 +1,6 @@
 {
   "name": "filesize",
-  "filename": "filesize.min.js",
+  "filename": "filesize.umd.min.js",
   "description": "JavaScript library to generate a human readable String describing the file size",
   "homepage": "https://filesizejs.com/",
   "keywords": [
@@ -25,6 +25,13 @@
         "basePath": "lib",
         "files": [
           "filesize*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "filesize*.js",
+          "filesize*.js.map"
         ]
       }
     ]

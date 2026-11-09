@@ -26,6 +26,12 @@
         "files": [
           "jquery.ripples*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "jquery.ripples*.js"
+        ]
       }
     ]
   },

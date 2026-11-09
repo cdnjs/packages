@@ -1,6 +1,6 @@
 {
   "name": "autolinker",
-  "filename": "Autolinker.min.js",
+  "filename": "autolinker.min.js",
   "description": "Utility to automatically link the URLs, email addresses, and Twitter handles in a given block of text/HTML",
   "repository": {
     "type": "git",
@@ -19,6 +19,13 @@
     "source": "npm",
     "target": "autolinker",
     "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "autolinker*.js",
+          "autolinker*.js.map"
+        ]
+      },
       {
         "basePath": "dist",
         "files": [

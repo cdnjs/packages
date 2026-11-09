@@ -24,6 +24,13 @@
         "files": [
           "**/*.+(!ts)"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "js-data-http*.js",
+          "js-data-http*.map"
+        ]
       }
     ]
   },

@@ -20,6 +20,12 @@
         "files": [
           "js/**/multiselect*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "js/**/multiselect*"
+        ]
       }
     ]
   },

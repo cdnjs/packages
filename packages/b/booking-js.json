@@ -12,6 +12,13 @@
     "target": "git://github.com/timekit-io/booking-js.git",
     "fileMap": [
       {
+        "basePath": "public/build",
+        "files": [
+          "*.js",
+          "*.css"
+        ]
+      },
+      {
         "basePath": "dist",
         "files": [
           "**/*"

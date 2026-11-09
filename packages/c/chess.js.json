@@ -5,7 +5,7 @@
   "keywords": [
     "chess"
   ],
-  "filename": "chess.min.js",
+  "filename": "chess.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/jhlywa/chess.js.git"
@@ -14,6 +14,13 @@
     "source": "npm",
     "target": "chess.js",
     "fileMap": [
+      {
+        "basePath": "dist/esm",
+        "files": [
+          "chess.js",
+          "chess.js.map"
+        ]
+      },
       {
         "basePath": "",
         "files": [

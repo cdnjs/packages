@@ -1,6 +1,6 @@
 {
   "name": "photo-editor",
-  "filename": "js/main.js",
+  "filename": "main.js",
   "description": "A photo editing application based on the Cropper.js",
   "license": "MIT",
   "repository": {
@@ -29,6 +29,12 @@
         "basePath": "",
         "files": [
           "+(js|css)/main*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "main.js"
         ]
       }
     ]

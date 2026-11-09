@@ -22,6 +22,12 @@
         "files": [
           "**/*"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "grd.css"
+        ]
       }
     ]
   },

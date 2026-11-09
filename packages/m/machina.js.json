@@ -1,6 +1,6 @@
 {
   "name": "machina.js",
-  "filename": "machina.min.js",
+  "filename": "index.mjs",
   "description": "A library for creating powerful and flexible finite state machines. Loosely inspired by Erlang/OTP's gen_fsm behavior.",
   "homepage": "http://machina-js.org/",
   "repository": {
@@ -29,6 +29,13 @@
         "files": [
           "machina.js",
           "machina.min.js"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "*.mjs",
+          "*.mjs.map"
         ]
       }
     ]

@@ -23,6 +23,13 @@
         "files": [
           "**/*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "gifshot.js",
+          "gifshot.min.js"
+        ]
       }
     ]
   },

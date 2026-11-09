@@ -1,6 +1,6 @@
 {
   "name": "cookie.js",
-  "filename": "cookie.min.js",
+  "filename": "cookie.umd.min.js",
   "description": "A tiny JavaScript library that simplifies cookies.",
   "keywords": [
     "cookie",
@@ -19,6 +19,13 @@
         "basePath": "",
         "files": [
           "cookie*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "cookie.umd.js",
+          "cookie.umd.min.js"
         ]
       }
     ]

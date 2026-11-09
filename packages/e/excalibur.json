@@ -25,6 +25,15 @@
         "files": [
           "**/*.@(js|css|ts|map)"
         ]
+      },
+      {
+        "basePath": "build/esm",
+        "files": [
+          "excalibur.js",
+          "excalibur.min.js",
+          "excalibur.development.js",
+          "excalibur.min.development.js"
+        ]
       }
     ]
   },

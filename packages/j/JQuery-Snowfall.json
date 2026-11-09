@@ -21,6 +21,12 @@
         "files": [
           "*"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "snowfall*.js"
+        ]
       }
     ]
   },

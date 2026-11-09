@@ -26,8 +26,15 @@
           "*.js",
           "**/*.d.ts"
         ]
+      },
+      {
+        "basePath": "lib",
+        "files": [
+          "*.js",
+          "types/**/*.d.ts"
+        ]
       }
     ]
   },
-  "filename": "index.js"
+  "filename": "proton-web-sdk.bundle.js"
 }

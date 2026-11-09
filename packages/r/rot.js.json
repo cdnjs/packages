@@ -31,6 +31,12 @@
         "files": [
           "rot*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "rot*.js"
+        ]
       }
     ]
   },

@@ -28,8 +28,15 @@
         "files": [
           "*.js"
         ]
+      },
+      {
+        "basePath": "build/npm/esm/prod",
+        "files": [
+          "**/*.js",
+          "**/*.js.map"
+        ]
       }
     ]
   },
-  "filename": "bundle.min.js"
+  "filename": "index.js"
 }

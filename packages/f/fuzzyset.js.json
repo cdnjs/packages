@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/Glench/fuzzyset.js.git"
   },
-  "filename": "fuzzyset.min.js",
+  "filename": "fuzzyset.js",
   "keywords": [
     "akin",
     "search",
@@ -21,6 +21,13 @@
         "basePath": "lib",
         "files": [
           "fuzzyset*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "fuzzyset.js",
+          "fuzzyset.esm.js"
         ]
       }
     ]

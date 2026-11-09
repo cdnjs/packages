@@ -1,6 +1,6 @@
 {
   "name": "tauCharts",
-  "filename": "tauCharts.min.js",
+  "filename": "taucharts.min.js",
   "description": "D3 based data-focused charting library",
   "keywords": [
     "d3",
@@ -17,6 +17,12 @@
     "fileMap": [
       {
         "basePath": "build/production",
+        "files": [
+          "**/*"
+        ]
+      },
+      {
+        "basePath": "dist",
         "files": [
           "**/*"
         ]

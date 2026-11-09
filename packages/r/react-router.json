@@ -1,6 +1,6 @@
 {
   "name": "react-router",
-  "filename": "react-router.production.min.js",
+  "filename": "index.js",
   "description": "A complete routing library for React.js",
   "keywords": [
     "react",
@@ -30,6 +30,13 @@
         "basePath": "dist/umd",
         "files": [
           "*.js?(.map)"
+        ]
+      },
+      {
+        "basePath": "dist/production",
+        "files": [
+          "**/!(index-react-server).js",
+          "index-react-server-client.js"
         ]
       }
     ]

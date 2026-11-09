@@ -1,6 +1,6 @@
 {
   "name": "iNotify",
-  "filename": "iNotify.min.js",
+  "filename": "notify.min.js",
   "description": "JS achieve the browser title flashing , scrolling, voice prompts , chrome notice.",
   "repository": {
     "type": "git",
@@ -36,6 +36,13 @@
         "basePath": "src",
         "files": [
           "iNotify*.+(js|css|map)"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "notify*.js",
+          "notify*.map"
         ]
       }
     ]

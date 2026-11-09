@@ -1,6 +1,6 @@
 {
   "name": "d3fc",
-  "filename": "d3fc.bundle.min.js",
+  "filename": "d3fc.min.js",
   "description": "A collection of components that make it easy to build interactive charts with D3",
   "repository": {
     "type": "git",
@@ -22,6 +22,13 @@
         "basePath": "dist",
         "files": [
           "**/*.+(css|js|map)"
+        ]
+      },
+      {
+        "basePath": "build",
+        "files": [
+          "d3fc.js",
+          "d3fc.min.js"
         ]
       }
     ]

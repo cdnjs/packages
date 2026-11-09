@@ -20,6 +20,13 @@
         "files": [
           "instafeed*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "instafeed*.js",
+          "instafeed*.map"
+        ]
       }
     ]
   },
