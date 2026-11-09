@@ -12,24 +12,6 @@
     "multiselect"
   ],
   "license": "MIT",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/myforce/angularjs-dropdown-multiselect.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
-        "basePath": "src",
-        "files": [
-          "angularjs-dropdown-multiselect*"
-        ]
-      }
-    ]
-  },
   "authors": [
     {
       "name": "pkempenaers@myforce.be"

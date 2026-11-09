@@ -20,17 +20,5 @@
     "videojs",
     "thumbnails"
   ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/brightcove/videojs-thumbnails.git",
-    "fileMap": [
-      {
-        "basePath": "",
-        "files": [
-          "videojs.thumbnails*"
-        ]
-      }
-    ]
-  },
   "license": "Apache-2.0"
 }

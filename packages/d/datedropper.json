@@ -12,19 +12,6 @@
     "datepicker"
   ],
   "license": "MIT",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/felicegattuso/datedropper.git",
-    "fileMap": [
-      {
-        "basePath": "",
-        "files": [
-          "datedropper*",
-          "dd-icon/dd-icon*"
-        ]
-      }
-    ]
-  },
   "authors": [
     {
       "name": "Felice Gattuso"

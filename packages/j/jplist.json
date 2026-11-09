@@ -17,18 +17,6 @@
     "url": "https://github.com/no81no/jplist"
   },
   "license": "MIT",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/no81no/jplist.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*.+(css|js|map)"
-        ]
-      }
-    ]
-  },
   "authors": [
     {
       "name": "Miriam Zusin",

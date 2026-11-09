@@ -10,23 +10,6 @@
     "connected",
     "client"
   ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/mojio/mojio-js.git",
-    "fileMap": [
-      {
-        "basePath": "dist/cdn",
-        "files": [
-          "*.js"
-        ]
-      }
-    ],
-    "ignoreVersions": [
-      "connery",
-      "oauth-token",
-      "robb"
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mojio/mojio-js"

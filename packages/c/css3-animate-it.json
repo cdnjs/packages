@@ -14,18 +14,6 @@
   },
   "license": "MIT",
   "homepage": "http://jackonthe.net/css3animateit/",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/Jack-McCourt/css3-animate-it.git",
-    "fileMap": [
-      {
-        "basePath": "",
-        "files": [
-          "+(js|css)/+(css3-animate-it|animations)*"
-        ]
-      }
-    ]
-  },
   "authors": [
     {
       "name": "Jack McCourt",

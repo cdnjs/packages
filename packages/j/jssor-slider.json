@@ -30,17 +30,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jssor/slider.git"
-  },
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/jssor/slider.git",
-    "fileMap": [
-      {
-        "basePath": "js",
-        "files": [
-          "jssor*.js"
-        ]
-      }
-    ]
   }
 }

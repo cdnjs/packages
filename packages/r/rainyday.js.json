@@ -13,18 +13,6 @@
     "type": "git",
     "url": "git://github.com/maroslaw/rainyday.js.git"
   },
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/maroslaw/rainyday.js.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "*"
-        ]
-      }
-    ]
-  },
   "authors": [
     {
       "name": "Marek Brodziak",
