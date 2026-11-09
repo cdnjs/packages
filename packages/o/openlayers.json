@@ -17,6 +17,9 @@
   "autoupdate": {
     "source": "npm",
     "target": "ol",
+    "ignoreVersions": [
+      "*-dev.*"
+    ],
     "fileMap": [
       {
         "basePath": "",

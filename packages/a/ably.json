@@ -20,9 +20,10 @@
     "target": "ably",
     "fileMap": [
       {
-        "basePath": "browser/static",
+        "basePath": "build",
         "files": [
-          "*.js"
+          "ably?(.min).js",
+          "*.umd?(.min).js"
         ]
       }
     ]

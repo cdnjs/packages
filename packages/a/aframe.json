@@ -1,6 +1,5 @@
 {
   "name": "aframe",
-  "filename": "aframe.min.js",
   "description": "Building blocks for the VR Web",
   "repository": {
     "type": "git",
@@ -23,7 +22,8 @@
       {
         "basePath": "dist",
         "files": [
-          "**/aframe?(.min).js?(.map)"
+          "**/aframe?(.min).js?(.map)",
+          "**/aframe-v+([0-9.])?(.min).js?(.map)"
         ]
       }
     ]
