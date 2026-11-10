@@ -14,24 +14,6 @@
     "type": "git",
     "url": "git+https://github.com/museui/muse-ui.git"
   },
-  "autoupdate": {
-    "source": "npm",
-    "target": "muse-ui",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "*.@(js|css)"
-        ]
-      },
-      {
-        "basePath": "",
-        "files": [
-          "types/*.ts"
-        ]
-      }
-    ]
-  },
   "filename": "muse-ui.common.js",
   "authors": [
     {
