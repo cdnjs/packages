@@ -1,6 +1,6 @@
 {
   "name": "shell.js",
-  "filename": "js/shell.min.js",
+  "filename": "shell.min.js",
   "description": "A JavaScript and CSS library to create terminals",
   "license": "MIT",
   "keywords": [
@@ -16,13 +16,19 @@
     "url": "https://github.com/davidecaruso/shell.js.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/davidecaruso/shell.js.git",
+    "source": "npm",
+    "target": "shell.js",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
           "**/*"
+        ]
+      },
+      {
+        "basePath": "lib",
+        "files": [
+          "shell*.js"
         ]
       }
     ]

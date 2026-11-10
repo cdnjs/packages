@@ -13,13 +13,19 @@
   },
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "https://github.com/wangfupeng1988/wangEditor.git",
+    "source": "npm",
+    "target": "wangeditor",
     "fileMap": [
       {
         "basePath": "release",
         "files": [
           "**/*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "wangEditor*.js*"
         ]
       }
     ]

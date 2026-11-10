@@ -12,10 +12,10 @@
     "type": "git",
     "url": "git://github.com/nodeca/pako.git"
   },
-  "filename": "pako.min.js",
+  "filename": "browser/pako.umd.min.js",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/nodeca/pako.git",
+    "source": "npm",
+    "target": "pako",
     "fileMap": [
       {
         "basePath": "dist",

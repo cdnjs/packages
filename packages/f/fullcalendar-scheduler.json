@@ -1,6 +1,6 @@
 {
   "name": "fullcalendar-scheduler",
-  "filename": "scheduler.min.js",
+  "filename": "all/global.min.js",
   "description": "A premium add-on to FullCalendar for displaying events and resources",
   "homepage": "https://fullcalendar.io/scheduler/",
   "repository": {
@@ -14,13 +14,20 @@
     "jquery-plugin"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/fullcalendar/fullcalendar-scheduler.git",
+    "source": "npm",
+    "target": "fullcalendar-scheduler",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
           "**/!(*.ts)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "all/global.js",
+          "index.global*.js"
         ]
       }
     ]

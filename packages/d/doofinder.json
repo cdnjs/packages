@@ -11,13 +11,19 @@
   ],
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/doofinder/js-doofinder.git",
+    "source": "npm",
+    "target": "doofinder",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
           "**/*"
+        ]
+      },
+      {
+        "basePath": "browser",
+        "files": [
+          "doofinder*.js"
         ]
       }
     ]

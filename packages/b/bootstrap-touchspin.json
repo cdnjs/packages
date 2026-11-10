@@ -6,7 +6,7 @@
     "url": "https://github.com/istvan-ujjmeszaros/bootstrap-touchspin.git"
   },
   "homepage": "http://www.virtuosoft.eu/code/bootstrap-touchspin/",
-  "filename": "jquery.bootstrap-touchspin.min.js",
+  "filename": "jquery.touchspin-bootstrap5.umd.min.js",
   "keywords": [
     "bootstrap",
     "touchspin",
@@ -14,8 +14,8 @@
   ],
   "license": "Apache-2.0",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/istvan-ujjmeszaros/bootstrap-touchspin.git",
+    "source": "npm",
+    "target": "bootstrap-touchspin",
     "fileMap": [
       {
         "basePath": "dist",

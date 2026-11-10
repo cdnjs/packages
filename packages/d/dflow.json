@@ -13,13 +13,19 @@
     "visual"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/fibo/dflow.git",
+    "source": "npm",
+    "target": "dflow",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
           "**/*"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "dflow.js"
         ]
       }
     ]

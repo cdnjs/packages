@@ -1,6 +1,6 @@
 {
   "name": "markdown-it",
-  "filename": "markdown-it.min.js",
+  "filename": "markdown-it.umd.min.js",
   "description": "Markdown-it - modern pluggable markdown parser.",
   "keywords": [
     "markdown",
@@ -15,13 +15,20 @@
   },
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/markdown-it/markdown-it.git",
+    "source": "npm",
+    "target": "markdown-it",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
           "*"
+        ]
+      },
+      {
+        "basePath": "dist/browser",
+        "files": [
+          "markdown-it.umd.min.js",
+          "markdown-it.umd.min.js.map"
         ]
       }
     ]
