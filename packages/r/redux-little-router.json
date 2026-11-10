@@ -13,8 +13,8 @@
   ],
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/FormidableLabs/redux-little-router.git",
+    "source": "npm",
+    "target": "redux-little-router",
     "fileMap": [
       {
         "basePath": "dist",

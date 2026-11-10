@@ -17,8 +17,8 @@
     "url": "git+https://github.com/Copay/cPlayer.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/Copay/cPlayer.git",
+    "source": "npm",
+    "target": "cplayer",
     "fileMap": [
       {
         "basePath": "dist",

@@ -16,8 +16,8 @@
     "textarea"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/zenoamaro/react-quill.git",
+    "source": "npm",
+    "target": "react-quill",
     "fileMap": [
       {
         "basePath": "dist",

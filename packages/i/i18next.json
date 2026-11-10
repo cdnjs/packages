@@ -14,8 +14,8 @@
     "url": "https://github.com/i18next/i18next.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/i18next/i18next.git",
+    "source": "npm",
+    "target": "i18next",
     "fileMap": [
       {
         "basePath": "",

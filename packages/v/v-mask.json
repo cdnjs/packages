@@ -14,8 +14,8 @@
   "homepage": "https://rawgit.com/probil/v-mask--demo/master/dist/index.html",
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/probil/v-mask.git",
+    "source": "npm",
+    "target": "v-mask",
     "fileMap": [
       {
         "basePath": "dist",

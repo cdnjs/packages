@@ -14,8 +14,8 @@
   ],
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/jaysalvat/vegas.git",
+    "source": "npm",
+    "target": "vegas",
     "fileMap": [
       {
         "basePath": "dist",

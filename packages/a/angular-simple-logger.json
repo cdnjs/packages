@@ -15,8 +15,8 @@
   ],
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/nmccready/angular-simple-logger.git",
+    "source": "npm",
+    "target": "angular-simple-logger",
     "fileMap": [
       {
         "basePath": "dist",

@@ -16,8 +16,8 @@
     "url": "https://github.com/BenjaminVanRyseghem/numbro"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/BenjaminVanRyseghem/numbro.git",
+    "source": "npm",
+    "target": "numbro",
     "fileMap": [
       {
         "basePath": "dist",

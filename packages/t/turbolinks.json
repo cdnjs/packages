@@ -14,8 +14,8 @@
     "url": "https://github.com/turbolinks/turbolinks.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/turbolinks/turbolinks.git",
+    "source": "npm",
+    "target": "turbolinks",
     "fileMap": [
       {
         "basePath": "dist",
