@@ -21,15 +21,18 @@
     "target": "sip.js",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "*.js"
-        ]
-      },
-      {
         "basePath": "lib",
         "files": [
-          "**/*.js"
+          "*.js",
+          "api/*.js",
+          "api/exceptions/*.js",
+          "core/*.js",
+          "core/*/*.js",
+          "core/messages/methods/*.js",
+          "grammar/*.js",
+          "grammar/pegjs/dist/*.js",
+          "platform/web/*.js",
+          "platform/web/*/*.js"
         ]
       }
     ]

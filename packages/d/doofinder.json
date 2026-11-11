@@ -15,12 +15,6 @@
     "target": "doofinder",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "browser",
         "files": [
           "doofinder*.js"

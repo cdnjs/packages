@@ -24,22 +24,12 @@
     "target": "intl-tel-input",
     "fileMap": [
       {
-        "basePath": "",
-        "files": [
-          "build/css/*.css",
-          "build/js/*.@(js|d.ts)",
-          "build/js/i18n/{,*/}*.js",
-          "build/img/*.@(webp|png)",
-          "react/build/*.@(js|d.ts|cjs)",
-          "vue/build/*.@(js|mjs|d.ts|cjs)"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "css/*.css",
           "js/*.js",
-          "js/locale/**/*.js",
+          "js/locale/*.js",
+          "js/locale/country-names/*.js",
           "img/*.@(webp|png)"
         ]
       }

@@ -20,12 +20,6 @@
     "target": "shell.js",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "lib",
         "files": [
           "shell*.js"

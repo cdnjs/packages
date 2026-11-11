@@ -34,12 +34,6 @@
     "target": "framework7",
     "fileMap": [
       {
-        "basePath": "packages/core",
-        "files": [
-          "**/framework7!(.module|.modular|.esm|.less)*"
-        ]
-      },
-      {
         "basePath": "",
         "files": [
           "framework7-bundle.min.js",

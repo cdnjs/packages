@@ -19,15 +19,11 @@
     "target": "multiple-select",
     "fileMap": [
       {
-        "basePath": "",
-        "files": [
-          "multiple-select*.+(js|css|map|png)"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(css|js)",
+          "themes/*.css",
+          "locale/*.js"
         ]
       }
     ]
