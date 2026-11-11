@@ -22,12 +22,6 @@
           "angular-datatables.mjs",
           "angular-datatables.mjs.map"
         ]
-      },
-      {
-        "basePath": "dist",
-        "files": [
-          "**/!(*.ts)"
-        ]
       }
     ]
   },

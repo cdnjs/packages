@@ -24,18 +24,6 @@
     "target": "jimp",
     "fileMap": [
       {
-        "basePath": "browser/lib",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
-        "basePath": "",
-        "files": [
-          "jimp.+(js|min|map)"
-        ]
-      },
-      {
         "basePath": "dist/browser",
         "files": [
           "*.js",

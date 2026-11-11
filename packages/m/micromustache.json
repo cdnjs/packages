@@ -20,12 +20,6 @@
     "target": "micromustache",
     "fileMap": [
       {
-        "basePath": "browser",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "micromustache.umd.js",

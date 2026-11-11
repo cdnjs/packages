@@ -20,12 +20,6 @@
     "target": "gyrejs",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "lib",
         "files": [
           "main.js",

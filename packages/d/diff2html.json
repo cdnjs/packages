@@ -29,12 +29,6 @@
     "target": "diff2html",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "bundles/js",
         "files": [
           "*.min.js"

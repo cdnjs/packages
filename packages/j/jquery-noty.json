@@ -19,17 +19,12 @@
     "target": "noty",
     "fileMap": [
       {
-        "basePath": "js/noty",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "lib",
         "files": [
-          "**/*.js",
-          "**/*.css",
-          "**/*.map"
+          "*.js",
+          "*.css",
+          "*.map",
+          "themes/*.css"
         ]
       }
     ]

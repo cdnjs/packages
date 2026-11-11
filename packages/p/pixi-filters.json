@@ -28,12 +28,6 @@
     "target": "pixi-filters",
     "fileMap": [
       {
-        "basePath": "bin",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "pixi-filters.js",

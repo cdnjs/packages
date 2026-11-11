@@ -19,12 +19,6 @@
     "target": "embla-carousel",
     "fileMap": [
       {
-        "basePath": "lib",
-        "files": [
-          "**/*.@(js|ts)"
-        ]
-      },
-      {
         "basePath": "",
         "files": [
           "embla-carousel.umd.js",

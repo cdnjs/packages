@@ -1,6 +1,6 @@
 {
   "name": "html5media",
-  "filename": "1.2.1/html5media.min.js",
+  "filename": "html5media.min.js",
   "description": "html5media enables <video> and <audio> tags in all major browsers",
   "homepage": "http://html5media.info/",
   "keywords": [
@@ -23,13 +23,6 @@
     "source": "npm",
     "target": "html5media",
     "fileMap": [
-      {
-        "basePath": "dist/api",
-        "files": [
-          "**/*.js",
-          "**/*.swf"
-        ]
-      },
       {
         "basePath": "dist/api",
         "files": [

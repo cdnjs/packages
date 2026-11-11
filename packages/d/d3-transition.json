@@ -20,12 +20,6 @@
     "target": "d3-transition",
     "fileMap": [
       {
-        "basePath": "build",
-        "files": [
-          "**/!(package.js|version.js)"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "*.js",

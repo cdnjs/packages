@@ -20,16 +20,10 @@
     "target": "@pnp/logging",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/!(*.ts)"
-        ]
-      },
-      {
         "basePath": "",
         "files": [
-          "**/*.js",
-          "**/*.js.map"
+          "*.js",
+          "*.js.map"
         ]
       }
     ]

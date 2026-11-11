@@ -22,12 +22,6 @@
     "target": "git://github.com/olton/Metro-UI-CSS.git",
     "fileMap": [
       {
-        "basePath": "build",
-        "files": [
-          "**/metro*.!(json)"
-        ]
-      },
-      {
         "basePath": "lib",
         "files": [
           "metro.all.css",

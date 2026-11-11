@@ -21,15 +21,12 @@
     "target": "inputmask",
     "fileMap": [
       {
-        "basePath": "dist/min",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|mjs|css|map)",
+          "bindings/*.js",
+          "esm/*.@(mjs|map)",
+          "esm/@(dom|extensions|global)/*.@(mjs|map)"
         ]
       }
     ]

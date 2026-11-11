@@ -19,16 +19,12 @@
     "target": "@erc725/erc725.js",
     "fileMap": [
       {
-        "basePath": "build/module/src",
-        "files": [
-          "**/*.@(js|d.ts)"
-        ]
-      },
-      {
         "basePath": "build",
         "files": [
-          "**/*.mjs",
-          "**/*.mjs.map"
+          "*.mjs",
+          "*.mjs.map",
+          "schemas/*.mjs",
+          "schemas/*.mjs.map"
         ]
       }
     ]

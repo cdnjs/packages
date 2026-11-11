@@ -1,6 +1,6 @@
 {
   "name": "pnp-graph",
-  "filename": "index.js",
+  "filename": "graph.es5.umd.min.js",
   "description": "pnp - provides functionality to query the Microsoft Graph",
   "keywords": [
     "patterns and practices",
@@ -23,13 +23,6 @@
         "basePath": "dist",
         "files": [
           "**/!(*.ts)"
-        ]
-      },
-      {
-        "basePath": "",
-        "files": [
-          "**/*.js",
-          "**/*.js.map"
         ]
       }
     ]

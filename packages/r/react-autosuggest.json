@@ -32,12 +32,6 @@
     "target": "react-autosuggest",
     "fileMap": [
       {
-        "basePath": "dist/standalone",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "dist/dist/standalone",
         "files": [
           "autosuggest.js",

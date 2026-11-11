@@ -21,12 +21,6 @@
       {
         "basePath": "dist",
         "files": [
-          "**/browser*"
-        ]
-      },
-      {
-        "basePath": "dist",
-        "files": [
           "cuid.js",
           "cuid.min.js"
         ]

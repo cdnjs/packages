@@ -20,12 +20,6 @@
     "target": "d3-time",
     "fileMap": [
       {
-        "basePath": "build",
-        "files": [
-          "**/!(package.js)"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "*.js",

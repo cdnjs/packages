@@ -19,12 +19,6 @@
     "target": "gpu.js",
     "fileMap": [
       {
-        "basePath": "bin",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "gpu-browser.js",

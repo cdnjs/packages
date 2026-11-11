@@ -1,6 +1,6 @@
 {
   "name": "pnp-sp",
-  "filename": "index.js",
+  "filename": "sp.es5.umd.min.js",
   "description": "pnp - provides a fluent api for working with SharePoint REST",
   "keywords": [
     "patterns and practices",
@@ -23,13 +23,6 @@
         "basePath": "dist",
         "files": [
           "**/!(*.ts)"
-        ]
-      },
-      {
-        "basePath": "",
-        "files": [
-          "**/*.js",
-          "**/*.js.map"
         ]
       }
     ]

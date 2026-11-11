@@ -34,12 +34,6 @@
     "target": "react-sortable-hoc",
     "fileMap": [
       {
-        "basePath": "dist/umd",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "react-sortable-hoc.umd.js",

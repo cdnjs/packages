@@ -17,18 +17,14 @@
     "target": "jsondiffpatch",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "*.js?(.map)",
-          "*.d.ts",
-          "formatters-styles/*.css"
-        ]
-      },
-      {
         "basePath": "lib",
         "files": [
-          "**/*.js",
-          "**/*.d.ts",
+          "!(with-text-diffs).js",
+          "assertions/*.js",
+          "contexts/*.js",
+          "filters/*.js",
+          "formatters/*.js",
+          "moves/*.js",
           "formatters/styles/*.css"
         ]
       }

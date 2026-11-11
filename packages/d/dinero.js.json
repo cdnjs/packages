@@ -19,16 +19,12 @@
     "target": "dinero.js",
     "fileMap": [
       {
-        "basePath": "build/umd",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "dist/umd",
         "files": [
-          "**/*.production.js",
-          "**/*.production.js.map"
+          "*.production.js",
+          "*.production.js.map",
+          "bigint/*.production.js",
+          "bigint/*.production.js.map"
         ]
       }
     ]

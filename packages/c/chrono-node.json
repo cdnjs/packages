@@ -21,14 +21,21 @@
       {
         "basePath": "dist/esm",
         "files": [
-          "**/*.js",
-          "**/*.js.map"
-        ]
-      },
-      {
-        "basePath": "",
-        "files": [
-          "chrono.!(*json)"
+          "*.@(js|js.map)",
+          "calculation/*.@(js|js.map)",
+          "common/*.@(js|js.map)",
+          "common/parsers/*.@(js|js.map)",
+          "common/refiners/*.@(js|js.map)",
+          "utils/*.@(js|js.map)",
+          "locales/*/*.@(js|js.map)",
+          "locales/*/parsers/*.@(js|js.map)",
+          "locales/*/refiners/*.@(js|js.map)",
+          "locales/zh/hans/*.@(js|js.map)",
+          "locales/zh/hans/parsers/*.@(js|js.map)",
+          "locales/zh/hans/refiners/*.@(js|js.map)",
+          "locales/zh/hant/*.@(js|js.map)",
+          "locales/zh/hant/parsers/*.@(js|js.map)",
+          "locales/zh/hant/refiners/*.@(js|js.map)"
         ]
       }
     ]

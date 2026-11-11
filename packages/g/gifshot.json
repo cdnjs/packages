@@ -19,12 +19,6 @@
     "target": "gifshot",
     "fileMap": [
       {
-        "basePath": "build",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "gifshot.js",

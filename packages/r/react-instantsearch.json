@@ -22,12 +22,6 @@
     "target": "react-instantsearch",
     "fileMap": [
       {
-        "basePath": "umd",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "dist/umd",
         "files": [
           "*.js"

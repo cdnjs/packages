@@ -19,12 +19,6 @@
     "target": "d3fc",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/*.+(css|js|map)"
-        ]
-      },
-      {
         "basePath": "build",
         "files": [
           "d3fc.js",

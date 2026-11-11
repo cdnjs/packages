@@ -17,12 +17,6 @@
     "target": "d3-composite-projections",
     "fileMap": [
       {
-        "basePath": "build",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "",
         "files": [
           "d3-composite-projections.js",

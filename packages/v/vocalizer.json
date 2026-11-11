@@ -18,12 +18,6 @@
     "target": "git://github.com/atifazam/vocalizer.git",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "vendor",
         "files": [
           "*.min.js",

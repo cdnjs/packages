@@ -1,6 +1,6 @@
 {
   "name": "pnp-config-store",
-  "filename": "index.js",
+  "filename": "config-store.es5.umd.min.js",
   "description": "pnp - provides a way to manage configuration within your application",
   "keywords": [
     "patterns and practices",
@@ -23,13 +23,6 @@
         "basePath": "dist",
         "files": [
           "**/!(*.ts)"
-        ]
-      },
-      {
-        "basePath": "",
-        "files": [
-          "**/*.js",
-          "**/*.js.map"
         ]
       }
     ]

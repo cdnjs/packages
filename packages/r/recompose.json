@@ -21,12 +21,6 @@
     "target": "recompose",
     "fileMap": [
       {
-        "basePath": "build",
-        "files": [
-          "**/!(*.+(json))"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "Recompose.esm.js",

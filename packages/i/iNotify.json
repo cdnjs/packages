@@ -21,24 +21,6 @@
     "target": "git://github.com/jaywcjlove/iNotify.git",
     "fileMap": [
       {
-        "basePath": "build",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
-        "basePath": "",
-        "files": [
-          "iNotify*.+(js|css|map)"
-        ]
-      },
-      {
-        "basePath": "src",
-        "files": [
-          "iNotify*.+(js|css|map)"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "notify*.js",

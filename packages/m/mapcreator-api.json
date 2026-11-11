@@ -22,18 +22,15 @@
     "target": "@mapcreator/api",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "bundle*.js"
-        ]
-      },
-      {
         "basePath": "esm",
         "files": [
-          "**/*.js",
-          "**/*.js.map"
+          "*.@(js|js.map)",
+          "api/*.@(js|js.map)"
         ]
       }
+    ],
+    "ignoreVersions": [
+      "0.0.0-*"
     ]
   },
   "filename": "index.js"

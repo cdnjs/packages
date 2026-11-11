@@ -26,7 +26,8 @@
       {
         "basePath": "",
         "files": [
-          "+(addon|theme|mode|keymap)/**/*.+(js|css)"
+          "+(keymap|mode|theme)/*.+(js|css)",
+          "+(addon|mode)/*/!(*_test).+(js|css)"
         ]
       },
       {

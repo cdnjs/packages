@@ -17,15 +17,12 @@
     "target": "isomorphic-git",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/*.umd.*"
-        ]
-      },
-      {
         "basePath": "",
         "files": [
-          "**/*.umd.*"
+          "*.umd*.@(js|map|txt)",
+          "http/web/*.umd*.@(js|map|txt)",
+          "managers/*.umd*.@(js|map|txt)",
+          "models/*.umd*.@(js|map|txt)"
         ]
       }
     ]

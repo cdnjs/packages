@@ -21,12 +21,6 @@
     "target": "d3-ease",
     "fileMap": [
       {
-        "basePath": "build",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "*.js",

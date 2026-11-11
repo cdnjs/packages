@@ -15,16 +15,13 @@
     "target": "graphiql",
     "fileMap": [
       {
-        "basePath": "",
-        "files": [
-          "graphiql*"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
-          "**/*.js",
-          "**/*.js.map",
+          "*.js",
+          "*.js.map",
+          "setup-workers/*.js",
+          "ui/*.js",
+          "ui/*.js.map",
           "*.css"
         ]
       }

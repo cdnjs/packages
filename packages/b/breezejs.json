@@ -35,12 +35,6 @@
           "rxjs/*.js?(.map)",
           "validation/*.js?(.map)"
         ]
-      },
-      {
-        "basePath": "build",
-        "files": [
-          "**/breeze*"
-        ]
       }
     ]
   }

@@ -20,7 +20,7 @@
       {
         "basePath": "bundles",
         "files": [
-          "**/ng2-bootstrap*.+(js|map)"
+          "ng2-bootstrap*.+(js|map)"
         ]
       },
       {

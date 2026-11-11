@@ -16,15 +16,10 @@
     "target": "git://github.com/TargetProcess/tauCharts.git",
     "fileMap": [
       {
-        "basePath": "build/production",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|css|map)",
+          "plugins/*.@(js|css|map)"
         ]
       }
     ]

@@ -13,13 +13,6 @@
     "target": "git://github.com/ccampbell/rainbow.git",
     "fileMap": [
       {
-        "basePath": "",
-        "files": [
-          "themes/*",
-          "js/**/*.js"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "rainbow.js",

@@ -19,22 +19,11 @@
     "target": "vexflow",
     "fileMap": [
       {
-        "basePath": "releases",
-        "files": [
-          "**/vexflow!(*tests*|*.html)"
-        ]
-      },
-      {
-        "basePath": "lib",
-        "files": [
-          "vexflow*"
-        ]
-      },
-      {
         "basePath": "build/esm",
         "files": [
           "entry/vexflow.js",
-          "src/**/*.js"
+          "src/*.js",
+          "src/fonts/*.js"
         ]
       },
       {

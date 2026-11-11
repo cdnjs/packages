@@ -26,12 +26,6 @@
     "target": "raty-js",
     "fileMap": [
       {
-        "basePath": "lib",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "build",
         "files": [
           "raty.js",

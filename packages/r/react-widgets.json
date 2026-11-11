@@ -31,12 +31,6 @@
     "target": "react-widgets",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "umd",
         "files": [
           "*.js",

@@ -18,15 +18,8 @@
       {
         "basePath": "webfonts",
         "files": [
-          "**/overpass*"
-        ]
-      },
-      {
-        "basePath": "Webfonts",
-        "files": [
-          "**/*.eot",
-          "**/*.woff",
-          "**/*.woff2"
+          "overpass-webfont/overpass*.@(css|eot|woff|woff2|ttf)",
+          "overpass-mono-webfont/overpass*.@(css|eot|woff|woff2|ttf)"
         ]
       }
     ]

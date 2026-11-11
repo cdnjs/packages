@@ -19,12 +19,6 @@
       {
         "basePath": "build",
         "files": [
-          "**/vega-tooltip*.+(js|css|map)"
-        ]
-      },
-      {
-        "basePath": "build",
-        "files": [
           "index.js",
           "index.js.map"
         ]

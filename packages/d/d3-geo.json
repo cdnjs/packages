@@ -20,12 +20,6 @@
     "target": "d3-geo",
     "fileMap": [
       {
-        "basePath": "build",
-        "files": [
-          "**/!(*.png|package.js)"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "*.js",

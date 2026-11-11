@@ -24,12 +24,6 @@
     "target": "d3-color",
     "fileMap": [
       {
-        "basePath": "build",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "*.js",

@@ -26,12 +26,6 @@
           "air-datepicker.js",
           "locale/*.js"
         ]
-      },
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
       }
     ]
   },

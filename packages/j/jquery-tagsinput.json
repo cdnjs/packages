@@ -18,13 +18,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
-        ]
-      },
-      {
-        "basePath": "",
-        "files": [
-          "jquery.tagsinput*.+(js|css|map)"
+          "*.@(js|css|map)"
         ]
       }
     ]

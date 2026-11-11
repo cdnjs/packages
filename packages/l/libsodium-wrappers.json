@@ -24,12 +24,6 @@
     "target": "git://github.com/jedisct1/libsodium.js.git",
     "fileMap": [
       {
-        "basePath": "dist/browsers/combined",
-        "files": [
-          "**/*.js"
-        ]
-      },
-      {
         "basePath": "dist/browsers",
         "files": [
           "sodium.js"

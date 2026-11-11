@@ -21,12 +21,6 @@
     "target": "excalibur",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/*.@(js|css|ts|map)"
-        ]
-      },
-      {
         "basePath": "build/esm",
         "files": [
           "excalibur.js",

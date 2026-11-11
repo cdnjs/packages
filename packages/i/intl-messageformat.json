@@ -24,12 +24,6 @@
     "target": "intl-messageformat",
     "fileMap": [
       {
-        "basePath": "dist/umd",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "",
         "files": [
           "intl-messageformat.iife.js"

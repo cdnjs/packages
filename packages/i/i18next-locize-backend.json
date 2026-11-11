@@ -17,16 +17,9 @@
     "target": "i18next-locize-backend",
     "fileMap": [
       {
-        "basePath": "dist/umd",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "",
         "files": [
-          "i18nextLocizeBackend*.js",
-          "i18nextLocizeBackend*.map"
+          "i18nextLocizeBackend*.js"
         ]
       }
     ]

@@ -17,12 +17,6 @@
     "target": "constraintjs",
     "fileMap": [
       {
-        "basePath": "build",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "constraintjs.global*"

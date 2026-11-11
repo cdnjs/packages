@@ -18,12 +18,6 @@
     "target": "git://github.com/basecamp/trix.git",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "action_text-trix/app/assets/javascripts",
         "files": [
           "trix.js"

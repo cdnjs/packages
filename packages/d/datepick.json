@@ -24,7 +24,9 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*.!(html)"
+          "css/*.css",
+          "img/*.@(gif|png)",
+          "js/*.@(js|map)"
         ]
       },
       {

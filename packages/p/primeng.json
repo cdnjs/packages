@@ -30,12 +30,6 @@
           "fesm5/*.+(js|map)",
           "resources/**/!(*.scss)"
         ]
-      },
-      {
-        "basePath": "fesm2022",
-        "files": [
-          "*.mjs"
-        ]
       }
     ]
   },

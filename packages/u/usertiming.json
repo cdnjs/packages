@@ -19,12 +19,6 @@
     "target": "usertiming",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "src",
         "files": [
           "usertiming.js"

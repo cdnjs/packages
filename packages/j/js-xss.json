@@ -28,12 +28,6 @@
     "target": "xss",
     "fileMap": [
       {
-        "basePath": "build",
-        "files": [
-          "**/*.!(html)"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
           "xss*.js",

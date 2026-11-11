@@ -17,16 +17,10 @@
     "target": "react-json-tree",
     "fileMap": [
       {
-        "basePath": "umd",
-        "files": [
-          "*.js"
-        ]
-      },
-      {
         "basePath": "lib",
         "files": [
-          "**/*.js",
-          "**/*.js.map"
+          "*.js",
+          "themes/*.js"
         ]
       }
     ]

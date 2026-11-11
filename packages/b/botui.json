@@ -26,12 +26,6 @@
           "*.js",
           "*.js.map"
         ]
-      },
-      {
-        "basePath": "build",
-        "files": [
-          "**/*"
-        ]
       }
     ]
   },

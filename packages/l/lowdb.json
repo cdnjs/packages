@@ -26,19 +26,13 @@
     "target": "lowdb",
     "fileMap": [
       {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      },
-      {
         "basePath": "lib",
         "files": [
           "browser.js",
           "index.js",
-          "core/**/*.js",
+          "core/*.js",
           "adapters/Memory.js",
-          "adapters/browser/**/*.js",
+          "adapters/browser/*.js",
           "presets/browser.js"
         ]
       }

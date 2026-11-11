@@ -34,13 +34,8 @@
       {
         "basePath": "dist",
         "files": [
-          "*.js"
-        ]
-      },
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*.js"
+          "react/*.js",
+          "vanilla/*.js"
         ]
       }
     ]
