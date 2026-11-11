@@ -12,13 +12,14 @@
     "url": "https://github.com/brightcove/videojs-overlay.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "https://github.com/brightcove/videojs-overlay.git",
+    "source": "npm",
+    "target": "videojs-overlay",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "videojs-overlay?(.min|.plugin).js",
+          "*.@(css|map)"
         ]
       }
     ]

@@ -17,13 +17,14 @@
   ],
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/HubSpot/tether.git",
+    "source": "npm",
+    "target": "tether",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/tether*"
+          "css/tether*.css",
+          "js/tether*.@(js|map)"
         ]
       }
     ]

@@ -15,13 +15,16 @@
     "url": "git://github.com/bpampuch/pdfmake.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/bpampuch/pdfmake.git",
+    "source": "npm",
+    "target": "pdfmake",
     "fileMap": [
       {
         "basePath": "build",
         "files": [
-          "**/*"
+          "*.@(js|map)",
+          "fonts/*.js",
+          "fonts/Roboto/*.ttf",
+          "standard-fonts/*.js"
         ]
       }
     ]

@@ -16,13 +16,17 @@
     "url": "https://github.com/BenjaminVanRyseghem/numbro"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/BenjaminVanRyseghem/numbro.git",
+    "source": "npm",
+    "target": "numbro",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|map)",
+          "languages/*.@(js|map)",
+          "es/*.js",
+          "es/languages/*.js",
+          "dependencies.txt"
         ]
       }
     ]

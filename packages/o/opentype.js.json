@@ -17,8 +17,8 @@
     "url": "git://github.com/nodebox/opentype.js.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/nodebox/opentype.js.git",
+    "source": "npm",
+    "target": "opentype.js",
     "fileMap": [
       {
         "basePath": "dist",

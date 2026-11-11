@@ -16,13 +16,14 @@
   "license": "MIT",
   "homepage": "http://spritespin.ginie.eu/index.html",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/giniedp/spritespin.git",
+    "source": "npm",
+    "target": "spritespin",
     "fileMap": [
       {
         "basePath": "release",
         "files": [
-          "**/*"
+          "*.js",
+          "*.js.map"
         ]
       }
     ]

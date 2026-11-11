@@ -15,13 +15,13 @@
   ],
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/jpillora/xhook.git",
+    "source": "npm",
+    "target": "xhook",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|map)"
         ]
       }
     ]

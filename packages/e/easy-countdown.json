@@ -13,13 +13,13 @@
     "plugin"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/rendro/countdown.git",
+    "source": "npm",
+    "target": "easy-countdown",
     "fileMap": [
       {
-        "basePath": "dest",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|mjs)"
         ]
       }
     ]

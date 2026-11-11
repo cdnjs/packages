@@ -15,13 +15,13 @@
   },
   "license": "BSD-2-Clause",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/jgm/commonmark.js.git",
+    "source": "npm",
+    "target": "commonmark",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js"
         ]
       }
     ]

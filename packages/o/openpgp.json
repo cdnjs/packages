@@ -15,13 +15,14 @@
   },
   "license": "LGPL-3.0",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/openpgpjs/openpgpjs.git",
+    "source": "npm",
+    "target": "openpgp",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|mjs|map)",
+          "lightweight/*.@(mjs|map)"
         ]
       }
     ]

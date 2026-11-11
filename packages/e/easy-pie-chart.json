@@ -15,13 +15,13 @@
     "url": "https://github.com/rendro/easy-pie-chart/"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/rendro/easy-pie-chart.git",
+    "source": "npm",
+    "target": "easy-pie-chart",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|mjs)"
         ]
       }
     ]
