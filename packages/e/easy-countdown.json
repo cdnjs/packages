@@ -17,9 +17,9 @@
     "target": "easy-countdown",
     "fileMap": [
       {
-        "basePath": "dest",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|mjs)"
         ]
       }
     ]

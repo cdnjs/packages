@@ -20,7 +20,8 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|css|map)",
+          "overlays/*.png"
         ]
       }
     ]

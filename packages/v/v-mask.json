@@ -20,7 +20,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/!(*.esm.js)"
+          "!(*.esm).js"
         ]
       }
     ],

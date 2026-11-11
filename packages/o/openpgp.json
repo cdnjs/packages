@@ -21,7 +21,8 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|mjs|map)",
+          "lightweight/*.@(mjs|map)"
         ]
       }
     ]

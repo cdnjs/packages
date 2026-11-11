@@ -22,7 +22,8 @@
       {
         "basePath": "release",
         "files": [
-          "**/*"
+          "*.js",
+          "*.js.map"
         ]
       }
     ]

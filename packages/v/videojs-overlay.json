@@ -18,7 +18,8 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "videojs-overlay?(.min|.plugin).js",
+          "*.@(css|map)"
         ]
       }
     ]

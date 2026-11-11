@@ -23,7 +23,8 @@
       {
         "basePath": "dist",
         "files": [
-          "**/tether*"
+          "css/tether*.css",
+          "js/tether*.@(js|map)"
         ]
       }
     ]

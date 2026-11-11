@@ -21,7 +21,10 @@
       {
         "basePath": "build",
         "files": [
-          "**/*"
+          "*.@(js|map)",
+          "fonts/*.js",
+          "fonts/Roboto/*.ttf",
+          "standard-fonts/*.js"
         ]
       }
     ]

@@ -22,7 +22,11 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|map)",
+          "languages/*.@(js|map)",
+          "es/*.js",
+          "es/languages/*.js",
+          "dependencies.txt"
         ]
       }
     ]
