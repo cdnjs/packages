@@ -10,12 +10,12 @@
   "homepage": "http://goodshare.ru/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/koddr/goodshare.js.git"
+    "url": "https://github.com/enjoyiacm/goodshare.js.git"
   },
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "https://github.com/koddr/goodshare.js.git",
+    "target": "git://github.com/enjoyiacm/goodshare.js.git",
     "fileMap": [
       {
         "basePath": "",
