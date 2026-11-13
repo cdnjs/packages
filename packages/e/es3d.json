@@ -1,0 +1,51 @@
+{
+  "name": "es3d",
+  "description": "ES3D (Extensible Scalable 3D): a declarative, SVG-inspired 3D scene format with a WebGPU/WebGL2 reference renderer, editor and converter.",
+  "keywords": [
+    "3d",
+    "file-format",
+    "svg",
+    "webgpu",
+    "webgl2",
+    "procedural",
+    "instancing",
+    "converter",
+    "gltf",
+    "stl",
+    "step",
+    "obj"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://es3d.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitilia/es3d.git"
+  },
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@es3d/es3d",
+    "fileMap": [
+      {
+        "basePath": "browser",
+        "files": [
+          "es3d-stage.min.js"
+        ]
+      },
+      {
+        "basePath": "src",
+        "files": [
+          "**/*.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "bitilia"
+    }
+  ]
+}
