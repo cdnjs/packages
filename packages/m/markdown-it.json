@@ -21,14 +21,19 @@
       {
         "basePath": "dist",
         "files": [
-          "*"
+          "markdown-it.js",
+          "markdown-it.js.map",
+          "markdown-it.min.js",
+          "markdown-it.min.js.map"
         ]
       },
       {
         "basePath": "dist/browser",
         "files": [
           "markdown-it.umd.min.js",
-          "markdown-it.umd.min.js.map"
+          "markdown-it.umd.min.js.map",
+          "markdown-it.esm.min.mjs",
+          "markdown-it.esm.min.mjs.map"
         ]
       }
     ]
