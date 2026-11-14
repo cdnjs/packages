@@ -11,9 +11,8 @@
     "instancing",
     "converter",
     "gltf",
-    "stl",
-    "step",
-    "obj"
+    "es3d",
+    "web-design"
   ],
   "license": "Apache-2.0",
   "homepage": "https://es3d.org",
@@ -21,7 +20,7 @@
     "type": "git",
     "url": "git+https://github.com/bitilia/es3d.git"
   },
-  "filename": "index.js",
+  "filename": "es3d.min.js",
   "autoupdate": {
     "source": "npm",
     "target": "@es3d/es3d",
@@ -29,13 +28,8 @@
       {
         "basePath": "browser",
         "files": [
+          "es3d.min.js",
           "es3d-stage.min.js"
-        ]
-      },
-      {
-        "basePath": "src",
-        "files": [
-          "**/*.js"
         ]
       }
     ]
