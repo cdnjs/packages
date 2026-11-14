@@ -19,7 +19,18 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*.+(css|js)"
+          "*.js",
+          "addons/*/*.+(css|js)",
+          "css/*.css",
+          "css/*/*.css"
+        ]
+      },
+      {
+        "basePath": "packages/smartmenus/dist",
+        "files": [
+          "css/*.css",
+          "css/maps/*.map",
+          "js/smartmenus.+(browser|esm)*"
         ]
       }
     ]

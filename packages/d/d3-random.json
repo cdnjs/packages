@@ -19,9 +19,10 @@
     "target": "d3-random",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js",
+          "*.mjs"
         ]
       }
     ]

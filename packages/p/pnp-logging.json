@@ -1,6 +1,6 @@
 {
   "name": "pnp-logging",
-  "filename": "logging.es5.umd.min.js",
+  "filename": "index.js",
   "description": "pnp - light-weight, subscribable logging framework",
   "keywords": [
     "patterns and practices",
@@ -20,9 +20,10 @@
     "target": "@pnp/logging",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "**/!(*.ts)"
+          "*.js",
+          "*.js.map"
         ]
       }
     ]

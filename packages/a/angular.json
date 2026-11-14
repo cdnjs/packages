@@ -16,11 +16,18 @@
     "type": "git",
     "url": "git+https://github.com/angular/angular.git"
   },
-  "filename": "core.umd.min.js",
+  "filename": "core.mjs",
   "autoupdate": {
     "source": "npm",
     "target": "@angular/core",
     "fileMap": [
+      {
+        "basePath": "fesm2022",
+        "files": [
+          "*.mjs",
+          "*.mjs.map"
+        ]
+      },
       {
         "basePath": "bundles",
         "files": [

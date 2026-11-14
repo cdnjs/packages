@@ -23,6 +23,13 @@
         "files": [
           "floating*"
         ]
+      },
+      {
+        "basePath": "build",
+        "files": [
+          "floating.js",
+          "floating.es.js"
+        ]
       }
     ]
   },

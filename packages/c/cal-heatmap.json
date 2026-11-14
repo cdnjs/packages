@@ -19,9 +19,10 @@
     "target": "cal-heatmap",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "cal-heatmap*"
+          "*.@(js|css|map)",
+          "plugins/*.@(js|css|map)"
         ]
       }
     ]

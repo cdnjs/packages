@@ -22,6 +22,12 @@
         "files": [
           "jquery.keyframes*.js"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "jquery.keyframes*.js"
+        ]
       }
     ]
   },

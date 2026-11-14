@@ -1,7 +1,7 @@
 {
   "name": "pixi-filters",
   "description": "Optional display filters to work with Pixi.js",
-  "filename": "filters.min.js",
+  "filename": "pixi-filters.js",
   "homepage": "https://pixijs.github.io/pixi-filters/docs/",
   "license": "MIT",
   "repository": {
@@ -28,9 +28,12 @@
     "target": "pixi-filters",
     "fileMap": [
       {
-        "basePath": "bin",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "pixi-filters.js",
+          "pixi-filters.js.map",
+          "pixi-filters.mjs",
+          "pixi-filters.mjs.map"
         ]
       }
     ]

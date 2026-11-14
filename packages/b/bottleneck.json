@@ -1,6 +1,6 @@
 {
   "name": "bottleneck",
-  "filename": "bottleneck.min.js",
+  "filename": "light.js",
   "description": "Async rate limiter",
   "repository": {
     "type": "git",
@@ -24,6 +24,13 @@
     "source": "git",
     "target": "git://github.com/SGrondin/bottleneck.git",
     "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "es5.js",
+          "light.js"
+        ]
+      },
       {
         "basePath": "",
         "files": [

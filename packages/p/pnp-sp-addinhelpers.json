@@ -1,6 +1,6 @@
 {
   "name": "pnp-sp-addinhelpers",
-  "filename": "sp-addinhelpers.es5.umd.min.js",
+  "filename": "index.js",
   "description": "pnp - provides functionality for working within SharePoint add-ins",
   "keywords": [
     "patterns and practices",
@@ -20,9 +20,10 @@
     "target": "@pnp/sp-addinhelpers",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "**/!(*.ts)"
+          "*.js",
+          "*.js.map"
         ]
       }
     ]

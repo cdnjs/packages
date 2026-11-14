@@ -18,9 +18,10 @@
     "target": "d3-dsv",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/!(package.js)"
+          "*.js",
+          "*.mjs"
         ]
       }
     ]

@@ -29,6 +29,15 @@
         "files": [
           "domtastic*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "domtastic.js",
+          "domtastic.js.map",
+          "domtastic.min.js",
+          "domtastic.min.js.map"
+        ]
       }
     ]
   },

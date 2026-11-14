@@ -15,6 +15,13 @@
     "target": "chartkick",
     "fileMap": [
       {
+        "basePath": "dist",
+        "files": [
+          "chartkick*.js",
+          "chartkick*.js.map"
+        ]
+      },
+      {
         "basePath": "",
         "files": [
           "chartkick*"

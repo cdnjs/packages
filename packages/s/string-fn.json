@@ -1,6 +1,6 @@
 {
   "name": "string-fn",
-  "filename": "webVersion.js",
+  "filename": "string-fn.umd.js",
   "homepage": "https://selfrefactor.github.io/string-fn/",
   "description": "String manipulation library",
   "repository": {
@@ -23,6 +23,14 @@
         "basePath": "",
         "files": [
           "webVersion.js"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "string-fn.esm.js",
+          "string-fn.umd.js",
+          "string-fn.mjs"
         ]
       }
     ]

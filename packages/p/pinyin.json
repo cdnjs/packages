@@ -28,6 +28,13 @@
         "files": [
           "*.js"
         ]
+      },
+      {
+        "basePath": "lib/umd",
+        "files": [
+          "pinyin.js",
+          "pinyin.js.map"
+        ]
       }
     ]
   },

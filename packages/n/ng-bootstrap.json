@@ -1,6 +1,6 @@
 {
   "name": "ng-bootstrap",
-  "filename": "ng-bootstrap.umd.min.js",
+  "filename": "ng-bootstrap.mjs",
   "description": "Angular powered Bootstrap",
   "keywords": [
     "angular",
@@ -37,6 +37,13 @@
         "basePath": "bundles",
         "files": [
           "ng-bootstrap*.+(js|map)"
+        ]
+      },
+      {
+        "basePath": "fesm2022",
+        "files": [
+          "*.mjs",
+          "*.mjs.map"
         ]
       }
     ]

@@ -1,7 +1,7 @@
 {
   "name": "botui",
   "description": "A JS library to build the UI for your bot",
-  "filename": "botui.min.js",
+  "filename": "botui.js",
   "keywords": [
     "bot",
     "chat",
@@ -21,9 +21,10 @@
     "target": "botui",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js",
+          "*.js.map"
         ]
       }
     ]

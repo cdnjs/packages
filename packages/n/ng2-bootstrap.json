@@ -1,7 +1,7 @@
 {
   "name": "ng2-bootstrap",
   "description": "angular2 native bootstrap components",
-  "filename": "ng2-bootstrap.umd.min.js",
+  "filename": "ngx-bootstrap.umd.min.js",
   "keywords": [
     "angular2",
     "bootstrap",
@@ -20,7 +20,16 @@
       {
         "basePath": "bundles",
         "files": [
-          "**/ng2-bootstrap*.+(js|map)"
+          "ng2-bootstrap*.+(js|map)"
+        ]
+      },
+      {
+        "basePath": "bundles",
+        "files": [
+          "ngx-bootstrap.umd.js",
+          "ngx-bootstrap.umd.min.js",
+          "ngx-bootstrap.umd.js.map",
+          "ngx-bootstrap.umd.min.js.map"
         ]
       }
     ]

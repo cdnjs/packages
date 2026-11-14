@@ -19,9 +19,9 @@
     "target": "d3-voronoi",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/!(package.js)"
+          "*.js"
         ]
       }
     ]

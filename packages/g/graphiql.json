@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/graphql/graphiql.git"
   },
-  "filename": "graphiql.min.js",
+  "filename": "index.js",
   "license": "customized",
   "keywords": [
     "graphiql"
@@ -15,9 +15,14 @@
     "target": "graphiql",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "graphiql*"
+          "*.js",
+          "*.js.map",
+          "setup-workers/*.js",
+          "ui/*.js",
+          "ui/*.js.map",
+          "*.css"
         ]
       }
     ]

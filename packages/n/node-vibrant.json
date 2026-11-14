@@ -1,6 +1,6 @@
 {
   "name": "node-vibrant",
-  "filename": "vibrant.min.js",
+  "filename": "browser.js",
   "description": "Extract prominent colors from an image. Supports both node and browser environment.",
   "keywords": [
     "color",
@@ -24,6 +24,23 @@
       {
         "basePath": "dist",
         "files": ["*.js"]
+      },
+      {
+        "basePath": "dist/esm",
+        "files": [
+          "browser.js",
+          "browser.js.map",
+          "configs/browser.js",
+          "configs/browser.js.map",
+          "configs/config.js",
+          "configs/config.js.map",
+          "pipeline/index.js",
+          "pipeline/index.js.map",
+          "worker.js",
+          "worker.js.map",
+          "worker.worker.js",
+          "worker.worker.js.map"
+        ]
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "name": "react-router-dom",
-  "filename": "react-router-dom.production.min.js",
+  "filename": "index.mjs",
   "description": "DOM bindings for React Router",
   "repository": {
     "type": "git",
@@ -32,6 +32,12 @@
         "basePath": "dist/umd",
         "files": [
           "*.js?(.map)"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "index.mjs"
         ]
       }
     ]

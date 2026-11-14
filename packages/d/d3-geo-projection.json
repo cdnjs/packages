@@ -17,9 +17,9 @@
     "target": "d3-geo-projection",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js"
         ]
       }
     ]

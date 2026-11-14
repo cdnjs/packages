@@ -19,6 +19,13 @@
         "files": [
           "*"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "async.js",
+          "async.min.js"
+        ]
       }
     ]
   },

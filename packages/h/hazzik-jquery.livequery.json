@@ -23,7 +23,14 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "jquery.livequery.js",
+          "jquery.livequery.min.js"
         ]
       }
     ]

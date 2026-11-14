@@ -16,9 +16,9 @@
     "target": "git://github.com/crlcu/multiselect.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "js/**/multiselect*"
+          "js/multiselect*"
         ]
       }
     ]

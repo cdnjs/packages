@@ -22,6 +22,13 @@
           "queue.min.js",
           "queue.js"
         ]
+      },
+      {
+        "basePath": "build",
+        "files": [
+          "queue.js",
+          "queue.min.js"
+        ]
       }
     ]
   },

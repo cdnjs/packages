@@ -1,6 +1,6 @@
 {
   "name": "bignumber.js",
-  "filename": "bignumber.min.js",
+  "filename": "bignumber.js",
   "description": "A library for arbitrary-precision decimal and non-decimal arithmetic",
   "homepage": "http://mikemcl.github.io/bignumber.js/",
   "keywords": [
@@ -26,6 +26,15 @@
     "source": "npm",
     "target": "bignumber.js",
     "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "bignumber.js",
+          "bignumber.mjs",
+          "bignumber.js.map",
+          "bignumber.mjs.map"
+        ]
+      },
       {
         "basePath": "",
         "files": [

@@ -1,6 +1,6 @@
 {
   "name": "openlocationcode",
-  "filename": "openlocationcode.min.js",
+  "filename": "openlocationcode.js",
   "description": "Library to convert between lat/lng and OLC codes",
   "repository": {
     "type": "git",
@@ -19,6 +19,12 @@
     "fileMap": [
       {
         "basePath": "js/src",
+        "files": [
+          "openlocationcode*.js"
+        ]
+      },
+      {
+        "basePath": "js",
         "files": [
           "openlocationcode*.js"
         ]

@@ -1,6 +1,6 @@
 {
   "name": "rainbow",
-  "filename": "js/rainbow.min.js",
+  "filename": "rainbow.min.js",
   "description": "Simple library for code syntax highlighting",
   "homepage": "http://craig.is/making/rainbows/",
   "keywords": [
@@ -13,10 +13,22 @@
     "target": "git://github.com/ccampbell/rainbow.git",
     "fileMap": [
       {
+        "basePath": "dist",
+        "files": [
+          "rainbow.js",
+          "rainbow.min.js"
+        ]
+      },
+      {
         "basePath": "",
         "files": [
-          "themes/*",
-          "js/**/*.js"
+          "themes/css/*.css"
+        ]
+      },
+      {
+        "basePath": "src",
+        "files": [
+          "language/*.js"
         ]
       }
     ]

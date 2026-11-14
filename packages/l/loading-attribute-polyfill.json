@@ -1,6 +1,6 @@
 {
   "description": "Fast and lightweight dependency-free vanilla JavaScript polyfill for native lazy loading / the awesome loading='lazy'-attribute.",
-  "filename": "loading-attribute-polyfill.min.js",
+  "filename": "loading-attribute-polyfill.umd.js",
   "homepage": "https://github.com/mfranzke/loading-attribute-polyfill",
   "keywords": [
     "lazy loading",
@@ -26,6 +26,12 @@
         "basePath": "",
         "files": [
           "loading-attribute-polyfill*.js"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "loading-attribute-polyfill*"
         ]
       }
     ]

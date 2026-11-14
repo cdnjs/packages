@@ -1,7 +1,7 @@
 {
   "name": "loStorage.js",
   "license": "MIT",
-  "filename": "loStorage.min.js",
+  "filename": "xStore.min.js",
   "description": "Client-side storage the way it should be – using the HTML5 localStorage API.",
   "keywords": [
     "storage",
@@ -21,6 +21,13 @@
         "basePath": "src",
         "files": [
           "loStorage*"
+        ]
+      },
+      {
+        "basePath": "src",
+        "files": [
+          "xStore.js",
+          "xStore.min.js"
         ]
       }
     ]

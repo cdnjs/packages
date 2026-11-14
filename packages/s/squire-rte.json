@@ -20,9 +20,12 @@
     "target": "squire-rte",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/!(*.html)"
+          "squire*.js",
+          "squire*.mjs",
+          "squire*.js.map",
+          "squire*.mjs.map"
         ]
       }
     ]

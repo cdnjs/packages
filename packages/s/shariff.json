@@ -44,6 +44,15 @@
         "files": [
           "shariff*.+(js|css)"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "shariff*.js",
+          "shariff*.css",
+          "shariff*.map",
+          "fa-*.@(eot|svg|ttf|woff|woff2)"
+        ]
       }
     ]
   }

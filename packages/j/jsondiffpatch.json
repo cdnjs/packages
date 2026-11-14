@@ -1,6 +1,6 @@
 {
   "name": "jsondiffpatch",
-  "filename": "jsondiffpatch.umd.js",
+  "filename": "index.js",
   "description": "Diff & Patch for Javascript objects",
   "repository": {
     "type": "git",
@@ -17,11 +17,15 @@
     "target": "jsondiffpatch",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "lib",
         "files": [
-          "*.js?(.map)",
-          "*.d.ts",
-          "formatters-styles/*.css"
+          "!(with-text-diffs).js",
+          "assertions/*.js",
+          "contexts/*.js",
+          "filters/*.js",
+          "formatters/*.js",
+          "moves/*.js",
+          "formatters/styles/*.css"
         ]
       }
     ]

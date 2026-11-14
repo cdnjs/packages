@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/BlackrockDigital/startbootstrap-sb-admin.git"
   },
-  "filename": "css/sb-admin.min.css",
+  "filename": "css/styles.css",
   "autoupdate": {
     "source": "npm",
     "target": "startbootstrap-sb-admin",
@@ -28,6 +28,13 @@
           "css/*.css",
           "js/*.js",
           "scss/*.scss"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "css/styles.css",
+          "js/scripts.js"
         ]
       }
     ]

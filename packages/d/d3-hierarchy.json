@@ -22,9 +22,10 @@
     "target": "d3-hierarchy",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/!(package.js)"
+          "*.js",
+          "*.mjs"
         ]
       }
     ]

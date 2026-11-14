@@ -1,6 +1,6 @@
 {
   "name": "pnp-odata",
-  "filename": "odata.es5.umd.min.js",
+  "filename": "index.js",
   "description": "pnp - provides shared odata functionality and base classes",
   "keywords": [
     "patterns and practices",
@@ -20,9 +20,10 @@
     "target": "@pnp/odata",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "**/!(*.ts)"
+          "*.js",
+          "*.js.map"
         ]
       }
     ]

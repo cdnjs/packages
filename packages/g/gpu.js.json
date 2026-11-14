@@ -1,6 +1,6 @@
 {
   "name": "gpu.js",
-  "filename": "gpu.min.js",
+  "filename": "gpu-browser.min.js",
   "description": "GPU Accelerated JavaScript",
   "repository": {
     "type": "git",
@@ -19,9 +19,12 @@
     "target": "gpu.js",
     "fileMap": [
       {
-        "basePath": "bin",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "gpu-browser.js",
+          "gpu-browser.min.js",
+          "gpu-browser-core.js",
+          "gpu-browser-core.min.js"
         ]
       }
     ]

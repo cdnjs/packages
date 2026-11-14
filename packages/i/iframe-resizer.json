@@ -1,6 +1,6 @@
 {
   "name": "iframe-resizer",
-  "filename": "iframeResizer.min.js",
+  "filename": "iframe-resizer.parent.js",
   "description": "Keep same and cross domain iFrames sized to their content with support for window/content resizing, and multiple iFrames.",
   "keywords": [
     "Cross",
@@ -32,6 +32,13 @@
         "basePath": "js",
         "files": [
           "!(index)*.+(js|map)"
+        ]
+      },
+      {
+        "basePath": "js-dist",
+        "files": [
+          "iframe-resizer*.js",
+          "iframe-resizer*.map"
         ]
       }
     ]

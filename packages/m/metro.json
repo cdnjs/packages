@@ -1,6 +1,6 @@
 {
   "name": "metro",
-  "filename": "js/metro.min.js",
+  "filename": "metro.all.js",
   "description": "The front-end framework for developing responsive, mobile projects on the web in Windows Metro Style.",
   "keywords": [
     "css",
@@ -22,9 +22,13 @@
     "target": "git://github.com/olton/Metro-UI-CSS.git",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "lib",
         "files": [
-          "**/metro*.!(json)"
+          "metro.all.css",
+          "metro.all.js",
+          "metro.css",
+          "metro.js",
+          "icons.css"
         ]
       }
     ]

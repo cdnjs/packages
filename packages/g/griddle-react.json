@@ -1,6 +1,6 @@
 {
   "name": "griddle-react",
-  "filename": "Griddle.min.js",
+  "filename": "griddle.js",
   "keywords": [
     "react-component",
     "grid",
@@ -22,7 +22,14 @@
       {
         "basePath": "build",
         "files": [
-          "**/*"
+          "*.js"
+        ]
+      },
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "*.js",
+          "*.map"
         ]
       }
     ]

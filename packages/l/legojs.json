@@ -1,7 +1,7 @@
 {
   "name": "legojs",
   "description": "Lego JS",
-  "filename": "lego.min.js",
+  "filename": "bundle.js",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -18,6 +18,12 @@
         "basePath": "",
         "files": [
           "lego.min.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "bundle.js"
         ]
       }
     ]

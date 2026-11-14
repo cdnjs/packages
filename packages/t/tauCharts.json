@@ -1,6 +1,6 @@
 {
   "name": "tauCharts",
-  "filename": "tauCharts.min.js",
+  "filename": "taucharts.min.js",
   "description": "D3 based data-focused charting library",
   "keywords": [
     "d3",
@@ -16,9 +16,10 @@
     "target": "git://github.com/TargetProcess/tauCharts.git",
     "fileMap": [
       {
-        "basePath": "build/production",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|css|map)",
+          "plugins/*.@(js|css|map)"
         ]
       }
     ]

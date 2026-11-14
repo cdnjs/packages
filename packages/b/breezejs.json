@@ -1,6 +1,6 @@
 {
   "name": "breezejs",
-  "filename": "breeze.min.js",
+  "filename": "breeze.js",
   "description": "BreezeJS is a JavaScript library for managing data in data rich-client HTML/JS applications. Core features include client-side querying, caching, change-tracking, validation, batch saves.",
   "homepage": "http://www.getbreezenow.com/",
   "keywords": [
@@ -19,9 +19,21 @@
     "target": "breeze-client",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "",
         "files": [
-          "**/breeze*"
+          "breeze.js",
+          "breeze.js.map",
+          "adapters/*.js?(.map)",
+          "angular/*.js?(.map)",
+          "config/*.js?(.map)",
+          "core/*.js?(.map)",
+          "entity/*.js?(.map)",
+          "manager/*.js?(.map)",
+          "metadata/*.js?(.map)",
+          "mixins/*.js?(.map)",
+          "query/*.js?(.map)",
+          "rxjs/*.js?(.map)",
+          "validation/*.js?(.map)"
         ]
       }
     ]

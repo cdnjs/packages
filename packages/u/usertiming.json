@@ -1,7 +1,7 @@
 {
   "name": "usertiming",
   "description": "W3C UserTiming polyfill",
-  "filename": "usertiming.min.js",
+  "filename": "usertiming.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/nicjansma/usertiming.js.git"
@@ -19,9 +19,9 @@
     "target": "usertiming",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "src",
         "files": [
-          "**/*"
+          "usertiming.js"
         ]
       }
     ]

@@ -32,8 +32,16 @@
         "files": [
           "*.css"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "mapbox-gl-legend.es.js",
+          "mapbox-gl-legend.es.js.map",
+          "mapbox-gl-legend.css"
+        ]
       }
     ]
   },
-  "filename": "mapbox-gl-legend.js"
+  "filename": "mapbox-gl-legend.es.js"
 }

@@ -17,14 +17,21 @@
     "target": "git://github.com/rastikerdar/vazir-font.git",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "**/*"
+          "*.css",
+          "misc/*/*.css",
+          "Round-Dots/*.css",
+          "Round-Dots/misc/*/*.css",
+          "fonts/webfonts/*.woff2",
+          "misc/*/fonts/webfonts/*.woff2",
+          "Round-Dots/fonts/webfonts/*.woff2",
+          "Round-Dots/misc/*/fonts/webfonts/*.woff2"
         ]
       }
     ]
   },
-  "filename": "font-face.css",
+  "filename": "Vazirmatn-font-face.css",
   "authors": [
     {
       "name": "Behnood Khani",

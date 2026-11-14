@@ -1,6 +1,6 @@
 {
   "name": "websqltracer",
-  "filename": "webSqlTracer.min.js",
+  "filename": "webSqlTracer.js",
   "description": "Console tracer for Web SQL or SQLite",
   "keywords": [
     "websql",
@@ -19,6 +19,12 @@
         "files": [
           "webSqlTracer.min.js",
           "webSqlTracer.min.js.map"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "webSqlTracer.js"
         ]
       }
     ]

@@ -1,6 +1,6 @@
 {
   "name": "random-js",
-  "filename": "random.min.js",
+  "filename": "random-js.umd.min.js",
   "description": "A mathematically correct random number generator library for JavaScript.",
   "keywords": [
     "random"
@@ -18,6 +18,13 @@
         "basePath": "lib",
         "files": [
           "random*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "random-js.*.js",
+          "random-js.*.js.map"
         ]
       }
     ]

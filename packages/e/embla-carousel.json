@@ -13,15 +13,17 @@
     "type": "git",
     "url": "git+https://github.com/davidcetinkaya/embla-carousel.git"
   },
-  "filename": "index.js",
+  "filename": "embla-carousel.umd.js",
   "autoupdate": {
     "source": "npm",
     "target": "embla-carousel",
     "fileMap": [
       {
-        "basePath": "lib",
+        "basePath": "",
         "files": [
-          "**/*.@(js|ts)"
+          "embla-carousel.umd.js",
+          "esm/embla-carousel.esm.js",
+          "esm/embla-carousel.esm.js.map"
         ]
       }
     ]

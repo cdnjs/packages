@@ -21,13 +21,12 @@
     "target": "@proton/web-sdk",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "lib",
         "files": [
-          "*.js",
-          "**/*.d.ts"
+          "*.js"
         ]
       }
     ]
   },
-  "filename": "index.js"
+  "filename": "proton-web-sdk.bundle.js"
 }

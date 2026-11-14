@@ -31,6 +31,15 @@
     "target": "bootstrap-toaster",
     "fileMap": [
       {
+        "basePath": "dist",
+        "files": [
+          "umd/*.js",
+          "umd/*.js.map",
+          "css/*.css",
+          "css/*.css.map"
+        ]
+      },
+      {
         "basePath": "",
         "files": [
           "css/*.css",

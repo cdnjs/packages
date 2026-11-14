@@ -20,9 +20,10 @@
     "target": "d3-dispatch",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/!(package.js|version.js)"
+          "*.js",
+          "*.mjs"
         ]
       }
     ]

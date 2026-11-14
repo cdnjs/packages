@@ -1,6 +1,6 @@
 {
   "name": "slim.js",
-  "filename": "Slim.min.js",
+  "filename": "index.js",
   "description": "Superpower Web Components",
   "repository": {
     "type": "git",
@@ -21,6 +21,13 @@
         "basePath": "",
         "files": [
           "{,directives/}*.@(js|ts)"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js",
+          "directives/*.js"
         ]
       }
     ],

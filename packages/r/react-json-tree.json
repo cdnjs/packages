@@ -1,6 +1,6 @@
 {
   "description": "React JSON Viewer Component, Extracted from redux-devtools",
-  "filename": "react-json-tree.min.js",
+  "filename": "index.js",
   "homepage": "https://github.com/reduxjs/redux-devtools",
   "keywords": [
     "react",
@@ -17,9 +17,10 @@
     "target": "react-json-tree",
     "fileMap": [
       {
-        "basePath": "umd",
+        "basePath": "lib",
         "files": [
-          "*.js"
+          "*.js",
+          "themes/*.js"
         ]
       }
     ]

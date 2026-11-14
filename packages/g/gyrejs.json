@@ -1,6 +1,6 @@
 {
   "name": "gyrejs",
-  "filename": "gyrejs.min.js",
+  "filename": "main.min.js",
   "description": "Experimental data fetching and state library geared towards ReactJS",
   "repository": {
     "type": "git",
@@ -20,9 +20,11 @@
     "target": "gyrejs",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "lib",
         "files": [
-          "**/*"
+          "main.js",
+          "main.min.js",
+          "main.min.js.map"
         ]
       }
     ]

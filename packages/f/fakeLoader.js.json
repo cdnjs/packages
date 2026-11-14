@@ -23,6 +23,12 @@
         "files": [
           "fakeLoader*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "fakeLoader*"
+        ]
       }
     ]
   },

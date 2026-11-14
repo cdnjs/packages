@@ -1,6 +1,6 @@
 {
   "name": "zurb-ink",
-  "filename": "ink.min.css",
+  "filename": "foundation-emails.min.css",
   "description": "Ink is a responsive email framework for making emails that look great on any device.",
   "homepage": "http://zurb.com/ink",
   "keywords": [
@@ -18,6 +18,13 @@
         "basePath": "css",
         "files": [
           "ink.css"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "foundation-emails.css",
+          "foundation-emails.min.css"
         ]
       }
     ]

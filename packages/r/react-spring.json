@@ -8,7 +8,7 @@
     "animation",
     "spring"
   ],
-  "filename": "web.cjs.js",
+  "filename": "react-spring.modern.production.min.mjs",
   "license": "MIT",
   "homepage": "https://github.com/drcmda/react-spring#readme",
   "repository": {
@@ -23,6 +23,12 @@
         "basePath": "",
         "files": [
           "*.@(js|ts)"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "*.mjs"
         ]
       }
     ]
