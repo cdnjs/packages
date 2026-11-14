@@ -1,0 +1,36 @@
+{
+  "name": "nile-elements",
+  "filename": "index.js",
+  "description": "Nile Elements: a library of web components built with Lit, part of the Nile design system by Aquera",
+  "keywords": [
+    "nile",
+    "nile-elements",
+    "web-components",
+    "custom-elements",
+    "lit",
+    "design-system",
+    "ui-components"
+  ],
+  "authors": [
+    {
+      "name": "Aquera"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://nile.aqueralabs.com/",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@aquera/nile-elements",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
