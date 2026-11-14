@@ -8,24 +8,6 @@
     "mocking",
     "testing"
   ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/FINRAOS/MSL.git",
-    "fileMap": [
-      {
-        "basePath": "msl-client-browser",
-        "files": [
-          "appcontainer-driver.js",
-          "appcontainer-driver.min.js",
-          "mockapi-browser.js",
-          "mockapi-browser.min.js"
-        ]
-      }
-    ],
-    "ignoreVersions": [
-      "msl-client-java-1.0.0"
-    ]
-  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",

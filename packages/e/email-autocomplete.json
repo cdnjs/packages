@@ -17,18 +17,6 @@
     "url": "https://github.com/10w042/email-autocomplete/"
   },
   "license": "MIT",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/10w042/email-autocomplete.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      }
-    ]
-  },
   "authors": [
     {
       "name": "Low Yong Zhen",

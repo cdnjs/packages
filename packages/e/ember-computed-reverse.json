@@ -2,18 +2,6 @@
   "name": "ember-computed-reverse",
   "filename": "ember-computed-reverse.min.js",
   "description": "A computed property macro for ember.js that returns a reversed array without allocating a new array on each replace action",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/gdub22/ember-computed-reverse.git",
-    "fileMap": [
-      {
-        "basePath": "",
-        "files": [
-          "ember-computed-reverse.js"
-        ]
-      }
-    ]
-  },
   "keywords": [
     "ember",
     "computed property"

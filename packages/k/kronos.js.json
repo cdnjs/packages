@@ -13,19 +13,6 @@
   ],
   "homepage": "https://chronology.github.io",
   "filename": "kronos.min.js",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/Locu/chronology.git",
-    "fileMap": [
-      {
-        "basePath": "kronos.js",
-        "files": [
-          "kronos.js",
-          "kronos.min.js"
-        ]
-      }
-    ]
-  },
   "license": "MIT",
   "authors": [
     {
