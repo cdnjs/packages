@@ -1,18 +1,6 @@
 {
   "name": "basics",
   "filename": "basics.css",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/haydenbleasel/basics.git",
-    "fileMap": [
-      {
-        "basePath": "",
-        "files": [
-          "basics.css"
-        ]
-      }
-    ]
-  },
   "keywords": [
     "basic",
     "css",

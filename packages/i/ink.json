@@ -10,21 +10,6 @@
     "framework",
     "ui"
   ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/sapo/Ink.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "js/*",
-          "css/ink*.css",
-          "css/font*.css",
-          "fonts/**/*"
-        ]
-      }
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/sapo/Ink"

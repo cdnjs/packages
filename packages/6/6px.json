@@ -15,19 +15,6 @@
     "pass"
   ],
   "license": "MIT",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/6px-io/6px-js.git",
-    "fileMap": [
-      {
-        "basePath": "",
-        "files": [
-          "6px.js",
-          "6px.min.js"
-        ]
-      }
-    ]
-  },
   "authors": [
     {
       "name": "Dustin Higginbotham",

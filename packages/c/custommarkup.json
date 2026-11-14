@@ -12,18 +12,6 @@
   },
   "license": "MIT",
   "homepage": "https://www.custommarkup.ml",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/talonbragg/Custom-Markup.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      }
-    ]
-  },
   "authors": [
     {
       "name": "Talon Bragg and Shreyas Lad"

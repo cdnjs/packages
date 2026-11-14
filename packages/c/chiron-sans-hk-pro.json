@@ -17,17 +17,5 @@
       "name": "chiron-fonts"
     }
   ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/chiron-fonts/chiron-sans-hk-pro.git",
-    "fileMap": [
-      {
-        "basePath": "build",
-        "files": [
-          "**/*.@(otf|ttf|woff2|css)"
-        ]
-      }
-    ]
-  },
   "filename": "webfont/css/vf.css"
 }

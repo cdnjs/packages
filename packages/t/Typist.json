@@ -14,18 +14,6 @@
     "url": "https://github.com/positionly/Typist.git"
   },
   "license": "MIT",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/positionly/Typist.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      }
-    ]
-  },
   "authors": [
     {
       "name": "Oskar Krawczyk"

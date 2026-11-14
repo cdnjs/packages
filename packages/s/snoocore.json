@@ -14,18 +14,6 @@
     "wrapper",
     "client"
   ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/trevorsenior/snoocore.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      }
-    ]
-  },
   "license": "MIT",
   "authors": [
     {

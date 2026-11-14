@@ -11,18 +11,6 @@
     "web",
     "survey"
   ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/probtn/probtn-web.git",
-    "fileMap": [
-      {
-        "basePath": "cdn",
-        "files": [
-          "**/*"
-        ]
-      }
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/probtn/probtn-web"

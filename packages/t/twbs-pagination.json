@@ -10,13 +10,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/esimakin/twbs-pagination.git"
+    "url": "https://github.com/josecebe/twbs-pagination.git"
   },
-  "homepage": "https://esimakin.github.io/twbs-pagination/",
+  "homepage": "https://josecebe.github.io/twbs-pagination/",
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/esimakin/twbs-pagination.git",
+    "target": "https://github.com/josecebe/twbs-pagination.git",
     "fileMap": [
       {
         "basePath": "",

@@ -32,19 +32,6 @@
       "name": "ibare"
     }
   ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/projectBS/MoGL.git",
-    "fileMap": [
-      {
-        "basePath": "",
-        "files": [
-          "mogl.js",
-          "mogl.min.js"
-        ]
-      }
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/projectBS/MoGL.git"

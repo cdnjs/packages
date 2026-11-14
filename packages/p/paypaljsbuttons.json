@@ -18,18 +18,6 @@
     "url": "https://github.com/paypal/JavaScriptButtons"
   },
   "license": "MIT",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/paypal/JavaScriptButtons.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      }
-    ]
-  },
   "authors": [
     {
       "name": "Jeff Harrell",

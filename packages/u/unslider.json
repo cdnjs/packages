@@ -14,18 +14,6 @@
     "type": "git",
     "url": "git://github.com/idiot/unslider.git"
   },
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/idiot/unslider.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      }
-    ]
-  },
   "authors": [
     {
       "name": "Visual Idiot",

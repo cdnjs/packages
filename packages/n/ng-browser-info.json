@@ -20,18 +20,6 @@
     "screen",
     "cookies"
   ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/transferwise/ng-browser-info.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      }
-    ]
-  },
   "authors": [
     {
       "name": "Uku Pattak",
