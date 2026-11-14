@@ -1,6 +1,6 @@
 {
   "name": "wangEditor",
-  "filename": "wangEditor.min.js",
+  "filename": "index.min.js",
   "description": "wangEditor, your simple open-source easy-use rich text editor!",
   "homepage": "http://www.wangeditor.com/",
   "keywords": [
@@ -13,13 +13,14 @@
   },
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "https://github.com/wangfupeng1988/wangEditor.git",
+    "source": "npm",
+    "target": "@wangeditor/editor",
     "fileMap": [
       {
-        "basePath": "release",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "*.@(js|map)",
+          "css/*.css"
         ]
       }
     ]

@@ -1,6 +1,6 @@
 {
   "name": "videomail-client",
-  "filename": "videomail-client.min.js",
+  "filename": "umd/index.min.js",
   "homepage": "https://videomail.io",
   "description": "A revolutionary node.js module which enables you to record videos directly in the browser.",
   "keywords": [
@@ -14,13 +14,13 @@
   ],
   "license": "MIT",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/binarykitchen/videomail-client.git",
+    "source": "npm",
+    "target": "videomail-client",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "umd/*.js"
         ]
       }
     ]

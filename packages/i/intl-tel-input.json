@@ -1,6 +1,6 @@
 {
   "name": "intl-tel-input",
-  "filename": "build/js/intlTelInput.min.js",
+  "filename": "js/intlTelInput.min.js",
   "homepage": "https://intl-tel-input.com",
   "description": "A JavaScript plugin for entering and validating international telephone numbers",
   "keywords": [
@@ -20,18 +20,17 @@
     "url": "https://github.com/jackocnr/intl-tel-input"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/jackocnr/intl-tel-input.git",
+    "source": "npm",
+    "target": "intl-tel-input",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "build/css/*.css",
-          "build/js/*.@(js|d.ts)",
-          "build/js/i18n/{,*/}*.js",
-          "build/img/*.@(webp|png)",
-          "react/build/*.@(js|d.ts|cjs)",
-          "vue/build/*.@(js|mjs|d.ts|cjs)"
+          "css/*.css",
+          "js/*.js",
+          "js/locale/*.js",
+          "js/locale/country-names/*.js",
+          "img/*.@(webp|png)"
         ]
       }
     ]

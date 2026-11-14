@@ -15,13 +15,15 @@
     "url": "git://github.com/wenzhixin/multiple-select.git"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/wenzhixin/multiple-select.git",
+    "source": "npm",
+    "target": "multiple-select",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "multiple-select*.+(js|css|map|png)"
+          "*.@(css|js)",
+          "themes/*.css",
+          "locale/*.js"
         ]
       }
     ]
