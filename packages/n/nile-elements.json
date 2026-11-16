@@ -18,6 +18,10 @@
   ],
   "license": "MIT",
   "homepage": "https://nile.aqueralabs.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://www.npmjs.com/package/@aquera/nile-elements"
+  },
   "autoupdate": {
     "source": "npm",
     "target": "@aquera/nile-elements",
