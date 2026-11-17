@@ -24,12 +24,9 @@
     "target": "gentelella",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "build",
         "files": [
-          "js/*.js",
-          "js/*.js.map",
-          "assets/*.css",
-          "images/*.@(png|jpg|svg|ico)"
+          "**/*"
         ]
       }
     ]

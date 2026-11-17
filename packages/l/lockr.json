@@ -1,6 +1,6 @@
 {
   "name": "lockr",
-  "filename": "index.mjs",
+  "filename": "lockr.min.js",
   "description": "Lockr is an extremely lightweight library (<2kb when minified), designed to facilitate how you interact with localStorage.",
   "repository": {
     "type": "git",

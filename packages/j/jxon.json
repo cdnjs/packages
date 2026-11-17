@@ -1,7 +1,7 @@
 {
   "name": "jxon",
   "description": "A complete, bidirectional, JXON library",
-  "filename": "jxon.min.js",
+  "filename": "index.min.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/tyrasd/JXON.git"
