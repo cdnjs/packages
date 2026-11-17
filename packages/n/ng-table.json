@@ -13,11 +13,17 @@
     "angularjs"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/esvit/ng-table.git",
+    "source": "npm",
+    "target": "ng-table",
     "fileMap": [
       {
         "basePath": "dist",
+        "files": [
+          "ng-table*.+(js|css|map)"
+        ]
+      },
+      {
+        "basePath": "bundles",
         "files": [
           "ng-table*.+(js|css|map)"
         ]

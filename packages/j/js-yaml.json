@@ -1,6 +1,6 @@
 {
   "name": "js-yaml",
-  "filename": "js-yaml.min.js",
+  "filename": "js-yaml.umd.min.js",
   "description": "YAML 1.2 parser and serializer",
   "keywords": [
     "yaml",
@@ -9,13 +9,20 @@
     "pyyaml"
   ],
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/nodeca/js-yaml.git",
+    "source": "npm",
+    "target": "js-yaml",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
           "*"
+        ]
+      },
+      {
+        "basePath": "dist/browser",
+        "files": [
+          "js-yaml.umd.min.js",
+          "js-yaml.umd.min.js.map"
         ]
       }
     ]

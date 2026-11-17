@@ -1,7 +1,7 @@
 {
   "name": "framework7",
   "description": "Full Featured Mobile HTML Framework For Building iOS & Android Apps",
-  "filename": "js/framework7.min.js",
+  "filename": "framework7-bundle.min.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/framework7io/framework7.git"
@@ -30,13 +30,18 @@
   "license": "MIT",
   "homepage": "https://framework7.io",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/framework7io/framework7.git",
+    "source": "npm",
+    "target": "framework7",
     "fileMap": [
       {
-        "basePath": "packages/core",
+        "basePath": "",
         "files": [
-          "**/framework7!(.module|.modular|.esm|.less)*"
+          "framework7-bundle.min.js",
+          "framework7-bundle.min.js.map",
+          "framework7-bundle.css",
+          "framework7-bundle.min.css",
+          "framework7-bundle-rtl.css",
+          "framework7-bundle-rtl.min.css"
         ]
       }
     ]

@@ -1,8 +1,8 @@
 {
   "name": "Ladda",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/hakimel/Ladda.git",
+    "source": "npm",
+    "target": "ladda",
     "fileMap": [
       {
         "basePath": "dist",
@@ -12,6 +12,12 @@
           "ladda.min.css",
           "ladda.min.js",
           "spin.min.js"
+        ]
+      },
+      {
+        "basePath": "js",
+        "files": [
+          "ladda.js"
         ]
       }
     ]

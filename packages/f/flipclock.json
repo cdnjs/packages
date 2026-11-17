@@ -1,6 +1,6 @@
 {
   "name": "flipclock",
-  "filename": "flipclock.min.js",
+  "filename": "FlipClock.umd.min.js",
   "license": "MIT",
   "keywords": [
     "clock",
@@ -13,13 +13,21 @@
     "url": "https://github.com/objectivehtml/FlipClock"
   },
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/objectivehtml/FlipClock.git",
+    "source": "npm",
+    "target": "flipclock",
     "fileMap": [
       {
         "basePath": "compiled",
         "files": [
           "flipclock*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "FlipClock.umd.js",
+          "FlipClock.umd.js.map",
+          "themes/flipclock.css"
         ]
       }
     ]

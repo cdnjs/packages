@@ -1,6 +1,6 @@
 {
   "name": "justgage",
-  "filename": "justgage.min.js",
+  "filename": "justgage.umd.min.js",
   "description": "JustGage is a handy JavaScript plugin for generating and animating nice & clean gauges. It is based on Raphaël library for vector drawing, so it’s completely resolution independent and self-adjusting.",
   "repository": {
     "type": "git",
@@ -24,13 +24,19 @@
   "license": "MIT",
   "homepage": "http://justgage.com/",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/toorshia/justgage.git",
+    "source": "npm",
+    "target": "justgage",
     "fileMap": [
       {
         "basePath": "",
         "files": [
           "justgage*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "justgage.umd*.js*"
         ]
       }
     ]
