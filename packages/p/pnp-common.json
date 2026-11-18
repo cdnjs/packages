@@ -1,6 +1,6 @@
 {
   "name": "pnp-common",
-  "filename": "common.es5.umd.min.js",
+  "filename": "index.js",
   "description": "pnp - provides shared functionality across all pnp libraries",
   "keywords": [
     "patterns and practices",
@@ -20,9 +20,10 @@
     "target": "@pnp/common",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "**/!(*.ts)"
+          "*.js",
+          "*.js.map"
         ]
       }
     ]

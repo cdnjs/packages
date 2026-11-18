@@ -26,6 +26,16 @@
           "magic/matreshka-magic.min.js",
           "magic/matreshka-magic.min.map"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "matreshka.js",
+          "matreshka.min.js",
+          "matreshka.min.js.map",
+          "matreshka.min.mjs",
+          "matreshka.min.mjs.map"
+        ]
       }
     ]
   },

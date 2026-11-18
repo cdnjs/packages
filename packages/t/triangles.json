@@ -1,7 +1,7 @@
 {
   "name": "triangles",
   "description": "Triangle background generator",
-  "filename": "js/triangles.min.js",
+  "filename": "triangles.iife.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/msurguy/triangles.git"
@@ -21,6 +21,12 @@
         "basePath": "",
         "files": [
           "js/triangles*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "triangles.iife.js"
         ]
       }
     ]

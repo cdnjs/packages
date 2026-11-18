@@ -18,6 +18,12 @@
     "target": "angular-retina",
     "fileMap": [
       {
+        "basePath": "build",
+        "files": [
+          "*.js"
+        ]
+      },
+      {
         "basePath": "dist",
         "files": [
           "*.js"

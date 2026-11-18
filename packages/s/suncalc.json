@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git://github.com/mourner/suncalc.git"
   },
-  "filename": "suncalc.min.js",
+  "filename": "suncalc.cjs",
   "license": "BSD-2-Clause",
   "autoupdate": {
     "source": "npm",
@@ -26,6 +26,12 @@
         "basePath": "",
         "files": [
           "suncalc*.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "suncalc.cjs"
         ]
       }
     ]

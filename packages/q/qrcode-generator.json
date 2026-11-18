@@ -1,6 +1,6 @@
 {
   "name": "qrcode-generator",
-  "filename": "qrcode.min.js",
+  "filename": "qrcode.js",
   "description": "QR Code Generator implementation in JavaScript.",
   "homepage": "https://kazuhikoarase.github.io/qrcode-generator/",
   "repository": {
@@ -21,6 +21,13 @@
         "basePath": "",
         "files": [
           "qrcode!(_SJIS|_UTF8).+(js|css|map)"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "qrcode.js",
+          "qrcode.mjs"
         ]
       }
     ]

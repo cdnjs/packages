@@ -1,6 +1,6 @@
 {
   "name": "zone.js",
-  "filename": "zone.min.js",
+  "filename": "zone.umd.min.js",
   "description": "Zones for JavaScript",
   "repository": {
     "type": "git",
@@ -21,6 +21,13 @@
         "basePath": "dist",
         "files": [
           "!(*+(test|node)).js"
+        ]
+      },
+      {
+        "basePath": "bundles",
+        "files": [
+          "zone.umd.js",
+          "zone.umd.min.js"
         ]
       }
     ]

@@ -20,9 +20,10 @@
     "target": "d3-time",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/!(package.js)"
+          "*.js",
+          "*.mjs"
         ]
       }
     ]

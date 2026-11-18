@@ -21,9 +21,11 @@
     "target": "recompose",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/!(*.+(json))"
+          "Recompose.esm.js",
+          "Recompose.min.js",
+          "Recompose.umd.js"
         ]
       }
     ]

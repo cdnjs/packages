@@ -1,6 +1,6 @@
 {
   "name": "constraintjs",
-  "filename": "cjs.min.js",
+  "filename": "constraintjs.global.min.js",
   "description": "Constraint library for JavaScript",
   "homepage": "http://cjs.from.so/",
   "repository": {
@@ -17,9 +17,9 @@
     "target": "constraintjs",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "constraintjs.global*"
         ]
       }
     ]

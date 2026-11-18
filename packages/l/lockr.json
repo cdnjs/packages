@@ -21,6 +21,12 @@
         "files": [
           "lockr*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "index.mjs"
+        ]
       }
     ]
   },

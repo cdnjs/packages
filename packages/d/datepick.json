@@ -24,7 +24,16 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*.!(html)"
+          "css/*.css",
+          "img/*.@(gif|png)",
+          "js/*.@(js|map)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "jquery.datepick*.js",
+          "*.css"
         ]
       }
     ]

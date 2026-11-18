@@ -22,7 +22,8 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*.+(!ts)"
+          "js-data-http*.js",
+          "js-data-http*.map"
         ]
       }
     ]

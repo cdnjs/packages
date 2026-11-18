@@ -21,9 +21,10 @@
     "target": "ical.js",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js",
+          "*.map"
         ]
       }
     ]

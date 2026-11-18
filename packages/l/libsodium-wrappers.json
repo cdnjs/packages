@@ -1,6 +1,6 @@
 {
   "name": "libsodium-wrappers",
-  "filename": "sodium.min.js",
+  "filename": "sodium.js",
   "description": "The Sodium cryptographic library compiled to pure JavaScript (wrappers)",
   "repository": {
     "type": "git",
@@ -24,9 +24,9 @@
     "target": "git://github.com/jedisct1/libsodium.js.git",
     "fileMap": [
       {
-        "basePath": "dist/browsers/combined",
+        "basePath": "dist/browsers",
         "files": [
-          "**/*.js"
+          "sodium.js"
         ]
       }
     ]

@@ -41,9 +41,13 @@
     "target": "ky",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "distribution",
         "files": [
-          "index.@(d.ts|js)"
+          "*.js",
+          "core/*.js",
+          "errors/*.js",
+          "types/*.js",
+          "utils/*.js"
         ]
       }
     ]

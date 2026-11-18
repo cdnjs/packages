@@ -26,6 +26,12 @@
         "files": [
           "peaks*.+(js|map)"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "peaks*.+(js|map)"
+        ]
       }
     ]
   },

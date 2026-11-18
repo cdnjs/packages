@@ -20,6 +20,13 @@
         "files": [
           "weather*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "weather.js",
+          "weather.min.js"
+        ]
       }
     ]
   },

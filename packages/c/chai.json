@@ -1,6 +1,6 @@
 {
   "name": "chai",
-  "filename": "chai.min.js",
+  "filename": "index.js",
   "description": "BDD/TDD assertion library for node.js and the browser. Test framework agnostic.",
   "keywords": [
     "test",
@@ -19,6 +19,12 @@
     "source": "npm",
     "target": "chai",
     "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*.js"
+        ]
+      },
       {
         "basePath": "",
         "files": [

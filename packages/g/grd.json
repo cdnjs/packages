@@ -18,9 +18,9 @@
     "target": "grd",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "",
         "files": [
-          "**/*"
+          "grd.css"
         ]
       }
     ]

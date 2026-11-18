@@ -24,6 +24,20 @@
         "files": [
           "fecha*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "fecha.min.js",
+          "fecha.min.js.map"
+        ]
+      },
+      {
+        "basePath": "lib",
+        "files": [
+          "fecha.umd.js",
+          "fecha.umd.js.map"
+        ]
       }
     ]
   },

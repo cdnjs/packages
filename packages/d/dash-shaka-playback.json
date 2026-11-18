@@ -21,6 +21,12 @@
         "files": [
           "dash-shaka-playback*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "dash-shaka-playback*"
+        ]
       }
     ]
   },

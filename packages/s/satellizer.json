@@ -30,6 +30,13 @@
         "files": [
           "satellizer*.js"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "satellizer*.js",
+          "satellizer*.js.map"
+        ]
       }
     ]
   },

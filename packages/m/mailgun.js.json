@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git://github.com/mailgun/mailgun-js.git"
   },
-  "filename": "mailgun.min.js",
+  "filename": "mailgun.browser.js",
   "autoupdate": {
     "source": "npm",
     "target": "mailgun.js",
@@ -20,6 +20,12 @@
         "basePath": "dist",
         "files": [
           "*.@(js|map)"
+        ]
+      },
+      {
+        "basePath": "ESM",
+        "files": [
+          "mailgun.browser.js"
         ]
       }
     ]

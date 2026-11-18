@@ -1,6 +1,6 @@
 {
   "name": "freewall",
-  "filename": "freewall.min.js",
+  "filename": "freewall.js",
   "description": "Amazing grid layout.",
   "homepage": "http://vnjs.net/www/project/freewall/",
   "autoupdate": {
@@ -11,6 +11,12 @@
         "basePath": "",
         "files": [
           "freewall.min.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "freewall.js"
         ]
       }
     ]

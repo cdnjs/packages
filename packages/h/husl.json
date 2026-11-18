@@ -25,6 +25,13 @@
         "files": [
           "husl*.js"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "husl*.js",
+          "husl*.map"
+        ]
       }
     ]
   },

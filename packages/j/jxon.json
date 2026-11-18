@@ -31,6 +31,13 @@
         "files": [
           "index.js"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "jxon.js",
+          "jxon.min.js"
+        ]
       }
     ]
   },

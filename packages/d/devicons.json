@@ -1,6 +1,6 @@
 {
   "name": "devicons",
-  "filename": "css/devicons.min.css",
+  "filename": "devicons.css",
   "description": "An iconic font made for developers",
   "keywords": [
     "font",
@@ -23,6 +23,14 @@
         "files": [
           "css/devicons.min.css",
           "fonts/*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "devicons.css",
+          "devicons.ttf",
+          "devicons.woff2"
         ]
       }
     ]

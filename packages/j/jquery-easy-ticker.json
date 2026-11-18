@@ -25,6 +25,13 @@
         "files": [
           "jquery.easy-ticker*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "jquery.easy-ticker*.js",
+          "jquery.easy-ticker*.map"
+        ]
       }
     ]
   },

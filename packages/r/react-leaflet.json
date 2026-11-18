@@ -1,6 +1,6 @@
 {
   "name": "react-leaflet",
-  "filename": "react-leaflet.min.js",
+  "filename": "index.js",
   "description": "React components for Leaflet maps",
   "repository": {
     "type": "git",
@@ -18,9 +18,9 @@
     "target": "react-leaflet",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "lib",
         "files": [
-          "**/*"
+          "*.js"
         ]
       }
     ]

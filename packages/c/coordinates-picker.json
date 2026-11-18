@@ -1,6 +1,6 @@
 {
   "name": "coordinates-picker",
-  "filename": "coordinates-picker.min.js",
+  "filename": "CoordinatesPicker.min.js",
   "description": "This module allows you to show location of the address on map, and store it’s coordinates it in distinct field with custom format.",
   "keywords": [
     "address",
@@ -16,6 +16,13 @@
         "files": [
           "coordinates-picker.js",
           "coordinates-picker.min.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "CoordinatesPicker.js",
+          "CoordinatesPicker.min.js"
         ]
       }
     ]

@@ -1,6 +1,6 @@
 {
   "name": "startbootstrap-grayscale",
-  "filename": "js/grayscale.min.js",
+  "filename": "js/scripts.js",
   "homepage": "https://startbootstrap.com/template-overviews/grayscale/",
   "description": "A multipurpose one page Bootstrap theme created by Start Bootstrap",
   "keywords": [
@@ -19,6 +19,15 @@
           "js/grayscale.min.js",
           "css/grayscale.css",
           "css/grayscale.min.css"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "css/styles.css",
+          "js/scripts.js",
+          "assets/img/bg-masthead.jpg",
+          "assets/img/bg-signup.jpg"
         ]
       }
     ]

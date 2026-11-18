@@ -42,6 +42,13 @@
           "http-request-mock.js",
           "http-request-mock.pure.js"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "http-request-mock.js",
+          "http-request-mock.pure.js"
+        ]
       }
     ]
   },

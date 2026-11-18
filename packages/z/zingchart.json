@@ -20,9 +20,12 @@
     "target": "zingchart",
     "fileMap": [
       {
-        "basePath": "client",
+        "basePath": "",
         "files": [
-          "**/*"
+          "zingchart.min.js",
+          "zingchart-es6.min.js",
+          "modules/zingchart-*.min.js",
+          "modules-es6/zingchart-*.min.js"
         ]
       }
     ]

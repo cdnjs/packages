@@ -25,7 +25,13 @@
       {
         "basePath": "build",
         "files": [
-          "**/!(package.js)"
+          "!(package).js"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "*.js"
         ]
       }
     ]

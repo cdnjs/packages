@@ -24,9 +24,10 @@
     "target": "d3-path",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js",
+          "*.mjs"
         ]
       }
     ]

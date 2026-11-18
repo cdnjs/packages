@@ -20,15 +20,11 @@
     "target": "vast-client",
     "fileMap": [
       {
-        "basePath": "",
-        "files": [
-          "vast-client*"
-        ]
-      },
-      {
         "basePath": "dist",
         "files": [
-          "*/vast-client*"
+          "vast-client.js",
+          "vast-client.min.js",
+          "vast-client-browser*.js"
         ]
       }
     ]

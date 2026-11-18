@@ -19,9 +19,10 @@
     "target": "d3-brush",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/!(package.js)"
+          "*.js",
+          "*.mjs"
         ]
       }
     ]

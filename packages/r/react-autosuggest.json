@@ -32,9 +32,10 @@
     "target": "react-autosuggest",
     "fileMap": [
       {
-        "basePath": "dist/standalone",
+        "basePath": "dist/dist/standalone",
         "files": [
-          "**/*"
+          "autosuggest.js",
+          "autosuggest.min.js"
         ]
       }
     ]

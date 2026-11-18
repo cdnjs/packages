@@ -29,6 +29,14 @@
           "*.swf",
           "ie8fix*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "videojs_*.js",
+          "videojs_*.js.map",
+          "VPAIDFlash.swf"
+        ]
       }
     ]
   },

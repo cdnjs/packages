@@ -19,6 +19,13 @@
         "files": [
           "*.js"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "gl-matrix.js",
+          "gl-matrix-min.js"
+        ]
       }
     ]
   },

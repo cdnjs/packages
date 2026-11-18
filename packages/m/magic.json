@@ -19,6 +19,13 @@
           "magic.css",
           "magic.min.css"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "magic*.css",
+          "magic*.css.map"
+        ]
       }
     ]
   },

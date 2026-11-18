@@ -1,6 +1,6 @@
 {
   "name": "emblem",
-  "filename": "emblem.min.js",
+  "filename": "emblem.amd.js",
   "description": "Templating language targeting Handlebars with default Ember.js conventions",
   "homepage": "http://emblemjs.com/",
   "keywords": [
@@ -24,6 +24,12 @@
         "files": [
           "emblem.js",
           "emblem.min.js"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "emblem.amd.js"
         ]
       }
     ]

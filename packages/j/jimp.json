@@ -1,6 +1,6 @@
 {
   "name": "jimp",
-  "filename": "jimp.min.js",
+  "filename": "index.js",
   "description": "An image processing library written entirely in JavaScript (i.e. zero external or native dependencies).",
   "keywords": [
     "image",
@@ -24,15 +24,12 @@
     "target": "jimp",
     "fileMap": [
       {
-        "basePath": "browser/lib",
+        "basePath": "dist/browser",
         "files": [
-          "**/*"
-        ]
-      },
-      {
-        "basePath": "",
-        "files": [
-          "jimp.+(js|min|map)"
+          "*.js",
+          "*.js.map",
+          "*.mjs",
+          "*.mjs.map"
         ]
       }
     ]

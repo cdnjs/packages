@@ -22,6 +22,12 @@
         "files": [
           "jquery.usmap*"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "us-map.js"
+        ]
       }
     ]
   },

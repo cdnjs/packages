@@ -1,7 +1,7 @@
 {
   "name": "template_js",
   "description": "template.js simple and easy to use javascript template.",
-  "filename": "template.min.js",
+  "filename": "index.aio.min.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/yanhaijing/template.js.git"
@@ -20,6 +20,13 @@
         "basePath": "",
         "files": [
           "template*"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "index.aio.js",
+          "index.aio.min.js"
         ]
       }
     ]

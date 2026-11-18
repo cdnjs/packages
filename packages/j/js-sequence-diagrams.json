@@ -25,6 +25,15 @@
           "sequence-diagram-min.js",
           "sequence-diagram-min.js.map"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "sequence-diagram*.js",
+          "sequence-diagram*.css",
+          "sequence-diagram*.map",
+          "danielbd.woff?(2)"
+        ]
       }
     ]
   },

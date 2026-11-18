@@ -28,6 +28,12 @@
         "files": [
           "zabuto_calendar*.+(js|css|map)"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "zabuto_calendar*.+(js|css|map)"
+        ]
       }
     ]
   },

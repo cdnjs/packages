@@ -23,9 +23,10 @@
     "target": "d3-force",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/!(package.js)"
+          "*.js",
+          "*.mjs"
         ]
       }
     ]

@@ -27,6 +27,12 @@
     "target": "bcryptjs",
     "fileMap": [
       {
+        "basePath": "umd",
+        "files": [
+          "*.js"
+        ]
+      },
+      {
         "basePath": "dist",
         "files": [
           "*.js"
@@ -34,5 +40,5 @@
       }
     ]
   },
-  "filename": "bcrypt.min.js"
+  "filename": "index.js"
 }

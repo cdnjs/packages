@@ -26,6 +26,13 @@
         "files": [
           "jquery-expander*"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "jquery.expander*.js",
+          "jquery.expander*.map"
+        ]
       }
     ]
   },

@@ -26,6 +26,15 @@
         "files": [
           "*.@(js|map)"
         ]
+      },
+      {
+        "basePath": "lib",
+        "files": [
+          "selection.min.js",
+          "selection.min.js.map",
+          "selection.min.mjs",
+          "selection.min.mjs.map"
+        ]
       }
     ]
   },

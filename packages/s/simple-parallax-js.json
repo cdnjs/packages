@@ -34,10 +34,11 @@
       {
         "basePath": "dist",
         "files": [
-          "*.js"
+          "react/*.js",
+          "vanilla/*.js"
         ]
       }
     ]
   },
-  "filename": "simpleParallax.min.js"
+  "filename": "vanilla/simpleParallaxVanilla.umd.js"
 }

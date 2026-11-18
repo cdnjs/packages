@@ -1,7 +1,7 @@
 {
   "name": "string-format",
   "description": "Adds a `format` method to `String.prototype`. Inspired by Python's `str.format()`.",
-  "filename": "string-format.min.js",
+  "filename": "index.js",
   "keywords": [
     "string",
     "formatting",
@@ -21,6 +21,12 @@
         "basePath": "lib",
         "files": [
           "string-format*"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
         ]
       }
     ]

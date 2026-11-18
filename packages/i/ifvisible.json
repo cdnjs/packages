@@ -1,6 +1,6 @@
 {
   "name": "ifvisible",
-  "filename": "ifvisible.min.js",
+  "filename": "ifvisible.global.js",
   "description": "Crossbrowser & lightweight way to check if user is looking at the page or interacting with it. (wrapper around HTML5 visibility api)",
   "keywords": [
     "visibility",
@@ -30,6 +30,13 @@
         "basePath": "src",
         "files": [
           "ifvisible*.+(js|map)"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "ifvisible*.js",
+          "ifvisible*.map"
         ]
       }
     ]

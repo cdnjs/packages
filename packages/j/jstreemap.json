@@ -49,8 +49,14 @@
         "files": [
           "*.@(js|d.ts)"
         ]
+      },
+      {
+        "basePath": "dist/esm",
+        "files": [
+          "*.js"
+        ]
       }
     ]
   },
-  "filename": "jstreemap.js"
+  "filename": "index.js"
 }

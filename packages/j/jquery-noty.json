@@ -1,6 +1,6 @@
 {
   "name": "jquery-noty",
-  "filename": "jquery.noty.min.js",
+  "filename": "noty.min.js",
   "description": "noty is a jQuery plugin that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog. Each notification is added to a queue. (Optional)",
   "homepage": "http://needim.github.com/noty/",
   "keywords": [
@@ -19,9 +19,12 @@
     "target": "noty",
     "fileMap": [
       {
-        "basePath": "js/noty",
+        "basePath": "lib",
         "files": [
-          "**/*"
+          "*.js",
+          "*.css",
+          "*.map",
+          "themes/*.css"
         ]
       }
     ]

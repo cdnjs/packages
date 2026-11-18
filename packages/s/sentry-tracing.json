@@ -28,8 +28,15 @@
         "files": [
           "*.js"
         ]
+      },
+      {
+        "basePath": "esm",
+        "files": [
+          "*.js",
+          "*.js.map"
+        ]
       }
     ]
   },
-  "filename": "bundle.tracing.min.js"
+  "filename": "index.js"
 }

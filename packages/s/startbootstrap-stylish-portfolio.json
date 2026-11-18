@@ -1,6 +1,6 @@
 {
   "name": "startbootstrap-stylish-portfolio",
-  "filename": "css/stylish-portfolio.min.css",
+  "filename": "css/styles.css",
   "homepage": "https://startbootstrap.com/template-overviews/stylish-portfolio/",
   "description": "A stylish, one page, Bootstrap portfolio theme created by Start Bootstrap",
   "keywords": [
@@ -16,6 +16,15 @@
         "basePath": "",
         "files": [
           "css/stylish-portfolio.css"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "css/styles.css",
+          "js/scripts.js",
+          "assets/img/bg-callout.jpg",
+          "assets/img/bg-masthead.jpg"
         ]
       }
     ]

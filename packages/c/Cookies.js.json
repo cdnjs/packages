@@ -21,6 +21,13 @@
           "cookies.js",
           "cookies.min.js"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "cookies.js",
+          "cookies.min.js"
+        ]
       }
     ]
   },

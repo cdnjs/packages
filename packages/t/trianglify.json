@@ -1,6 +1,6 @@
 {
   "name": "trianglify",
-  "filename": "trianglify.min.js",
+  "filename": "trianglify.bundle.js",
   "description": "Trianglify is a javascript library for generating colorful triangle meshes that can be used as SVG images and CSS backgrounds.",
   "repository": {
     "type": "git",
@@ -26,6 +26,12 @@
         "basePath": "dist",
         "files": [
           "trianglify.min.js"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "trianglify.bundle.js"
         ]
       }
     ]

@@ -22,6 +22,14 @@
           "snap.js",
           "snap.min.js"
         ]
+      },
+      {
+        "basePath": "dist/latest",
+        "files": [
+          "snap.js",
+          "snap.min.js",
+          "snap.css"
+        ]
       }
     ]
   },

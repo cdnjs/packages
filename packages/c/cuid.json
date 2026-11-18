@@ -1,6 +1,6 @@
 {
   "name": "cuid",
-  "filename": "browser-cuid.min.js",
+  "filename": "cuid.min.js",
   "description": "Collision-resistant ids optimized for horizontal scaling and performance. For node and browsers.",
   "keywords": [
     "id",
@@ -21,7 +21,8 @@
       {
         "basePath": "dist",
         "files": [
-          "**/browser*"
+          "cuid.js",
+          "cuid.min.js"
         ]
       }
     ]

@@ -24,6 +24,13 @@
         "files": [
           "jquery.iframetracker*.js"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "jquery.iframetracker*.js",
+          "jquery.iframetracker*.map"
+        ]
       }
     ]
   },

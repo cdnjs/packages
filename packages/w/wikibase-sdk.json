@@ -21,14 +21,19 @@
     "target": "git://github.com/maxlath/wikibase-sdk.git",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "dist/src",
         "files": [
-          "*.js"
+          "*.@(js|js.map)",
+          "helpers/*.@(js|js.map)",
+          "queries/*.@(js|js.map)",
+          "types/*.@(js|js.map)",
+          "utils/*.@(js|js.map)",
+          "wellknown/*.@(js|js.map)"
         ]
       }
     ]
   },
-  "filename": "wikibase-sdk.min.js",
+  "filename": "index.js",
   "authors": [
     {
       "name": "maxlath"

@@ -20,6 +20,13 @@
         "files": [
           "engine.io*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "engine.io*.js",
+          "engine.io*.js.map"
+        ]
       }
     ]
   }

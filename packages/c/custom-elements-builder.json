@@ -29,6 +29,13 @@
           "*.js",
           "*.map"
         ]
+      },
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "ceb.js",
+          "ceb.min.js"
+        ]
       }
     ]
   },

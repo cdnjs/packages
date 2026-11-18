@@ -22,6 +22,17 @@
         "files": [
           "enjoyhint*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "enjoyhint.js",
+          "enjoyhint.min.js",
+          "enjoyhint.css",
+          "enjoyhint.js.map",
+          "enjoyhint.min.js.map",
+          "Casino_Hand/*"
+        ]
       }
     ]
   },

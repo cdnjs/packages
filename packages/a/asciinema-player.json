@@ -25,6 +25,15 @@
     "target": "asciinema-player",
     "fileMap": [
       {
+        "basePath": "dist/bundle",
+        "files": [
+          "asciinema-player*.js",
+          "asciinema-player*.js.map",
+          "asciinema-player*.css",
+          "asciinema-player*.css.map"
+        ]
+      },
+      {
         "basePath": "resources/public/css",
         "files": [
           "*.css"

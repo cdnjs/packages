@@ -9,10 +9,20 @@
         "files": [
           "dna*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "dna-dom*.js",
+          "dna-dom*.js.map",
+          "dna-dom*.css",
+          "dna-engine*.js",
+          "dna-engine*.css"
+        ]
       }
     ]
   },
-  "filename": "dna.min.js",
+  "filename": "dna-dom.min.js",
   "description": "An uncomplicated user interface library",
   "homepage": "http://dnajs.org",
   "keywords": [

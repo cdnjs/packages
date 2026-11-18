@@ -1,6 +1,6 @@
 {
   "name": "startbootstrap-freelancer",
-  "filename": "js/freelancer.min.js",
+  "filename": "js/scripts.js",
   "homepage": "https://startbootstrap.com/template-overviews/freelancer/",
   "description": "A one page HTML theme for freelancers created by Start Bootstrap",
   "keywords": [
@@ -19,6 +19,13 @@
           "js/freelancer.min.js",
           "css/freelancer.css",
           "css/freelancer.min.css"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "css/styles.css",
+          "js/scripts.js"
         ]
       }
     ]

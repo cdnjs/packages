@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/danigb/tonal.git"
   },
-  "filename": "index.js",
+  "filename": "tonal.min.js",
   "autoupdate": {
     "source": "npm",
     "target": "tonal",
@@ -27,6 +27,13 @@
         "basePath": "build",
         "files": [
           "*.@(js|ts)"
+        ]
+      },
+      {
+        "basePath": "browser",
+        "files": [
+          "tonal.min.js",
+          "tonal.min.js.map"
         ]
       }
     ]

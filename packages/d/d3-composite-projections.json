@@ -17,9 +17,10 @@
     "target": "d3-composite-projections",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "",
         "files": [
-          "**/*"
+          "d3-composite-projections.js",
+          "d3-composite-projections.min.js"
         ]
       }
     ]

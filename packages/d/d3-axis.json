@@ -20,9 +20,10 @@
     "target": "d3-axis",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js",
+          "*.mjs"
         ]
       }
     ]

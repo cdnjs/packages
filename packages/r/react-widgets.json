@@ -31,9 +31,17 @@
     "target": "react-widgets",
     "fileMap": [
       {
-        "basePath": "dist",
+        "basePath": "umd",
         "files": [
-          "**/*"
+          "*.js",
+          "*.js.map"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "styles.css",
+          "styles.css.map"
         ]
       }
     ]

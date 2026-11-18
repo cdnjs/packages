@@ -28,9 +28,10 @@
     "target": "xss",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/*.!(html)"
+          "xss*.js",
+          "xss*.map"
         ]
       }
     ]

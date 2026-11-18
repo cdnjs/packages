@@ -1,6 +1,6 @@
 {
   "name": "w2ui",
-  "filename": "w2ui.min.css",
+  "filename": "w2ui-2.0.min.css",
   "description": "JavaScript UI library. Includes grid, layout, toolbars, trees, popups.",
   "repository": {
     "type": "git",
@@ -25,6 +25,12 @@
         "files": [
           "kickstart*.js",
           "w2ui?(-+(dark|fields))?(.min).+(css|js)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "w2ui-[0-9]*.+(css|js)"
         ]
       }
     ]

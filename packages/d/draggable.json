@@ -1,6 +1,6 @@
 {
   "name": "draggable",
-  "filename": "draggable.min.js",
+  "filename": "index.min.js",
   "license": "MIT",
   "description": "The JavaScript Drag & Drop library your grandparents warned you about.",
   "homepage": "https://shopify.github.io/draggable/",
@@ -22,6 +22,13 @@
         "basePath": "lib",
         "files": [
           "!(utils).js"
+        ]
+      },
+      {
+        "basePath": "build/umd",
+        "files": [
+          "index.js",
+          "index.min.js"
         ]
       }
     ]

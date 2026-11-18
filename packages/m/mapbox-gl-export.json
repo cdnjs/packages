@@ -24,18 +24,15 @@
     "target": "@watergis/mapbox-gl-export",
     "fileMap": [
       {
-        "basePath": "dist/cdn",
+        "basePath": "dist",
         "files": [
-          "*.@(js|css)"
-        ]
-      },
-      {
-        "basePath": "css",
-        "files": [
-          "*.css"
+          "*.js",
+          "*.css",
+          "*.js.map",
+          "*.css.map"
         ]
       }
     ]
   },
-  "filename": "mapbox-gl-export.js"
+  "filename": "mapbox-gl-export.umd.js"
 }

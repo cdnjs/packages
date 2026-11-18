@@ -21,6 +21,13 @@
         "files": [
           "ReactRouterBootstrap*"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "ReactRouterBootstrap*.js",
+          "ReactRouterBootstrap*.js.map"
+        ]
       }
     ]
   },

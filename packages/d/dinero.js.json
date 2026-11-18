@@ -1,7 +1,7 @@
 {
   "name": "dinero.js",
   "description": "An immutable library to create, calculate and format monetary values.",
-  "filename": "dinero.min.js",
+  "filename": "index.production.js",
   "keywords": [
     "money",
     "monetary",
@@ -19,9 +19,12 @@
     "target": "dinero.js",
     "fileMap": [
       {
-        "basePath": "build/umd",
+        "basePath": "dist/umd",
         "files": [
-          "**/*"
+          "*.production.js",
+          "*.production.js.map",
+          "bigint/*.production.js",
+          "bigint/*.production.js.map"
         ]
       }
     ]

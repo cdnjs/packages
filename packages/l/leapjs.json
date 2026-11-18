@@ -1,6 +1,6 @@
 {
   "name": "leapjs",
-  "filename": "leap.min.js",
+  "filename": "leap-1.1.1.min.js",
   "description": "JavaScript client for the Leap Motion Controller",
   "keywords": [
     "graphics",
@@ -19,6 +19,12 @@
         "basePath": "",
         "files": [
           "leap.min.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "leap-*.js"
         ]
       }
     ]

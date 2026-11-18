@@ -1,6 +1,6 @@
 {
   "name": "atmosphere",
-  "filename": "atmosphere.min.js",
+  "filename": "atmosphere.global.js",
   "description": "A browser-side JavaScript client for the Atmosphere",
   "keywords": [
     "ws",
@@ -15,6 +15,13 @@
     "source": "npm",
     "target": "atmosphere.js",
     "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "atmosphere.global.js",
+          "atmosphere.global.js.map"
+        ]
+      },
       {
         "basePath": "lib",
         "files": [

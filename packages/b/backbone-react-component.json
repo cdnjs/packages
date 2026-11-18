@@ -23,8 +23,8 @@
       {
         "basePath": "dist",
         "files": [
-          "/backbone-react-component-min.js",
-          "/backbone-react-component.js"
+          "backbone-react-component-min.js",
+          "backbone-react-component.js"
         ]
       }
     ]

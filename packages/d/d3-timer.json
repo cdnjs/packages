@@ -23,9 +23,10 @@
     "target": "d3-timer",
     "fileMap": [
       {
-        "basePath": "build",
+        "basePath": "dist",
         "files": [
-          "**/*"
+          "*.js",
+          "*.mjs"
         ]
       }
     ]

@@ -1,6 +1,6 @@
 {
   "name": "cookiesjs",
-  "filename": "cookies.min.js",
+  "filename": "index.min.js",
   "description": "Intuitive cookie manipulation library",
   "keywords": [
     "cookies",
@@ -23,6 +23,12 @@
         "basePath": "",
         "files": [
           "cookies*"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "index.min.js"
         ]
       }
     ]

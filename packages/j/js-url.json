@@ -17,6 +17,13 @@
         "files": [
           "url*.js"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "url*.js",
+          "url*.map"
+        ]
       }
     ]
   },

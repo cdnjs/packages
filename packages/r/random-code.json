@@ -27,8 +27,14 @@
         "files": [
           "*.js"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "index.mjs"
+        ]
       }
     ]
   },
-  "filename": "browser.min.js"
+  "filename": "index.mjs"
 }

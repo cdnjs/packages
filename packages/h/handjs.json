@@ -22,6 +22,13 @@
           "hand.js",
           "hand.min.js"
         ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "hand.js",
+          "hand.min.js"
+        ]
       }
     ]
   },

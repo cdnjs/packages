@@ -28,6 +28,13 @@
         "files": [
           "webtorrent.min.js"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "webtorrent.min.js",
+          "webtorrent.min.js.map"
+        ]
       }
     ]
   },

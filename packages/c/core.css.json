@@ -1,6 +1,6 @@
 {
   "name": "core.css",
-  "filename": "css/core.min.css",
+  "filename": "core-reset.css",
   "description": "A lightweight foundation for building responsive websites.",
   "homepage": "http://corecss.io/",
   "keywords": [
@@ -23,6 +23,12 @@
         "basePath": "",
         "files": [
           "css/core*"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "core-reset.css"
         ]
       }
     ]
