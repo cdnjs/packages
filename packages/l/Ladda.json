@@ -22,7 +22,7 @@
       }
     ]
   },
-  "filename": "ladda.min.js",
+  "filename": "ladda.min.css",
   "description": "Buttons with built-in loading indicators",
   "homepage": "http://lab.hakim.se/ladda",
   "repository": {
