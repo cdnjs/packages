@@ -1,0 +1,39 @@
+{
+  "name": "elkjs",
+  "description": "Automatic graph layout based on Sugiyama's algorithm. Specialized for data flow diagrams and ports.",
+  "keywords": [
+    "graph",
+    "layout",
+    "layered",
+    "ports",
+    "dataflow"
+  ],
+  "license": "EPL-2.0 OR GPL-3.0-or-later",
+  "homepage": "https://github.com/kieler/elkjs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kieler/elkjs.git"
+  },
+  "filename": "elk.bundled.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "elkjs",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "elk.bundled.js",
+          "elk-api.js",
+          "elk-worker.js",
+          "elk-worker.min.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Ulf Rüegg",
+      "email": "uruurumail@gmail.com"
+    }
+  ]
+}
