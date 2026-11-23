@@ -1,0 +1,41 @@
+{
+  "name": "floating-ui-dom",
+  "description": "Floating UI for the web: positions tooltips, popovers and dropdowns next to a reference element",
+  "keywords": [
+    "tooltip",
+    "popover",
+    "dropdown",
+    "menu",
+    "popup",
+    "positioning",
+    "floating-ui"
+  ],
+  "license": "MIT",
+  "homepage": "https://floating-ui.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floating-ui/floating-ui.git"
+  },
+  "filename": "floating-ui.dom.umd.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@floating-ui/dom",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "floating-ui.dom.umd?(.min).js",
+          "floating-ui.dom.browser?(.min).mjs",
+          "floating-ui.dom.esm.js",
+          "floating-ui.dom.mjs",
+          "floating-ui.dom.d.ts"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "atomiks"
+    }
+  ]
+}
