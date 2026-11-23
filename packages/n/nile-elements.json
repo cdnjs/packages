@@ -31,6 +31,12 @@
         "files": [
           "index.js"
         ]
+      },
+      {
+        "basePath": "demo",
+        "files": [
+          "nxtgen.css"
+        ]
       }
     ]
   },
