@@ -27,7 +27,7 @@
         "basePath": "dist",
         "files": [
           "css/*.css",
-          "js/*.js",
+          "js/*.@(js|mjs|d.ts)",
           "js/locale/*.js",
           "js/locale/country-names/*.js",
           "img/*.@(webp|png)"
