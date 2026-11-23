@@ -28,6 +28,7 @@
         "files": [
           "css/*.css",
           "js/*.js",
+          "js/*.mjs",
           "js/locale/*.js",
           "js/locale/country-names/*.js",
           "img/*.@(webp|png)"
