@@ -1,0 +1,41 @@
+{
+  "name": "floating-ui-core",
+  "description": "Positioning library for floating elements: tooltips, popovers, dropdowns, and more",
+  "keywords": [
+    "tooltip",
+    "popover",
+    "dropdown",
+    "menu",
+    "popup",
+    "positioning",
+    "floating-ui"
+  ],
+  "license": "MIT",
+  "homepage": "https://floating-ui.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floating-ui/floating-ui.git"
+  },
+  "filename": "floating-ui.core.umd.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@floating-ui/core",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "floating-ui.core.umd?(.min).js",
+          "floating-ui.core.browser?(.min).mjs",
+          "floating-ui.core.esm.js",
+          "floating-ui.core.mjs",
+          "floating-ui.core.d.ts"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "atomiks"
+    }
+  ]
+}
