@@ -29,6 +29,7 @@
           "css/*.css",
           "js/*.js",
           "js/*.mjs",
+          "js/*.d.ts",
           "js/locale/*.js",
           "js/locale/country-names/*.js",
           "img/*.@(webp|png)"
