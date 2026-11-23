@@ -15,13 +15,15 @@
   },
   "license": "MPL 2.0",
   "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/clientIO/joint.git",
+    "source": "npm",
+    "target": "@joint/core",
     "fileMap": [
       {
         "basePath": "dist",
         "files": [
-          "**/!(*.mjs)"
+          "*.js",
+          "joint.d.ts",
+          "version.mjs"
         ]
       }
     ]
