@@ -1,0 +1,41 @@
+{
+  "name": "pikaz-location",
+  "description": "used to obtain location from the browser",
+  "keywords": [
+    "geolocation",
+    "location",
+    "longitude",
+    "latitude",
+    "province",
+    "city",
+    "district"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/pikaz-18/pikaz-location#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pikaz-18/pikaz-location.git"
+  },
+  "filename": "pikazLocation.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@pikaz/location",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "pikazLocation?(Module).js",
+          "static/*/*.json"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "pikaz"
+    }
+  ]
+}
