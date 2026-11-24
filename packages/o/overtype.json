@@ -1,0 +1,46 @@
+{
+  "name": "overtype",
+  "description": "A lightweight markdown editor library with perfect WYSIWYG alignment using an invisible textarea overlay",
+  "keywords": [
+    "markdown",
+    "editor",
+    "wysiwyg",
+    "lightweight",
+    "ghost-caret",
+    "textarea",
+    "markdown-editor",
+    "web-components",
+    "custom-elements",
+    "shadow-dom"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/panphora/overtype#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panphora/overtype.git"
+  },
+  "filename": "overtype.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "overtype",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "overtype?(.min).js",
+          "overtype.esm.js",
+          "overtype-webcomponent?(.min).js",
+          "overtype-webcomponent.esm.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "David Miranda"
+    }
+  ]
+}
