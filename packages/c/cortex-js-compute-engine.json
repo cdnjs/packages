@@ -1,0 +1,43 @@
+{
+  "name": "cortex-js-compute-engine",
+  "description": "Symbolic computing and numeric evaluations for JavaScript and Node.js",
+  "keywords": [
+    "math",
+    "JSON",
+    "mathjs",
+    "mathematica",
+    "maple",
+    "algebra",
+    "symbolic computing",
+    "scientific computing",
+    "sympy"
+  ],
+  "license": "MIT",
+  "homepage": "https://mathlive.io/compute-engine/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cortex-js/compute-engine.git"
+  },
+  "filename": "compute-engine.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@cortex-js/compute-engine",
+    "fileMap": [
+      {
+        "basePath": "dist/esm-min",
+        "files": [
+          "*.js",
+          "chunks/*.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Arno Gourdol"
+    }
+  ]
+}
