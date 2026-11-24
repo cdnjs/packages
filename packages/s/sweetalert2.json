@@ -31,7 +31,8 @@
       {
         "basePath": "",
         "files": [
-          "*.d.ts"
+          "*.d.ts",
+          "themes/*.css"
         ]
       },
       {
