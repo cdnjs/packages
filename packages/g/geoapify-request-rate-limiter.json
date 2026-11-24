@@ -1,0 +1,43 @@
+{
+  "name": "geoapify-request-rate-limiter",
+  "description": "Easily throttle API requests to prevent 429 errors and manage traffic bursts",
+  "keywords": [
+    "rate-limiter",
+    "request-limiter",
+    "rate-limit",
+    "throttle",
+    "api-throttle",
+    "request-control",
+    "request-queue",
+    "concurrent-requests",
+    "timeout-management",
+    "api-traffic"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/geoapify/request-rate-limiter#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoapify/request-rate-limiter.git"
+  },
+  "filename": "request-rate-limiter.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@geoapify/request-rate-limiter",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "request-rate-limiter.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Geoapify GmbH"
+    }
+  ]
+}
