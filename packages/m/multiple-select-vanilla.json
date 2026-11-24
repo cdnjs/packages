@@ -1,0 +1,37 @@
+{
+  "name": "multiple-select-vanilla",
+  "description": "This lib allows you to select multiple elements with checkboxes",
+  "keywords": [
+    "checkboxes",
+    "multiple-select",
+    "single-select",
+    "select"
+  ],
+  "license": "MIT",
+  "homepage": "https://ghiscoding.github.io/multiple-select-vanilla/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghiscoding/multiple-select-vanilla.git"
+  },
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "multiple-select-vanilla",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.js",
+          "locales/*.js",
+          "styles/css/*.css",
+          "styles/css/themes/*.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "zhixin wen"
+    }
+  ]
+}
