@@ -1,0 +1,39 @@
+{
+  "name": "coreui",
+  "description": "The most popular front-end framework for developing responsive, mobile-first projects on the web rewritten and maintained by the CoreUI Team",
+  "keywords": [
+    "css",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "license": "MIT",
+  "homepage": "https://coreui.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreui/coreui.git"
+  },
+  "filename": "js/coreui.bundle.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@coreui/coreui",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "css/*.css",
+          "css/themes/bootstrap/*.css",
+          "js/*.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "The CoreUI Team"
+    }
+  ]
+}
