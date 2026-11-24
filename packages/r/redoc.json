@@ -1,0 +1,43 @@
+{
+  "name": "redoc",
+  "description": "API reference documentation for OpenAPI, AsyncAPI, and GraphQL",
+  "keywords": [
+    "OpenAPI",
+    "OpenAPI Specification",
+    "AsyncAPI",
+    "GraphQL",
+    "Swagger",
+    "JSON-Schema",
+    "API",
+    "REST",
+    "documentation",
+    "React.js"
+  ],
+  "license": "MIT",
+  "homepage": "https://redocly.com/redoc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redocly/redoc.git"
+  },
+  "filename": "redoc.standalone.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "redoc",
+    "fileMap": [
+      {
+        "basePath": "bundles",
+        "files": [
+          "redoc.standalone.js?(.map)"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Redocly"
+    }
+  ]
+}
