@@ -1,0 +1,44 @@
+{
+  "name": "mathlive",
+  "description": "A web component for math input",
+  "keywords": [
+    "math",
+    "editor",
+    "javascript",
+    "math-editing",
+    "cortex",
+    "compute engine",
+    "virtual keyboard",
+    "math keyboard",
+    "latex",
+    "tex"
+  ],
+  "license": "MIT",
+  "homepage": "https://mathlive.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnog/mathlive.git"
+  },
+  "filename": "mathlive.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mathlive",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "mathlive?(.min).@(js|mjs)",
+          "mathlive-static.css",
+          "mathlive-fonts.css",
+          "fonts/*.woff2",
+          "types/*.d.ts"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Arno Gourdol"
+    }
+  ]
+}
