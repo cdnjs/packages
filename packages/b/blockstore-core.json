@@ -1,0 +1,37 @@
+{
+  "name": "blockstore-core",
+  "description": "Contains various implementations of the API contract described in interface-blockstore",
+  "keywords": [
+    "ipfs",
+    "blockstore",
+    "blocks",
+    "libp2p"
+  ],
+  "license": "Apache-2.0 OR MIT",
+  "homepage": "https://github.com/ipfs/js-stores/tree/main/packages/blockstore-core#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipfs/js-stores.git"
+  },
+  "filename": "index.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "blockstore-core",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.min.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Alex Potsides"
+    }
+  ]
+}
