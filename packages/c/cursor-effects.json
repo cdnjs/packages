@@ -1,0 +1,36 @@
+{
+  "name": "cursor-effects",
+  "description": "Old-school cursor effects for your browser built in modern JavaScript.",
+  "keywords": [
+    "cursor",
+    "effects",
+    "animation",
+    "mouse",
+    "canvas"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tholman/cursor-effects#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tholman/cursor-effects.git"
+  },
+  "filename": "browser.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "cursor-effects",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "browser.js",
+          "esm.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "tholman"
+    }
+  ]
+}
