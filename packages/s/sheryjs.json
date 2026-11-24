@@ -1,0 +1,35 @@
+{
+  "name": "sheryjs",
+  "description": "Shery.js: JavaScript library for captivating web effects and 3D features.",
+  "keywords": [
+    "javascript",
+    "library",
+    "web-development",
+    "3D-features",
+    "three.js"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/aayushchouhan24/sheryjs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayushchouhan24/sheryjs.git"
+  },
+  "filename": "Shery.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "sheryjs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "Shery.@(js|css)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "@aayushchouhan24, @asynchronousJavascriptor"
+    }
+  ]
+}
