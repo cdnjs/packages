@@ -1,0 +1,39 @@
+{
+  "name": "babylonjs-loaders",
+  "description": "Babylon.js scene loaders (glTF, OBJ, STL and BVH) as UMD bundles for the global BABYLON build",
+  "keywords": [
+    "babylonjs",
+    "3d",
+    "webgl",
+    "gltf",
+    "obj",
+    "stl",
+    "loaders"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://www.babylonjs.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabylonJS/Babylon.js.git"
+  },
+  "filename": "babylonjs.loaders.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "babylonjs-loaders",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "babylon.*FileLoader?(.min).js",
+          "babylonjs.loaders?(.min|.es5).js",
+          "babylonjs.loaders?(.module).d.ts"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Babylon.js Team"
+    }
+  ]
+}
