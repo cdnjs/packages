@@ -1,0 +1,41 @@
+{
+  "name": "accessible-menu",
+  "description": "A JavaScript library to help you generate WCAG accessible menus in the DOM.",
+  "keywords": [
+    "menu",
+    "accessible",
+    "accessibility",
+    "wai-aria",
+    "aria",
+    "a11y",
+    "nav",
+    "navigation",
+    "menubar",
+    "disclosure menu"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/NickDJM/accessible-menu#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickDJM/accessible-menu.git"
+  },
+  "filename": "accessible-menu.iife.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "accessible-menu",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "*.iife.js",
+          "*.es.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Nick Milton"
+    }
+  ]
+}
