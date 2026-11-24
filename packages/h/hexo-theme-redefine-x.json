@@ -1,0 +1,40 @@
+{
+  "name": "hexo-theme-redefine-x",
+  "description": "Redefine-X your writing with Hexo Theme Redefine-X. A customized fork of hexo-theme-redefine.",
+  "keywords": [
+    "hexo",
+    "theme",
+    "redefine",
+    "redefine-x",
+    "simple",
+    "pure",
+    "powerful",
+    "hexo-theme"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://redefine-x-docs.jason-yang.top/zh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jason-JP-Yang/hexo-theme-Redefine-X.git"
+  },
+  "filename": "js/main.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "hexo-theme-redefine-x",
+    "fileMap": [
+      {
+        "basePath": "source",
+        "files": [
+          "js/**/*.@(js|map)",
+          "css/**/*.css",
+          "fonts/@(Geist|GeistMono)/*.@(css|ttf|woff|woff2)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Jason-JP-Yang"
+    }
+  ]
+}
