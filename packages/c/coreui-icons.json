@@ -1,0 +1,36 @@
+{
+  "name": "coreui-icons",
+  "description": "CoreUI Icons Free",
+  "keywords": [
+    "Icons",
+    "Font",
+    "Face",
+    "Svg",
+    "Vector"
+  ],
+  "license": "MIT",
+  "homepage": "https://coreui.io/icons/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreui/coreui-icons.git"
+  },
+  "filename": "css/all.min.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@coreui/icons",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "css/*.css",
+          "fonts/*.@(eot|svg|ttf|woff|woff2)"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "creativeLabs Łukasz Holeczek"
+    }
+  ]
+}
