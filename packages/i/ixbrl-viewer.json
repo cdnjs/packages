@@ -1,0 +1,33 @@
+{
+  "name": "ixbrl-viewer",
+  "description": "iXBRL Viewer",
+  "keywords": [
+    "ixbrl",
+    "xbrl",
+    "inline-xbrl",
+    "viewer",
+    "financial-reporting"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Arelle/ixbrl-viewer#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Arelle/ixbrl-viewer.git"
+  },
+  "filename": "ixbrlviewer.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "ixbrl-viewer",
+    "fileMap": [
+      {
+        "basePath": "iXBRLViewerPlugin/viewer/dist",
+        "files": [
+          "ixbrlviewer.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
