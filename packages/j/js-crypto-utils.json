@@ -1,0 +1,40 @@
+{
+  "name": "js-crypto-utils",
+  "description": "JavaScript cryptographic utilities for OpenSSL-WebCrypto compatibility including PEM/X509-JWK converter.",
+  "keywords": [
+    "webcrypto",
+    "jwk",
+    "pem",
+    "x509",
+    "ec",
+    "es6",
+    "openssl"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/junkurihara/jscu/tree/master/packages/js-crypto-utils#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junkurihara/jscu.git"
+  },
+  "filename": "jscu.bundle.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "js-crypto-utils",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "jscu.bundle.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Jun Kurihara"
+    }
+  ]
+}
