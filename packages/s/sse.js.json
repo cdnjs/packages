@@ -1,0 +1,34 @@
+{
+  "name": "sse.js",
+  "description": "A flexible Server-Sent Events source; supports POST requests and custom headers",
+  "keywords": [
+    "sse",
+    "server-side-events",
+    "server-sent-events",
+    "eventsource"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/mpetazzoni/sse.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpetazzoni/sse.js.git"
+  },
+  "filename": "sse.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "sse.js",
+    "fileMap": [
+      {
+        "basePath": "lib",
+        "files": [
+          "sse.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Maxime Petazzoni"
+    }
+  ]
+}
