@@ -1,0 +1,34 @@
+{
+  "name": "observablehq-plot",
+  "description": "A JavaScript library for exploratory data visualization.",
+  "keywords": [
+    "visualization",
+    "charts",
+    "d3"
+  ],
+  "license": "ISC",
+  "homepage": "https://observablehq.com/plot/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/observablehq/plot.git"
+  },
+  "filename": "plot.umd.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@observablehq/plot",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "plot.umd?(.min).js",
+          "plot?(.min).js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Observable, Inc."
+    }
+  ]
+}
