@@ -1,0 +1,41 @@
+{
+  "name": "material-dashboard",
+  "description": "Freebie Dashboard for Bootstrap 5",
+  "keywords": [
+    "material dashboard",
+    "bootstrap 5",
+    "dashboard",
+    "creative tim",
+    "html dashboard",
+    "html css dashboard",
+    "web dashboard",
+    "freebie",
+    "free bootstrap dashboard",
+    "css3 dashboard"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.creative-tim.com/product/material-dashboard",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativetimofficial/material-dashboard.git"
+  },
+  "filename": "assets/css/material-dashboard.min.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "material-dashboard",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "assets/css/*.css",
+          "assets/js/material-dashboard?(.min).js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Creative Tim"
+    }
+  ]
+}
