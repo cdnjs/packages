@@ -1,0 +1,32 @@
+{
+  "name": "libp2p-webrtc",
+  "description": "A libp2p transport using WebRTC connections",
+  "keywords": [
+    "ipfs",
+    "libp2p",
+    "p2p",
+    "webrtc"
+  ],
+  "license": "Apache-2.0 OR MIT",
+  "homepage": "https://github.com/libp2p/js-libp2p/tree/main/packages/transport-webrtc#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libp2p/js-libp2p.git"
+  },
+  "filename": "index.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@libp2p/webrtc",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.min.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
