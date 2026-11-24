@@ -21,7 +21,9 @@
       {
         "basePath": "dist",
         "files": [
-          "lcjs.iife.js"
+          "lcjs.iife.js",
+          "lcjs.iife.es2019.js",
+          "lcjs.iife.d.ts"
         ]
       }
     ]
