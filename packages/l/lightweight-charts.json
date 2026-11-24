@@ -1,0 +1,43 @@
+{
+  "name": "lightweight-charts",
+  "description": "Performant financial charts built with HTML5 canvas",
+  "keywords": [
+    "financial-charting-library",
+    "charting-library",
+    "html5-charts",
+    "canvas",
+    "typescript",
+    "charting",
+    "charts",
+    "tradingview",
+    "candlestick"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://www.tradingview.com/lightweight-charts/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tradingview/lightweight-charts.git"
+  },
+  "filename": "lightweight-charts.standalone.production.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "lightweight-charts",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "lightweight-charts.standalone.*.@(js|mjs)",
+          "typings.d.ts"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "TradingView, Inc."
+    }
+  ]
+}
