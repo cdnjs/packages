@@ -1,0 +1,33 @@
+{
+  "name": "formily-core",
+  "description": "The core of Formily, Alibaba's form solution: form and field models, validation and lifecycle hooks",
+  "keywords": [
+    "form",
+    "formily",
+    "validation",
+    "reactive",
+    "schema"
+  ],
+  "license": "MIT",
+  "homepage": "https://formilyjs.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alibaba/formily.git"
+  },
+  "filename": "formily.core.umd.production.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@formily/core",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "formily.core.umd.@(production|development).js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
