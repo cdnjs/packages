@@ -1,0 +1,44 @@
+{
+  "name": "fetchff",
+  "description": "A fetch wrapper with retries, caching, request deduplication and polling",
+  "keywords": [
+    "fetch",
+    "fetchff",
+    "fetch-wrapper",
+    "fetch-client",
+    "request",
+    "cache",
+    "fetch-cache",
+    "fetch-retry",
+    "api",
+    "api-handler"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MattCCC/fetchff#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattCCC/fetchff.git"
+  },
+  "filename": "index.global.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "fetchff",
+    "fileMap": [
+      {
+        "basePath": "dist/browser",
+        "files": [
+          "index.global.js",
+          "index.mjs"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Matt Czapliński"
+    }
+  ]
+}
