@@ -5,6 +5,8 @@ import { compileIgnoreGlob } from './ignore.mjs'
 const schema = JSON.parse(await readFile(new URL('../schema.json', import.meta.url), 'utf8'))
 const validate = new Ajv({ allErrors: true, strict: false, verbose: true }).compile(schema)
 
+const SOURCES = ['npm', 'git']
+
 const PATH_PATTERN = /^packages\/([a-z0-9])\/([a-zA-Z0-9._-]+)\.json$/
 
 const jsonType = (value) => {
@@ -70,6 +72,13 @@ export const readPackage = async (path, { reporter, validatePath = true }) => {
 
   if (!validate(pkg)) {
     for (const error of validate.errors) reporter.error(path, formatSchemaError(error))
+    return undefined
+  }
+
+  // The schema's `^git|npm$` also accepts `github` or `xnpm`, which the auto-update skips.
+  const { source } = pkg.autoupdate
+  if (!SOURCES.includes(source)) {
+    reporter.error(path, `autoupdate.source: must be \`npm\` or \`git\`, not \`${source}\``)
     return undefined
   }
 

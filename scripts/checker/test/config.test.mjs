@@ -63,6 +63,15 @@ describe('readPackage', () => {
     }
   })
 
+  it('rejects a source the schema accepts but the auto-update skips', async () => {
+    for (const source of ['github', 'xnpm']) {
+      const { path } = await configAt('d.json', { ...valid, autoupdate: { ...valid.autoupdate, source } })
+      const { pkg, errors } = await read(path)
+      assert.equal(pkg, undefined)
+      assert.deepEqual(errors, [`autoupdate.source: must be \`npm\` or \`git\`, not \`${source}\``])
+    }
+  })
+
   it('rejects an ignoreVersions glob that does not compile', async () => {
     const { path } = await configAt('d.json', {
       ...valid,
