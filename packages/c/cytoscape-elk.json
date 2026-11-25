@@ -1,0 +1,32 @@
+{
+  "name": "cytoscape-elk",
+  "description": "The ELK layout algorithm adapter for Cytoscape.js",
+  "keywords": [
+    "cytoscape",
+    "cytoscape-extension"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cytoscape/cytoscape.js-elk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cytoscape/cytoscape.js-elk.git"
+  },
+  "filename": "cytoscape-elk.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "cytoscape-elk",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "cytoscape-elk.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "John Stephenson"
+    }
+  ]
+}
