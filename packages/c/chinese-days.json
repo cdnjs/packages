@@ -1,0 +1,51 @@
+{
+  "name": "chinese-days",
+  "description": "Chinese public holidays, adjusted working days, the 24 solar terms and lunar calendar conversion",
+  "keywords": [
+    "chinese",
+    "holidays",
+    "calendar",
+    "lunar",
+    "solar-terms",
+    "中国日期",
+    "节假日",
+    "工作日",
+    "调休",
+    "24节气",
+    "农历",
+    "阴历",
+    "阳历",
+    "日历",
+    "订阅"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vsme/chinese-days#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsme/chinese-days.git"
+  },
+  "filename": "index.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "chinese-days",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.min.js",
+          "index.es.js",
+          "index.d.ts",
+          "chinese-days.json"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Yaavi"
+    }
+  ]
+}
