@@ -1,0 +1,31 @@
+{
+  "name": "helia",
+  "description": "An implementation of IPFS in JavaScript",
+  "keywords": [
+    "ipfs",
+    "libp2p",
+    "p2p"
+  ],
+  "license": "Apache-2.0 OR MIT",
+  "homepage": "https://github.com/ipfs/helia/tree/main/packages/helia#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipfs/helia.git"
+  },
+  "filename": "index.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "helia",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.min.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
