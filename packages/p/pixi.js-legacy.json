@@ -1,0 +1,40 @@
+{
+  "name": "pixi.js-legacy",
+  "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+  "keywords": [
+    "pixi",
+    "pixijs",
+    "2d",
+    "canvas",
+    "webgl",
+    "rendering",
+    "legacy"
+  ],
+  "license": "MIT",
+  "homepage": "https://pixijs.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixijs/pixijs.git"
+  },
+  "filename": "pixi-legacy.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "pixi.js-legacy",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "pixi-legacy?(.min).@(js|mjs)"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Mat Groves"
+    }
+  ]
+}
