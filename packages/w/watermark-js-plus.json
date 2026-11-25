@@ -1,0 +1,41 @@
+{
+  "name": "watermark-js-plus",
+  "description": "watermark for the browser",
+  "keywords": [
+    "watermark",
+    "canvas",
+    "水印",
+    "暗水印",
+    "盲水印",
+    "数据水印",
+    "防删除水印",
+    "解密水印"
+  ],
+  "license": "MIT",
+  "homepage": "https://zhensherlock.github.io/watermark-js-plus/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhensherlock/watermark-js-plus.git"
+  },
+  "filename": "index.iife.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "watermark-js-plus",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.@(iife|umd|esm)?(.min).js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "zhensherlock"
+    }
+  ]
+}
