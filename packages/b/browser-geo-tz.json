@@ -1,0 +1,36 @@
+{
+  "name": "browser-geo-tz",
+  "description": "Look up the timezone of a latitude and longitude in the browser",
+  "keywords": [
+    "timezone",
+    "geolocation",
+    "tz",
+    "browser",
+    "geo-tz"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kevmo314/browser-geo-tz#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevmo314/browser-geo-tz.git"
+  },
+  "filename": "geotz.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "browser-geo-tz",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "geotz.js",
+          "geotz.mjs"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Kevin Wang"
+    }
+  ]
+}
