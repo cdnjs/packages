@@ -1,0 +1,41 @@
+{
+  "name": "mpegts.js",
+  "description": "HTML5 MPEG2-TS Stream Player",
+  "keywords": [
+    "html5",
+    "flv",
+    "mpegts",
+    "m2ts",
+    "mse",
+    "arib",
+    "dvb"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/xqq/mpegts.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xqq/mpegts.js.git"
+  },
+  "filename": "mpegts.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "mpegts.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "mpegts.js",
+          "mpegts.js.map"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "zheng qian"
+    }
+  ]
+}
