@@ -1,0 +1,43 @@
+{
+  "name": "tabler-core",
+  "description": "Premium and Open Source dashboard template with responsive and high quality UI.",
+  "keywords": [
+    "css",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "license": "MIT",
+  "homepage": "https://tabler.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabler/tabler.git"
+  },
+  "filename": "js/tabler.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@tabler/core",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "css/*.css",
+          "js/*.js",
+          "img/**/*.svg"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false,
+    "css": false
+  },
+  "authors": [
+    {
+      "name": "codecalm"
+    }
+  ]
+}
