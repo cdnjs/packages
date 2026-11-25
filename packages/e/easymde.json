@@ -1,0 +1,40 @@
+{
+  "name": "easymde",
+  "description": "A simple, beautiful, and embeddable JavaScript Markdown editor that easy to use. Features include autosaving and spell checking.",
+  "keywords": [
+    "embeddable",
+    "markdown",
+    "editor",
+    "javascript",
+    "simplemde"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Ionaru/easy-markdown-editor#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ionaru/easy-markdown-editor.git"
+  },
+  "filename": "easymde.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "easymde",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "easymde.min.js",
+          "easymde.min.css"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false,
+    "css": false
+  },
+  "authors": [
+    {
+      "name": "Jeroen Akkerman"
+    }
+  ]
+}
