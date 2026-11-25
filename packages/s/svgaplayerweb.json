@@ -1,0 +1,38 @@
+{
+  "name": "svgaplayerweb",
+  "description": "Plays SVGA animations in the browser, with variants for IE, CreateJS and LayaBox",
+  "keywords": [
+    "svga",
+    "animation",
+    "player",
+    "canvas",
+    "webgl"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/svga/SVGAPlayer-Web",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyued/SVGAPlayer-Web.git"
+  },
+  "filename": "svga.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "svgaplayerweb",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "svga?(.ie|.createjs|.layabox).min.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "YYUED"
+    }
+  ]
+}
