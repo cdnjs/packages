@@ -1,0 +1,34 @@
+{
+  "name": "libp2p",
+  "description": "JavaScript implementation of libp2p, a modular peer to peer network stack",
+  "keywords": [
+    "IPFS",
+    "libp2p",
+    "network",
+    "p2p",
+    "peer",
+    "peer-to-peer"
+  ],
+  "license": "Apache-2.0 OR MIT",
+  "homepage": "https://github.com/libp2p/js-libp2p/tree/main/packages/libp2p#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libp2p/js-libp2p.git"
+  },
+  "filename": "index.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "libp2p",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.min.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
