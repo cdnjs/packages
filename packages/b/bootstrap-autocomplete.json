@@ -1,0 +1,35 @@
+{
+  "name": "bootstrap-autocomplete",
+  "description": "Autocomplete for Bootstrap version 4.",
+  "keywords": [
+    "bootstrap",
+    "autocomplete",
+    "bootstrap-autocomplete",
+    "typeahead",
+    "suggest"
+  ],
+  "license": "MIT",
+  "homepage": "https://bootstrap-autocomplete.readthedocs.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcash/bootstrap-autocomplete.git"
+  },
+  "filename": "bootstrap-autocomplete.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "bootstrap-autocomplete",
+    "fileMap": [
+      {
+        "basePath": "dist/latest",
+        "files": [
+          "bootstrap-autocomplete?(.min).js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Paolo Casciello"
+    }
+  ]
+}
