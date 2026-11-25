@@ -1,0 +1,29 @@
+{
+  "name": "libp2p-websockets",
+  "description": "JavaScript implementation of the WebSockets module that libp2p uses and that implements the interface-transport spec",
+  "keywords": [
+    "IPFS"
+  ],
+  "license": "Apache-2.0 OR MIT",
+  "homepage": "https://github.com/libp2p/js-libp2p/tree/main/packages/transport-websockets#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libp2p/js-libp2p.git"
+  },
+  "filename": "index.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@libp2p/websockets",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.min.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
