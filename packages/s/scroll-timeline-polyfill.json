@@ -1,0 +1,33 @@
+{
+  "name": "scroll-timeline-polyfill",
+  "description": "A polyfill for scroll-driven animations on the web via ScrollTimeline",
+  "keywords": [
+    "waapi",
+    "scrolltimeline",
+    "parallax",
+    "web",
+    "animations"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/flackr/scroll-timeline",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flackr/scroll-timeline.git"
+  },
+  "filename": "scroll-timeline.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "scroll-timeline-polyfill",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "scroll-timeline.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
