@@ -10,15 +10,20 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: download checker
-        uses: wei/wget@v1
+      - uses: actions/setup-node@v4
         with:
-          args: https://github.com/cdnjs/tools/releases/latest/download/checker
+          node-version: 22
 
-      - run: sudo chmod +x ./checker
+      - name: install checker
+        run: npm ci --prefix scripts/checker
+
+      - name: test checker
+        run: npm test --prefix scripts/checker
 
       - name: lint package
         id: lint
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mapfile -d '' files < <(
             git diff --name-only -z \
@@ -27,17 +32,9 @@ jobs:
           )
           bash ./scripts/lint.sh "${files[@]}"
 
-      # install glob
-      - uses: actions/checkout@v2
-        with:
-          repository: cdnjs/glob
-          path: ./glob
-      - run: cd ${{ github.workspace }}/glob && npm install
-
       - name: compute files
         id: files
         env:
-          DOCKER_IMAGE: ghcr.io/cdnjs/tools:c24712f836002d9b8ad074efa46afa4e1db6be66c
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mapfile -d '' files < <(
