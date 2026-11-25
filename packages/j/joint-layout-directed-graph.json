@@ -1,0 +1,47 @@
+{
+  "name": "joint-layout-directed-graph",
+  "description": "Directed graph auto-layout module for JointJS, built on dagre",
+  "keywords": [
+    "jointjs",
+    "joint",
+    "layout",
+    "directed-graph",
+    "dagre",
+    "diagram",
+    "graph"
+  ],
+  "license": "MPL-2.0",
+  "homepage": "https://jointjs.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clientIO/joint.git"
+  },
+  "filename": "DirectedGraph.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@joint/layout-directed-graph",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "DirectedGraph.js",
+          "DirectedGraph.min.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "DirectedGraph.d.ts"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "client IO"
+    }
+  ]
+}
