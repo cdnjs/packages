@@ -1,0 +1,25 @@
+{
+    "name": "a-happy-tyler",
+    "description": "Tyler is happy. Be like Tyler.",
+    "keywords": [
+        "tyler"
+    ],
+    "filename": "happy.js",
+    "homepage": "https://github.com/tc80",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/tc80/a-happy-tyler.git"
+    },
+    "autoupdate": {
+        "source": "git",
+        "target": "git://github.com/tc80/a-happy-tyler.git",
+        "fileMap": [
+            {
+                "basePath": "src",
+                "files": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}

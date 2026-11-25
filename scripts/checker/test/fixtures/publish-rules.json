@@ -1,0 +1,578 @@
+{
+  "description": "Cases the cdnjs auto-update and scripts/checker must agree on. files: tarball entry names and the files published from them. ignoreVersions: versions each list ignores and keeps, as recorded with gobwas/glob v0.2.3.",
+  "files": [
+    {
+      "name": "extglob alternatives and negation (dayjs)",
+      "pkg": {
+        "autoupdate": {
+          "fileMap": [
+            {
+              "basePath": "",
+              "files": ["dayjs*", "+(locale|plugin)/!(*.ts)"]
+            }
+          ]
+        }
+      },
+      "entries": [
+        "package/dayjs.min.js",
+        "package/locale/fr.js",
+        "package/locale/fr.d.ts",
+        "package/plugin/utc.js",
+        "package/esm/index.js",
+        "package/package.json"
+      ],
+      "published": ["dayjs.min.js", "locale/fr.js", "locale/fr.min.js", "plugin/utc.js", "plugin/utc.min.js"]
+    },
+    {
+      "name": "basePath is removed",
+      "pkg": {
+        "autoupdate": {
+          "fileMap": [
+            {
+              "basePath": "dist",
+              "files": ["*.js", "utils/*.js"]
+            }
+          ]
+        }
+      },
+      "entries": [
+        "package/dist/function-plot.js",
+        "package/dist/utils/plotter.js",
+        "package/index.js",
+        "package/dist/deep/x/y.js"
+      ],
+      "published": ["function-plot.js", "function-plot.min.js", "utils/plotter.js", "utils/plotter.min.js"]
+    },
+    {
+      "name": "the top directory of a git tarball is removed",
+      "pkg": {
+        "autoupdate": {
+          "fileMap": [
+            {
+              "basePath": "lib",
+              "files": ["*.js"]
+            }
+          ]
+        }
+      },
+      "entries": [
+        "mikehostetler-amplify-0123abc/lib/amplify.js",
+        "mikehostetler-amplify-0123abc/lib/amplify.min.js",
+        "mikehostetler-amplify-0123abc/src/amplify.js"
+      ],
+      "published": ["amplify.js", "amplify.min.js"]
+    },
+    {
+      "name": "globstar matches nested files, star does not match a leading dot",
+      "pkg": {
+        "autoupdate": {
+          "fileMap": [
+            {
+              "basePath": "dist",
+              "files": ["**/*.css"]
+            }
+          ]
+        }
+      },
+      "entries": [
+        "package/dist/a.css",
+        "package/dist/themes/dark/b.css",
+        "package/dist/.hidden.css",
+        "package/dist/.cache/c.css"
+      ],
+      "published": ["a.css", "a.min.css", "themes/dark/b.css", "themes/dark/b.min.css"]
+    },
+    {
+      "name": "a dotfile named exactly is matched",
+      "pkg": {
+        "autoupdate": {
+          "fileMap": [
+            {
+              "basePath": "",
+              "files": [".eslintrc.json"]
+            }
+          ]
+        }
+      },
+      "entries": ["package/.eslintrc.json"],
+      "published": [".eslintrc.json"]
+    },
+    {
+      "name": "the first matching glob decides the basePath",
+      "pkg": {
+        "autoupdate": {
+          "fileMap": [
+            {
+              "basePath": "dist",
+              "files": ["*.js"]
+            },
+            {
+              "basePath": "",
+              "files": ["dist/*.js", "LICENSE"]
+            }
+          ]
+        }
+      },
+      "entries": ["package/dist/x.js", "package/LICENSE"],
+      "published": ["LICENSE", "x.js", "x.min.js"]
+    },
+    {
+      "name": "only the first occurrence of basePath is removed",
+      "pkg": {
+        "autoupdate": {
+          "fileMap": [
+            {
+              "basePath": "js",
+              "files": ["**/*.js"]
+            }
+          ]
+        }
+      },
+      "entries": ["package/js/js/a.js"],
+      "published": ["js/a.js", "js/a.min.js"]
+    },
+    {
+      "name": "a minified copy the tarball ships is listed once",
+      "pkg": {
+        "autoupdate": {
+          "fileMap": [
+            {
+              "basePath": "",
+              "files": ["*.js", "*.css"]
+            }
+          ]
+        }
+      },
+      "entries": ["package/a.js", "package/a.min.js", "package/b.css", "package/b.min.css"],
+      "published": ["a.js", "a.min.js", "b.css", "b.min.css"]
+    },
+    {
+      "name": "optimization false disables minified copies per type",
+      "pkg": {
+        "autoupdate": {
+          "fileMap": [
+            {
+              "basePath": "",
+              "files": ["*"]
+            }
+          ]
+        },
+        "optimization": {
+          "js": false,
+          "png": false
+        }
+      },
+      "entries": ["package/a.js", "package/b.css", "package/c.png", "package/d.mjs", "package/e.json"],
+      "published": ["a.js", "b.css", "b.min.css", "c.png", "d.mjs", "e.json"]
+    },
+    {
+      "name": "extensions match case-insensitively and keep their case",
+      "pkg": {
+        "autoupdate": {
+          "fileMap": [
+            {
+              "basePath": "",
+              "files": ["*.*"]
+            }
+          ]
+        }
+      },
+      "entries": ["package/A.JS", "package/B.Min.Css", "package/C.CSS"],
+      "published": ["A.JS", "A.min.JS", "B.Min.Css", "C.CSS", "C.min.CSS"]
+    },
+    {
+      "name": "only .js and .css get a minified copy",
+      "pkg": {
+        "autoupdate": {
+          "fileMap": [
+            {
+              "basePath": "",
+              "files": ["*"]
+            }
+          ]
+        }
+      },
+      "entries": ["package/a.mjs", "package/b.cjs", "package/c.ts", "package/d.scss", "package/e.js.map"],
+      "published": ["a.mjs", "b.cjs", "c.ts", "d.scss", "e.js.map"]
+    },
+    {
+      "name": "a name without a directory is matched whole",
+      "pkg": {
+        "autoupdate": {
+          "fileMap": [
+            {
+              "basePath": "",
+              "files": ["*.js"]
+            }
+          ]
+        }
+      },
+      "entries": ["loose.js"],
+      "published": ["loose.js", "loose.min.js"]
+    },
+    {
+      "name": "parent directory segments do not match a glob",
+      "pkg": {
+        "autoupdate": {
+          "fileMap": [
+            {
+              "basePath": "dist",
+              "files": ["**/*.js"]
+            }
+          ]
+        }
+      },
+      "entries": ["package/dist/../../glob/index.js", "package/dist/ok.js"],
+      "published": ["ok.js", "ok.min.js"]
+    }
+  ],
+  "ignoreVersions": [
+    {
+      "name": "react-mdl",
+      "ignoreVersions": ["0.*", "1.0.[0-1]"],
+      "ignored": [],
+      "kept": ["1.0.2"]
+    },
+    {
+      "name": "react-data-grid",
+      "ignoreVersions": ["*-*", "*-alpha*", "*-dm*"],
+      "ignored": ["0.12.15-alpha1", "0.14.24-dm-scroll-filter-cells1198"],
+      "kept": []
+    },
+    {
+      "name": "react-dom",
+      "ignoreVersions": ["*-alpha.*[a-z]*", "0.0.0-*"],
+      "ignored": ["16.4.0-alpha.0911da3"],
+      "kept": ["18.0.0-alpha-46a0f050a-20210828"]
+    },
+    {
+      "name": "uikit",
+      "ignoreVersions": ["*-dev.*"],
+      "ignored": ["3.0.0-dev.aa6eba7"],
+      "kept": []
+    },
+    {
+      "name": "randomcolor",
+      "ignoreVersions": ["0.2"],
+      "ignored": [],
+      "kept": ["0.2.0"]
+    },
+    {
+      "name": "rrssb",
+      "ignoreVersions": ["1.75", "1.76"],
+      "ignored": [],
+      "kept": ["v1.75"]
+    },
+    {
+      "name": "inferno-create-element",
+      "ignoreVersions": ["*-alpha.*"],
+      "ignored": ["1.4.1-alpha.5a4983fd"],
+      "kept": []
+    },
+    {
+      "name": "react-grid-layout",
+      "ignoreVersions": ["0.8.0", "0.[0-7].*"],
+      "ignored": [],
+      "kept": ["v0.13.9"]
+    },
+    {
+      "name": "URI.js",
+      "ignoreVersions": ["v.1*"],
+      "ignored": [],
+      "kept": ["v1.19.11"]
+    },
+    {
+      "name": "imgareaselect",
+      "ignoreVersions": ["0.9.11-rc.1"],
+      "ignored": [],
+      "kept": ["v0.9.11-rc.1"]
+    },
+    {
+      "name": "typebase.css",
+      "ignoreVersions": ["0.5"],
+      "ignored": [],
+      "kept": ["v0.5.1"]
+    },
+    {
+      "name": "interactive-data-display",
+      "ignoreVersions": ["*build*", "1.0.1-DomTracking"],
+      "ignored": ["build-9b3ed1418c1841c3fec1"],
+      "kept": ["v1.0.1-DomTracking"]
+    },
+    {
+      "name": "typescript",
+      "ignoreVersions": ["*dev*", "*insiders*"],
+      "ignored": ["1.6.0-dev.20150722.1", "2.0.6-insiders.20161007"],
+      "kept": []
+    },
+    {
+      "name": "tailwindplus-elements",
+      "ignoreVersions": ["*insiders*"],
+      "ignored": ["0.0.0-insiders.1ebce10"],
+      "kept": []
+    },
+    {
+      "name": "single-spa",
+      "ignoreVersions": ["[12].*"],
+      "ignored": [],
+      "kept": ["3.0.1"]
+    },
+    {
+      "name": "slim.js",
+      "ignoreVersions": ["1.*", "2.[0-5].*"],
+      "ignored": [],
+      "kept": ["2.6.1", "3.2.0"]
+    },
+    {
+      "name": "aui",
+      "ignoreVersions": ["*do-not-use"],
+      "ignored": ["0.0.5-9-0-snapshot-050-do-not-use"],
+      "kept": []
+    },
+    {
+      "name": "social-likes",
+      "ignoreVersions": ["path"],
+      "ignored": [],
+      "kept": ["vpath"]
+    },
+    {
+      "name": "axe-core",
+      "ignoreVersions": ["*-canary.*"],
+      "ignored": ["3.0.3-canary.c2d290c"],
+      "kept": []
+    },
+    {
+      "name": "aspnet-signalr",
+      "ignoreVersions": ["*-rc*"],
+      "ignored": ["1.0.0-rc1-final"],
+      "kept": []
+    },
+    {
+      "name": "angular-ui-router",
+      "ignoreVersions": ["*-SNAPSHOT*"],
+      "ignored": ["1.0.5-SNAPSHOT.20170711"],
+      "kept": []
+    },
+    {
+      "name": "appbase-js",
+      "ignoreVersions": ["1.0.0"],
+      "ignored": [],
+      "kept": ["1.0.0-alpha-01"]
+    },
+    {
+      "name": "angular-mocks",
+      "ignoreVersions": ["*-build.*"],
+      "ignored": ["1.3.4-build.3588"],
+      "kept": []
+    },
+    {
+      "name": "angular-gantt",
+      "ignoreVersions": [".0.6.1"],
+      "ignored": [],
+      "kept": ["v0.6.1"]
+    },
+    {
+      "name": "swagger-ui",
+      "ignoreVersions": ["v"],
+      "ignored": [],
+      "kept": ["v5.34.1"]
+    },
+    {
+      "name": "avalon.js",
+      "ignoreVersions": ["ms_controller_fix", "2.1.16ee", "before-rebuild-strategy", "dynamic_detect"],
+      "ignored": [],
+      "kept": ["v2.1.16ee"]
+    },
+    {
+      "name": "fpo",
+      "ignoreVersions": ["[3-5].*"],
+      "ignored": [],
+      "kept": ["2.3.0"]
+    },
+    {
+      "name": "flexslider",
+      "ignoreVersions": ["version"],
+      "ignored": [],
+      "kept": ["version/2.5.0"]
+    },
+    {
+      "name": "octicons",
+      "ignoreVersions": ["*-alpha.*", "*-rc.*", "0.0.0-*"],
+      "ignored": ["7.1.0-alpha.5db5aa3e", "8.4.0-rc.664d0db92"],
+      "kept": []
+    },
+    {
+      "name": "mobx",
+      "ignoreVersions": ["*albert*", "*fix*"],
+      "ignored": ["2.3.6-albert", "2.3.4-iosfix"],
+      "kept": []
+    },
+    {
+      "name": "mobx-react",
+      "ignoreVersions": ["*-fix*", "*-observableprops*"],
+      "ignored": ["3.5.0-fix85", "3.5.8-observableprops"],
+      "kept": []
+    },
+    {
+      "name": "material-design-icons",
+      "ignoreVersions": ["2.0"],
+      "ignored": [],
+      "kept": ["2.2.0"]
+    },
+    {
+      "name": "min",
+      "ignoreVersions": ["1.5"],
+      "ignored": [],
+      "kept": ["v1.5"]
+    },
+    {
+      "name": "messenger",
+      "ignoreVersions": [".1.5.0"],
+      "ignored": [],
+      "kept": ["v1.5.0"]
+    },
+    {
+      "name": "mini.css",
+      "ignoreVersions": ["3.0.0-alpha.3"],
+      "ignored": [],
+      "kept": ["v3.0.0-alpha.3"]
+    },
+    {
+      "name": "jsmediatags",
+      "ignoreVersions": [".3.2.0", "delete"],
+      "ignored": [],
+      "kept": ["v3.2.0"]
+    },
+    {
+      "name": "jquery.ime",
+      "ignoreVersions": ["1.0.0+20131229"],
+      "ignored": ["1.0.0+20131229"],
+      "kept": []
+    },
+    {
+      "name": "jquery-form-validator",
+      "ignoreVersions": ["2.2"],
+      "ignored": [],
+      "kept": ["2.2.81"]
+    },
+    {
+      "name": "clone",
+      "ignoreVersions": ["0.1.*"],
+      "ignored": [],
+      "kept": ["0.0.1"]
+    },
+    {
+      "name": "js-scrypt",
+      "ignoreVersions": ["1.1.0"],
+      "ignored": [],
+      "kept": ["v1.1.0"]
+    },
+    {
+      "name": "clarity-icons",
+      "ignoreVersions": ["*-dev*"],
+      "ignored": ["0.7.5-dev"],
+      "kept": []
+    },
+    {
+      "name": "colresizable",
+      "ignoreVersions": ["1.6"],
+      "ignored": [],
+      "kept": ["1.6.0"]
+    },
+    {
+      "name": "v-mask",
+      "ignoreVersions": ["1.[0-2].*"],
+      "ignored": [],
+      "kept": ["v2.1.0"]
+    },
+    {
+      "name": "vue-lazyload",
+      "ignoreVersions": ["0.*", "1.0.0-*"],
+      "ignored": [],
+      "kept": ["1.0.0"]
+    },
+    {
+      "name": "device.js",
+      "ignoreVersions": ["0.1.16"],
+      "ignored": [],
+      "kept": ["v0.1.16"]
+    },
+    {
+      "name": "brython",
+      "ignoreVersions": ["3.2.*"],
+      "ignored": [],
+      "kept": ["3.3.2"]
+    },
+    {
+      "name": "bPopup",
+      "ignoreVersions": ["*b*", "ver*"],
+      "ignored": ["v0.9.2+build.2"],
+      "kept": []
+    },
+    {
+      "name": "elfinder",
+      "ignoreVersions": ["*-src"],
+      "ignored": ["2.1.70-src"],
+      "kept": []
+    },
+    {
+      "name": "LoadGo",
+      "ignoreVersions": ["1.0"],
+      "ignored": [],
+      "kept": ["v3.1.0"]
+    },
+    {
+      "name": "loadCSS",
+      "ignoreVersions": ["2.0.0-[2-4]"],
+      "ignored": [],
+      "kept": ["v2.0.0-4"]
+    },
+    {
+      "name": "postgrest-client",
+      "ignoreVersions": ["1.0.*"],
+      "ignored": [],
+      "kept": ["1.1.0"]
+    },
+    {
+      "name": "plottable.js",
+      "ignoreVersions": ["*-dev-*", "*-hover-tooltip*", "3.0.0-*-g*", "v.0.18.0", "v.2.4.1"],
+      "ignored": ["3.1.0-dev-2-g7f3bc587"],
+      "kept": ["3.0.0-beta.1"]
+    },
+    {
+      "name": "browser-logos",
+      "ignoreVersions": ["[a-z]*"],
+      "ignored": [],
+      "kept": ["75.0.1"]
+    },
+    {
+      "name": "webvr-polyfill",
+      "ignoreVersions": ["0.[0-9].*", "1.0.0"],
+      "ignored": [],
+      "kept": ["0.10.0"]
+    },
+    {
+      "name": "winjs",
+      "ignoreVersions": ["release"],
+      "ignored": [],
+      "kept": ["release/4.0.0-preview"]
+    },
+    {
+      "name": "lodash.js",
+      "ignoreVersions": ["*-es", "*-npm"],
+      "ignored": ["4.18.1-es", "4.18.1-npm"],
+      "kept": []
+    },
+    {
+      "name": "angular-material",
+      "ignoreVersions": [
+        "*-master-*",
+        "0.0.2-6071305",
+        "0.0.2-ca7793d",
+        "0.0.2-e59e064cd0e19d841e9c252f973a9eb7e87543a2"
+      ],
+      "ignored": ["v1.2.5-master-0b55529"],
+      "kept": ["v0.0.2-6071305", "v0.0.2-ca7793d", "v0.0.2-e59e064cd0e19d841e9c252f973a9eb7e87543a2"]
+    }
+  ]
+}

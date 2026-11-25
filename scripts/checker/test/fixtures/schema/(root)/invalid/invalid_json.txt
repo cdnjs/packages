@@ -1,0 +1,1 @@
+{This is invalid JSON. Note that this is a .txt file to avoid VSCode from freaking out.}

@@ -1,0 +1,453 @@
+[
+  {
+    "file": "(root)/invalid/additional_properties.json",
+    "errors": [
+      "(root): Additional property author is not allowed",
+      "(root): Additional property licenses is not allowed",
+      "(root): Additional property my_custom_property is not allowed"
+    ]
+  },
+  {
+    "file": "(root)/invalid/invalid_json.txt",
+    "invalidJSON": true,
+    "errors": []
+  },
+  {
+    "file": "(root)/valid/all_properties.json",
+    "errors": []
+  },
+  {
+    "file": "(root)/valid/only_required_properties.json",
+    "errors": []
+  },
+  {
+    "file": "authors/invalid/additional_property.json",
+    "errors": [
+      "authors.0: Additional property github is not allowed"
+    ]
+  },
+  {
+    "file": "authors/invalid/duplicate_authors.json",
+    "errors": [
+      "authors: array items[0,1] must be unique"
+    ]
+  },
+  {
+    "file": "authors/invalid/empty_array.json",
+    "errors": [
+      "authors: Array must have at least 1 items"
+    ]
+  },
+  {
+    "file": "authors/invalid/empty_author_object.json",
+    "errors": [
+      "authors.0: name is required"
+    ]
+  },
+  {
+    "file": "authors/invalid/empty_email.json",
+    "errors": [
+      "authors.0.email: String length must be greater than or equal to 1"
+    ]
+  },
+  {
+    "file": "authors/invalid/empty_name.json",
+    "errors": [
+      "authors.0.name: String length must be greater than or equal to 1"
+    ]
+  },
+  {
+    "file": "authors/invalid/empty_url.json",
+    "errors": [
+      "authors.0.url: String length must be greater than or equal to 1"
+    ]
+  },
+  {
+    "file": "authors/invalid/one_author_no_name.json",
+    "errors": [
+      "authors.0: name is required"
+    ]
+  },
+  {
+    "file": "authors/valid/missing_authors.json",
+    "errors": []
+  },
+  {
+    "file": "authors/valid/missing_email.json",
+    "errors": []
+  },
+  {
+    "file": "authors/valid/missing_url.json",
+    "errors": []
+  },
+  {
+    "file": "authors/valid/multiple_authors.json",
+    "errors": []
+  },
+  {
+    "file": "authors/valid/one_author.json",
+    "errors": []
+  },
+  {
+    "file": "autoupdate/invalid/additional_properties.json",
+    "errors": [
+      "autoupdate.fileMap.0: Additional property directory is not allowed",
+      "autoupdate: Additional property repo is not allowed"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/duplicate_filemap.json",
+    "errors": [
+      "autoupdate.fileMap: array items[0,1] must be unique"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/duplicate_files.json",
+    "errors": [
+      "autoupdate.fileMap.0.files: array items[0,1] must be unique"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/empty_file.json",
+    "errors": [
+      "autoupdate.fileMap.0.files.0: String length must be greater than or equal to 1"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/empty_filemap.json",
+    "errors": [
+      "autoupdate.fileMap: Array must have at least 1 items"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/empty_files.json",
+    "errors": [
+      "autoupdate.fileMap.0.files: Array must have at least 1 items"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/empty_source.json",
+    "errors": [
+      "autoupdate.source: Does not match pattern '^git|npm$'"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/empty_target.json",
+    "errors": [
+      "autoupdate.target: String length must be greater than or equal to 1"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/ignore_versions_duplicate.json",
+    "errors": [
+      "autoupdate.ignoreVersions: array items[0,1] must be unique"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/ignore_versions_empty.json",
+    "errors": [
+      "autoupdate.ignoreVersions.0: String length must be greater than or equal to 1"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/ignore_versions_not_array.json",
+    "errors": [
+      "autoupdate.ignoreVersions: Invalid type. Expected: array, given: string"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/missing_autoupdate.json",
+    "errors": [
+      "(root): autoupdate is required"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/missing_basepath.json",
+    "errors": [
+      "autoupdate.fileMap.0: basePath is required"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/missing_filemap.json",
+    "errors": [
+      "autoupdate: fileMap is required"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/missing_files.json",
+    "errors": [
+      "autoupdate.fileMap.0: files is required"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/missing_source.json",
+    "errors": [
+      "autoupdate: source is required"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/missing_target.json",
+    "errors": [
+      "autoupdate: target is required"
+    ]
+  },
+  {
+    "file": "autoupdate/invalid/source_svn.json",
+    "errors": [
+      "autoupdate.source: Does not match pattern '^git|npm$'"
+    ]
+  },
+  {
+    "file": "autoupdate/valid/empty_basepath.json",
+    "errors": []
+  },
+  {
+    "file": "autoupdate/valid/ignore_versions.json",
+    "errors": []
+  },
+  {
+    "file": "autoupdate/valid/multiple_filemaps.json",
+    "errors": []
+  },
+  {
+    "file": "autoupdate/valid/multiple_files.json",
+    "errors": []
+  },
+  {
+    "file": "autoupdate/valid/source_git.json",
+    "errors": []
+  },
+  {
+    "file": "autoupdate/valid/source_npm.json",
+    "errors": []
+  },
+  {
+    "file": "description/invalid/empty_description.json",
+    "errors": [
+      "description: String length must be greater than or equal to 1"
+    ]
+  },
+  {
+    "file": "description/invalid/missing_description.json",
+    "errors": [
+      "(root): description is required"
+    ]
+  },
+  {
+    "file": "description/valid/valid_description.json",
+    "errors": []
+  },
+  {
+    "file": "filename/invalid/empty_filename.json",
+    "errors": [
+      "filename: String length must be greater than or equal to 1"
+    ]
+  },
+  {
+    "file": "filename/valid/missing_filename.json",
+    "errors": []
+  },
+  {
+    "file": "filename/valid/valid_filename.json",
+    "errors": []
+  },
+  {
+    "file": "homepage/invalid/empty_homepage.json",
+    "errors": [
+      "homepage: String length must be greater than or equal to 1"
+    ]
+  },
+  {
+    "file": "homepage/valid/missing_homepage.json",
+    "errors": []
+  },
+  {
+    "file": "homepage/valid/valid_homepage.json",
+    "errors": []
+  },
+  {
+    "file": "keywords/invalid/duplicate_keywords.json",
+    "errors": [
+      "keywords: array items[0,1] must be unique"
+    ]
+  },
+  {
+    "file": "keywords/invalid/empty_keyword.json",
+    "errors": [
+      "keywords.0: String length must be greater than or equal to 1"
+    ]
+  },
+  {
+    "file": "keywords/invalid/empty_keywords.json",
+    "errors": [
+      "keywords: Array must have at least 1 items"
+    ]
+  },
+  {
+    "file": "keywords/invalid/missing_keywords.json",
+    "errors": [
+      "(root): keywords is required"
+    ]
+  },
+  {
+    "file": "keywords/valid/multiple_keywords.json",
+    "errors": []
+  },
+  {
+    "file": "keywords/valid/one_keyword.json",
+    "errors": []
+  },
+  {
+    "file": "license/invalid/empty_license.json",
+    "errors": [
+      "license: Does not match pattern '^(\\(.+ (OR|AND) .+\\)|[a-zA-Z0-9-].*)$'"
+    ]
+  },
+  {
+    "file": "license/invalid/invalid_multiple_licenses.json",
+    "errors": [
+      "license: Does not match pattern '^(\\(.+ (OR|AND) .+\\)|[a-zA-Z0-9-].*)$'"
+    ]
+  },
+  {
+    "file": "license/invalid/invalid_single_license.json",
+    "errors": [
+      "license: Does not match pattern '^(\\(.+ (OR|AND) .+\\)|[a-zA-Z0-9-].*)$'"
+    ]
+  },
+  {
+    "file": "license/valid/many_licenses_and_or.json",
+    "errors": []
+  },
+  {
+    "file": "license/valid/many_licenses_or.json",
+    "errors": []
+  },
+  {
+    "file": "license/valid/missing_license.json",
+    "errors": []
+  },
+  {
+    "file": "license/valid/single_license.json",
+    "errors": []
+  },
+  {
+    "file": "license/valid/single_license_with_parentheses.json",
+    "errors": []
+  },
+  {
+    "file": "license/valid/two_licenses.json",
+    "errors": []
+  },
+  {
+    "file": "name/invalid/empty_name.json",
+    "errors": [
+      "name: Does not match pattern '^[a-zA-Z0-9._-]+$'"
+    ]
+  },
+  {
+    "file": "name/invalid/invalid_name.json",
+    "errors": [
+      "name: Does not match pattern '^[a-zA-Z0-9._-]+$'"
+    ]
+  },
+  {
+    "file": "name/invalid/missing_name.json",
+    "errors": [
+      "(root): name is required"
+    ]
+  },
+  {
+    "file": "name/valid/valid_name.json",
+    "errors": []
+  },
+  {
+    "file": "optimization/invalid/invalid_key.json",
+    "errors": [
+      "optimization: Additional property happy is not allowed"
+    ]
+  },
+  {
+    "file": "optimization/invalid/not_boolean.json",
+    "errors": [
+      "optimization.js: Invalid type. Expected: boolean, given: string"
+    ]
+  },
+  {
+    "file": "optimization/valid/all_fields.json",
+    "errors": []
+  },
+  {
+    "file": "optimization/valid/empty_optimization.json",
+    "errors": []
+  },
+  {
+    "file": "optimization/valid/js_only.json",
+    "errors": []
+  },
+  {
+    "file": "optimization/valid/no_optimization.json",
+    "errors": []
+  },
+  {
+    "file": "repository/invalid/additional_property.json",
+    "errors": [
+      "repository: Additional property custom_type is not allowed"
+    ]
+  },
+  {
+    "file": "repository/invalid/empty_repository.json",
+    "errors": [
+      "repository: type is required",
+      "repository: url is required"
+    ]
+  },
+  {
+    "file": "repository/invalid/empty_type.json",
+    "errors": [
+      "repository.type: Does not match pattern '^git|hg|svn$'"
+    ]
+  },
+  {
+    "file": "repository/invalid/empty_url.json",
+    "errors": [
+      "repository.url: String length must be greater than or equal to 1"
+    ]
+  },
+  {
+    "file": "repository/invalid/missing_repository.json",
+    "errors": [
+      "(root): repository is required"
+    ]
+  },
+  {
+    "file": "repository/invalid/missing_type.json",
+    "errors": [
+      "repository: type is required"
+    ]
+  },
+  {
+    "file": "repository/invalid/missing_url.json",
+    "errors": [
+      "repository: url is required"
+    ]
+  },
+  {
+    "file": "repository/invalid/type_npm.json",
+    "errors": [
+      "repository.type: Does not match pattern '^git|hg|svn$'"
+    ]
+  },
+  {
+    "file": "repository/valid/type_git.json",
+    "errors": []
+  },
+  {
+    "file": "repository/valid/type_hg.json",
+    "errors": []
+  },
+  {
+    "file": "repository/valid/type_svn.json",
+    "errors": []
+  }
+]

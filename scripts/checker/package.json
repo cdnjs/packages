@@ -1,0 +1,18 @@
+{
+  "name": "cdnjs-packages-checker",
+  "private": true,
+  "type": "module",
+  "description": "Checks package configs in pull requests to cdnjs/packages",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "ajv": "8.20.0",
+    "picomatch": "4.0.7",
+    "semver": "7.8.6",
+    "trotar": "1.5.1"
+  }
+}
