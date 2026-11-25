@@ -1,0 +1,32 @@
+{
+  "name": "helia-unixfs",
+  "description": "A Helia-compatible wrapper for UnixFS",
+  "keywords": [
+    "ipfs",
+    "libp2p",
+    "p2p",
+    "unixfs"
+  ],
+  "license": "Apache-2.0 OR MIT",
+  "homepage": "https://github.com/ipfs/helia/tree/main/packages/unixfs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipfs/helia.git"
+  },
+  "filename": "index.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@helia/unixfs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.min.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
