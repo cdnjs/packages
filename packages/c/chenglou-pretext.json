@@ -1,0 +1,32 @@
+{
+  "name": "chenglou-pretext",
+  "description": "Fast, accurate & comprehensive text measurement & layout",
+  "keywords": [
+    "text-layout",
+    "text-measurement",
+    "line-breaking",
+    "typography",
+    "canvas",
+    "svg",
+    "unicode"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/chenglou/pretext",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenglou/pretext.git"
+  },
+  "filename": "layout.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@chenglou/pretext",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.js"
+        ]
+      }
+    ]
+  }
+}
