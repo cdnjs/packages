@@ -1,0 +1,45 @@
+{
+  "name": "geoapify-geocoder-autocomplete",
+  "description": "A JavaScript address autocomplete input, compatible with Leaflet, MapLibre, OpenLayers, and other map libraries for efficient location search and geocoding.",
+  "keywords": [
+    "geocoding",
+    "address",
+    "autocomplete",
+    "search",
+    "street",
+    "city",
+    "country",
+    "state",
+    "amenity",
+    "location"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.geoapify.com/address-autocomplete",
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/geoapify/geocoder-autocomplete.git"
+  },
+  "filename": "dist/index.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@geoapify/geocoder-autocomplete",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "dist/index.min.js",
+          "dist/index.min.esm.js",
+          "styles/*.css"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Geoapify GmbH"
+    }
+  ]
+}
