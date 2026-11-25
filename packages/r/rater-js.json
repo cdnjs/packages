@@ -1,0 +1,46 @@
+{
+  "name": "rater-js",
+  "description": "Star rating widget for the browser.",
+  "keywords": [
+    "star",
+    "rating",
+    "rater",
+    "vote",
+    "rate",
+    "widget",
+    "browser",
+    "browserify",
+    "typescript"
+  ],
+  "license": "MIT",
+  "homepage": "https://fredolss.github.io/rater-js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredolss/rater-js.git"
+  },
+  "filename": "rater-js.iife.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "rater-js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "rater-js.iife.min.js",
+          "rater-js.esm.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Fredrik Olsson"
+    }
+  ]
+}
