@@ -1,0 +1,37 @@
+{
+  "name": "lucide",
+  "description": "A Lucide icon library package for web and javascript applications.",
+  "keywords": [
+    "Lucide",
+    "HTML",
+    "Feather",
+    "Icons",
+    "Icon",
+    "SVG",
+    "Feather Icons",
+    "Fontawesome",
+    "Font Awesome"
+  ],
+  "license": "ISC",
+  "homepage": "https://lucide.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucide-icons/lucide.git"
+  },
+  "filename": "lucide.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "lucide",
+    "fileMap": [
+      {
+        "basePath": "dist/umd",
+        "files": [
+          "lucide?(.min).js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
