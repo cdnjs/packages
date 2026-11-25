@@ -1,0 +1,39 @@
+{
+  "name": "classlesscss",
+  "description": "Classless.css: a lightweight CSS framework that styles plain semantic HTML5 tags without classes",
+  "keywords": [
+    "css",
+    "classless",
+    "css-framework",
+    "semantic-html",
+    "html5",
+    "minimal",
+    "theme"
+  ],
+  "license": "MIT",
+  "homepage": "https://classless.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emareg/classlesscss.git"
+  },
+  "filename": "classless.css",
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/emareg/classlesscss.git",
+    "fileMap": [
+      {
+        "basePath": "docs",
+        "files": [
+          "classless.css",
+          "classless-tiny.css",
+          "addons/*.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Emanuel Regnath"
+    }
+  ]
+}
