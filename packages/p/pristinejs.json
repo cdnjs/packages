@@ -1,0 +1,35 @@
+{
+  "name": "pristinejs",
+  "description": "A tiny vanilla javascript form validation library",
+  "keywords": [
+    "vanilla",
+    "form",
+    "validation",
+    "micro",
+    "tiny"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sha256/Pristine#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sha256/Pristine.git"
+  },
+  "filename": "pristine.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "pristinejs",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "pristine?(.min).js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Shamim Hasnath"
+    }
+  ]
+}
