@@ -1,4 +1,4 @@
-import { Readable } from 'node:stream'
+import { Readable, pipeline } from 'node:stream'
 import { createGunzip } from 'node:zlib'
 import { StreamingUSTarParser } from 'trotar'
 
@@ -21,7 +21,11 @@ export const listTarball = async (url, filter, { fetch }) => {
     names.push(name)
   })
 
-  for await (const chunk of Readable.fromWeb(res.body).pipe(createGunzip())) {
+  // pipeline, not pipe: a download cut off mid-body must reject the loop below, not crash the
+  // process with an unhandled 'error' event. The loop sees the error, so the callback ignores it.
+  const gunzip = createGunzip()
+  pipeline(Readable.fromWeb(res.body), gunzip, () => {})
+  for await (const chunk of gunzip) {
     // Wait for the parser: without it a pax or GNU long name at a chunk boundary is dropped.
     await parser.write(chunk)
   }

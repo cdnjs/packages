@@ -56,6 +56,20 @@ describe('listTarball', () => {
     await assert.rejects(listTarball(URL_, all, { fetch }))
   })
 
+  it('fails a download cut off mid-body instead of crashing', async () => {
+    const bytes = tarball([{ name: 'package/a.js', content: 'x'.repeat(20000) }])
+    const fetch = async () =>
+      new Response(
+        new ReadableStream({
+          start(controller) {
+            controller.enqueue(bytes.subarray(0, 500))
+            setTimeout(() => controller.error(new TypeError('terminated')), 10)
+          }
+        })
+      )
+    await assert.rejects(listTarball(URL_, all, { fetch }), /terminated/)
+  })
+
   it('fails a download that is not a 200', async () => {
     const { fetch } = fakeFetch({})
     await assert.rejects(listTarball(URL_, all, { fetch }), /HTTP 404 downloading/)
