@@ -1,25 +1,26 @@
 {
   "name": "simple-parallax-js",
-  "description": "simpleParallax is a simple JavaScript library that gives your website parallax animations on any images or videos",
+  "description": "A lightweight React & vanilla JavaScript library that adds a parallax effect to any image.",
   "keywords": [
+    "react",
+    "react-parallax",
+    "react-component",
     "parallax",
-    "javascript",
-    "scroll",
-    "simple",
-    "easy",
-    "fast",
-    "light",
+    "parallax-effect",
+    "parallax-scroll",
+    "parallax-image",
+    "scroll-animation",
+    "animation",
     "image",
-    "video",
-    "effect",
-    "vanilla",
-    "es6"
+    "typescript",
+    "vanilla-js",
+    "nextjs"
   ],
   "license": "MIT",
   "homepage": "https://simpleparallax.com/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geosigno/simpleParallax.git"
+    "url": "git+https://github.com/geosigno/simpleParallax.js.git"
   },
   "authors": [
     {
