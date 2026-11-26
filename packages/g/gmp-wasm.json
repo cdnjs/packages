@@ -1,0 +1,43 @@
+{
+  "name": "gmp-wasm",
+  "description": "Arbitrary-precision Integer, Rational and Float types based on the GMP and MPFR libraries",
+  "keywords": [
+    "gmp",
+    "mpfr",
+    "wasm",
+    "arbitrary",
+    "precision",
+    "multi",
+    "multiprecision",
+    "arithmetic",
+    "webassembly",
+    "fast"
+  ],
+  "license": "LGPL-3.0-only",
+  "homepage": "https://github.com/Daninet/gmp-wasm#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daninet/gmp-wasm.git"
+  },
+  "filename": "index.umd.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "gmp-wasm",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "@(index|mini).@(umd|esm)?(.min).js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Dani Biró"
+    }
+  ]
+}
