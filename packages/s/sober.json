@@ -1,0 +1,46 @@
+{
+  "name": "sober",
+  "description": "Sober is a library of UI components designed with reference to Material You.",
+  "keywords": [
+    "sober",
+    "material you",
+    "material design",
+    "web components",
+    "web",
+    "ui",
+    "ui library",
+    "vue",
+    "react",
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "https://soberjs.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apprat/sober.git"
+  },
+  "filename": "main.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "sober",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*.js"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "style/*.css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "apprat"
+    }
+  ]
+}
