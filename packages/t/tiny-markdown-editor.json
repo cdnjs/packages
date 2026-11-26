@@ -1,0 +1,34 @@
+{
+  "name": "tiny-markdown-editor",
+  "description": "TinyMDE: A tiny, ultra low dependency, embeddable HTML/JavaScript Markdown editor.",
+  "keywords": [
+    "embeddable",
+    "markdown",
+    "editor"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jefago/tiny-markdown-editor#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefago/tiny-markdown-editor.git"
+  },
+  "filename": "tiny-mde.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "tiny-markdown-editor",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "tiny-mde?(.min|.tiny).js",
+          "tiny-mde?(.min).css"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Jens-Fabian Goetzmann"
+    }
+  ]
+}
