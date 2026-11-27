@@ -1,0 +1,41 @@
+{
+  "name": "video-animation-player",
+  "description": "Tencent VAP web player: renders alpha-channel MP4 animations with WebGL, with optional image and text fusion.",
+  "keywords": [
+    "vap",
+    "video",
+    "animation",
+    "webgl",
+    "canvas",
+    "alpha",
+    "mp4"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Tencent/vap",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tencent/vap.git"
+  },
+  "filename": "vap.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "video-animation-player",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "vap.js",
+          "vap.min.js"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "hujinliang"
+    }
+  ]
+}
