@@ -1,0 +1,37 @@
+{
+  "name": "vue3-touch-events",
+  "description": "Touch events (tap, swipe, hold, drag, pinch) directive plugin for Vue 3",
+  "keywords": [
+    "vue",
+    "vue3",
+    "touch",
+    "tap",
+    "swipe",
+    "longtap",
+    "directive"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/robinrodricks/vue3-touch-events#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinrodricks/vue3-touch-events.git"
+  },
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "vue3-touch-events",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "index.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Robin Rodricks"
+    }
+  ]
+}
