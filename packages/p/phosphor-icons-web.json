@@ -1,0 +1,42 @@
+{
+  "name": "phosphor-icons-web",
+  "description": "Phosphor icon font for the web, with CSS classes in six weights (regular, thin, light, bold, fill, duotone)",
+  "keywords": [
+    "icons",
+    "icon-pack",
+    "web",
+    "html",
+    "css",
+    "svg",
+    "svg-icons",
+    "icon-font"
+  ],
+  "license": "MIT",
+  "homepage": "https://phosphoricons.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phosphor-icons/web.git"
+  },
+  "filename": "regular/style.css",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@phosphor-icons/web",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*/style.css",
+          "*/*.woff2",
+          "*/*.woff",
+          "*/*.ttf",
+          "*/*.svg"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "rektdeckard"
+    }
+  ]
+}
