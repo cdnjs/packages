@@ -1,0 +1,40 @@
+{
+  "name": "lit",
+  "description": "A library for building fast, lightweight web components",
+  "keywords": [
+    "lit",
+    "web-components",
+    "custom-elements",
+    "lit-html",
+    "lit-element",
+    "shadow-dom"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "https://lit.dev/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lit/lit.git"
+  },
+  "filename": "core/lit-core.min.js",
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/lit/dist.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "core/lit-core.min.js*",
+          "all/lit-all.min.js*"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  },
+  "authors": [
+    {
+      "name": "Google LLC"
+    }
+  ]
+}
