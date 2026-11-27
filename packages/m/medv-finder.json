@@ -1,0 +1,33 @@
+{
+  "name": "medv-finder",
+  "description": "CSS Selector Generator",
+  "keywords": [
+    "css",
+    "selector",
+    "generator"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/antonmedv/finder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonmedv/finder.git"
+  },
+  "filename": "finder.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@medv/finder",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "finder.js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Anton Medvedev"
+    }
+  ]
+}
