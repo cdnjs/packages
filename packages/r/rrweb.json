@@ -1,0 +1,44 @@
+{
+  "name": "rrweb",
+  "description": "record and replay the web",
+  "keywords": [
+    "devtools",
+    "product-analytics",
+    "real-user-monitoring",
+    "rrweb"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rrweb-io/rrweb#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rrweb-io/rrweb.git"
+  },
+  "filename": "rrweb.min.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "rrweb",
+    "fileMap": [
+      {
+        "basePath": "umd",
+        "files": [
+          "rrweb?(.min).js"
+        ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "style?(.min).css"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false,
+    "css": false
+  },
+  "authors": [
+    {
+      "name": "rrweb Core Team"
+    }
+  ]
+}
