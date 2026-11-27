@@ -1,0 +1,43 @@
+{
+  "name": "sal.js",
+  "description": "Performance focused, lightweight scroll animation library",
+  "keywords": [
+    "scroll",
+    "animation",
+    "animate on scroll",
+    "intersection observer",
+    "performance",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mciastek/sal#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mciastek/sal.git"
+  },
+  "filename": "sal.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "sal.js",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "sal.js",
+          "sal.js.map",
+          "sal.css",
+          "sal.css.map"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false,
+    "css": false
+  },
+  "authors": [
+    {
+      "name": "Mirek Ciastek"
+    }
+  ]
+}
