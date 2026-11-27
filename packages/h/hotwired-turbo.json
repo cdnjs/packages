@@ -1,0 +1,34 @@
+{
+  "name": "hotwired-turbo",
+  "description": "The speed of a single-page web application without having to write any JavaScript",
+  "keywords": [
+    "hotwire",
+    "turbo",
+    "browser",
+    "pushstate"
+  ],
+  "license": "MIT",
+  "homepage": "https://turbo.hotwired.dev/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotwired/turbo.git"
+  },
+  "filename": "turbo.es2017-umd.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "@hotwired/turbo",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "turbo.es2017-@(umd|esm).js"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "37signals LLC"
+    }
+  ]
+}
