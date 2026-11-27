@@ -1,0 +1,49 @@
+{
+  "name": "qrdx",
+  "description": "Styled QR codes as SVG: dot and eye patterns, gradients, logos and frames, with a <qrdx-code> web component and PNG, SVG and PDF export",
+  "keywords": [
+    "qr",
+    "qrcode",
+    "qr-code",
+    "qr-code-generator",
+    "svg",
+    "web-component",
+    "custom-element"
+  ],
+  "authors": [
+    {
+      "name": "Ritesh Bucha"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://qrdx.dev/docs/web-component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qrdxinc/qrdx.git"
+  },
+  "filename": "element-define.browser.mjs",
+  "autoupdate": {
+    "source": "npm",
+    "target": "qrdx",
+    "fileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "element-define.browser.mjs",
+          "element-define.browser.mjs.map",
+          "element.browser.mjs",
+          "element.browser.mjs.map",
+          "vanilla.browser.mjs",
+          "vanilla.browser.mjs.map",
+          "frames-official.mjs",
+          "frames-official.mjs.map",
+          "frames-index.mjs",
+          "frames-index.mjs.map"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false
+  }
+}
