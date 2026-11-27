@@ -1,0 +1,45 @@
+{
+  "name": "vanilla-calendar-pro",
+  "description": "Dependency-free JavaScript date and time picker",
+  "keywords": [
+    "calendar",
+    "datepicker",
+    "timepicker",
+    "date-picker",
+    "vanilla-js",
+    "javascript",
+    "typescript"
+  ],
+  "license": "MIT",
+  "homepage": "https://vanilla-calendar.pro",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uvarov-frontend/vanilla-calendar-pro.git"
+  },
+  "filename": "index.js",
+  "autoupdate": {
+    "source": "npm",
+    "target": "vanilla-calendar-pro",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "index.js",
+          "index.mjs",
+          "utils/index.js",
+          "utils/index.mjs",
+          "styles/**/*.css"
+        ]
+      }
+    ]
+  },
+  "optimization": {
+    "js": false,
+    "css": false
+  },
+  "authors": [
+    {
+      "name": "Yury Uvarov"
+    }
+  ]
+}
